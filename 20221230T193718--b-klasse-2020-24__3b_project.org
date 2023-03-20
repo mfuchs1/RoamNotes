@@ -1,0 +1,177 @@
+#+title:      B Klasse 2020-24
+#+date:       [2022-12-30 Fr 19:37]
+#+filetags:   :3b:Project:
+#+identifier: 20221230T193718
+#+CATEGORY: golling
+
+
+#* 3b 09:35-10:25
+#<%%(org-class 2022 9 12 2023 7 3 1)>
+
+[[denote:20230312T093141][[SW27] Franz Jägerstätter]]
+
+* 3b 08:40-09:30
+<%%(org-class 2022 9 15 2023 7 6 4)>
+
+YouCat Studyguide
+[[https://www.youcat.org/de/produkte/youcat/#youcat-additional-materials]]
+
+Joh 4 - Bibelarbeit
+Passendes Video: The Chosen - 2. Staffel
+
+* Reflexionen
+
+** [[denote:20221226T113745][Dialog zw Theologie und Naturwissenschaften]]
+PERIOD: [2023-02-02 Do 08:40]
+
+Diese Stunde war echt grausam - fast die gesamte Klasse, va die Burschen haben mich komplett ingnoriert. Als ich "endlich" die Stimme erhob, haben sich ein paar der Burschen diebisch darüber gefreut (ist das nicht dämonisch?). Die Stunden in dieser Klasse lassen mich jedesmal erschöpft zurück.
+
+Mit Manuela Gruber haben wir darüber gesprochen. Die Kinder werden pro Jahrgang nicht braver, eher schlimmer. Ich muss auf mich schauen - so viele Lehrer geben erschöpft und ausgebrannt auf. Deshalb: schau auf dich, damit dir dies nicht passiert. An manchen Tagen kann Manuela mir helfen, sie wird dann draußen sitzen und jene Schüler abfangen, die ich hinausschicke.
+
+** Reaktion von Florian Steiner's Mutter über SchoolFox
+Verhalten von Florian hat sich eben nicht verbessert.
+Und daher ist auch die Note (3) gerechtfertigt.
+Alle Burschen - auch Florian - haben verstanden, dass sie sich ihre Note durch ein besseres Verhalten und bessere Mitarbeit im Unterricht verbessern können.
+
+
+* 3B [KV Erwin Essl]
+
+#+Name: 2021-students
+| First      | Last         | Name                  | Note | Mitarbeit | Heft | LZK |
+|------------+--------------+-----------------------+------+-----------+------+-----|
+| Maximilian | Fischhofer   | [[MaximilianFischhofer][Maximilian Fischhofer]] |      |           |      |     |
+| Hannah     | Höllbacher   | [[HannahHöllbacher][Hannah Höllbacher]]     |      |           |      |     |
+| Leon       | Keser        | [[LeonKeser][Leon Keser]]            |      |           |      |     |
+| Thomas     | Krallinger   | [[ThomasKrallinger][Thomas Krallinger]]     |      |           |      |     |
+| Fabian     | Lienbacher   | [[FabianLienbacher][Fabian Lienbacher]]     |      |           |      |     |
+| Lena       | Malter       | [[LenaMalter][Lena Malter]]           |      |           |      |     |
+| Sophia     | Mayr         | [[SophiaMayr][Sophia Mayr]]           |      |           |      |     |
+| Florian    | Peroutka     | [[FlorianPeroutka][Florian Peroutka]]      |      |           |      |     |
+| Andreas    | Rußegger     | [[AndreasRußegger][Andreas Rußegger]]      |      |           |      |     |
+| Valerie    | Schönauer    | [[ValerieSchönauer][Valerie Schönauer]]     |      |           |      |     |
+| Marlene    | Seidl        | [[MarleneSeidl][Marlene Seidl]]         |      |           |      |     |
+| Anna       | Spitzelseder | [[AnnaSpitzelseder][Anna Spitzelseder]]     |      |           |      |     |
+| Florian    | Steiner      | [[FlorianSteiner][Florian Steiner]]       |      |           |      |     |
+| Karin      | Struber      | [[KarinStruber][Karin Struber]]         |      |           |      |     |
+| Lukas      | Wagenhofer   | [[LukasWagenhofer][Lukas Wagenhofer]]      |      |           |      |     |
+#+TBLFM: $4=vmean($5..$>)
+#+TBLFM: $3='(concat "[[" $1 $2 "][" $1 " " $2 "]]")
+#+TBLFM: $4='(identity remote(2021-22-Mitarbeit,@@#$4))
+
+#+BEGIN_SRC python :var table=2021-students :results output raw
+print('* Mitarbeit')
+for student in table:
+    first = student[0]
+    last = student[1]
+    email = first + '.' + last + '@golling.schule'
+    print('** ' + first + last + '\n\n')
+#+END_SRC
+
+#+RESULTS:
+* Mitarbeit
+** MaximilianFischhofer
+
+*** Link zur UE: [[file:~/RoamNotes/main/03_Golling.org::#Herbstferien3][file:~/RoamNotes/main/03_Golling.org::#Herbstferien3]]
+so wie Andreas, Thomas und Lukas: stört, legt ein provozierendes Verhalten an den Tag. Man redet sie direkt an - und erhält ein provozierendes "Okay, okay, okay" mit einem präpotenten Grinsen zurück.
+
+Hat sein Heft vergessen.
+
+** HannahHöllbacher
+
+
+** LeonKeser
+
+
+*** [[file:~/RoamNotes/main/02_Golling.org::#Auferstehung][file:~/RoamNotes/main/02_Golling.org::#Auferstehung]]
+Datum: <2022-04-04 Mo>
+
+In der heutigen Stunde war es generell sehr schwierig und mühsam. Vor allem die Burschen "auf meiner Linken" und die drei Burschen "in der letzten Reihe" haben massiv gestört. Da ich ein eher ruhiger Typ bin, bringt es nicht viel, auf einmal herumzubrüllen und laut zu werden. Wenn zB Hannes oder Christoph das machen, dann "passt" es zu ihnen. Die Schüler werden dann wirklich ruhig. Bei mir...?
+
+Dazu kommt noch die emotionale Reaktion von Birgit auf eine Diskussion über das Thema "Kirche" (in die sie sich unaufgefordert eingemischt hat). Ich denke, dass Birgit deshalb wieder die Geschichte mit dem abgesagten Ostergottesdienst aufgewärmt hat - und darüber zornig wird; obwohl Elisabeth darauf ziemlich gelassen reagiert hat.
+
+Im Moment also hab ich kaukm Lust auf meine Arbeit - von allen Seiten verspüre ich Widerstand, Kritik und schon Attacken gegen meine Person.
+
+Ich hab mich sicher nicht richtig verhalten, weil ich es verabsäumt hatte, Elisabeth zu kontaktieren - und vergessen habe, au den SA Plan zu schauen.
+
+*** [[file:~/RoamNotes/main/02_Golling.org::#Wiederholung Jahresstoff][file:~/RoamNotes/main/02_Golling.org::#Wiederholung Jahresstoff]]
+Datum: <2022-06-27 Mo>
+
+Das ist heute leider komplett daneben gegangen. Schade. Leon hat uns die ganze, schöne Filmstunde ruiniert - aber nicht nur er.
+
+*** Link zur UE: [[file:~/RoamNotes/main/03_Golling.org::#Wegbegleiter][file:~/RoamNotes/main/03_Golling.org::#Wegbegleiter]]
+
+Hat trotz Aufforderung und SchoolFox Nachricht sein Heft nicht in Ordnung gebracht (dh er hat die "zesrtörten" Seiten schlecht herausgeschnitten und sie nicht nachgemacht.)
+
+Erneute Nachricht an die Eltern - was noch?
+
+*** Link zur UE: [[file:~/RoamNotes/main/03_Golling.org::#Herbstferien3][file:~/RoamNotes/main/03_Golling.org::#Herbstferien3]]
+
+Hm, unkonzentriert ... wie damit umgehen?
+
+*** Link zur UE: [[file:~/RoamNotes/main/03_Golling.org::#Wegbegleiter][file:~/RoamNotes/main/03_Golling.org::#Wegbegleiter]]
+
+Aha: also muss ich vorher mu4e aufrufen, einen Link zu einem Mail herstellen. Dann funktioniert auch org-store-link wieder.
+
+*** [[file:~/RoamNotes/main/03_Golling.org::*Medienkonsum und Entwicklung des Gehirns][Medienkonsum und Entwicklung des Gehirns]]
+Datum: <2022-09-19 Mo>
+
+hat Reli-Heft und Buch vergessen.
+
+*** [[file:~/RoamNotes/main/02_Golling.org::*\[SW28\] Die Klagepsalmen / Die letzte Woche in Jerusalem][[SW28] Die Klagepsalmen / Die letzte Woche in Jerusalem]]
+Datum: <2022-03-25 Fr>
+
+Komisch: vor der vierten Stunde, am Ende der Pause gab es im Stiegenhaus eine lauten, spitzen Schrei. Mir schien es, als käme er von einem Schüler - einer Schülerin der 2B. Ich fragte in allen 2. Klassen nach - keiner war es. Die vierten Klassen fallen auch aus ...
+
+Alle Indizien weisen auf Leon hin und Daniel ... Schüler aus der 2B.
+
+** ThomasKrallinger
+
+*** [[file:~/RoamNotes/main/03_Golling.org::*Medienkonsum und Entwicklung des Gehirns][Medienkonsum und Entwicklung des Gehirns]]
+Datum: <2022-09-19 Mo>
+
+hat Reli-Heft und Buch vergessen.
+
+
+** FabianLienbacher
+
+
+** LenaMalter
+
+
+** SophiaMayr
+
+
+** FlorianPeroutka
+
+
+** AndreasRußegger
+
+
+** ValerieSchönauer
+
+
+** MarleneSeidl
+
+
+** AnnaSpitzelseder
+
+
+** FlorianSteiner
+
+
+** KarinStruber
+
+
+** LukasWagenhofer
+
+
+
+* Reflexionen                                                 :Reflexionen:
+
+** [[id:03_SW01][[SW01] Wer möchte ich sein – wer bin ich?]]
+Datum: <2022-09-15 Do 08:40>
+
+Für dieses capture: C-1 C-n-c (das fügt das "date at point" der agenda ein) ... in den Header ein C-n-i und Link zu Stunde/Vorbereitung.
+
+Das war eigentlich eine gute Stunde; ein paar Burschen in der ersten Reihe wurden unruhig sobald ich ihnen den Rücken zukehrte. Ich hab sie darauf hingewiesen. Leon kann ich am Mo+Do zu Manuela schicken (was er gar nicht mag).
+

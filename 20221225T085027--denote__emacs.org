@@ -1,0 +1,26 @@
+#+title:      denote
+#+date:       [2022-12-25 So 08:50]
+#+filetags:   :emacs:
+#+identifier: 20221225T085027
+
+* Unterrichtsvorbereitung
+Meine Frage - ausgehend von einem Post von Prot [[https://protesilaos.com/emacs/denote#h:7d2e7b8a-d484-4c1d-8688-17f70f242ad7][Denote (denote.el) - Why many small files instead of few large ones?]], überlege ich, ob es nicht besser wäre, meine ganze Schulvorbereitung auf denote umzustellen. Aus den vier großen Dateien (01_Golling.org, 02_Golling.org, 03_Golling.org und 04_Golling.org) mehrere kleine org-Dateien zu machen.
+
+Ich hab mittlerweile die 10 org-Dateien für jede einzelne Klasse in denote-files umgewandelt.
+
+Weiters habe ich jedes einzelne Thema bzw jeden einzelnen Unterrichtsvorschlag aus dem Lehrplan in eine denote-Datei umgewandelt.
+
+* org-capture
+Was allerdings (bis jetzt) nicht klappt, ist org-capture mit denote für die Aufzeichnungen während des Unterrichts zu verwenden, so wie ich es bisher gemacht habe: das org-capture-template für denote akzeptiert nur =plain=; somit kann ich z.B. weder das capture mit `C-c C-w` (refile) an einen anderen Ort "verschieben", noch ist es möglich, das capture in einen Datei-Baum einzutragen (wie es mit =entry= möglich ist). Das org-capture-template von denote eignet sich hingegen sehr gut, um kleine Notizen zu machen. Und diese Notizen mit tags und links untereinander zu verbinden. Daher kann ich es hervorragend für meine thematische und pädagogische Vorbereitung verwenden.
+
+Für die Aufzeichnungen während dem Unterricht werde ich wohl beim gewöhnlichen org-capture Workflow bleiben. Ist auch okay so - jedes Paket in Emacs eignet sich auch nicht für alles. Org-Roam war diesbezüglich großartig, da es sehr leistungsfähig ist. Aber es war auch relativ langsam wegen der Datenbank.
+
+Ich kann natürlich auch meine Praxis ändern: die denote-(Klassen)-Datei pro Stunde öffnen und dort direkt beim jeweiligen Schüler meine Einträge machen.
+
+
+
+
+
+
+
+

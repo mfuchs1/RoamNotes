@@ -1,0 +1,17 @@
+#+title:      NATO-Geheimarmeen
+#+date:       [2023-01-18 Mi 19:35]
+#+filetags:   :frieden:nato:biblio:ganser2022nato:
+#+identifier: 20230118T193559
+
+#+begin_src bibtex
+@book{ganser2022nato,
+        author = {Ganser, Daniele},
+        publisher = {Westend Verlag GmbH},
+        title = {NATO-Geheimarmeen in Europa: inszenierter Terror und verdeckte Kriegsführung},
+        x-fetchedfrom = {Google Scholar},
+        year = {2022}
+}
+#+end_src
+
+Wow, so geht das.
+

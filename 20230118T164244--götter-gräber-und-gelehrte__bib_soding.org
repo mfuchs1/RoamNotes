@@ -1,0 +1,7 @@
+#+title:      Götter, Gräber und Gelehrte
+#+date:       [2023-01-18 Mi 16:42]
+#+filetags:   :bib:soding:
+#+identifier: 20230118T164244
+#+reference:  Ceram2003;Ceram2003
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bi
+b

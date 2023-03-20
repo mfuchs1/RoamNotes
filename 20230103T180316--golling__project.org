@@ -1,0 +1,93 @@
+#+title:      Golling
+#+date:       [2023-01-03 Di 18:03]
+#+filetags:   :Project:
+#+identifier: 20230103T180316
+#+CATEGORY: golling
+
+
+* Tasks
+** Pädagogische Konferenz - QMS
+<2022-12-15 Do 16:00>--<2022-12-15 Do 17:30>
+
+** Weihnachtsgottesdienst MS Golling 
+<2022-12-23 Fr 11:45>--<2022-12-23 Fr 12:30>
+
+** Skitag 2b (Wolfi) Zauchensee
+<2022-12-14 Mi 07:45>--<2022-12-14 Mi 14:00>
+
+7:45 Treffpunkt am Bahnhof
+
+** Supplierstunde 3a D
+<2022-12-21 Mi 10:40>--<2022-12-21 Mi 11:30>
+
+** Supplierstunde 1a D
+<2022-12-22 Do 09:35>--<2022-12-22 Do 10:25>
+
+** Supplierstunde 2b PH 
+<2023-01-11 Mi 11:35>--<2023-01-11 Mi 12:25>
+
+** Pädagogische Konferenz Jänner 2023
+<2023-01-16 Mo 16:00>--<2023-01-16 Mo 18:00>
+
+** Supplierstunde 4a IKT
+<2023-02-01 Mi 10:40>--<2023-02-01 Mi 11:30>
+
+** Supplierstunde 3a M
+<2023-02-09 Do 09:35>--<2023-02-09 Do 10:25>
+mit Hannes L. (statt Ulrike Gruber)
+
+** Eislaufen 3b Salzburg 
+<2023-02-21 Di 08:20>--<2023-02-21 Di 13:00>
+
+** Pädagogische Konferenz
+<2023-03-07 Di 16:00>--<2023-03-07 Di 17:30>
+
+** Supplierstunde 4a M (für MB)
+<2023-03-13 Mo 07:45>--<2023-03-13 Mo 08:35>
+
+** Supplierstunde 4a M (für MB)
+<2023-03-14 Di 07:45>--<2023-03-14 Di 08:35>
+mit Irmi - beide 4. Klassen, beide Leistungsgruppen.
+
+** Supplierstunde 4a BSP
+<2023-03-15 Mi 11:35>--<2023-03-15 Mi 12:25>
+Lt Eva muss ich nicht dabei sein.
+
+** Supplierstunde 4a M (für MB)
+<2023-03-16 Do 09:35>--<2023-03-16 Do 10:25>
+
+** Supplierstunde 4a M (für MB)
+<2023-03-17 Fr 08:40>--<2023-03-17 Fr 09:30>
+Schularbeit - Irmi 4b; ich 4a.
+
+** Treffen mit Fr. Krallinger
+<2023-03-16 Do 10:40>--<2023-03-16 Do 11:00>
+
+[[denote:20230310T173200][Gespräch Krallinger]]
+
+** Supplierstunde 1b D (statt DA, mit Martin)
+<2023-03-21 Di 09:35>--<2023-03-21 Di 10:25>
+
+** Supplierstunde 1b D (statt DA, mit Martin)
+<2023-03-22 Mi 08:40>--<2023-03-22 Mi 09:30>
+
+** Supplierstunde 1b E (statt RC, mit EB)
+<2023-03-23 Do 09:35>--<2023-03-22 Mi 10:25>
+
+** Supplierstunde 2c BSP (statt RC)
+<2023-03-23 Do 10:40>--<2023-03-23 Do 11:30>
+
+** Supplierstunde 1a D (statt Si, mit Mirjam)
+<2023-03-24 Fr 09:35>--<2023-03-24 Fr 10:25>
+
+#** Supplierstunde 1b BU (Hannes Lacher) 10:40-11:30
+#<%%(org-class 2023 3 8 2023 7 5 3)>
+aktueller Stoff: Säugetiere / Fische.
+Buch S. 104ff
+
+Buch S. 106 / 107
+Arbeitsheft S. 54
+
+#** Supplierstunde 2b PH 11:35-12:25
+#<%%(org-class 2023 1 25 2023 7 5 3)>
+#Buch S. 24+25: Aufgaben rechnen

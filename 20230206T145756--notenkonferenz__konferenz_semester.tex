@@ -1,0 +1,312 @@
+% Created 2023-03-07 Di 07:14
+% Intended LaTeX compiler: pdflatex
+\documentclass[pdftex,a4paper,12pt,bibliography=totoc]{scrartcl}
+                              \usepackage[top=2.5cm, bottom=2.5cm, left=4.0cm, right=3.0cm]{geometry}
+\usepackage{nicefrac}
+\usepackage{amsmath}
+%\usepackage{ucs}
+\usepackage[germanb]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{textcomp}
+\usepackage[colorlinks=true,urlcolor=blue,linkcolor=green]{hyperref}
+\RequirePackage[ngerman=ngerman-x-latest]{hyphsubst}
+
+\usepackage[style=authoryear-ibid,backend=biber,dashed=false,isbn=false]{biblatex}
+\DeclareLanguageMapping{ngerman}{ngerman-apa}
+
+\makeatletter
+\renewbibmacro*{bbx:editor}[1]{%
+\ifthenelse{\ifuseeditor\AND\NOT\ifnameundef{editor}}
+{\ifthenelse{\iffieldequals{fullhash}{\bbx@lasthash}\AND
+\NOT\iffirstonpage\AND
+\(\NOT\boolean{bbx@inset}\OR
+\iffieldequalstr{entrysetcount}{1}\)}
+{\bibnamedash}
+{\printnames{editor}%
+\setunit{\addspace}% GEÄNDERT
+\usebibmacro{bbx:savehash}}%
+\printtext[parens]{\usebibmacro{#1}}% GEÄNDERT
+\clearname{editor}%
+\setunit{\addspace}}%
+{\global\undef\bbx@lasthash
+\usebibmacro{labeltitle}%
+\setunit*{\addspace}}%
+\usebibmacro{date+extradate}}
+\makeatother
+
+\DeclareBibliographyDriver{incollection}{%
+\usebibmacro{bibindex}%
+\usebibmacro{begentry}%
+\usebibmacro{author/translator+others}%
+\setunit{\labelnamepunct}\newblock
+\usebibmacro{title}%
+\newunit
+\printlist{language}%
+\newunit\newblock
+\usebibmacro{byauthor}%
+\newunit\newblock
+\usebibmacro{in:}%
+\begingroup% NEU
+\renewbibmacro*{date+extradate}{}% NEU
+\usebibmacro{editor+others}% NEU
+\newunit{\addcolon\addspace}\newblock% NEU
+\endgroup% NEU
+\usebibmacro{maintitle+booktitle}%
+\newunit\newblock
+%  \usebibmacro{byeditor+others}%
+%  \newunit\newblock
+\newunit\newblock
+\usebibmacro{chapter+pages}%
+\printfield{edition}%
+\newunit
+\iffieldundef{maintitle}
+{\printfield{volume}%
+\printfield{part}}
+{}%
+\newunit
+\printfield{volumes}%
+\newunit\newblock
+\usebibmacro{series+number}%
+\newunit\newblock
+\printfield{note}%
+\newunit\newblock
+\usebibmacro{publisher+location+date}%
+%\newunit\newblock
+%\usebibmacro{chapter+pages}%
+\newunit\newblock
+\iftoggle{bbx:isbn}
+{\printfield{isbn}}
+{}%
+\newunit\newblock
+\usebibmacro{doi+eprint+url}%
+\newunit\newblock
+\usebibmacro{addendum+pubstate}%
+\newunit\newblock
+\usebibmacro{pageref}%
+\usebibmacro{finentry}}
+
+% \DeclareBibliographyDriver{article}{
+%   \usebibmacro{bibindex}%
+%   \usebibmacro{begentry}%
+%   \usebibmacro{author/translator+others}%
+%   \setunit{\labelnamepunct}\newblock
+%   \usebibmacro{title}%
+%   \newunit
+%   \printlist{language}%
+%   \newunit\newblock
+%   \usebibmacro{byauthor}%
+%   \newunit\newblock
+%   \usebibmacro{byeditor+others}%
+%   \newunit\newblock
+%   \printfield{version}%
+%   \newunit\newblock
+% %  \usebibmacro{in:}%   SO KLAPPT DAS!
+%   \usebibmacro{journal+issuetitle}%
+%   \newunit\newblock
+%   \printfield{note}%
+%   \setunit{\bibpagespunct}%
+%   \printfield{pages}
+%   \newunit\newblock
+%   \printfield{issn}%
+%   \newunit\newblock
+%   \printfield{doi}%
+%   \newunit\newblock
+%   \usebibmacro{eprint}
+%   \newunit\newblock
+%   \usebibmacro{url+urldate}%
+%   \newunit\newblock
+%   \printfield{addendum}%
+%   \newunit\newblock
+%   \usebibmacro{pageref}%
+%   \usebibmacro{finentry}
+% }
+
+\DefineBibliographyStrings{german}{%
+byeditor = {Hrsg\adddot},%
+byeditor = {Hrsg\adddot},%
+andothers={et \addabbrvspace al\adddot},
+}
+
+%\DeclareNameAlias{sortname}{last-first}
+%\DeclareNameAlias{default}{last-first}
+\DeclareNameAlias[incollection]{editor}{default}
+%\DeclareFieldFormat{namelast}{\mkbibacro{#1}}
+\DeclareFieldFormat[incollection]{title}{\mkbibitalic{#1}}
+\DeclareFieldFormat[incollection]{booktitle}{#1}
+\DeclareFieldFormat[incollection]{pages}{\parentext{#1}}
+\DeclareFieldFormat[incollection]{editor}{#1\addcolon}
+\DeclareFieldFormat[article]{title}{\mkbibitalic{#1}}
+\DeclareFieldFormat[article]{journaltitle}{#1}
+\DeclareFieldFormat[article]{urldate}{\brackettext{#1}}
+\DeclareFieldFormat[article]{note}{#1\addcolon\addspace}
+\DeclareFieldFormat[collection]{urldate}{\brackettext{#1}}
+\DeclareFieldFormat[collection]{note}{#1\addcolon\addspace}
+\DeclareFieldFormat[misc]{urldate}{\brackettext{#1}}
+\DeclareFieldFormat[misc]{note}{#1\addcolon\addspace}
+
+
+\AtBeginBibliography{%
+\renewcommand{\nametitledelim}{\addcolon\space}
+\renewcommand{\finalnamedelim}{\addcomma\space}
+
+}
+%\renewcommand{\mkbibnamefamily}[1]{\textsc{#1}}
+\renewcommand{\labelnamepunct}{\addcolon\addspace}
+\renewcommand{\nameyeardelim}{\addcomma\space}
+\renewcommand{\subtitlepunct}{\adddot\space}
+
+
+
+
+%\renewcommand{\nametitledelim}{\addcolon\addspace}
+%\addbibresource{Literatur.bib} %% Einbinden der bib-Datei
+\bibliography{../Bibliography/Literatur}
+\providecommand{\apashortdash}{-}
+
+
+%\makeatletter
+%\renewcommand\@biblabel[1]{}
+%\makeatother
+\usepackage[babel,german=quotes]{csquotes}
+\usepackage{url}
+\urlstyle{rm}
+\usepackage[pdftex]{graphicx}
+\usepackage{hyperref}
+\usepackage{cjhebrew}
+\renewcommand{\figurename}{Abbildung}
+\usepackage{pdfpages}
+\renewcommand{\familydefault}{\rmdefault}
+\usepackage{times}
+\addtokomafont{sectioning}{\rmfamily}
+\usepackage{setspace}
+%\renewcommand{\familydefault}{\sfdefault}
+%\usepackage{helvet}
+%\usepackage{lmodern}
+\usepackage{booktabs}
+\usepackage{ragged2e}
+\RequirePackage{processkv}
+\usepackage{parcolumns}
+\usepackage{blindtext}
+\setcounter{tocdepth}{3}
+\setcounter{secnumdepth}{3}
+\usepackage{xpatch}
+
+
+
+%Kopfzeile
+\usepackage[draft=false,automark,headsepline,plainheadsepline]{scrlayer-scrpage}
+%\KOMAoptions{onpsinit=\linespread{1}\selectfont
+\pagestyle{scrheadings}
+\clearmainofpairofpagestyles
+\clearplainofpairofpagestyles
+\ihead{\headmark}
+\ohead{\pagemark}
+\automark{section}
+\onehalfspacing
+
+
+\title{Notenkonferenz}
+\begin{document}
+
+
+\begin{center}
+ \LARGE
+ \textbf{Notenkonferenz}
+\end{center}
+
+\normalsize
+\section{Begrüßung}
+\label{sec:org472ccbb}
+
+Gratulation an alle Geburtstagskinder
+\newline
+Danke an alle für die Supplierungen; Deisl A. kann es noch nicht sagen, wann sie kommt. Birgit selber nicht ganz fit. Starke Antibiotika - Magen.
+\newline
+Wer für Astrid suppliert - ist bezahlt; bis Astrid wieder zurück ist.
+\newline
+Corona hat Spuren hinterlassen: Empfindlichkeiten der Eltern, etc. Beschwerden sollten besser bei Birgit landen, als direkt bei Fr. Kaserer. Versuchen, Kinder nicht bloßzustellen, sondern sie wachsen lassen.
+
+\section{Corona und seine Auswirkungen}
+\label{sec:orgaca8a93}
+Wie war das Klima in der Klasse? Daran denkne Schüler. Nicht wenige Eltern sind nicht gleich einsichtig, wenn Kinder abgestuft werden. Erst Abstufung, wenn Förderungen angeboten werden. Gute Heftführung \ldots{}
+\newline
+Z.B.: SA Mathematik in der 3. Klasse; Hannes: SA nicht gut (muss wiederholt werden). Leichte Schulstufe - mit Schnellhefter. Vorher 3 Hefte mit blauem Umschlag. Mit Schnellhefter probiert, bei manchen hats gut geklappt, bei anderen nicht. Eigenverantwortung. Eltern beschweren sich, va von den leistungsschwachen Schülern.
+\newline
+Julia: SÜ Heft + Ordner für HÜ; \ldots{}
+
+\section{Vetragverlängerung}
+\label{sec:org02ab62b}
+Herabsetzungen bis 13.3.2023 
+
+\section{Klassenkonferenzen}
+\label{sec:org40d0a5d}
+\begin{itemize}
+\item 1a kein NG; kein WZ
+\item 1b kein NG; ein WZ für Lucian (seine Mutter hat zwei taube Ohren)
+\item 2a kein NG; Änderungen noch nicht; Betragen okay
+\item 2b Vivien NG in allen drei Hauptfächern + BU; Betragen okay; Abstufungen (?); Vivine WZ wegen Schulschwänzen (nicht im Unterricht, aber im Cafehaus, unentschuldigt).
+\item 2c ein NG Ivana in D; auch Leistungsabfall in E; einige Z, kein WZ.
+\item 3a NG Adrian in GW; kein WZ;
+\item 3b Mathematik: Schönauer und Höllbacher Änderung; sechs WZ (s.u.); \ldots{}
+\item 3c kein NG, Umstufung nein; zwei Z für Slatko und Maid (?), eher WZ? eigentlich WZ wegen unentschuldigtes Fernbleiben vom Unterricht; Belügen des Lehrers; \ldots{}
+\item 4a kein NG; Leistungsänderung Johanna Strubreiter in E;
+\item 4b Carlos ist von Schule abgemeldet; Umstufungen keine; Markus Kaindl nach AHS?; kein NG; Markus aus disziplinären Gründen nicht nach Wien; \ldots{}
+\end{itemize}
+
+
+Wolfi: wegen angeblicher mangelnder Unterstützung als "Türkenhasser" bechimpft; Mutter direkt in Direktion; \ldots{}
+\newline
+Erwin: Ein WZ ist kein Problem; ein NZ wird haarig. 
+\newline
+Julia: türkische Mädchen "So dürfen sie nicht mit uns reden." - Mädchen erhalten ein WZ.
+\newline
+Christoph: Wenn das schwarze Buch leer ist, sind Diskussionen umsonst. 
+\newline
+Irmi: Was ist schulschwänzen? unentschuldigtes Fernbleiben vom Unterricht; \ldots{} Wenn man Schüler beim Spar sehe, der offiziell krank und entschuldigt ist? Vivien kommt in die Schule, erscheint nicht im Unterricht, denn retour in der Garderobe.
+\newline
+Birgit: Nachfrage bei Juristen; Vivien nicht nur schwänzen, sondern generelles Verhalten gegenüber der Schule.
+\newline
+Erwin: nur wenn es während der Unterrichtszeit ist. Alles andere wird haarig.
+\newline
+Hannes: alles, was jemand zur Genesung dient kann er tun.
+
+\section{Notenkonferenz}
+\label{sec:org7147ae9}
+
+\subsection{Betragensnoten 3B}
+\label{sec:org4bb2e20}
+
+\begin{itemize}
+ \item Maximilian Fischhofer
+ \item Lukas Wagenhifer
+ \item Leon Keser
+ \item Thomas Krallinger
+ \item Florian Steiner
+\end{itemize}
+
+WZ, weil: seit Beginn des Semesters massivste Störungen im Unterricht. Nach mehrmaligen Ermahnen keine Besserungen; zum Elternsprechtag Eltern herinnen, versprachen Verbesserung. IN der SchoolFox Nachricht wurde WZ angedroht. Keine Verbesserung, also WZ.
+
+\section{Allfälliges}
+\label{sec:org7efa80f}
+Nach den Ferien sind Schuleinschreibungen: 3x 1. Klassen; Eva die 3. KV
+\newline
+Schulnachrichten ausdrucken.
+\newline
+Freitag 5. Stunde, Unterrichtsende.
+\newline
+Programm steht für Faschingsdienstag - eintragen.
+\newline
+Eva: neue Homepage, gemeinsam mit VS Golling; Über Bildungsdirektion; VS hat ein Angebot. Neue Homepage kostet mehr als 3000 Euro. BM und Gernot wissen Bescheid. 
+
+\section{Ergänzungen (durch Manuela Singer)}
+\label{sec:org94a60f2}
+
+Förderschiene: 1. Klasse - 1. Std / Woche für alle im Stundenplan eintragen als fixe Förderstunde. z.B. 4 Std. im Block D oder M.
+\newline
+Verhalten der Eltern (zunehmend ein Problem); deshlab wichtig: ein guter Zusammenhalt im Kollegium
+\newline
+Porfessionelle Distanz bezüglich der Eltern wäre günstig. Warum mischen sich Eltern so viel ein?
+\newline
+SA-Termine für das 2. Semester festlegen.
+\end{document}

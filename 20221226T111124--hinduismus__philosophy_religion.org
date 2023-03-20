@@ -1,0 +1,38 @@
+#+title:      Hinduismus
+#+date:       [2022-12-26 Mo 11:11]
+#+filetags:   :philosophy:religion:
+#+identifier: 20221226T111124
+
+* Kompetenzbeschreibung
+[[#C6]] Religiöse und weltanschauliche Vielfalt in Gesellschaft und Kultur - Unterschiedlichen Lebensweisen und Glaubensformen reflexiv begegnen können
+[[#C6_KB1]] Die Schülerinnen und Schüler kennen Charakteristika asiatischer Glaubenstraditionen und können diese mit dem christlichen Glaubensverständnis vergleichen.
+
+* AB / UH
+[[#C6_UH1]] Elementare Inhalte und religiöse Praxis in Hinduismus: Anfänge, prägende Persönlichkeiten, Meditation, Erlösungswege
+
+* Wiederholung 
+
+
+* Erarbeitung
+Film: Faszination Glaube Hinduismus / Buddhismus (schwarze USB-Festplatte)
+
+Religionsbuch:
+ - wichtige Begriffe klären und ins Heft schreiben:
+ - Moksha, Nirvana, Reinkarnation
+ - Yoga
+ - OM
+ - Dharma, Karma, Kaste
+ - wichtigsten Götter
+
+Arbeitsblätter
+Kahoot! als Wiederholung
+
+* Hefteintrag
+Doppelseite zum Thema "Hinduismus, Buddhismus" 
+
+[RoamNote]
+[[id:178596c0-387a-4fe0-abb9-cba71831514a][AB Islam Huinduismus]]
+
+[LaTex / pdf]
+[[file:~/Dokumente/LaTex_2/AB_Hinduismus_Islam/ab_islam_huinduismus.pdf]]
+
