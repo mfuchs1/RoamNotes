@@ -1,0 +1,124 @@
+#+title:      B Klasse 2019-23
+#+date:       [2022-12-30 Fr 19:38]
+#+filetags:   :4b:Project:
+#+identifier: 20221230T193843
+#+CATEGORY: golling
+
+
+
+#* 4b 11:35-12:25
+#<%%(org-class 2022 9 13 2023 7 4 2)>
+
+[[denote:20230312T093000][[SW27] Passionsgeschichte]]
+
+Arbeit mit Laptops / Youcat-Studyguide
+gemeinsam eine Frage...
+
+#* 4b 08:40-09:30
+#<%%(org-class 2022 9 14 2023 7 5 3)>
+
+[[denote:20230312T093000][[SW27] Passionsgeschichte]]
+
+* Reflexionen
+
+
+* 4B [KV: Christoph Rosner]
+
+
+#+Name: 2021-students
+| First     | Last         | Name               | Note | Heft | Mitarbeit | LZK |
+|-----------+--------------+--------------------+------+------+-----------+-----|
+| Sophie    | Bernhofer    | [[SophieBernhofer][Sophie Bernhofer]]   |      |      |           |     |
+| Jakob     | Brückler     | [[JakobBrückler][Jakob Brückler]]     |      |      |           |     |
+| Marie     | Essl         | [[MarieEssl][Marie Essl]]         |      |      |           |     |
+| Moritz    | Gsenger      | [[MoritzGsenger][Moritz Gsenger]]     |      |      |           |     |
+| Florian   | Hollweger    | [[FlorianHollweger][Florian Hollweger]]  |      |      |           |     |
+| Marcus    | Kaindl       | [[MarcusKaindl][Marcus Kaindl]]      |      |      |           |     |
+| Nico      | Knapp        | [[NicoKnapp][Nico Knapp]]         |      |      |           |     |
+| Lorenz    | Knefz        | [[LorenzKnefz][Lorenz Knefz]]       |      |      |           |     |
+| Magdalena | Kronreif     | [[MagdalenaKronreif][Magdalena Kronreif]] |      |      |           |     |
+| Lisa      | Lindenthaler | [[LisaLindenthaler][Lisa Lindenthaler]]  |      |      |           |     |
+| Paul      | Niebauer     | [[PaulNiebauer][Paul Niebauer]]      |      |      |           |     |
+| Elisa     | Oberkofler   | [[ElisaOberkofler][Elisa Oberkofler]]   |      |      |           |     |
+| Annika    | Proflet      | [[AnnikaProflet][Annika Proflet]]     |      |      |           |     |
+| Christoph | Putz         | [[ChristophPutz][Christoph Putz]]     |      |      |           |     |
+| Chiara    | Reheußer     | [[ChiaraReheußer][Chiara Reheußer]]    |      |      |           |     |
+| Michael   | Seiwald      | [[MichaelSeiwald][Michael Seiwald]]    |      |      |           |     |
+| Gabriel   | Siller       | [[GabrielSiller][Gabriel Siller]]     |      |      |           |     |
+| Kristina  | Zivkovic     | [[KristinaZivkovic][Kristina Zivkovic]]  |      |      |           |     |
+|-----------+--------------+--------------------+------+------+-----------+-----|
+#+TBLFM: $4=vmean($5..$>)
+#+TBLFM: $3='(concat "[[" $1 $2 "][" $1 " " $2 "]]")
+#+TBLFM: $4='(identity remote(2021-22-Mitarbeit,@@#$4))
+
+#+BEGIN_SRC python :var table=2021-students :results output raw
+print('* Mitarbeit')
+for student in table:
+    first = student[0]
+    last = student[1]
+    email = first + '.' + last + '@golling.schule'
+    print('** ' + first + last + '\n\n')
+#+END_SRC
+
+#+RESULTS:
+* Mitarbeit
+** FirstLast
+
+
+** SophieBernhofer
+
+
+** JakobBrückler
+
+
+** MarieEssl
+
+
+** MoritzGsenger
+
+
+** FlorianHollweger
+
+
+** MarcusKaindl
+
+
+** NicoKnapp
+
+
+** LorenzKnefz
+
+
+** MagdalenaKronreif
+
+
+** LisaLindenthaler
+
+
+** PaulNiebauer
+
+
+** ElisaOberkofler
+
+
+** AnnikaProflet
+
+
+** ChristophPutz
+
+
+** ChiaraReheußer
+
+
+** MichaelSeiwald
+
+
+** GabrielSiller
+
+
+** KristinaZivkovic
+
+
+* Reflexionen                                                   :Reflexionen:
+
+

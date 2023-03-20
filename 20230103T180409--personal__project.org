@@ -1,0 +1,59 @@
+#+title:      Personal
+#+date:       [2023-01-03 Di 18:04]
+#+filetags:   :Project:
+#+identifier: 20230103T180409
+#+CATEGORY: personal
+
+* Tasks
+
+** APPT Lesen und Beten
+<2022-12-19 Mo 22:00>
+
+
+** Einkauf + Gouter (Coq)
+<2023-01-05 Do 15:00>--<2023-01-05 Do 19:00>
+
+** Einkauf Hofer für Coq
+<2023-01-17 Di 16:30>
+- Salat
+- Baguette
+- Tomaten
+
+** Gabriel abholen
+<2023-01-17 Di 16:45>--<2023-01-17 Di 17:00>
+
+** Gabriel Friseur Essl
+<2023-01-20 Fr 15:45>--<2023-01-20 Fr 16:15>
+
+** Hl. Messe St. Blasius
+<2023-01-22 So 18:15>--<2023-01-22 So 19:15>
+
+** Mittagessen McDonalds
+<2023-01-22 So 13:00>--<2023-01-22 So 14:00>
+
+** Gespräch mit Hr. Silbergasser (KV Gabriel MS Grödig)
+<2023-01-31 Di 17:00>--<2023-01-31 Di 18:00>
+[[denote:20230131T144719][Gespräch Silbergasser]]
+
+** Englisch Nachhilfe Gabriel
+<2023-02-02 Do 14:15>--<2023-02-02 Do 15:15>
+(bei uns)
+
+** Zum Mittagessen bei Genevieve / Klaus eingeladen
+<2023-02-26 So 12:00>--<2023-02-26 So 14:00>
+
+** Hl. Messe (St. Blasius)
+<2023-02-26 So 18:15>--<2023-02-26 So 19:15>
+
+** Abendessen
+<2023-02-26 So 17:00>--<2023-02-26 So 17:30>
+
+** Leopold HipHop Tanzkurs SEAD 14:00-15:00
+<%%(org-class 2023 2 22 2023 7 5 3)>
+Isabelle bringt Leo+Diana in den Kurs.
+Hol ich sie ab + bringe ich gleichzeitig Isabelle in die Arbeit?
+
+** Gabriel Klettern 16:15-17:45
+<%%(org-class 2023 3 8 2023 7 5 3)>
+Opa holt Gabriel ab und bringt ihn auch wieder nach Hause.
+

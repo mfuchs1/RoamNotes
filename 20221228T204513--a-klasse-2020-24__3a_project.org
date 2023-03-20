@@ -1,0 +1,119 @@
+#+title:      A Klasse 2020-24
+#+date:       [2022-12-28 Mi 20:45]
+#+filetags:   :3a:Project:
+#+identifier: 20221228T204513
+#+CATEGORY: golling
+
+
+#* 3a 11:35-12:25
+#<%%(org-class 2022 9 12 2023 7 3 1)>
+
+[[denote:20230312T093141][[SW27] Franz Jägerstätter]]
+
+#* 3a 09:35-10:25
+#<%%(org-class 2022 9 14 2023 7 5 3)>
+
+YouCat Studyguide
+[[https://www.youcat.org/de/produkte/youcat/#youcat-additional-materials]]
+
+Das Gewissen
+
+
+
+* Reflexionen
+
+
+
+* 3A [KV Magdalena Pürrer]
+
+#+Name: 2021-students
+| First      | Last        | Name                  | Note | Mitarbeit | Heft | LZK |
+|------------+-------------+-----------------------+------+-----------+------+-----|
+| Stefan     | Gonschorek  | [[StefanGonschorek][Stefan Gonschorek]]     |    1 |           |      |     |
+| Manuel     | Irrnberger  | [[ManuelIrrnberger][Manuel Irrnberger]]     |    1 |           |      |     |
+| Tobias     | Kappel      | [[TobiasKappel][Tobias Kappel]]         |    1 |           |      |     |
+| Luis       | Korten      | [[LuisKorten][Luis Korten]]           |    1 |           |      |     |
+| Adrian     | Lamprecht   | [[AdrianLamprecht][Adrian Lamprecht]]      |    1 |           |      |     |
+| Noah       | Linhuber    | [[NoahLinhuber][Noah Linhuber]]         |    1 |           |      |     |
+| Hanna      | Maier       | [[HannaMaier][Hanna Maier]]           |    1 |           |      |     |
+| Melissa    | Neudorfer   | [[MelissaNeudorfer][Melissa Neudorfer]]     |    1 |           |      |     |
+| Arthur     | Schattauer  | [[ArthurSchattauer][Arthur Schattauer]]     |    1 |           |      |     |
+| Fabian     | Schober     | [[FabianSchober][Fabian Schober]]        |    1 |           |      |     |
+| Kristina   | Seidl       | [[KristinaSeidl][Kristina Seidl]]        |    1 |           |      |     |
+| Ivana      | Sokic       | [[IvanaSokic][Ivana Sokic]]           |    1 |           |      |     |
+| Anna       | Steiner     | [[AnnaSteiner][Anna Steiner]]          |    1 |           |      |     |
+| Andre-Leon | Stippler    | [[Andre-LeonStippler][Andre-Leon Stippler]]   |    1 |           |      |     |
+| Christina  | Unterrainer | [[ChristinaUnterrainer][Christina Unterrainer]] |    1 |           |      |     |
+| Thomas     | Wenger      | [[ThomasWenger][Thomas Wenger]]         |    1 |           |      |     |
+| Lena       | Zorzi       | [[LenaZorzi][Lena Zorzi]]            |    1 |           |      |     |
+#+TBLFM: $4=vmean($5..$>)
+#+TBLFM: $3='(concat "[[" $1 $2 "][" $1 " " $2 "]]")
+#+TBLFM: $3='(identity remote(2021-22-Mitarbeit,@@#$4))
+
+#+BEGIN_SRC python :var table=2021-students :results output raw
+print('* Mitarbeit')
+for student in table:
+    first = student[0]
+    last = student[1]
+    email = first + '.' + last + '@golling.schule'
+    print('** ' + first + last + '\n\n')
+#+END_SRC
+
+#+RESULTS:
+* Mitarbeit
+** StefanGonschorek
+
+
+** ManuelIrrnberger
+
+
+** TobiasKappel
+
+
+** LuisKorten
+
+
+** AdrianLamprecht
+
+
+** NoahLinhuber
+
+
+** HannaMaier
+
+
+** MelissaNeudorfer
+
+
+** ArthurSchattauer
+
+
+** FabianSchober
+
+
+** KristinaSeidl
+
+
+** IvanaSokic
+
+
+** AnnaSteiner
+
+
+** Andre-LeonStippler
+
+
+** ChristinaUnterrainer
+
+
+** ThomasWenger
+
+
+** LenaZorzi
+
+
+* Thema der Stunde
+CREATED: [2023-01-23 Mo 00:00]
+
+ein Kommentar
+

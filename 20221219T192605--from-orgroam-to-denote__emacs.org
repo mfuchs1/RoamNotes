@@ -1,0 +1,74 @@
+#+title:      From OrgRoam to Denote
+#+date:       [2022-12-19 Mo 19:26]
+#+filetags:   :emacs:
+#+identifier: 20221219T192605
+
+* Mein bisheriges Setup für Emacs bezüglich helm / org-roam
+
+- Helm
+- helm-swoop
+- helm-rifle
+- helm-bibtex
+- helm-projectile
+- helm-company
+
+- Org-Roam
+- org-roam-bibtex
+- org-roam-ref-capture
+- org-roam-ui
+
+  Den Großteil der Konfiguration von org-roam übernahm ich von System Crafters / David Wilson. Es half mir unter anderem, meine Aufzeichnungen während des Unterrichts festzuhalten. Ich konnte dank der =${slug}= Funktion bei org-roam-capture meine Aufzeichnungen einem konkreten Schüler einer Klasse zuordnen und abspeichern. Ich habe pro Schulstufe eine Jahresplanung (4 org-Dateien) angelegt und pro Klasse eine org-Datei mit den Schülerlisten und ihren Noten (11 org-Dateien).
+
+  Diese Konfiguration klappte eigentlich ganz gut. Nur wurde sie mit der Zeit immer träger und verlangsamte meinen Workflow und die Startzeit von Emacs. Also suchte ich nach Alternativen. Außerdem wollte ich wirklich etwas Neues in Emacs kennenlernen. 
+
+
+* Vertico, consult, embark, ...
+
+In einem ersten Schritt trennte ich mich von helm und installierte Vertico, consult, embark, marginalia und orderless. Leider war ab diesem Zeitpunkt die "Zusammenarbeit" mit org-roam nicht mehr ideal.
+
+- vertico
+- vertico-prescient
+- marginalia
+- consult-ag
+- consult-company
+- consult-dir
+- consult-bibtex
+- (consult-org-roam)
+- consult-notes
+- consult-notmuch
+- consult-projectile
+- embark
+- embark-consult
+- orderless
+- citar
+- citar-embark
+
+
+* Denote
+
+Und zum Schluss ersetzte ich org-roam durch Denote. Dieser Schritt kostete mich die größte Überwindung. Aber ich überlegte mir, wofür ich org-roam bisher benutzt hatte. Außerdem forschte ich nach, welche Alternativen es für die einzelnen org-roam-Pakete gab. Als ich für jedes dieser Pakete einen Ersatz fand, verabschiedete ich mich von org-roam und installierte Denote. 
+
+Auch wenn ich mit Vertico, consult und embark mehr einzelne Pakete installiert hatte, lief Emacs jetzt viel schneller und prompter ("snappier"). Die Startzeit hatte sich von 2.7 Sekunden auf 1.1 - 1.3 Sekunden verkürzt. Das einzige, was mir "fehlte", war eine echte Alternative zu der ${slug} Funktion (?) in org-roam-capture.
+
+Mit Denote verwendete ich ab nun org-capture, und dort musste ich die Notiz mit C-c C-w "refile"; in org-roam war das nicht nötig. Hier konnte ich von Beginn an den Speicherort angeben - cf ${slug}.
+
+
+|-------------------+------------------------------------|
+| Vorher            | Nachher                            |
+|-------------------+------------------------------------|
+| helm              | vertico, marginalia, embark        |
+| helm-swoop        | ? consult-grep, affe               |
+| helm-rifle        | ?                                  |
+| helm-bibtex       | consult-bibtex, citar              |
+| helm-projectile   | consult-projectile                 |
+| helm-company      | consult-company                    |
+|                   |                                    |
+| org-roam          | denote, denote-refs, consult-notes |
+| org-roam-capture  | org-capture                        |
+| org-roam-protocol | org-protocol-capture-html          |
+| org-roam-bibtex   | citar-denote                       |
+|-------------------+------------------------------------|
+
+<2022-12-20 Di> Heute fand ich beim letzten Emacs-Update zwei geniale Pakete: citar-denote (denote-Notizen zu Bibtex Einträgen erstellen) und denote-refs (zeigt Backlinks zu Denote-Notizen an). Ich bin begeistert: somit habe ich für alle org-roam-Funktionen mehr als einen Ersatz in Denote gefunden. 
+
+

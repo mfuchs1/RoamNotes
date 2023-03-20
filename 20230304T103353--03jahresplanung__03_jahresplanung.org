@@ -1,0 +1,2059 @@
+#+title:      03Jahresplanung
+#+date:       [2023-03-04 Sa 10:33]
+#+filetags:   :03:jahresplanung:
+#+identifier: 20230304T103353
+
+
+
+* DONE [SW01] Wer möchte ich sein – wer bin ich?
+CLOSED: [2022-09-16 Fr 23:09] DEADLINE: <2022-09-12 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Wer bin ich
+:ID: 03_SW01
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-09-16 Fr 23:09]
+- State "DONE"       from "DONE"       [2022-07-08 Fr 23:47]
+- State "DONE"       from "TODO"       [2021-09-18 Sa 15:19]
+- State "DONE"       from "TODO"       [2020-09-19 Sa 08:24]
+- CLOSING NOTE [2019-09-16 Mo 21:47] \\
+  Hm, da hat sich kaum etwas verändert - leider. Der Beginn war aber recht okay.
+    - CLOSING NOTE [2018-09-24 Mo 09:53] \\
+      Die erste verlief okay...
+    :END:
+
+** Kompetenzbeschreibung
+[[#A1]] Menschen und ihre Lebensorientierungen - Beziehung verantwortungsvoll gestalten können – zu sich selbst, zu anderen, zur Schöpfung
+[[#A1_KB1]] Die Schüler können sich als Teil der Schöpfung wahrnehmen und wissen zu ihrem Erhalt beizutragen.
+
+** AB / UH
+[[#A1_UH1]] Verdankt-Sein; Wunder der Schöpfung; Leben als Gabe und Aufgabe 
+
+** Wiederholung
+[[id:e4828326-b6eb-469b-8e67-0bc015fa74fc][ein_neuer_Eintrag]]
+
+
+** Erarbeitung
+Wer möchte ich sein?
+Wer bin ich?
+
+Martin Buber:
+Der Mensch am du zum ich
+
+Die Liebe macht einen Menschen reifer. Diese Ansicht wird von der Forschung eindrücklich belebt, aber auch die allgemeine Lebenserfahrung legt das nahe. Wer sich auf eine längere Beziehung einlässt, der verändert sich in der Folge tiefgreifend. Christian Thiel betont: "Wer eine Beziehung eingeht, der wird weltoffener, gewissenhafter und selbstbewusster. Schüchternheit und neurotische Verhaltensweisen nehmen ab."
+
+Der Philosoph Martin Buber hat einmal gesagt: "Der Mensch wird am Du zum Ich." In einer längeren Partnerschaft verändern sich die Partner automatisch. Der wichtigste Mechanismus, der hier am Werk ist, ist die Vorbildwirkung des Partners. Denn Menschen lernen am Vorbild, ähnlich wie Kinder am Beispiel der Eltern lernen – und nicht aufgrund der Erziehung, wie viele Eltern meinen.
+
+** Hefteintrag
+[[id:58283fe6-eb40-4305-9f30-82d42a4d3416][okay]]
+
+
+
+* DONE [SW02] Einfluss der Medien
+CLOSED: [2022-09-24 Sa 10:10] DEADLINE: <2022-09-19 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Einfluss Medien
+:ID: 03_SW02
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-09-24 Sa 10:10]
+- State "DONE"       from "TODO"       [2021-09-24 Fr 11:36]
+- State "DONE"       from "TODO"       [2020-09-27 So 10:37]
+- CLOSING NOTE [2019-09-27 Fr 15:40] \\
+  Hui, da hat sich nicht viel geändert, leider. Hier musste ich schon härter durchgreifen, besonders in der 3C.
+    - CLOSING NOTE [2018-09-24 Mo 09:53] \\
+      In beiden dritten Klassen ließ ich mich leider zum Zorn hinreißen. Die Schüler dürfen keine Minute einen Leerlauf haben gute Struktur der Stunde und viel Arbeit.
+      
+      Auch hier werde ich regelmäßig die Hefte kontrollieren, benoten (mit Noten von 1-5) und die Schüler eventuell abfragen.
+    - CLOSING NOTE [2017-09-25 Mon 17:33] \\
+      Das waren "relativ" gute Stunden.
+    :END:
+
+** Kompetenzbeschreibung
+[[#C5]] Religiöse und weltanschauliche Vielfalt in Gesellschaft und Kultur - Medien, Kunst und Kultur im Kontext religiöser Weltwahrnehmung interpretieren, beurteilen und gestalten können
+[[#C5_KB1]] Die Schüler können die Nutzung von Medien und deren Potential reflektieren. 
+
+** AB / UH
+[[#C5_UH1]]
+ - Kritische und kreative Nutzung von Medien, (Daniele Ganser)
+ - Information und Manipulation, (Daniele Ganser)
+
+** Wiederholung
+
+
+** Erarbeitung
+
+*** Erich Fromm - Über die Liebe 
+[[id:8f54c761-bdd7-4826-9dbc-1db4200224ab][Die 4 Grundelemente der Liebe nach Erich Fromm (einfach erklärt) - YouTube]]
+
+*** Daniele Ganser:
+- Können wir den Medien vertrauen? [[https://www.youtube.com/watch?v=4bF-3rulJz0]]
+- Medienkompetenz [[https://www.youtube.com/watch?v=wkFKIf8Ksho]]
+
+Beide Videos sind zu lange - und vielleicht zu anspruchsvoll; Ausschnitte zeigen (wie geht das?)
+
+Was macht der Medienkonsum mit mir? Hirnforschung - Bildung der Synapsen nur dann, wenn ich meine Sinne einsetze. Langes, passives Konsumieren trägt zum Tod der Synapsen bei - Nervenzellen sterben ab und werden nicht wieder reaktiviert. "Fernsehen verblödet!"
+
+*** Medienkonsum und Entwicklung des Gehirns
+Artikel: [[id:5ed636db-3b2c-4adf-8c5c-3802969260b6][Viel Fernsehen verzögert die kindliche Entwicklung]]
+
+Frage: Wie hängen Bildschirmzeit und Entwicklung bei Kindern bis zu fünf Jahren zusammen?
+
+Antwort: Eine übermäßige Mediennutzung im Alter von zwei bis drei Jahren geht mit Entwicklungsverzögerungen zu späteren Zeitpunkten einher, umgekehrt führen Entwicklungsprobleme nicht zu einer vermehrten Bildschirmnutzung.
+
+Bedeutung: Viel Zeit vor dem Bildschirm scheint Entwicklungsprobleme zu begünstigen.
+
+Einschränkung: Die Daten beruhen ausschließlich auf subjektiven Angaben.
+
+Für ihre Analyse haben die Forscher Angaben einer prospektiven Schwangerschaftskohorte mit rund 2450 Kindern ausgewertet. Die Mütter füllten zwei, drei und fünf Jahre nach der Geburt einen Entwicklungsfragebogen mit 30 Fragen zur motorischen, kognitiven und sozialen Entwicklung aus (Ages and Stages Questionnaire, ASQ-3).
+
+
+
+** Hefteintrag
+
+
+
+* DONE [SW03] Ich - ein Original? Auf der Suche nach mir selbst 
+CLOSED: [2022-10-01 Sa 11:06] DEADLINE: <2022-09-26 Mo>
+:PROPERTIES:
+:CUSTOM_ID: ich ein Original
+:ID: 03_SW03
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-10-01 Sa 11:06]
+- State "DONE"       from "TODO"       [2021-10-02 Sa 09:50]
+- State "DONE"       from "TODO"       [2020-10-04 So 13:56]
+- CLOSING NOTE [2019-09-27 Fr 15:41] \\
+  Hm, diese Schüler sind echt schwierig...
+    - CLOSING NOTE [2018-09-30 So 15:08] \\
+      Ein schwieriges Thema, die dritten Klassen sind nicht leicht zu unterrichten...
+    - CLOSING NOTE [2017-10-23 Mon 00:31] \\
+      War gut...
+    - Note taken on [2017-09-28 Don 23:52] \\
+      Hui, die heutige Stunde (28.09.2017) in der 3a hat zwar schön begonnen, aber dann gab es wieder eine blöde, und eigentlich sinnlose Diskussion mit Nina zum Thema "Haben Tiere ein Gewissen, einen Geist?" Schlußendlich gab ich Nina eine HÜ: sie soll nachforschen, ob es einen Unterschied zwischen Mensch und Tier gibt - und wenn ja, welchen? Pyramide des Lebens (Stein, Pflanze, Tier, Mensch).
+      
+      "Logische" Konsequenz, falls Tiere eine geistige Seele haben sollten: Nina nimmt ihr Haustier und bittet den nächsten Pfarrer, ihr Tier zu taufen. Dann darf das Tier zur Erstkommunion, zur Firmung, es darf kirchlich heiraten / oder Priester werden? Unsere Erfahrung zeigt, dass Tiere nicht vernunftbegabt sind bzw ein Gewissen haben.
+    :END:
+
+** Kompetenzbeschreibung
+[[#A1]] Menschen und ihre Lebensorientierungen - Beziehung verantwortungsvoll gestalten können – zu sich selbst, zu anderen, zur Schöpfung
+[[#A1_KB1]] Die Schüler können sich als Teil der Schöpfung wahrnehmen und wissen zu ihrem Erhalt beizutragen.
+
+** AB / UH
+[[#A1_UH1]] Verdankt-Sein; Wunder der Schöpfung; Leben als Gabe und Aufgabe 
+
+
+** Wiederholung
+
+
+** Erarbeitung
+Ich bin ein Original ...
+
+Wer bin ich? Was macht mich zu der Person, die ich bin? 
+
+In meinem Leben ist vieles / alles ein Geschenk - es gehört nicht mir. 
+
+Die Wahrheit über mich / mein Leben?
+
+[[https://religionsunterricht.net/blog/wer-bin-ich-2/]]
+Wir stehen in einem Netz von Beziehungen und den damit verbundenen Erwartungen. Aber: hängt unsere Identität immer von der jeweiligen Rolle ab? Oder gibt es "etwas", dass stabil bleibt, ein Kern meiner Identität, der sich nicht ändert?
+
+Was sagt die Bibel über den Menschen / biblisches Menschenbild?
+[[id:aff6658f-690f-4fdf-8498-dfc8e3a62561][Ein kurzer Versuch über das christliche Menschenbild - Stefan Oster SDB]]
+
+PDF:
+[[file:~/Dokumente/Ein kurzer Versuch über das christliche Menschenbild - Stefan Oster SDB.pdf]]
+
+Geschaffen nach dem Abbild Gottes, als Mann und Frau: gleichwertig und sich einander ergänzend. Der Mensch ist Bild Gottes in seinem Geist: erkennen und lieben (Vernunft und Wille). Nur der Mensch kann ....
+
+[[id:99099eae-5816-443e-b0fa-e44ce238a565][Biblisches Menschenbild]]
+
+Gott übergab dem Menschen die Welt als Treuhänder: er soll den Lebensraum für Mensch und Tier nutzbar (?) machen und auch verteidigen. 
+
+Supplierstunde
+[[file:~/NMS_Golling/Die_schnelle_Stunde/Das bin ich.pdf]]
+
+Lesen: 1 Joh 3 + 4
+
+
+** Hefteintrag
+
+
+* DONE [SW04] Sind Stars echte Wegbegleiter? / Eine ist zum Dienen bereit
+CLOSED: [2022-10-08 Sa 09:44] DEADLINE: <2022-10-03 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Wegbegleiter
+:ID: 03_SW04
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-10-08 Sa 09:44]
+- State "DONE"       from "TODO"       [2021-10-08 Fr 14:26]
+- State "DONE"       from "TODO"       [2020-10-11 So 09:46]
+- CLOSING NOTE [2019-10-13 So 12:05] \\
+  War okay ...
+    - CLOSING NOTE [2018-10-07 So 15:32] \\
+      Hui, beiden Klassen sind recht schwierig, aus unterschiedlichen Gründen. Für beide gilt: keine Pause, die Schüler müssen zu jedem Zeitpunkt beschäftigt sein - SIE müssen arbeiten. Das Thema ist schwer, klar. Gegen Ende war es auch in der 3B einigermaßen okay.
+    - CLOSING NOTE [2017-10-18 Mit 09:25] \\
+      Anhand von Dilemma-Geschichten das Wirken des Gewissens erspüren...
+    :END:
+
+** Kompetenzbeschreibung
+[[#A2]] Menschen und ihre Lebensorientierungen - Die Schüler können die Frage nach dem Woher anhand biblischer Schöpfungsvorstellungen und naturwissenschaftlicher Konzepte bearbeiten und deren Vereinbarkeit argumentativ darlegen.
+[[#A2_KB2]] Die Schüler können die Sehnsucht nach einem Leben in Fülle zur Sprache bringen und vielfältige Sinnangebote bewerten.
+
+** AB / UH
+[[#A2_UH2]] Soziales Engagement 
+
+
+** Wiederholung
+
+
+
+** Erarbeitung
+Können Stars echte Wegbegleiter sein? 
+
+Wie steige ich ein? 
+
+Sel. Franziska Schervier [[https://www.heiligenlexikon.de/BiographienF/Franziska_Schervier.html]]
+
+Welche Personen begeistern dich? Wer inspiriert dich? Warum?
+
+[[file:~/NMS_Golling/Die_schnelle_Stunde/Stars_Idole_Vorbilder_Ideale.pdf]]
+
+UNO Menschenrechte / AB:
+[[id:fb954dff-8503-4797-add5-b9f6a60ddc30][Together Strong - Menschenrechte]]
+
+[[http://www.youtube.com/watch?v=12uKuORCyBM]]
+
+Was bedeutet:
+unveräußerlich / unteilbar / universal
+
+** Hefteintrag
+
+
+
+
+* DONE [SW05] Ich möchte, dass einer mit mir geht
+CLOSED: [2022-10-14 Fr 22:34] DEADLINE: <2022-10-10 Mo>
+:PROPERTIES:
+:CUSTOM_ID: mein Wegbegleiter
+:ID: 03_SW05
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-10-14 Fr 22:34]
+- State "DONE"       from "TODO"       [2021-10-16 Sa 10:09]
+- State "DONE"       from "TODO"       [2020-10-17 Sa 09:51]
+- CLOSING NOTE [2019-10-13 So 12:05] \\
+  "Komischerweise" gab es in allen drei Klassen kleine Konflikte. Somit konnten wir dieses Thema sehr konkret bearbeiten.
+    - CLOSING NOTE [2018-10-17 Mi 22:12] \\
+      Es gab zwar ein paar mühsame Momente, aber zum Schluss haben die Schüler ihre Aufgabe gut gelöst.
+    - CLOSING NOTE [2017-10-17 Die 09:16] \\
+      Am Beispiel von Franz Jägerstätter zeigt sich in aller Konsequenz der Anspruch einer Gewissens-Entscheidung.
+    :END:
+
+** Kompetenzbeschreibung
+[[#A2]] Menschen und ihre Lebensorientierungen - Die Schüler können die Frage nach dem Woher anhand biblischer Schöpfungsvorstellungen und naturwissenschaftlicher Konzepte bearbeiten und deren Vereinbarkeit argumentativ darlegen.
+[[#A2_KB2]] Die Schüler können die Sehnsucht nach einem Leben in Fülle zur Sprache bringen und vielfältige Sinnangebote bewerten.
+
+** AB / UH
+[[#A2_UH2]] Glück, Zufriedenheit, Erfüllung
+
+
+** Wiederholung
+
+
+ 
+** Erarbeitung
+
+Sklaverei, Ausbeutung; Erfüllung, ...
+
+Material zum Thema "Kindersoldaten":
+[[file:~/NMS_Golling/Kindersoldaten/]]
+
+Kindersoldaten / YouTube
+[[https://www.youtube.com/watch?v=REfjjO60_v0]]
+
+arte-Doku / Kindersoldaten:
+[[https://www.youtube.com/watch?v=_M2ATWyvdlA]]
+
+Material zum Thema "Menschenhandel":
+[[https://www.youtube.com/watch?v=n5ExjQ-h_3k]] [Infografik]
+
+[[file:Kindersoldaten_Missio/Missio_Info_1_19.pdf]]
+
+[[https://www.youtube.com/watch?v=dLAWNdZ3f8Q][Dirty Dollars ZDF Dokumentation über Menschenhandel (YouTube)]]
+
+Dirty Dollars Medikamenten-Handel Doku (Waffenhandel ist zu "arg" als Film, außerdem kommwen gewisse Schüler auf dumme Ideen.)
+
+***
+
+Kriitische Anmerkungen zu Vorbildern:
+ - Vorbilder sind so groß, dass man durch sie an seine eigene Kleinheit erinnert wird.
+ - Wer Vorbildern folgt, wird schnell zur blassen Kopie, statt seine eigene Stärken zu entwickeln.
+ - Wir kennen öffentliche Vorbilder nur eindimensional. Wir kennen ihr Image, aber nicht ihren Charakter.
+    
+
+Wer begleitet mich in meinem Leben? Wem kann ich wirklich vertrauen? Wer hält immer zu mir? 
+
+Wie treu können Menschen sein? Der Mensch ist wesentich auf Gemeinschaft angelegt - es gehört zu seinem Wesen. Manche Tiere können auch alleine leben. Aber die Gruppe gehört nicht wesentlich zu ihrem Sein. Ein Mensch komplett allein - kann er wirklich überleben? 
+
+[[https://www.brgdomath.com/psychologie/sozialpsychologie-und-kommunikation-tk5/]]
+
+Erfahrung: selbst die "besten" Freunde verletzen mich, lassen mich im Stich. Und es gibt Dinge, über die rede ich nicht einmal mit meinen besten Freunden. Wem kann ich sie erzählen?
+
+Ziel: Könnte dieser treue Freund auch Jesus sein? 
+
+** Hefteintrag
+
+
+* DONE [SW06] Collage: Wie kann ich mich Jesus annähern?
+CLOSED: [2022-10-21 Fr 22:13] DEADLINE: <2022-10-17 Mo>
+:PROPERTIES:
+:CUSTOM_ID: sich Jesus annähern
+:ID: 03_SW06
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-10-21 Fr 22:13]
+- State "DONE"       from "TODO"       [2021-10-26 Di 11:09]
+- State "DONE"       from "TODO"       [2020-10-24 Sa 11:58]
+    - CLOSING NOTE [2018-10-21 So 14:56] \\
+      Kein Problem diese Woche, das der Film wirklich gut ist.
+    - CLOSING NOTE [2017-10-23 Mon 00:32] \\
+      Die Kinder freuen sich sehr, in Gruppen arbeiten zu können - es klappt allerdings weniger gut als in den vierten Klassen. Unbeliebte Schüler werdne schnell mal hinausgeekelt. 
+      
+      Bin gespannt auf die Präsentationen...
+    :END:
+
+** Kompetenzbeschreibung 
+[[#B3]] Gelehrte und gelebte Bezugsreligion - Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
+[[#B3_KB1]] Die Schüler können die Reich-Gottes-Botschaft erläutern und vom befreienden Handeln Gottes erzählen.
+
+** AB / UH
+[[#B3_AB1]] Reich Gottes-Gleichnisse
+
+** Wiederholung
+
+
+** Erarbeitung
+
+*** Sich Jesus annähern - Collage gestalten
+ - Menschen nähern sich Jesus (NT)
+ - Kranke, Sünder, Fragende, Suchende, ...
+ - Wie reagiert Jesus?
+ - Auf wen geht Jesus von sich aus zu?
+ - ...
+
+Gleichnisse vom Reich Gottes
+ - Sämann
+ - Schatz im Acker / Perle
+ - ...
+
+[[file:~/Dokumente/LaTex_2/Kreinecker_ReichGottes/ReichGottes.pdf]]
+
+
+
+** Hefteintrag
+
+
+
+* DONE [SW07] Herbstferien3
+CLOSED: [2022-10-25 Di 22:20] DEADLINE: <2022-10-24 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Herbstferien3
+:ID: 03_SW07
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-10-25 Di 22:20]
+- State "DONE"       from "TODO"       [2021-11-06 Sa 09:37]
+- State "DONE"       from "TODO"       [2020-11-07 Sa 09:52]
+    - CLOSING NOTE [2018-10-27 Sa 12:56] \\
+      Super spannender Film über Jeremia. In beiden Klassen gab es wieder einmal zwei Schüler, die den Film gestört haben: sie mussten eine Zusammenfassung schreiben.
+    - CLOSING NOTE [2017-10-31 Die 09:31] \\
+      Die einzelnen Gruppen sind in dieser Woche so gut wie fertig geworden. Das Thema hat den Schülern interessiert, sie arbeiten sehr gerne in Gruppen.
+    :END:
+
+<2022-10-26 Di> Nationalfeiertag
+
+Ausschnitte aus The Chosen?
+
+Website of "The Chosen" [[https://watch.angelstudios.com/thechosen/watch]]
+Im Webplayer die deutschen Untertitel aktivieren.
+
+Besser:
+das Tagesevangelium gemeinsam lesen und darüber austauschen
+und die aktuelle YouCat-Frage lesen (YouCat Daily) 
+
+
+
+* DONE [SW08] Vergebung ohne Grenzen
+CLOSED: [2022-11-05 Sa 09:36] DEADLINE: <2022-10-31 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Vergebung ohne Grenzen
+:ID: 03_SW08
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-11-05 Sa 09:36]
+- State "DONE"       from "TODO"       [2021-11-06 Sa 09:37]
+- State "DONE"       from "TODO"       [2020-11-07 Sa 09:52]
+    - CLOSING NOTE [2017-11-02 Don 16:21] \\
+      Die Präsentation hat auch in dieser, sehr kurzen Woche nicht geklappt; ganz bestimmt aber nächste Woche!
+    :END:
+
+<2021-11-02 Di> Allerseelen (schulfrei) - Ende Herbstferien
+
+** Kompetenzbeschreibung
+[[#B3]] Gelehrte und gelebte Bezugsreligion - Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
+[[#B3_KB1]] Die Schüler können die Reich-Gottes-Botschaft erläutern und vom befreienden Handeln Gottes erzählen.
+
+** AB / UH
+[[#B3_UH1]] Gnade als ein Geschenk der Befreiung
+
+
+** Erarbeitung
+Bibelstellen zum Thema "Vergebung":
+ - David und Batseba
+ - Lk 15
+ - Joh 21 (Jesus und Petrus)
+ - Wie oft vergeben? + Gleichnis
+ - Paulusbriefe
+ - Vaterunser
+
+Videos auf kathmedia?
+Zwei neue Serien:
+ - Mein Gott und Alter Walter
+ - Maria verstehen
+
+[[id:04739c4d-3013-4c93-b807-5c74f28f9819][Jesus und Zachäus]]
+
+
+** Hefteintrag
+
+
+
+* DONE [SW09] Islam
+CLOSED: [2022-11-11 Fr 21:26] DEADLINE: <2022-11-07 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Islam
+:ID: 03_SW09
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-11-11 Fr 21:26]
+- State "DONE"       from "TODO"       [2021-11-13 Sa 15:12]
+- State "DONE"       from "TODO"       [2020-11-14 Sa 11:41]
+    - CLOSING NOTE [2018-11-11 So 14:20] \\
+      Diese Stunden waren etwas schwierig - eventuell auch meiner mangelnden Vorbereitung geschuldet. Andererseits sind die beiden 3. Klassen sicher auch "anstrengend". Die 3B hat es am Freitag auf jeden Fall übertrieben.
+    - Note taken on [2018-11-09 Fr 09:58] \\
+      Wow, das war eine anstrengende Stunde in der 3B:
+      
+      Tipps für die Zukunft:
+       - Text plus Fragen Kontrolle durch Lehrer und Benotung
+       - Aufzeichnungen, wann welcher Schüler sich in der Stunde "schlimm" aufführt.
+       - Info-zettel an Eltern: Gespräch wegen disziplinären Gründen Elternsprechtag.
+       - Text auswendig lernen
+       - KEINE Gruppenarbeit mehr
+       - nur mehr Einzelarbeit mit "konkreten" Aufgaben: Text lesen, Fragen beantworten, Noten.
+
+    - CLOSING NOTE [2017-11-11 Sam 12:05] \\
+      Die Präsentationen verliefen wirklich toll - ich war sehr zufrieden mit den Schülern. Einzige Ausnahme: die Gruppe vo Jakob Pilz (3B). Diese mickrige Präsentation verdient ein Nicht Genügend. Ich gab den Schülern eine zweite Chance (nächste Woche). Bleibt die Arbeit so mickrig - so bleibt der 5er.
+    :END:
+
+** Komptenzbeschreibung
+[[#C6]] Religiöse und weltanschauliche Vielfalt in Gesellschaft und Kultur - Unterschiedlichen Lebensweisen und Glaubensformen reflexiv begegnen können
+[[#C6_KB1]] Die Schüler können Grundzüge des *Islam* beschreiben und ausgehend von ihrem  Wissen und ihren Erfahrungen Beiträge zu einem respektvollen  Miteinander gestalten
+
+** AB / UH
+[[#C6_UH1]] Islam:
+ - Wesentliche Glaubensinhalte und religiöse Praxis;
+ - Umgang mit unterschiedlichen Sichtweisen,
+ - Dialog in wertschätzender und kritischer Haltung
+
+** Wiederholung
+
+
+** Erarbeitung
+Film "Faszination Glaube / Islam" (dicke, schwarze USB-Festplatte)
+
+Arbeitsblätter / eLearning
+
+** Hefteintrag
+
+[RoamNote]
+[[id:178596c0-387a-4fe0-abb9-cba71831514a][AB Islam Huinduismus]]
+
+[LaTex / pdf]
+[[file:~/Dokumente/LaTex_2/AB_Hinduismus_Islam/ab_islam_huinduismus.pdf]]
+
+
+
+
+* DONE [SW10] Islam_Film
+CLOSED: [2022-11-20 So 09:09] DEADLINE: <2022-11-14 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Islam_Film
+:ID: 03_SW10
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-11-20 So 09:09]
+- State "DONE"       from "TODO"       [2021-11-21 So 09:43]
+- State "DONE"       from "TODO"       [2020-11-22 So 17:25]
+- CLOSING NOTE [2019-11-15 Fr 16:23] \\
+  Die Stunden war echt toll - die Schüler haben coole christliche Lieder mitgebracht.
+- CLOSING NOTE [2019-11-12 Di 21:33] \\
+  DCD "Jesus in Musik und Malerei"
+  
+  In der 3A und 3B habe ich die Kinder christliche Lieder suchen lassen. In der 3A habe ich am Dienstag fast die ganze Stunde Lobpreislieder angeschaut - hat den Schülern so sehr gefallen: "Danke für die coole und schöne Stunde!" WOW, das tat gut!
+    - CLOSING NOTE [2018-11-16 Fr 16:29] \\
+      Am Donnerstag hat sich Ivo von der 3B (auch im Namen der Klasse) bei mir entschuldigt - das fand ich toll! Die Stunde verlief dann auch super. Ich habe mit ihnen ein lustiges Bewegungslied gesungen; das hat uns alle entspannt und fröhlich gemacht.
+      
+      Auch am Freitag hatten wir eine gute Stunde.
+    - CLOSING NOTE [2017-11-27 Mon 08:38] \\
+      Film...
+    :END:
+
+** Komptenzbeschreibung
+[[#C6]] Religiöse und weltanschauliche Vielfalt in Gesellschaft und Kultur - Unterschiedlichen Lebensweisen und Glaubensformen reflexiv begegnen können
+[[#C6_KB1]] Die Schüler können Grundzüge des *Islam* beschreiben und ausgehend von ihrem  Wissen und ihren Erfahrungen Beiträge zu einem respektvollen  Miteinander gestalten
+
+** AB / UH
+[[#C6_UH1]] Islam:
+ - Wesentliche Glaubensinhalte und religiöse Praxis;
+ - Umgang mit unterschiedlichen Sichtweisen,
+ - Dialog in wertschätzender und kritischer Haltung
+
+
+** Wiederholung
+
+
+** Erarbeitung
+Film "Faszination Glaube - Islam"
+
+Bsp.: Moschee in Casablanca (Marokko)
+
+Material:
+
+planet schule.de - Islam
+Arbeitsblätter aus folgenden Verzeichnissen:
+
+[[file:~/NMS_Golling/Islam]]
+[[/home/matthias/NMS_Golling/Weltreligionen/Islam/]]
+
+Home-Schooling: Quiz zum Thema "Judentum und Islam". Den Film darf ich rechtlich wohl kaum online stellen - nur für die Schüler? Das Herunterladen kann ich dadurch nicht verhindern. 
+
+** Hefteintrag
+Kinder gestalten eine Doppelseite im Heft.
+
+
+
+* DONE [SW11] Christentum - Islam
+CLOSED: [2022-11-26 Sa 10:03] DEADLINE: <2022-11-21 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Monotheistische Weltreligionen
+:ID: 03_SW11
+:END: 
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-11-26 Sa 10:03]
+- State "DONE"       from "TODO"       [2021-11-27 Sa 10:27]
+- State "DONE"       from "TODO"       [2020-12-04 Fr 11:19]
+- CLOSING NOTE [2020-08-13 Do 16:58] \\
+  noch einmal
+- State "DONE"       from "TODO"       [2020-08-13 Do 16:57]
+- State "TODO"       from "DONE"       [2020-08-13 Do 16:54]
+- State "DONE"       from "TODO"       [2020-08-13 Do 16:53] \\
+  ein zweiter Test
+- State "TODO"       from "DONE"       [2020-08-13 Do 16:51]
+- State "DONE"       from "TODO"       [2020-08-13 Do 16:51] \\
+  ein test
+- State "DONE"       from "TODO"       [2020-08-13 Do 16:45]
+:END:
+
+** Komptenzbeschreibung
+[[#C6]] Religiöse und weltanschauliche Vielfalt in Gesellschaft und Kultur - Unterschiedlichen Lebensweisen und Glaubensformen reflexiv begegnen können
+[[#C6_KB1]] Die Schüler können Grundzüge des *Islam* beschreiben und ausgehend von ihrem  Wissen und ihren Erfahrungen Beiträge zu einem respektvollen  Miteinander gestalten
+
+** AB / UH
+[[#C6_UH1]] Islam:
+ - Wesentliche Glaubensinhalte und religiöse Praxis;
+ - Jesus, Maria und Abraham in Koran und Bibel;
+ - Umgang mit unterschiedlichen Sichtweisen,
+ - Dialog in wertschätzender und kritischer Haltung
+
+** Wiederholung
+
+
+** Erarbeitung
+Eine Doppelseite zum Islam - Christentum gestalten. Ähnlichkeiten und Unterschiede.
+
+Dreifaltigkeit - YouCat Nr. 35, 36, 122, 164
+
+Kathmedia deutsch - YouTube Videos zum Thema "Dreifaltigkeit":
+- 3MC 16: [[https://www.youtube.com/watch?v=GGEXtrYoM_Q]] (Gott dreifaltig?)
+- 3MC 17: [[https://www.youtube.com/watch?v=RiGM27ntef4]] (Dreifaltigkeit 101, Zfg)
+- 3MC 18: [[https://www.youtube.com/watch?v=d3RZ2fXVZdM]] (Dreifaltigkeit Theorie)
+- 3MC 19: [[https://www.youtube.com/watch?v=mgYk5RrlkFU]] (Dreifaltigkeit Bilder)
+- Dreifaltigkeit - Tauhid [At-Tariq 11 / Islam & Christentum]   [[https://www.youtube.com/watch?v=FlDN-FIkyPQ]]
+
+** Hefteintrag
+
+
+
+
+* DONE [SW12] Advent / Gott führt in die Freiheit
+CLOSED: [2022-12-04 So 10:07] DEADLINE: <2022-11-28 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Exodus
+:ID: 03_SW12
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-12-04 So 10:07]
+- State "DONE"       from "TODO"       [2021-12-28 Di 09:47]
+- State "DONE"       from "TODO"       [2020-12-04 Fr 11:19]
+- State "DONE"       from "TODO"       [2019-11-30 Sa 09:33]
+    - CLOSING NOTE [2018-11-30 Fr 10:12] \\
+      Tja, wie leg ich's an? Die Schüler der dritten Klassen waren "schwierig" - und ich zu wenig vorbereitet. Merke für die nächste Woche: "die Katze muss schnurren" ...
+    - Note taken on [2018-11-29 Do 15:23] \\
+      Hui, das war wieder arg in beiden dritten Klassen:
+      
+       - 3A Ilija hat Sophie ein Büschel Haare mit der Schere abgeschnitten!
+       - 3B Die "Üblichen" haben wieder den Unterricht massiv gestört. Einiges habe ich mit Humor genommen, oder bin scharf geworden.
+       - Tipp von Sepp: Setze die Schlimmen gleich zu Beginn der Stunde in sein Kammerl mit einem Arbeitsauftrag.
+    - CLOSING NOTE [2017-12-04 Mon 00:02] \\
+      Die Stunde bzgl "Jugend und Recht" verlief okay.
+      
+      In der zweiten Stunde wurde der Weihnachtsgottesdienst vorbereitet (3A); in der 3B ...?
+    :END:
+
+<2021-11-28 So> Erster Adventsonntag
+
+** Kompetenzbeschreibung
+[[#B3]] Gelehrte und gelebte Bezugsreligion - Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
+[[#B3_KB1]] Die Schüler können die Reich-Gottes-Botschaft erläutern und vom befreienden Handeln Gottes erzählen.
+
+** AB / UH
+[[#B3_AB1]] Exodus
+
+** Wiederholung
+Spezielles Ritual im Advent? Geschichten lesen?
+
+
+** Erarbeitung
+Situation des Volkes Israels in Ägypten - Unterdrückung auch heute?
+Bibel: Ende Genesis / Beginn Exodus.
+
+Texte lesen
+
+[[id:b7ec9d9d-a0e7-4d98-9f07-e3aec92757dd][Messiaserwartung]]
+
+[[id:bb37b797-a26c-414c-aeb9-e91d9f4f832b][Der Herr]]
+
+** Hefteintrag
+
+
+
+
+* DONE [SW13] 10 Gebote
+CLOSED: [2022-12-09 Fr 10:33] DEADLINE: <2022-12-05 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Dekalog
+:ID: 03_SW13
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-12-09 Fr 10:33]
+- State "DONE"       from "TODO"       [2021-12-28 Di 09:47]
+- State "DONE"       from "TODO"       [2020-12-12 Sa 11:22]
+- State "DONE"       from "TODO"       [2019-12-05 Do 15:39]
+    - CLOSING NOTE [2018-12-07 Fr 17:44] \\
+      3B: Vorbereitung Weihnachtsgottesdienst - die beiden Stunden verliefen einigermaßen okay. Am Donnerstag kam KV Gertraud Ellmayer vorbei und machte ihrem Unmut und Zorn Luft - die Kinder reagieren kaum bis gar nicht auf Ermahnungen (oder typisch mit "blödem" Grinsen und Lachen). Va hintrerlassen die Schüler die Klasse äußerst schmutzig. Tipp und Aufforderung vom KV: wenn das Verhalten des Schülers schelcht ist, dann gib ihm eine Mahnung mit (cf Formular).
+    - CLOSING NOTE [2017-12-11 Mon 22:20] \\
+      Mit der 3A bereiten wir den Weihnachtsgottesdienst vor, alles läuft sehr gut.
+      
+      Die 3B hat gut gearbeitet - und bastelt mit Barbara Essl die Sonne.
+    :END:
+
+
+** Kompetenzbeschreibung
+[[#B3]] Gelehrte und gelebte Bezugsreligion - Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
+[[#B3_KB2]] Die Schüler kennen christliche Grundlagen des Zusammenlebens und können Ideen für ein gelingendes demokratisches Miteinander entwickeln.
+
+** AB / UH
+[[#B3_AB2]] Dekalog
+
+** Wiederholung
+
+
+** Erarbeitung
+Material:
+Ruhr-Verlag.
+
+Tafelbild
+Weg von Ägypten in das verheißene Land
+Zweimal durch "gefährliches Gewässer" (Schilfmeer / Jordan); in der Mitte Berg Sinai, Offenbarung Gottes / 10 Gebote.
+
+ - Tafelbild bis zum Berg Sinai zeichnen
+ - Text aus Ex 20 lesen + besprechen
+ - Tafelbild weiterzeichnen: 40 Jahre in der Wüste
+ - Wieder beim Berg Horeb (Sinai)
+ - Wieder 10 Gebote: Dtn 5
+ - Überquerung Jordan
+ - Einzug ins gelobte Land.
+
+YouCat (10 Gebote)
+
+YouCat 9: "Was zeigt Gott von sich, wenn er seinen Sohn zu uns schickt?"
+
+Gott zeigt uns in Jesus Christus die ganze Tiefe seiner barmherzigen Liebe. (65-66, 73)
+
+Durch Jesus Christus wird der unsichtbare Gott sichtbar. Er wird Mensch wie wir. Das zeigt uns, wie weit die Liebe Gottes geht: Er trägt unsere ganze Last. Er geht alle Wege mit uns. Er ist in unserer Verlassenheit, unseren Leiden, unserer Angst vor dem Tod. Er ist dort, wo wir nicht mehr weiterkönnen, um uns die Tür ins Leben aufzumachen.
+
+
+
+** Hefteintrag
+
+
+
+
+* DONE [SW14] Bergpredigt
+CLOSED: [2022-12-17 Sa 09:34] DEADLINE: <2022-12-12 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Bergpredigt
+:ID:       03_SW14
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-12-17 Sa 09:34]
+- State "DONE"       from "TODO"       [2021-12-28 Di 09:47]
+- State "DONE"       from "TODO"       [2021-01-02 Sa 15:52]
+- State "DONE"       from "TODO"       [2019-12-27 Fr 22:41]
+    - CLOSING NOTE [2018-12-14 Fr 09:43] \\
+      3A: "Johannes der Täufer" war okay. 
+      
+      3B: Am Donnerstag waren nur mehr 10 Schüler im RU, kahoot. Am Freitag haben wir noch Symbole gebastelt; es ist schade, dass selbst während so einer Stunde ein paar Schüler unfähig sind, sich "normal" zu benehmen; sie machen selber nix und stören noch jene, die basteln.
+    - CLOSING NOTE [2017-12-18 Mon 12:20] \\
+      Die 3A bereitet mit Eifer den Weihanchtsgottesdienst vor / die 3B hat gut mit der Hl. Schrift gearbeitet.
+    :END:
+
+** Kompetenzbeschreibung
+[[#B3]] Gelehrte und gelebte Bezugsreligion - Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
+[[#B3_KB1]] Die Schüler können die Reich-Gottes-Botschaft erläutern und vom befreienden Handeln Gottes erzählen.
+
+** AB / UH
+[[#B3_UH2]] Bergpredigt (Auswahl) 
+
+** Wiederholung
+
+
+** Erarbeitung
+10 Gebote nach [[https://www.die10besten.ch/]] bearbeiten.
+
+LearningApps:
+- [[https://learningapps.org/14989920]] (10 Gebote Reli Quiz katholisch)
+- [[https://learningapps.org/14989915]] (10 Gebote katholisch)
+- [[https://learningapps.org/16750674]] (12 Apps zur Bergpredigt)
+
+Bergpredigt Mt 5 - Ausschnitte aus "The Chosen" (leider nur Englisch)
+
+
+
+** Hefteintrag
+
+
+
+
+* TODO [SW15] Maria, von Gott auserwählt
+DEADLINE: <2022-12-19 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Maria
+:ID:       03_SW15
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2021-12-28 Di 09:47]
+- State "DONE"       from "TODO"       [2021-01-02 Sa 15:52]
+- State "DONE"       from "TODO"       [2019-12-27 Fr 22:41]
+    - CLOSING NOTE [2018-01-04 Don 16:02] \\
+      Es waren tolle Stunden vor Weihnachten / 3A hat den Gottesdienst toll vorbereitet!
+    :END:
+
+
+** Kompetenzbeschreibung
+[[#B4]] Gelehrte und gelebte Bezugsreligion - Kirchliche Grundvollzüge kennen und religiös-spirituelle Ausdrucksformen gestalten können
+[[#B4_KB2]] Die Schüler können die Anfänge der Kirche und ihre Strukturen beschreiben und Einblick in das Leben der Orts- und Weltkirche geben.
+
+** AB / UH
+[[#B4_UH2]] Frauen im frühen Christentum
+
+** Wiederholung
+
+
+** Erarbeitung
+Weihnachtsgeschichten lesen
+
+Bedeutung des Weihnachtsfestes
+
+
+** Hefteintrag
+
+
+
+* TODO [SW16] Ferien
+DEADLINE: <2022-12-26 Mo>
+:PROPERTIES:
+:ID: 03_SW16
+:CUSTOM_ID: Ferien
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-01-15 Sa 10:03]
+- State "DONE"       from "TODO"       [2021-01-02 Sa 15:52]
+- State "DONE"       from "TODO"       [2019-12-27 Fr 22:41]
+:END:
+
+
+* TODO [SW17] Ferien 
+DEADLINE: <2023-01-02 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Gott wird Mensch
+:ID: 03_SW17
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-01-15 Sa 10:03]
+- State "DONE"       from "TODO"       [2021-01-10 So 22:01]
+- State "DONE"       from "TODO"       [2019-12-27 Fr 22:42]
+:END:
+
+
+
+* TODO [SW18] Vergleich Wissenschaft und Schöpfungstexte
+DEADLINE: <2023-01-09 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Schöpfung_Wissenschaft
+:ID: 03_SW18
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-01-15 Sa 10:04]
+- State "DONE"       from "TODO"       [2021-01-17 So 10:13]
+- State "DONE"       from "TODO"       [2020-01-11 Sa 09:09]
+    - CLOSING NOTE [2019-01-12 Sa 18:15] \\
+      Der Film ist wirklich gut - er zeichnet ein schönes Bild des Islam. Die Moslems in Marokko scheinen wirklich großartige Menschen zu sein, sehr edel, tief religiös; friedlebende Menschen. Die Moschee in Casablanca ist prachtvoll. Für die nächste Woche (SW 19) bereite ich AB vor ...
+    - CLOSING NOTE [2018-01-22 Mon 12:16] \\
+      Stunden bzgl "Drei Könige"
+    - Note taken on [2018-01-10 Mit 12:25] \\
+      Der Film funktioniert in der 3B gar nicht; es kann sein, dass er "zu hoch" ist. Dennoch ... in Zukunft gibt es sog. "Schriebmeditaionen", eventuell Tests. Schade, wenn sich Schüler selbst schädigen. Ab jetzt wird geschrieben. Hm, muss mir Material suchen, Texte, Fragen, Freitexte, ...
+    :END:
+
+** Kompetenzbeschreibung
+[[#A2]] Menschen und ihre Lebensorientierungen - Sich mit den großen Fragen der Menschen auseinandersetzen können
+[[#A2_KB1]] Die Schüler können die Frage nach dem Woher anhand biblischer Schöpfungsvorstellungen und naturwissenschaftlicher Konzepte bearbeiten und deren Vereinbarkeit argumentativ darlegen.
+
+** AB / UH
+[[#A2_UH1]] Dialog zwischen Theologie und Naturwissenschaften 
+
+** Wiederholung
+
+
+** Erarbeitung
+Eine überschätzte Spezies | Doku Reupload | ARTE
+[[https://www.youtube.com/watch?v=N3xjGxqKpwM]]
+
+[[http://webcompetent.org/was-ist-der-mensch-noch-dass-du-seiner-gedenkst/#more-8881][Was ist der Mensch noch, dass du seiner gedenkst? - webcompetent % %]]
+
+*** Mögliche Vertiefungsaufgaben zum Film
+Auch die Autoren des 1. Schöpfungsmythos haben für ihren Text auf die Vorstellungen der damals bekannten Welt zurückgegriffen. Aktualisiert dieses Weltwissen in Gen 1-2,4a und setzt euch damit auseinander, ob die Aktualisierungen auch die Rolle des Menschen im Text verändert.
+    
+Versetzt euch in die Autoren des 1. Schöpfungsmythos hinein. Wie würden diese reagieren, wenn man sie mit unserem heutigen Wissen über das Leben und den Kosmos konfrontiert? Würden Sie ihren Schöpfungsmythos umschreiben oder verwerfen? Stellt eure Überlegungen in Form eines Textes (kreatives Schreiben, Dialog...) oder eines szenischen Spiels um.
+
+Plant in Auseinandersetzung mit dem Film einen eigenen Film. Konzeptioniert werden kann dieser als Fortsetzung (Kapitel 11 — Ethische Schlussfolgerungen) oder als Gegenentwurf, in welchem die Bedeutung des Menschen hervorgehoben werden kann.
+
+Setzt euch mit den folgenden Bibeltexten auseinander: Gottes Antwort aus dem Wettersturm (Hiob 38ff), Hiobs Antwort (Hiob 42,1 – 6) und Ps8. Wählt passende Verse aus, welche ihr als Kommentar zu einem Kapitel des Films bei einem erneuten Sehen einsprecht (technisch: Anhalten oder Stummschalten möglich). Begründet im Anschluss euer Konzept.
+
+*** Theologische Deutung und weitere Inhaltliche Verknüpfungen zum Weiterarbeiten
+- Verhältnis von Glauben und Wissen, von Religion und Naturwissenschaft, Komplementäres Modell, Die sogenannten Kränkungen der Menschheit
+- Theodizee und Naturwissenschaft als Reaktion auf Abhängigkeit von der Natur: theologische Deutung der SARS-CoV-2-Pandemie
+- Menschenbild, Weltbild und ethische Begründungen: Umgang mit der Natur, mit den Mitgeschöpfen; Ego vs. Eco (siehe Medien)
+- Sonderstellung des Menschen: Doku "Von Affen und Menschen" (siehe Medien) – Tierethik, Speziesismus, Utilitarismus von Singer und Singers Personbegriff, Great Ape Project
+
+  
+
+** Hefteintrag
+
+
+* TODO [SW19] Urkirche
+DEADLINE: <2023-01-16 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Urkirche2
+:ID: 03_SW19
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-01-22 Sa 22:59]
+- State "DONE"       from "TODO"       [2021-01-23 Sa 12:02]
+- State "DONE"       from "TODO"       [2020-01-18 Sa 10:15]
+    - CLOSING NOTE [2019-01-18 Fr 09:46] \\
+      Das Religionsbuch von Hubertus Halbfas ist wesentlich besser, informativer - mit einem Riesenvorteil: es gibt ein Arbeitsbuch. 
+      
+      Zusammen mit dem Film haben die Schüler durch die Arbeitsblätter einen guten Überblick und eine interessante Einführung in den Islam erhalten. 
+      
+      Leider gibt es in beiden Klassen "verhaltens-kreative" Schüler.
+    - CLOSING NOTE [2018-01-22 Mon 12:16] \\
+      Sehr spannender Film zum Thema "Islam"
+    :END:
+
+** Kompetenzbeschreibung
+[[#B4]] Gelehrte und gelebte Bezugsreligion - Kirchliche Grundvollzüge kennen und religiös-spirituelle Ausdrucksformen gestalten können
+[[#B4_KB2]] Die Schüler können die Anfänge der Kirche und ihre Strukturen beschreiben und Einblick in das Leben der Orts- und Weltkirche geben.
+
+** AB / UH
+[[#B4_UH2]] Urkirche
+
+** Wiederholung
+[[id:7937a1c6-e94d-4aeb-8c6f-a687513a3238][Urkirche_Apostelgeschichte]]
+
+** Erarbeitung
+Texte aus der Urkirche
+
+ - Arbeitsblätter, geografische Karten, Umwelt Jesu und der Aposteln,
+ - Sprache
+ - Berufe
+
+Mission: Kirche verkündet den Glauben....
+
+3MC - Videos.
+
+Kirche - Youcat:
+ - 121 - 128
+ - 129 - 145
+
+[[id:d4a63b49-8cc7-4ae5-a09e-cc9cdb7a99f9][Zusammenschau der drei großen christlichen Konfessionen - Ökumenisches Heiligenlexikon]]
+
+** Hefteintrag
+
+
+
+* TODO [SW20] Christenverfolgungen damals und heute
+DEADLINE: <2023-01-23 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Christenverfolgung2
+:ID: 03_SW20
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-01-30 So 11:16]
+- State "DONE"       from "TODO"       [2021-03-09 Di 15:09]
+- State "DONE"       from "TODO"       [2020-01-25 Sa 15:36]
+    - CLOSING NOTE [2019-02-01 Fr 10:08] \\
+      Die dritten Klassen sind - leider wie bisher - eher "schwierig". Ich muss strenger sein! Es geht ums Überleben!
+      Bei diesem Thema waren die Schüler einigermaßen dabei.
+    - Note taken on [2018-01-24 Mit 12:27] \\
+      3B - es klappt nicht. Ab heute git es Schreibmeditationen!
+    :END:
+
+** Kompetenzbeschreibung
+[[#B4]] Gelehrte und gelebte Bezugsreligion - Kirchliche Grundvollzüge kennen und religiös-spirituelle Ausdrucksformen gestalten können
+[[#B4_KB2]] Die Schüler können die Anfänge der Kirche und ihre Strukturen beschreiben und Einblick in das Leben der Orts- und Weltkirche geben.
+
+** AB / UH
+[[#B4_UH2]] Christenverfolgungen damals und heute
+
+
+** Wiederholung
+
+
+** Erarbeitung
+ - Website "Kirche in Not"
+ - Zeugnisse von Christen (z.B. aus Nordkorea)
+ - Bsp aus Europa?
+
+Eine überschätzte Spezies | Doku Reupload | ARTE
+[[https://www.youtube.com/watch?v=N3xjGxqKpwM]]
+
+[[http://webcompetent.org/was-ist-der-mensch-noch-dass-du-seiner-gedenkst/#more-8881][Was ist der Mensch noch, dass du seiner gedenkst? - webcompetent % %]]
+
+*** Mögliche Vertiefungsaufgaben zum Film
+Auch die Autoren des 1. Schöpfungsmythos haben für ihren Text auf die Vorstellungen der damals bekannten Welt zurückgegriffen. Aktualisiert dieses Weltwissen in Gen 1-2,4a und setzt euch damit auseinander, ob die Aktualisierungen auch die Rolle des Menschen im Text verändert.
+    
+Versetzt euch in die Autoren des 1. Schöpfungsmythos hinein. Wie würden diese reagieren, wenn man sie mit unserem heutigen Wissen über das Leben und den Kosmos konfrontiert? Würden Sie ihren Schöpfungsmythos umschreiben oder verwerfen? Stellt eure Überlegungen in Form eines Textes (kreatives Schreiben, Dialog...) oder eines szenischen Spiels um.
+
+Plant in Auseinandersetzung mit dem Film einen eigenen Film. Konzeptioniert werden kann dieser als Fortsetzung (Kapitel 11 — Ethische Schlussfolgerungen) oder als Gegenentwurf, in welchem die Bedeutung des Menschen hervorgehoben werden kann.
+
+Setzt euch mit den folgenden Bibeltexten auseinander: Gottes Antwort aus dem Wettersturm (Hiob 38ff), Hiobs Antwort (Hiob 42,1 – 6) und Ps8. Wählt passende Verse aus, welche ihr als Kommentar zu einem Kapitel des Films bei einem erneuten Sehen einsprecht (technisch: Anhalten oder Stummschalten möglich). Begründet im Anschluss euer Konzept.
+
+*** Theologische Deutung und weitere Inhaltliche Verknüpfungen zum Weiterarbeiten
+- Verhältnis von Glauben und Wissen, von Religion und Naturwissenschaft, Komplementäres Modell, Die sogenannten Kränkungen der Menschheit
+- Theodizee und Naturwissenschaft als Reaktion auf Abhängigkeit von der Natur: theologische Deutung der SARS-CoV-2-Pandemie
+- Menschenbild, Weltbild und ethische Begründungen: Umgang mit der Natur, mit den Mitgeschöpfen; Ego vs. Eco (siehe Medien)
+- Sonderstellung des Menschen: Doku "Von Affen und Menschen" (siehe Medien) – Tierethik, Speziesismus, Utilitarismus von Singer und Singers Personbegriff, Great Ape Project
+
+** Hefteintrag
+
+
+* TODO [SW21] Die gesellschaftskritische Kraft des frühen Christentums
+DEADLINE: <2023-01-30 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Kritk_Gesellschaft2
+:ID: 03_SW21
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-02-04 Fr 14:03]
+- State "DONE"       from "TODO"       [2021-03-09 Di 15:09]
+- State "DONE"       from "TODO"       [2020-02-02 So 16:14]
+    - CLOSING NOTE [2019-02-01 Fr 10:10] \\
+      Das Erstellen des Kahoots klappte sehr gut in der 3B, das hat mich positiv überrascht.
+      
+      Der Beginn des Moses-Films ist doch etwas heftig: Babys werden in den Nil geworfen... ab dann geht es wieder...
+    - CLOSING NOTE [2018-02-03 Sam 16:04] \\
+      Sehr gute Stunde in der 3a, Harris ist Moslem und hat aus eigener Erfahrung berichtet, seine Kollegen haben toll zugehört. 
+      
+      Der Film passt toll ...
+    :END:
+
+** Kompetenzbeschreibung
+[[#B4]] Gelehrte und gelebte Bezugsreligion - Kirchliche Grundvollzüge kennen und religiös-spirituelle Ausdrucksformen gestalten können
+[[#B4_KB2]] Die Schüler können die Anfänge der Kirche und ihre Strukturen beschreiben und Einblick in das Leben der Orts- und Weltkirche geben.
+
+** AB / UH
+[[#B4_UH2]] Die gesellschaftskritische Kraft des frühen Christentums
+
+** Erarbeitung
+aktuelle Themen...
+
+Welche Kritik übte das frühe Christentum an der Gesellschaft?
+ - Freie / Sklaverei - vor dem Staat / vor Gott 
+ - Mann / Frau
+ - Eltern / Kinder
+ - Staatliche Gewalt / Gottes Herrschaft
+ - Aufgaben innerhalb der Kirche ...
+
+Aber vor allem: "Seht, wie sie sich lieben!" 
+
+** Hefteintrag
+
+
+
+* TODO [SW22] Whg / Film 
+DEADLINE: <2023-02-06 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Whg_Film
+:ID:       03_SW22
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-02-16 Mi 11:20]
+- State "DONE"       from "TODO"       [2021-03-09 Di 15:09]
+- State "DONE"       from "TODO"       [2020-02-07 Fr 17:11]
+- CLOSING NOTE [2019-02-22 Fr 10:03] \\
+  Der Film ist zwar alt - aber sehr gut!
+    - CLOSING NOTE [2018-02-22 Don 09:57] \\
+      Die Stunden waren sehr gut...
+    :END:
+
+** Kompetenzbeschreibung
+[[#B4]] Gelehrte und gelebte Bezugsreligion - Kirchliche Grundvollzüge kennen und religiös-spirituelle Ausdrucksformen gestalten können
+[[#B4_KB2]] Die Schüler können die Anfänge der Kirche und ihre Strukturen beschreiben und Einblick in das Leben der Orts- und Weltkirche geben.
+
+** AB / UH
+[[#B4_UH2]] Die gesellschaftskritische Kraft des frühen Christentums
+
+** Erarbeitung
+aktuelle Themen...
+
+Welche Kritik übte das frühe Christentum an der Gesellschaft?
+ - Freie / Sklaverei - vor dem Staat / vor Gott 
+ - Mann / Frau
+ - Eltern / Kinder
+ - Staatliche Gewalt / Gottes Herrschaft
+ - Aufgaben innerhalb der Kirche ...
+
+Aber vor allem: "Seht, wie sie sich lieben!" 
+
+** Hefteintrag
+
+
+* TODO [SW23] Semesterferien
+DEADLINE: <2023-02-13 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Semesterferien
+:ID:       03_SW23
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-02-16 Mi 11:20]
+- State "DONE"       from "TODO"       [2021-03-09 Di 19:25]
+- State "DONE"       from "TODO"       [2020-02-07 Fr 17:11]
+:END:
+
+
+
+
+* TODO [SW24] Urkirche 
+DEADLINE: <2023-02-20 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Urkirche 
+:ID:       03_SW24
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-02-27 So 11:10]
+- State "DONE"       from "TODO"       [2021-03-05 Fr 10:28]
+- State "DONE"       from "TODO"       [2021-02-27 Sa 10:27]
+- State "DONE"       from "TODO"       [2020-02-23 So 14:17]
+- CLOSING NOTE [2019-02-22 Fr 09:53] \\
+  3A: hier klappt es einigermaßen.
+  
+  3B: wow! siehe die Notiz. Warum fällt es mir so schwer, hier konsequenter zu sein? Ich kann den Schülern sicher auch einmal sagen, dass es mir keine Freude bereitet, in der 3B zu unterrichten. Weiters wird es - hoffentlich - genügen, ein paar Mal die störenden Schüler beim ersten Fehlverhalten aus der Klasse zu verbannen. Dabei einen Schüler nach Manuela Gruber schicken lassen; sie wacht darüber, dass der Schüler seine Strafarbeit erledigt. Was der Schüler nicht schafft, muss er zuhause erledigen; er zeigt mir die Strafe mit Unterschrift der Eltern.
+- Note taken on [2019-02-22 Fr 09:47] \\
+  In der 3B ging es heute recht "rund"! Normaler Unterricht war heute kaum möglich; ich hab die Schüler selber arbeiten lassen, auch im 2er-Team. Es funktioniert nicht! Was bedeutet das für die nächsten Wochen? Wenn ich keinen Monolog halten soll? Welche Möglichkeiten gibt es? Die Kinder können auch viel schreiben. Dh ich bringe einen langen Text mit, woraus ich ein Diktat mache. Oder: die störenden Schüler werden beim ersten Fehlverhalten sofort aus der Klasse verbannt:
+  
+   - einen Schüler zum Konferenzzimmer schicken, um Fr. Manuela Gruber zu holen (geht nur am Freitag, 2. Stunde)
+   - Manuela wacht darüber, dass der Schüler seine Strafe erledigt.
+   - Nicht-Erledigtes wird zu Hause nachgeholt.
+   - Die vollständige Aufgabe zeigt mir der Schüler am Montag - mit Unterschrift der Eltern
+   - Meistens genügt es, dies dreimal durchzuziehen.
+    - CLOSING NOTE [2018-02-27 Die 08:53] \\
+      Das waren sehr gute Stunden. Die 3B wird in der Fastenzeit den Ostergottesdienst vorbereiten.
+    :END:
+
+<2023-02-22 Mi> Aschermittwoch
+
+** Kompetenzbeschreibung
+[[#B4]] Gelehrte und gelebte Bezugsreligion - Kirchliche Grundvollzüge kennen und religiös-spirituelle Ausdrucksformen gestalten können
+[[#B4_KB2]] Die Schüler können die Anfänge der Kirche und ihre Strukturen beschreiben und Einblick in das Leben der Orts- und Weltkirche geben.
+
+** AB / UH
+[[#B4_UH2]] Urkirche
+
+** Wiederholung
+[[id:7937a1c6-e94d-4aeb-8c6f-a687513a3238][Urkirche_Apostelgeschichte]]
+
+** Erarbeitung
+Texte aus der Urkirche - Apostelgeschichte, Briefe (Paulus, Petrus, Johannes, Jakobus, Judas, Hebräer)
+
+ - Wie begann die Kirche? (Wort Jesu an Petrus; Apg 2 - Pfingsten; ...)
+ - Welche Struktur hatte sie? (Bischof / Apostel, Diakon, verschiedene Aufgaben, Lehrer, etc...)
+ - Welche Aufgaben hatte sie? (vier Grundvollzüge: Verkündigung - Liturgie - Diakonie - Gemeinschaft)
+
+ - Arbeitsblätter, geografische Karten, Umwelt Jesu und der Aposteln,
+ - Sprachen: Griechisch, Latein, Aramäisch.
+ - Berufe: Zeltmacher (Ṕaulus), Handwerker, Händler, ...
+
+Mission: Kirche verkündet den Glauben....
+
+3MC - Videos.
+
+Kirche - Youcat:
+ - 121 - 128
+ - 129 - 145
+
+[[id:d4a63b49-8cc7-4ae5-a09e-cc9cdb7a99f9][Zusammenschau der drei großen christlichen Konfessionen - Ökumenisches Heiligenlexikon]]
+
+
+
+** Hefteintrag
+
+
+* TODO [SW25] Christenverfolgungen damals und heute / Aschermittwoch
+DEADLINE: <2023-02-27 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Christenverfolgung
+:ID:       03_SW25
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-03-05 Sa 08:59]
+- State "DONE"       from "TODO"       [2021-03-09 Di 15:09]
+- State "DONE"       from "TODO"       [2020-02-29 Sa 19:01]
+    - CLOSING NOTE [2018-03-03 Sam 18:04] \\
+      Erste Einführung zum Dekalog - cf VL von Andreas Weiß
+    :END:
+
+
+** Kompetenzbeschreibung
+[[#B4]] Gelehrte und gelebte Bezugsreligion - Kirchliche Grundvollzüge kennen und religiös-spirituelle Ausdrucksformen gestalten können
+[[#B4_KB2]] Die Schüler können die Anfänge der Kirche und ihre Strukturen beschreiben und Einblick in das Leben der Orts- und Weltkirche geben.
+
+** AB / UH
+[[#B4_UH2]] Christenverfolgungen damals und heute
+
+
+** Wiederholung
+
+
+** Erarbeitung
+ - Website "Kirche in Not"
+ - Zeugnisse von Christen (z.B. aus Nordkorea)
+ - Bsp aus Europa?
+
+
+
+** Hefteintrag
+
+
+** Kompetenzbeschreibung
+[[#B4]] Gelehrte und gelebte Bezugsreligion - Kirchliche Grundvollzüge kennen und religiös-spirituelle Ausdrucksformen gestalten können
+[[#B4_KB2]] Die Schüler können die Anfänge der Kirche und ihre Strukturen beschreiben und Einblick in das Leben der Orts- und Weltkirche geben.
+
+** AB / UH
+[[#B4_UH2]] Die gesellschaftskritische Kraft des frühen Christentums
+
+** Erarbeitung
+aktuelle Themen...
+
+Welche Kritik übte das frühe Christentum an der Gesellschaft?
+ - Freie / Sklaverei - vor dem Staat / vor Gott 
+ - Mann / Frau
+ - Eltern / Kinder
+ - Staatliche Gewalt / Gottes Herrschaft
+ - Aufgaben innerhalb der Kirche ...
+Aber vor allem: "Seht, wie sie einander lieben!"
+
+Christenverfolgungen
+
+[[https://www.christenverfolgung.org/]]
+
+[[id:be45f516-03d6-4a0a-b1d4-35d1597e079a][Christenverfolgung]]
+
+** Hefteintrag
+
+
+
+** Kompetenzbeschreibung
+[[#B3]] Gelehrte und gelebte Bezugsreligion - Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
+[[#B3_KB2]] Die Schüler kennen christliche Grundlagen des Zusammenlebens und können Ideen für ein gelingendes demokratisches Miteinander entwickeln.
+
+** AB / UH
+[[#B3_AB2]] Gewissen / Franz Jägerstätter
+
+
+** Wiederholung
+
+
+** Erarbeitung
+Film zum Thema finden...
+
+*** NDR-Doku von 1967:
+[[https://www.youtube.com/watch?v=XHOJ02crYBs]]
+Sehr gute Dokumentation (), v.a. kommen die Zeitzeugen zu Wort; ich habe (noch) nicht alles gesehen, aber jener Satz bleibt hängen (ein Gast im Wirtshaus): "Das würde ja heißen, dass alle Kriegsverbrecher waren, die an die Front gegangen sind. Das kann nicht sein. Menschlich verstehe ich's nicht: er hat seine Familie und seinen Hof im Stich gelassen!" Franz Jägerstätter bleibt lange Zeit für seine Mitbewohner wie ein Fremder. 
+
+*** Kath-Net-Doku:
+[[https://www.youtube.com/watch?v=fSklb9M_fp4]]
+...
+
+*** Ausschnitte aus dem Film "Der Fall Franz Jägerstätter" (Axel Corti; Kurt Weinzierl)
+[[https://www.youtube.com/watch?v=xBgLjrqEdRs]]
+Ein Film Klassiker aus Österreich.
+
+*** Fundstücke in der TVThek (ORF):
+[[https://tvthek.orf.at/profile/Archiv/7648449/NS-Opfer-Franz-Jaegerstaetter/13956072/NS-Opfer-Franz-Jaegerstaetter/14188875][NS Opfer Franz Jägerstätter]]
+
+[[https://tvthek.orf.at/profile/Archiv/7648449/Jaegerstaetter-Das-Todesurteil/12456834/Jaegerstaetter-Das-Todesurteil/12456835][Das Todesurteil]]
+
+[[https://tvthek.orf.at/profile/Archiv/7648449/Franziska-Jaegerstaetter-Einer-der-Nein-sagte/13251122/Franziska-Jaegerstaetter-Einer-der-Nein-sagte/13395586][Franziska Jägerstätter: Einer der Nein sagte]]
+
+Oder Theodizee ...
+
+*** Gewissen (KKK)
+YouCat [[id:f2100a6c-5d20-4e15-8615-ae20b548e1f8][Gewissen]]
+
+org-roam-Link:
+[[id:37ca58c4-1034-443c-9f4d-77f0039883f0][Dilemmageschichten]]
+
+[[/home/matthias/NMS_Golling/Gewissen_Dilemmageschichten/]]
+
+
+** Hefteintrag
+
+
+* TODO [SW28] Was ist das Kreuz für dich?
+DEADLINE: <2023-03-20 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Jesu Kreuz
+:ID:       03_SW28
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-03-26 Sa 10:44]
+- State "DONE"       from "TODO"       [2021-04-05 Mo 09:27]
+- State "DONE"       from "TODO"       [2020-03-21 Sa 09:44]
+- CLOSING NOTE [2019-03-23 Sa 16:12] \\
+  Überraschenderweise hat ihnen der Vortrag von Daniele Ganser über WTC7 sehr gefallen!
+    - CLOSING NOTE [2018-03-24 Sam 11:39] \\
+      Kaum Unterricht, weil vor allem die 60-Jahr-Feier vorbereitet wurde. Und DIE war toll!
+    :END:
+
+** Kompetenzbeschreibung
+[[#B3]] Gelehrte und gelebte Bezugsreligion - Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
+[[#B3_KB1]] Die Schüler können die Reich-Gottes-Botschaft erläutern und vom befreienden Handeln Gottes erzählen. 
+
+** AB / UH
+[[#B3_UH1]] Jesu Kreuz
+
+** Wiederholung
+
+
+** Erarbeitung
+[[https://www.schuldekan-schorndorf.de/index.php?id=1163]]
+
+https://www.br.de/radio/bayern2/sendungen/radiowissen/religion/pessachfest-einsatz-im-unterricht-100.html
+
+
+** Hefteintrag
+Arbeitsblätter (s. o.)
+
+
+* TODO [SW29] Die Erlösung durch das Kreuz
+DEADLINE: <2023-03-27 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Kreuz Erlösung
+:ID:       03_SW29
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-04-02 Sa 22:54]
+- State "DONE"       from "TODO"       [2021-04-05 Mo 09:27]
+- State "DONE"       from "TODO"       [2020-04-02 Do 11:33]
+- CLOSING NOTE [2019-04-02 Di 09:26] \\
+  Die Stunde in der 3B zum Thema "Sexualität / 6. Gebot" war toll. Ich habe einfach den Youcat genommen und die Schüler waren positiv überrascht!
+:END:
+
+** Kompetenzbeschreibung
+[[#B3]] Gelehrte und gelebte Bezugsreligion - Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
+[[#B3_KB1]] Die Schüler können die Reich-Gottes-Botschaft erläutern und vom befreienden Handeln Gottes erzählen. 
+
+** AB / UH
+[[#B3_UH1]] Gnade als Geschenk der Befreiung
+
+** Wiederholung
+
+
+** Erarbeitung
+[[https://www.schuldekan-schorndorf.de/index.php?id=1163]]
+
+https://www.br.de/radio/bayern2/sendungen/radiowissen/religion/pessachfest-einsatz-im-unterricht-100.html
+
+
+** Hefteintrag
+
+
+
+* TODO [SW30] Karwoche / Osterferien
+DEADLINE: <2023-04-03 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Ostern
+:ID:       03_SW30
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-04-09 Sa 11:13]
+- State "DONE"       from "TODO"       [2021-04-12 Mo 07:18]
+- State "DONE"       from "TODO"       [2020-04-16 Do 10:44]
+- CLOSING NOTE [2019-04-10 Mi 10:53] \\
+  Die 3A bereitet den Ostergottesdienst vor; nach der eher negativen Erfahrung vom Weihnachtsgottesdienst haben wir die Gestaltung entsprechend geändert. 
+  
+  Die 3B war äußert interessiert bei Thema "christliche Kunst" dabei - das hat mich positiv überrascht!
+    - CLOSING NOTE [2018-04-07 Sa 14:19] \\
+      Diese Stunden waren okay - eine Möglichkeit, neu über das Myterium der Auferstehung nachzudenken...
+    :END:
+
+<2023-04-02 So> Palmsonntag
+
+<2023-04-06 Do> Gründonnerstag
+
+<2023-04-07 Fr> Karfreitag
+
+<2023-04-08 Sa> Karsamstag
+
+<2023-04-09 So> Ostersonntag
+
+
+
+* TODO [SW31] Die Auferstehung unseres Herrn Jesus Christus
+DEADLINE: <2023-04-10 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Auferstehung
+:ID:       03_SW31
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-04-19 Di 23:34]
+- State "DONE"       from "TODO"       [2021-04-18 So 09:32]
+- State "DONE"       from "TODO"       [2020-04-16 Do 10:45]
+    - CLOSING NOTE [2018-04-18 Mi 08:38] \\
+      Augustinus Film - toll, berührend, spannend, hat den Schülern sehr gefallen
+    - Note taken on [2018-04-18 Mi 08:37] \\
+      Wir haben uns den Augustinus-Film angesehen
+    :END:
+
+
+** Kompetenzbeschreibung
+[[#B3]] Gelehrte und gelebte Bezugsreligion - Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
+[[#B3_KB1]] Die Schüler können die Reich-Gottes-Botschaft erläutern und vom befreienden Handeln Gottes erzählen. 
+
+** AB / UH
+[[#B3_UH1]] Gnade als Geschenk der Befreiung
+
+** Wiederholung
+
+
+** Erarbeitung
+[[id:9bf7f695-e553-48ac-b5a0-0d8a6779c25c][Jesus von nazareth: band ii: vom einzug in jerusalem bis zur auferstehung]]
+
+*** (emotional)
+
+- Bibel:
+  Lk 22,7.14-15.19-20 (Abendmahl)
+  Joh 13,1.3-10.12-15;15,12-13
+
+  - "das ist mein Leib"
+
+  - Fußwaschung
+
+  - "Es gibt keine größere Liebe ..."
+
+  - "Liebt einander, wie ich euch geliebt habe..."
+
+Video "Most - die Brücke"
+
+*** (kognitiv)
+
+Comic: "Vor dem Abgrund"
+Der Abgrund unserer Schuld ist tatsächlich da; sie muss von jemand anders übernommen werden: Gott selbst übernimmt.
+
+Comic: Das Kreuz Jesu überwindet den Abgrund.
+
+- Bibel:
+  1 Petr 2,24-25
+   Jesus hat durch seinen Tod (seine Wunden) unsere Schuld auf sich genommen.
+
+  Röm 3,23-26
+  wir wurden gerettet , ohne es verdient zu haben. Plus: Röm 3,28
+
+** Hefteintrag
+Comic
+
+Gedanken zu den Bibelstellen / zum Video
+
+
+* TODO [SW32] Zum Lieben be(f)reit
+DEADLINE: <2023-04-17 Mo>
+:PROPERTIES:
+:CUSTOM_ID: bereit zur Liebe
+:ID:       03_SW32
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-04-22 Fr 22:33]
+- State "DONE"       from "TODO"       [2021-04-24 Sa 22:13]
+- State "DONE"       from "TODO"       [2020-04-20 Mo 10:28]
+    - CLOSING NOTE [2018-04-18 Mi 08:39] \\
+      Wegen den BO-Tagen sind fast alle Stunden ausgefallen, es blieb mir nur die Stunde mit der 3A am Donnerstag.
+    :END:
+
+** Kompetenzbeschreibung
+[[#B3]] Gelehrte und gelebte Bezugsreligion - Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
+[[#B3_KB2]] Die Schüler kennen christliche Grundlagen des Zusammenlebens und können Ideen für ein gelingendes demokratisches Miteinander entwickeln.
+
+** AB / UH
+[[#B3_AB2]] Gottes- und Nächstenliebe
+
+** Wiederholung
+[[id:cf52e625-c3eb-4c05-b1a2-c04a796c6a36][Auferstehung_Bibel]]
+
+** Erarbeitung
+Heiliger Geist:
+ - YouCat / Hl. Geist: 38, 113 - 120
+   "Ich glaube an den Hl. Geist." = wir beten den Hl. Geist ebenso als Gott an wie den Vater und den Sohn. Kommt in unser Herz - als Kinder Gottes erkennen wir Gott als unseren Vater. Durch den Hl. Geist bewegt können wir das Angesicht der Erde verändern.
+   Ohne den Hl. Geist kann man Jesus nicht verstehen.
+   Namen und Zeichen: Taube, heilende Salbe, lebendiges Wasser, brausender Sturm, flammendes Feuer; Jesus über den Hl. Geist:  Beistand, Tröster, Lehrer, Geist der Wahrheit. Sakramente: Handauflegung, Salbung durch Öl.
+   Hl. Geist hat Frauen und Männer im AT erfüllt, diese erhoben ihre Stimme für Gott.
+   Maria war total offen und ansprechbar für Gott.
+   50 Tage nach Ostern. Jesus sendet den Hl. Geist - die Zeit der Kirche begann.
+   Der Hl. Geist baut die Kirche auf und treibt sie an, erinnert sie an ihre Mission, beruft Menschen in ihren Dienst und schenkt ihnen die nötigen Gaben.
+   Der Hl. Geist öffnet mich für Gott; er lehrt mich beten und hilft mir, für andere da zu sein.
+   
+ - YouCat / Hl. Geist und Firmung: 203 - 207
+   
+
+   
+Firmung:
+ - YouCat: 193, 203 - 207
+
+
+
+** Hefteintrag
+
+
+* TODO [SW33] Moderne Lieder zum Thema Liebe, Sehnsucht nach Liebe
+DEADLINE: <2023-04-24 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Lieder Liebe
+:ID:       03_SW33
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-05-02 Mo 22:49]
+- State "DONE"       from "TODO"       [2021-04-30 Fr 17:20]
+- State "DONE"       from "TODO"       [2020-04-28 Di 23:00]
+- CLOSING NOTE [2019-04-27 Sa 10:38]
+:END:
+
+** Kompetenzbeschreibung
+[[#C5]] Religiöse und weltanschauliche Vielfalt in Gesellschaft und Kultur - Medien, Kunst und Kultur im Kontext religiöser Weltwahrnehmung interpretieren, beurteilen und gestalten können
+[[#C5_KB1]] Die Schüler können die Nutzung von Medien und deren Potential reflektieren. 
+
+** AB / UH
+[[#C5_AB1]] Religiosität in virtuellen Welten und Social Media
+
+
+** Wiederholung
+
+
+** Erarbeitung
+
+*** Glaube in Film und Musik
+Die meisten Schüler werden eher auf Musik angesprechen - der folgende Artikel auf evangelisch.de stellt Pop-Songs vor, die das Thema "Auferstehung / christliche Botschaft in der Pop-Musik" thematisieren:
+
+[[https://www.evangelisch.de/inhalte/145335/03-01-2018/popmusik-heimliche-bibelhits]]
+
+In den USA gibt es eine Menge Musiker, die für ihren Glauben bekannt sind und diesen auch in ihren Liedern ansprechen.
+
+Nur ein Beispiel:
+
+- NEEDTOBREATHE "Brother": [[https://www.youtube.com/watch?v=jqPGq8XklWc]]
+
+Es gibt dort auch Radio-Sender, die ausschließlich Lieder mit christlichem Inhalt spielen - die beiden bekanntesten sind:
+
+- Air1 [[https://www.air1.com]]
+- K-Love [[https://www.klove.com/]]
+
+Im deutschsprachigen Raum wäre va Patrick Michael (Paddy) Kelly zu erwähnen, der immer wieder seinen katholischen Glauben bekennt:
+
+"Holy" [[https://www.youtube.com/watch?v=WBFRANejrQo]]
+
+Viele Filme thematisieren den Glauben:
+
+- TV-Serie "The Chosen" - auf YouTube
+- "A Walk to Remember": Die Freundschaft zu einem krebskranken Mädchen verändert für immer einen zuerst verantwortungslosen Burschen.
+- "Die Truman Show": der "bitterböse" Film stellt sich die Frage nach der Wirklichkeit - Was ist real?
+- "Spy Game": Wie weit würdest du gehen, um einen geliebten Menschen zu retten?
+- "Kingdom of Heaven": die Brutalität der Kreuzzüge
+- "Augustinus": das Leben eines großen Heiligen - Was ist Wahrheit?
+- "Herr der Ringe": Hoffnung in den dunkelsten Stunden 
+- "Hacksaw Ridge": Film über einen Soldaten, der aus Glaubensgründen nie einen Schuss abfeuerte, aber als Sanitäter unter Einsatz seines eigenen Lebens viele Soldaten rettete; 
+
+   
+** Hefteintrag
+
+
+* TODO [SW34] Auferstehung in der Kunst
+DEADLINE: <2023-05-01 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Auferstehung Kunst
+:ID:       03_SW34
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-05-07 Sa 09:12]
+- State "DONE"       from "TODO"       [2021-05-08 Sa 15:09]
+- State "DONE"       from "TODO"       [2020-05-05 Di 10:29]
+- CLOSING NOTE [2019-05-04 Sa 17:29]
+    - CLOSING NOTE [2018-05-07 Mo 15:02] \\
+      Das waren gute und arbeistreiche Stunden zum Thema "Heiliger Geist".
+    :END:
+
+** Kompetenzbeschreibung
+[[#C5]] Religiöse und weltanschauliche Vielfalt in Gesellschaft und Kultur - Medien, Kunst und
+Kultur im Kontext religiöser Weltwahrnehmung interpretieren, beurteilen und gestalten können
+[[#C5_KB1]] Die Schüler können die Nutzung von Medien und deren Potential reflektieren. 
+
+** AB / UH
+[[#C5_AB1]] Religiosität in virtuellen Welten und Social Media
+
+** Wiederholung
+
+
+** Erarbeitung
+[[https://www.katholisch.de/artikel/21333-die-auferstehung-christi-in-der-kunst]]
+
+[[https://lehrerfortbildung-bw.de/u_gewi/religion-rk/gym/bp2004/fb3/3_aufg/kurs/1_christ3/jesuschristus3_kursstufe.pdf]]
+PDF: [[file:~/Downloads/jesuschristus3_kursstufe.pdf][Die Auferstehung Jesu in der Kunst]]
+
+[[http://www.kulturpool.at/display/blog/2017/04/05/Die+Auferstehung]]
+
+Tod und Auferstehung gehören zusammen:
+[[https://asset.klett.de/assets/595bee37/9602d1f9dcd90aeae45bb71b9ef771185f67e715.pdf]]
+
+Alternatives Thema:
+Das Geheimnis der Kirche - wie spricht die Bibel über die Kirche?
+ - 1 Kor 12,12-31a + Y 126: Leib Christi
+ - 2 Kor 6,16: Tempel des Heiligen Geistes + Y 128
+ - 1 Petr 2,9-10: Volk Gottes + Y 125
+
+YouTube Videos auf kathmedia deutsch
+
+** Hefteintrag
+3A + 3B: Herr der Ringe anschauen (WOW)
+
+
+* TODO [SW35] Medienkritik
+DEADLINE: <2023-05-08 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Medienkritik
+:ID:       03_SW35
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-05-13 Fr 14:31]
+- State "DONE"       from "TODO"       [2021-05-14 Fr 13:49]
+- State "DONE"       from "TODO"       [2020-05-12 Di 09:01]
+    - CLOSING NOTE [2018-05-10 Do 00:19] \\
+      Die Stunden waren okay. In der 3A lief es sehr gut; in der 3B gibt es tolle Schüler, wie z.B. Leonie! Leider wird sie von anderen Mädchen gehänselt - da Leonie gut bei Lehrern ankommt - sie ist intelligent. Marc wiederum glaubt, er wäre so cool mit seiner unmöglichen Art. "Nein, Marc, dein Verhalten gefällt mir gar nicht. Du bist so uncool!"
+    :END:
+
+** Kompetenzbeschreibung
+[[#C5]] Religiöse und weltanschauliche Vielfalt in Gesellschaft und Kultur - Medien, Kunst und Kultur im Kontext religiöser Weltwahrnehmung interpretieren, beurteilen und gestalten können
+[[#C5_KB1]] Die Schüler können die Nutzung von Medien und deren Potential reflektieren. 
+
+** AB / UH
+[[#C5_UH1]]
+ - Kritische und kreative Nutzung von Medien, (Daniele Ganser)
+ - Information und Manipulation, (Daniele Ganser)
+
+** Wiederholung
+
+
+** Erarbeitung
+Film "Herr der Ringe" (wegen der Überlänge nur Ausschnitte; va all zu brutale Bilder weglassen)
+
+** Hefteintrag
+
+
+* TODO [SW36] Friedenserziehung
+DEADLINE: <2023-05-15 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Friedenserziehung
+:ID:       03_SW36
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-05-21 Sa 11:45]
+- State "DONE"       from "TODO"       [2021-05-23 So 10:54]
+- State "DONE"       from "TODO"       [2020-05-12 Di 09:04]
+    - CLOSING NOTE [2018-05-22 Di 14:42] \\
+      Es war ein Kampf, aber ich hoffe, die Schüler haben verstanden, WEN sie bei der Firmung empfangen! Vor dem Empfang eines jeden Sakraments muss ich im Stand der Gnade sein, also gehe ich beichten.
+    :END:
+
+** Kompetenzbeschreibung
+[[#B3]] Gelehrte und gelebte Bezugsreligion - Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
+[[#B3_KB2]] Die Schüler kennen christliche Grundlagen des Zusammenlebens und können Ideen für ein gelingendes demokratisches Miteinander entwickeln.
+
+** AB / UH
+[[#B3_AB2]] Friedenserziehung
+
+** Wiederholung
+
+
+** Erarbeitung
+Daniele Ganser: Friedenserziehung Vortrag / Medien / UNO Gewaltverbot
+
+Dr. Daniele Ganser: Wie Propaganda unsere Gedanken und Gefühle lenkt (Berlin 10.03.2019)
+[[https://www.youtube.com/watch?v=_sLUuNE2U0M]]
+
+Inhalt:
+- Propaganda ist überall
+- BMW Autowerbung
+- Kriegspropaganda Irak 2003
+- Putsch Guatemala 1954
+- Coca-Cola-Werbung
+- Terroranschlag 2001
+- Ukraine 2014
+- Brutkastenlüge 1990
+- ARD Framing Manual 2019
+- Achtsamkeit
+  
+
+** Hefteintrag
+
+
+* TODO [SW37] Demokratieverständnis
+DEADLINE: <2023-05-22 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Demokratieverständnis
+:ID:       03_SW37
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-05-25 Mi 23:21]
+- State "DONE"       from "TODO"       [2021-05-30 So 11:33]
+- State "DONE"       from "TODO"       [2020-05-23 Sa 11:33]
+    - CLOSING NOTE [2018-05-26 Sa 15:57] \\
+      Beide Stunden waren sehr gut; im Moment sind die Schüler recht auf ihre Firmung fokkusiert.
+    :END:
+
+** Kompetenzbeschreibung
+[[#B3]] Gelehrte und gelebte Bezugsreligion - Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
+[[#B3_KB2]] Die Schüler kennen christliche Grundlagen des Zusammenlebens und können Ideen für ein gelingendes demokratisches Miteinander entwickeln.
+
+** AB / UH
+[[#B3_AB2]] Demokratieverständnis
+
+** Wiederholung
+
+
+** Erarbeitung
+- Was ist "Demokratie"? Geschichte (Griechenland, ...)
+- Demokratie in Österreich?
+- Was kann ich zur Demokratie beitragen? Was sind meine Pflichten / Rechte?
+- Wer garantiert / überwacht, dass es "demokratisch" in Österreich zugeht?
+- Was unterscheidet eine Direkt-Demoktatie (wie in der Schweiz) von der österreichischen "repräsentativen Demoktatie"?
+- Österreich wurde vor kurzem von einer "liberalen Demoktatie" zu einer "Wahldemokratie" herabgestuft.
+
+  Quelle / Hauptartikel:
+
+  [[id:4945086e-3e3f-4543-a8ab-dea50fbb32e2][dr_2022.pdf]]
+
+  Artikel dazu:
+
+  [[id:e29d76c6-3de5-4ace-84d9-058ca1a6ebd8][Schlechtes Zeugnis: Österreich zurückgestuft zur „Wahldemokratie“ | Tiroler Tageszeitung Online – Nachrichten von jetzt!]]
+
+  [[id:cc2e0f31-3103-4476-bef0-4d2c2acca18e][Demokratiereport: Österreich wird zur „Wahldemokratie“ zurückgestuft]]
+
+  [[id:1c56037a-faf7-460e-8f77-22b6dc64078f][Gastkommentar - Wahldemokratie Österreich? - Wiener Zeitung Online]]
+
+  [[id:d1c96e05-0911-45d4-87b3-69bc224065ae][Was die Herabstufung Österreichs zur Wahl­demokratie bedeutet – ResPublica]]
+
+  Die Begründung: "For Austria, a significant decline on the indicator for transparent laws and predictable enforcement is a decisive change that contributed to Austria falling below the criteria for liberal democracy. (Für Österreich ist ein deutlicher Rückgang des Indikators für transparente Gesetze und berechenbare Durchsetzung eine entscheidende Veränderung, die dazu beigetragen hat, dass Österreich unter die Kriterien für eine liberale Demokratie gefallen ist.) "
+
+
+Ich sollte aufpassen - und nicht allzu viele Kritikpunkte aufzeigen. Die Schüler sollten zuerst einmal sehen, was Demokratie überhaupt bedeutet; und wie sie in Österreich gelebt bzw beabsichtigt ist.
+
+
+
+** Hefteintrag
+
+
+* TODO [SW38] Das Wirken des Heiligen Geistes
+DEADLINE: <2023-05-29 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Hl. Geist
+:ID:       03_SW38
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-06-07 Di 07:18]
+- State "DONE"       from "TODO"       [2021-06-04 Fr 08:11]
+- State "DONE"       from "TODO"       [2020-06-01 Mo 09:56]
+- CLOSING NOTE [2019-05-31 Fr 10:12] \\
+  Wegen den Feiertagen gab es nur eine Stunde mit der 3A.
+    - CLOSING NOTE [2018-06-03 So 15:17] \\
+      Hm, also es ging so. In der 3A war es okay, aber nicht in der 3B. Ich hatte ein Telefonat mit der Mutter von Mark (3B) - ich verstehe zwar Mark besser, dennoch - meine Meinung - ist die Mutter eine "maman-poule"; immerhin ist Mark 13 / 14 Jahre alt, okay, er hat die Schule gewechselt. Aber das sollte einem Burschen wie Mark nicht so große Probleme bereiten. Man kann mit ihm reden? Er will das? Na, dann soll er es auch im Unterricht zeigen.
+    - Note taken on [2018-05-29 Di 22:15] \\
+      Heute (Dienstag, 29.05) sind sie (3B) ein paar Minuten am Ende der Stunde einfach gegangen; ich hatte die Stunde aber noch nicht beendet!
+    - Note taken on [2018-05-29 Di 22:12] \\
+      Mit der 3A geht am ehesten noch etwas - in der 3B ist es super schwer! Marc haut alles durcheinander; und generell herrscht dort großes Chaos.
+    :END:
+
+<2023-05-28 So> Pfingsten
+
+** Kompetenzbeschreibung
+[[#B3]] Gelehrte und gelebte Bezugsreligion - Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
+[[#B3_KB1]] Die Schüler können die Reich-Gottes-Botschaft erläutern und vom befreienden Handeln Gottes erzählen.
+
+** AB / UH
+[[#B3_UH1]]
+
+** Wiederholung
+
+
+** Erarbeitung
+YouCat: 
+
+Firmbuch
+
+Material der Bibliothek
+
+(ev alternatives Thema - Schüler der dritten Klasse sind generell etwas "passiv")
+
+7 Gaben des Hl. Geistes
+
+1. Im Geist der Weisheit leben
+
+Benedikt von Nursia, 11. Juli
+
+Obwohl er sich viel in der Einsamkeit aufhielt, war der Heilige schon bei vielen bekannt. So geschah es einmal dass ihn eine ganze Mönchsgemeinschaft darum bat, ihr Vorsteher zu werden. Benedikt hatte so seine Bedenken: "Ihr werdet es mit mir nicht lange aushalten. Ich bin euch sicherlich zu streng." Als sie ihn trotzdem drängten, willigte er schließlich ein. Es dauerte nicht lange, und den Mönchen wurde das, was Benedikt von ihnen forderte, wirklich zuviel. Aber anstatt mit ihm darüber zu reden, dachten sie nach, wie sie ihn beseitigen könnten. Einer kam auf die Idee, Gift in seinen Trinkbecher zu schütten. Als sich um die Mittagszeit die Brüder zum gemeinsamen Essen trafen, sprach Benedikt wie gewohnt - den Tischsegen. In diesem Moment zersprang der Becher mit dem Gift, als ob er von einem Steinwurf getroffen worden wäre. Da erkannte der Heilige dass man ihn hatte vergiften wollen. Traurig sprach er zu den Brüdern: "Jetzt müsst ihr euch einen anderen Abt suchen, der zu euch passt. Mich könnt ihr auf keinen Fall mehr haben." Er verließ die Gemeinschaft, um wieder allein zu leben.
+
+Gott, schenke mir etwas vom Geist der Weisheit, damit ich erkenne, wo ich nachgeben und wo ich mich einer Aufgabe stellen soll.
+
+2. Im Geist des Verstandes leben
+
+Margarete, 20. Juli
+
+Margaretes Vater war ein heidnischer Priester, der oft mit den Männern seines Stammes ausritt, wenn sie Krieg gegen die Nachbarvölker führten oder durchziehende Kaufleute überfielen und beraubten. Margarete wurde währenddessen von einer Dienstmädchen betreut und erzogen: Das Mädchen war Christin. So kam es, dass Margarete den Glauben an Jesus Christus kennenlernte und schließlich, mit fünfzehn Jahren, getauft und gefirmt wurde. All das war dem Vater verborgen geblieben. Eines Tages aber erfuhr er Margaretes Geheimnis, und sosehr er bis dahin sein einziges Kind über alles geliebt hatte, begann er es jetzt aus tiefstem Herzen zu hassen. Mit eigenen Händen fesselte er Margarete und brachte sie vor den Richter. Der Richter sprach: "Sieh doch nur, Margarete, wie du deinen Vater in Not und Verlegenheit bringst! Er ist der Priester unseres Stammes, alle verehren und achten ihn sehr. Wie steht er nun da, mit einer Tochter, die von unserem Götterglauben abgefallen ist und Gott der Christen anhängt! Hast du kein Mitleid mit deinem Vater? " Margarete aber sprach: "Ich bleibe dem Herrn Jesu Christus treu, wenn es sein muss, bis in den Tod!" Da ließ der Richter sie von den Henkersknechten foltern. Aber sosehr sie auch das arme Mädchen mit Feuer am ganzen Körper brannten - Margarete blieb standhaft. Zuletzt erschlug sie der.
+
+Gott, schenke mit etwas vom Geist des Verstandes, dass ich erkenne, was du von mir willst und wer es gut mit mir meint.
+
+3. Im Geist des Rates leben
+
+Johannes Bosco, 31. Jänner
+
+Den Pfarrer Don Bosco liebten und verherrlichten die Straßenbuben in Turin. Bei ihm war es nie langweilig. Er konnte zaubern, auf ein galoppierendes Pferd springen, seiltanzen und Feuer schlucken. Außerdem war er der einzige, der die Straßenbuben mochte. Nirgendwo sonst waren sie geduldet, die Polizei verfolgte sie. "Es sind Taugenichtse", sagten die feine Leute, jagt sie fort. Aber Don Bosco holte sie zusammen, gab ihnen ein Heim, wo sie wohnen durften und zu essen bekamen. Er war mit ihnen fröhlich, erzählte ihnen von Gott und sorgte dafür, dass sie einen Beruf erlernen konnten. Als Don Bosco selbst noch jung war, lebte er arm und musste die schwersten Arbeiten annehmen, um studieren zu können. Dann lernte er fremd Sprachen, schrieb Bücher und Zeitungsartikel und konnte mit zahlreichen Helfern, die sich Salesianer nannten, in vielen Ländern Häuser und Schulen bauen für Buben und Mädchen, die in Not sind.
+
+Gott, schenke mir etwas vom Geist des Rates, dass ich denen helfe, die es nötig haben und mich um Rat fragen.
+
+4. Im Geist der Stärke leben
+
+Hildegard von Bingen, 30. April
+
+Die Heilige war schüchtern und oft schwer krank. Ihre Kraft bekam sie von Jesus selbst, der ihr oft begegnete. In ihrem Kloster wirkte sie als Äbtissin, als Ärztin und Künstlerin. Sie begab sich auf Reisen, um Klöster zu gründen und um zu predigen. Eines Tages saß Hildegard im Garten. Da traf sie einen jungen Mann, der sich mit letzter Kraft zum Kloster geschleppt hatte. Er bat Hildegard, sie möge ihn auf dem Klosterfriedhof begraben. Aus dem mühsamen Gestammel konnte sie nur entnehmen dass der Fremde ein Edelmann sei, der aus der Kirche ausgeschlossen worden war. Doch er hatte gebeichtet und seine Fehler bereut. Der Fremde starb, noch ehe er das Haus betreten konnte. Hildegard hatte Mitleid und ließ den Edelmann auf dem Klosterfriedhof begraben. Damit machte sie sich den Erzbischof zum Feind. Er verbot der Klosterfamilie, die heilige Messe zu feiern und das Chorgebet zu halten, ehe der Tote nicht wieder ausgegraben sei. Hildegard widersetzte sich den Forderungen des Bischofs, weil die überzeugt war, in den Augen Gottes richtig gehandelt zu haben.
+
+Gott, schenke mir etwas vom Geist der Stärke, dass ich mich getraue - auch gegen die Meinungen anderer - zu dir zu stehen.
+
+5. Im Geist der Wissenschaft leben
+
+Thomas von Aquin
+
+Der hl. Tomas kam als Schüler in das berühmte Benediktinerkloster Monte Cassino, und die Eltern wünschten sehr, dass er dort einmal Abt werden würde. Thomas lernte aber den Dominikanerorden kennen und trat dort ein. In Paris traf er einen gelehrten Mann, den er hoch verehrte - den hl. Albertus den Großen. Bei ihm wurde sein scharfe Verstand aufs beste geformt. Weil Thomas viel schwieg und nachdachte, schimpften ihn seine Mitschüler "stummer Ochse!" Der hl. Albert aber erwiderte darauf: "Dieser stumme Ochse wird einmal so laut brüllen, dass die ganze Welt ihn hört." Und so kam es auch. Der hl. Thomas wurde einer der größten Gelehrte, die es jemals gegeben hat. Dabei blieb er ein tieffrommer Mann. Besonders liebte er Jesus im Tabernakel. Über dieses Geheimnis der Eucharistie schrieb er viele schöne Hymnen, die wir heute noch zu Fronleichnam singen.
+
+Gott, schenke mir etwas vom Geist der Wissenschaft, dass ich beim Lernen mein Bestes gebe und mein Wissen zur Freude und zum Nutzen der anderen verwende.
+
+6. Im Geist der Frömmigkeit leben
+
+Scholastica von Nursia, 10. Februar
+
+Die heilige Scholastica war die Schwester des heiligen Benedikt. Einmal im Jahr besuchte sie ihren Bruder. Sie verbrachten die kostbare Zeit mit geistlichem Gespräch und gemeinsamem Gebet. Bei einem dieser Treffen fühlte Scholastica, dass sie ihren Bruder heute das letzte Mal sehen werde. So bat sie ihn: "Ich bitte dich kehre nicht in dein Kloster zurück, sondern bleibe die Nacht über bei mir!" Nun ist es einem Mönch aber verboten, die Nacht außerhalb des Klosters zu verbringen. Scholastica dachte bei sich: "Wenn der Bruder nicht bleiben kann, muss Gott helfen, dass wir uns nicht trennen müssen." Und sie bat Gott um Hilfe. Da zog ein heftiges Gewitter auf. Der Sturm heulte los, und es begann in Strömen zu regnen. So war es unmöglich, bei solchem Wetter das Haus zu verlassen. Die Geschwister blieben die ganze Nacht zusammen und redeten über den Himmel. Drei Tage nach diesem Besuch starb Scholastica.
+
+Gott, schenke mir etwas vom Geist der Frömmigkeit, dass ich für andere bete und allen Dingen, auch in den kleinsten, dir vertaue.
+
+7. Im Geist der Ehrfurcht leben
+
+Franz von Assisi, 4. Oktober
+
+Einmal betritt Francesco die Stadt Gubbio. Die Leute klagten ihm: "Ein böser Wolf fällt immer wieder unserer Schafherden und Ziegen an. Ja, er hat kürzlich sogar Kinder angegriffen, einen jungen Hirten schwer verletzt." Franz zieht, ein Holzkreuz in der Hand in den Wald, wo der Wolf hauste. Er hört die Bestie brüllen. "Komm, Bruder Wolf!" ruft er dem Tier zu, "ich bitte dich, höre auf mich und tue den Leuten von Gubbio und ihren Herden kein Leid mehr an! Ich will doch Frieden stiften zwischen dir und den Menschen. Ich will sorgen, dass sie dir täglich Futter an den Waldrand legen. Aber, bitte , mein Wolf, reiße keine Scharfe und Ziegen mehr!" Und - so erzählen die Leute von Gubbio - da legt sich der Wolf wie ein zahmes Hündlein vor die Füße des heiligen und wedelt mit dem Schwanz und leckt seine Hand. Von da an hat der Wolf weder Menschen noch Tier, je wieder angefallen. Die Leute von Gubbio aber haben ihn bis zum Ableben gefüttert und verwöhnt.
+
+Gott, schenke mir etwas vom Geist der Ehrfurcht, damit ich das, was du geschaffen hast, auch wenn es böse scheint, gut behandle und nicht leichtsinnig zerstöre.
+
+Spannende Doku über Paulus / Petrus in Rom?
+[[https://www.youtube.com/watch?v=jCqD9DC9gpI]]
+
+Doku: Rom - Die Kaiser und ihr Reich (von Nero / Konstantin / Alarich) 3*45min
+
+** Hefteintrag
+
+
+
+* TODO [SW39] Pfingsten / Firmung
+DEADLINE: <2023-06-05 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Pfingsten
+:ID:       03_SW39
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-06-07 Di 07:19]
+- State "DONE"       from "TODO"       [2021-06-15 Di 07:15]
+- State "DONE"       from "TODO"       [2020-06-06 Sa 11:35]
+    - CLOSING NOTE [2018-06-10 So 08:23] \\
+      Nach einem Gespräch mit der Mutter von Mark weiß ich ein bißchen besser, wie ich mit diesem Schüler umgehen muss. Trotzdem auf der Hut sein. Ich höre von anderen Lehrern, wie lästig Mark ist.
+    :END:
+
+** Kompetenzbeschreibung
+[[#B3]] Gelehrte und gelebte Bezugsreligion - Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
+[[#B3_KB1]] Die Schüler können die Reich-Gottes-Botschaft erläutern und vom befreienden Handeln Gottes erzählen.
+
+** AB / UH
+[[#B3_UH1]]
+
+** Wiederholung
+
+
+** Erarbeitung
+[[https://www.youcat.org/de/credopedia/minicat/pfingsten/]]
+
+#+CAPTION: Pfingsten
+#+NAME:   fig:SED-HR4049
+[[./images/Minicat-Cover-7.jpg]]
+
+[[https://assets.ctfassets.net/e1rvcpbj76la/2Dg2LrhkWQ9mxazyfGbPUk/bdc064a1dc431c53815c7eba3678caf8/YC_Studyguide_Deu_13.pdf][YouCat Studyguide 13 - Wie beruft Gott?]]
+[[file:Schule/Youcat_Studienkurs/YC_Studyguide_Deu_13.pdf]]
+
+[[https://assets.ctfassets.net/e1rvcpbj76la/1CyWYuMC4ab9KXZSt1ctzh/4b75986b0f30f23d151de1f8e3efe717/YC_Studyguide_Deu_10.pdf][YouCat Studyguide 10 - Warum lassen sich Christen firmen?]]
+[[file:Schule/Youcat_Studienkurs/YC_Studyguide_Deu_10.pdf]]
+
+Komm, Heil’ger Geist, der Leben schafft,
+erfülle uns mit deiner Kraft.
+Dein Schöpferwort rief uns zum Sein:
+Nun hauch uns Gottes Odem ein.
+ 
+Komm, Tröster, der die Herzen lenkt,
+du Beistand, den der Vater schenkt;
+aus dir strömt Leben, Licht und Glut,
+du gibst uns Schwachen Kraft und Mut.
+
+Dich sendet Gottes Allmacht aus
+im Feuer und in Sturmes Braus;
+du öffnest uns den stummen Mund
+und machst der Welt die Wahrheit kund.
+
+Entflamme Sinne und Gemüt,
+dass Liebe unser Herz durchglüht
+und unser schwaches Fleisch und Blut
+in deiner Kraft das Gute tut.
+
+Die Macht des Bösen banne weit,
+schenk deinen Frieden allezeit.
+Erhalte uns auf rechter Bahn,
+dass Unheil uns nicht schaden kann.
+
+Lass gläubig uns den Vater sehn,
+sein Ebenbild, den Sohn, verstehn
+und dir vertraun, der uns durchdringt
+und uns das Leben Gottes bringt.
+
+Den Vater auf dem ew’gen Thron
+Und seinen auferstandnen Sohn,
+dich, Odem Gottes, Heil’ger Geist,
+auf ewig Erd’ und Himmel preist. Amen.
+
+Oder: Grüne Stadt der Zukunft.
+ - Charta [[file:~/Downloads/smart-city-charta-langfassung.pdf]]
+ - Singapur [[https://duckduckgo.com/?t=ffnt&q=singapur+gr%C3%BCne+stadt&atb=v217-1&iax=images&ia=images&iai=http%3A%2F%2Fdreamersjourneys.com%2Fwp-content%2Fuploads%2F2015%2F03%2FDSC_6691-1024x576.jpg][Singapur Grüne Stadt]]
+ - Mailand [[https://mailand.de/bosco-verticale/]]
+ - Salzburg
+ - Wien
+
+** Hefteintrag
+Atme in mir, du Heiliger Geist, dass ich Heiliges denke.
+Treibe mich, du Heiliger Geist, dass ich Heiliges tue.
+Locke mich, du Heiliger Geist, dass ich Heiliges liebe.
+Stärke mich, du Heiliger Geist, dass ich Heiliges hüte.
+Hüte mich, du Heiliger Geist, dass ich das Heilige nimmer verliere.
+
+
+* TODO [SW40] Die Göttliche [[id:63b762e3-be20-4d30-aee2-861457ee5e74][Dreifaltigkeit]]
+DEADLINE: <2023-06-12 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Dreifaltigkeit
+:ID:       03_SW40
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-06-16 Do 22:31]
+- State "DONE"       from "TODO"       [2021-06-20 So 13:30]
+- State "DONE"       from "TODO"       [2020-06-14 So 10:45]
+- Note taken on [2020-06-09 Di 12:14] \\
+  Anmerkung von Barbara bzgl Firmung: "Du machst den Eindruck, als würde dich das alles nichts angehen." Uh-oh! stimmt doch. Mir fehlt es generell an Schwung und zündenden Ideen für den Unterricht. Die Schulbücher geben nichts her, die Schüler sind faul, träge und antriebslos. 
+  
+  Die Idee bzgl der Lieder für die Firmung kam von mir und den Kindern (3A + 3B). Wahrscheinlich kommt das auch von meinem gelangweilten Gesichtsausdruck. Und es gibt einfach Dinge, die mich nicht interessieren und die mir lästig sind. Diese Sachen schiebe ich einfach auf die lange Bank. Natürlich soll / muss ich mich für die Feier der Firmung engagieren. Ich soll / muss auch im PGR meiner Heimatpfarre sitzen. 
+  
+  Bzgl meiner mangelnden Ideen frage ich einmal meine Inspektorin.
+    - CLOSING NOTE [2018-06-18 Mo 10:28] \\
+      Die Schüler meckern, weil der Film auf Englisch ist - aber: warum lernen die Schüler Englisch? Wohl, um die Sprache ausüben zu können?
+    :END:
+
+** Kompetenzbeschreibung
+[[#B3]] Gelehrte und gelebte Bezugsreligion - Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
+[[#B3_KB1]] Die Schüler können die Reich-Gottes-Botschaft erläutern und vom befreienden Handeln Gottes erzählen.
+
+** AB / UH
+[[#B3_UH1]] Gnade als Geschenk der Befreiung
+
+
+** Wiederholung
+
+
+** Erarbeitung
+[[https://www.youcat.org/de/credopedia/minicat/dreifaltigkeitssonntag/][Gott ist die Liebe | Minicat]]
+Jedes Jahr feiert die Kirche am Sonntag nach Pfingsten den Dreifaltigkeitssonntag. Warum ist das so? Mit Pfingsten ist das Heilswerk der Erlösung abgeschlossen und ebenso ist mit der Offenbarung der Dreifaltigkeit Gottes die Offenbarung als Ganze abgeschlossen. Gottes Wille ist es, uns das innerste Wesen seiner selbst kundzutun. Warum? Weil Gott die Liebe ist. Wer liebt, der will, dass der andere ihn ganz und gar erkennt im tiefsten Innern seines Wesens. Die Selbstoffenbarung Gottes, in der er uns das Geheimnis seines Wesens kundtun will, ist im letzten die Offenbarung, dass Gott dreifaltig ist. Weil jeder von uns gerufen ist mit den drei Personen dieses einen Gottes in eine ganz persönliche Beziehung einzutreten.
+
+[[file:Schule_Themen/dreifaltigkeit.org][dreifaltigkeit]]
+
+Videos:
+ [[https://www.youtube.com/watch?v=a2I1-8SQRZw][Wer thront auf dem Gnadenstuhl - Hermit & Hog Via Alpina Sacra 35 - YouTube]]
+ [[https://www.youtube.com/watch?v=mgYk5RrlkFU][Welche Bilder gibt es von der Heiligen Dreifaltigkeit? (3MC 19) - YouTube]]
+ [[https://www.youtube.com/watch?v=FlDN-FIkyPQ][Dreifaltigkeit - Tauhid [At-Tariq 11 / Islam & Christentum] - YouTube]]
+ [[https://www.youtube.com/watch?v=d3RZ2fXVZdM][Wie kann man sich die Dreifaltigkeit vorstellen?* (3MC 18) - YouTube]]
+ [[https://www.youtube.com/watch?v=RiGM27ntef4][Wie kann man den Glauben an die Dreifaltigkeit zusammenfassen? (3MC 17) - YouTube]]
+
+Ikone "Dreifaltigkeit"
+
+Betrachtung:
+
+[[file:~/Downloads/57_1984_3_183_192_Evdokimov_12.pdf]]
+ 
+** Hefteintrag
+
+
+* TODO [SW41] Gekrümmte werden aufgerichtet / Reich Gottes
+DEADLINE: <2023-06-19 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Reich Gottes
+:ID:       03_SW41
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-06-24 Fr 23:19]
+- State "DONE"       from "TODO"       [2021-06-28 Mo 00:23]
+- State "DONE"       from "TODO"       [2020-06-21 So 10:37]
+    - CLOSING NOTE [2018-06-21 Do 10:17] \\
+      Da "The Truman Show" nicht agespielt werden konnte, stieg ich auf "Arrival" um - und konnten den Film nicht fertig schauen.
+    :END:
+
+** Kompetenzbeschreibung
+[[#B3]] Gelehrte und gelebte Bezugsreligion - Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
+[[#B3_KB1]] Die Schüler können die Reich-Gottes-Botschaft erläutern und vom befreienden Handeln Gottes erzählen.
+
+** AB / UH
+[[#B3_UH1]] Reich Gottes
+
+** Wiederholung
+
+
+** Erarbeitung
+Supplierstunde ausgearbeitet für die beiden Stunden am Montag <2022-06-20 Mo> und Dienstag <2022-06-21 Di>:
+
+[[file:~/Dokumente/Supplierstunden_3A_3B.pdf]]
+
+Film: Animationsfilm / ...?
+
+** Hefteintrag
+
+
+* TODO [SW42] Zusammenfassung Jahresstoff
+DEADLINE: <2023-06-26 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Jesus heilt
+:ID:       03_SW42
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-07-01 Fr 20:28]
+- State "DONE"       from "TODO"       [2021-07-05 Mo 07:18]
+- State "DONE"       from "TODO"       [2020-06-29 Mo 09:46]
+    - CLOSING NOTE [2018-06-28 Do 09:11] \\
+      Die dritten Klassen sind auf Sportwoche, daher suppliere ich vier Stunden. Durch die Erste-Hilfe-Kurse der vierten Klassen entfallen mir weitere drei Stunden.
+    :END:
+
+
+** Kompetenzbeschreibung
+[[#B3]] Gelehrte und gelebte Bezugsreligion - Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
+[[#B3_KB1]] Die Schüler können die Reich-Gottes-Botschaft erläutern und vom befreienden Handeln Gottes erzählen.
+
+** AB / UH
+[[#B3_UH1]] Heilungserzählungen
+
+
+** Wiederholung
+
+
+** Erarbeitung
+(Film fertig schauen - Ausschnitte aus dem dritten Teil...)
+
+Bibelstellen ziehen - selber finden - ...
+
+[[http://www.k-l-j.de/bibelstelle.htm]]
+("Bibelstelle ziehen" generiert eine Bibelstelle.)
+
+** Hefteintrag
+
+
+
+* TODO [SW43] Film
+DEADLINE: <2023-07-03 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Wiederholung
+:ID:       03_SW43
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-07-04 Mo 23:11]
+- State "DONE"       from "TODO"       [2021-07-09 Fr 08:39]
+- State "DONE"       from "TODO"       [2020-07-07 Di 12:02]
+:END:
+
+** Kompetenzbeschreibung
+[[#B3]] Gelehrte und gelebte Bezugsreligion - Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
+[[#B3_KB1]] Die Schüler können die Reich-Gottes-Botschaft erläutern und vom befreienden Handeln Gottes erzählen.
+
+** AB / UH
+[[#B3_UH1]] Heilungserzählungen
+
+
+** Wiederholung
+
+
+** Erarbeitung
+
+
+** Hefteintrag

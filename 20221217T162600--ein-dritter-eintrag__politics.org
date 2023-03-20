@@ -1,0 +1,11 @@
+#+title:      ein dritter eintrag
+#+date:       [2022-12-17 Sa 16:26]
+#+filetags:   :politics:
+#+identifier: 20221217T162600
+
+Diesmal gehts über Politik.
+
+[[denote:20221217T112318][ein weiterer Eintrag]]
+
+[[denote:20221217T112221][ein neuer Eintrag]]
+

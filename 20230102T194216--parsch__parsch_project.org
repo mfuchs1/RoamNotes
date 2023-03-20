@@ -1,0 +1,105 @@
+#+title:      Parsch
+#+date:       [2023-01-02 Mo 19:42]
+#+filetags:   :parsch:Project:
+#+identifier: 20230102T194216
+#+CATEGORY: parsch 
+
+* Stundenplan
+
+** Montag
+*** 1b / 4b 14:30-15:20
+<%%(org-class 2022 9 12 2023 7 3 1)>
+
+[[denote:20230226T093629][Christenverfolgung]]
+Christenverfolgungen damals und heute
+
+** Dienstag
+
+*** 2a 14:30-15:20
+<%%(org-class 2022 9 13 2023 7 4 2)>
+
+Youcat-Studyguide: Warum das Kreuz?
+
+
+*** 1a / 2b 15:25-16:15
+<%%(org-class 2022 9 13 2023 7 4 2)>
+
+The Chosen fertig - oder Christenverfolgung
+
+* Reflexionen                                                   :Reflexionen:
+
+
+* Schülerliste
+
+#+Name: 2021-students
+| First    | Last        | Klasse | Name               | Note | Mitarbeit | Heft | LZK |
+|----------+-------------+--------+--------------------+------+-----------+------+-----|
+| Selina   | Heis        | 1a     | [[SelinaHeis][Selina Heis]]        |      |           |      |     |
+| Edmund   | Atherton    | 1b     | [[EdmundAtherton][Edmund Atherton]]    |      |           |      |     |
+| Lucia    | Cervenakova | 1DFK   | [[LuciaCervenakova][Lucia Cervenakova]]  |      |           |      |     |
+| Sabrina  | Richterova  | 2a     | [[SabrinaRichterova][Sabrina Richterova]] |      |           |      |     |
+| Robin    | Fasl        | 2a     | [[RobinFasl][Robin Fasl]]         |      |           |      |     |
+| Viktor   | Werber      | 2a     | [[ViktorWerber][Viktor Werber]]      |      |           |      |     |
+| Mate     | Meszaros    | 2a     | [[MateMeszaros][Mate Meszaros]]      |      |           |      |     |
+| Isabella | Holub       | 2b     | [[IsabellaHolub][Isabella Holub]]     |      |           |      |     |
+| Sarah    | Ascic       | 2b     | [[SarahAscic][Sarah Ascic]]        |      |           |      |     |
+| Aura     | Filan       | 2b     | [[AuraFilan][Aura Filan]]         |      |           |      |     |
+| Lukas    | Gady        | 4b     | [[LukasGady][Lukas Gady]]         |      |           |      |     |
+|----------+-------------+--------+--------------------+------+-----------+------+-----|
+#+TBLFM: $5=vmean($6..$>)
+#+TBLFM: $4='(concat "[[" $1 $2 "][" $1 " " $2 "]]")
+#+TBLFM: $4='(identity remote(2021-22-Mitarbeit,@@#$4))
+
+#+BEGIN_SRC python :var table=2021-students :results output raw
+print('* Mitarbeit')
+for student in table:
+    first = student[0]
+    last = student[1]
+    email = first + '.' + last + '@ms-parsch.at'
+    print('** ' + first + last + '\n\n')
+#+END_SRC
+
+#+RESULTS:
+
+* Mitarbeit
+** SelinaHeis
+
+
+** EdmundAtherton
+
+
+** LuciaCervenakova
+
+
+** SabrinaRichterova
+
+
+** RobinFasl
+
+
+** ViktorWerber
+
+
+** MateMeszaros
+
+
+** IsabellaHolub
+
+
+** SarahAscic
+
+
+** AuraFilan
+
+*** [[denote:20221226T153748][Christenverfolgung]]
+PERIOD: [2023-02-28 Di 15:25]
+
+Aura-Ana-Maria hat mindestens dreimal in diesem Semester unentschuldigt gefehlt. Ich habe ihren KV verständigt.
+
+
+** LukasGady
+
+
+
+
+

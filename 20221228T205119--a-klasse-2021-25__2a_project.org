@@ -1,0 +1,147 @@
+#+title:      A Klasse 2021-25
+#+date:       [2022-12-28 Mi 20:51]
+#+filetags:   :2a:Project:
+#+identifier: 20221228T205119
+#+CATEGORY: golling
+
+
+
+* 2a 07:45-08:35
+<%%(org-class 2022 9 12 2023 7 3 1)>
+
+Bibelarbeit:
+- Gleichnis vom barmgerzigen Vater Lk 15
+- Johannes 4
+- 
+
+* 2a 07:45-08:35
+<%%(org-class 2022 9 14 2023 7 5 3)>
+
+
+
+
+* Reflexionen
+
+
+* 2A [KV Bernhard Moser]
+
+#+Name: 2021-students
+| First    | Last         | Name                | Note | Heft | Mitarbeit | LZK |
+|----------+--------------+---------------------+------+------+-----------+-----|
+| Marie    | Aigner       | [[MarieAigner][Marie Aigner]]        |      |      |           |     |
+| Marko    | Bijelonjic   | [[MarkoBijelonjic][Marko Bijelonjic]]    |      |      |           |     |
+| Sarah    | Brandstätter | [[SarahBrandstätter][Sarah Brandstätter]]  |      |      |           |     |
+| Julia    | Bretschu     | [[JuliaBretschu][Julia Bretschu]]      |      |      |           |     |
+| Matteo   | Eckhardt     | [[MatteoEckhardt][Matteo Eckhardt]]     |      |      |           |     |
+| Diana    | Eibl         | [[DianaEibl][Diana Eibl]]          |      |      |           |     |
+| Oliver   | Kurz         | [[OliverKurz][Oliver Kurz]]         |      |      |           |     |
+| Elisa    | Mayr         | [[ElisaMayr][Elisa Mayr]]          |      |      |           |     |
+| Alisa    | Meisl        | [[AlisaMeisl][Alisa Meisl]]         |      |      |           |     |
+| Carolina | Schlager     | [[CarolinaSchlager][Carolina Schlager]]   |      |      |           |     |
+| Marie    | Schmidt      | [[MarieSchmidt][Marie Schmidt]]       |      |      |           |     |
+| Annika   | Schröcker    | [[AnnikaSchröcker][Annika Schröcker]]    |      |      |           |     |
+| Lea      | Stoß         | [[LeaStoß][Lea Stoß]]            |      |      |           |     |
+| Manuel   | Stoß         | [[ManuelStoß][Manuel Stoß]]         |      |      |           |     |
+| Johanna  | Strubreiter  | [[JohannaStrubreiter][Johanna Strubreiter]] |      |      |           |     |
+| Laurenz  | Walcher      | [[LaurenzWalcher][Laurenz Walcher]]     |      |      |           |     |
+| Lorenz   | Wallinger    | [[LorenzWallinger][Lorenz Wallinger]]    |      |      |           |     |
+| Jana     | Wenger       | [[JanaWenger][Jana Wenger]]         |      |      |           |     |
+| Luca     | Zemmer       | [[LucaZemmer][Luca Zemmer]]         |      |      |           |     |
+| Karlo    | Zivkovic     | [[KarloZivkovic][Karlo Zivkovic]]      |      |      |           |     |
+| Robert   | Zivkovic     | [[RobertZivkovic][Robert Zivkovic]]     |      |      |           |     |
+#+TBLFM: $4=vmean($5..$>)
+#+TBLFM: $3='(concat "[[" $1 $2 "][" $1 " " $2 "]]")
+#+TBLFM: $4='(identity remote(2021-22-Mitarbeit,@@#$2))
+
+#+BEGIN_SRC python :var table=2021-students :results output raw
+  print('* Mitarbeit')
+  for student in table:
+      first = student[0]
+      last = student[1]
+      email = first + '.' + last + '@golling.schule'
+      print('** ' + first + last + '\n\n')
+#+END_SRC
+
+#+RESULTS:
+
+* Mitarbeit
+** MarieAigner
+
+
+** MarkoBijelonjic
+
+
+** SarahBrandstätter
+
+
+** JuliaBretschu
+
+
+** MatteoEckhardt
+
+
+** DianaEibl
+
+
+** OliverKurz
+
+
+** ElisaMayr
+
+
+** AlisaMeisl
+
+
+** CarolinaSchlager
+
+
+** MarieSchmidt
+
+
+** AnnikaSchröcker
+
+
+** LeaStoß
+
+
+** ManuelStoß
+
+
+** JohannaStrubreiter
+
+
+** LaurenzWalcher
+
+
+** LorenzWallinger
+
+
+** JanaWenger
+
+
+** LucaZemmer
+
+
+** KarloZivkovic
+
+
+** RobertZivkovic
+
+
+
+
+* Reflexionen                                                   :Reflexionen:
+
+** Wie gehe ich mit Unterrichtsstörungen um?
+
+Wow, das wird immer schlimmer. Liegt es an mir? Liegt es (nur) an den Schülern? Auf jeden Fall werde ich von den Schülern (meist den Buben) häufig unterbrochen. Da dies in einigen Klassen vorkommt, stellt sich für mich doch die Frage, ob es irgendwie auch an mir hängt. Oder am Fach?
+
+Bernhard (KV) hat mir gesagt, dass es ihm ähnlich ergeht: er bemerkt einen Unterschied zwischen Mathematik und Geografie. Also liegt es auch am Fach.
+
+Heute habe ich die gesamte Klasse schreiben lassen; das werde ich nächste Stunde genauso machen.
+
+Ich frage mich: "Woher kommt diese Unart, den Lehrer nicht mal ausreden zu lassen; nebenbei Privatgespräche abzuhalten; ...? Woher lernen die Kinder dieses Verhalten?" Meist schauen sich die Kinder dies von Erwachsenen oder Film, TV, etc ab.
+
+** ein Eintrag
+
+

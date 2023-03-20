@@ -1,0 +1,16 @@
+#+title:      Erfolgreich lernen mit ADHS
+#+date:       [2023-02-02 Do 23:08]
+#+filetags:   :adhs:lernen:biblio:rietzler2016:
+#+identifier: 20230202T230835
+
+#+begin_src bibtex
+@book{Rietzler2016,
+        author = "Rietzler, Stefanie and Grolimund, Fabian",
+        subtitle = "Ein praktischer Ratgeber für Eltern. Bern",
+        title = "Erfolgreich lernen mit ADHS",
+        x-fetchedfrom = "Google Scholar",
+        publisher = "Hogrefe Verlag",
+        location = "Bern",
+        year = "2016"
+}
+#+end_src

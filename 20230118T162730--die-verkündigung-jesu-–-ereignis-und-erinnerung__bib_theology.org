@@ -1,0 +1,8 @@
+#+title:      Die Verkündigung Jesu – Ereignis und Erinnerung
+#+date:       [2023-01-18 Mi 16:27]
+#+filetags:   :bib:theology:
+#+identifier: 20230118T162730
+#+reference:  Soeding.2011
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+
+ein neue Notiz

@@ -1,0 +1,12 @@
+#+title:      ein weiterer Eintrag
+#+date:       [2022-12-17 Sa 11:23]
+#+filetags:   :emacs:
+#+identifier: 20221217T112318
+
+und ein weiterer Eintrag.
+
+Kann ich hier einen Link setzen?
+
+[[denote:20221217T112221][ein neuer Eintrag]]
+
+oh wow

@@ -1,0 +1,7 @@
+#+title:      edraw
+#+date:       [2023-03-10 Fr 11:29]
+#+filetags:   :edraw:
+#+identifier: 20230310T112910
+
+
+[[edraw:data=H4sIABQHC2QAA6WTzXKDIBSFX4W52Tbyo7EmI9l02z6EFVQmVh2kMb59r39tmmmziAs5A9zznQuMcXvOSWeUKyTsQgak0CYvnIRA4OSsbWvqSgL3OJDLR1m1EgrnmgOlXdd5ne/VNqeCMUYRNJccLqWpTn8V8v1+T8ddOMZWp+7/6IsEHPtxzExZSthkWQakdbY+aQlVXWkgRknQyibd9j1JT7mtPysFhB7j/HqrVv2S99s+g5VCk8VEjmG2nxSnwdTB0NvcJw+u+ozYGPUwl0f3wbosTdPqO+wUYf4Oq9MBN6bgyvOc5j+EEcENJpgwTeKKb8YGH3J5i+18hGCBTgF4/W9csCe+xs9G/8uoESM3uoorQvY69Ocz1GhSMauP62IF3w/RP3DCn/PTHD/8SY5fL5K2v3MDAAA=]]
