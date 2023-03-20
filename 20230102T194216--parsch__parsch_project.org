@@ -13,6 +13,9 @@
 [[denote:20230226T093629][Christenverfolgung]]
 Christenverfolgungen damals und heute
 
+hab magit installiert. RoamNotes auf github.
+
+
 ** Dienstag
 
 *** 2a 14:30-15:20
