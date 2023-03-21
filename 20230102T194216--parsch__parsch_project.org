@@ -21,13 +21,13 @@ hab magit installiert. RoamNotes auf github.
 *** 2a 14:30-15:20
 <%%(org-class 2022 9 13 2023 7 4 2)>
 
-Youcat-Studyguide: Warum das Kreuz?
+arte doku "Leben im All" 
 
 
 *** 1a / 2b 15:25-16:15
 <%%(org-class 2022 9 13 2023 7 4 2)>
 
-The Chosen fertig - oder Christenverfolgung
+arte doku "Leben im All"
 
 * Reflexionen                                                   :Reflexionen:
 
