@@ -1424,22 +1424,6 @@ DEADLINE: <2023-05-08 Mo>
 ** Hefteintrag
 
 
-* TODO [SW36] Übergang: Die Kirche – das Haus Gottes? / Baustile Kirche
-DEADLINE: <2023-05-15 Mo>
-:PROPERTIES:
-:CUSTOM_ID: Kirche Haus Gottes
-:ID: 02_SW36
-:END:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2022-05-21 Sa 11:45]
-- State "DONE"       from "TODO"       [2021-05-23 So 10:53]
-- State "DONE"       from "TODO"       [2020-05-23 Sa 11:32]
-    - CLOSING NOTE [2018-05-22 Di 14:40] \\
-      In beiden Klassen war es ziemlich schwierig; lag es an mir? waren die Stunden zu schlecht vorbereitet?
-      
-      Klar ist, dass in beiden Klassen recht "verhaltens-kreative" Schüler sitzen.
-    :END:
-
 ** Kompetenzbeschreibung
 [[#C5]] Religiöse und weltanschauliche Vielfalt in Gesellschaft und Kultur - Medien, Kunst und Kultur im Kontext religiöser Weltwahrnehmung interpretieren, beurteilen und gestalten können
 
