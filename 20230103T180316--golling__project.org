@@ -17,11 +17,23 @@
 
 7:45 Treffpunkt am Bahnhof
 
+** Supplierstunde 1b BU (Hannes Lacher) 10:40-11:30
+<%%(org-class 2023 3 8 2023 7 5 3 12)>
+aktueller Stoff: Säugetiere / Fische.
+Buch S. 104ff
+
+Buch S. 106 / 107
+Arbeitsheft S. 54
+
 ** Supplierstunde 3a D
 <2022-12-21 Mi 10:40>--<2022-12-21 Mi 11:30>
 
 ** Supplierstunde 1a D
 <2022-12-22 Do 09:35>--<2022-12-22 Do 10:25>
+
+** Supplierstunde 2b PH 11:35-12:25
+<%%(org-class 2023 1 25 2023 7 5 3 12)>
+Buch S. 24+25: Aufgaben rechnen
 
 ** Supplierstunde 2b PH 
 <2023-01-11 Mi 11:35>--<2023-01-11 Mi 12:25>
@@ -65,7 +77,7 @@ Schularbeit - Irmi 4b; ich 4a.
 
 [[denote:20230310T173200][Gespräch Krallinger]]
 
-** Supplierstunde 1b D (statt DA, mit Martin)
+** Supplierstunde 1b D (statt DA, mit Gertraud V.)
 <2023-03-21 Di 09:35>--<2023-03-21 Di 10:25>
 
 ** Supplierstunde 1b D (statt DA, mit Martin)
@@ -80,14 +92,4 @@ Schularbeit - Irmi 4b; ich 4a.
 ** Supplierstunde 1a D (statt Si, mit Mirjam)
 <2023-03-24 Fr 09:35>--<2023-03-24 Fr 10:25>
 
-#** Supplierstunde 1b BU (Hannes Lacher) 10:40-11:30
-#<%%(org-class 2023 3 8 2023 7 5 3)>
-aktueller Stoff: Säugetiere / Fische.
-Buch S. 104ff
 
-Buch S. 106 / 107
-Arbeitsheft S. 54
-
-#** Supplierstunde 2b PH 11:35-12:25
-#<%%(org-class 2023 1 25 2023 7 5 3)>
-#Buch S. 24+25: Aufgaben rechnen
