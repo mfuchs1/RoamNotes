@@ -5,13 +5,13 @@
 #+CATEGORY: golling
 
 
-#* 3a 11:35-12:25
-#<%%(org-class 2022 9 12 2023 7 3 1)>
+* 3a 11:35-12:25
+<%%(org-class 2022 9 12 2023 7 3 1 12)>
 
 [[denote:20230312T093141][[SW27] Franz Jägerstätter]]
 
-#* 3a 09:35-10:25
-#<%%(org-class 2022 9 14 2023 7 5 3)>
+* 3a 09:35-10:25
+<%%(org-class 2022 9 14 2023 7 5 3 12)>
 
 YouCat Studyguide
 [[https://www.youcat.org/de/produkte/youcat/#youcat-additional-materials]]

@@ -6,16 +6,16 @@
 
 
 
-#* 4b 11:35-12:25
-#<%%(org-class 2022 9 13 2023 7 4 2)>
+* 4b 11:35-12:25
+<%%(org-class 2022 9 13 2023 7 4 2 12)>
 
 [[denote:20230312T093000][[SW27] Passionsgeschichte]]
 
 Arbeit mit Laptops / Youcat-Studyguide
 gemeinsam eine Frage...
 
-#* 4b 08:40-09:30
-#<%%(org-class 2022 9 14 2023 7 5 3)>
+* 4b 08:40-09:30
+<%%(org-class 2022 9 14 2023 7 5 3 12)>
 
 [[denote:20230312T093000][[SW27] Passionsgeschichte]]
 
