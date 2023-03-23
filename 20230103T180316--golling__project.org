@@ -84,7 +84,7 @@ Schularbeit - Irmi 4b; ich 4a.
 <2023-03-22 Mi 08:40>--<2023-03-22 Mi 09:30>
 
 ** Supplierstunde 1b E (statt RC, mit EB)
-<2023-03-23 Do 09:35>--<2023-03-22 Mi 10:25>
+<2023-03-23 Do 09:35>--<2023-03-23 Do 10:25>
 
 ** Supplierstunde 2c BSP (statt RC)
 <2023-03-23 Do 10:40>--<2023-03-23 Do 11:30>
