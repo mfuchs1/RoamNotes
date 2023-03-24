@@ -2,15 +2,21 @@
 #+date:       [2023-03-21 Di 11:38]
 #+filetags:   :liturgie:schule:
 #+identifier: 20230321T113843
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) NEXT(x) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) CANCELED(c@)
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
 
 * Einzug:
- Kreuz / Umkehr / ...
+Kreuz / Umkehr / ...
+209 Jesus, Dein Licht (?)
+
+Vater...?
  
 * Kyrie:
 gesungen
 
 * Zwischengesang:
-
+(167 I believe in Jesus)
 
 * Ruf vor Evangelium:
 gesungen
@@ -31,5 +37,6 @@ gesprochen
 Ich singe dir ein Liebeslied (SJ 177)
 
 * Schluss:
-Kreuz, Hoffnung
+Maria
+301 Selig bist du, Maria
 

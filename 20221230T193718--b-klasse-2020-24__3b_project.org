@@ -33,27 +33,41 @@ Verhalten von Florian hat sich eben nicht verbessert.
 Und daher ist auch die Note (3) gerechtfertigt.
 Alle Burschen - auch Florian - haben verstanden, dass sie sich ihre Note durch ein besseres Verhalten und bessere Mitarbeit im Unterricht verbessern können.
 
+** Gespräch mit Fr. Krallinger
+Reli-Note ist peinlich für Familie. Ich hab meinen Standpunkt dargelegt.
+[[denote:20230310T173200][Gespräch Krallinger]]
+
+
+** [[denote:20230323T100317][[SW28] Was ist das Kreuz für dich?]]
+PERIOD: [2023-03-23 Do 08:40]
+
+Das war heute emotional sehr anstrengend. Die erste Hälfte der Stunde war "buisness as usual": extrem störendes Verhalten der Schüler, teilweise bereits "Lehrer ignorieren". Ich hab in der Folge die Schüler "ignoriert", da schreien nix nutzt. Nach einer sehr emotionalen Rede meinerseits war der Rest der Stunde wesentlich besser.
+
+Thema: Sinn und Bedeutung der Arbeit für den Menschen - In D: Arbeitsbedingungen in den großen Textilfirmen; BO Tage der Schüler; Pleite von zwei Modefirmen; Pleite dreier großen Banken (SVB, noch eine andere US Bank, Credit Suisse, ...)
+
+Maxi ändert sich gar nicht - scheinbar ist die Reli Note Zuhause völlig egal. Schaut sich seine Mama überhaupt das Zeugnis an? Thomas und Lukas ändern sich zum Besseren.
+
 
 * 3B [KV Erwin Essl]
 
 #+Name: 2021-students
 | First      | Last         | Name                  | Note | Mitarbeit | Heft | LZK |
 |------------+--------------+-----------------------+------+-----------+------+-----|
-| Maximilian | Fischhofer   | [[MaximilianFischhofer][Maximilian Fischhofer]] |      |           |      |     |
-| Hannah     | Höllbacher   | [[HannahHöllbacher][Hannah Höllbacher]]     |      |           |      |     |
-| Leon       | Keser        | [[LeonKeser][Leon Keser]]            |      |           |      |     |
-| Thomas     | Krallinger   | [[ThomasKrallinger][Thomas Krallinger]]     |      |           |      |     |
-| Fabian     | Lienbacher   | [[FabianLienbacher][Fabian Lienbacher]]     |      |           |      |     |
-| Lena       | Malter       | [[LenaMalter][Lena Malter]]           |      |           |      |     |
-| Sophia     | Mayr         | [[SophiaMayr][Sophia Mayr]]           |      |           |      |     |
-| Florian    | Peroutka     | [[FlorianPeroutka][Florian Peroutka]]      |      |           |      |     |
-| Andreas    | Rußegger     | [[AndreasRußegger][Andreas Rußegger]]      |      |           |      |     |
-| Valerie    | Schönauer    | [[ValerieSchönauer][Valerie Schönauer]]     |      |           |      |     |
-| Marlene    | Seidl        | [[MarleneSeidl][Marlene Seidl]]         |      |           |      |     |
-| Anna       | Spitzelseder | [[AnnaSpitzelseder][Anna Spitzelseder]]     |      |           |      |     |
-| Florian    | Steiner      | [[FlorianSteiner][Florian Steiner]]       |      |           |      |     |
-| Karin      | Struber      | [[KarinStruber][Karin Struber]]         |      |           |      |     |
-| Lukas      | Wagenhofer   | [[LukasWagenhofer][Lukas Wagenhofer]]      |      |           |      |     |
+| Maximilian | Fischhofer   | [[MaximilianFischhofer][Maximilian Fischhofer]] |    3 | -         |      |     |
+| Hannah     | Höllbacher   | [[HannahHöllbacher][Hannah Höllbacher]]     |    1 | +         |      |     |
+| Leon       | Keser        | [[LeonKeser][Leon Keser]]            |    2 | -         |      |     |
+| Thomas     | Krallinger   | [[ThomasKrallinger][Thomas Krallinger]]     |    3 | -         |      |     |
+| Fabian     | Lienbacher   | [[FabianLienbacher][Fabian Lienbacher]]     |    3 | -         |      |     |
+| Lena       | Malter       | [[LenaMalter][Lena Malter]]           |    1 | +         |      |     |
+| Sophia     | Mayr         | [[SophiaMayr][Sophia Mayr]]           |    1 | +         |      |     |
+| Florian    | Peroutka     | [[FlorianPeroutka][Florian Peroutka]]      |    1 | -         |      |     |
+| Andreas    | Rußegger     | [[AndreasRußegger][Andreas Rußegger]]      |    3 | -         |      |     |
+| Valerie    | Schönauer    | [[ValerieSchönauer][Valerie Schönauer]]     |    1 | +         |      |     |
+| Marlene    | Seidl        | [[MarleneSeidl][Marlene Seidl]]         |    1 | +         |      |     |
+| Anna       | Spitzelseder | [[AnnaSpitzelseder][Anna Spitzelseder]]     |    1 | +         |      |     |
+| Florian    | Steiner      | [[FlorianSteiner][Florian Steiner]]       |    3 | -         |      |     |
+| Karin      | Struber      | [[KarinStruber][Karin Struber]]         |    1 | +         |      |     |
+| Lukas      | Wagenhofer   | [[LukasWagenhofer][Lukas Wagenhofer]]      |    3 | -         |      |     |
 #+TBLFM: $4=vmean($5..$>)
 #+TBLFM: $3='(concat "[[" $1 $2 "][" $1 " " $2 "]]")
 #+TBLFM: $4='(identity remote(2021-22-Mitarbeit,@@#$4))
