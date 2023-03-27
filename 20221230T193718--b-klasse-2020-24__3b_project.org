@@ -15,8 +15,9 @@ YouCat: 93ff, ...
 Zu zweit arbeiten + Hefteintrag: pro Frage 1-2 Sätze.
 präsentieren(?)
 
-
 Hl. Schrift
+
+[[denote:20230327T101329][[SW29] Die Erlösung durch das Kreuz]]
 
 * 3b 08:40-09:30
 <%%(org-class 2022 9 15 2023 7 6 4)>
@@ -96,6 +97,13 @@ for student in table:
 so wie Andreas, Thomas und Lukas: stört, legt ein provozierendes Verhalten an den Tag. Man redet sie direkt an - und erhält ein provozierendes "Okay, okay, okay" mit einem präpotenten Grinsen zurück.
 
 Hat sein Heft vergessen.
+
+*** [[denote:20230327T101329][[SW29] Die Erlösung durch das Kreuz]]
+PERIOD: [2023-03-27 Mo 09:35]
+
+Maxi, Thomas und Fabian arbeiten gemeinsam in einer Gruppe. Im Moment wird dort nur gelacht, und Blödsinn gemacht. Vielleicht trügt der Anschein?
+
+
 
 ** HannahHöllbacher
 

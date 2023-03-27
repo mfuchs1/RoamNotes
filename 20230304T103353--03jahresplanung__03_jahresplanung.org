@@ -1288,20 +1288,6 @@ https://www.br.de/radio/bayern2/sendungen/radiowissen/religion/pessachfest-einsa
 Arbeitsblätter (s. o.)
 
 
-* TODO [SW29] Die Erlösung durch das Kreuz
-DEADLINE: <2023-03-27 Mo>
-:PROPERTIES:
-:CUSTOM_ID: Kreuz Erlösung
-:ID:       03_SW29
-:END:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2022-04-02 Sa 22:54]
-- State "DONE"       from "TODO"       [2021-04-05 Mo 09:27]
-- State "DONE"       from "TODO"       [2020-04-02 Do 11:33]
-- CLOSING NOTE [2019-04-02 Di 09:26] \\
-  Die Stunde in der 3B zum Thema "Sexualität / 6. Gebot" war toll. Ich habe einfach den Youcat genommen und die Schüler waren positiv überrascht!
-:END:
-
 ** Kompetenzbeschreibung
 [[#B3]] Gelehrte und gelebte Bezugsreligion - Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
 [[#B3_KB1]] Die Schüler können die Reich-Gottes-Botschaft erläutern und vom befreienden Handeln Gottes erzählen. 
