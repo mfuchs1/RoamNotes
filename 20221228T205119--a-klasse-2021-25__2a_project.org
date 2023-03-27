@@ -4,20 +4,17 @@
 #+identifier: 20221228T205119
 #+CATEGORY: golling
 
-
-
 * 2a 07:45-08:35
 <%%(org-class 2022 9 12 2023 7 3 1)>
 
 Bibelarbeit:
-- Gleichnis vom barmgerzigen Vater Lk 15
-- Johannes 4
-- 
+- Joh 8 (Ehebrecherin)
+- Heilige Woche
 
 * 2a 07:45-08:35
 <%%(org-class 2022 9 14 2023 7 5 3)>
 
-[[denote:20230321T073127][[SW28] Übergang: Die Kirche – das Haus Gottes? / Baustile Kirche]]
+
 
 
 * Reflexionen

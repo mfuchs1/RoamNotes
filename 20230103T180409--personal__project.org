@@ -57,3 +57,9 @@ Hol ich sie ab + bringe ich gleichzeitig Isabelle in die Arbeit?
 <%%(org-class 2023 3 8 2023 7 5 3)>
 Opa holt Gabriel ab und bringt ihn auch wieder nach Hause.
 
+** Heilige Messe (Dom)
+<2023-03-26 So 11:30>--<2023-03-26 So 12:30>
+
+** Mittagessen
+<2023-03-26 So 13:30>--<2023-03-26 So 14:30>
+
