@@ -139,3 +139,6 @@ CLOSED: [2023-03-20 Mo 09:56] DEADLINE: <2023-03-20 Mo 11:00>
 - State "DONE"       from "TODO"       [2023-03-20 Mo 09:56]
 :END:
 
+* TODO [#A] Elternsprechtag MS Golling eintragen
+DEADLINE: <2023-03-28 Di 20:00>
+

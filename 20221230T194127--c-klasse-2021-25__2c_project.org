@@ -4,19 +4,10 @@
 #+identifier: 20221230T194127
 #+CATEGORY: golling
 
-
-
 * 2c 07:45-08:35
 <%%(org-class 2022 9 13 2023 7 4 2)>
 
-[[denote:20230321T073127][[SW28] Übergang: Die Kirche – das Haus Gottes? / Baustile Kirche]]
-
-Arbeit mit Laptops / Youcat-Studyguide
-gemeinsam eine Frage...
-
-(magit wird mir sehr helfen...)
-
-
+Letzte Woche Jesu / YouCat 
 
 * 2c 08:40-09:30
 <%%(org-class 2022 9 16 2023 7 7 5)>

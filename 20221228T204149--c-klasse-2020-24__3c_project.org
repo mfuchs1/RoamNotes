@@ -4,7 +4,6 @@
 #+identifier: 20221228T204149
 #+CATEGORY: golling
 
-
 * 3c 09:35-10:25
 <%%(org-class 2022 9 13 2023 7 4 2 12)>
 
