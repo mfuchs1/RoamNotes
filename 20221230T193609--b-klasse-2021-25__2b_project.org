@@ -37,7 +37,7 @@ Diese Stunde ist entfallen - Klasse 2b ist auf zweitägigem Ausflug.
 | Azra     | Hant               | [[AzraHant][Azra Hant]]                |      |           |      |     |
 | Hannah   | Hauser             | [[HannahHauser][Hannah Hauser]]            |      |           |      |     |
 | Matthias | Holler             | [[MatthiasHoller][Matthias Holler]]          |      |           |      |     |
-| Andreas  | Hollweger          | [[AndreasHollweger][Andreas Hollweger]]        |      |           |      |     |
+| Andreas  | Hollweger          | [[AndreasHollweger][Andreas Hollweger]]        |      |           | V    |     |
 | Jonas    | Jarnig             | [[JonasJarnig][Jonas Jarnig]]             |      |           |      |     |
 | Fabian   | Klöß               | [[FabianKlöß][Fabian Klöß]]              |      |           |      |     |
 | Evelyn   | Nestler            | [[EvelynNestler][Evelyn Nestler]]           |      |           |      |     |
@@ -49,7 +49,7 @@ Diese Stunde ist entfallen - Klasse 2b ist auf zweitägigem Ausflug.
 | Phillipp | Spagolla           | [[PhillippSpagolla][Phillipp Spagolla]]        |      |           |      |     |
 | Emma     | Tikvic             | [[EmmaTikvic][Emma Tikvic]]              |      |           |      |     |
 | Selina   | Weiss              | [[SelinaWeiss][Selina Weiss]]             |      |           |      |     |
-| Samuel   | Wittner            | [[SamuelWittner][Samuel Wittner]]           |      |           |      |     |
+| Samuel   | Wittner            | [[SamuelWittner][Samuel Wittner]]           |      |           | V    |     |
 #+TBLFM: $4=vmean($5..$>)
 #+TBLFM: $3='(concat "[[" $1 $2 "][" $1 " " $2 "]]")
 #+TBLFM: $4='(identity remote(2021-22-Mitarbeit,@@#$4))
