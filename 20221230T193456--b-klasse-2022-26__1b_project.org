@@ -22,6 +22,14 @@ YouCat Studyguide
 
 arte doku: Leben im All (4/4)
 
+* Supplierstunde 1b BU (Hannes Lacher) 10:40-11:30
+<%%(org-class 2023 3 8 2023 7 5 3 13)>
+aktueller Stoff: Säugetiere / Fische.
+Buch S. 104ff
+
+Buch S. 106 / 107
+Arbeitsheft S. 54
+
 * Reflexionen
 
 ** [[denote:20221226T162523][Grundgebete]]

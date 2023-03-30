@@ -1,0 +1,28 @@
+#+title:      Fürbitten
+#+date:       [2023-03-30 Do 21:12]
+#+filetags:   :gottesdienst:ostern:
+#+identifier: 20230330T211225
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) NEXT(x) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) CANCELED(c@)
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+
+* Für uns Schüler und Lehrer
+Herr Jesus, die letzten Monate und Woche waren für und alle anstrengend und ereignisreich:
+schenke uns in diesen Ferien eine erholsame Zeit und ein gesegnetes, friedvolles Osterfest.
+
+* Für den Frieden
+Viele Menschen leiden unter den Schrecken der Kriege unserer Zeit.
+Jesus, Friedensfürst, schenke uns den Frieden, den nur Du geben kannst
+und segne alle Bemühungen zu einem friedvollen Miteinander.
+
+* Für unsere Familien
+Zu Ostern feiern wir die Auferstehung unseres Herrn Jesus Christus:
+Lieber Jesus, lass uns in unseren Familien etwas von deiner Osterfreude spüren.
+
+* Für die Armen und Kranken
+Jesus, du hast gesagt: "Was ihr für einen meiner geringsten Brüder getan habt, das habt ihr mir getan."
+Öffne unsere Augen, Herzen und Hände für die Not unserer Mitmenschen.
+
+* Für unsere Verstorbenen
+"Ich bin gekommen, dass sie das Leben haben und es in Fülle haben."
+Jesus, nimm unsere Verstorbenen auf in dein himmlisches Reich und schenke ihnen deinen Frieden.

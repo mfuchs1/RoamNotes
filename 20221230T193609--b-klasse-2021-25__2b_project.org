@@ -14,9 +14,16 @@ Bibelarbeit:
 * 2b 07:45-08:35
 <%%(org-class 2022 9 15 2023 7 6 4)>
 
-RB 2 S. ??
+RB 2 S. 100 (?)
 Baustile der Kirchen, etc...
 
+* Supplierstunde 2b PH 11:35-12:25
+<%%(org-class 2023 1 25 2023 7 5 3 12)>
+Buch S. 24+25: Aufgaben rechnen
+
+Reibung
+
+nächste Stunde (nach Ostern): LZK - gestern <2023-03-29 Mi 11:35-12:25> waren einige Schüler der Klasse ziemlich frech (Andreas + Augustin).
 
 * Reflexionen                                                   :Reflexionen:
 
