@@ -6,14 +6,19 @@
 #+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
 #+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) NEXT(x) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) CANCELED(c@)
 #+SETUPFILE: ~/RoamNotes/config/latex_setup.org
-#+reference:  Ratzinger.2011
 
 Wie "behandle" ich das Thema Auferstehung im RU? Es ist der wesentliche und zentrale Glaubensinhalt des Christentums. Was sollen die Schüler mitnehmen? Die Auferstehung Jesu ist kein frommes Märchen, keine Massenpsychose der Jünger, etc ... Sie ist ein historisches Ereignis.
 
 Ich sollte wohl das Kapitel in "Jesus von Nazareth" von B16 erneut druchlesen.
 
+* Citar denote links zu bibliographischen Notizen:
 [[denote:20230405T112018][Jesus von Nazareth: Band II: Vom Einzug in Jerusalem bis zur Auferstehung]]
 
+[[denote:20230405T113926][Neues Lexikon der katholischen Dogmatik]]
+
+[[denote:20230405T113751][Bibeltheologisches Wörterbuch]]
+
+[[denote:20230405T113850][Herders Neues Bibellexikon]]
 
 
 * Bibel

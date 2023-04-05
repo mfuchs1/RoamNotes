@@ -1,0 +1,7 @@
+#+title:      Neues Lexikon der katholischen Dogmatik
+#+date:       [2023-04-05 Mi 11:39]
+#+filetags:   :bib:theology:
+#+identifier: 20230405T113926
+#+reference:  Beinert2012
+
+* Auferstehung
