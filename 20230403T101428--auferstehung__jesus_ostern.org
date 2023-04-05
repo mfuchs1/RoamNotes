@@ -8,7 +8,7 @@
 #+SETUPFILE: ~/RoamNotes/config/latex_setup.org
 #+reference:  Ratzinger.2011
 
-Wie "behandle" ich das Thema Auferstehung im RU? Es ist der wesentliche und zentrale Glaubensinhalt des Christentums. Was sollen die Schüler mitnehmen? Die Auferstehung Jesu ist kein frommes Märchen, eine Massenpsychose der Jünger, etc ... Sie ist ein historisches Ereignis.
+Wie "behandle" ich das Thema Auferstehung im RU? Es ist der wesentliche und zentrale Glaubensinhalt des Christentums. Was sollen die Schüler mitnehmen? Die Auferstehung Jesu ist kein frommes Märchen, keine Massenpsychose der Jünger, etc ... Sie ist ein historisches Ereignis.
 
 Ich sollte wohl das Kapitel in "Jesus von Nazareth" von B16 erneut druchlesen.
 
