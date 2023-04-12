@@ -24,11 +24,22 @@ Menschliche Würde + Gottes Plan für mich + meine und deine Grenzen...
 
 * Supplierstunde 2b PH 11:35-12:25
 <%%(org-class 2023 1 25 2023 7 5 3 12)>
-Buch S. 24+25: Aufgaben rechnen
 
-Reibung
+nächste Stunde (nach Ostern): *LZK* - gestern <2023-03-29 Mi 11:35-12:25> waren einige Schüler der Klasse ziemlich frech (Andreas + Augustin).
 
-nächste Stunde (nach Ostern): LZK - gestern <2023-03-29 Mi 11:35-12:25> waren einige Schüler der Klasse ziemlich frech (Andreas + Augustin).
+Buch S. 28: Arbeit in der Physik
+- Arbeit: Kraft wirkt auf einen Körper, dieser verändert seine Lage, seinen Ort, oder seine Form.
+
+- Hubarbeit, Reibungsarbeit, Verformungsarbeit, Beschleunigungsarbeit.
+
+- Formel: W = F * s [Einheit: 1 Joule (Newtonmeter) = 1 Newton * 1 m(eter)]
+
+- Leistung:
+  wie viel Arbeit pro Zeit
+
+  P = W / t [Einheit: 1 Watt = 1J pro Sekunde]
+
+  Z.B. Leistungsangaben bei Elektrogeräten, Autos, etc ...
 
 * Reflexionen                                                   :Reflexionen:
 

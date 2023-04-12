@@ -9,7 +9,7 @@
 
 Buch (Kirche ÜT)
 
-[[denote:20221226T111248][Apostel Paulus]] + Auferstehung 
+[[denote:20221226T111248][Apostel Paulus]] + [[denote:20230403T101428][Auferstehung]]
 
 Menschliche Würde + Gottes Plan für mich + meine und deine Grenzen...
 
@@ -129,15 +129,10 @@ for student in table:
 
 ** YarenYavuzer
 
-*
 
-** 
-PERIOD: [2023-02-28 Di 15:25]
 
-Aura-Ana-Maria hat dieses Semester schon mindestens dreimal unentschuldigt im Religionsunterricht gefehlt. Ich habe Wolfgang Rosenstatter (KV) verständigt. Sollte ich selbst die Eltern anrufen?
 
-** 
-PERIOD: [2023-02-28 Di 15:25]
 
-Aura-Ana-Maria hat mindestens dreimal in diesem Semester gefehlt. Habe KV verständigt.
+
+
 
