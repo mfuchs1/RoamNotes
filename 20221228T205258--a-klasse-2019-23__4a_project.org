@@ -7,16 +7,12 @@
 * 4a 08:40-09:30
 <%%(org-class 2022 9 12 2023 7 3 1 12)>
 
-[[denote:20221226T111248][Apostel Paulus]]
-
-[[denote:20230403T101428][Auferstehung]]
+Apostel Paulus (Briefe)
 
 * 4a 09:35-10:25
 <%%(org-class 2022 9 16 2023 7 7 5 12)>
 
-[[denote:20221226T111248][Apostel Paulus]]
 
-[[denote:20230403T101428][Auferstehung]]
 
 * Reflexionen
 

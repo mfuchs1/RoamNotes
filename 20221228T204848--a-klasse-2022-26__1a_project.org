@@ -8,16 +8,13 @@
 * 1a 08:40-09:30
 <%%(org-class 2022 9 13 2023 7 4 2)>
 
-Buch ...
-
-[[denote:20230403T101428][Auferstehung]]
+Buch - Bibel (NT - Evangelien)
+Namen der Apostel
 
 * 1a 12:30-13:20
 <%%(org-class 2022 9 16 2023 7 7 5)>
 
-Buch ...
 
-[[denote:20230403T101428][Auferstehung]]
 
 * Reflexionen
 

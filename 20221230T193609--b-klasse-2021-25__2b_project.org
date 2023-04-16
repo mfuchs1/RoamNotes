@@ -7,20 +7,12 @@
 * 2b 10:40-11:30
 <%%(org-class 2022 9 12 2023 7 3 1)>
 
-Buch (Kirche ÜT)
-
-[[denote:20221226T111248][Apostel Paulus]] + Auferstehung 
-
-Menschliche Würde + Gottes Plan für mich + meine und deine Grenzen...
+Buch - Bibel (Paulus, Apostelgeschichte, Briefe)
 
 * 2b 07:45-08:35
 <%%(org-class 2022 9 15 2023 7 6 4)>
 
-Buch (Kirche ÜT)
 
-[[denote:20221226T111248][Apostel Paulus]] + [[denote:20230403T101428][Auferstehung]]
-
-Menschliche Würde + Gottes Plan für mich + meine und deine Grenzen...
 
 * Supplierstunde 2b PH 11:35-12:25
 <%%(org-class 2023 1 25 2023 7 5 3 12)>
