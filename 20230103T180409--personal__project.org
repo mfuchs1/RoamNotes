@@ -73,5 +73,12 @@ Opa holt Gabriel ab und bringt ihn auch wieder nach Hause.
 <2023-04-16 So 11:30>--<2023-04-16 So 12:30>
 
 ** Mittagessen McDonalds
-<2023-04-16 So 13:00>--<2023-04-16 So 15:00>
+<2023-04-16 So 13:00>--<2023-04-16 So 14:00>
+
+** Spaziergang in Anif
+<2023-04-16 So 14:00>--<2023-04-16 So 15:30>
+war so schön 
+
+** Service Auto (Fa. Seidl Wals)
+<2023-04-18 Di 17:00>--<2023-04-18 Di 18:00>
 
