@@ -18,6 +18,8 @@ Film "Auf dem Weg zur Schule" (bis ca 39 min)
 * 2c 08:40-09:30
 <%%(org-class 2022 9 16 2023 7 7 5)>
 
+Film "Auf dem Weg zur Schule" - Fortsetzung, Ende, Besprechung
+
 Buch (Kirche ÜT)
 
 [[denote:20221226T111248][Apostel Paulus]] + Auferstehung 
