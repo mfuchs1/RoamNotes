@@ -117,7 +117,16 @@ Auf Smartphone habe ich den Supplierplan der nächsten Woche: 2. Klassen sind au
 Nachprüfen mit Sokrates (online).
 
 * TODO [#A] Learn [[Emacs Tutorial]]
-DEADLINE: <2023-03-08 Mi 22:00 +1d>
+DEADLINE: <2023-04-20 Do 22:00 +1d>
+:PROPERTIES:
+:LAST_REPEAT: [2023-04-20 Do 07:37]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-04-20 Do 07:37]
+- State "DONE"       from "TODO"       [2023-04-20 Do 07:37]
+- State "DONE"       from "TODO"       [2023-04-20 Do 07:37]
+- State "DONE"       from "TODO"       [2023-04-20 Do 07:37]
+:END:
 
 * TODO [#A] Learn Scheme 
 
@@ -139,6 +148,12 @@ CLOSED: [2023-03-20 Mo 09:56] DEADLINE: <2023-03-20 Mo 11:00>
 - State "DONE"       from "TODO"       [2023-03-20 Mo 09:56]
 :END:
 
-* TODO [#A] Elternsprechtag MS Golling eintragen
-DEADLINE: <2023-03-28 Di 20:00>
+* DONE [#A] Elternsprechtag MS Golling eintragen
+CLOSED: [2023-04-19 Mi 15:52] DEADLINE: <2023-03-28 Di 20:00>
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-04-19 Mi 15:52]
+:END:
+
+* TODO [#A] 2b Physik LZK / Test planen 
+DEADLINE: <2023-04-20 Do 21:00>
 
