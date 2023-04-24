@@ -12,8 +12,11 @@ Das erste Semester in der MS war für Gabriel eher frustrierend; va Englisch: tr
 
 * Mathematik
 
-** TODO [#A] Gabriel Geometrie lernen
-SCHEDULED: <2023-04-21 Fr 15:30>
+** DONE [#A] Gabriel Geometrie lernen
+CLOSED: [2023-04-24 Mo 14:26] SCHEDULED: <2023-04-21 Fr 15:30>
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-04-24 Mo 14:26]
+:END:
 Rechteck, Quadrat, ... konstruieren lernen.
 Handhabung, Umgang mit Dreieck, Zirkel;
 

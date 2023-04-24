@@ -28,12 +28,12 @@ Film "Auf dem Weg zur Schule"
 
 * Reflexionen                                                   :Reflexionen:
 
-** 
+** 2b
 PERIOD: [2023-02-28 Di 15:25]
 
 Aura-Ana-Maria hat dieses Semester schon mindestens dreimal unentschuldigt im Religionsunterricht gefehlt. Ich habe Wolfgang Rosenstatter (KV) verständigt. Sollte ich selbst die Eltern anrufen?
 
-** 
+** 2b
 PERIOD: [2023-02-28 Di 15:25]
 
 Aura-Ana-Maria hat mindestens dreimal in diesem Semester gefehlt. Habe KV verständigt.
@@ -42,20 +42,20 @@ Aura-Ana-Maria hat mindestens dreimal in diesem Semester gefehlt. Habe KV verst�
 * Schülerliste
 
 #+Name: 2021-students
-| First    | Last        | Klasse | Name               | Note | Mitarbeit | Heft | LZK |
-|----------+-------------+--------+--------------------+------+-----------+------+-----|
-| Selina   | Heis        | 1a     | [[SelinaHeis][Selina Heis]]        |      |           |      |     |
-| Edmund   | Atherton    | 1b     | [[EdmundAtherton][Edmund Atherton]]    |      |           |      |     |
-| Lucia    | Cervenakova | 1DFK   | [[LuciaCervenakova][Lucia Cervenakova]]  |      |           |      |     |
-| Sabrina  | Richterova  | 2a     | [[SabrinaRichterova][Sabrina Richterova]] |      |           |      |     |
-| Robin    | Fasl        | 2a     | [[RobinFasl][Robin Fasl]]         |      |           |      |     |
-| Viktor   | Werber      | 2a     | [[ViktorWerber][Viktor Werber]]      |      |           |      |     |
-| Mate     | Meszaros    | 2a     | [[MateMeszaros][Mate Meszaros]]      |      |           |      |     |
-| Isabella | Holub       | 2b     | [[IsabellaHolub][Isabella Holub]]     |      |           |      |     |
-| Sarah    | Ascic       | 2b     | [[SarahAscic][Sarah Ascic]]        |      |           |      |     |
-| Aura     | Filan       | 2b     | [[AuraFilan][Aura Filan]]         |      |           |      |     |
-| Lukas    | Gady        | 4b     | [[LukasGady][Lukas Gady]]         |      |           |      |     |
-|----------+-------------+--------+--------------------+------+-----------+------+-----|
+| First          | Last        | Klasse | Name               | Note | Mitarbeit | Heft | LZK |
+|----------------+-------------+--------+--------------------+------+-----------+------+-----|
+| Selina         | Heis        | 1a     | [[SelinaHeis][Selina Heis]]        |      |           |      |     |
+| Edmund         | Atherton    | 1b     | [[EdmundAtherton][Edmund Atherton]]    |      |           |      |     |
+| Lucia          | Cervenakova | 1DFK   | [[LuciaCervenakova][Lucia Cervenakova]]  |      |           |      |     |
+| Sabrina        | Richterova  | 2a     | [[SabrinaRichterova][Sabrina Richterova]] |      |           |      |     |
+| Robin          | Fasl        | 2a     | [[RobinFasl][Robin Fasl]]         |      |           |      |     |
+| Viktor         | Werber      | 2a     | [[ViktorWerber][Viktor Werber]]      |      |           |      |     |
+| Mate           | Meszaros    | 2a     | [[MateMeszaros][Mate Meszaros]]      |      |           |      |     |
+| Isabella       | Holub       | 2b     | [[IsabellaHolub][Isabella Holub]]     |      |           |      |     |
+| Sarah          | Ascic       | 2b     | [[SarahAscic][Sarah Ascic]]        |      |           |      |     |
+| Aura-Ana-Maria | Filan       | 2b     | [[AuraFilan][Aura Filan]]         |      |           |      |     |
+| Lukas          | Gady        | 4b     | [[LukasGady][Lukas Gady]]         |      |           |      |     |
+|----------------+-------------+--------+--------------------+------+-----------+------+-----|
 #+TBLFM: $5=vmean($6..$>)
 #+TBLFM: $4='(concat "[[" $1 $2 "][" $1 " " $2 "]]")
 #+TBLFM: $4='(identity remote(2021-22-Mitarbeit,@@#$4))

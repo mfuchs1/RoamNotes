@@ -9,9 +9,7 @@
 
 Buch (Kirche ÜT)
 
-oder: Heilige Schrift - Briefe Hl Paulus (Apg)
-
-AT?
+Kirche Innenraum; Synagoge zu Kirche (Parallelen)
 
 * 2a 07:45-08:35
 <%%(org-class 2022 9 14 2023 7 5 3)>
@@ -19,8 +17,6 @@ AT?
 Buch (Kirche ÜT)
 
 [[denote:20221226T111248][Apostel Paulus]] + [[denote:20230403T101428][Auferstehung]]
-
-
 
 * Reflexionen
 
