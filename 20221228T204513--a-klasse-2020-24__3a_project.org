@@ -9,8 +9,6 @@
 
 Themen aus dem YouCat Firmbuch
 
-Film "Auf dem Weg zur Schule" (bis ca 40. Minute)
-
 * 3a 09:35-10:25
 <%%(org-class 2022 9 14 2023 7 5 3 12)>
 
