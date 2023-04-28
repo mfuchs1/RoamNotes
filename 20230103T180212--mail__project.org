@@ -12,3 +12,15 @@
 
 * Tasks
 
+** TODO [#A] Bezahlen, Link: [[mu4e:msgid:E1020004-17525CB608C4FE54-712A0C30@shopify.com][Bestellung #3256]]
+DEADLINE: <2023-04-26 Mi 18:00>
+:PROPERTIES:
+:CREATED: [2023-04-26 Mi 07:44]
+:END:
+
+** TODO [#A] Bezahlen, Link: [[mu4e:msgid:144923031073681456628532@SH-Srv031][RECHNUNG Melchior Abo 23-1]]
+DEADLINE: <2023-04-26 Mi 19:00>
+:PROPERTIES:
+:CREATED: [2023-04-26 Mi 07:43]
+:END:
+

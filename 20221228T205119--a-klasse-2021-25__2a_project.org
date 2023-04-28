@@ -15,6 +15,7 @@ Kirche Innenraum; Synagoge zu Kirche (Parallelen)
 <%%(org-class 2022 9 14 2023 7 5 3)>
 
 Buch (Kirche ÜT)
+Innenraum Kirche / Übungsteil
 
 [[denote:20221226T111248][Apostel Paulus]] + [[denote:20230403T101428][Auferstehung]]
 
