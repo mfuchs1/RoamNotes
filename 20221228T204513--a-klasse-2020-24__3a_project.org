@@ -9,6 +9,10 @@
 
 Themen aus dem YouCat Firmbuch
 
+Warum lässt du dich firmen?
+[[denote:20230430T101427][Firmung warum]]
+
+
 * 3a 09:35-10:25
 <%%(org-class 2022 9 14 2023 7 5 3 12)>
 

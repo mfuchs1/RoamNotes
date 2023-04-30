@@ -11,9 +11,9 @@
 
 [[denote:20230403T101428][Auferstehung]]
 
-Lk 24 Emmausjünger - Zeichnungen
+Warum lässt du dich firmen?
+[[denote:20230430T101427][Firmung warum]]
 
-Fim "Auf dem Weg zur Schule" - bis Minute 39
 
 * 3c 07:45-08:35
 <%%(org-class 2022 9 16 2023 7 7 5)>
@@ -35,20 +35,22 @@ Bibel-Fussball
 
 ** [[id:03_SW01][[SW01] Wer möchte ich sein – wer bin ich?]]
 Datum: <2022-09-16 Fr 09:35>
-
 Ausgehend vom Satz "Der Mensch wird am Du zum Ich" entwickelte sich eine spannende Diskussion, Gespräch, ...
 
 
 ** [[denote:20221226T113745][Dialog zw Theologie und Naturwissenschaften]]
 CREATED: [2023-01-27 Fr 07:45]
-
 Hannes (Lehrer) hat heute mindestens 15 Minuten meiner (unserer) Stunde in Anspruch genommen. Wäre netter gewesen, wenn er mich vorher fragen würde. Ich hätte ihm gerne und ohne Probleme die nötige Zeit gegeben.
 
 
 ** [[denote:20221226T113745][Dialog zw Theologie und Naturwissenschaften]]
 PERIOD: [2023-02-10 Fr 07:45]
-
 Slatko, Maid und ? haben diese Stunde massiv gestört; eigentlich dürften sie nicht dabei sein. Kommen sie, weil sonst niemand auf sie aufpassen will? Ich habe ihnen verboten, in Zukunft in meinen Unterricht zu kommen.
+
+** Bibel-Fußball
+PERIOD: [2023-04-28 Fr 07:45]
+Das war interessant: in allen anderen Klassen kam das Fußball-Bibel-Quiz super an. Nur hier nicht - das kann ja passieren. Pro Gruppe gibt es einen Sprecher; in der 3c spielten Burschen gegen Mädchen. Bei den Burschen war dies Sebastian; trotzdem rief bei fast jeder Frage immer Alexander falsche Antworten dazwischen - und die übrigen Burschen wiesen ihn nicht zurück. Eigentlich boykottierten das Spiel - was tun? Ein "Minus" als Mitarbeit?
+
 
 
 
