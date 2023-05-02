@@ -21,7 +21,7 @@ Buch ...
 [[denote:20230403T101428][Auferstehung]]
 
 * Supplierstunde 1b BU (Hannes Lacher) 10:40-11:30
-<%%(org-class 2023 3 8 2023 7 5 3 17)>
+<%%(org-class 2023 3 8 2023 7 5 3 18)>
 aktueller Stoff: Säugetiere / Fische.
 Buch S. 104ff
 

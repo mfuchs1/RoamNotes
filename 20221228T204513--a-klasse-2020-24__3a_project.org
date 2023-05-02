@@ -5,7 +5,7 @@
 #+CATEGORY: golling
 
 * 3a 11:35-12:25
-<%%(org-class 2022 9 12 2023 7 3 1 17)>
+<%%(org-class 2022 9 12 2023 7 3 1 18)>
 
 Themen aus dem YouCat Firmbuch
 

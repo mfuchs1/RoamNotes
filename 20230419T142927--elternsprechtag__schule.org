@@ -1,6 +1,6 @@
 #+title:      Elternsprechtag
 #+date:       [2023-04-19 Mi 14:29]
-#+filetags:   :schule:Project:
+#+filetags:   :schule:
 #+identifier: 20230419T142927
 #+CATEGORY: golling
 

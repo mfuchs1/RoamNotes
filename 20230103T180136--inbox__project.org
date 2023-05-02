@@ -116,19 +116,9 @@ Auf Smartphone habe ich den Supplierplan der nächsten Woche: 2. Klassen sind au
 
 Nachprüfen mit Sokrates (online).
 
-* TODO [#A] Learn [[Emacs Tutorial]]
-DEADLINE: <2023-04-20 Do 22:00 +1d>
-:PROPERTIES:
-:LAST_REPEAT: [2023-04-20 Do 07:37]
-:END:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2023-04-20 Do 07:37]
-- State "DONE"       from "TODO"       [2023-04-20 Do 07:37]
-- State "DONE"       from "TODO"       [2023-04-20 Do 07:37]
-- State "DONE"       from "TODO"       [2023-04-20 Do 07:37]
-:END:
+* TODO Learn [[Emacs Tutorial]]
 
-* TODO [#A] Learn Scheme 
+* TODO Learn Scheme 
 
 William Byrd on "The Most Beautiful Program Ever Written" [PWL NYC]:
 [[https://www.youtube.com/watch?v=OyfBQmvr2Hc]]
