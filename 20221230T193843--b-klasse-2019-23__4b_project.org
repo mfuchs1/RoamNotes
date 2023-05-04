@@ -4,6 +4,8 @@
 #+identifier: 20221230T193843
 #+CATEGORY: golling
 
+[[file:~/NMS_Golling/Lehrplan_2023.pdf]]
+
 * 4b 11:35-12:25
 <%%(org-class 2022 9 13 2023 7 4 2 12)>
 
@@ -25,6 +27,22 @@ Kahoot - Kurt Mikula:
 
 So ein ähnliches Thema aus dem YouCat oder Firmbuch ...
 
+Heiliger Geist: biblsiche Symbole und Bilder
+Apg 2
+
+Taube, Feuer, Wind 
+
+im AT nur an zwei Stellen: (Ps 51,13 und Jes 63,10f.)
+
+Geist Gottes und die Schöpfung: Psalm 104 (Gen 1,2)
+
+[[https://www.katholisch.at/grundkurs/heiliger-geist]]
+
+[[https://www.youcat.org/de/credopedia/pfingsten/]]
+
+[[https://www.youcat.org/de/credopedia/gaben-des-heiligen-geistes/]]
+
+[[https://www.youcat.org/de/credopedia/minicat/pfingsten/]]
 
 * Reflexionen
 

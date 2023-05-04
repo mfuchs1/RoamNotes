@@ -25,6 +25,8 @@ Austausch über die Lesungen (im RU wieder vermehrt in der Bibel; abgewechselt m
 
 Film "Auf dem Weg zur Schule"
 
+Geschenk für Felix fertigstellen.
+
 * Supplierstunde 2b PH 11:35-12:25
 <%%(org-class 2023 1 25 2023 7 5 3 12)>
 
@@ -43,6 +45,10 @@ Buch S. 28: Arbeit in der Physik
   P = W / t [Einheit: 1 Watt = 1J pro Sekunde]
 
   Z.B. Leistungsangaben bei Elektrogeräten, Autos, etc ...
+
+Video Harald Lesch über Energie
+Energieformen
+Rechenbeispiele
 
 
 * Reflexionen                                                   :Reflexionen:

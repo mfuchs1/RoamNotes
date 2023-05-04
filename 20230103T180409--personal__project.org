@@ -109,3 +109,7 @@ war so schön
 ** Wandern in der Nähe von Aigen
 <2023-05-01 Mo 13:00>--<2023-05-01 Mo 16:00>
 
+** Englisch Nachhilfe Gabriel (Melanie Jobke) 14:15-15:15
+<%%(org-class 2023 5 4 2023 7 6 4)>
+
+
