@@ -7,7 +7,7 @@
 [[file:~/NMS_Golling/Lehrplan_2023.pdf]]
 
 * 4b 11:35-12:25
-<%%(org-class 2022 9 13 2023 7 4 2 12)>
+<%%(org-class 2022 9 13 2023 7 4 2 19)>
 
 [[denote:20221226T111248][Apostel Paulus]]
 
@@ -21,7 +21,7 @@ Kahoot - Kurt Mikula:
 [[https://www.mikula-kurt.net/spiele/kahoot-religion/]]
 
 * 4b 08:40-09:30
-<%%(org-class 2022 9 14 2023 7 5 3 12)>
+<%%(org-class 2022 9 14 2023 7 5 3 19)>
 
 [[denote:20221226T111248][Apostel Paulus]]
 

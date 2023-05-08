@@ -5,7 +5,7 @@
 #+CATEGORY: golling
 
 * 4a 08:40-09:30
-<%%(org-class 2022 9 12 2023 7 3 1 18)>
+<%%(org-class 2022 9 12 2023 7 3 1 19)>
  
 Thema "back to the Basics":
 
@@ -20,7 +20,7 @@ Kahoot - Kurt Mikula:
 [[https://www.mikula-kurt.net/spiele/kahoot-religion/]]
 
 * 4a 09:35-10:25
-<%%(org-class 2022 9 16 2023 7 7 5 12)>
+<%%(org-class 2022 9 16 2023 7 7 5 19)>
 
 Apostel Paulus
 
