@@ -16,7 +16,10 @@ Buch ...
 * 1b 11:35-12:25
 <%%(org-class 2022 9 16 2023 7 7 5)>
 
-Buch ...
+Buch Kapitel 6:
+Vielfalt der Religionen
+
+Drei christliche Konfessionen
 
 [[denote:20230403T101428][Auferstehung]]
 
