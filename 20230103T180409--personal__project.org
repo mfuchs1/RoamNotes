@@ -112,4 +112,28 @@ war so schön
 ** Englisch Nachhilfe Gabriel (Melanie Jobke) 14:15-15:15
 <%%(org-class 2023 5 4 2023 7 6 4)>
 
+** Gottesdienst Dom Salzburg
+<2023-05-14 So 08:30>--<2023-05-14 So 09:30>
 
+** [#A] Fahrt zum Flughafen München - Terminal 1
+<2023-05-14 So 10:00>--<2023-05-14 So 12:00>
+Parkdeck 7, Gate D
+
+** [#A] Flug Isabelle, Gabriel und Leopold nach Marseille (AF 1723)
+<2023-05-14 So 13:05>--<2023-05-14 So 19:40>
+13:05 München - Terminal 1 (AF 1723)
+14:50 Paris
+18:15 Paris (AF 7340)
+19:50 Marseille - Terminal 1B
+
+** [#A] Flug Isabelle Kinder Marseille - München (KL 1801)
+<2023-05-16 Di 17:30>--<2023-05-16 Di 22:25>
+17:30 Marseille (KL 3601) - Terminal 1B
+19:35 Amsterdam
+21:00 Amsterdam (KL 1801) - 
+22:25 München - Terminal 1
+
+** [#A] Fahrt zum Flughafen München - Terminal 1
+<2023-05-16 Di 19:30>--<2023-05-16 Di 21:30>
+Isabelle, Gabriel und Leopold abholen
+Ankunft 22:25 Flug KL 1801 von Amsterdam / KL 3601 Marseille

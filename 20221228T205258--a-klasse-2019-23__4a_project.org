@@ -7,11 +7,7 @@
 * 4a 08:40-09:30
 <%%(org-class 2022 9 12 2023 7 3 1 19)>
  
-Thema "back to the Basics":
-
-Apostel Paulus (Briefe)
-
-Römer / 1. Korintherbrief
+Pfingsten / Buch der Offenbarung
 
 Bibel Stories:
 [[file:~/Downloads/Bibel-Stories.pdf]]
