@@ -44,25 +44,26 @@ Thema heute: Vater unser.
 * 1B [KV Martin Pock]
 
 #+Name: 2021-students
-| First     | Last       | Name               | Note | Heft | Mitarbeit | LZK |
-|-----------+------------+--------------------+------+------+-----------+-----|
-| Lorenz    | Aschauer   | [[LorenzAschauer][Lorenz Aschauer]]    |    2 |      |           |     |
-| Stefan    | Atanasov   | [[StefanAtanasov][Stefan Atanasov]]    |    2 |      |           |     |
-| Lela      | Dent       | [[LelaDent][Lela Dent]]          |    1 |      |           |     |
-| Emma      | Gonschorek | [[EmmaGonschorek][Emma Gonschorek]]    |    1 |      |           |     |
-| Marie     | Hofer      | [[MarieHofer][Marie Hofer]]        |    1 |      |           |     |
-| Hubert    | Keinrad    | [[HubertKeinrad][Hubert Keinrad]]     |    1 |      |           |     |
-| Nena      | Langenfeld | [[NenaLangenfeld][Nena Langenfeld]]    |    1 |      |           |     |
-| Bernhard  | Neureiter  | [[BernhardNeureiter][Bernhard Neureiter]] |    2 |      |           |     |
-| Manuel    | Reiter     | [[ManuelReiter][Manuel Reiter]]      |    1 |      |           |     |
-| Emma      | Riebler    | [[EmmaRiebler][Emma Riebler]]       |    1 |      |           |     |
-| Annika    | Seiwald    | [[AnnikaSeiwald][Annika Seiwald]]     |    1 |      |           |     |
-| Valerian  | Seling     | [[ValerianSeling][Valerian Seling]]    |    2 |      |           |     |
-| Theresa   | Steiner    | [[TheresaSteiner][Theresa Steiner]]    |    1 |      |           |     |
-| Valentina | Struber    | [[ValentinaStruber][Valentina Struber]]  |    1 |      |           |     |
-| Felix     | Wenger     | [[FelixWenger][Felix Wenger]]       |    1 |      |           |     |
-| Leon      | Zemmer     | [[LeonZemmer][Leon Zemmer]]        |    1 |      |           |     |
-| Fabian    | Zorzi      | [[FabianZorzi][Fabian Zorzi]]       |    1 |      |           |     |
+| First     | Last       | Name               | Note | Heft | Mitarbeit | LZK | Stören |
+|-----------+------------+--------------------+------+------+-----------+-----+--------|
+| Lorenz    | Aschauer   | [[LorenzAschauer][Lorenz Aschauer]]    |    2 |      |           |     |        |
+| Stefan    | Atanasov   | [[StefanAtanasov][Stefan Atanasov]]    |    2 |      |           |     |        |
+| Lela      | Dent       | [[LelaDent][Lela Dent]]          |    1 |      |           |     |        |
+| Emma      | Gonschorek | [[EmmaGonschorek][Emma Gonschorek]]    |    1 |      |           |     |        |
+| Marie     | Hofer      | [[MarieHofer][Marie Hofer]]        |    1 |      |           |     |        |
+| Hubert    | Keinrad    | [[HubertKeinrad][Hubert Keinrad]]     |    1 |      |           |     |        |
+| Nena      | Langenfeld | [[NenaLangenfeld][Nena Langenfeld]]    |    1 |      |           |     |        |
+| Bernhard  | Neureiter  | [[BernhardNeureiter][Bernhard Neureiter]] |    2 |      |           |     |        |
+| Lucian    | Rainer     |                    |      |      |           |     | xxx    |
+| Manuel    | Reiter     | [[ManuelReiter][Manuel Reiter]]      |    1 |      |           |     |        |
+| Emma      | Riebler    | [[EmmaRiebler][Emma Riebler]]       |    1 |      |           |     |        |
+| Annika    | Seiwald    | [[AnnikaSeiwald][Annika Seiwald]]     |    1 |      |           |     |        |
+| Valerian  | Seling     | [[ValerianSeling][Valerian Seling]]    |    2 |      |           |     |        |
+| Theresa   | Steiner    | [[TheresaSteiner][Theresa Steiner]]    |    1 |      |           |     |        |
+| Valentina | Struber    | [[ValentinaStruber][Valentina Struber]]  |    1 |      |           |     |        |
+| Felix     | Wenger     | [[FelixWenger][Felix Wenger]]       |    1 |      |           |     |        |
+| Leon      | Zemmer     | [[LeonZemmer][Leon Zemmer]]        |    1 |      |           |     | xx     |
+| Fabian    | Zorzi      | [[FabianZorzi][Fabian Zorzi]]       |    1 |      |           |     |        |
 #+TBLFM: $4=vmean($5..$>)
 #+TBLFM: $1='(identity remote(2021-students,@@#$4))
 #+TBLFM: $3='(concat "[[" $1 $2 "][" $1 " " $2 "]]")
@@ -101,6 +102,9 @@ fleißig
 
 ** BernhardNeureiter
 
+
+** LucianRainer
+vergisst beinahe jede Stunde sein Buch und Heft in seinem Fach.
 
 ** ManuelReiter
 
