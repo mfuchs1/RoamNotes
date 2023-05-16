@@ -9,9 +9,9 @@
 * 1b 10:40-11:30
 <%%(org-class 2022 9 13 2023 7 4 2)>
 
-Buch ...
+** Weltreligionen - Bsp Judentum
+Film als Einführung: Faszination Glaube - Judentum
 
-[[denote:20230403T101428][Auferstehung]]
 
 * 1b 11:35-12:25
 <%%(org-class 2022 9 16 2023 7 7 5)>
@@ -54,7 +54,7 @@ Thema heute: Vater unser.
 | Hubert    | Keinrad    | [[HubertKeinrad][Hubert Keinrad]]     |    1 |      |           |     |        |
 | Nena      | Langenfeld | [[NenaLangenfeld][Nena Langenfeld]]    |    1 |      |           |     |        |
 | Bernhard  | Neureiter  | [[BernhardNeureiter][Bernhard Neureiter]] |    2 |      |           |     |        |
-| Lucian    | Rainer     |                    |      |      |           |     | xxx    |
+| Lucian    | Rainer     | [[LucianRainer][Lucian Rainer]]      |      |      |           |     | xxx    |
 | Manuel    | Reiter     | [[ManuelReiter][Manuel Reiter]]      |    1 |      |           |     |        |
 | Emma      | Riebler    | [[EmmaRiebler][Emma Riebler]]       |    1 |      |           |     |        |
 | Annika    | Seiwald    | [[AnnikaSeiwald][Annika Seiwald]]     |    1 |      |           |     |        |
