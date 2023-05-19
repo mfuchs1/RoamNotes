@@ -5,37 +5,14 @@
 #+CATEGORY: golling
 
 * 3b 09:35-10:25
-<%%(org-class 2022 9 12 2023 7 3 1 18)>
+<%%(org-class 2022 9 12 2023 7 3 1 21)>
 
-[[denote:20221226T111248][Apostel Paulus]]
-
-[[denote:20230403T101428][Auferstehung]]
-
-Firmbuch YouCat
-
-Warum lässt du dich firmen?
-[[denote:20230430T101427][Firmung warum]]
-
-Heiliger Geist / Pfingsten
-Symbole des Heiligen Geistes:
-- Feuer
-- Wind
-- Taube
-
-7 Gaben des Heiligen Geistes
-[[https://www.youcat.org/de/credopedia/gaben-des-heiligen-geistes/]]
+alle dritten Klassen sind auf Sportwoche
 
 * 3b 08:40-09:30
-<%%(org-class 2022 9 15 2023 7 6 4)>
+<%%(org-class 2022 9 15 2023 7 6 4 21)>
 
-[[denote:20221226T111248][Apostel Paulus]]
-
-[[denote:20230403T101428][Auferstehung]]
-
-Film "Auf dem Weg zur Schule"
-
-Wichtige Frage: Warum lässt du dich firmen?
-YouCat Glaubenskurs S. 62
+alle dritten Klassen sind auf Sportwoche
 
 * Reflexionen
 
