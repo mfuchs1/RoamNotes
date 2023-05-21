@@ -115,25 +115,41 @@ war so schön
 ** Gottesdienst Dom Salzburg
 <2023-05-14 So 08:30>--<2023-05-14 So 09:30>
 
-** [#A] Fahrt zum Flughafen München - Terminal 1
+** DONE [#A] Fahrt zum Flughafen München - Terminal 1
+CLOSED: [2023-05-21 So 09:37]
+:LOGBOOK:
+- State "DONE"       from              [2023-05-21 So 09:37]
+:END:
 <2023-05-14 So 10:00>--<2023-05-14 So 12:00>
 Parkdeck 7, Gate D
 
-** [#A] Flug Isabelle, Gabriel und Leopold nach Marseille (AF 1723)
+** DONE [#A] Flug Isabelle, Gabriel und Leopold nach Marseille (AF 1723)
+CLOSED: [2023-05-21 So 09:37]
+:LOGBOOK:
+- State "DONE"       from              [2023-05-21 So 09:37]
+:END:
 <2023-05-14 So 13:05>--<2023-05-14 So 19:40>
 13:05 München - Terminal 1 (AF 1723)
 14:50 Paris
 18:15 Paris (AF 7340)
 19:50 Marseille - Terminal 1B
 
-** [#A] Flug Isabelle Kinder Marseille - München (KL 1801)
+** DONE [#A] Flug Isabelle Kinder Marseille - München (KL 1801)
+CLOSED: [2023-05-21 So 09:37]
+:LOGBOOK:
+- State "DONE"       from              [2023-05-21 So 09:37]
+:END:
 <2023-05-16 Di 17:30>--<2023-05-16 Di 22:25>
 17:30 Marseille (KL 3601) - Terminal 1B
 19:35 Amsterdam
 21:00 Amsterdam (KL 1801) - 
 22:25 München - Terminal 1
 
-** [#A] Fahrt zum Flughafen München - Terminal 1
+** DONE [#A] Fahrt zum Flughafen München - Terminal 1
+CLOSED: [2023-05-21 So 09:37]
+:LOGBOOK:
+- State "DONE"       from              [2023-05-21 So 09:37]
+:END:
 <2023-05-16 Di 19:30>--<2023-05-16 Di 21:30>
 Isabelle, Gabriel und Leopold abholen
 Ankunft 22:25 Flug KL 1801 von Amsterdam / KL 3601 Marseille
