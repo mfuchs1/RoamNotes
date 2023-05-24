@@ -5,6 +5,60 @@
 #+CATEGORY: golling
 
 
+* Supplierstunde 1a ME
+<2023-04-14 Fr 10:40>--<2023-04-14 Fr 11:30>
+
+** Frau Weninger Schulbuchaktion
+<2023-04-20 Do 09:45>--<2023-04-20 Do 11:00>
+
+** Elternsprechtag MS Golling 
+<2023-04-19 Mi 15:00>--<2023-04-19 Mi 18:00>
+Frage: ist das überhaupt für mich möglich? Va da kaum Eltern zu mir kommen...
+
+** Supplierstunde 2c ME (Sarah Blum)
+<2023-04-24 Mo 11:35>--<2023-04-24 Mo 12:25>
+
+Musikzeitschrift mir DVD;
+Filmmusik Hans Zimmer (ab S. 60)
+S. 70+71 Arbeitsblätter
+
+** Supplierstunde 4b BU (Mirjam Seiwald)
+<2023-04-26 Mi 12:30>--<2023-04-26 Mi 13:20>
+
+Verdauung, ... Buch S. / Arbeitsblätter
+
+** Supplierstunde 4a IKT (statt Manuela Singer; cf Teams)
+<2023-05-03 Mi 10:40>--<2023-05-03 Mi 11:30>
+
+Cf. Vorbereitung von Ela in der blauen Mappe
+
+** Pädagogische Konferenz
+<2023-05-04 Do 15:30>--<2023-05-04 Do 17:30>
+
+** Supplierstunde 2c BSP
+<2023-05-09 Di 11:35>--<2023-05-09 Di 12:25>
+
+** Supplierstunde 1b D
+<2023-05-10 Mi 08:40>--<2023-05-10 Mi 09:30>
+
+** Supplierstunde 1b D
+<2023-05-11 Do 10:40>--<2023-05-11 Do 11:30>
+mit Manuela Singer
+Thema: Sagen / direkte Rede
+
+** Supplierstunde 3c D 
+<2023-05-12 Fr 09:35>--<2023-05-12 Fr 10:25>
+statt Gertraud V., mit Erwin 
+
+** Supplierstunde 2c D (statt Erwin, mit Mirjam)
+<2023-05-22 Mo 09:35>--<2023-05-22 Mo 10:25>
+
+** Supplierstunde 1b D (statt Erwin, mit Manuela S.)
+<2023-05-23 Di 09:35>--<2023-05-23 Di 10:25>
+
+** Supplierstunde 1b E (statt Christoph, mit Barbara Eßl)
+<2023-05-25 Do 09:35>--<2023-05-25 Do 10:25>
+
 * Tasks
 ** Pädagogische Konferenz - QMS
 <2022-12-15 Do 16:00>--<2022-12-15 Do 17:30>
@@ -26,15 +80,15 @@
 ** Supplierstunde 2b PH 
 <2023-01-11 Mi 11:35>--<2023-01-11 Mi 12:25>
 
-** Pädagogische Konferenz Jänner 2023
-<2023-01-16 Mo 16:00>--<2023-01-16 Mo 18:00>
-
 ** Supplierstunde 4a IKT
 <2023-02-01 Mi 10:40>--<2023-02-01 Mi 11:30>
 
 ** Supplierstunde 3a M
 <2023-02-09 Do 09:35>--<2023-02-09 Do 10:25>
 mit Hannes L. (statt Ulrike Gruber)
+
+** Pädagogische Konferenz Jänner 2023
+<2023-01-16 Mo 16:00>--<2023-01-16 Mo 18:00>
 
 ** Eislaufen 3b Salzburg 
 <2023-02-21 Di 08:20>--<2023-02-21 Di 13:00>
@@ -97,49 +151,4 @@ mit: Kristina, Verena, Christina; Theresa, Melanie, Nikola, Mia, Alex.
 
 ** Supplierstunde 2a BE (Sarah Blum)
 <2023-04-13 Do 09:35>--<2023-04-13 Do 10:25>
-
-** Supplierstunde 1a ME
-<2023-04-14 Fr 10:40>--<2023-04-14 Fr 11:30>
-
-** Frau Weninger Schulbuchaktion
-<2023-04-20 Do 09:45>--<2023-04-20 Do 11:00>
-
-** Elternsprechtag MS Golling 
-<2023-04-19 Mi 15:00>--<2023-04-19 Mi 18:00>
-Frage: ist das überhaupt für mich möglich? Va da kaum Eltern zu mir kommen...
-
-** Supplierstunde 2c ME (Sarah Blum)
-<2023-04-24 Mo 11:35>--<2023-04-24 Mo 12:25>
-
-Musikzeitschrift mir DVD;
-Filmmusik Hans Zimmer (ab S. 60)
-S. 70+71 Arbeitsblätter
-
-** Supplierstunde 4b BU (Mirjam Seiwald)
-<2023-04-26 Mi 12:30>--<2023-04-26 Mi 13:20>
-
-Verdauung, ... Buch S. / Arbeitsblätter
-
-** Supplierstunde 4a IKT (statt Manuela Singer; cf Teams)
-<2023-05-03 Mi 10:40>--<2023-05-03 Mi 11:30>
-
-Cf. Vorbereitung von Ela in der blauen Mappe
-
-** Pädagogische Konferenz
-<2023-05-04 Do 15:30>--<2023-05-04 Do 17:30>
-
-** Supplierstunde 2c BSP
-<2023-05-09 Di 11:35>--<2023-05-09 Di 12:25>
-
-** Supplierstunde 1b D
-<2023-05-10 Mi 08:40>--<2023-05-10 Mi 09:30>
-
-** Supplierstunde 1b D
-<2023-05-11 Do 10:40>--<2023-05-11 Do 11:30>
-mit Manuela Singer
-Thema: Sagen / direkte Rede
-
-** Supplierstunde 3c D 
-<2023-05-12 Fr 09:35>--<2023-05-12 Fr 10:25>
-statt Gertraud V., mit Erwin 
 
