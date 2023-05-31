@@ -6,7 +6,7 @@
 
 * Montag
 ** 1b / 4b 14:30-15:20
-<%%(org-class 2022 9 12 2023 7 3 1 18)>
+<%%(org-class 2022 9 12 2023 7 3 1 22)>
 
 [[denote:20230403T101428][Auferstehung]]
 

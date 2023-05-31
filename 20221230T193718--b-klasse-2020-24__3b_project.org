@@ -5,14 +5,16 @@
 #+CATEGORY: golling
 
 * 3b 09:35-10:25
-<%%(org-class 2022 9 12 2023 7 3 1 21)>
+<%%(org-class 2022 9 12 2023 7 3 1 22)>
 
-alle dritten Klassen sind auf Sportwoche
+Firmung: konkreter Ablauf, Lieder üben, ...
 
 * 3b 08:40-09:30
 <%%(org-class 2022 9 15 2023 7 6 4 21)>
 
-alle dritten Klassen sind auf Sportwoche
+Firmung: konkreter Ablauf, Lieder üben, ...
+
+Gemeinsam um den Hl. Geist bitten
 
 * Reflexionen
 

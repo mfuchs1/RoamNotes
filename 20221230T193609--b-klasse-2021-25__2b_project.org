@@ -4,8 +4,9 @@
 #+identifier: 20221230T193609
 #+CATEGORY: golling
 
+
 * 2b 10:40-11:30
-<%%(org-class 2022 9 12 2023 7 3 1 18)>
+<%%(org-class 2022 9 12 2023 7 3 1 22)>
 
 Judentum - Religionsbuch
 
@@ -47,9 +48,9 @@ Rechenbeispiele
 Hebel, Kraftarm, Lastarm
 
 
-* Reflexionen                                                   :Reflexionen:
+* Reflexionen                                                  
 
-** [[id:02_SW01][[SW01] Mit jedem redest du anders / Das war ein Missverständnis!]]
+** [SW01] Mit jedem redest du anders / Das war ein Missverständnis!
 Datum: <2022-09-15 Do 07:45>
 
 Diese Stunde ist entfallen - Klasse 2b ist auf zweitägigem Ausflug.

@@ -26,7 +26,7 @@ Drei christliche Konfessionen
 Teständerung, hab den Namen des Remote Repo (auf github) geändert.
 
 * Supplierstunde 1b BU (Hannes Lacher) 10:40-11:30
-<%%(org-class 2023 3 8 2023 7 5 3 21)>
+<%%(org-class 2023 3 8 2023 7 5 3 22)>
 aktueller Stoff: Säugetiere / Fische.
 Buch S. 104ff
 
@@ -81,13 +81,13 @@ Thema heute: Vater unser.
 
 #+RESULTS:
 * Mitarbeit
-** LorenzAschauer
+** LorenzAschauer                                          
 stört häufig
 
-** StefanAtanasov
+** StefanAtanasov                                          
 ist unruhig
 
-** LelaDent
+** LelaDent                                                     
 
 
 ** EmmaGonschorek
@@ -103,6 +103,11 @@ fleißig
 
 
 ** BernhardNeureiter
+
+*** Kampf für mehr Ruhe
+PERIOD: [2023-05-29 Mo 11:34]
+
+Berni ist sehr unruhig; bis jetzt kenne ich den Grund nicht dafür. Aus Erfahrung weiß ich nun, dass man als Lehrer sehr, sehr ruhig blieben muss, um in dieser Klasse eine halbwegs ruhige Stimmung herzustellen.
 
 
 ** LucianRainer
