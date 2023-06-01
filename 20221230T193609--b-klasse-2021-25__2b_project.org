@@ -22,6 +22,23 @@ Stammbaum meiner Familie, mein Lebensbaum
 Lösungen der Arbeitsaufträge, Inhalt, Bräuche, ...:
 [[denote:20230521T094148][Judentum]]
 
+Videos aus der ORF-TVThek
+Parallelen zwischen christlichen und jüdischen Festen
+
+| jüdisch  | Bedeutung              | christlich  | Bedeutung              |
+|----------+------------------------+-------------+------------------------|
+| Pessach  | Exodus aus Ägypten     | Ostern      | Auferstehung Jesu      |
+|          |                        |             |                        |
+| Schawuot | Gabe der Tora          | Pfingsten   | Gabe des Hl. Geistes   |
+|          | 10 Gebote am Sinai     |             | Liebesgebot            |
+|          |                        |             |                        |
+| Chanukka | 8 (9) armiger Leuchter |             |                        |
+|          | Wunder mit Öllampe bei |             |                        |
+|          | Wiedereinweihung       |             |                        |
+|          | des Tempels            |             |                        |
+|          |                        | Weihnachten | Geburt Jesu, Gott wird |
+|          |                        |             | Mensch                 |
+
 * Supplierstunde 2b PH 11:35-12:25
 <%%(org-class 2023 1 25 2023 7 5 3 12)>
 

@@ -109,6 +109,10 @@ PERIOD: [2023-05-29 Mo 11:34]
 
 Berni ist sehr unruhig; bis jetzt kenne ich den Grund nicht dafür. Aus Erfahrung weiß ich nun, dass man als Lehrer sehr, sehr ruhig blieben muss, um in dieser Klasse eine halbwegs ruhige Stimmung herzustellen.
 
+*** Testeintrag
+CREATED: [2023-05-31 Mi 16:46]
+
+das klappt.
 
 ** LucianRainer
 vergisst beinahe jede Stunde sein Buch und Heft in seinem Fach.
