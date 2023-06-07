@@ -14,6 +14,11 @@ Judentum - Religionsbuch
 Lösungen der Arbeitsaufträge, Inhalt, Bräuche, ...:
 [[denote:20230521T094148][Judentum]]
 
+LZK Judentum mit Kahoot!
+Schüler melden sich mit Klarnamen an.
+
+Falls sie kein Handy haben: Tablets mitnehmen!
+
 * 2a 07:45-08:35
 <%%(org-class 2022 9 14 2023 7 5 3)>
 
@@ -21,6 +26,9 @@ Lösungen der Arbeitsaufträge, Inhalt, Bräuche, ...:
 
 Lösungen der Arbeitsaufträge, Inhalt, Bräuche, ...:
 [[denote:20230521T094148][Judentum]]
+
+Judentum Feste
+[[https://www.religionen-entdecken.de/]]
 
 * Reflexionen
 
@@ -30,103 +38,104 @@ Lösungen der Arbeitsaufträge, Inhalt, Bräuche, ...:
 #+Name: 2021-students
 | First    | Last         | Name                | Note | Heft | Mitarbeit | LZK |
 |----------+--------------+---------------------+------+------+-----------+-----|
-| Marie    | Aigner       | [[MarieAigner][Marie Aigner]]        |      |      |           |     |
-| Marko    | Bijelonjic   | [[MarkoBijelonjic][Marko Bijelonjic]]    |      |      |           |     |
-| Sarah    | Brandstätter | [[SarahBrandstätter][Sarah Brandstätter]]  |      |      |           |     |
-| Julia    | Bretschu     | [[JuliaBretschu][Julia Bretschu]]      |      |      |           |     |
-| Matteo   | Eckhardt     | [[MatteoEckhardt][Matteo Eckhardt]]     |      |      |           |     |
-| Diana    | Eibl         | [[DianaEibl][Diana Eibl]]          |      |      |           |     |
-| Oliver   | Kurz         | [[OliverKurz][Oliver Kurz]]         |      |      |           |     |
-| Elisa    | Mayr         | [[ElisaMayr][Elisa Mayr]]          |      |      |           |     |
-| Alisa    | Meisl        | [[AlisaMeisl][Alisa Meisl]]         |      |      |           |     |
-| Carolina | Schlager     | [[CarolinaSchlager][Carolina Schlager]]   |      |      |           |     |
-| Marie    | Schmidt      | [[MarieSchmidt][Marie Schmidt]]       |      |      |           |     |
-| Annika   | Schröcker    | [[AnnikaSchröcker][Annika Schröcker]]    |      |      |           |     |
-| Lea      | Stoß         | [[LeaStoß][Lea Stoß]]            |      |      |           |     |
-| Manuel   | Stoß         | [[ManuelStoß][Manuel Stoß]]         |      |      |           |     |
-| Johanna  | Strubreiter  | [[JohannaStrubreiter][Johanna Strubreiter]] |      |      |           |     |
-| Laurenz  | Walcher      | [[LaurenzWalcher][Laurenz Walcher]]     |      |      |           |     |
-| Lorenz   | Wallinger    | [[LorenzWallinger][Lorenz Wallinger]]    |      |      |           |     |
-| Jana     | Wenger       | [[JanaWenger][Jana Wenger]]         |      |      |           |     |
-| Luca     | Zemmer       | [[LucaZemmer][Luca Zemmer]]         |      |      |           |     |
-| Karlo    | Zivkovic     | [[KarloZivkovic][Karlo Zivkovic]]      |      |      |           |     |
-| Robert   | Zivkovic     | [[RobertZivkovic][Robert Zivkovic]]     |      |      |           |     |
+| Marie    | Aigner       | [[Marie Aigner][Marie Aigner]]        |      |      |           |     |
+| Marko    | Bijelonjic   | [[Marko Bijelonjic][Marko Bijelonjic]]    |      |      |           |     |
+| Sarah    | Brandstätter | [[Sarah Brandstätter][Sarah Brandstätter]]  |      |      |           |     |
+| Julia    | Bretschu     | [[Julia Bretschu][Julia Bretschu]]      |      |      |           |     |
+| Matteo   | Eckhardt     | [[Matteo Eckhardt][Matteo Eckhardt]]     |      |      |           |     |
+| Diana    | Eibl         | [[Diana Eibl][Diana Eibl]]          |      |      |           |     |
+| Oliver   | Kurz         | [[Oliver Kurz][Oliver Kurz]]         |      |      |           |     |
+| Elisa    | Mayr         | [[Elisa Mayr][Elisa Mayr]]          |      |      |           |     |
+| Alisa    | Meisl        | [[Alisa Meisl][Alisa Meisl]]         |      |      |           |     |
+| Carolina | Schlager     | [[Carolina Schlager][Carolina Schlager]]   |      |      |           |     |
+| Marie    | Schmidt      | [[Marie Schmidt][Marie Schmidt]]       |      |      |           |     |
+| Annika   | Schröcker    | [[Annika Schröcker][Annika Schröcker]]    |      |      |           |     |
+| Lea      | Stoß         | [[Lea Stoß][Lea Stoß]]            |      |      |           |     |
+| Manuel   | Stoß         | [[Manuel Stoß][Manuel Stoß]]         |      |      |           |     |
+| Johanna  | Strubreiter  | [[Johanna Strubreiter][Johanna Strubreiter]] |      |      |           |     |
+| Laurenz  | Walcher      | [[Laurenz Walcher][Laurenz Walcher]]     |      |      |           |     |
+| Lorenz   | Wallinger    | [[Lorenz Wallinger][Lorenz Wallinger]]    |      |      |           |     |
+| Jana     | Wenger       | [[Jana Wenger][Jana Wenger]]         |      |      |           |     |
+| Luca     | Zemmer       | [[Luca Zemmer][Luca Zemmer]]         |      |      |           |     |
+| Karlo    | Zivkovic     | [[Karlo Zivkovic][Karlo Zivkovic]]      |      |      |           |     |
+| Robert   | Zivkovic     | [[Robert Zivkovic][Robert Zivkovic]]     |      |      |           |     |
 #+TBLFM: $4=vmean($5..$>)
-#+TBLFM: $3='(concat "[[" $1 $2 "][" $1 " " $2 "]]")
+#+TBLFM: $3='(concat "[[" $1 " " $2 "][" $1 " " $2 "]]")
 #+TBLFM: $4='(identity remote(2021-22-Mitarbeit,@@#$2))
 
 #+BEGIN_SRC python :var table=2021-students :results output raw
-  print('* Mitarbeit')
-  for student in table:
-      first = student[0]
-      last = student[1]
-      email = first + '.' + last + '@golling.schule'
-      print('** ' + first + last + '\n\n')
+print('* Mitarbeit')
+for student in table:
+    first = student[0]
+    last = student[1]
+    email = first + '.' + last + '@golling.schule'
+    print('** ' + first + ' ' + last + '\n\n')  
 #+END_SRC
 
 #+RESULTS:
-
 * Mitarbeit
-** MarieAigner
+** Marie Aigner
 
 
-** MarkoBijelonjic
+** Marko Bijelonjic
 
 
-** SarahBrandstätter
+** Sarah Brandstätter
 
 
-** JuliaBretschu
+** Julia Bretschu
 
 
-** MatteoEckhardt
+** Matteo Eckhardt
 
 
-** DianaEibl
+** Diana Eibl
 
 
-** OliverKurz
+** Oliver Kurz
 
 
-** ElisaMayr
+** Elisa Mayr
 
 
-** AlisaMeisl
+** Alisa Meisl
 
 
-** CarolinaSchlager
+** Carolina Schlager
 
 
-** MarieSchmidt
+** Marie Schmidt
 
 
-** AnnikaSchröcker
+** Annika Schröcker
 
 
-** LeaStoß
+** Lea Stoß
 
 
-** ManuelStoß
-
-** JohannaStrubreiter
+** Manuel Stoß
 
 
-** LaurenzWalcher
+** Johanna Strubreiter
 
 
-** LorenzWallinger
+** Laurenz Walcher
 
 
-** JanaWenger
+** Lorenz Wallinger
 
 
-** LucaZemmer
+** Jana Wenger
 
 
-** KarloZivkovic
+** Luca Zemmer
 
 
-** RobertZivkovic
+** Karlo Zivkovic
+
+
+** Robert Zivkovic
+
 
 
 

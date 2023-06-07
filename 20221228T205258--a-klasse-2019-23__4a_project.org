@@ -7,31 +7,14 @@
 * 4a 08:40-09:30
 <%%(org-class 2022 9 12 2023 7 3 1 22)>
 
-** Videos zum Thema "Heiliger Geist"
+Dreifaltigkeitssonntag
 
-Kindness Boomerang - [[https://www.youtube.com/watch?v=nwAYpLVyeFU]]
-Freundlichkeit ...
-
-Mark Osborne's MORE - [[https://www.youtube.com/watch?v=cCeeTfsm8bk]]
-Was ist dein inneres Feuer?
-
-[[https://www.bistum-speyer.de/fileadmin/user_upload/1-0-0/Hauptabteilung_II/Bilder/HA_II_-_2_Religionsunterricht/Unterrichtsmaterialien/Heiliger_Geist_Kurzfilme_2023.pdf]]
-
-** Lied zum Heiligen Geist
-[[https://religionsunterricht.net/wp-content/uploads/2020/05/Komm-heilger-Geist.pdf]]
-
-Video
-[[https://www.youtube.com/watch?v=UuTwDyjcevs]]
-
-** Biblische Grundlagen Heiliger Geist
-[[file:~/NMS_Golling/2017-Arbeitsblatt-Pfingsten.pdf]]
-
-** Christi Himmelfahrt und Pfingsten
-[[file:~/NMS_Golling/E-75-0011-Christi_Himmelfahrt-Pfingsten_Das_Kirchenjahr_im_RU.pdf]]
+YouCat über Dreifaltigkeit
+Kunst? Zeichnen?
 
 
 * 4a 09:35-10:25
-<%%(org-class 2022 9 16 2023 7 7 5 19)>
+<%%(org-class 2022 9 16 2023 7 7 5 23)>
 
 
 
@@ -49,26 +32,26 @@ Mir wird wohl nix anderes übrig bleiben, als die Klasse noch bis zum Ende des S
 #+Name: 2021-students
 | First         | Last        | Name                      | Note | Mitarbeit | Heft | LZK |
 |---------------+-------------+---------------------------+------+-----------+------+-----|
-| Johannes      | Aschner     | [[JohannesAschner][Johannes Aschner]]          |    1 |           |      |     |
-| Denise        | Gaulke      | [[DeniseGaulke][Denise Gaulke]]             |    1 |           |      |     |
-| Zita          | Hofer       | [[ZitaHofer][Zita Hofer]]                |    1 |           |      |     |
-| Michael       | Höllweger   | [[MichaelHöllweger][Michael Höllweger]]         |    1 |           |      |     |
-| Anna          | Hornegger   | [[AnnaHornegger][Anna Hornegger]]            |    1 |           |      |     |
-| Emily         | Loidfellner | [[EmilyLoidfellner][Emily Loidfellner]]         |    1 |           |      |     |
-| Michelle      | Neureiter   | [[MichelleNeureiter][Michelle Neureiter]]        |    1 |           |      |     |
-| Selina        | Neureiter   | [[SelinaNeureiter][Selina Neureiter]]          |    1 |           |      |     |
-| Florian       | Pointner    | [[FlorianPointner][Florian Pointner]]          |    1 |           |      |     |
-| Theresa       | Reiter      | [[TheresaReiter][Theresa Reiter]]            |    1 |           |      |     |
-| Lukas         | Russegger   | [[LukasRussegger][Lukas Russegger]]           |    1 |           |      |     |
-| Lorena        | Schefbänker | [[LorenaSchefbänker][Lorena Schefbänker]]        |    1 |           |      |     |
-| Maximilian    | Schönauer   | [[MaximilianSchönauer][Maximilian Schönauer]]      |    1 |           |      |     |
-| Lara          | Schreder    | [[LaraSchreder][Lara Schreder]]             |    1 |           |      |     |
-| David-Philipp | Strubreiter | [[David-PhilippStrubreiter][David-Philipp Strubreiter]] |    1 |           |      |     |
-| Johanna       | Strubreiter | [[JohannaStrubreiter][Johanna Strubreiter]]       |    1 |           |      |     |
-| Melanie       | Tikvic      | [[MelanieTikvic][Melanie Tikvic]]            |    1 |           |      |     |
+| Johannes      | Aschner     | [[Johannes Aschner][Johannes Aschner]]          |    1 |           |      |     |
+| Denise        | Gaulke      | [[Denise Gaulke][Denise Gaulke]]             |    1 |           |      |     |
+| Zita          | Hofer       | [[Zita Hofer][Zita Hofer]]                |    1 |           |      |     |
+| Michael       | Höllweger   | [[Michael Höllweger][Michael Höllweger]]         |    1 |           |      |     |
+| Anna          | Hornegger   | [[Anna Hornegger][Anna Hornegger]]            |    1 |           |      |     |
+| Emily         | Loidfellner | [[Emily Loidfellner][Emily Loidfellner]]         |    1 |           |      |     |
+| Michelle      | Neureiter   | [[Michelle Neureiter][Michelle Neureiter]]        |    1 |           |      |     |
+| Selina        | Neureiter   | [[Selina Neureiter][Selina Neureiter]]          |    1 |           |      |     |
+| Florian       | Pointner    | [[Florian Pointner][Florian Pointner]]          |    1 |           |      |     |
+| Theresa       | Reiter      | [[Theresa Reiter][Theresa Reiter]]            |    1 |           |      |     |
+| Lukas         | Russegger   | [[Lukas Russegger][Lukas Russegger]]           |    1 |           |      |     |
+| Lorena        | Schefbänker | [[Lorena Schefbänker][Lorena Schefbänker]]        |    1 |           |      |     |
+| Maximilian    | Schönauer   | [[Maximilian Schönauer][Maximilian Schönauer]]      |    1 |           |      |     |
+| Lara          | Schreder    | [[Lara Schreder][Lara Schreder]]             |    1 |           |      |     |
+| David-Philipp | Strubreiter | [[David-Philipp Strubreiter][David-Philipp Strubreiter]] |    1 |           |      |     |
+| Johanna       | Strubreiter | [[Johanna Strubreiter][Johanna Strubreiter]]       |    1 |           |      |     |
+| Melanie       | Tikvic      | [[Melanie Tikvic][Melanie Tikvic]]            |    1 |           |      |     |
 |---------------+-------------+---------------------------+------+-----------+------+-----|
 #+TBLFM: $4=vmean($5..$>)
-#+TBLFM: $3='(concat "[[" $1 $2 "][" $1 " " $2 "]]")
+#+TBLFM: $3='(concat "[[" $1 " " $2 "][" $1 " " $2 "]]")
 #+TBLFM: $4='(identity remote(2021-22-Mitarbeit,@@#$4))
 
 #+BEGIN_SRC python :var table=2021-students :results output raw
@@ -77,59 +60,59 @@ for student in table:
     first = student[0]
     last = student[1]
     email = first + '.' + last + '@golling.schule'
-    print('** ' + first + last + '\n\n')
+    print('** ' + first + ' ' + last + '\n\n')  
 #+END_SRC
 
 #+RESULTS:
 * Mitarbeit
-** JohannesAschner
+** Johannes Aschner
 
 
-** DeniseGaulke
+** Denise Gaulke
 
 
-** ZitaHofer
+** Zita Hofer
 
 
-** MichaelHöllweger
+** Michael Höllweger
 
 
-** AnnaHornegger
+** Anna Hornegger
 
 
-** EmilyLoidfellner
+** Emily Loidfellner
 
 
-** MichelleNeureiter
+** Michelle Neureiter
 
 
-** SelinaNeureiter
+** Selina Neureiter
 
 
-** FlorianPointner
+** Florian Pointner
 
 
-** TheresaReiter
+** Theresa Reiter
 
 
-** LukasRussegger
+** Lukas Russegger
 
 
-** LorenaSchefbänker
+** Lorena Schefbänker
 
 
-** MaximilianSchönauer
+** Maximilian Schönauer
 
 
-** LaraSchreder
+** Lara Schreder
 
 
-** David-PhilippStrubreiter
+** David-Philipp Strubreiter
 
 
-** JohannaStrubreiter
+** Johanna Strubreiter
 
 
-** MelanieTikvic
+** Melanie Tikvic
 
 

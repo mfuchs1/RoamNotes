@@ -110,7 +110,7 @@ war so schön
 <2023-05-01 Mo 13:00>--<2023-05-01 Mo 16:00>
 
 ** Englisch Nachhilfe Gabriel (Melanie Jobke) 14:15-15:15
-<%%(org-class 2023 5 4 2023 7 6 4)>
+<%%(org-class 2023 5 4 2023 7 6 4 23)>
 
 ** Gottesdienst Dom Salzburg
 <2023-05-14 So 08:30>--<2023-05-14 So 09:30>
@@ -184,3 +184,10 @@ Geometrie
 ** Gabriel Englisch lernen und HÜ (M)
 <2023-05-30 Di 18:00>--<2023-05-30 Di 19:00>
 Unit 13 (Vokabel, ing-Form)
+
+** Englisch Nachhilfe Gabriel (Melanie Jobke)
+<2023-06-12 Mo 14:30>--<2023-06-12 Mo 15:30>
+
+** Musical Kaiser Karl - Gabriel (MS Grödig)
+<2023-06-06 Di 19:00>--<2023-06-06 Di 20:30>
+Leopold (?) und ich

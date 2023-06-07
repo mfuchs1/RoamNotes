@@ -9,12 +9,11 @@
 * 1b 10:40-11:30
 <%%(org-class 2022 9 13 2023 7 4 2)>
 
-** Weltreligionen - Bsp Judentum
-Film als Einführung: Faszination Glaube - Judentum
+Film über Burschen in Palästina / Meer ...
 
 
 * 1b 11:35-12:25
-<%%(org-class 2022 9 16 2023 7 7 5)>
+<%%(org-class 2022 9 16 2023 7 7 5 23)>
 
 Buch Kapitel 6:
 Vielfalt der Religionen
@@ -26,7 +25,7 @@ Drei christliche Konfessionen
 Teständerung, hab den Namen des Remote Repo (auf github) geändert.
 
 * Supplierstunde 1b BU (Hannes Lacher) 10:40-11:30
-<%%(org-class 2023 3 8 2023 7 5 3 22)>
+<%%(org-class 2023 3 8 2023 7 5 3 23)>
 aktueller Stoff: Säugetiere / Fische.
 Buch S. 104ff
 
@@ -48,105 +47,95 @@ Thema heute: Vater unser.
 #+Name: 2021-students
 | First     | Last       | Name               | Note | Heft | Mitarbeit | LZK | Stören |
 |-----------+------------+--------------------+------+------+-----------+-----+--------|
-| Lorenz    | Aschauer   | [[LorenzAschauer][Lorenz Aschauer]]    |    2 |      |           |     |        |
-| Stefan    | Atanasov   | [[StefanAtanasov][Stefan Atanasov]]    |    2 |      |           |     |        |
-| Lela      | Dent       | [[LelaDent][Lela Dent]]          |    1 |      |           |     |        |
-| Emma      | Gonschorek | [[EmmaGonschorek][Emma Gonschorek]]    |    1 |      |           |     |        |
-| Marie     | Hofer      | [[MarieHofer][Marie Hofer]]        |    1 |      |           |     |        |
-| Hubert    | Keinrad    | [[HubertKeinrad][Hubert Keinrad]]     |    1 |      |           |     |        |
-| Nena      | Langenfeld | [[NenaLangenfeld][Nena Langenfeld]]    |    1 |      |           |     |        |
-| Bernhard  | Neureiter  | [[BernhardNeureiter][Bernhard Neureiter]] |    2 |      |           |     |        |
-| Lucian    | Rainer     | [[LucianRainer][Lucian Rainer]]      |      |      |           |     | xxx    |
-| Manuel    | Reiter     | [[ManuelReiter][Manuel Reiter]]      |    1 |      |           |     |        |
-| Emma      | Riebler    | [[EmmaRiebler][Emma Riebler]]       |    1 |      |           |     |        |
-| Annika    | Seiwald    | [[AnnikaSeiwald][Annika Seiwald]]     |    1 |      |           |     |        |
-| Valerian  | Seling     | [[ValerianSeling][Valerian Seling]]    |    2 |      |           |     |        |
-| Theresa   | Steiner    | [[TheresaSteiner][Theresa Steiner]]    |    1 |      |           |     |        |
-| Valentina | Struber    | [[ValentinaStruber][Valentina Struber]]  |    1 |      |           |     |        |
-| Felix     | Wenger     | [[FelixWenger][Felix Wenger]]       |    1 |      |           |     |        |
-| Leon      | Zemmer     | [[LeonZemmer][Leon Zemmer]]        |    1 |      |           |     | xx     |
-| Fabian    | Zorzi      | [[FabianZorzi][Fabian Zorzi]]       |    1 |      |           |     |        |
+| Lorenz    | Aschauer   | [[Lorenz Aschauer][Lorenz Aschauer]]    |    2 |      |           |     |        |
+| Stefan    | Atanasov   | [[Stefan Atanasov][Stefan Atanasov]]    |    2 |      |           |     |        |
+| Lela      | Dent       | [[Lela Dent][Lela Dent]]          |    1 |      |           |     |        |
+| Emma      | Gonschorek | [[Emma Gonschorek][Emma Gonschorek]]    |    1 |      |           |     |        |
+| Marie     | Hofer      | [[Marie Hofer][Marie Hofer]]        |    1 |      |           |     |        |
+| Hubert    | Keinrad    | [[Hubert Keinrad][Hubert Keinrad]]     |    1 |      |           |     |        |
+| Nena      | Langenfeld | [[Nena Langenfeld][Nena Langenfeld]]    |    1 |      |           |     |        |
+| Bernhard  | Neureiter  | [[Bernhard Neureiter][Bernhard Neureiter]] |    2 |      |           |     |        |
+| Lucian    | Rainer     | [[Lucian Rainer][Lucian Rainer]]      |      |      |           |     | xxx    |
+| Manuel    | Reiter     | [[Manuel Reiter][Manuel Reiter]]      |    1 |      |           |     |        |
+| Emma      | Riebler    | [[Emma Riebler][Emma Riebler]]       |    1 |      |           |     |        |
+| Annika    | Seiwald    | [[Annika Seiwald][Annika Seiwald]]     |    1 |      |           |     |        |
+| Valerian  | Seling     | [[Valerian Seling][Valerian Seling]]    |    2 |      |           |     |        |
+| Theresa   | Steiner    | [[Theresa Steiner][Theresa Steiner]]    |    1 |      |           |     |        |
+| Valentina | Struber    | [[Valentina Struber][Valentina Struber]]  |    1 |      |           |     |        |
+| Felix     | Wenger     | [[Felix Wenger][Felix Wenger]]       |    1 |      |           |     |        |
+| Leon      | Zemmer     | [[Leon Zemmer][Leon Zemmer]]        |    1 |      |           |     | xx     |
+| Fabian    | Zorzi      | [[Fabian Zorzi][Fabian Zorzi]]       |    1 |      |           |     |        |
 #+TBLFM: $4=vmean($5..$>)
-#+TBLFM: $1='(identity remote(2021-students,@@#$4))
-#+TBLFM: $3='(concat "[[" $1 $2 "][" $1 " " $2 "]]")
+#+TBLFM: $3='(concat "[[" $1 " " $2 "][" $1 " " $2 "]]")
+#+TBLFM: 
 
 #+BEGIN_SRC python :var table=2021-students :results output raw
-  print('* Mitarbeit')
-  for student in table:
-      first = student[0]
-      last = student[1]
-      email = first + '.' + last + '@golling.schule'
-      print('** ' + first + last + '\n\n')
+print('* Mitarbeit')
+for student in table:
+    first = student[0]
+    last = student[1]
+    email = first + '.' + last + '@golling.schule'
+    print('** ' + first + ' ' + last + '\n\n')  
 #+END_SRC
 
 #+RESULTS:
 * Mitarbeit
-** LorenzAschauer                                          
-stört häufig
-
-** StefanAtanasov                                          
-ist unruhig
-
-** LelaDent                                                     
+** Lorenz Aschauer
 
 
-** EmmaGonschorek
-fleißig
-
-** MarieHofer
+** Stefan Atanasov
 
 
-** HubertKeinrad
+** Lela Dent
 
 
-** NenaLangenfeld
+** Emma Gonschorek
 
 
-** BernhardNeureiter
-
-*** Kampf für mehr Ruhe
-PERIOD: [2023-05-29 Mo 11:34]
-
-Berni ist sehr unruhig; bis jetzt kenne ich den Grund nicht dafür. Aus Erfahrung weiß ich nun, dass man als Lehrer sehr, sehr ruhig blieben muss, um in dieser Klasse eine halbwegs ruhige Stimmung herzustellen.
-
-*** Testeintrag
-CREATED: [2023-05-31 Mi 16:46]
-
-das klappt.
-
-** LucianRainer
-vergisst beinahe jede Stunde sein Buch und Heft in seinem Fach.
-
-** ManuelReiter
+** Marie Hofer
 
 
-** EmmaRiebler
-
-*** [[denote:20221226T162523][Grundgebete]]
-PERIOD: [2023-01-27 Fr 11:35]
-
-Hat gut mitgearbeitet.
+** Hubert Keinrad
 
 
-** AnnikaSeiwald
+** Nena Langenfeld
 
 
-** ValerianSeling
-unruhig;
-
-** TheresaSteiner
+** Bernhard Neureiter
 
 
-** ValentinaStruber
+** Lucian Rainer
 
 
-** FelixWenger
+** Manuel Reiter
 
 
-** LeonZemmer
+** Emma Riebler
 
 
-** FabianZorzi
+** Annika Seiwald
+
+
+** Valerian Seling
+
+
+** Theresa Steiner
+
+
+** Valentina Struber
+
+
+** Felix Wenger
+
+
+** Leon Zemmer
+
+
+** Fabian Zorzi
+
+
+
+
 
 
 

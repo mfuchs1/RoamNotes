@@ -7,10 +7,11 @@
 * 3b 09:35-10:25
 <%%(org-class 2022 9 12 2023 7 3 1 22)>
 
-Firmung: konkreter Ablauf, Lieder üben, ...
+nehme an, die Kids werden nicht besonders aufnahmefähig sein.
+Film (max 1 UE)
 
 * 3b 08:40-09:30
-<%%(org-class 2022 9 15 2023 7 6 4 21)>
+<%%(org-class 2022 9 15 2023 7 6 4 23)>
 
 Firmung: konkreter Ablauf, Lieder üben, ...
 
@@ -50,23 +51,23 @@ Maxi ändert sich gar nicht - scheinbar ist die Reli Note Zuhause völlig egal. 
 #+Name: 2021-students
 | First      | Last         | Name                  | Note | Mitarbeit | Heft | LZK |
 |------------+--------------+-----------------------+------+-----------+------+-----|
-| Maximilian | Fischhofer   | [[MaximilianFischhofer][Maximilian Fischhofer]] |    3 | -         |      |     |
-| Hannah     | Höllbacher   | [[HannahHöllbacher][Hannah Höllbacher]]     |    1 | +         |      |     |
-| Leon       | Keser        | [[LeonKeser][Leon Keser]]            |    2 | -         |      |     |
-| Thomas     | Krallinger   | [[ThomasKrallinger][Thomas Krallinger]]     |    3 | -         |      |     |
-| Fabian     | Lienbacher   | [[FabianLienbacher][Fabian Lienbacher]]     |    3 | -         |      |     |
-| Lena       | Malter       | [[LenaMalter][Lena Malter]]           |    1 | +         |      |     |
-| Sophia     | Mayr         | [[SophiaMayr][Sophia Mayr]]           |    1 | +         |      |     |
-| Florian    | Peroutka     | [[FlorianPeroutka][Florian Peroutka]]      |    1 | -         |      |     |
-| Andreas    | Rußegger     | [[AndreasRußegger][Andreas Rußegger]]      |    3 | -         |      |     |
-| Valerie    | Schönauer    | [[ValerieSchönauer][Valerie Schönauer]]     |    1 | +         |      |     |
-| Marlene    | Seidl        | [[MarleneSeidl][Marlene Seidl]]         |    1 | +         |      |     |
-| Anna       | Spitzelseder | [[AnnaSpitzelseder][Anna Spitzelseder]]     |    1 | +         |      |     |
-| Florian    | Steiner      | [[FlorianSteiner][Florian Steiner]]       |    3 | -         |      |     |
-| Karin      | Struber      | [[KarinStruber][Karin Struber]]         |    1 | +         |      |     |
-| Lukas      | Wagenhofer   | [[LukasWagenhofer][Lukas Wagenhofer]]      |    3 | -         |      |     |
+| Maximilian | Fischhofer   | [[Maximilian Fischhofer][Maximilian Fischhofer]] |    3 | -         |      |     |
+| Hannah     | Höllbacher   | [[Hannah Höllbacher][Hannah Höllbacher]]     |    1 | +         |      |     |
+| Leon       | Keser        | [[Leon Keser][Leon Keser]]            |    2 | -         |      |     |
+| Thomas     | Krallinger   | [[Thomas Krallinger][Thomas Krallinger]]     |    3 | -         |      |     |
+| Fabian     | Lienbacher   | [[Fabian Lienbacher][Fabian Lienbacher]]     |    3 | -         |      |     |
+| Lena       | Malter       | [[Lena Malter][Lena Malter]]           |    1 | +         |      |     |
+| Sophia     | Mayr         | [[Sophia Mayr][Sophia Mayr]]           |    1 | +         |      |     |
+| Florian    | Peroutka     | [[Florian Peroutka][Florian Peroutka]]      |    1 | -         |      |     |
+| Andreas    | Rußegger     | [[Andreas Rußegger][Andreas Rußegger]]      |    3 | -         |      |     |
+| Valerie    | Schönauer    | [[Valerie Schönauer][Valerie Schönauer]]     |    1 | +         |      |     |
+| Marlene    | Seidl        | [[Marlene Seidl][Marlene Seidl]]         |    1 | +         |      |     |
+| Anna       | Spitzelseder | [[Anna Spitzelseder][Anna Spitzelseder]]     |    1 | +         |      |     |
+| Florian    | Steiner      | [[Florian Steiner][Florian Steiner]]       |    3 | -         |      |     |
+| Karin      | Struber      | [[Karin Struber][Karin Struber]]         |    1 | +         |      |     |
+| Lukas      | Wagenhofer   | [[Lukas Wagenhofer][Lukas Wagenhofer]]      |    3 | -         |      |     |
 #+TBLFM: $4=vmean($5..$>)
-#+TBLFM: $3='(concat "[[" $1 $2 "][" $1 " " $2 "]]")
+#+TBLFM: $3='(concat "[[" $1 " " $2 "][" $1 " " $2 "]]")
 #+TBLFM: $4='(identity remote(2021-22-Mitarbeit,@@#$4))
 
 #+BEGIN_SRC python :var table=2021-students :results output raw
@@ -75,13 +76,12 @@ for student in table:
     first = student[0]
     last = student[1]
     email = first + '.' + last + '@golling.schule'
-    print('** ' + first + last + '\n\n')
+    print('** ' + first + ' ' + last + '\n\n')  
 #+END_SRC
 
 #+RESULTS:
 * Mitarbeit
-** MaximilianFischhofer
-
+** Maximilian Fischhofer
 *** Link zur UE: [[file:~/RoamNotes/main/03_Golling.org::#Herbstferien3][file:~/RoamNotes/main/03_Golling.org::#Herbstferien3]]
 so wie Andreas, Thomas und Lukas: stört, legt ein provozierendes Verhalten an den Tag. Man redet sie direkt an - und erhält ein provozierendes "Okay, okay, okay" mit einem präpotenten Grinsen zurück.
 
@@ -92,12 +92,10 @@ PERIOD: [2023-03-27 Mo 09:35]
 
 Maxi, Thomas und Fabian arbeiten gemeinsam in einer Gruppe. Im Moment wird dort nur gelacht, und Blödsinn gemacht. Vielleicht trügt der Anschein?
 
+** Hannah Höllbacher
 
 
-** HannahHöllbacher
-
-
-** LeonKeser
+** Leon Keser
 beweist sich nicht
 
 *** [[file:~/RoamNotes/main/02_Golling.org::#Auferstehung][file:~/RoamNotes/main/02_Golling.org::#Auferstehung]]
@@ -122,7 +120,7 @@ Hat trotz Aufforderung und SchoolFox Nachricht sein Heft nicht in Ordnung gebrac
 
 Erneute Nachricht an die Eltern - was noch?
 
-*** Link zur UE: [[file:~/RoamNotes/main/03_Golling.org::#Herbstferien3][file:~/RoamNotes/main/03_Golling.org::#Herbstferien3]]
+* Link zur UE: [[file:~/RoamNotes/main/03_Golling.org::#Herbstferien3][file:~/RoamNotes/main/03_Golling.org::#Herbstferien3]]
 
 Hm, unkonzentriert ... wie damit umgehen?
 
@@ -142,8 +140,7 @@ Komisch: vor der vierten Stunde, am Ende der Pause gab es im Stiegenhaus eine la
 
 Alle Indizien weisen auf Leon hin und Daniel ... Schüler aus der 2B.
 
-** ThomasKrallinger
-
+** Thomas Krallinger
 *** [[file:~/RoamNotes/main/03_Golling.org::*Medienkonsum und Entwicklung des Gehirns][Medienkonsum und Entwicklung des Gehirns]]
 Datum: <2022-09-19 Mo>
 
@@ -151,38 +148,38 @@ hat Reli-Heft und Buch vergessen.
 
 beweist sich nicht
 
-** FabianLienbacher
+** Fabian Lienbacher
 
 
-** LenaMalter
+** Lena Malter
 
 
-** SophiaMayr
+** Sophia Mayr
 
 
-** FlorianPeroutka
+** Florian Peroutka
 
 
-** AndreasRußegger
+** Andreas Rußegger
 
 
-** ValerieSchönauer
+** Valerie Schönauer
 
 
-** MarleneSeidl
+** Marlene Seidl
 
 
-** AnnaSpitzelseder
+** Anna Spitzelseder
 
 
-** FlorianSteiner
+** Florian Steiner
 
 
-** KarinStruber
+** Karin Struber
 
 
-** LukasWagenhofer
-beweist sich nicht
+** Lukas Wagenhofer
+
 
 
 * Reflexionen                                                 :Reflexionen:
