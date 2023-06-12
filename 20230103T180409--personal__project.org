@@ -208,4 +208,6 @@ Joghurt
 <2023-06-11 So 09:00>--<2023-06-11 So 16:00>
 Gosausee, etc --> komoot
 Wanderkarte der Region kaufen
+osm-link:
+[[geo:47.533223,13.496809;z=18][Hintertal b.Gosau Gosaukammbahn, Gosauseestraße, Gosau, Bezirk Gmunden, 4824, Austria, 47.53° 13.50° Z18]]
 

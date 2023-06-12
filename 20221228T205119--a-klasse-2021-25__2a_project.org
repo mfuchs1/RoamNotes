@@ -11,13 +11,9 @@
 
 Judentum - Religionsbuch
 
-Lösungen der Arbeitsaufträge, Inhalt, Bräuche, ...:
-[[denote:20230521T094148][Judentum]]
+Letzte Seite im RB;
 
-LZK Judentum mit Kahoot!
-Schüler melden sich mit Klarnamen an.
-
-Falls sie kein Handy haben: Tablets mitnehmen!
+Wiederholung Sakramente
 
 * 2a 07:45-08:35
 <%%(org-class 2022 9 14 2023 7 5 3)>
@@ -29,8 +25,6 @@ Lösungen der Arbeitsaufträge, Inhalt, Bräuche, ...:
 
 Judentum Feste
 [[https://www.religionen-entdecken.de/]]
-
-* Reflexionen
 
 
 * 2A [KV Bernhard Moser]

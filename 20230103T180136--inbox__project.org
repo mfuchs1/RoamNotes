@@ -147,6 +147,9 @@ CLOSED: [2023-04-19 Mi 15:52] DEADLINE: <2023-03-28 Di 20:00>
 * TODO [#A] 2b Physik LZK / Test planen 
 DEADLINE: <2023-04-20 Do 21:00>
 
-* TODO Wanderkarte vom Dachstein kaufen
-DEADLINE: <2023-06-10 Sa 16:00>
+* DONE Wanderkarte vom Dachstein kaufen
+CLOSED: [2023-06-10 Sa 19:46] DEADLINE: <2023-06-10 Sa 16:00>
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-06-10 Sa 19:46]
+:END:
 
