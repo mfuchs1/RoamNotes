@@ -153,5 +153,21 @@ mit: Kristina, Verena, Christina; Theresa, Melanie, Nikola, Mia, Alex.
 <2023-04-13 Do 09:35>--<2023-04-13 Do 10:25>
 
 ** Pädagogische Konferenz MS Golling
-<2023-06-12 Mo 15:30>--<2023-06-12 Mo 18:00>
+<2023-06-12 Mo 16:00>--<2023-06-12 Mo 18:00>
+
+** Supplierstunde 3a M (statt Hannes)
+<2023-06-15 Do 09:35>--<2023-06-15 Do 10:25>
+
+** Supplierstunde 4a IKT (statt Wolfi)
+<2023-06-14 Mi 10:40>--<2023-06-14 Mi 11:30>
+
+** Abschlussgottesdienst MS Golling
+<2023-07-06 Do 08:00>--<2023-07-06 Do 08:45>
+
+** Abschlussfeier 4. Klassen
+<2023-07-06 Do 10:00>--<2023-07-06 Do 11:30>
+Technik
+
+** Mittagessen mit Lehrer Kollegen
+<2023-07-06 Do 12:00>--<2023-07-06 Do 13:30>
 
