@@ -18,14 +18,10 @@ Wiederholung Sakramente
 * 2a 07:45-08:35
 <%%(org-class 2022 9 14 2023 7 5 3)>
 
-(Film Judentum.)
+Wiederholung Sakramente
+(letzte Seiten im Religionsbuch)
 
-Lösungen der Arbeitsaufträge, Inhalt, Bräuche, ...:
-[[denote:20230521T094148][Judentum]]
-
-Judentum Feste
-[[https://www.religionen-entdecken.de/]]
-
+ev. Doppelseite ins Heft?
 
 * 2A [KV Bernhard Moser]
 

@@ -17,9 +17,11 @@ Wiederholung...
 * 3a 09:35-10:25
 <%%(org-class 2022 9 14 2023 7 5 3 21)>
 
-Firmung: konkreter Ablauf, Lieder üben, ...
+Habe meine Stunde Magdalena P. geborgt für die D-Schularbeit in der 3a.
 
-Gemeinsam um den Hl. Geist bitten
+Gleichnisse vom Reich Gottes. Ist Basileia Gleichnis? Siehe Einleitung von:
+[[file:~/NMS_Golling/Bibel_NT/Reich Gottes Gleichnisse/Handreichung Gleichnisse.pdf]]
+
 
 * Reflexionen
 
@@ -83,6 +85,7 @@ for student in table:
 
 #+RESULTS:
 * Mitarbeit
+
 ** Stefan Gonschorek
 
 
