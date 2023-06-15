@@ -15,14 +15,7 @@ Film über Burschen in Palästina / Meer ...
 * 1b 11:35-12:25
 <%%(org-class 2022 9 16 2023 7 7 5 23)>
 
-Buch Kapitel 6:
-Vielfalt der Religionen
-
-Drei christliche Konfessionen
-
-[[denote:20230403T101428][Auferstehung]]
-
-Teständerung, hab den Namen des Remote Repo (auf github) geändert.
+Film über Jesus / Judentum / ...?
 
 * Supplierstunde 1b BU (Hannes Lacher) 10:40-11:30
 <%%(org-class 2023 3 8 2023 7 5 3 24)>
