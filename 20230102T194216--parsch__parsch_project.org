@@ -104,7 +104,41 @@ for student in table:
 *** [[denote:20221226T153748][Christenverfolgung]]
 PERIOD: [2023-02-28 Di 15:25]
 
-Aura-Ana-Maria hat mindestens dreimal in diesem Semester unentschuldigt gefehlt. Ich habe ihren KV verständigt.
+Aura-Ana-Maria hat mindestens dreimal in diesem Semester unentschuldigt gefehlt. Ich habe ihren KV per Mail verständigt.
+
+*** Fehlstunden (unentschuldigt)
+Falls jemand nachfragt, dokumentiere ich hier die vielen unentschuldigten Fehlstunden von Aura-Ana-Maria. Cf. Report / Teacher Assistent: [[file:~/NMS_Golling/TA_Fehlzeiten-Uebersicht-7.pdf]]
+
+| Name                 | Datum                           | Fehlstunden    | Ferien           |
+|----------------------+---------------------------------+----------------+------------------|
+| Filan Aura-Ana-Maria | <2022-12-13 Di>                 | unentschuldigt |                  |
+|                      | <2022-12-20 Di>                 | unentschuldigt |                  |
+|                      |                                 |                |                  |
+|                      | <2022-12-24 Sa>-<2023-01-08 So> |                | Weihnachtsferien |
+|                      |                                 |                |                  |
+|                      | <2023-02-11 Sa>-<2023-02-19 So> |                | Semesterferien   |
+|                      |                                 |                |                  |
+|                      | <2023-02-21 Di>                 | unentschuldigt |                  |
+|                      | <2023-02-28 Di>                 | unentschuldigt |                  |
+|                      | <2023-03-07 Di>                 | unentschuldigt |                  |
+|                      |                                 |                |                  |
+|                      | <2022-04-01 Sa>-<2023-04-10 Mo> |                | Osterferien      |
+|                      |                                 |                |                  |
+|                      | <2023-04-11 Di>                 | unentschuldigt |                  |
+|                      | <2023-04-18 Di>                 | unentschuldigt |                  |
+|                      | <2023-04-25 Di>                 | unentschuldigt |                  |
+|                      | <2023-05-02 Di>                 | unentschuldigt |                  |
+|                      | <2023-05-09 Di>                 | unentschuldigt |                  |
+|                      | <2023-05-16 Di>                 | unentschuldigt |                  |
+|                      |                                 |                |                  |
+|                      | <2023-05-27 Sa>-<2023-05-29 Mo> |                | Pfingsten        |
+|                      |                                 |                |                  |
+|                      | <2023-05-30 Di>                 | unentschuldigt |                  |
+|                      | <2023-06-06 Di>                 | unentschuldigt |                  |
+|                      | <2023-06-13 Di>                 | unentschuldigt |                  |
+|                      |                                 |                |                  |
+
+Ich hab - so denke ich - mindestens dreimal den KV der 2b verständigt. Erst beim dritten Mal und durch Intervention des Direktors hat der KV geantwortet. Somit habe ich meine "Schuldigkeit" getan. Alles weitere (Anzeige) liegt in den Händen des KVs und der Schulleitung. Eine Feststellungsprüfung macht eigentlich keinen Sinn, da die Schülerin massiv fehlt und gar keine Chance hat, die Prüfung zu bestehen.
 
 
 ** LukasGady
