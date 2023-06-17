@@ -9,11 +9,9 @@
 * 2a 07:45-08:35
 <%%(org-class 2022 9 12 2023 7 3 1 22)>
 
-Judentum - Religionsbuch
+Was kann ich vorschlagen?
+Thema aus der Bibel?
 
-Letzte Seite im RB;
-
-Wiederholung Sakramente
 
 * 2a 07:45-08:35
 <%%(org-class 2022 9 14 2023 7 5 3)>
@@ -130,10 +128,9 @@ for student in table:
 
 
 
-* Reflexionen                                                   :Reflexionen:
+* Reflexionen
 
 ** Wie gehe ich mit Unterrichtsstörungen um?
-
 Wow, das wird immer schlimmer. Liegt es an mir? Liegt es (nur) an den Schülern? Auf jeden Fall werde ich von den Schülern (meist den Buben) häufig unterbrochen. Da dies in einigen Klassen vorkommt, stellt sich für mich doch die Frage, ob es irgendwie auch an mir hängt. Oder am Fach?
 
 Bernhard (KV) hat mir gesagt, dass es ihm ähnlich ergeht: er bemerkt einen Unterschied zwischen Mathematik und Geografie. Also liegt es auch am Fach.

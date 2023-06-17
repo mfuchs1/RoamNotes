@@ -7,12 +7,6 @@
 * TODO [#A] Teacher Assistent eintragen
 
 * Themen für Schule 
-** TODO [[id:93706478-1abf-4183-9a09-a0b14795bc8c][Taufe]]
-
-** TODO [[id:cf52e625-c3eb-4c05-b1a2-c04a796c6a36][Auferstehung_Bibel]]
-
-** TODO [[id:e385af86-339e-406c-a149-f5728cbfd8e2][Mensch_Philo]]
-
 
 * Birthdays
 :ROPERTIES:
@@ -26,17 +20,6 @@
 %%(diary-remind '(org-anniversary 1943  2 1) -7) Mutti ist %d Jahre alt
 %%(diary-remind '(org-anniversary 1975  8 10) -7) Veronika ist %d Jahre alt
 %%(diary-remind '(org-anniversary 1977  3 11) -7) Michael ist %d Jahre alt
-
-* TODO [#A] RU zurück zu den Basics
-
-Tipp, Anregung von Andreas (Direktor MS Parsch):
-- Bibel / Tagesevangelium mit den Schülern lesen
-- Eucharistie
-- Beichte
-
-Er, Andreas, hat darunter "gelitten", dass sein RL in der Schule (VS) kaum Stoff gemacht hat. Mein RL im Gymnasium hat sehr viel Stoff unterrichtet - ich hatte sogar einmal "nur" ein Gut in Religion; in der ersten Klasse, denke ich.
-
-Viele Kinder kommen sehr wohl aus Familien, die regelmäßig am Sonntag in die Kirche gehen. Die Kinder sollen schon auch einiges wissen über ihren Glauben, andererseits ... ist es meine Aufgabe, dass sie näher zu Jesus kommen? In erster Linie bin ich doch *Lehrer*, oder? Mein persönlicher Wunsch ist's, dass sie Gott näher kommen, IHN suchen, Jesus begegnen. 
 
 * Install and try Vertico, consult and consult-org-roam
 
@@ -68,88 +51,6 @@ Des weiteren hab ich org-agenda derart verbessert: nur jene Denote-files, die "p
 
 Ich hab ein wenig mit Hyperbole experimentiert - aber darin keinen Gewinn entdeckt. Außerdem ist das Paket riesig (an Speicherplatz: fast 1GB!). Also: wieder deinstalliert. Es kann für manche wirklich gut sein. Ich werde mich erst mit Denote und dem neuen Setup anfreunden, bevor ich Neues ausprobiere.
 
-* DONE [#A] Mail an Lebenshilfe
-CLOSED: [2023-01-12 Do 21:13] DEADLINE: <2023-01-11 Mi 11:30>
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2023-01-12 Do 21:13]
-:END:
 
-Letztes Mail vom November, noch immer keine Antwort.
 
-* DONE Emacs packages
-CLOSED: [2023-01-23 Mo 07:37] DEADLINE: <2023-01-17 Di 19:00>
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2023-01-23 Mo 07:37]
-:END:
-
-Welche Pakete brauche, verwende ich tatsächlich? Z.B. ist =magit= ein super Paket; aber ich verwende es so gut wie kaum mehr. Und dann gibt es einige Pakete in der Liste, für die es keine Konfiguration gibt...
-
-Ich hab jene Pakete deinstalliert, die ich wirklich nicht benötige; im Gegenzug habe ich denote für meine Bedürfnisse verbessert. Jetzt kann ich mittels denote eine Literatur-Bibtex-... aufbauen. Aus einzelnen bib-Dateien ist es möglich, eine bib-Datei zu erstellen, die ich dann in LaTex weiterverwenden kann.
-
-Siehe diese großartigen Blogeinträge:
-[[https://www.scss.tcd.ie/~sulimanm/posts/denote-bibliography.html]]
-
-[[https://github.com/emacs-citar/citar]]
-
-[[https://github.com/pprevos/citar-denote]]
-
-[[https://protesilaos.com/emacs/denote#h:226d66e4-b7de-4617-87e2-a7f2d6f007dd]]
-
-[[https://takeonrules.com/2022/11/19/project-dispatch-menu-with-org-mode-metadata-denote-and-transient/]]
-
-* DONE firefox-startpage
-CLOSED: [2023-02-14 Di 08:32] DEADLINE: <2023-02-10 Fr 20:00>
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2023-02-14 Di 08:32]
-:END:
-
-fix colors - gruvbox-color-scheme
-[[https://github.com/morhetz/gruvbox]]
-
-* DONE [#A] Supplierstunden für nächste Woche eintragen
-CLOSED: [2023-03-14 Di 07:38] DEADLINE: <2023-03-07 Di 19:00>
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2023-03-14 Di 07:38]
-:END:
-
-Auf Smartphone habe ich den Supplierplan der nächsten Woche: 2. Klassen sind auf Skikurs.
-
-Nachprüfen mit Sokrates (online).
-
-* TODO Learn [[Emacs Tutorial]]
-
-* TODO Learn Scheme 
-
-William Byrd on "The Most Beautiful Program Ever Written" [PWL NYC]:
-[[https://www.youtube.com/watch?v=OyfBQmvr2Hc]]
-
-PolyConf 15: The Promise of Relational Programming / William Byrd:
-[[https://www.youtube.com/watch?v=eQL48qYDwp4]]
-
-* DONE Schulbuchlisten ausdrucken, austeilen!
-CLOSED: [2023-03-20 Mo 09:42] DEADLINE: <2023-03-20 Mo 12:00>
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2023-03-20 Mo 09:42]
-:END:
-
-* DONE Überweisungsschein Gabriel Dr. Rauscher / Ambulatorium
-CLOSED: [2023-03-20 Mo 09:56] DEADLINE: <2023-03-20 Mo 11:00>
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2023-03-20 Mo 09:56]
-:END:
-
-* DONE [#A] Elternsprechtag MS Golling eintragen
-CLOSED: [2023-04-19 Mi 15:52] DEADLINE: <2023-03-28 Di 20:00>
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2023-04-19 Mi 15:52]
-:END:
-
-* TODO [#A] 2b Physik LZK / Test planen 
-DEADLINE: <2023-04-20 Do 21:00>
-
-* DONE Wanderkarte vom Dachstein kaufen
-CLOSED: [2023-06-10 Sa 19:46] DEADLINE: <2023-06-10 Sa 16:00>
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2023-06-10 Sa 19:46]
-:END:
 

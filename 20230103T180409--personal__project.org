@@ -37,6 +37,7 @@
 
 ** Englisch Nachhilfe Gabriel
 <2023-02-02 Do 14:15>--<2023-02-02 Do 15:15>
+
 (bei uns)
 
 ** Zum Mittagessen bei Genevieve / Klaus eingeladen
@@ -210,4 +211,22 @@ Gosausee, etc --> komoot
 Wanderkarte der Region kaufen
 osm-link:
 [[geo:47.533223,13.496809;z=18][Hintertal b.Gosau Gosaukammbahn, Gosauseestraße, Gosau, Bezirk Gmunden, 4824, Austria, 47.53° 13.50° Z18]]
+
+** Freibad Lepi
+<2023-06-17 Sa 11:00>--<2023-06-17 Sa 15:00>
+
+** Einkauf Europark
+<2023-06-17 Sa 15:30>--<2023-06-17 Sa 17:00>
+
+** Abendessen
+<2023-06-17 Sa 18:30>--<2023-06-17 Sa 19:00>
+
+** Film
+<2023-06-17 Sa 19:30>--<2023-06-17 Sa 20:30>
+
+** Ausflug Gosausee
+<2023-06-18 So 09:00>--<2023-06-18 So 17:00>
+
+** Heilige Messe 
+<2023-06-18 So 19:00>--<2023-06-18 So 20:00>
 
