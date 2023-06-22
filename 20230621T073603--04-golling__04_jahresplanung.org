@@ -1,0 +1,2543 @@
+#+title:      04 Golling
+#+date:       [2023-06-21 Mi 07:36]
+#+filetags:   :04:jahresplanung:
+#+identifier: 20230621T073603
+
+* Unterrichtsvorbereitung
+** Zitate aus dem Lehrplan
+
+*** Inhalt und Anliegen des Religionsunterrichts
+"/In der Mitte des Religionsunterrichts stehen die Schülerinnen und Schüler, ihr Leben und ihr Glaube. Daher sind Inhalt des Religionsunterrichts sowohl das menschliche Leben als auch der christliche Glaube, wie er sich im Laufe der Geschichte entfaltet hat und in den christlichen Gemeinden gelebt wird. Lebens-, Glaubens- und Welterfahrungen der Schülerinnen und Schüler, Lehrerinnen und Lehrer werden dabei aus der Perspektive des christlichen Glaubens reflektiert und gedeutet. Dieser Glaube hat in Jesus Christus seine Mitte./"
+
+"/Zugleich werden junge Menschen ermutigt, ihre persönlichen Glaubensentscheidungen zu treffen und dementsprechend ihr Leben und ihren Glauben zu gestalten. Damit leistet der Religionsunterricht einen wesentlichen Beitrag zur Sinnfindung, zu religiöser Sachkompetenz und zur Werteerziehung. So trägt er auch zur Gestaltung des Schullebens bei./"
+
+*** Stellung des Religionsunterrichts an der Sekundarstufe I
+"/Der Religionsunterricht ist Teil des Bildungs- und Erziehungsauftrages der betreffenden Schulart. Religiöse Bildung ist Bestandteil von Allgemein-, wie von Persönlichkeitsbildung. Durch seinen spezifischen Beitrag zur religiös-ethisch-philosophischen Bildungsdimension unterstützt der konfessionelle Religionsunterricht grundlegend alle Aufgabenbereiche der Schule. Durch Wissensvermittlung im Bereich der christlichen Religion, anderer Religionen und Weltanschauungen trägt der Religionsunterricht zum Verstehen unserer Kultur bei, die stark von der jüdisch-christlichen Tradition geprägt ist. Junge Menschen lernen Werte zu entdecken, moralisch zu urteilen und zu handeln./"
+
+*** Das Prinzip des Religionsunterrichts
+"/Religionsunterricht zielt Korrelation als wechselseitige Erschließung von Leben und christlicher Tradition an. Zum einen sind die Erfahrungen der Schülerinnen und Schüler und Lehrerinnen und Lehrer zur Sprache zu bringen. Diese werden vielfältig zum Ausdruck gebracht, reflektiert, auf ihre  religiöse Sinndimension hin erschlossen und mit der biblischen sowie kirchlichen Überlieferung wechselseitig in Beziehung gesetzt./"
+
+"/Zum anderen sind jene fachspezifischen Bildungsinhalte zur Sprache zu bringen, die möglicherweise den Schülerinnen und Schülern vorerst neu und fremd sind. Diese können bisher Selbstverständliches im Leben der Schülerinnen und Schüler in Frage stellen und neue Erfahrungs- und Deutungsmöglichkeiten eröffnen. Ein solcher Religionsunterricht intendiert, dass in den Unterrichtsprozessen die christliche Botschaft erfahrbar wird. Religiöse Übungen bieten im Rahmen der Schule einen Raum, der für religiöse Erfahrungen förderlich ist./"
+
+
+
+
+
+** DONE Welche Klasse
+CLOSED: [2017-09-21 Don 21:52]
+:LOGBOOK:
+   - CLOSING NOTE [2017-09-21 Don 21:52] \\
+     Beschreibung der einzelnen Klassen. Grundsätzlich ist anzumerken, dass die heurigen vierten Klassen einfacher sind als die letzten beiden Jahre - mit Ausnhame der 4b.
+   :END:
+  
+[[id:A_Klasse_2018-22][4A]]
+
+[[id:B_Klasse_2018-22][4B]]
+
+
+*** DONE [SW01] Besprechung Jahresstoff / Jesus ist die Quelle unseres Lebens
+CLOSED: [2022-09-16 Fr 23:17] DEADLINE: <2022-09-12 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Jesus Quelle des Lebens
+:ID: 04_SW01
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-09-16 Fr 23:17]
+- State "DONE"       from "TODO"       [2021-09-18 Sa 15:19]
+- State "DONE"       from "TODO"       [2020-09-19 Sa 08:25]
+- CLOSING NOTE [2019-09-16 Mo 21:47] \\
+  Diese vierten Klassen sind einigermaßen angenehm. In der 4A haben sich leider vier Schüler abgemeldet - ohne mir Gründe zu sagen. Jedoch wurde dadurch der Unterricht wesentlich ruhiger.
+    - CLOSING NOTE [2018-09-24 Mo 09:56] \\
+      Diese vierten Klassen sind okay; wieder gilt das Gleiche wie in den dritten Klassen: kein Leerlauf, gute Struktur, etc.
+    - CLOSING NOTE [2017-09-26 Die 01:05] \\
+      Nix großartig Neues - Schulgottesdienst
+    :END:
+
+**** Komepetenzbeschreibung
+[[#A2]] Menschen und ihre Lebensorientierungen - Sich mit den großen Fragen der Menschen auseinandersetzen können
+[[#A2_KB1]] Die Schüler können Perspektiven für ihr Leben entwickeln und  Zukunftspläne entwerfen. 
+
+**** AB / UH
+[[#A2_UH1]] Sehnsüchte und Lebensträume
+
+**** Wiederholung
+
+
+**** Erarbeitung
+Jesus = Quelle meines Lebens; das klingt, ist doch sehr abstrakt.
+
+"Ohne mich könnt ihr nichts tun." - Jesus ist hier sehr eindeutig: NICHTS. So lange wir das nicht verstanden haben, gehen wir am Wesentlichen des christlichen Glaubens vorbei. Wir sind als Geschöpfe total, komplett von Gott abhängig. Gott (Jesus) ist die Quelle unseres Lebens, des Friedens, der Freude, ... 
+
+Quelle = Ursprung eines Flusses; frisch; lebendiges Wasser; ...
+
+Joh 4: Jesus und die Samariterin
+
+Das Wasser ist der Glaube, der ewiges Leben schenkt.
+
+[[file:~/org/notes/2020-09-15-1042 Samariterin.org]]
+
+Symbol Wasser:
+ - Wasser ist Basis des Lebens (so wie Brot); das wissen besonders die Menschen, die in der Wüste wohnen (Zeitgenossen Jesu)
+ - Genauso wesentlich ist Jesus schlicht und exklusiv Grundlage des ewigen Lebens.
+ - Wasser ist nicht machbar, sondern eine Gabe der Natur - meistens kommt es "von oben". Wenn das Wasser nicht von der Quelle, Teich oder Fluss kommt, ist der Mensch am Ende. 
+ - Somit ist Wasser ein Symbol für die Abhängigkeit von Gott.
+ - Trinkbares Wasser ist "lebendiges" Wasser, dh das Wasser fließt oder sprudelt aus der Quelle.
+ - Wassertrinken ist kein Selbstzweck, sondern dient dem Hervorbringen von Worten, Werken, ... Bei Pflanzen sind dies die Früchte. Die Wirkungen kann man sehen.
+ - Kontrast zu Wein: er ist Luxus und zum Feiern da. Beide, Wasser und Wein durchdringen das Lebenwesen komplett. So soll uns auch Gott, der Hl. Geist durchdringen.
+
+Die Frau versteht die Metapher wortwörtlich. Jesus sagt der Frau auf den Kopf zu, wie ihr Privatleben war / ist. Das kann nur Gott, also ist Gott in Jesus anwesend - er ist der Messias. 
+
+Zwischen Juden und Samariter herrscht "Krieg"; sie betrachten sich gegenseitig als Ketzer. Juden (Männer) sprechen daher nicht mit Samariter, und noch weniger mit Frauen in der Öffentlichkeit - schon gar nicht mit einer samaritischen Frau an einem Brunnen. 
+
+Die Frau kommt zu Mittag zum Brunnen, so sonst keiner kommt, da es zu heiß ist. Man schöpft Wasser in der Früh oder am Abend. Brunnen ist ein Ort der Begegnung - und einige Liebesgeschichten begannen an einem Brunnen (Isaak, Jakob). Die Samariterin will also allein sein, vielleicht hat sie etwas zu verbergen. 
+
+**** Hefteintrag
+
+
+
+*** DONE [SW02] Die Berufung als Quelle meines Lebens
+CLOSED: [2022-09-24 Sa 09:59] DEADLINE: <2022-09-19 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Berufung
+:ID: 04_SW02
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-09-24 Sa 09:59]
+- State "DONE"       from "TODO"       [2021-09-24 Fr 11:36]
+- State "DONE"       from "TODO"       [2020-09-27 So 10:37]
+- CLOSING NOTE [2019-09-27 Fr 15:41] \\
+  Die vierten Klassen waren auf Wien-Woche; kein Unterricht.
+    - CLOSING NOTE [2018-09-24 Mo 09:57] \\
+      Dieses Thema war eine Wiederholung aus dem Geschichtsunterricht. Für die nächste (3.) Woche muss ich mir genau überlegen, wie ich die Schüler mit dem Thema "Schöpfung und Evolution" auseinandersetzen lasse.
+    - CLOSING NOTE [2017-09-26 Die 01:05] \\
+      kath. Schöpfungsglaube versus Wissenschaft / Evolution; hat Schüler interessiert, gute Mitarbeit.
+    :END:
+
+**** Komepetenzbeschreibung
+[[#A2]] Menschen und ihre Lebensorientierungen - Sich mit den großen Fragen der Menschen auseinandersetzen können
+[[#A2_KB1]] Die Schüler können Perspektiven für ihr Leben entwickeln und  Zukunftspläne entwerfen. 
+
+**** AB / UH
+[[#A2_UH1]] persönliche und berufliche Ziele
+
+
+**** Wiederholung
+
+
+**** Erarbeitung
+Was ist eine Berufung?
+
+"Berufung" – die betrifft doch nur wenige Auserwählte... Tatsächlich? Richtet sich Gottes Ruf nur an Priester, Ordensleute und Co.? Oder gibt es eine Berufung für alle Christen? Pastor Christian Olding geht dem Thema auf den Grund.
+
+[[id:c19c92cf-a9a0-491a-a39e-88f0ee2d54d5][Was ist Berufung? Glaube.Leben. - katholisch.de]]
+
+Wikipedia:
+Unter Berufung im religiös-spirituellen Sinn wird das Vernehmen/Verspüren einer inneren Stimme verstanden, die einen zu einer bestimmten Lebensaufgabe bewegt. So spricht man von einer Berufung zur Liebe und zum Leben (in Fülle), die im Herzen jedes einzelnen Menschen tief verankert ist.
+
+Fortsetzung von Joh 4:
+
+Was bedeutet "Berufung"? Wer ruft - wohin, wozu? Ein Beruf kann, muss nicht zur Berufung werden. Was passiert hier? Der Beruf erfüllt das Leben ganz. Das Leben des Menschen ist ganz auf den Beruf hingeordnet. 
+
+Priester, Klosterleben als Berufung. Berufen zum König, Prophet im AT. Berufen zur Heiligkeit (für alle Christen). 
+
+[[file:~/org/notes/2020-09-15-1123 Berufung.org]]
+
+Y 73: Jesus von Nazareth trägt den Beinamen "Christus", der Gesalbte / Messias. Wir heißen Christen nach Christus - zum Ausruck unserer hohen Berufung.
+
+Y 138: Laien und Kleriker haben gleichwertige, aber unterschiedliche Aufgaben. Laie: die ganze Welt auf das Reich Gottes auszurichten. Ihnen dienen die Kleriker, um sie zu leiten, lehren und zu heiligen. Jeder Christ hat die Aufgabe (Berufung), mit seinem eigenen Leben das Evangelium zu bezeugen. Jeder Mensch erhält von Gott einen persönlichen Auftrag, Gott geht mit ihm einen eigenen Weg: niemand kann sich die Aufgaben selbst anmaßen, jeder erhält den Auftrag von Gott. 
+
+Y 139: Die Berufung der Laien besteht darin, sich in der Gesellschaft zu engagieren, damit das Reich Gottes unter den Menschen wachsen kann. Die Menschen um mich herum sollen das Evangelium kennen- und Christus lieben lernen. Prägung der Gesellschaft, Wirtschaft und Politik durch meinen Glauben. Engagement in der Kirche (Ministrant, Lektor, ...). 
+
+Y 144: Aufgabe der Bischöfe - verantwortlich für ihre Diözese und Mitverantwortung für die ganze Kirche. Gemeinschaft der Bischöfe; für die ganze Kirche unter der Leitung des Papstes. Sie sind zuerst Apostel, denn Jesus hat sie persönlich berufen. 
+
+Y 145: Berufung zum Leben in Armut, Keuschheit und Gehorsam - Gott ist Liebe. Leben wie Jesus. Denn die Welt ist nicht alles. Nur Gott macht uns ganz glücklich. 
+
+Y 205: Firmung - der Seele wird ein Siegel aufgeprägt, prägt den Menschen als Christ: der Hl. Geist, die Kraft von oben. 
+
+Y 250: Weihesakrament - Mittler zwischen Gott und Mensch. Nach Christus kann es ein Weihesakrament nur noch in Christus geben, in Christi Opfer am Kreuz und durch Christi Berufung und apostolische Sendung. Priester handelt "in persona Christi". Er ist ein Diener. 
+
+Y 255: Diakon - repräsentiert Christus, der gekommen ist zu dienen (Dienst am Altar, am Wort und der Liebe). 
+
+Y 265: Ehe - für alle? Nicht alle sind zur Ehe berufen - es gibt auch alleinlebende Menschen. Er kann sich um Menschen sorgen, für die sonst niemand Zeit hat. Berufung heißt aber nie, Ehe zu verachten. Freiwillige Ehelosigkeit nur in und aus Liebe. 
+
+Y 340: Gottes Gnade zwingt uns nicht. Die Liebe Gottes will unsere freiwillige Zustimmung. 
+
+
+
+**** Hefteintrag
+
+
+*** DONE [SW03] Sinn der Arbeit
+CLOSED: [2022-10-01 Sa 11:06] DEADLINE: <2022-09-26 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Sinn der Arbeit
+:ID: 04_SW03
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-10-01 Sa 11:06]
+- State "DONE"       from "TODO"       [2021-10-02 Sa 09:51]
+- State "DONE"       from "TODO"       [2020-10-04 So 10:03]
+- CLOSING NOTE [2019-09-27 Fr 15:42] \\
+  Bei diesem Thema waren die Schüler interessiert dabei.
+    - CLOSING NOTE [2018-09-30 So 15:08] \\
+      Welch Überraschung, als ich in der Schule tolle AB zum Thema gefunden habe.
+    - CLOSING NOTE [2017-10-04 Mit 22:41] \\
+      Waren gute Stunden.
+    :END:
+
+**** Komepetenzbeschreibung
+[[#A2]] Menschen und ihre Lebensorientierungen - Sich mit den großen Fragen der Menschen auseinandersetzen können
+[[#A2_KB1]] Die Schüler können Perspektiven für ihr Leben entwickeln und  Zukunftspläne entwerfen. 
+
+**** AB / UH
+[[#A2_UH1]] persönliche und berufliche Ziele
+
+**** Wiederholung
+
+
+**** Erarbeitung
+Warum arbeitet der Mensch? Nur wg des Geldes; oder weil es zur Natur (?) des Menschen gehört? Cf Relibuch "Komm mit", ab S. 72 (kopieren).
+
+Gen 3 sagt uns, dass ab dem Sündenfall die Arbeit mühsam ist - und vorher? Vielleicht soll ich es anders verstehen: ausgehend von der Erfahrung einer mühsamen Arbeit stellt sich der Mensch, warum das so ist. Hm, das scheint mir zu leicht und nicht gerade ein tiefsinniger Ansatz.
+
+Die Arbeit ist eine Pflicht des Menschen: Auftrag des Schöpfers, Erhalt der Familie, Entfaltung der eigenen Menschlichkeit. Wir sind Erben der Arbeit von Generationen und zugleich Gestalter der Zukunft für all die Menschen, die nach uns leben werden.
+
+Die Arbeit bestärkt den Menschen - nach dem Bild Gottes erschaffen - in der Tiefe seiner Identität. Der Mensch ist der Treuhänder des Universums. In seinem eigenen Wirken ist der Mensch dazu berufen, das Antlitz Gottes widerzuspiegeln.
+
+DoCat:
+[[file:~/Dokumente/DC_Studyguide_Deu_7.pdf][Eine Wirtschaft, die den Menschen dient]]
+
+[[file:~/Dokumente/DC_Studyguide_Deu_6.pdf]]
+
+Geht uns die Arbeit aus?
+
+[[https://jugend-und-bildung.de/fileadmin/user_upload_sozialpolitik/PDFs/schaubild-geht-uns-die-arbeit-aus.pdf]]
+
+[[https://jugend-und-bildung.de/fileadmin/user_upload_sozialpolitik/PDFs/arbeitsblatt-geht-uns-die-arbeit-aus.pdf]]
+
+[[file:~/Downloads/global_lernen_2017-1.pdf.pdf]]
+
+Arten der Arbeit
+
+Supplierstunde:
+[[file:~/NMS_Golling/Die_schnelle_Stunde/Arbeitsunterlagen_Die schnelle Stunde Religion für die HS.pdf]]
+ - Zukunft auf heute
+ - 10 Wörter meines Lebens
+ - Die Welt verändern
+
+**** Hefteintrag
+
+
+*** DONE [SW04] (Un-)gerechte Wirtschaftsmodelle
+CLOSED: [2022-10-08 Sa 09:44] DEADLINE: <2022-10-03 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Arbeit_Gerechtigkeit
+:ID: 04_SW04
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-10-08 Sa 09:44]
+- State "DONE"       from "TODO"       [2021-10-08 Fr 14:26]
+- State "DONE"       from "TODO"       [2020-10-11 So 09:46]
+- CLOSING NOTE [2019-10-13 So 12:06] \\
+  Das Thema war / ist anspruchsvoll; Hut ab vor diesen Schülern!
+    - CLOSING NOTE [2018-10-07 So 15:34] \\
+      Die Stunden waren okay - der Film hat ihnen sehr gefallen. Diese vierten Klassen sind viel, viel angenehmer als die 4.-Klassen davor. 
+      
+      In den nächsten Stunden / Wochen wäre es toll, wenn die Schüler eine Gruppenarbeit machen könnten.
+    - CLOSING NOTE [2017-10-14 Sam 16:21] \\
+      Die Stunden waren ganz okay. Sie haben gut in der Gruppe gearbeitet. Ich weiß allerdings nicht, ob der Schuß hier nach hinten los geht und die Kinder von nun ab Drogen cool finden. Durch furchtbare Bilder lassen sie sich wahrscheinlich nicht abschrecken - weiß es nicht. Was ist zu tun? Auf jeden Fall eine gute Zeit aufwenden, um ihren Lerngewinn aufzuzeichnen. Die nächsten Stunden sollen ihnen eine positive Sicht auf das Leben geben können. Sport ist immer gut!
+    :END:
+
+**** Kompetenzbeschreibung
+[[#A1]] Menschen und ihre Lebensorientierungen - Beziehung verantwortungsvoll gestalten können – zu sich selbst, zu anderen, zur Schöpfung
+[[#A1_KB1]] Die Schüler können die Bedeutung eines Einsatzes für ein gerechtes Zusammenleben erkennen und konkrete Handlungsoptionen entwickeln.
+
+**** AB / UH
+[[#A1_UH1]] (Un-)gerechte Wirtschaftsmodelle
+
+**** Wiederholung
+
+
+**** Erarbeitung
+Einstieg: mit Anderen auf einer einsamen Insel gestrandet (cf AB). Welche Regeln stellt ihr auf, damit das Zusammenleben gerecht abgeht. Achtung: ihr wisst nichts, über guten und bösen Absichten der Gestrandeten.
+
+[[file:~/Downloads/Unterrichtsmaterial-Weltweite_soziale_Gerechtigkeit.pdf]]
+
+Bsp. aus Indien, Paraguay, etc. Texte diskutieren... (in Gruppenarbeit).
+
+UNO Menschenrechte / AB:
+[[id:fb954dff-8503-4797-add5-b9f6a60ddc30][Together Strong - Menschenrechte]]
+
+[[http://www.youtube.com/watch?v=12uKuORCyBM]]
+
+
+
+Was bedeutet:
+unveräußerlich / unteilbar / allgemein ?
+
+
+**** Heftarbeit
+
+
+
+*** DONE [SW05] Nachhaltige Entwicklungsziele der UNO
+CLOSED: [2022-10-14 Fr 22:38] DEADLINE: <2022-10-10 Mo>
+:PROPERTIES:
+:CUSTOM_ID: UNO
+:ID: 04_SW05
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-10-14 Fr 22:38]
+- State "DONE"       from "TODO"       [2021-10-16 Sa 10:09]
+- State "DONE"       from "TODO"       [2020-10-17 Sa 09:51]
+- CLOSING NOTE [2019-10-13 So 12:07] \\
+  Auch hier haben die Schüler gut mitgearbeitet.
+    - CLOSING NOTE [2018-10-15 Mo 10:18] \\
+      Dieses Thema war und ist kein einfaches; da Schüler in der Regel ungern Persönliches preisgeben (was macht micht einmalig?), habe ich zu einem Trick gegriffen: "Mein Leben in 30 Jahren..."
+      
+       - Wie wird meine Eltern, wie werden meine Freunde über mich denken?
+       - Welche Spuren werde ich hinterlassen haben?
+       - Auf welchen (inneren) Werten ruht mein Leben?
+       - Kreativ gestalten (Herz, Baum, Weg, ...)
+      
+      Die Schüler haben die Aufgabe gerne erledigt.
+    - CLOSING NOTE [2017-10-18 Mit 09:24] \\
+      In dieser Woche war kein RU in den vierten Klassen.
+    :END:
+
+**** Kompetenzbeschreibung
+[[#A1]] Menschen und ihre Lebensorientierungen - Beziehung verantwortungsvoll gestalten können – zu sich selbst, zu anderen, zur Schöpfung
+[[#A1_KB1]] Die Schüler können die Bedeutung eines Einsatzes für ein gerechtes Zusammenleben erkennen und konkrete Handlungsoptionen entwickeln.
+
+**** AB / UH
+[[#A1_UH1]] (Un-)gerechte Wirtschaftsmodelle der UNO
+
+**** Wiederholung
+
+
+**** Erarbeitung
+Sklaverei, Ausbeutung; Erfüllung, ...
+
+Berufen zum Recht:
+[[https://www.missio.at/berufen-zum-recht/]]
+
+Material zum Thema "Kindersoldaten":
+[[file:~/NMS_Golling/Kindersoldaten/]]
+
+Kindersoldaten / YouTube
+[[https://www.youtube.com/watch?v=REfjjO60_v0]]
+
+arte-Doku / Kindersoldaten:
+[[https://www.youtube.com/watch?v=_M2ATWyvdlA]]
+
+Material zum Thema "Menschenhandel":
+[[https://www.youtube.com/watch?v=n5ExjQ-h_3k]] [Infografik]
+
+[[https://www.youtube.com/watch?v=dLAWNdZ3f8Q][Dirty Dollars ZDF Dokumentation über Menschenhandel (YouTube)]]
+
+
+
+**** Hefteintrag
+
+
+*** DONE [SW06] Menschenrechte
+CLOSED: [2022-10-21 Fr 22:14] DEADLINE: <2022-10-17 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Menschenrechte
+:ID: 04_SW06
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-10-21 Fr 22:14]
+- State "DONE"       from "TODO"       [2021-10-26 Di 11:09]
+- State "DONE"       from "TODO"       [2020-11-18 Mi 10:26]
+    - CLOSING NOTE [2018-10-21 So 22:26] \\
+      Habe einen guten Film bzgl Offenbarung gefunden.
+    - CLOSING NOTE [2017-10-21 Sam 20:58] \\
+      Das waren sehr gute Stunden. Den Schülern amcht Gruppenarbeit Spaß und Freude - und sie gestalten ihre Plakate wirklich toll!
+    :END:
+
+**** Kompetenzbeschreibung
+[[#A1]] Menschen und ihre Lebensorientierungen - Beziehung verantwortungsvoll gestalten können – zu sich selbst, zu anderen, zur Schöpfung
+[[#A1_KB1]] Die Schüler können die Bedeutung eines Einsatzes für ein gerechtes Zusammenleben erkennen und konkrete Handlungsoptionen entwickeln.
+
+**** AB / UH
+[[#A1_UH1]] Menschenrechte
+
+**** Wiederholung
+
+
+**** Erarbeitung
+
+***** Unterrichtsmaterialien:
+
+
+
+***** Text der Erklärung der Menschenrechte:
+[[file:aemr.pdf]]
+
+Geschichte der UN Menschenrechte:
+[[https://www.planet-wissen.de/geschichte/menschenrechte/geschichte_der_menschenrechte/index.html]]
+
+[[https://de.wikipedia.org/wiki/Allgemeine_Erkl%C3%A4rung_der_Menschenrechte]]
+
+***** Europäische Erklärung der Menschenrechte:
+[[file:Convention_DEU.pdf]]
+
+Geschichte der EKMR:
+[[https://de.wikipedia.org/wiki/Europ%C3%A4ische_Menschenrechtskonvention]]
+
+[[https://www.coe.int/de/web/portal/geschichte]]
+
+***** Sich Jesus annähern - Collage gestalten
+ - Menschen nähern sich Jesus (NT)
+ - Kranke, Sünder, Fragende, Suchende, ...
+ - Wie reagiert Jesus?
+ - Auf wen geht Jesus von sich aus zu?
+ - ...
+
+Gleichnisse vom Reich Gottes
+ - Sämann
+ - Schatz im Acker / Perle
+ - ...
+
+[[file:~/Dokumente/LaTex_2/Kreinecker_ReichGottes/ReichGottes.pdf]]
+
+Jesu Antwort auf Ungerechtigkeiten, etc?
+Selbst in Jesu Gleichnissen ist nicht alles "eitle Wonne";
+
+Cf.: Bergpredigt
+- "Wenn dich jemand auf die linke Wange schlägt, halte ihm die rechte hin. - Wer dich zwingt, eine Meile mit ihm zu gehen, mit dem gehe zwei. Wer von dir den Mantel will, dem lasse auch das Hemd."
+
+
+**** Hefteintrag
+
+
+
+
+*** DONE [SW07] Herbstferien4
+CLOSED: [2022-10-25 Di 22:19] DEADLINE: <2022-10-24 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Herbstferien4
+:ID: 04_SW07
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-10-25 Di 22:19]
+- State "DONE"       from "TODO"       [2021-11-06 Sa 09:38]
+- State "DONE"       from "TODO"       [2020-11-07 Sa 09:52]
+    - CLOSING NOTE [2018-10-27 Sa 12:55] \\
+      Der Film gefiel den Kindern gut - außer zwei Ausnahmen (Mariella, Nina - 4a).
+    - CLOSING NOTE [2017-10-28 Sam 18:25] \\
+      Alle drei Klassen sind so gut wie fertig - je nach Stundenplan können wir die Präsentation nächste Woche über die Bühne gehen lassen.
+    :END:
+
+<2020-10-26 Mo> Nationalfeiertag (schulfrei)
+
+Besser:
+das Tagesevangelium gemeinsam lesen und darüber austauschen
+und die aktuelle YouCat-Frage lesen (YouCat Daily) 
+
+Wie stellst du dir den Himmel vor?
+
+Ausschnitte aus dem Buch der Offenbarung ...
+
+Besonders:
+- Kapitel 4, 5: Anfangsvision des Himmels
+
+- Kapitel 6: "(Berge), fallt auf uns und verbergt uns ...": die Absurdität der modernen Welt, die Gott komplett vergessen hat.
+  
+- Kapitel 19, 20, 21: Sieg über Satan, der neue Himmel / die neue Erde / das himmlische Jerusalem
+
+Kapitel 13:
+- Menschen werden gezwungen, ein Zeichen auf der rechten Hand oder auf der Stirn zu tragen
+- Kaufen und Verkaufen konnte nur, wer dieses Zeichen trug. (neue digitale Identität in der EU; Handysignatur in AUT, ...)
+
+Ausschnitte aus The Chosen?
+
+Website of "The Chosen" [[https://watch.angelstudios.com/thechosen/watch]]
+Im Webplayer die deutschen Untertitel aktivieren.
+
+
+
+*** DONE [SW08] Geschaffen für das ewige Leben
+CLOSED: [2022-11-05 Sa 09:37] DEADLINE: <2022-10-31 Mo>
+:PROPERTIES:
+:CUSTOM_ID: ewiges Leben
+:ID: 04_SW08
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-11-05 Sa 09:37]
+- State "DONE"       from "TODO"       [2021-11-06 Sa 09:38]
+- State "DONE"       from "TODO"       [2020-11-07 Sa 09:52]
+    - CLOSING NOTE [2017-11-02 Don 16:14] \\
+      In der Woche war keine Stunde - da am Dienstag in der ersten Stunde im Rahmen der BO-Tage die Vorstellung der Kleßheim-Schule stattfand.
+    :END:
+
+**** Kompetenzbeschreibung
+[[#B3]] Gelehrte und gelebte Bezugsreligion - Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
+[[#B3_KB1]] Die Schüler können Leiden, Sterben und Auferstehung Jesu Christi als Hoffnungsbild für Menschen reflektieren.
+
+**** AB / UH
+[[#B3_UH1]] österlicher Glaube als christliche Lebenshaltung
+
+**** Wiederholung
+
+
+**** Erarbeitung
+
+[[id:56e0bc4a-61da-4d0e-9472-42e6d35d31d0][Ewiges Leben]]
+
+[[id:36daae02-52dd-45c4-b0e8-1248f400cbbe][Ewiges_Leben]]
+
+"Das ewige Leben beginnt mit der Taufe." Diese Aussage des YouCat ist das eigentliche Ziel dieser UE. 
+
+Ist dieses Thema eigentlich für Jugendliche relevant? 
+
+Wie komme ich mit ihnen darüber ins Gespräch? Allerheiligen und Allerseelen als Anlass ist zwar gegeben; in der 4B gab es einen tragischen Todesfall (ein Bursch hat seinen Vater verloren).
+
+ - Welche Vorstellungen haben die Kinder vom "ewigen Leben"?
+ - Welche Rolle spielt dieses Thema im Alltag der Kinder?
+
+Theologischer Hintergrund:
+Neues Lexikon der katholischen Dogmatik:
+"Das E.L. ist das in Gott begründete Leben in Fülle, das aufgrund seiner Selbstmitteilung bereits irdisch anhebt und nach dem Tod vollendet wird." cite:Beinert2012 (S.206)
+
+Der Glaube an Jesu Tod und Auferstehung prägt den Glauben an das E.L. neu. Da Jesus sein Leben für uns hingegeben hat, führt er uns zum Leben mit ihm. Jesus ist Herr über Lebende und Tote, sein Geist ist "lebendig machender Geist".
+
+Themen:
+- allgemeines und persönliches Gericht
+- wieder einmal in der Bibel lesen ...
+- Beten ...
+
+Das Größte: Schüler zu einer persönlichen Beziehung mit Jesus führen.
+
+Gemeinsames Bibellesen:
+Lk 19, 1-10
+
+[[id:04739c4d-3013-4c93-b807-5c74f28f9819][Jesus und Zachäus]]
+
+**** Hefteintrag
+
+
+*** DONE [SW09] Hinduismus
+CLOSED: [2022-11-11 Fr 21:27] DEADLINE: <2022-11-07 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Hinduismus
+:ID: 04_SW09
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-11-11 Fr 21:27]
+- State "DONE"       from "TODO"       [2021-11-13 Sa 15:12]
+- State "DONE"       from "TODO"       [2020-11-14 Sa 11:41]
+    - CLOSING NOTE [2018-11-11 So 22:07] \\
+      Die Filme sind spitze - die Schüler arbeiten toll...
+    - CLOSING NOTE [2017-11-11 Sam 12:07] \\
+      Die Präsentationen waren wirklich gelungen und toll. Diese Art des "Studiums" macht den Schülern Freude. Folgende Themen interessiert die Kinder:
+      
+       - Weltreligionen
+       - Besuch eines Klosters / einer Kirche,Präsentation in versch. Gruppen (Geschichte, Baustil, etc.)
+       - Straßenumfrage
+    - Note taken on [2017-11-05 Son 12:00] \\
+      Beim Pfarrcafe hatte ich heute eine gute Unterhaltung mit der Religionslehrerin aus Fürstenbrunn. Ihr Tipp: 
+      
+       - Finde deinen Weg und bleib ihm treu.
+       - Bete und singe mit den Kindern - nicht unbedingt zu Beginn der Stunde ...
+       - Nicht jede Stunde und jedes Thema wird 100% toll gelingen. Jeder Lehrer hat seine Stärken - diese immer wieder behandeln.
+       - Ja, die Kinder bekommen von Zuhause nichts mehr mit. Umso mehr sollen sie im RU von Jesus erfahren.
+      
+      Bsp.: Im neuen Lehrplan der VS kommt Ostern und Pfingsten nur jeweils einmal in 4 Jahren vor! Sie behandelt diese äußerst wichtigen Themen aber jedes Jahr in allen Klassen.
+    :END:
+
+**** Kompetenzbeschreibung
+[[#C6]] Religiöse und weltanschauliche Vielfalt in Gesellschaft und Kultur - Unterschiedlichen Lebensweisen und Glaubensformen reflexiv begegnen können
+[[#C6_KB1]] Die Schülerinnen und Schüler kennen Charakteristika asiatischer Glaubenstraditionen und können diese mit dem christlichen Glaubensverständnis vergleichen.
+
+**** AB / UH
+[[#C6_UH1]] Elementare Inhalte und religiöse Praxis in Hinduismus: Anfänge, prägende Persönlichkeiten, Meditation, Erlösungswege
+
+**** Wiederholung 
+
+
+**** Erarbeitung
+Film: Faszination Glaube Hinduismus / Buddhismus (schwarze USB-Festplatte)
+
+Religionsbuch:
+ - wichtige Begriffe klären und ins Heft schreiben:
+ - Moksha, Nirvana, Reinkarnation
+ - Yoga
+ - OM
+ - Dharma, Karma, Kaste
+ - wichtigsten Götter
+
+Arbeitsblätter
+Kahoot! als Wiederholung
+
+**** Hefteintrag
+Doppelseite zum Thema "Hinduismus, Buddhismus" 
+
+[RoamNote]
+[[id:178596c0-387a-4fe0-abb9-cba71831514a][AB Islam Huinduismus]]
+
+[LaTex / pdf]
+[[file:~/Dokumente/LaTex_2/AB_Hinduismus_Islam/ab_islam_huinduismus.pdf]]
+
+
+
+*** DONE [SW10] Buddhismus
+CLOSED: [2022-11-20 So 09:10] DEADLINE: <2022-11-14 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Buddhismus
+:ID: 04_SW10
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-11-20 So 09:10]
+- State "DONE"       from "TODO"       [2021-11-21 So 09:44]
+- State "DONE"       from "TODO"       [2020-11-22 So 17:25]
+- CLOSING NOTE [2019-11-15 Fr 16:24] \\
+  Die letzten Stunden waren sehr gut - und die Schüler haben toll gearbeitet.
+    - CLOSING NOTE [2018-11-16 Fr 16:28] \\
+      Die vierten Klassen haben diese Woche wirklich gut gearbeitet, waren mit Eifer bei der Sache.
+    - State "DONE"       from "TODO"       [2018-11-16 Fr 16:21]
+    - CLOSING NOTE [2017-11-27 Mon 15:12] \\
+      Präsentation / Film?
+    :END:
+
+**** Kompetenzbeschreibung
+[[#C6]] Religiöse und weltanschauliche Vielfalt in Gesellschaft und Kultur - Unterschiedlichen Lebensweisen und Glaubensformen reflexiv begegnen können
+[[#C6_KB1]] Die Schülerinnen und Schüler kennen Charakteristika asiatischer Glaubenstraditionen und können diese mit dem christlichen Glaubensverständnis vergleichen.
+
+**** AB / UH
+[[#C6_UH1]] Elementare Inhalte und religiöse Praxis in Buddhismus: Anfänge, prägende Persönlichkeiten, Meditation, Erlösungswege
+
+
+**** Wiederholung
+
+
+**** Erarbeitung
+Film "Faszination Glaube Buddhismus"
+
+Arbeitsblätter
+[[file:~/NMS_Golling/Weltreligionen/Buddhismus]]
+
+Bei Home-Schooling: Quiz zum Thema Weltreligionen. Film online stellen? Rechtlich okay? Nachfragen!
+
+**** Hefteintrag
+
+
+
+
+*** DONE [SW11] Chinesische Traditionen
+CLOSED: [2022-11-26 Sa 10:03] DEADLINE: <2022-11-21 Mo>
+:PROPERTIES:
+    :CUSTOM_ID: Chinesische Traditionen
+:ID:       04_SW11
+    :END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-11-26 Sa 10:03]
+- State "DONE"       from "TODO"       [2021-11-27 Sa 10:27]
+- State "DONE"       from "TODO"       [2020-12-04 Fr 11:19]
+- State "DONE"       from "TODO"       [2019-11-25 Mo 21:39]
+    - CLOSING NOTE [2018-11-22 Do 21:53] \\
+      Doppelseite Hinduismus:
+      In der 4A haben eigentlich alle Schüler toll, vollständig und schön gearbeitet. Unter den Schülern der 4B waren viele dabei, die unvollständige, "un-schöne" - einmal sogar richtig schlechte Arbeiten abgaben. Nur wenige Arbeiten waren wirklich "Sehr gut".
+    - CLOSING NOTE [2017-11-26 Son 23:41] \\
+      Film fertig
+    :END:
+
+**** Kompetenzbeschreibung
+[[#C6]] Religiöse und weltanschauliche Vielfalt in Gesellschaft und Kultur - Unterschiedlichen Lebensweisen und Glaubensformen reflexiv begegnen können
+[[#C6_KB1]] Die Schülerinnen und Schüler kennen Charakteristika asiatischer Glaubenstraditionen und können diese mit dem christlichen Glaubensverständnis vergleichen.
+
+**** AB / UH
+[[#C6_UH1]] Elementare Inhalte und religiöse Praxis in den chinesischen Traditionen: Anfänge, prägende Persönlichkeiten, Meditation, Erlösungswege
+
+**** Wiederholung
+
+
+**** Erarbeitung
+Suche im Internet Weisheitssprüche von Konfuzius und aus dem Taoismus (Laotse) und schreibe sie ins Heft. Welcher gefällt dir am besten? 
+
+YouTube: Doku ARTE über Konfuzius
+[[https://www.youtube.com/watch?v=7PZEGvYzzuQ]]
+
+
+**** Hefteintrag
+
+
+
+*** DONE [SW12] Biblische Propheten
+CLOSED: [2022-12-04 So 10:06] DEADLINE: <2022-11-28 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Bibel Propheten
+:ID: 04_SW12
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-12-04 So 10:06]
+- State "DONE"       from "TODO"       [2021-12-28 Di 09:47]
+- State "DONE"       from "TODO"       [2020-12-04 Fr 11:19]
+- State "DONE"       from "TODO"       [2019-11-30 Sa 09:33]
+    - CLOSING NOTE [2018-11-30 Fr 10:09] \\
+      Hm, die Stunden waren nicht so "se jello of se egg". Zu wenig gut vorbereitet, die Schüler waren aufgekratzter als üblich. Für nächste Woche: besser vorbereiten - die Schüler müssen arbeiten, nicht ich.
+    - CLOSING NOTE [2017-12-02 Sam 11:57] \\
+      Eine Stunde: Jugend und Recht-Broschüre
+      
+      Zweite Stunde: ?
+    :END:
+
+**** Kompetenzbeschreibung
+[[#A1]] Menschen und ihre Lebensorientierungen - Beziehung verantwortungsvoll gestalten können – zu sich selbst, zu anderen, zur Schöpfung
+[[#A1_KB1]] Die Schüler können die Bedeutung eines Einsatzes für ein gerechtes Zusammenleben erkennen und konkrete Handlungsoptionen entwickeln.
+
+**** AB / UH
+[[#A1_AB1]] (Biblische) Propheten und Prophetinnen
+
+**** Wiederholung
+
+
+**** Erarbeitung
+Material hier:
+[[/home/matthias/NMS_Golling/Propheten/]]
+
+Was sind Propheten?
+Beispieltexte, besonders in Bezug auf Advent: Verheißung des Messias. (Quelle: Liturgie / Adventsonntag, Lexikon, ...)
+
+[[id:b7ec9d9d-a0e7-4d98-9f07-e3aec92757dd][Messiaserwartung]]
+
+Kein Film, kein Kahoot! Sondern "Action!" ... Schüler müssen beschäftigt werden, besonders in der 4b.
+
+Also: Arbeit zu den Propheten.
+
+**** Hefteintrag
+
+
+
+*** DONE [SW13] Moderne Propheten
+CLOSED: [2022-12-09 Fr 10:33] DEADLINE: <2022-12-05 Mo>
+:PROPERTIES:
+:CUSTOM_ID: moderne Propheten
+:ID: 04_SW13
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-12-09 Fr 10:33]
+- State "DONE"       from "TODO"       [2021-12-28 Di 09:48]
+- State "DONE"       from "TODO"       [2020-12-12 Sa 11:22]
+- State "DONE"       from "TODO"       [2019-12-05 Do 15:39]
+    - CLOSING NOTE [2018-12-07 Fr 17:41] \\
+      Der Anfang der Woche war sehr schwierig (Montag, 1. Stunde, 4A) - und er hat mein Selbstbewusstsein sehr angeknabbert. Als ich ein anderes Thema (Medienkompetenz) fand und das ursprüngliche Thema in der 3A (!) gut ankam, ging es mir schon viel besser.
+      
+      Die Stunden slbst waren dann okay. Scheinbar hat den Schülern das Thema gefallen.
+    - Note taken on [2018-12-05 Mi 19:34] \\
+      Mittwoch (05.12.2018), 4. Stunde, 4B: Das 2. Video von Daniele Ganser kam sehr gut an! Das tat gut.
+    - Note taken on [2018-12-03 Mo 16:55] \\
+      Diese Stunde hat in der 4A gar nicht funktioniert! War sie ihnen zu fad? Oder stellen sie sich extra blöd an - und spielen "bewusst die rebellischen Jugendlichen"?
+    - Note taken on [2018-12-03 Mo 10:12] \\
+      Die 4A ist im Moment sehr, sehr schwierig. Die letzten drei Jahre waren als "brave" Klasse bekannt. In diesem Jahr haben sie beschlossen, zu rebellieren. Was tun? Intellektueller Input, Wissen, ... das geht gar nicht mehr. Die Klasse funktioniert nur unter Druck - was ich nicht will. Ideen? Meine persönlichen Erfahrungen mitgeben, aus dem Ordensleben erzählen, ...?
+    - CLOSING NOTE [2017-12-11 Mon 22:24] \\
+      Mit allen vierten Klassen Stunden zur Bedeutung von Advent und Weihnachten ...
+    :END:
+
+**** Kompetenzbeschreibung
+[[#A1]] Menschen und ihre Lebensorientierungen - Beziehung verantwortungsvoll gestalten können – zu sich selbst, zu anderen, zur Schöpfung
+[[#A1_KB1]] Die Schüler können die Bedeutung eines Einsatzes für ein gerechtes Zusammenleben erkennen und konkrete Handlungsoptionen entwickeln.
+
+**** AB / UH
+[[#A1_AB1]] (Biblische) Propheten und Prophetinnen
+
+
+**** Wiederholung
+
+
+**** Erarbeitung
+Propheten in der Bibel
+- Jesaja
+- Jeremia
+- Ezechiel
+- Amos
+- Jona
+
+Berufung / Leben / Aufgabe ...
+
+NT:
+- Johannes der Täufer
+
+Moderne Propheten(?):
+- Kämpfer für die Menschenrechte
+- Papst Johannes Paul II. (gegen der Kommunsimus)
+  4 teiliger Film (YóuTube).
+- Doku über Johannes Paul II: 
+  
+
+**** Hefteintrag
+
+
+*** DONE [SW14] Ein neuer Himmel, eine neue Erde
+CLOSED: [2022-12-17 Sa 09:35] DEADLINE: <2022-12-12 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Apokalypse
+:ID:       04_SW14
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-12-17 Sa 09:35]
+- State "DONE"       from "TODO"       [2021-12-28 Di 09:48]
+- State "DONE"       from "TODO"       [2021-01-02 Sa 15:50]
+- State "DONE"       from "TODO"       [2019-12-27 Fr 22:39]
+    - CLOSING NOTE [2018-12-14 Fr 09:41] \\
+      Das Thema "Medienkompetenz / Können wir den Medien vertrauen / Lüge in der Politik" hat den Schülern ziemlich interessiert. Generell sollte ich in den vierten Klassen mehr gesellschaftliche Themen im RU einbauen.
+    - CLOSING NOTE [2017-12-18 Mon 12:22] \\
+      Auch in den vierten Klassen konnten wir gut in der Hl. Schrift arbeiten.
+    - Note taken on [2017-12-12 Die 08:59] \\
+      In der 4A hat es nicht so gut geklappt, die Schüler "schlafen" wieder einmal, sind träge. Es ist wohl besser, sie selbständig in Kleingruppen arbeiten lassen. Dafür braucht es klare Arbeitsanweisungen.
+    :END:
+
+**** Kompetenzbeschreibung
+[[#A2]] Menschen und ihre Lebensorientierungen - Sich mit den großen Fragen der Menschen auseinandersetzen können
+[[#A2_KB2]] Die Schüler können die über den Tod hinausgehende christliche Hoffnung beschreiben.
+
+**** AB / UH
+[[#A2_AB2]] Biblisch-hermeneutische Kompetenz: eschatologische Bilder; Erlösungsglaube
+
+**** Wiederholung
+
+
+**** Erarbeitung
+Buch der Offenbarung
+
+Kapt 1, 4, ... 21.
+
+Ist schwierig als Thema, auch schwer zu vermitteln.
+
+Wie stellst du dir das Ende der Welt vor?
+Was sagt die Bibel dazu?
+- Endzeitreden Jesu
+- Apokalypsen bei den Propheten (Jesaja / Ezechiel / Daniel)
+- Buch der Offenbarung (ab Kapitel 12, 13, 14, ...)
+
+**** Hefteintrag
+
+
+
+
+*** DONE [SW15] Gott wird Mensch
+CLOSED: [2023-01-03 Di 22:26] DEADLINE: <2022-12-19 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Gott wird Mensch
+:ID:       04_SW15
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-01-03 Di 22:26]
+- State "DONE"       from "TODO"       [2022-10-14 Fr 22:34]
+- State "DONE"       from "TODO"       [2021-12-28 Di 09:48]
+- State "DONE"       from "TODO"       [2021-01-02 Sa 15:51]
+- State "DONE"       from "TODO"       [2019-12-27 Fr 22:39]
+    - CLOSING NOTE [2018-01-03 Mit 11:18] \\
+      Waren tolle letzte Stunden vor den Ferien...
+    :END:
+
+**** Kompetenzbeschreibung
+[[#A2]] Menschen und ihre Lebensorientierungen - Sich mit den großen Fragen der Menschen auseinandersetzen können
+[[#A2_KB2]] Die Schüler können die über den Tod hinausgehende christliche Hoffnung beschreiben.
+
+**** AB / UH
+[[#A2_AB2]] Biblisch-hermeneutische Kompetenz: eschatologische Bilder; Erlösungsglaube
+
+**** Wiederholung
+
+
+**** Erarbeitung
+
+
+**** Hefteintrag
+
+
+*** DONE [SW16] Ferien
+CLOSED: [2023-01-03 Di 22:26] DEADLINE: <2022-12-26 Mo>
+:PROPERTIES:
+:ID:       04_SW16
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-01-03 Di 22:26]
+- State "DONE"       from "TODO"       [2022-01-15 Sa 10:04]
+- State "DONE"       from "TODO"       [2021-01-02 Sa 15:51]
+- State "DONE"       from "TODO"       [2019-12-27 Fr 22:39]
+:END:
+
+
+*** TODO [SW17] Ferien
+DEADLINE: <2023-01-02 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Gott wird Mensch 2
+:ID:       04_SW17
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-01-15 Sa 10:04]
+- State "DONE"       from "TODO"       [2021-01-10 So 22:01]
+- State "DONE"       from "TODO"       [2019-12-27 Fr 22:39]
+:END:
+
+**** Kompetenzbeschreibung
+[[#A2]] Menschen und ihre Lebensorientierungen - Sich mit den großen Fragen der Menschen auseinandersetzen können
+[[#A2_KB2]] Die Schüler können die über den Tod hinausgehende christliche Hoffnung beschreiben.
+
+**** AB / UH
+[[#A2_AB2]] Biblisch-hermeneutische Kompetenz: eschatologische Bilder; Erlösungsglaube
+
+**** Wiederholung
+
+
+**** Erarbeitung
+Eine überschätzte Spezies | Doku Reupload | ARTE
+[[https://www.youtube.com/watch?v=N3xjGxqKpwM]]
+
+[[http://webcompetent.org/was-ist-der-mensch-noch-dass-du-seiner-gedenkst/#more-8881][Was ist der Mensch noch, dass du seiner gedenkst? - webcompetent % %]]
+
+***** Einstieg
+Eine vorausgreifende Diskussion einer biblischen, ethischen oder theologischen Problemfrage kann die Notwendigkeit aufzeigen sich mit dem Wesen des Menschen auseinanderzusetzen, etwa:
+
+- Widerlegen die Erkenntnisse der modernen Wissenschaft den biblischen Schöpfungsbericht?
+- Besitzt der Mensch das Recht andere Tiere zu gebrauchen und die Natur auszubeuten?
+- Ist der Mensch die Krone der Schöpfung?
+- Sind wir die Herrscher der Natur oder werden wir von der Natur beherrscht?
+
+***** Filmarbeit
+Mögliche Aufgaben zur Erstbegegnung mit dem Film
+
+- Setze dich mit der Grundaussage des Films auseinander. Ist der Mensch unbedeutend? Begründe deine Aussage und leite Schlussfolgerungen daraus ab.
+- Gib dem Film und den einzelnen Kapiteln eigene Namen, die deiner Meinung nach besser passen.
+- Erläutere die besondere Rolle des 10. Kapitels für die Gesamtkonzeption des Films. Setz dich dabei auch mit dem Zusammenhang von Wissen, Sinn und Ethik auseinander.
+- Erstelle eine Mindmap / Collage, welche die Sicht des Videos auf den Menschen darstellt. Mögliche Titel: "Der Mensch in Raum und Zeit", "Der Mensch im Kosmos", "Was ist der Mensch?" (Auch eine arbeitsteilige Auseinandersetzung mit den einzelnen Kapiteln ist hier möglich, falls Zeitbedarf und Komplexität reduziert werden sollen.)
+
+***** Mögliche Vertiefungsaufgaben zum Film
+Auch die Autoren des 1. Schöpfungsmythos haben für ihren Text auf die Vorstellungen der damals bekannten Welt zurückgegriffen. Aktualisiert dieses Weltwissen in Gen 1-2,4a und setzt euch damit auseinander, ob die Aktualisierungen auch die Rolle des Menschen im Text verändert.
+
+Versetzt euch in die Autoren des 1. Schöpfungsmythos hinein. Wie würden diese reagieren, wenn man sie mit unserem heutigen Wissen über das Leben und den Kosmos konfrontiert? Würden Sie ihren Schöpfungsmythos umschreiben oder verwerfen? Stellt eure Überlegungen in Form eines Textes (kreatives Schreiben, Dialog...) oder eines szenischen Spiels um.
+
+Plant in Auseinandersetzung mit dem Film einen eigenen Film. Konzeptioniert werden kann dieser als Fortsetzung (Kapitel 11 — Ethische Schlussfolgerungen) oder als Gegenentwurf, in welchem die Bedeutung des Menschen hervorgehoben werden kann.
+
+Setzt euch mit den folgenden Bibeltexten auseinander: Gottes Antwort aus dem Wettersturm (Hiob 38ff), Hiobs Antwort (Hiob 42,1 – 6) und Ps 8. Wählt passende Verse aus, welche ihr als Kommentar zu einem Kapitel des Films bei einem erneuten Sehen einsprecht (technisch: Anhalten oder Stummschalten möglich). Begründet im Anschluss euer Konzept.
+
+***** Theologische Deutung und weitere Inhaltliche Verknüpfungen zum Weiterarbeiten
+- Verhältnis von Glauben und Wissen, von Religion und Naturwissenschaft, Komplementäres Modell, Die sogenannten Kränkungen der Menschheit
+- Theodizee und Naturwissenschaft als Reaktion auf Abhängigkeit von der Natur: theologische Deutung der SARS-CoV-2-Pandemie
+- Menschenbild, Weltbild und ethische Begründungen: Umgang mit der Natur, mit den Mitgeschöpfen; Ego vs. Eco (siehe Medien)
+- Sonderstellung des Menschen: Doku "Von Affen und Menschen" (siehe Medien) - Tierethik, Speziesismus, Utilitarismus von Singer und Singers Personbegriff, Great Ape Project
+
+**** Hefteintrag
+
+
+*** TODO [SW18] Glaube und Kunst 
+DEADLINE: <2023-01-09 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Glaube_Kunst
+:ID: 04_SW18
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-01-15 Sa 10:04]
+- State "DONE"       from "TODO"       [2021-01-17 So 10:22]
+- State "DONE"       from "TODO"       [2020-01-11 Sa 09:09]
+    - CLOSING NOTE [2019-01-12 Sa 18:13] \\
+      Nach anfänglichen Schwierigkeiten (Montag, 1. Stunde, 4A) ging es viel besser. Ich war etwas angeschlagen von der langen Reise. Nächste Woche (SW 19) geht es um: "Ich bin"-Aussagen, biblische Sprache, etc.
+    - CLOSING NOTE [2018-12-21 Fr 22:12] \\
+      danke
+    - CLOSING NOTE [2018-01-22 Mon 12:17] \\
+      Stunde zum Thema "Drei Könige"
+      
+      Beginn des Films über das Heilige Land - hat den Schüler sehr gefallen (ist uach spannend!)
+    - Note taken on [2018-01-10 Mit 20:32] \\
+      Schau mir den Film heute 10.01.0218 (MI) weiter an; ich weiß noch nicht, wie ich den Schülern helfen kann, den Film besser zu verstehen.
+    :END:
+
+**** Kompetenzbeschreibung
+[[#C5]] Religiöse und weltanschauliche Vielfalt in Gesellschaft und Kultur - Medien, Kunst und Kultur im Kontext religiöser Weltwahrnehmung interpretieren, beurteilen und gestalten können
+[[#C5_KB1]] Die Schüler können Kunst als Möglichkeit religiöser Weltdeutung verstehen und ihr eigenes kreatives Potential entfalten.
+
+**** AH / UH
+[[#C5_UH1]] Begegnung mit Kunst im religiösen Kontext
+
+**** Wiederholung
+
+
+**** Erarbeitung
+Oder - generell: Umgang mit Medien. ZB Vortrag von Daniele Ganser?
+
+Eine Brücke bauen, um aus (s)einer Blase herauszukommen: "Du hast teilweise recht." 
+
+Ein kurzes Video zu einem Thema drehen.
+ - Religion
+ - Kunst
+ - ...?
+
+
+Mittel? iPads...
+
+**** Hefteintrag
+
+
+
+*** TODO [SW19] Glaube und POP-Kultur
+DEADLINE: <2023-01-16 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Glaube_POP
+:ID: 04_SW19
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-01-22 Sa 23:00]
+- State "DONE"       from "TODO"       [2021-01-23 Sa 12:02]
+- State "DONE"       from "TODO"       [2020-01-18 Sa 10:16]
+    - CLOSING NOTE [2019-01-18 Fr 09:43] \\
+      Ehrlicherweise hatte ich nicht gedacht, dass die Schüler so auf das Thema eingestiegen sind. Natürlich gab es ein paar Momente, in denen die Schüler etwas "unruhig" wurden. Aber im Großen und Ganzen waren es interessante Stunden. 
+      
+      Die beiden vierten Klassen werden - so habe ich den Eindruck - nicht mehr viel "Bock" auf Schule und Unterricht haben.
+    - Note taken on [2019-01-16 Mi 13:53] \\
+      Das Thema und Erarbeiten klappt erstaunlicherweise gut: außergewöhliche Themen, selbst aus der Bibel, scheinen die Schüler der vierten Klasse zu interessieren. In dieser Schulstufe muss ich daher mit "coolen" Themen kommen: gesellschaftliche Fragen (wie zB Lügen in der Politik), unerwartete Themen aus der Bibel, etc. Auf jeden Fall wichtig: die Schüler müssen selbständig arbeiten können.
+    - CLOSING NOTE [2018-01-22 Mon 12:18] \\
+      Toller und spannender Film, passend zum Thema "2. WK" in der 4. Klasse
+    :END:
+
+**** Kompetenzbeschreibung
+[[#C5]] Religiöse und weltanschauliche Vielfalt in Gesellschaft und Kultur - Medien, Kunst und Kultur im Kontext religiöser Weltwahrnehmung interpretieren, beurteilen und gestalten können
+[[#C5_KB1]] Die Schüler können Kunst als Möglichkeit religiöser Weltdeutung verstehen und ihr eigenes kreatives Potential entfalten.
+
+**** AH / UH
+[[#C5_UH1]] Religion in der Populärkultur
+
+**** Wiederholung
+
+
+**** Erarbeitung
+christlicher Glaube in der POP-Kultur:
+ - Musik(er), Songs, ...
+ - Filme
+ - Magazine: YOU!, Melchior, ...
+ - Radio: Radio Maria, Air1, K-Love, ...
+ - ...
+
+Texte aus der Apokalypse; viele verlieren die Hoffnung. Oder soll man das gar nicht thematisieren?
+
+Welche Themen wollen die Scüler der 4A / 4B?
+
+4A:
+[[id:b446d5d2-0c67-49f5-ad28-0fd73931ca65][Philosophie für kinder]]
+
+Philosophische Fragestellungen:
+ - Kunst / Arbeit
+   Stoff, Materie, Werkzeug, (vollendetes) Werk
+   Inspiration, Geduld, Zeit, Talent, ...
+   Idee 
+   
+ - Freundschaft
+   ...Liebe
+   Arten der Liebe
+   Tugenden
+   Finalität /
+
+ - Politik / Gemeinschaft
+
+ - Materie / Stoff
+
+ - Mensch als lebendiges Wesen / Seele
+   Gefühle
+   Sinne
+   Geist (Vernunft, Wille)
+   
+ - Sein: Dasein / Wassein
+   Aristoteles "Metaphysik"
+   Substanz / Finalität
+
+ - "philosphie première" - Weisheit / "das Erste Wesen, das ist Religionen Gott nennen"
+
+
+[[id:8deae3a8-726d-430a-ad2e-0a13af90fd2e][Kunst_Glaube]]
+
+4B
+[[id:c7dbb513-0b61-4ee1-b299-9cd372b5e19c][Sekten]]
+
+
+**** Hefteintrag
+
+
+*** TODO [SW20] Philosophie
+DEADLINE: <2023-01-23 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Einführung Philosophie
+:ID: 04_SW20
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-01-30 So 11:17]
+- State "DONE"       from "TODO"       [2021-03-09 Di 15:10]
+- State "DONE"       from "TODO"       [2020-01-25 Sa 15:36]
+    - CLOSING NOTE [2019-02-01 Fr 10:19] \\
+      War ein schwieriges Thema ...
+    - CLOSING NOTE [2018-01-31 Mit 15:06] \\
+      Das Thema Okkultismus habe ich ausgelassen; vor allem, weil der ausgeborgte Film unpassend für den Unterricht:
+       - zu alt (1990er Jahre, Kleidung der Personen!)
+       - Der Film ist ziemlich chaotisch und - zumindest für mich - ohne roten Faden.
+       - Man sieht zu Beginn splitternackte Buben in der Dusche ...
+       - In einer Szene beschwören Jugendliche Satan, der sich über seinen Anrufbeantworter meldet; Satanismus wird ins Lächerliche gezogen.
+       - Es kommen Jugendliche zu Wort, die an Schwarzen Messen teilgenommen haben. Man sieht ihnen an, dass diese Erfahrungen sie in ihrer Persönlichkeit verletzt haben. Trotzdem geben sie an, dass der eigntliche Grund zur Hinwendung zum Satanismus war, konkrete Erfahrungen gemacht zu haben ("Im Christentum musst du NUR glauben, aber es geschieht nix in deinem Leben.")
+      
+      Das Thema Aberglaube kommt im Alltag öfter vor; der Film kam besser bei den Schülern an. Die bereitgestellten AB sind allerdings nicht so toll.
+      
+      Ich habe das Thema bearbeitet, da es im Lehrplan vorkommt und ich denke, dass die Schüler über bestimmte Dinge "aufgeklärt" werden sollen. Somit können sie hoffentlich Leben in bewissen Situationen weniger leicht getäuscht werden. 
+      
+      Christliche Themen interessieren sie allerdings mehr ...
+    :END:
+
+**** Kompetenzbeschreibung
+[[#A2]] Menschen und ihre Lebensorientierungen - Sich mit den großen Fragen der Menschen auseinandersetzen können
+[[#A2_KB1]] Die Schüler können Perspektiven für ihr Leben entwickeln und Zukunftspläne entwerfen.
+
+**** AH / UH
+[[#A2_UH1]] Einführung in die Philosophie; ausgehend von Texten über philosophische Fragestellungen nachdenken...
+
+**** Wiederholung
+Bücher (Amazon):
+ - Texte für Philosophie
+ - Geschichte der Philosophie
+ - etc...
+
+[[file:~/Downloads/Angst.pdf]]
+
+[[file:~/Downloads/Descartes.pdf]]
+
+[[/home/matthias/NMS_Golling/Philosophie/]]
+
+[[https://www.br.de/radio/bayern2/sendungen/radiowissen/aristoteles-philosophie-denker-100.html]]
+
+**** Erarbeitung
+
+
+**** Hefteintrag
+
+
+
+*** TODO [SW21] Philosophie - Teil 2 
+DEADLINE: <2023-01-30 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Philosophie 2 
+:ID:       04_SW21
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-12-04 So 10:06]
+- State "DONE"       from "TODO"       [2022-02-04 Fr 14:02]
+- State "DONE"       from "TODO"       [2021-03-09 Di 15:10]
+- State "DONE"       from "TODO"       [2020-02-02 So 16:15]
+    - CLOSING NOTE [2019-02-01 Fr 10:26] \\
+      Das Thema Todesstrafe kam sehr gut an, die Schüler waren interessiert dabei, arbeitet sehr gut mit.
+    - CLOSING NOTE [2018-02-03 Sam 16:07] \\
+      Ein schwieriges Thema: ich tu mir auch selber schwer damit. Daher ... naja, es ging so lala ...
+    :END:
+
+**** Kompetenzbeschreibung
+[[#A2]] Menschen und ihre Lebensorientierungen - Sich mit den großen Fragen der Menschen auseinandersetzen können
+[[#A2_KB1]] Die Schüler können Perspektiven für ihr Leben entwickeln und Zukunftspläne entwerfen.
+
+**** AH / UH
+[[#A2_UH1]] Einführung in die Philosophie; ausgehend von Texten über philosophische Fragestellungen nachdenken...
+
+
+**** Wiederholung
+
+
+**** Erarbeitung
+[[file:~/Downloads/Angst.pdf]]
+
+[[file:~/Downloads/Descartes.pdf]]
+
+[[/home/matthias/NMS_Golling/Philosophie/]]
+
+[[id:3f7be097-5a8e-499a-aa11-5b5d0ba25741][Dtv-atlas philosophie]]
+
+[[id:de55594b-df79-444e-9e5d-0bac16ada683][Kant \& co. im interview. fiktive gespräche mit philosophen über ihre theorien]]
+
+Platon - Das Gastmahl (ist als Thema vielleicht zu gewagt) ...
+[[https://www.br.de/radio/bayern2/sendungen/radiowissen/ethik-und-philosophie/platon-gastmahl100.html]]
+
+Epikur - eventuell besser geeignet:
+[[https://www.br.de/radio/bayern2/sendungen/radiowissen/ethik-und-philosophie/epikur-grieche-hedonismus-100.html]]
+ - Wegen der Lust auch mal auf Lustvolles verzeichten
+ - Notwendig / Nicht notwendig
+ - Welche Bedürfnisse sind notwendig?
+   - Nahrung
+   - Kleidung
+   - Wohnung
+   - Freunde
+   - Philosophie 
+
+     
+**** Hefteintrag
+
+
+*** TODO [SW22] Film (Semester)
+DEADLINE: <2023-02-06 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Whg-Semester
+:ID:       04_SW22
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-02-20 So 23:09]
+- State "DONE"       from "TODO"       [2022-02-04 Fr 14:04]
+- State "DONE"       from "TODO"       [2021-03-09 Di 15:10]
+- State "DONE"       from "TODO"       [2020-02-07 Fr 17:11]
+    - CLOSING NOTE [2018-02-09 Fre 10:21] \\
+      Die GEO Filme faszinieren die Schüler. Dieses heikle und "dunkle" Thema der Kirchengeschichte wird einigermaßen neutral und objektiv, auf jeden Fall sehr spannend und lehrreich dargetsellt.
+    :END:
+
+**** Kompetenzbeschreibung
+[[#A2]] Menschen und ihre Lebensorientierungen - Sich mit den großen Fragen der Menschen auseinandersetzen können
+[[#A2_KB1]] Die Schüler können Perspektiven für ihr Leben entwickeln und Zukunftspläne entwerfen.
+
+**** AH / UH
+[[#A2_UH1]] Einführung in die Philosophie; ausgehend von Texten über philosophische Fragestellungen nachdenken...
+
+
+**** Wiederholung
+
+
+**** Erarbeitung
+[[file:~/Downloads/Angst.pdf]]
+
+[[file:~/Downloads/Descartes.pdf]]
+
+[[/home/matthias/NMS_Golling/Philosophie/]]
+
+[[id:3f7be097-5a8e-499a-aa11-5b5d0ba25741][Dtv-atlas philosophie]]
+
+[[id:de55594b-df79-444e-9e5d-0bac16ada683][Kant \& co. im interview. fiktive gespräche mit philosophen über ihre theorien]]
+
+Platon - Das Gastmahl (ist als Thema vielleicht zu gewagt) ...
+[[https://www.br.de/radio/bayern2/sendungen/radiowissen/ethik-und-philosophie/platon-gastmahl100.html]]
+
+Epikur - eventuell besser geeignet:
+[[https://www.br.de/radio/bayern2/sendungen/radiowissen/ethik-und-philosophie/epikur-grieche-hedonismus-100.html]]
+ - Wegen der Lust auch mal auf Lustvolles verzeichten
+ - Notwendig / Nicht notwendig
+ - Welche Bedürfnisse sind notwendig?
+   - Nahrung
+   - Kleidung
+   - Wohnung
+   - Freunde
+   - Philosophie 
+
+     
+**** Hefteintrag
+
+
+
+*** TODO [SW23] Semesterferien
+DEADLINE: <2023-02-13 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Semesterferien
+:ID:       04_SW23
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-02-20 So 23:09]
+- State "DONE"       from "TODO"       [2021-03-09 Di 19:26]
+- State "DONE"       from "TODO"       [2020-02-07 Fr 17:11]
+:END:
+
+
+
+*** TODO [SW24] Geltende Normen / persönliche Entscheidungen
+DEADLINE: <2023-02-20 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Entscheidungen
+:ID:       04_SW24
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-02-27 So 11:10]
+- State "DONE"       from "TODO"       [2021-02-27 Sa 10:27]
+- State "DONE"       from "STARTED"    [2020-02-23 So 14:18]
+- State "STARTED"    from "TODO"       [2020-02-23 So 14:17]
+- CLOSING NOTE [2019-02-23 Sa 10:50] \\
+  Das Thema hat einigermaßen gut geklappt. Den Film haben wir fertig geschaut ...
+    - CLOSING NOTE [2018-02-23 Fre 10:38] \\
+      Die Stunden waren genial.
+      Besonders freut mich die erste Stunde am Mittwoch mit der 4C. Hier hat mich die Fachinspektorin Fr. Christa Helminger besucht.
+      
+      Fazit: Note Sehr Gut! Am 19.10.2018 erhalte ich die missio canonica. Ein Jahr später soll ich um einen Vertrag beim Land ansuchen. Hr Konjecic fragen!
+    - Note taken on [2018-02-10 Sam 17:55] \\
+      Persönliches: Hl. Schirft, Gebet und Fasten wieder ins Zentrum stellen
+    :END:
+
+<2023-02-22 Mi> Aschermittwoch
+
+**** Kompetenzbeschreibung
+[[#A1]] Menschen und ihre Lebensorientierungen - Beziehung verantwortungsvoll gestalten können – zu sich selbst, zu anderen, zur Schöpfung
+[[#A1_KB2]] Die Schüler können das Verhältnis von geltenden Normen und persönlichen Gewissensentscheidungen analysieren und anhand von Beispielen diskutieren.
+
+**** AB / UH
+[[#A1_UH2]] Orientierungskriterien bei Entscheidungen
+
+**** Wiederholung
+
+
+**** Erarbeitung
+Geltende Normen / persönliche Gewissensentscheidungen
+
+Wo helfen euch die geltenden Normen?
+Wo könntest du in Konflikt mit ihnen kommen?
+Verhältnis zwischen ihnen? Analyse...
+
+In der 4A - okay, da könnte dieses Thema "funktionieren", aber in der 4B? Sollte ich in der 4B ev. das Thema "Ukraine" behandeln?
+
+Beispiele?
+
+- Gottes- und Nächstenliebe
+- WWJD - "Wie würde Jesus in meiner Situation entscheiden?"
+- Goldene Regel
+- "Wie ich euch geliebt habe, so sollt auch ihr einander lieben."
+- UNO-Gewaltverbot
+- Menschheitsfamilie
+- den inneren Frieden suchen ...
+- etc ...
+- sexualethische Fragestellungen: Ehe, ... (YouCat) 
+
+Daniele Ganser: Ukraine Putsch / Krieg Serbien 1999
+
+[[id:37ca58c4-1034-443c-9f4d-77f0039883f0][Dilemmageschichten]]
+
+**** Hefteintrag
+Gestaltung einer (mehrere) Doppelseite in Gruppenarbeit. 
+
+
+*** TODO [SW25] Gruppendruck
+DEADLINE: <2023-02-27 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Gruppendruck
+:ID:       04_SW25
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-03-05 Sa 09:00]
+- State "DONE"       from "TODO"       [2021-03-05 Fr 10:44]
+- State "DONE"       from "TODO"       [2020-02-29 Sa 19:01]
+    - CLOSING NOTE [2018-03-03 Sam 18:06] \\
+      Ich habe den Fokus va auf das Fatsen in den Weltreligionen gelegt. Hat den Schülern Spaß gemacht.
+    :END:
+
+
+
+**** Kompetenzbeschreibung
+[[#A1]] Menschen und ihre Lebensorientierungen - Beziehung verantwortungsvoll gestalten können – zu sich selbst, zu anderen, zur Schöpfung
+[[#A1_KB2]] Die Schüler können das Verhältnis von geltenden Normen und persönlichen Gewissensentscheidungen analysieren und anhand von Beispielen diskutieren.
+
+**** AB / UH
+[[#A1_UH2]] Gruppendruck
+
+**** Wiederholung
+
+
+**** Erarbeitung
+Das Thema "Gruppendruck" wäre besonders in der 4A brandaktuell.
+
+Aber eigentlich fällt mir für die 4. Klassen kein einziges Thema ein. Nichts, nada...
+
+4B: Fastenzeit?
+YouTube-Videos?
+
+ - B5-Methode
+ - Fasten: Bedeutung, 40 Tage, ...
+
+ 
+**** Hefteintrag
+
+
+
+*** TODO [SW26] Jesus legt das Gesetz aus 
+DEADLINE: <2023-03-06 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Sabbatgebot
+:ID:       04_SW26
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-03-12 Sa 08:38]
+- State "DONE"       from "TODO"       [2021-03-12 Fr 10:42]
+- State "DONE"       from "TODO"       [2020-03-06 Fr 15:39]
+- Note taken on [2019-03-07 Do 10:03] \\
+  Die "FSA" zum Thema "Gewaltlosigkeit" klappt in der 4B recht gut.
+- Note taken on [2019-03-04 Mo 08:47] \\
+  YouTube-Video-Analyse: Michael Jackson "Earth Song"
+  Mo, 1. Stunde, 4A: Das hat leider gar nicht geklappt. Warum? Was soll ich anders machen? Die Schüler schlafen ja komplett! Da kommt gar nichts zurück.
+  
+  Nach diesem Video sagte Hannes: "Des is mia alles wuascht!" (sollte ein Mensch auftreten und sich als Messias der Welt präsentieren. Soll er es doch sagen, es is mia wuascht!) Dieses Video richtet sich aber (genau) gegen jede Gleichgültigkeit.
+  
+  Ich glaube, dass die Aussage die generelle Stimmung in der Klasse auf den Punkt bringt: es is mia alles wuascht!
+  
+  Was kann ich als Lehrer hier tun? Soll ich?
+    - CLOSING NOTE [2018-03-09 Fre 09:36] \\
+      Ist ein schwieriges Thema, aber so aktuell und wichtig: wie viele Menschen sind schnell verzweifelt? Depression, ...
+      
+      Was schenkt mir Hoffnung? Worte der Hoffnung - Verheißungen Gottes (Bsp. Jer 29 / 31).
+    :END:
+
+**** Kompetenzbeschreibung
+[[#A1]] Menschen und ihre Lebensorientierungen - Beziehung verantwortungsvoll gestalten können – zu sich selbst, zu anderen, zur Schöpfung
+[[#A1_KB2]] Die Schüler können das Verhältnis von geltenden Normen und persönlichen Gewissensentscheidungen analysieren und anhand von Beispielen diskutieren.
+
+**** AB / UH
+[[#A1_UH2]] Sabbatgebot
+
+**** Wiederholung
+
+
+**** Erarbeitung
+Verhältnis Mensch / Gesetz
+
+Ist der Mensch für das Gesetz da; oder das Gesetz für den Menschen?
+
+"Der Menschensohn ist Herr über den Sabbath." - Die Juden verstehen diesen Satz sofort richtig: Jesus sagt, dass er Gott ist.
+
+ - Bibeltext
+ - Kommentar
+ - Was sagt mir der Text?
+ - Eventuell Arbeitsblätter?
+
+Oder: Daniele Ganser Nato-Osterweiterung (YouTube)
+
+4A: Frieden...sgebet schreiben; YouCat; Bibelarbeit; ...
+
+4B: Daniele Ganser? 
+
+**** Hefteintrag
+
+
+*** TODO [SW27] Passionsgeschichte
+DEADLINE: <2023-03-13 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Passionsgeschichte
+:ID:       04_SW27
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-03-20 So 00:29]
+- State "DONE"       from "TODO"       [2021-03-19 Fr 12:06]
+- State "DONE"       from "TODO"       [2020-03-21 Sa 09:43]
+    - CLOSING NOTE [2018-03-17 Sam 10:10] \\
+      4A + 4C: haben gut mitgemacht; 4B: hui, die Schüler emckern schnell...zach!
+    - Note taken on [2018-03-14 Mit 17:07] \\
+      4A: Heute (14.03.2018) hat eine Schülerin während dem Gebet gefragt: "Darf ich aufs Klo?" !!? nicht der passende Augenblick.
+      
+      4B: hui, also diese Klasse ist so dermaßen unmotiviert.
+      
+      4C: immer eine Freude, in dieser Klasse zu unterrichten!
+    :END:
+
+**** Kompetenzbeschreibung
+[[#B3]] Gelehrte und gelebte Bezugsreligion - Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
+[[#B3_KB1]] Die Schüler können Leiden, Sterben und Auferstehung Jesu Christi als Hoffnungsbild für Menschen reflektieren.
+
+**** AB / UH
+[[#B3_UH1]] Passionsgeschichte
+
+**** Wiederholung
+
+
+**** Erarbeitung
+Gemeinsam einen Kreuzweg beten
+file:///home/matthias/org/Bilder_Kreuzweg/Kreuzweg.pdf
+
+Bilder zu den Stationen:
+[[/home/matthias/org/Bilder_Kreuzweg/]]
+
+Bilder und Betrachtungen befinden sich ebenfalls auf dem 64GB USB Stick (klein, mit Ring).
+
+Ausschnitte aus dem "Passion Christi" Film? oder eben Zeffirelli Film (Teil 4)?
+
+Oder:
+Franz Jägerstätter / Theodizee
+
+**** Hefteintrag
+
+
+*** TODO [SW28] Kreuzweg
+DEADLINE: <2023-03-20 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Kreuzweg
+:ID:       04_SW28
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-03-26 Sa 10:44]
+- State "DONE"       from "TODO"       [2021-04-05 Mo 09:27]
+- State "DONE"       from "TODO"       [2020-03-21 Sa 09:43]
+- CLOSING NOTE [2019-03-23 Sa 16:13] \\
+  Die Umfrage werden die Schüler wohl privat, am NM durchführen müssen.
+  
+  Den Klosterbesuch haben wir jetzt schon vorbereitet; als ich von meinen Erfahrungen erzählt habe, haben sie sehr aufmerksam zugehört.
+    - CLOSING NOTE [2018-03-24 Sam 11:40] \\
+      Kaum Unterricht, weil vor allem die 60-Jahr-Feier vorbereitet wurde. Und DIE war toll!
+    :END:
+
+**** Kompetenzbeschreibung
+[[#B3]] Gelehrte und gelebte Bezugsreligion - Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
+[[#B3_KB1]] Die Schüler können Leiden, Sterben und Auferstehung Jesu Christi als Hoffnungsbild für Menschen reflektieren.
+
+**** AB / UH
+[[#B3_UH1]] Kreuzweg
+
+
+**** Wiederholung
+
+
+**** Erarbeitung
+[[https://www.schuldekan-schorndorf.de/index.php?id=1163]]
+
+https://www.br.de/radio/bayern2/sendungen/radiowissen/religion/pessachfest-einsatz-im-unterricht-100.html
+
+Bzgl. Kreuzweg:
+Gemeinsam einen Kreuzweg beten
+file:///home/matthias/org/Bilder_Kreuzweg/Kreuzweg.pdf
+
+Bilder zu den Stationen:
+[[/home/matthias/org/Bilder_Kreuzweg/]]
+
+**** Hefteintrag
+
+
+*** TODO [SW29] Erfahrungen von Scheitern und Neubeginn
+DEADLINE: <2023-03-27 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Scheitern Neubeginn
+:ID:       04_SW29
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-04-02 Sa 22:53]
+- State "DONE"       from "TODO"       [2021-04-05 Mo 09:27]
+- State "DONE"       from "TODO"       [2020-04-02 Do 11:33]
+:END:
+
+**** Kompetenzbeschreibung
+[[#B3]] Gelehrte und gelebte Bezugsreligion - Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
+[[#B3_KB1]] Die Schüler können Leiden, Sterben und Auferstehung Jesu Christi als Hoffnungsbild für Menschen reflektieren.
+
+**** AB / UH
+[[#B3_UH1]] Erfahrung von Scheitern und Neubeginn
+
+
+**** Wiederholung
+
+
+
+**** Erarbeitung
+[[https://www.schuldekan-schorndorf.de/index.php?id=1163]]
+
+https://www.br.de/radio/bayern2/sendungen/radiowissen/religion/pessachfest-einsatz-im-unterricht-100.html
+
+Johannes-Passion (Joh 13;14;18-19)
+
+
+***** Hefteintrag
+
+
+
+*** TODO [SW30] Karwoche / Osterferien 
+DEADLINE: <2023-04-03 Mo>
+:PROPERTIES: 
+:CUSTOM_ID: Ostern
+:ID:       04_SW30
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-04-09 Sa 11:13]
+- State "DONE"       from "TODO"       [2021-04-12 Mo 07:18]
+- State "DONE"       from "TODO"       [2020-04-16 Do 10:45]
+- CLOSING NOTE [2019-04-10 Mi 10:56] \\
+  Wir haben uns gemeinsam die beiden Filme angeschaut: Buddhismus / chinesische Religion.
+- Note taken on [2019-04-02 Di 09:23] \\
+  Leider fallen mir am Donnerstag beide (zweiten) Stunden der vierten Klassen aus. Da geht sich nur der Film über den Buddhismus aus.
+- CLOSING NOTE [2018-04-07 Sa 14:18] \\
+  Auf diese Art konnten die Schüler neu über das Mysterium der Auferstehung nachdenken - hat ihnen auch Spaß gemacht.
+:END:
+
+<2023-04-02 So> Palmsonntag
+
+<2023-04-06 Do> Gründonnerstag
+
+<2023-04-07 Fr> Karfreitag
+
+<2023-04-08 Sa> Karsamstag
+
+<2023-04-09 So> Ostersonntag
+
+
+
+
+*** TODO [SW31] Osterevangelium - Warum musste Jesus sterben?
+DEADLINE: <2023-04-10 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Osterevangelium
+:ID:       04_SW31
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-04-19 Di 23:34]
+- State "DONE"       from "TODO"       [2021-04-18 So 09:33]
+- State "DONE"       from "TODO"       [2020-04-16 Do 10:45]
+    - CLOSING NOTE [2018-04-18 Mi 08:36] \\
+      Toller Film
+    :END:
+
+**** Kompetenzbeschreibung
+[[#B3]] Gelehrte und gelebte Bezugsreligion - Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
+[[#B3_KB1]] Die Schüler können Leiden, Sterben und Auferstehung Jesu Christi als Hoffnungsbild für Menschen reflektieren.
+
+**** AB / UH
+[[#B3_UH1]] Osterevangelium
+
+**** Wiederholung
+
+
+**** Erarbeitung
+
+[[id:9bf7f695-e553-48ac-b5a0-0d8a6779c25c][Jesus von nazareth: band ii: vom einzug in jerusalem bis zur auferstehung]]
+
+***** (emotional)
+
+- Bibel:
+  Lk 22,7.14-15.19-20 (Abendmahl)
+  Joh 13,1.3-10.12-15;15,12-13
+
+  - "das ist mein Leib"
+
+  - Fußwaschung
+
+  - "Es gibt keine größere Liebe ..."
+
+  - "Liebt einander, wie ich euch geliebt habe..."
+
+Video "Most - die Brücke"
+
+***** (kognitiv)
+
+Comic: "Vor dem Abgrund"
+Der Abgrund unserer Schuld ist tatsächlich da; sie muss von jemand anders übernommen werden: Gott selbst übernimmt.
+
+Comic: Das Kreuz Jesu überwindet den Abgrund.
+
+- Bibel:
+  1 Petr 2,24-25
+  Jesus hat durch seinen Tod (seine Wunden) unsere Schuld auf sich genommen.
+
+  Röm 3,23-26
+  wir wurden gerettet , ohne es verdient zu haben. Plus: Röm 3,28
+
+**** Hefteintrag
+Comic
+
+Bibel: Gedanken zu den Bibelstellen
+
+Video: Gedanken zu dem Clip "Most - die Brücke"
+
+
+*** TODO [SW32] Jesus ist auferstanden
+DEADLINE: <2023-04-17 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Jesus ist auferstanden
+:ID:       04_SW32
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-04-22 Fr 22:32]
+- State "DONE"       from "TODO"       [2021-05-08 Sa 15:09]
+- State "DONE"       from "TODO"       [2020-04-20 Mo 10:28]
+    - CLOSING NOTE [2018-04-18 Mi 08:37] \\
+      Viele Supplierstunden
+    :END:
+
+**** Kompetenzbeschreibung
+[[#B3]] Gelehrte und gelebte Bezugsreligion - Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
+[[#B3_KB1]] Die Schüler können Leiden, Sterben und Auferstehung Jesu Christi als Hoffnungsbild für Menschen reflektieren.
+
+**** AB / UH
+[[#B3_UH1]] Jesus ist auferstanden
+
+
+**** Wiederholung
+[[id:cf52e625-c3eb-4c05-b1a2-c04a796c6a36][Auferstehung_Bibel]]
+
+**** Erarbeitung
+
+Die Auferstehung Jesu ist keine Erfindung, kein Symbol - sondern eine Tatsache.
+Cf Firmstunde aus dem YOU-Firmbuch, S. 50-51!
+
+***** Bibelarbeit zum Thema "Auferstehung"
+
+****** Gruppenarbeit
+Klasse in 4 Gruppen einteilen bzw zu 2 oder 3 über folgende Bibelstellen nachdenken:
+
+ 1. Joh 19,31-42: Untersucht den Text darauf, ob Jesus wirklich tot war?
+
+    - Lanzenstich durch die Soldaten; ... 
+    
+ 2. Joh 20,1-2.11-18: Wie erkennt Maria Magdalena, dass Jesus auferstanden ist? Welche Rolle spielt das leere Grab dabei?
+
+    - Maria erkennt Jesus an seiner Stimme, wie er ihren Namen ausspricht. Das leere Grab ist kein ausdrücklicher Beweis für die Auferstehung, aber die notwendige Bedingung - Voraussetzung dafür. 
+    
+ 3. Joh 20,1-2.11-18: In der Gesellschaft zur Zeit Jesu galten Zeugenaussagen von Frauen als unglaubwürdig. Was bedeutet das in Bezug auf die Auferstehung?
+
+    - Die Jünger hätten eine Geschichte über die Auferstehung auch erfinden können. Dafür hätten sie jedoch glaubwürdige Augenzeugen (also Männer) benötigt. Da die ersten Zeugen der Auferstehung jedoch Frauen waren, zeigt doch, dass die Jünger die Geschichte der Auferstehung nicht erfunden haben - sie ist also wahr.
+    
+ 4. Joh 20,24-28: Welche Hinweise gibt der Text auf die Frage, ob Jesus wirklich auferstanden ist oder nur in einem symbolischen Sinn?
+
+    - Jesus kann durch verschlossene Türen gehen (was auch die Jünger denken lässt, sie sähen einen Geist - Gespenst). Jesus zeigt ihnen seine Wunden (und nach Lk 24: er isst auch vor ihnen ein Stück Fisch) - was bei einem Gespenst nicht möglich ist. Er lässt sich von Thomas berühren. 
+
+Austausch der vier Gruppen - Raum für Rückfragen
+
+****** Hintergrund für den Lehrer:
+
+Die Auferstehung Jesu ist die Grundlage des christlichen Glaubens, würde man sie wegnehmen, so wäre der Glaube tot. Nur wenn Jesus auferstanden ist, ist Neues geschehen. Die Auferstehung sprengte den Erfahrungshorizont der Jünger. Ist Jesu Leiche wiederbelebt worden? (DAS wäre in der Tat belanglos!) Nein, die Auferstehung Jesu war der Ausbruch in eine ganz andere Art des Lebens, in ein Leben, jenseits von Stirb und Werde. Das geht alle an: es eröffnet sich eine neue Möglichkeit des Menschseins. Der Apostel Paulus stellt klar: die Auferstehung ist entweder ein universales Ereignis - oder gar nicht. So wie der jüdische Glaube sagt: die Auferstehung schließt den Leib mit ein - oder es gibt sie nicht.
+
+****** Bibelsession 1 Kor 15,12-22
+Zwei Punkte sind Paulus wichtig...
+
+ - Jesus ist Gottes Sohn, nur so kann uns sein Tod am Kreuz erlösen.
+ - Wäre Jesus im Grab geblieben, gäbe es auch für uns keine Auferstehung und kein ewiges Leben.
+
+Austausch: Wie stellst du dir das ewige Leben vor?
+
+***** Auferstehung 
+****** Youcat Nr. 106 + Austausch
+Es gibt keine Beweise (naturwissenschaftlich) für die Auferstehung. Aber es gibt viele Augenzeugenberichte jener Menschen, die dem auferstandenen Jesus begegnet sind. Das ältestete schriftliche Zeugnis ist der "erste Brief an die Korinther", den der Apostel Paulus ca 20 Jahre nach Christi Auferstehung schrieb. Zwei Jahre nach Jesu Auferstehung begegnet Paulus selbst Jesus vor den Toren der Stadt Damaskus und findet in Jerusalem eine lebendige Überlieferung des christlichen Glaubens vor. Die Erscheinungen und Begegnungen mit Jesus gipfeln in der Himmelfahrt Jesu. Seither gab und gibt es bis heute Begegnungen mit dem lebendigen Herr: Jesus Christus lebt! Es folgt die Lebensgeschichte eines Mannes, der in der dunkelsten Stunde seines Lebens Gott begegnet:
+
+****** Zeugnis von Torsten Hartung:
+Hr. Hartung wächst in einer Familie auf, die von Gewalt geprägt ist. Eines Tages entscheidet er sich, vom Opfer zum Täter zu werden und wird zu einem gefürchteten Schläger, landet oft im Gefängnis. Als er wieder einmal frei ist, wird er Chef einer kriminellen Vereinigung, die Luxus-Autos nach Russland und Arabien verkauft. 
+
+Er kommt in Einzelhaft und wird zu 15 Jahren Gefängnis verurteilt. Dort begegnet er Gott. Es beginnt ein längerer Heilungsprozess; er lässt sich taufen, weiht sich der Muttergottes. Nach dem Ende seiner Haftstrafe fährt er für 3 Wochen nach Südkorea, gibt in den Gemeinden Zeugnis. Er heiratet und arbeitet nun Vollzeit ehrenamtlich für Gott. Er leitet einen Seelsorge-Verein, der jugendliche Straftäter begleitet.
+
+Sein Zeugnis geht wirklich unter die Haut:
+
+[[https://www.youtube.com/watch?v=lpfXmymNQBI]]
+
+***** YouTube Videos von Johannes Hartl - Auferstehung
+[[https://www.youtube.com/watch?v=6_UQZVW8EWU]]
+
+ - Worauf beruht der christliche Glaube?
+   Eine Religion steht und fällt mit der Person des Gründers. Sind die Tatsachen wahr oder falsch? Im Christentum gibt es nur "wahr oder falsch"; entweder Jesus ist wirklich in der Eucharistie gegenwärtig, oder eben nicht.
+   
+ - Ist die Auferstehung nur etwas "Emotionales" / oder ein historisches Fakt?
+ - Wie kann ich ein hist. Fakt "beweisen"?
+   - Befund: leeres Grab, Glaube (genauer: ein sich ausbreitender Glaube (...) Augenzeugen im Land von Augenzeugen)
+   - Quellen: alt, viele, glaubwürdig, Überlieferung
+   - alternative Theorie
+
+ Die ältesten Quellen:
+  - leeres Grab bei Markus
+  - Paulus-Formel (1 Kor 15)
+  - Lukas: Paulus wurde 63 n.Chr. hingerichtet. Die Apg endet vor dem Tod des Paulus. Also wurde sie vorher geschrieben. Ebenso kennt Lukas die Topographie / Stadt Jerusalem, die 70 n.Chr. von den Römern zerstört wurde. Ein weiteres Zeichen, dass die Apg / das Ev. vorher geschrieben wurde.
+
+
+**** Hefteintrag
+
+
+*** TODO [SW33] (neues Thema finden)
+DEADLINE: <2023-04-24 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Kunst Auferstehung
+:ID:       04_SW33
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-05-02 Mo 22:50]
+- State "DONE"       from "TODO"       [2021-04-24 Sa 22:13]
+- State "DONE"       from "TODO"       [2020-04-28 Di 23:00]
+- CLOSING NOTE [2019-04-27 Sa 10:38]
+    - CLOSING NOTE [2018-04-30 Mo 21:47] \\
+      Was würdest du tun, wenn du nur mehr einen Tag (24h) zu leben hättest? diese Frage haben die Schüler sehr ernst genommen. War - so glaub ich - eine sehr gute Übung.
+    :END:
+
+**** Kompetenzbeschreibung
+
+
+**** AH / UH
+
+
+**** Wiederholung
+ 
+
+**** Erarbeitung
+
+
+**** Hefteintrag
+
+
+*** TODO [SW34] (neues Thema finden)
+DEADLINE: <2023-05-01 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Formen Kunst
+:ID:       04_SW34
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-05-07 Sa 09:13]
+- State "DONE"       from "TODO"       [2022-05-02 Mo 22:49]
+- State "DONE"       from "TODO"       [2021-05-08 Sa 15:09]
+- State "DONE"       from "TODO"       [2020-05-05 Di 10:30]
+- CLOSING NOTE [2019-05-04 Sa 17:30]
+    - CLOSING NOTE [2018-05-07 Mo 15:02] \\
+      Die Infotexte bzw Arbeitsblätter aus dem Halbfas-RB sind toll und haben die Schüler zu gutem Selbstudium verholfen. Religionsbücher wechseln? Es waren arbeitsreiche Stunden, die Schüler waren "live" dabei.
+    :END:
+
+**** Kompetenzbeschreibung
+
+
+**** AH / UH
+
+
+**** Wiederholung
+
+
+**** Erarbeitung
+
+
+**** Hefteintrag
+
+
+*** TODO [SW35] (neues Thema finden)
+DEADLINE: <2023-05-08 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Leben Freiheit
+:ID:       04_SW35
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-05-13 Fr 14:31]
+- State "DONE"       from "TODO"       [2021-05-14 Fr 13:48]
+- State "DONE"       from "TODO"       [2020-05-12 Di 09:01]
+    - CLOSING NOTE [2018-05-10 Do 00:19] \\
+      Tolle Stunden! Nach dem verlängerten Wochenenden geht's mit dem Film weiter.
+    :END:
+
+**** Kompetenzbeschreibung
+
+
+**** AB / UH
+
+
+**** Wiederholung
+
+
+**** Erarbeitung
+
+
+**** Hefteintrag
+
+
+*** TODO [SW36] (Neues Thema finden)
+DEADLINE: <2023-05-15 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Ideologien Fundamentalismus
+:ID:       04_SW36
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-05-21 Sa 11:45]
+- State "DONE"       from "TODO"       [2021-05-23 So 10:54]
+- State "DONE"       from "TODO"       [2020-05-12 Di 09:04]
+- CLOSING NOTE [2019-05-18 Sa 09:47] \\
+  Die Arbeit mit Google Classroom hat wunderbar funktioniert!
+    - CLOSING NOTE [2018-05-18 Fr 18:23] \\
+      Wir haben uns die beiden Filme zum Hinduismus angeschaut und als LZK zwei kahoot! gespielt.
+    :END:
+
+**** Kompetenzbeschreibung
+
+
+**** AB / UH
+
+
+**** Wiederholung
+
+
+**** Erarbeitung 
+
+
+**** Hefteintrag
+
+
+*** TODO [SW37] Vier Grundvollzüge der Kirche 
+DEADLINE: <2023-05-22 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Grundvollzüge Kirche
+:ID:       04_SW37
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-05-25 Mi 23:21]
+- State "DONE"       from "TODO"       [2021-05-30 So 11:34]
+- State "DONE"       from "TODO"       [2020-05-23 Sa 11:34]
+    - CLOSING NOTE [2018-06-03 So 15:17] \\
+      Die Schüler waren super dabei!
+    :END:
+
+**** Kompetenzbeschreibung
+[[#B4]] Gelehrte und gelebte Bezugsreligion - Kirchliche Grundvollzüge kennen und religiös-spirituelle Ausdrucksformen gestalten können
+[[#B4_KB1]] Die Schüler können die Firmung als Befähigung und Beauftragung zum Mitwirken an den Grundvollzügen der Kirche erläutern. 
+
+**** AB / UH
+[[#B4_AB1]] Verkündigung – Liturgie – Diakonie - Gemeinschaft
+
+
+**** Wiederholung
+
+
+**** Erarbeitung
+Die beiden 4. Klassen sind in dieser Woche von Montag bis Mittwoch in Wien.
+
+Am Donnerstag ist Christi Himmelfahrt / Freitag: schulfrei
+
+**** Hefteintrag
+
+
+
+*** TODO [SW38] Biblische Symbolik für den Hl. Geist
+DEADLINE: <2023-05-29 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Symbole Hl. Geist
+:ID:       04_SW38
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-06-07 Di 07:18]
+- State "DONE"       from "TODO"       [2021-06-04 Fr 08:11]
+- State "DONE"       from "TODO"       [2020-06-01 Mo 09:58]
+- CLOSING NOTE [2019-05-31 Fr 10:13] \\
+  Naja - das Thema "Weltkirche" muss ich noch genauer aufarbeiten und besser präsentieren.
+    - CLOSING NOTE [2018-06-02 Sa 15:53] \\
+      Die Stunde in der 4A am Mittwoch war mies! Ich wurde mit "Grüß Gott, der Fux (sic)! Scheiß Reli!" begrüßt. Niemand meldete sich - eh klar. Es tat schon weh, auch wenn ich es nicht allzu persönlich nehmen will.
+    :END:
+
+<2023-05-28 So> Pfingsten
+
+**** Kompetenzbeschreibung
+[[#B3]] Gelehrte und gelebte Bezugsreligion - Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
+[[#B3_KB2]] Die Schüler können das vielfältige Wirken des Heiligen Geistes entdecken und charakterisieren. 
+
+**** AB / UH
+[[#B3_AB2]] Biblische Symbolik für den Hl. Geist
+
+**** Wiederholung
+
+
+**** Erarbeitung
+Geschichlticher Hintergrund: Geo-Epoche DVD über das Hl. Land
+
+Kurzfilm:
+[[https://www.planet-schule.de/sf/filme-online.php?film=9372&reihe=1281][Akram und die Mauer im Meer – Filme online – Planet Schule – Schulfernsehen multimedial des SWR und des WDR]]
+Material dazu:
+[[https://www.planet-schule.de/wissenspool/akram-und-die-mauer-im-meer/inhalt/unterricht.html][Unterricht | Inhalt | Akram und die Mauer im Meer | Wissenspool]]
+
+**** Hefteintrag
+
+
+*** TODO [SW39] Pfingstereignis
+DEADLINE: <2023-06-05 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Pfingsten
+:ID:       04_SW39
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-06-07 Di 07:20]
+- State "DONE"       from "TODO"       [2021-06-15 Di 07:14]
+- State "DONE"       from "TODO"       [2020-06-06 Sa 11:36]
+    - CLOSING NOTE [2018-06-12 Di 08:21] \\
+      Die Schüler - auch in der 4A - haben toll mitgearbeitet.
+    - Note taken on [2018-06-06 Mi 17:11] \\
+      Bis jetzt klappt das Arbeiten in den drei vierten Klassen ganz gut. Was mich schon ziemlich bei den Schülern irritiert, ist ihre geringe Fähigkeit des sinnerfassenden Lesens. Die Schüler machen sich kaum Mühe, an sich simple Arbeitsanweisungen zu verstehen (zu wollen).
+    :END:
+
+**** Kompetenzbeschreibung
+[[#B3]] Gelehrte und gelebte Bezugsreligion - Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
+[[#B3_KB2]] Die Schüler können das vielfältige Wirken des Heiligen Geistes entdecken und charakterisieren. 
+
+**** AB / UH
+[[#B3_UH2]] Pfingstereignis
+
+**** Wiederholung
+kkkkk
+
+**** Erarbeitung
+[[https://www.youcat.org/de/credopedia/minicat/pfingsten/]]
+
+#+CAPTION: Pfingsten
+#+NAME:   fig:SED-HR4049
+[[./images/Minicat-Cover-7.jpg]]
+
+
+**** Hefteintrag
+
+
+*** TODO [SW40] Vielfalt der Charismen / Ängste überwinden und Begabungen leben
+DEADLINE: <2023-06-12 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Charismen Begabungen
+:ID:       04_SW40
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-06-16 Do 22:32]
+- State "DONE"       from "TODO"       [2021-06-20 So 13:29]
+- State "DONE"       from "TODO"       [2020-06-14 So 10:44]
+    - CLOSING NOTE [2018-06-18 Mo 10:26] \\
+      Die Schülern meckern recht über den Film ... aber: dumme Actionfilme können sie zuhause anschauen. In Les Miserables geht es um die Frage "Barmherzigkeit / Gerechtigkeit" (u.a.); oder: welchen Preis bin ich bereit zu zahlen, um meine Mitmenschen zu retten?
+    :END:
+
+**** Kompetenzbeschreibung
+[[#B3]] Gelehrte und gelebte Bezugsreligion - Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
+[[#B3_KB2]] Die Schüler können das vielfältige Wirken des Heiligen Geistes entdecken und charakterisieren. 
+
+**** AB / UH
+[[#B3_AB2]] Vielfalt der Charismen
+[[#B3_UH2]] Ängste überwinden und Begabungen leben
+
+**** Wiederholung
+
+
+**** Erarbeitung
+
+
+**** Hefteintrag
+
+
+*** TODO [SW41] Christen handeln nach seiner Weisung
+DEADLINE: <2023-06-19 Mo>
+:PROPERTIES:
+:CUSTOM_ID: WWJD
+:ID:       04_SW41
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-06-24 Fr 23:18]
+- State "DONE"       from "TODO"       [2021-06-28 Mo 00:23]
+- State "DONE"       from "TODO"       [2020-06-21 So 10:37]
+    - CLOSING NOTE [2018-06-24 So 21:12] \\
+      War gut ...
+    :END:
+
+**** Kompetenzbeschreibung
+[[#B3]] Gelehrte und gelebte Bezugsreligion - Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
+[[#B3_KB2]] Die Schüler können das vielfältige Wirken des Heiligen Geistes entdecken und charakterisieren. 
+
+**** AB / UH
+[[#B3_AB2]] Vielfalt der Charismen
+[[#B3_UH2]] Ängste überwinden und Begabungen leben
+
+**** Wiederholung
+
+
+**** Erarbeitung
+Hm, welches Thema könnte ich wählen? Eine Stunde, für die 4A. Bibel? Ethik? Rückblick auf vier Jahre Religion? Was nehme ich mit - für mein Leben?
+
+[[https://www.br.de/radio/bayern2/sendungen/radiowissen/geschichte/martin-luther-king-dossier-100.html]]
+
+Arbeitsblätter zum Thema "Martin Luther King":
+[[/home/matthias/NMS_Golling/Propheten/]]
+
+**** Hefteintrag
+
+
+*** TODO [SW42] Christen schöpfen Kraft aus dem Gebet / Compassion Gebet
+DEADLINE: <2023-06-26 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Compassion Gebet
+:ID:       04_SW42
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-07-05 Di 09:49]
+- State "DONE"       from "TODO"       [2022-07-01 Fr 20:28]
+- State "DONE"       from "TODO"       [2021-07-05 Mo 07:18]
+- State "DONE"       from "TODO"       [2020-06-29 Mo 09:46]
+    - CLOSING NOTE [2018-06-26 Di 10:15] \\
+      Mit der 4A hatte ich am Dienstag (06/26/2018; erste Stunde) die letzte Religionsstunde. Die Schüler haben sich mit einem Applaus bei mir bedankt, das tat gut. Die 4C sehe ich morgen Mittwoch (06/27/2018; erste Stunde) zum letzten Mal. Ob ich mich der 4B am Freitag verabschieden kann?
+    :END:
+
+**** Kompetenzbeschreibung
+[[#B4]] Gelehrte und gelebte Bezugsreligion - Kirchliche Grundvollzüge kennen und religiös-spirituelle Ausdrucksformen gestalten können
+[[#B4_KB1]] Die Schüler können die Firmung als Befähigung und Beauftragung zum Mitwirken an den Grundvollzügen der Kirche erläutern. 
+
+**** AB / UH
+[[#B4_UH1]] Gebet und Compassion
+
+
+**** Wiederholung
+
+
+**** Erarbeitung
+zeichnen / singen / ...
+
+persönliche Bibelstelle (Bibel schenken?)
+
+[[http://www.k-l-j.de/bibelstelle.htm]]
+("Bibelstelle ziehen" generiert eine Bibelstelle.)
+
+usb-stick mit "meinen Lieblingssongs"?
+
+**** Hefteintrag
+
+
+*** TODO [SW43] Schulschluss / Gottesdienst
+DEADLINE: <2023-07-03 Mo>
+:PROPERTIES:
+:CUSTOM_ID: Schulschluss
+:ID:       04_SW43
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2022-07-04 Mo 23:12]
+- State "DONE"       from "TODO"       [2021-07-09 Fr 08:39]
+- State "DONE"       from "TODO"       [2020-07-07 Di 12:03]
+:END:
+
+
+* Kompetenzbereiche und Kompetenzdimensionen
+
+** Kompetenzmodell und -bereiche
+Das Kompetenzmodell für den katholischen Religionsunterricht beinhaltet schulstufenübergreifend drei inhaltsbezogene Kompetenzbereiche und fünf handlungsorientierte Kompetenzdimensionen. Kompetenzbereiche sind inhaltlich geprägte nähere Umschreibungen von Sachgebieten, in denen religiöse  Kompetenzen erworben werden. Sie werden durch je zwei Leitkompetenzen konkretisiert:
+
+**** A Menschen und ihre Lebensorientierungen
+:PROPERTIES:
+:CUSTOM_ID: A
+:ID:       ad67e93a-16ee-4140-bde3-48d128f72003
+:END:
+***** A1 Beziehung verantwortungsvoll gestalten können – zu sich selbst, zu anderen, zur Schöpfung
+:PROPERTIES:
+:CUSTOM_ID: A1
+:ID:       cb7d26ee-c001-4769-9d3b-25efd9eb1fb6
+:END:
+****** Kompetenzbeschreibung:
+:PROPERTIES:
+:CUSTOM_ID: A1_KB1
+:ID:       1cfd37af-88e0-4712-9d42-cfe1bc93c9d5
+:END:
+Die Schüler können die Bedeutung eines Einsatzes für ein gerechtes Zusammenleben erkennen und konkrete Handlungsoptionen entwickeln. 
+
+****** Anwendungsbereiche
+:PROPERTIES:
+:CUSTOM_ID: A1_AB1
+:ID:       14961d3d-c15d-4747-8ca5-f630e5825bef
+:END:
+ - (Biblische) Propheten und Prophetinnen, [[#Bibel Propheten]] [[#Moderne Propheten]]
+ - Chancen- und Verteilungsgerechtigkeit 
+
+****** Unterrichtshinweise
+:PROPERTIES:
+:CUSTOM_ID: A1_UH1
+:ID:       7b74684d-3d33-4fd1-a543-f5a2d311004c
+:END:
+ - Zivilcourage,
+ - Friede,
+ - Gewaltfreiheit,
+ - Menschenrechte, [[#Menschenrechte]]
+ - nachhaltige Entwicklungsziele der UNO [[#UNO]]
+ - (un-)gerechte Wirtschaftsmodelle [[#Arbeit_Gerechtigkeit]]
+
+
+ 
+****** Kompetenzbeschreibungen
+:PROPERTIES:
+:ID:       8777b77d-cce7-48b4-9b0c-fa0eb74027b1
+:CUSTOM_ID: A1_KB2
+:END:
+Die Schüler können das Verhältnis von geltenden Normen und persönlichen Gewissensentscheidungen analysieren und anhand von Beispielen diskutieren. 
+
+****** Anwendungsbereiche
+:PROPERTIES:
+:ID:       de75133f-56eb-4129-8b89-66be05c7b0b0
+:CUSTOM_ID: A1_AB2
+:END:
+Bildung des eigenen Gewissens 
+
+****** Unterrichtshinweise
+:PROPERTIES:
+:ID:       7ecfb539-2ed9-4073-897e-ddaad44f8fcd
+:CUSTOM_ID: A1_UH2
+:END:
+ - Orientierungskriterien bei Entscheidungen, [[#Entscheidungen]]
+ - Gruppendruck, [[#Gruppendruck]]
+ - sexualethische Fragestellungen,
+ - Gesetzesauslegung Jesu (z. B. Sabbatgebot) [[#Sabbatgebot]]
+
+   
+***** A2 Sich mit den großen Fragen der Menschen auseinandersetzen können
+:PROPERTIES:
+:CUSTOM_ID: A2
+:ID:       dbb88755-07b4-41ab-acf8-340bdb801e28
+:ARCHIVE_TIME: 2021-09-10 Fr 17:32
+:ARCHIVE_FILE: ~/org/04_Golling.org
+:ARCHIVE_OLPATH: Kompetenzbereiche und Kompetenzdimensionen/Kompetenzmodell und -bereiche/A Menschen und ihre Lebensorientierungen
+:ARCHIVE_CATEGORY: 04_Golling
+:ARCHIVE_ITAGS: hide
+:END:
+****** Kompetenzbeschreibungen
+:PROPERTIES:
+:CUSTOM_ID: A2_KB1
+:ID:       c6a11f83-7141-46b4-9394-f33d9e433871
+:END:
+Die Schüler können Perspektiven für ihr Leben entwickeln und Zukunftspläne entwerfen. 
+
+****** Anwendungsbereiche
+:PROPERTIES:
+:CUSTOM_ID: A2_AB1
+:ID:       0d1f2e35-a1cb-46a6-8b1a-c0a22ebdbf58
+:END:
+
+****** Unterrichtshinweise
+:PROPERTIES:
+:CUSTOM_ID: A2_UH1
+:ID:       2b37efff-74cf-4fcb-8be4-dcc0da73040a
+:END:
+ - Sehnsüchte und Lebensträume, [[#Jesus Quelle des Lebens]]
+ - persönliche und berufliche Ziele, [[#Berufung]] [[#Sinn der Arbeit]]
+ - Utopien und Dystopien
+ - Einführung in die Philosophie [[#Einführung Philosophie]] [[#Philosophie 2]]
+
+
+ 
+****** Kompetenzbeschreibungen
+:PROPERTIES:
+:ID:       9ae56f4a-2585-4f12-a10f-8577722b0b0c
+:CUSTOM_ID: A2_KB2
+:END:
+Die Schüler können die über den Tod hinausgehende christliche Hoffnung beschreiben. 
+
+****** Anwendungsbereiche
+:PROPERTIES:
+:ID:       8716faa9-eed0-46aa-9533-a112ad6efa83
+:CUSTOM_ID: A2_AB2
+:END:
+ - Biblisch-hermeneutische Kompetenz: eschatologische Bilder; Erlösungsglaube [[#Apokalypse]]
+
+****** Unterrichtshinweise
+:PROPERTIES:
+:ID:       39c699c0-be13-4a35-b023-2a39a8b1cace
+:CUSTOM_ID: A2_UH2
+:END:
+
+
+**** B Gelehrte und gelebte Bezugsreligion
+:PROPERTIES:
+:CUSTOM_ID: A1_AB1
+:ID:       a6533a59-ae26-4205-9ed2-ede4afde8380
+:END:
+***** B3 Grundlagen und Leitmotive des christlichen Glaubens kennen und für das eigene Leben deuten können
+:PROPERTIES:
+:CUSTOM_ID: B3
+:ID:       deec55c1-64f2-4553-880b-2cc980c3febe
+:END:
+****** Kompetenzbeschreibungen
+:PROPERTIES:
+:CUSTOM_ID: B3_KB1
+:ID:       19520774-5868-45c5-b485-56ab047c3301
+:END:
+Die Schüler können Leiden, Sterben und Auferstehung Jesu Christi als Hoffnungsbild für Menschen reflektieren. 
+
+****** Anwendungsbereiche
+:PROPERTIES:
+:CUSTOM_ID: B3_AB1
+:ID:       ee053a90-11c2-41d7-ad23-dc6a8e4648e5
+:END:
+
+****** Unterrichtshinweise
+:PROPERTIES:
+:CUSTOM_ID: B3_UH1
+:ID:       b24af8be-4ba0-4763-b861-02a47777bb27
+:END:
+ - Erfahrungen von Scheitern und Neubeginn, [[#Scheitern Neubeginn]]
+ - Passionsgeschichte und Osterevangelium, [[#Passionsgeschichte]] [[#Osterevangelium]] [[#Jesus ist auferstanden]]
+ - Bedeutung des Kreuzes, [[#Kreuzweg]]
+ - österlicher Glaube als christliche Lebenshaltung [[#ewiges Leben]]
+
+   
+****** Kompetenzbeschreibungen
+:PROPERTIES:
+:CUSTOM_ID: B3_KB2
+:ID:       6b799913-c2bd-42e7-a0dd-5bcf603a9bd0
+:END:
+Die Schüler können das vielfältige Wirken des Heiligen Geistes entdecken und charakterisieren. 
+
+****** Anwendungsbereiche
+:PROPERTIES:
+:CUSTOM_ID: B3_AB2
+:ID:       98567417-91c4-436e-ab5c-632ab26e45cb
+:END:
+ - Biblische Symbolik für den Geist Gottes, [[#Symbole Hl. Geist]]
+ - Vielfalt der Charismen [[#Charismen Begabungen]]
+
+****** Unterrichtshinweise
+:PROPERTIES:
+:CUSTOM_ID: B3_UH2
+:ID:       f70b2a63-1f6e-4017-9d12-e84cf5770dee
+:END:
+ - Pfingstereignis (Apg 2), [[#Pfingsten]]
+ - Ängste überwinden und Begabungen leben [[#Charismen Begabungen]] [[#WWJD]]
+
+
+***** B4 Kirchliche Grundvollzüge kennen und religiös-spirituelle Ausdrucksformen gestalten können
+:PROPERTIES:
+:CUSTOM_ID: B4
+:ID:       b132c38f-4ac5-4b06-a360-6b03dcf24ca7
+:END:
+****** Kompetenzbeschreibungen
+:PROPERTIES:
+:CUSTOM_ID: B4_KB1
+:ID:       c10aceaa-4e69-4b96-85f0-44f26ffe29af
+:END:
+Die Schüler können die Firmung als Befähigung und Beauftragung zum Mitwirken an den Grundvollzügen der Kirche erläutern. 
+
+
+****** Anwendungsbereiche
+:PROPERTIES:
+:CUSTOM_ID: B4_AB1
+:ID:       6fa59e0d-d0d5-46ff-85fe-a97c87bf1c92
+:END:
+Verkündigung – Liturgie – Diakonie - Gemeinschaft [[#Grundvollzüge Kirche]]
+
+
+****** Unterrichtshinweise
+:PROPERTIES:
+:CUSTOM_ID: B4_UH1
+:ID:       e5c3460b-3a60-4963-ac2c-081c15cc3c9d
+:END:
+ - Sakrament: Firmung – Entscheidung zur (Nicht-)Teilhabe;
+ - Möglichkeiten des Mitwirkens junger Menschen in der Kirche,
+ - Compassion [[#Compassion Gebet]]
+
+
+   
+****** Kompetenzbeschreibungen
+:PROPERTIES:
+:CUSTOM_ID: B4_KB2
+:ID:       467426d7-9999-415b-8c4f-a06e703aa06f
+:END:
+
+
+****** Anwendungsbereiche
+:PROPERTIES:
+:CUSTOM_ID: B4_AB2
+:ID:       4bc8287e-0e3a-4a80-a267-a5c8f4b75243
+:END:
+
+
+****** Unterrichtshinweise
+:PROPERTIES:
+:CUSTOM_ID: B4_UH2
+:ID:       238b1339-4a6b-4737-84bb-03f6af587857
+:END:
+
+
+**** C Religiöse und weltanschauliche Vielfalt in Gesellschaft und Kultur 
+:PROPERTIES:
+:CUSTOM_ID: C
+:ID:       424c486b-eb3b-445e-8f89-ea7a237ca305
+:END:
+***** C5 Medien, Kunst und Kultur im Kontext religiöser Weltwahrnehmung interpretieren, beurteilen und gestalten können
+:PROPERTIES:
+:CUSTOM_ID: C5
+:ID:       047a6ac4-28bd-4b1a-ae05-4f2dcf656d98
+:END:
+****** Kompetenzbeschreibungen
+:PROPERTIES:
+:CUSTOM_ID: C5_KB1
+:ID:       bfe411bb-0f0c-4f19-b0ed-0f081b66307b
+:END:
+Die Schüler können Kunst als Möglichkeit religiöser Weltdeutung verstehen und ihr eigenes kreatives Potential entfalten. 
+[[#GLaube_Kunst]]
+
+****** Anwendungsbereiche
+:PROPERTIES:
+:CUSTOM_ID: C5_AB1
+:ID:       b9bc6ae2-3955-4779-82a3-679f162c7086
+:END:
+
+****** Unterrichtshinweise
+:PROPERTIES:
+:ID:       8a6d6eb5-c86d-4332-8525-1bc5cd5e6b41
+:CUSTOM_ID: C5_UH1
+:END:
+ - Begegnung mit Kunst im religiösen Kontext, [[#Glaube_Kunst]] [[#Kunst Auferstehung]]
+ - verschiedene Formen und Funktionen von Kunst, [[#Formen Kunst]]
+ - Religion in der Populärkultur [[#Glaube_POP]]
+
+
+****** Kompetenzbeschreibungen
+:PROPERTIES:
+:CUSTOM_ID: C5_KB2
+:ID:       0dd441aa-f152-4c33-ba4a-334a3e224b87
+:END:
+
+****** Anwendungsbereiche
+:PROPERTIES:
+:CUSTOM_ID: C5_AB2
+:ID:       52bfeec8-a213-4314-bb8d-e84654647253
+:END:
+
+****** Unterrichtshinweise
+:PROPERTIES:
+:CUSTOM_ID: C5_UH2
+:ID:       3392d789-5838-44b2-930c-dc50207f772d
+:END:
+
+
+***** C6 Unterschiedlichen Lebensweisen und Glaubensformen reflexiv begegnen können
+:PROPERTIES:
+:CUSTOM_ID: C6
+:ID:       26987d80-8833-4106-9842-efe01e5dbad2
+:END:
+****** Kompetenzbeschreibungen
+:PROPERTIES:
+:CUSTOM_ID: C6_KB1
+:ID:       cecbcf92-831d-48f7-98ee-5ee8614a74bf
+:END:
+Die Schülerinnen und Schüler kennen Charakteristika asiatischer Glaubenstraditionen und können diese mit dem christlichen Glaubensverständnis vergleichen. 
+
+****** Anwendungsbereiche
+:PROPERTIES:
+:CUSTOM_ID: C6_AB1
+:ID:       42297147-05ed-4e35-a8ae-63fcfe01f874
+:END:
+
+****** Unterrichtshinweise
+:PROPERTIES:
+:CUSTOM_ID: C6_UH1
+:ID:       1d0eeb49-dbcd-45c1-9b12-f454885c4cac
+:END:
+ - Elementare Inhalte und religiöse Praxis in Hinduismus, Buddhismus und chinesischen Religionen: Anfänge, prägende Persönlichkeiten, Meditation, Erlösungswege [[#Hinduismus]] [[#Buddhismus]] [[#Chinesische Traditionen]]
+
+   
+****** Kompetenzbeschreibungen
+:PROPERTIES:
+:CUSTOM_ID: C6_KB2
+:ID:       0971b876-a524-453b-a101-b6c28586443e
+:END:
+Die Schülerinnen und Schüler können lebensförderliche und lebensfeindliche Aspekte in Religionen und Weltanschauungen benennen und beurteilen. 
+
+****** Anwendungsbereiche
+:PROPERTIES:
+:CUSTOM_ID: C6_AB2
+:ID:       e1949525-53a0-4165-9486-63033a965016
+:END:
+
+****** Unterrichtshinweise
+:PROPERTIES:
+:CUSTOM_ID: C6_UH2
+:ID:       7ab1da03-0f2d-4e2d-96fd-7b92b5bfd91b
+:END:
+ - Lebensgestaltung in Freiheit, [[#Leben Freiheit]]
+ - Befähigung zur oder Verlust der Eigenverantwortung,
+ - Gewaltstrukturen in Ideologien [[#Ideologien Fundamentalismus]]
+ - Missbrauch von Religion und Autorität,
+ - Fundamentalismus [[#Ideologien Fundamentalismus]]
+
+
+
+**** Kompetenzdimensionen 
+beschreiben die Handlungsmodi der Aneignung der Kompetenzen und finden sich in den Kompetenzbeschreibungen wieder:
+ - Wahrnehmen und beschreiben religiös bedeutsamer Phänomene (Perzeption)
+ - Verstehen und deuten religiös bedeutsamer Sprache und Glaubenszeugnisse (Kognition)
+ - Gestalten und handeln in religiösen und ethischen Fragen (Performanz)
+ - Kommunizieren und (be)urteilen von Überzeugungen mit religiösen Argumenten und im Dialog (Interaktion)
+ - Teilhaben und entscheiden – begründete (Nicht-)Teilhabe an religiöser und gesellschaftlicher Praxis (Partizipation)
+
+*** Zentrale fachliche Konzepte
+Folgende Leitideen, strukturiert in Begriffspaaren, kennzeichnen die zentralen fachlichen Konzepte des katholischen Religionsunterrichts. 
+
+**** Lebensrealitäten und Transzendenz
+Christlicher Glaube versteht den Menschen in seiner Bio-grafie  und  in  seinen  Lebensbezügen  als  transzendentes  Wesen und erschließt Wege der Sinnfindung durch Trans-zendenzbezug.
+
+**** Gottesliebe und Menschenliebe
+Das  jüdisch-christliche  Gottes- und Menschenbild steht für eine lebensbejahende Grundhaltung zu sich selbst, den Mitmenschen und der Welt. Das  Beziehungsgeschehen zwischen Gott und Mensch und der Menschen untereinander ist getragen von der bedingungslosen Liebe Gottes. Unabhängig von Fähigkeiten und erbrachten Leistungen ist der Mensch in seiner Würde unantastbar.
+
+**** Jesus der Christus
+Das  Christentum orientiert sich am Reden und Handeln Jesu, das die vergebende und heilende Zuwendung Gottes zu den Menschen zeigt. In seiner den Tod überwindenden Auferstehung kann in der Brüchigkeit des Lebens Versöhnung und Erlösung erfahrbar werden. 
+
+**** Freiheit und Offenbarung
+Quellen der Offenbarung sind die Bibel und die kirchliche Tradition in ihrer Vielfalt. Auf der darin grundgelegten Freiheit des Menschen basiert die Achtung der Religionsfreiheit jeder Schülerin und jedes Schülers.
+
+**** Zusage und Verantwortung
+Ausgehend vom Verdankt-Sein allen Lebens wissen sich Christinnen und Christen beauftragt und befähigt Verantwortung in der Welt zu übernehmen. Dabei leiten sie Hoffnungsperspektiven, die auf biblischen Zusagen aufbauen.
+
+*** Didaktische Grundsätze
+In der Mitte des Religionsunterrichts stehen die Schülerin-nen und Schüler, ihr Leben, ihr Glaube.
+
+Für den katholischen Religionsunterricht sind das Prinzip der Korrelation, das die wechselseitige Erschließung von Glauben und Leben meint, und das Prinzip des „Ganzen im Fragment“, das sich der Elementarisierung und dem exemplarischen Lernen verpflichtet weiß, zentral. 
+
+Die didaktisch reflektierte Setzung von Schwerpunkten ist besonders bei einstündig geführten Klassen und im schul-stufenübergreifenden Unterricht notwendig.
+
+Bezugnehmend auf das Kompetenzmodell sind folgende religionsdidaktische Grundsätze hervorzuheben:
+
+*Fokus: Religiöse Sprache und Symbole*
+Die Alphabetisierung in religiöser Sprache umfasst das Erkennen und Verstehen religiöser Sprachformen und das Erschließen vielfältiger Symbole in ihrer Mehrdimensionalität. Eine individuelle und kreative Ausdrucksfähigkeit wird gefördert.
+
+*Fokus: Philosophieren und Theologisieren*
+Der Religionsunterricht fördert die Fragekompetenz, initiiert Suchbewegungen im religiös-existenziellen Kontext und schult die Argumentationsfähigkeit. Er verpflichtet nicht auf einen Glauben, vielmehr fördert er die Entscheidungsfähigkeit der Schülerinnen und Schüler in religiösen und ethischen Belangen.
+
+*Fokus: Actio und Contemplatio*
+Performatives Lernen zielt ab auf das reflektierende Erleben religiöser Vollzüge und ethischen Handelns. Die Erfahrungsbezogenheit des Religionsunterrichts wird in Gebet, Stille und Meditation sowie in gemeinsamen Feiern, Aktionen und Projekten erlebbar.
+
+*Fokus: Beziehung und Resonanz*
+Im Beziehungsgeschehen zwischen Gott, Mensch und Welt angelegt, umfasst schulische religiöse Bildung eine biografische und narrative Komponente und vollzieht sich besonders im Lernen voneinander, miteinander und über-einander. 
+
+*** Hinweise zum Lehrplan
+Der Lehrplan für katholische Religion umfasst drei Kompetenzbereiche (A, B und C). Jeder dieser Bereiche wird jahrgangsübergreifend durch je zwei Leitkompetenzen (1-6) konkretisiert. 
+
+**** KB – Kompetenzbeschreibungen
+Den Leitkompetenzen sind schulstufenspezifische Kompetenzbeschreibungen (KB) zugeordnet, die angeben, welche Kompetenzen von allen Schülerinnen und Schülern erworben werden sollen. In jedem Schuljahr sind alle im Kompetenzmodell genannten Kompetenzdimensionen (Perzeption, Kognition, Performanz, Interaktion, Partizipation) zu berücksichtigen.Der Lehrplan für katholische Religion umfasst drei Kompetenzbereiche (A, B und C).Jeder dieser Bereiche wird jahrgangsübergreifend durch je zwei Leitkompetenzen (1-6) konkretisiert. 
+
+**** AB – Anwendungsbereiche
+Inhaltlich konkretisiert werden die Kompetenzbeschreibungen durch Anwendungsbereiche (AB). Diese benennen repräsentative Beispiele für Themenfelder, anhand derer Kompetenzen erworben werden. Wo solche benannt sind, sind sie verbindlich zu behandeln. Weitere Anwendungsbereiche können frei gewählt werden.Wo keine Anwendungsbereiche benannt sind, ist es Aufgabe der Lehrerinnen und Lehrer Anwendungsbereiche zu definieren.
+
+**** UH – Unterrichtshinweise
+Unterrichtshinweise (UH) sind als Ergänzungen zu den Fachlehrplänen gedacht. Sie geben Empfehlungen für die Umsetzung des kompetenzorientierten Lehrplans und unterstützen bei der Unterrichtsplanung.
+
+
+** TODO Themengebiete (nach Kirchenjahr, Heilige Schrift, ...)
+
+
+** TODO Ziele formulieren
+  
+
+** TODO Methoden entwickeln
+Ich hatte gerade am Dienstag ein Gespräch mit der 4a: ihr passives und lethargisches Verhalten ist manchmal ein Zeichen, dass der Unterricht für sie zu fad und uninteressant ist. Sie wollen die Themen lieber selbständig erarbeiten. Ihre Vorschläge:
+
+ - Gruppenarbeit
+ - Tablets / Neue Medien: kahoot!, LearningApps, ...
+ - Arbeitsblätter
+ - Filme + Diskussion
+ - (Impuls)Texte + Austausch
+ - Spiele
+ - Malen
+
+Für das aktuelle Thema "Sehnsucht, Glück, Drogen" erarbeiten die Schüler in Kleingruppen selbständig eine bestimmte Droge / Sucht.
+
+ - Nadine, Noemi, Heidi, Selina: Heroin, Haschisch
+ - Hannah, Yvonne, Vanessa, Lea: Rauchen / Nikotin
+ - Leo, Manuel, Andreas, Michael: Spielsucht
+ - Julia, Viktoria: Alkhohol
+ - Ivan, Martin: Marihuana
+ - Roman, Florian: Esssucht, Magersucht (?)
+
+Jede Gruppe soll die Giftstoffe, ihre Wirkung, Anzeichen der Abhängigkeit, etc herausrabeiten, aber ebenso Möglichkeiten des Entzugs, Heilung aufzeigen.
+
+
+* TODO Ablauf einer Stunde
+
+ 1. Andocken an letzte Stunde / Whg / Aufzeichnungen
+ 2. Hinführung zu neuem Thema
+ 3. Erarbeitung durch Schüler
+ 4. Verinnerlichung / Heftarbeit
+ 5. "Was habt ihr gelernt?" - offene Fragen.
+
+
+   
+* TODO Checkbox [0/8] 
+
+  - [ ] Klasse?
+  - [ ] Ideen
+  - [ ] Themen
+  - [ ] Ziele
+  - [ ] Methoden
+  - [ ] Materialen
+  - [ ] Gitarre
+  - [ ] Ablauf der Stunde
+
+
+* TODO Aufzeichnungen / Mitarbeit
+In diesem org.-file zeichne ich die Mitarbeit der einzelnen Schüler auf.
+
+
+* Footnotes
+
+[fn:6] [[http://www.treffpunkt-umweltethik.de/umweltethische-modelle/anthropozentrisch.htm]] 
+
+[fn:5] [[https://www.bibelwerk.de/home/sonntagslesungen]]
+
+[fn:4] [[https://www.theoceancleanup.com/]]
+
+[fn:3] [[https://www.youtube.com/watch?v=xsjOl4URtco]]
+
+[fn:2] Quelle: KOGLER, Franz (Hrsg) (2009): Herders Neues Bibellexikon. - Univ.-Prof. Dr. Matthias STUBHANN: Fasten (S. 202-203). Freiburg: Herder Verlag.
+
+[fn:1] Die Youtube-Geschichte eher auslassen: "How to have"  verweist auf pädophile Videos. YouTube ist nach einem Guardian-Artikel dabei, dieser Sache nachzugehen.

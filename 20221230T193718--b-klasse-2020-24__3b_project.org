@@ -10,6 +10,9 @@
 nehme an, die Kids werden nicht besonders aufnahmefähig sein.
 Film (max 1 UE)
 
+Bergpredigt
+Vater Unser?
+
 * 3b 08:40-09:30
 <%%(org-class 2022 9 15 2023 7 6 4 23)>
 
@@ -190,3 +193,9 @@ Für dieses capture: C-1 C-n-c (das fügt das "date at point" der agenda ein) ..
 
 Das war eigentlich eine gute Stunde; ein paar Burschen in der ersten Reihe wurden unruhig sobald ich ihnen den Rücken zukehrte. Ich hab sie darauf hingewiesen. Leon kann ich am Mo+Do zu Manuela schicken (was er gar nicht mag).
 
+* Jahresplanung
+
+| Datum           | Stoff                              |   |
+|-----------------+------------------------------------+---|
+| <2023-09-11 Mo> | [[denote:20230619T210001][[SW01] Mit jedem redest du anders]]  |   |
+| <2023-09-18 Mo> | [[denote:20230619T210120][[SW02] Autorität und Verantwortung]] |   |

@@ -42,20 +42,18 @@ Aura-Ana-Maria hat mindestens dreimal in diesem Semester gefehlt. Habe KV verst�
 * Schülerliste
 
 #+Name: 2021-students
-| First          | Last        | Klasse | Name               | Note | Mitarbeit    | Heft | LZK |
-|----------------+-------------+--------+--------------------+------+--------------+------+-----|
-| Selina         | Heis        | 1a     | [[SelinaHeis][Selina Heis]]        |      | kommt nicht  |      |     |
-| Edmund         | Atherton    | 1b     | [[EdmundAtherton][Edmund Atherton]]    |      |              |      |     |
-| Lucia          | Cervenakova | 1DFK   | [[LuciaCervenakova][Lucia Cervenakova]]  |      |              |      |     |
-| Sabrina        | Richterova  | 2a     | [[SabrinaRichterova][Sabrina Richterova]] |      |              |      |     |
-| Robin          | Fasl        | 2a     | [[RobinFasl][Robin Fasl]]         |      |              |      |     |
-| Viktor         | Werber      | 2a     | [[ViktorWerber][Viktor Werber]]      |      |              |      |     |
-| Mate           | Meszaros    | 2a     | [[MateMeszaros][Mate Meszaros]]      |      |              |      |     |
-| Isabella       | Holub       | 2b     | [[IsabellaHolub][Isabella Holub]]     |      | Schulwechsel |      |     |
-| Sarah          | Ascic       | 2b     | [[SarahAscic][Sarah Ascic]]        |      |              |      |     |
-| Aura-Ana-Maria | Filan       | 2b     | [[AuraFilan][Aura Filan]]         |      | kommt nicht  |      |     |
-| Lukas          | Gady        | 4b     | [[LukasGady][Lukas Gady]]         |      | kommt nicht  |      |     | 
-|----------------+-------------+--------+--------------------+------+--------------+------+-----|
+| First          | Last       | Klasse | Name               | Note | Mitarbeit    | Heft | LZK |
+|----------------+------------+--------+--------------------+------+--------------+------+-----|
+| Edmund         | Atherton   | 1b     | [[EdmundAtherton][Edmund Atherton]]    |    1 |              |      |     |
+| Sabrina        | Richterova | 2a     | [[SabrinaRichterova][Sabrina Richterova]] |    1 |              |      |     |
+| Robin          | Fasl       | 2a     | [[RobinFasl][Robin Fasl]]         |    1 |              |      |     |
+| Viktor         | Werber     | 2a     | [[ViktorWerber][Viktor Werber]]      |    1 |              |      |     |
+| Mate           | Meszaros   | 2a     | [[MateMeszaros][Mate Meszaros]]      |    1 |              |      |     |
+| Isabella       | Holub      | 2b     | [[IsabellaHolub][Isabella Holub]]     |      | Schulwechsel |      |     |
+| Sarah          | Ascic      | 2b     | [[SarahAscic][Sarah Ascic]]        |    1 |              |      |     |
+| Aura-Ana-Maria | Filan      | 2b     | [[AuraFilan][Aura Filan]]         |    3 | kommt nicht  |      |     |
+| Lukas          | Gady       | 4b     | [[LukasGady][Lukas Gady]]         |    1 | kommt nicht  |      |     |
+|----------------+------------+--------+--------------------+------+--------------+------+-----|
 #+TBLFM: $5=vmean($6..$>)
 #+TBLFM: $4='(concat "[[" $1 $2 "][" $1 " " $2 "]]")
 #+TBLFM: $4='(identity remote(2021-22-Mitarbeit,@@#$4))
@@ -65,41 +63,37 @@ print('* Mitarbeit')
 for student in table:
     first = student[0]
     last = student[1]
-    email = first + '.' + last + '@ms-parsch.at'
-    print('** ' + first + last + '\n\n')
+    email = first + '.' + last + '@golling.schule'
+    print('** ' + first + ' ' + last + '\n\n')  
 #+END_SRC
 
 #+RESULTS:
-
 * Mitarbeit
-** SelinaHeis
+** First Last
 
 
-** EdmundAtherton
+** Edmund Atherton
 
 
-** LuciaCervenakova
+** Sabrina Richterova
 
 
-** SabrinaRichterova
+** Robin Fasl
 
 
-** RobinFasl
+** Viktor Werber
 
 
-** ViktorWerber
+** Mate Meszaros
 
 
-** MateMeszaros
+** Isabella Holub
 
 
-** IsabellaHolub
+** Sarah Ascic
 
 
-** SarahAscic
-
-
-** AuraFilan
+** Aura-Ana-Maria Filan
 
 *** [[denote:20221226T153748][Christenverfolgung]]
 PERIOD: [2023-02-28 Di 15:25]
@@ -140,8 +134,22 @@ Falls jemand nachfragt, dokumentiere ich hier die vielen unentschuldigten Fehlst
 
 Ich hab - so denke ich - mindestens dreimal den KV der 2b verständigt. Erst beim dritten Mal und durch Intervention des Direktors hat der KV geantwortet. Somit habe ich meine "Schuldigkeit" getan. Alles weitere (Anzeige) liegt in den Händen des KVs und der Schulleitung. Eine Feststellungsprüfung macht eigentlich keinen Sinn, da die Schülerin massiv fehlt und gar keine Chance hat, die Prüfung zu bestehen.
 
+*** Wieder zurück...
+LESSON: [2023-06-20 Di 15:25]
+TOPIC: 
 
-** LukasGady
+Überraschung: heute war Aura DOCH hier. Ich hab ihr die Situation dargelegt: über 220 Fehlstunden, davon über 170 unentschuldigt. Ihr droht ganz sicher eine Anzeige wegen Verletzung der Schulpflicht (Geldstrafen von 110-440 Euros; auch Freiheitsstrafen sind möglich.) Aura tat ganz erstaunt, wie viele es sind. So als wüsste sie es nicht...
+
+
+
+** Lukas Gady
+
+
+
+
+
+
+
 
 
 

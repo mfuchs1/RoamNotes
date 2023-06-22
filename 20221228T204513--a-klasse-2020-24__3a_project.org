@@ -4,7 +4,6 @@
 #+identifier: 20221228T204513
 #+CATEGORY: golling
 
-[[file:~/NMS_Golling/Lehrplan_2023.pdf]]
 
 * 3a 11:35-12:25
 <%%(org-class 2022 9 12 2023 7 3 1 22)>
@@ -17,10 +16,7 @@ Wiederholung...
 * 3a 09:35-10:25
 <%%(org-class 2022 9 14 2023 7 5 3 21)>
 
-Habe meine Stunde Magdalena P. geborgt für die D-Schularbeit in der 3a.
 
-Gleichnisse vom Reich Gottes. Ist Basileia Gleichnis? Siehe Einleitung von:
-[[file:~/NMS_Golling/Bibel_NT/Reich Gottes Gleichnisse/Handreichung Gleichnisse.pdf]]
 
 
 * Reflexionen
@@ -137,4 +133,9 @@ for student in table:
 ** Lena Zorzi
 
 
+* Jahresplanung
 
+| Datum           | Stoff                              |   |
+|-----------------+------------------------------------+---|
+| <2023-09-11 Mo> | [[denote:20230619T210001][[SW01] Mit jedem redest du anders]]  |   |
+| <2023-09-18 Mo> | [[denote:20230619T210120][[SW02] Autorität und Verantwortung]] |   |

@@ -21,6 +21,7 @@ Buch der Offenbarung
 
 Eschatologie: Die Letzten Dinge (Tod, persönliches Gericht, die Wiederkunft Christi)
 
+
 * Reflexionen
 
 ** [[denote:20230403T101428][Auferstehung]]
@@ -124,11 +125,12 @@ for student in table:
 ** Kristina Zivkovic
 
 
+* Jahresplanung
 
+| Datum           | Stoff                              |   |
+|-----------------+------------------------------------+---|
+| <2023-09-11 Mo> | [[denote:20230619T210001][[SW01] Mit jedem redest du anders]]  |   |
+| <2023-09-18 Mo> | [[denote:20230619T210120][[SW02] Autorität und Verantwortung]] |   |
 
-
-
-
-* Reflexionen                                                   :Reflexionen:
 
 

@@ -143,3 +143,9 @@ for student in table:
 ** Veit Zierfuß
 
 
+* Jahresplanung
+
+| Datum           | Stoff                                                     |   |
+|-----------------+-----------------------------------------------------------+---|
+| <2023-09-11 Mo> | [[denote:20230619T073700][[SW01] Jahresstoff / ich stehe in den Schuhen des Anderen]] |   |
+| <2023-09-18 Mo> | [[denote:20230619T074010][[SW02] Eine Gemeinschaft, die uns stärkt]]                  |   |

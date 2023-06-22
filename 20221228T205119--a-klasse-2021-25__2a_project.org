@@ -4,7 +4,6 @@
 #+identifier: 20221228T205119
 #+CATEGORY: golling
 
-[[file:~/NMS_Golling/Lehrplan_2023.pdf]]
 
 * 2a 07:45-08:35
 <%%(org-class 2022 9 12 2023 7 3 1 22)>
@@ -141,5 +140,13 @@ Heute habe ich die gesamte Klasse schreiben lassen; das werde ich nächste Stund
 Ich frage mich: "Woher kommt diese Unart, den Lehrer nicht mal ausreden zu lassen; nebenbei Privatgespräche abzuhalten; ...? Woher lernen die Kinder dieses Verhalten?" Meist schauen sich die Kinder dies von Erwachsenen oder Film, TV, etc ab.
 
 ** ein Eintrag
+
+
+* Jahresplanung
+
+| Schulwoche | Stoff                              |   |
+|------------+------------------------------------+---|
+|         01 | [[denote:20230619T210001][[SW01] Mit jedem redest du anders]]  |   |
+|         02 | [[denote:20230619T210120][[SW02] Autorität und Verantwortung]] |   |
 
 

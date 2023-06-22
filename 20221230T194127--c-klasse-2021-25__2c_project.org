@@ -7,26 +7,11 @@
 * 2c 07:45-08:35
 <%%(org-class 2022 9 13 2023 7 4 2)>
 
-** Judentum
-Film - Faszination Glaube - Judentum
-
-Religionsbuch 6. Kapitel
-
-Lösungen der Arbeitsaufträge, Inhalt, Bräuche, ...:
-[[denote:20230521T094148][Judentum]]
-
-Bibelstudium / Videos zu den jüdischen Festen (ORF TVThek über das Laubhüttenfest)
-
-LZK zum Thema Judentum: Tablets mitnehmen falls die Schüler kein Handy oder keinen Laptop mitnehmen.
-
-Wiederholung der jüdischen Feste; Bezug zu christlichen Festen wie Ostern und Pfingsten.
-Kahoot ...
 
 * 2c 08:40-09:30
 <%%(org-class 2022 9 16 2023 7 7 5 23)>
 
-Lösungen der Arbeitsaufträge, Inhalt, Bräuche, ...:
-[[denote:20230521T094148][Judentum]]
+
 
 * Reflexionen
 
@@ -143,5 +128,10 @@ Ich frage mich: was ist daran echt, was ist gespielt, wo ist Faulheit versteckt,
 ** Yaren Yavuzer
 
 
+* Jahresplanung
 
+| Datum           | Stoff                              |   |
+|-----------------+------------------------------------+---|
+| <2023-09-11 Mo> | [[denote:20230619T210001][[SW01] Mit jedem redest du anders]]  |   |
+| <2023-09-18 Mo> | [[denote:20230619T210120][[SW02] Autorität und Verantwortung]] |   |
 
