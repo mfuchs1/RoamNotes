@@ -1,0 +1,5 @@
+#+title:      [SW09] Ein großes Versprechen
+#+date:       [2023-06-24 Sa 19:34]
+#+filetags:   :03:sw09:
+#+identifier: 20230624T193417
+

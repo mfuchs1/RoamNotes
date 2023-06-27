@@ -3,6 +3,8 @@
 #+filetags:   :01:sw01:
 #+identifier: 20230619T073700
 
+[[denote:20230621T073313][01 Golling]]
+
 * Kompetenzbeschreibung
 [[#A1]] Menschen und ihre Lebensorientierungen: Beziehung verantwortungsvoll gestalten können – zu sich selbst, zu anderen, zur Schöpfung
 [[#A1_KB1]] Die Schülerinnen und Schüler können sich in ihrer gottgeschenkten Einzigartigkeit wahrnehmen und wissen um die Bedeutung von (Selbst-) Vertrauen für ein gelingendes (Zusammen-)Leben.

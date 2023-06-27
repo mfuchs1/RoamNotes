@@ -1,0 +1,5 @@
+#+title:      [SW07] Übungsteil Kap 1
+#+date:       [2023-06-23 Fr 23:06]
+#+filetags:   :03:sw07:
+#+identifier: 20230623T230647
+

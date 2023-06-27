@@ -19,35 +19,6 @@ Vater Unser?
 Bergpredigt (Auszüge)
 Gleichnisse/Handreichung
 
-* Reflexionen
-
-** [[denote:20221226T113745][Dialog zw Theologie und Naturwissenschaften]]
-PERIOD: [2023-02-02 Do 08:40]
-
-Diese Stunde war echt grausam - fast die gesamte Klasse, va die Burschen haben mich komplett ingnoriert. Als ich "endlich" die Stimme erhob, haben sich ein paar der Burschen diebisch darüber gefreut (ist das nicht dämonisch?). Die Stunden in dieser Klasse lassen mich jedesmal erschöpft zurück.
-
-Mit Manuela Gruber haben wir darüber gesprochen. Die Kinder werden pro Jahrgang nicht braver, eher schlimmer. Ich muss auf mich schauen - so viele Lehrer geben erschöpft und ausgebrannt auf. Deshalb: schau auf dich, damit dir dies nicht passiert. An manchen Tagen kann Manuela mir helfen, sie wird dann draußen sitzen und jene Schüler abfangen, die ich hinausschicke.
-
-** Reaktion von Florian Steiner's Mutter über SchoolFox
-Verhalten von Florian hat sich eben nicht verbessert.
-Und daher ist auch die Note (3) gerechtfertigt.
-Alle Burschen - auch Florian - haben verstanden, dass sie sich ihre Note durch ein besseres Verhalten und bessere Mitarbeit im Unterricht verbessern können.
-
-** Gespräch mit Fr. Krallinger
-Reli-Note ist peinlich für Familie. Ich hab meinen Standpunkt dargelegt.
-[[denote:20230310T173200][Gespräch Krallinger]]
-
-
-** [[denote:20230323T100317][[SW28] Was ist das Kreuz für dich?]]
-PERIOD: [2023-03-23 Do 08:40]
-
-Das war heute emotional sehr anstrengend. Die erste Hälfte der Stunde war "buisness as usual": extrem störendes Verhalten der Schüler, teilweise bereits "Lehrer ignorieren". Ich hab in der Folge die Schüler "ignoriert", da schreien nix nutzt. Nach einer sehr emotionalen Rede meinerseits war der Rest der Stunde wesentlich besser.
-
-Thema: Sinn und Bedeutung der Arbeit für den Menschen - In D: Arbeitsbedingungen in den großen Textilfirmen; BO Tage der Schüler; Pleite von zwei Modefirmen; Pleite dreier großen Banken (SVB, noch eine andere US Bank, Credit Suisse, ...)
-
-Maxi ändert sich gar nicht - scheinbar ist die Reli Note Zuhause völlig egal. Schaut sich seine Mama überhaupt das Zeugnis an? Thomas und Lukas ändern sich zum Besseren.
-
-
 * 3B [KV Erwin Essl]
 
 #+Name: 2021-students
@@ -122,7 +93,7 @@ Hat trotz Aufforderung und SchoolFox Nachricht sein Heft nicht in Ordnung gebrac
 
 Erneute Nachricht an die Eltern - was noch?
 
-* Link zur UE: [[file:~/RoamNotes/main/03_Golling.org::#Herbstferien3][file:~/RoamNotes/main/03_Golling.org::#Herbstferien3]]
+*** Link zur UE: [[file:~/RoamNotes/main/03_Golling.org::#Herbstferien3][file:~/RoamNotes/main/03_Golling.org::#Herbstferien3]]
 
 Hm, unkonzentriert ... wie damit umgehen?
 
@@ -184,7 +155,36 @@ beweist sich nicht
 
 
 
-* Reflexionen                                                 :Reflexionen:
+* Reflexionen
+
+** [[denote:20221226T113745][Dialog zw Theologie und Naturwissenschaften]]
+PERIOD: [2023-02-02 Do 08:40]
+
+Diese Stunde war echt grausam - fast die gesamte Klasse, va die Burschen haben mich komplett ingnoriert. Als ich "endlich" die Stimme erhob, haben sich ein paar der Burschen diebisch darüber gefreut (ist das nicht dämonisch?). Die Stunden in dieser Klasse lassen mich jedesmal erschöpft zurück.
+
+Mit Manuela Gruber haben wir darüber gesprochen. Die Kinder werden pro Jahrgang nicht braver, eher schlimmer. Ich muss auf mich schauen - so viele Lehrer geben erschöpft und ausgebrannt auf. Deshalb: schau auf dich, damit dir dies nicht passiert. An manchen Tagen kann Manuela mir helfen, sie wird dann draußen sitzen und jene Schüler abfangen, die ich hinausschicke.
+
+** Reaktion von Florian Steiner's Mutter über SchoolFox
+Verhalten von Florian hat sich eben nicht verbessert.
+Und daher ist auch die Note (3) gerechtfertigt.
+Alle Burschen - auch Florian - haben verstanden, dass sie sich ihre Note durch ein besseres Verhalten und bessere Mitarbeit im Unterricht verbessern können.
+
+** Gespräch mit Fr. Krallinger
+Reli-Note ist peinlich für Familie. Ich hab meinen Standpunkt dargelegt.
+[[denote:20230310T173200][Gespräch Krallinger]]
+
+
+** [[denote:20230323T100317][[SW28] Was ist das Kreuz für dich?]]
+PERIOD: [2023-03-23 Do 08:40]
+
+Das war heute emotional sehr anstrengend. Die erste Hälfte der Stunde war "buisness as usual": extrem störendes Verhalten der Schüler, teilweise bereits "Lehrer ignorieren". Ich hab in der Folge die Schüler "ignoriert", da schreien nix nutzt. Nach einer sehr emotionalen Rede meinerseits war der Rest der Stunde wesentlich besser.
+
+Thema: Sinn und Bedeutung der Arbeit für den Menschen - In D: Arbeitsbedingungen in den großen Textilfirmen; BO Tage der Schüler; Pleite von zwei Modefirmen; Pleite dreier großen Banken (SVB, noch eine andere US Bank, Credit Suisse, ...)
+
+Maxi ändert sich gar nicht - scheinbar ist die Reli Note Zuhause völlig egal. Schaut sich seine Mama überhaupt das Zeugnis an? Thomas und Lukas ändern sich zum Besseren.
+
+
+* Reflexionen                                                 
 
 ** [[id:03_SW01][[SW01] Wer möchte ich sein – wer bin ich?]]
 Datum: <2022-09-15 Do 08:40>
@@ -193,9 +193,3 @@ Für dieses capture: C-1 C-n-c (das fügt das "date at point" der agenda ein) ..
 
 Das war eigentlich eine gute Stunde; ein paar Burschen in der ersten Reihe wurden unruhig sobald ich ihnen den Rücken zukehrte. Ich hab sie darauf hingewiesen. Leon kann ich am Mo+Do zu Manuela schicken (was er gar nicht mag).
 
-* Jahresplanung
-
-| Datum           | Stoff                              |   |
-|-----------------+------------------------------------+---|
-| <2023-09-11 Mo> | [[denote:20230619T210001][[SW01] Mit jedem redest du anders]]  |   |
-| <2023-09-18 Mo> | [[denote:20230619T210120][[SW02] Autorität und Verantwortung]] |   |

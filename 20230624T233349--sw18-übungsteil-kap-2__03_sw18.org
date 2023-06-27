@@ -1,0 +1,5 @@
+#+title:      [SW18] Übungsteil Kap 2
+#+date:       [2023-06-24 Sa 23:33]
+#+filetags:   :03:sw18:
+#+identifier: 20230624T233349
+

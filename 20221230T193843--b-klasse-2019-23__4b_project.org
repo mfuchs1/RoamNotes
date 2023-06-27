@@ -4,7 +4,6 @@
 #+identifier: 20221230T193843
 #+CATEGORY: golling
 
-[[file:~/NMS_Golling/Lehrplan_2023.pdf]]
 
 * 4b 11:35-12:25
 <%%(org-class 2022 9 13 2023 7 4 2 19)>
@@ -21,15 +20,6 @@ Buch der Offenbarung
 
 Eschatologie: Die Letzten Dinge (Tod, persönliches Gericht, die Wiederkunft Christi)
 
-
-* Reflexionen
-
-** [[denote:20230403T101428][Auferstehung]]
-PERIOD: [2023-04-12 Mi 08:40]
-
-Was soll ich machen? Kaum ein Schüler nimmt meinen Arbeitsauftrag ernst? Während ich rede, hört kaum wer zu; ... scheint ihnen eher egal zu sein...
-
-Komme ich mit schlechten Noten? Soll ich den Schüler in der 4. Klasse die Reli-Note versauen, weil sie nix mehr tun?
 
 * 4B [KV: Christoph Rosner]
 
@@ -125,12 +115,11 @@ for student in table:
 ** Kristina Zivkovic
 
 
-* Jahresplanung
+* Reflexionen
 
-| Datum           | Stoff                              |   |
-|-----------------+------------------------------------+---|
-| <2023-09-11 Mo> | [[denote:20230619T210001][[SW01] Mit jedem redest du anders]]  |   |
-| <2023-09-18 Mo> | [[denote:20230619T210120][[SW02] Autorität und Verantwortung]] |   |
+** [[denote:20230403T101428][Auferstehung]]
+PERIOD: [2023-04-12 Mi 08:40]
 
+Was soll ich machen? Kaum ein Schüler nimmt meinen Arbeitsauftrag ernst? Während ich rede, hört kaum wer zu; ... scheint ihnen eher egal zu sein...
 
-
+Komme ich mit schlechten Noten? Soll ich den Schüler in der 4. Klasse die Reli-Note versauen, weil sie nix mehr tun?

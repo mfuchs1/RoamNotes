@@ -1,6 +1,6 @@
 #+title:      04 Golling
 #+date:       [2023-06-21 Mi 07:36]
-#+filetags:   :04:jahresplanung:
+#+filetags:   :04:plan:
 #+identifier: 20230621T073603
 
 * Unterrichtsvorbereitung

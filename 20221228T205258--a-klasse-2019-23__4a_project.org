@@ -22,16 +22,6 @@ Film "Cars 2" bis ...
 Bergpredigt Mt 5-7
 Jesus legt das Gesetz Mose aus.
 
-
-* Reflexionen
- 
-** Null Bock mehr!
-PERIOD: [2023-04-24 Mo 08:40]
-
-Ich mag nimmer - ich werde umsatteln - werde nimmer Lehrer sein. Hat null Zweck. Suche ein Gespräch mit meinen Verantwortlichen. Den Schülern interessiert es einen Dreck; was oll ich mich abrackern und fertig machen für nix? Sicher nicht!
-
-Mir wird wohl nix anderes übrig bleiben, als die Klasse noch bis zum Ende des Schuljahres zu ertragen. Da ist Hopfen und Malz verloren, nix mehr zu amchen. Außer: ich gehe einen harten Kurs und knalle ihnen regelmäßig eine LZK hin.
-
 * 4A [KV Barbara Essl]
 
 #+Name: 2021-students
@@ -121,9 +111,11 @@ for student in table:
 ** Melanie Tikvic
 
 
-* Jahresplanung
+* Reflexionen
+ 
+** Null Bock mehr!
+PERIOD: [2023-04-24 Mo 08:40]
 
-| Datum           | Stoff                              |   |
-|-----------------+------------------------------------+---|
-| <2023-09-11 Mo> | [[denote:20230619T210001][[SW01] Mit jedem redest du anders]]  |   |
-| <2023-09-18 Mo> | [[denote:20230619T210120][[SW02] Autorität und Verantwortung]] |   |
+Ich mag nimmer - ich werde umsatteln - werde nimmer Lehrer sein. Hat null Zweck. Suche ein Gespräch mit meinen Verantwortlichen. Den Schülern interessiert es einen Dreck; was oll ich mich abrackern und fertig machen für nix? Sicher nicht!
+
+Mir wird wohl nix anderes übrig bleiben, als die Klasse noch bis zum Ende des Schuljahres zu ertragen. Da ist Hopfen und Malz verloren, nix mehr zu amchen. Außer: ich gehe einen harten Kurs und knalle ihnen regelmäßig eine LZK hin.

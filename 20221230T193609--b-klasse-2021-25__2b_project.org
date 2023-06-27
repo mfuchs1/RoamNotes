@@ -170,10 +170,3 @@ for student in table:
 
 ** Samuel Wittner
 
-
-* Jahresplanung
-
-| Datum           | Stoff                              |   |
-|-----------------+------------------------------------+---|
-| <2023-09-11 Mo> | [[denote:20230619T210001][[SW01] Mit jedem redest du anders]]  |   |
-| <2023-09-18 Mo> | [[denote:20230619T210120][[SW02] Autorität und Verantwortung]] |   |

@@ -7,6 +7,8 @@
 * 2c 07:45-08:35
 <%%(org-class 2022 9 13 2023 7 4 2)>
 
+Wiederholung des Jahresstoffes
+Eventuell Bibel lesen?
 
 * 2c 08:40-09:30
 <%%(org-class 2022 9 16 2023 7 7 5 23)>
@@ -21,7 +23,6 @@ PERIOD: [2023-02-03 Fr 08:40]
 Die Kinder arbeiten sehr konzentriert, ach, wie ist das entspannend. - Es gibt sie eben doch, die schönen Stunden.
 
 * 2C [KV Daniela Schwaighofer]
-
 
 #+Name: 2021-students
 | First      | Last           | Name                 | Note | Heft | Mitarbeit | LZK |
@@ -127,11 +128,4 @@ Ich frage mich: was ist daran echt, was ist gespielt, wo ist Faulheit versteckt,
 
 ** Yaren Yavuzer
 
-
-* Jahresplanung
-
-| Datum           | Stoff                              |   |
-|-----------------+------------------------------------+---|
-| <2023-09-11 Mo> | [[denote:20230619T210001][[SW01] Mit jedem redest du anders]]  |   |
-| <2023-09-18 Mo> | [[denote:20230619T210120][[SW02] Autorität und Verantwortung]] |   |
 

@@ -18,28 +18,6 @@ Jesus legt das Gesetz Mose aus
 
 YouCat?
 
-* Reflexionen                                                   
-** [[id:03_SW01][[SW01] Wer möchte ich sein – wer bin ich?]]
-Datum: <2022-09-16 Fr 09:35>
-Ausgehend vom Satz "Der Mensch wird am Du zum Ich" entwickelte sich eine spannende Diskussion, Gespräch, ...
-
-
-** [[denote:20221226T113745][Dialog zw Theologie und Naturwissenschaften]]
-CREATED: [2023-01-27 Fr 07:45]
-Hannes (Lehrer) hat heute mindestens 15 Minuten meiner (unserer) Stunde in Anspruch genommen. Wäre netter gewesen, wenn er mich vorher fragen würde. Ich hätte ihm gerne und ohne Probleme die nötige Zeit gegeben.
-
-
-** [[denote:20221226T113745][Dialog zw Theologie und Naturwissenschaften]]
-PERIOD: [2023-02-10 Fr 07:45]
-Slatko, Maid und ? haben diese Stunde massiv gestört; eigentlich dürften sie nicht dabei sein. Kommen sie, weil sonst niemand auf sie aufpassen will? Ich habe ihnen verboten, in Zukunft in meinen Unterricht zu kommen.
-
-** Bibel-Fußball
-PERIOD: [2023-04-28 Fr 07:45]
-Das war interessant: in allen anderen Klassen kam das Fußball-Bibel-Quiz super an. Nur hier nicht - das kann ja passieren. Pro Gruppe gibt es einen Sprecher; in der 3c spielten Burschen gegen Mädchen. Bei den Burschen war dies Sebastian; trotzdem rief bei fast jeder Frage immer Alexander falsche Antworten dazwischen - und die übrigen Burschen wiesen ihn nicht zurück. Eigentlich boykottierten das Spiel - was tun? Ein "Minus" als Mitarbeit?
-
-
-
-
 * 3C [KV Gertraud Ellmaier]
 
 #+Name: 2021-students
@@ -144,14 +122,21 @@ for student in table:
 ** Celine Zuchristian
 
 
-* Jahresplanung
-
-| Datum           | Stoff                              |   |
-|-----------------+------------------------------------+---|
-| <2023-09-11 Mo> | [[denote:20230619T210001][[SW01] Mit jedem redest du anders]]  |   |
-| <2023-09-18 Mo> | [[denote:20230619T210120][[SW02] Autorität und Verantwortung]] |   |
+* Reflexionen                                                   
+** [[id:03_SW01][[SW01] Wer möchte ich sein – wer bin ich?]]
+Datum: <2022-09-16 Fr 09:35>
+Ausgehend vom Satz "Der Mensch wird am Du zum Ich" entwickelte sich eine spannende Diskussion, Gespräch, ...
 
 
+** [[denote:20221226T113745][Dialog zw Theologie und Naturwissenschaften]]
+CREATED: [2023-01-27 Fr 07:45]
+Hannes (Lehrer) hat heute mindestens 15 Minuten meiner (unserer) Stunde in Anspruch genommen. Wäre netter gewesen, wenn er mich vorher fragen würde. Ich hätte ihm gerne und ohne Probleme die nötige Zeit gegeben.
 
 
+** [[denote:20221226T113745][Dialog zw Theologie und Naturwissenschaften]]
+PERIOD: [2023-02-10 Fr 07:45]
+Slatko, Maid und ? haben diese Stunde massiv gestört; eigentlich dürften sie nicht dabei sein. Kommen sie, weil sonst niemand auf sie aufpassen will? Ich habe ihnen verboten, in Zukunft in meinen Unterricht zu kommen.
 
+** Bibel-Fußball
+PERIOD: [2023-04-28 Fr 07:45]
+Das war interessant: in allen anderen Klassen kam das Fußball-Bibel-Quiz super an. Nur hier nicht - das kann ja passieren. Pro Gruppe gibt es einen Sprecher; in der 3c spielten Burschen gegen Mädchen. Bei den Burschen war dies Sebastian; trotzdem rief bei fast jeder Frage immer Alexander falsche Antworten dazwischen - und die übrigen Burschen wiesen ihn nicht zurück. Eigentlich boykottierten das Spiel - was tun? Ein "Minus" als Mitarbeit?

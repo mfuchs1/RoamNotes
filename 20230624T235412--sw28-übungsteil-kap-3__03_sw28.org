@@ -1,0 +1,5 @@
+#+title:      [SW28] Übungsteil Kap 3
+#+date:       [2023-06-24 Sa 23:54]
+#+filetags:   :03:sw28:
+#+identifier: 20230624T235412
+

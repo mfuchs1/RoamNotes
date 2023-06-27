@@ -1,0 +1,5 @@
+#+title:      [SW29] Besondere Tage - Mein ganz besonderer Tag
+#+date:       [2023-06-24 Sa 23:55]
+#+filetags:   :03:sw29:
+#+identifier: 20230624T235530
+

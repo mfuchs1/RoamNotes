@@ -3,6 +3,8 @@
 #+filetags:   :jahresplanung:
 #+identifier: 20230622T002636
 
+* Gedanken
+
 Wie soll ich die Jahresplanung einbinden?
 
 Auf der einen Seite habe ich die 10 Dateien für jede Klasse. Darin finde ich:
@@ -15,9 +17,9 @@ Zuerst habe ich gedacht, dass ich die Jahresplanung in der org-agenda aufscheine
 
 Ausgehend von der Klassen-Datei soll ich einfachen Zugang zur Jahresplanung haben.
 
-Außerdem soll die Jahresplanung nicht "in Stein gemeiselt" sein. Das heißt: eine Liste mit Datum / Schulwoche und dem Stoff (Titel der Datei). Die Dateien sollte ich leicht verschieben können. Wenn nun die SW im Datei-Namen vorkommt, wird es komisch. Oder doch nicht? Dies zu ändern, ist jetzt sehr aufwendig. Dieses Beispiel unterhalb sieht ja nicht so schlecht aus. Ich könnte in jeder Spalte eine Zeile verschieben...
+Außerdem soll die Jahresplanung nicht "in Stein gemeiselt" sein. Das heißt: eine Liste mit Datum / Schulwoche und dem Stoff (Titel der Datei). Die Dateien sollte ich leicht verschieben können. Wenn nun die SW im Datei-Namen vorkommt, wird es komisch. Oder doch nicht? Dies zu ändern, ist jetzt sehr aufwendig. Dieses Beispiel unterhalb sieht ja nicht so schlecht aus. 
 
-Die Frage: eine Datei pro Schulstufe? Oder diese Planung in jedes Klassen-Datei?
+Die Frage: eine Datei pro Schulstufe? Das würde wieder bedeuten: Ich müsste Links von den Klassen-Dateien zur Jahresplanung erstellen. Oder diese Planung in jede Klassen-Datei? Kann man mit einer Funtkion diese Tabelle auslesen und in die Klassendateien einfügen? 
 
 * Jahresplannug 01
 

@@ -140,13 +140,3 @@ Heute habe ich die gesamte Klasse schreiben lassen; das werde ich nächste Stund
 Ich frage mich: "Woher kommt diese Unart, den Lehrer nicht mal ausreden zu lassen; nebenbei Privatgespräche abzuhalten; ...? Woher lernen die Kinder dieses Verhalten?" Meist schauen sich die Kinder dies von Erwachsenen oder Film, TV, etc ab.
 
 ** ein Eintrag
-
-
-* Jahresplanung
-
-| Schulwoche | Stoff                              |   |
-|------------+------------------------------------+---|
-|         01 | [[denote:20230619T210001][[SW01] Mit jedem redest du anders]]  |   |
-|         02 | [[denote:20230619T210120][[SW02] Autorität und Verantwortung]] |   |
-
-

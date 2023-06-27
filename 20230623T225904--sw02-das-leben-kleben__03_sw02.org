@@ -1,0 +1,5 @@
+#+title:      [SW02] Das Leben kleben
+#+date:       [2023-06-23 Fr 22:59]
+#+filetags:   :03:sw02:
+#+identifier: 20230623T225904
+
