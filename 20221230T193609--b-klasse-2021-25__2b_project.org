@@ -21,28 +21,8 @@ Letzte Seite im RB; ...
 * 2b 07:45-08:35
 <%%(org-class 2022 9 15 2023 7 6 4 23)>
 
-Lösungen der Arbeitsaufträge, Inhalt, Bräuche, ...:
-[[denote:20230521T094148][Judentum]]
+Spielestunde...
 
-Videos aus der ORF-TVThek
-Parallelen zwischen christlichen und jüdischen Festen
-
-| jüdisch  | Bedeutung              | christlich  | Bedeutung              |
-|----------+------------------------+-------------+------------------------|
-| Pessach  | Exodus aus Ägypten     | Ostern      | Auferstehung Jesu      |
-|          |                        |             |                        |
-| Schawuot | Gabe der Tora          | Pfingsten   | Gabe des Hl. Geistes   |
-|          | 10 Gebote am Sinai     |             | Liebesgebot            |
-|          |                        |             |                        |
-| Chanukka | 8 (9) armiger Leuchter |             |                        |
-|          | Wunder mit Öllampe bei |             |                        |
-|          | Wiedereinweihung       |             |                        |
-|          | des Tempels            |             |                        |
-|          |                        | Weihnachten | Geburt Jesu, Gott wird |
-|          |                        |             | Mensch                 |
-
-Sakramente Wiederholung; letzte Seiten Religionsbuch.
-(Film ?)
 
 * Supplierstunde 2b PH 11:35-12:25
 <%%(org-class 2023 1 25 2023 7 5 3 12)>

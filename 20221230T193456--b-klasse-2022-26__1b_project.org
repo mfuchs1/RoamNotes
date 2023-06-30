@@ -15,11 +15,10 @@ Film über Burschen in Palästina / Meer ...
 * 1b 11:35-12:25
 <%%(org-class 2022 9 16 2023 7 7 5 23)>
 
-Film über Jesus / Judentum / ...?
-
+Spielestunde
 
 * Supplierstunde 1b BU (Hannes Lacher) 10:40-11:30
-<%%(org-class 2023 3 8 2023 7 5 3 25)>
+<%%(org-class 2023 3 8 2023 7 5 3 26)>
 aktueller Stoff: Säugetiere / Fische.
 Buch S. 104ff
 
@@ -32,14 +31,14 @@ Arbeitsheft S. 54
 | First     | Last       | Name               | Note | Heft | Mitarbeit | LZK | Stören |
 |-----------+------------+--------------------+------+------+-----------+-----+--------|
 | Lorenz    | Aschauer   | [[Lorenz Aschauer][Lorenz Aschauer]]    |    2 |      |           |     |        |
-| Stefan    | Atanasov   | [[Stefan Atanasov][Stefan Atanasov]]    |    2 |      |           |     |        |
+| Stefan    | Atanasov   | [[Stefan Atanasov][Stefan Atanasov]]    |    2 |      |           |     | xxx    |
 | Lela      | Dent       | [[Lela Dent][Lela Dent]]          |    1 |      |           |     |        |
 | Emma      | Gonschorek | [[Emma Gonschorek][Emma Gonschorek]]    |    1 |      |           |     |        |
 | Marie     | Hofer      | [[Marie Hofer][Marie Hofer]]        |    1 |      |           |     |        |
 | Hubert    | Keinrad    | [[Hubert Keinrad][Hubert Keinrad]]     |    1 |      |           |     |        |
 | Nena      | Langenfeld | [[Nena Langenfeld][Nena Langenfeld]]    |    1 |      |           |     |        |
-| Bernhard  | Neureiter  | [[Bernhard Neureiter][Bernhard Neureiter]] |    2 |      |           |     |        |
-| Lucian    | Rainer     | [[Lucian Rainer][Lucian Rainer]]      |      |      |           |     | xxx    |
+| Bernhard  | Neureiter  | [[Bernhard Neureiter][Bernhard Neureiter]] |    2 |      |           |     | xxx    |
+| Lucian    | Rainer     | [[Lucian Rainer][Lucian Rainer]]      |    2 |      |           |     | xxx    |
 | Manuel    | Reiter     | [[Manuel Reiter][Manuel Reiter]]      |    1 |      |           |     |        |
 | Emma      | Riebler    | [[Emma Riebler][Emma Riebler]]       |    1 |      |           |     |        |
 | Annika    | Seiwald    | [[Annika Seiwald][Annika Seiwald]]     |    1 |      |           |     |        |

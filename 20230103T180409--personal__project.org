@@ -230,3 +230,6 @@ osm-link:
 ** Heilige Messe 
 <2023-06-18 So 19:00>--<2023-06-18 So 20:00>
 
+** Leopold Ausflug Festung / Salzburg (KG)
+<2023-06-29 Do 14:30>--<2023-06-29 Do 17:00>
+
