@@ -7,18 +7,18 @@
 
 
 * 1b 10:40-11:30
-<%%(org-class 2022 9 13 2023 7 4 2)>
+<%%(org-class 2022 9 13 2023 7 4 2 27)>
 
 Film über Burschen in Palästina / Meer ...
 
 
 * 1b 11:35-12:25
-<%%(org-class 2022 9 16 2023 7 7 5 23)>
+<%%(org-class 2022 9 16 2023 7 7 5 27)>
 
 Spielestunde
 
 * Supplierstunde 1b BU (Hannes Lacher) 10:40-11:30
-<%%(org-class 2023 3 8 2023 7 5 3 26)>
+<%%(org-class 2023 3 8 2023 7 5 3 27)>
 aktueller Stoff: Säugetiere / Fische.
 Buch S. 104ff
 

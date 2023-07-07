@@ -5,13 +5,13 @@
 #+CATEGORY: golling
 
 * 2c 07:45-08:35
-<%%(org-class 2022 9 13 2023 7 4 2)>
+<%%(org-class 2022 9 13 2023 7 4 2 27)>
 
 Wiederholung des Jahresstoffes
 Eventuell Bibel lesen?
 
 * 2c 08:40-09:30
-<%%(org-class 2022 9 16 2023 7 7 5 23)>
+<%%(org-class 2022 9 16 2023 7 7 5 27)>
 
 Spielestunde
 

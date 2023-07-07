@@ -186,4 +186,24 @@ es gibt eine dritte erste Klasse: Klassenbuchlisten ausdrucken
 
 Alle Fächer außer den Hauptfächern erhalten ein eBook (statt eBook+)
 
+** Probe Abschlussfeier
+<2023-07-04 Di 07:45>--<2023-07-04 Di 12:25>
+Tontechnik
+
+** Generalprobe Abschlussfeier
+<2023-07-05 Mi 07:45>--<2023-07-05 Mi 12:25>
+Tontechnik
+
+** Aufräumen
+<2023-07-07 Fr 07:45>--<2023-07-07 Fr 08:45>
+
+** Abschlusskonferenz
+<2023-07-07 Fr 09:00>--<2023-07-07 Fr 10:00>
+
+** Aufräumen, Gottesdienst (Lieder)
+<2023-07-03 Mo 07:45>--<2023-07-03 Mo 12:25>
+Feststellungsprüfung Vivienne (?)
+
+** TODO Lieder für Schulgottesdienst
+<2023-07-02 So 21:00>--<2023-07-02 So 22:00>
 

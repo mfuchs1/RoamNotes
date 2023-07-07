@@ -6,7 +6,7 @@
 
 
 * 3a 11:35-12:25
-<%%(org-class 2022 9 12 2023 7 3 1 22)>
+<%%(org-class 2022 9 12 2023 7 3 1 27)>
 
 Nehme an die Kids werden nicht besonders aufnahmefähig sein.
 Film? (sollte max über 2 UE gehen)
@@ -14,7 +14,7 @@ Film? (sollte max über 2 UE gehen)
 Wiederholung...
 
 * 3a 09:35-10:25
-<%%(org-class 2022 9 14 2023 7 5 3 21)>
+<%%(org-class 2022 9 14 2023 7 5 3 27)>
 
 
 

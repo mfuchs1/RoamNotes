@@ -6,7 +6,7 @@
 
 
 * 4b 11:35-12:25
-<%%(org-class 2022 9 13 2023 7 4 2 19)>
+<%%(org-class 2022 9 13 2023 7 4 2 27)>
 
 Dreifaltigkeitssonntag
 
@@ -14,7 +14,7 @@ YouCat über Dreifaltigkeit
 Kunst? Zeichnen?
 
 * 4b 08:40-09:30
-<%%(org-class 2022 9 14 2023 7 5 3 19)>
+<%%(org-class 2022 9 14 2023 7 5 3 27)>
 
 Buch der Offenbarung
 

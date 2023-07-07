@@ -6,7 +6,7 @@
 
 
 * 2b 10:40-11:30
-<%%(org-class 2022 9 12 2023 7 3 1 22)>
+<%%(org-class 2022 9 12 2023 7 3 1 27)>
 
 Judentum - Religionsbuch
 
@@ -19,13 +19,13 @@ Letzte Seite im RB; ...
 
 
 * 2b 07:45-08:35
-<%%(org-class 2022 9 15 2023 7 6 4 23)>
+<%%(org-class 2022 9 15 2023 7 6 4 27)>
 
 Spielestunde...
 
 
 * Supplierstunde 2b PH 11:35-12:25
-<%%(org-class 2023 1 25 2023 7 5 3 12)>
+<%%(org-class 2023 1 25 2023 7 5 3 27)>
 
 nächste Stunde (nach Ostern): *LZK* - gestern <2023-03-29 Mi 11:35-12:25> waren einige Schüler der Klasse ziemlich frech (Andreas + Augustin).
 

@@ -50,7 +50,7 @@
 <2023-02-26 So 17:00>--<2023-02-26 So 17:30>
 
 ** Leopold HipHop Tanzkurs SEAD 14:00-15:00
-<%%(org-class 2023 2 22 2023 7 5 3)>
+<%%(org-class 2023 2 22 2023 7 5 3 27)>
 Isabelle bringt Leo+Diana in den Kurs.
 Hol ich sie ab + bringe ich gleichzeitig Isabelle in die Arbeit?
 

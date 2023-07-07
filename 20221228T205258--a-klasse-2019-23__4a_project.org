@@ -5,7 +5,7 @@
 #+CATEGORY: golling
 
 * 4a 08:40-09:30
-<%%(org-class 2022 9 12 2023 7 3 1 22)>
+<%%(org-class 2022 9 12 2023 7 3 1 27)>
 
 Dreifaltigkeitssonntag
 
@@ -17,7 +17,7 @@ Film "Cars 2" bis ...
 
 
 * 4a 09:35-10:25
-<%%(org-class 2022 9 16 2023 7 7 5 23)>
+<%%(org-class 2022 9 16 2023 7 7 5 27)>
 
 Spielestunde.
 
