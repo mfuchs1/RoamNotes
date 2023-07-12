@@ -6,7 +6,7 @@
 
 * Jahresplanung
 
-** [[denote:20230619T210001][[SW01] Mit jedem redest du anders]]
+** [#A] [[denote:20230619T210001][[SW01] Mit jedem redest du anders]]
 
 ** [[denote:20230619T210120][[SW02] Autorität und Verantwortung]]
 

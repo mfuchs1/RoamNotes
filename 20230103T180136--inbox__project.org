@@ -51,8 +51,11 @@ Des weiteren hab ich org-agenda derart verbessert: nur jene Denote-files, die "p
 
 Ich hab ein wenig mit Hyperbole experimentiert - aber darin keinen Gewinn entdeckt. Außerdem ist das Paket riesig (an Speicherplatz: fast 1GB!). Also: wieder deinstalliert. Es kann für manche wirklich gut sein. Ich werde mich erst mit Denote und dem neuen Setup anfreunden, bevor ich Neues ausprobiere.
 
-* TODO Schulbücher bestellen
-DEADLINE: <2023-07-07 Fr 21:00>
+* DONE Schulbücher bestellen
+CLOSED: [2023-07-07 Fr 22:07] DEADLINE: <2023-07-07 Fr 21:00>
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-07-07 Fr 22:07]
+:END:
 
 - Manuela Gruber: siehe Liste
 - 3b: ein Schüler mehr

@@ -1,0 +1,257 @@
+#+title:      B Klasse 2021-25
+#+date:       [2022-12-30 Fr 19:36]
+#+filetags:   :3b:Project:
+#+identifier: 20221230T193609
+#+CATEGORY: golling
+
+
+* 2b 10:40-11:30
+<%%(org-class 2022 9 12 2023 7 3 1 27)>
+
+Judentum - Religionsbuch
+
+Lösungen der Arbeitsaufträge, Inhalt, Bräuche, ...:
+[[denote:20230521T094148][Judentum]]
+
+LZK über Judentum
+
+Letzte Seite im RB; ...
+
+
+* 2b 07:45-08:35
+<%%(org-class 2022 9 15 2023 7 6 4 27)>
+
+Spielestunde...
+
+
+* Supplierstunde 2b PH 11:35-12:25
+<%%(org-class 2023 1 25 2023 7 5 3 27)>
+
+nächste Stunde (nach Ostern): *LZK* - gestern <2023-03-29 Mi 11:35-12:25> waren einige Schüler der Klasse ziemlich frech (Andreas + Augustin).
+
+Buch S. 28: Arbeit in der Physik
+- Arbeit: Kraft wirkt auf einen Körper, dieser verändert seine Lage, seinen Ort, oder seine Form.
+
+- Hubarbeit, Reibungsarbeit, Verformungsarbeit, Beschleunigungsarbeit.
+
+- Formel: W = F * s [Einheit: 1 Joule (Newtonmeter) = 1 Newton * 1 m(eter)]
+
+- Leistung:
+  wie viel Arbeit pro Zeit
+
+  P = W / t [Einheit: 1 Watt = 1J pro Sekunde]
+
+  Z.B. Leistungsangaben bei Elektrogeräten, Autos, etc ...
+
+Video Harald Lesch über Energie
+Energieformen
+Rechenbeispiele
+
+Hebel, Kraftarm, Lastarm
+
+
+* 2B [KV Lena ]
+
+
+#+Name: 2021-students
+| First    | Last               | Name                     | Note | Mitarbeit | Heft | LZK |
+|----------+--------------------+--------------------------+------+-----------+------+-----|
+| Anja     | Breinlinger        | [[Anja Breinlinger][Anja Breinlinger]]         |      |           |      |     |
+| Dalya    | Durukan            | [[Dalya Durukan][Dalya Durukan]]            |      |           |      |     |
+| Azra     | Hant               | [[Azra Hant][Azra Hant]]                |      |           |      |     |
+| Hannah   | Hauser             | [[Hannah Hauser][Hannah Hauser]]            |      |           |      |     |
+| Matthias | Holler             | [[Matthias Holler][Matthias Holler]]          |      |           |      |     |
+| Andreas  | Hollweger          | [[Andreas Hollweger][Andreas Hollweger]]        |      |           | V    |     |
+| Jonas    | Jarnig             | [[Jonas Jarnig][Jonas Jarnig]]             |      |           |      |     |
+| Fabian   | Klöß               | [[Fabian Klöß][Fabian Klöß]]              |      |           |      |     |
+| Evelyn   | Nestler            | [[Evelyn Nestler][Evelyn Nestler]]           |      |           |      |     |
+| Julia    | Schlager-Weidinger | [[Julia Schlager-Weidinger][Julia Schlager-Weidinger]] |      |           |      |     |
+| Felix    | Schmegner          | [[Felix Schmegner][Felix Schmegner]]          |      |           |      |     |
+| Annika   | Schmitzberger      | [[Annika Schmitzberger][Annika Schmitzberger]]     |      |           |      |     |
+| Kristina | Sokic              | [[Kristina Sokic][Kristina Sokic]]           |      |           |      |     |
+| Augustin | Sommer             | [[Augustin Sommer][Augustin Sommer]]          |      |           |      |     |
+| Phillipp | Spagolla           | [[Phillipp Spagolla][Phillipp Spagolla]]        |      |           |      |     |
+| Emma     | Tikvic             | [[Emma Tikvic][Emma Tikvic]]              |      |           |      |     |
+| Selina   | Weiss              | [[Selina Weiss][Selina Weiss]]             |      |           |      |     |
+| Samuel   | Wittner            | [[Samuel Wittner][Samuel Wittner]]           |      |           | V    |     |
+#+TBLFM: $4=vmean($5..$>)
+#+TBLFM: $3='(concat "[[" $1 " " $2 "][" $1 " " $2 "]]")
+#+TBLFM: $5='(identity remote(2021-22-Mitarbeit,@@#$2))
+
+#+BEGIN_SRC python :var table=2021-students :results output raw
+  print('* Mitarbeit')
+  for student in table:
+      first = student[0]
+      last = student[1]
+      email = first + '.' + last + '@golling.schule'
+      print('** ' + first + ' ' + last + '')
+      print(':PROPERTIES:')
+      print(':EMAIL: ' '[[mailto: ' + first + ' ' + last + ' <' + email + '>]]')
+      print(':END: ')
+      print('\n\n')
+#+END_SRC
+
+#+RESULTS:
+* Mitarbeit
+
+#+Name: Mitarbeit
+| Name                     | Note | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|--------------------------+------+---+---+---+---+---+---+---+---+---+----|
+| [[Anja Breinlinger][Anja Breinlinger]]         |      |   |   |   |   |   |   |   |   |   |    |
+| [[Dalya Durukan][Dalya Durukan]]            |      |   |   |   |   |   |   |   |   |   |    |
+| [[Azra Hant][Azra Hant]]                |      |   |   |   |   |   |   |   |   |   |    |
+| [[Hannah Hauser][Hannah Hauser]]            |      |   |   |   |   |   |   |   |   |   |    |
+| [[Matthias Holler][Matthias Holler]]          |      |   |   |   |   |   |   |   |   |   |    |
+| [[Andreas Hollweger][Andreas Hollweger]]        |      |   |   |   |   |   |   |   |   |   |    |
+| [[Jonas Jarnig][Jonas Jarnig]]             |      |   |   |   |   |   |   |   |   |   |    |
+| [[Fabian Klöß][Fabian Klöß]]              |      |   |   |   |   |   |   |   |   |   |    |
+| [[Evelyn Nestler][Evelyn Nestler]]           |      |   |   |   |   |   |   |   |   |   |    |
+| [[Julia Schlager-Weidinger][Julia Schlager-Weidinger]] |      |   |   |   |   |   |   |   |   |   |    |
+| [[Felix Schmegner][Felix Schmegner]]          |      |   |   |   |   |   |   |   |   |   |    |
+| [[Annika Schmitzberger][Annika Schmitzberger]]     |      |   |   |   |   |   |   |   |   |   |    |
+| [[Kristina Sokic][Kristina Sokic]]           |      |   |   |   |   |   |   |   |   |   |    |
+| [[Augustin Sommer][Augustin Sommer]]          |      |   |   |   |   |   |   |   |   |   |    |
+| [[Phillipp Spagolla][Phillipp Spagolla]]        |      |   |   |   |   |   |   |   |   |   |    |
+| [[Emma Tikvic][Emma Tikvic]]              |      |   |   |   |   |   |   |   |   |   |    |
+| [[Selina Weiss][Selina Weiss]]             |      |   |   |   |   |   |   |   |   |   |    |
+| [[Samuel Wittner][Samuel Wittner]]           |      |   |   |   |   |   |   |   |   |   |    |
+#+TBLFM: $2=vmean($3..$>)
+#+TBLFM: $1='(identity remote(2021-students,@@#$3))
+
+
+** Anja Breinlinger
+:PROPERTIES:
+:EMAIL: [[mailto: Anja Breinlinger <Anja.Breinlinger@golling.schule>]]
+:END: 
+
+
+
+** Dalya Durukan
+:PROPERTIES:
+:EMAIL: [[mailto: Dalya Durukan <Dalya.Durukan@golling.schule>]]
+:END: 
+
+
+
+** Azra Hant
+:PROPERTIES:
+:EMAIL: [[mailto: Azra Hant <Azra.Hant@golling.schule>]]
+:END: 
+
+
+
+** Hannah Hauser
+:PROPERTIES:
+:EMAIL: [[mailto: Hannah Hauser <Hannah.Hauser@golling.schule>]]
+:END: 
+
+
+
+** Matthias Holler
+:PROPERTIES:
+:EMAIL: [[mailto: Matthias Holler <Matthias.Holler@golling.schule>]]
+:END: 
+
+
+
+** Andreas Hollweger
+:PROPERTIES:
+:EMAIL: [[mailto: Andreas Hollweger <Andreas.Hollweger@golling.schule>]]
+:END: 
+
+
+
+** Jonas Jarnig
+:PROPERTIES:
+:EMAIL: [[mailto: Jonas Jarnig <Jonas.Jarnig@golling.schule>]]
+:END: 
+
+
+
+** Fabian Klöß
+:PROPERTIES:
+:EMAIL: [[mailto: Fabian Klöß <Fabian.Klöß@golling.schule>]]
+:END: 
+
+
+
+** Evelyn Nestler
+:PROPERTIES:
+:EMAIL: [[mailto: Evelyn Nestler <Evelyn.Nestler@golling.schule>]]
+:END: 
+
+
+
+** Julia Schlager-Weidinger
+:PROPERTIES:
+:EMAIL: [[mailto: Julia Schlager-Weidinger <Julia.Schlager-Weidinger@golling.schule>]]
+:END: 
+
+
+
+** Felix Schmegner
+:PROPERTIES:
+:EMAIL: [[mailto: Felix Schmegner <Felix.Schmegner@golling.schule>]]
+:END: 
+
+
+
+** Annika Schmitzberger
+:PROPERTIES:
+:EMAIL: [[mailto: Annika Schmitzberger <Annika.Schmitzberger@golling.schule>]]
+:END: 
+
+
+
+** Kristina Sokic
+:PROPERTIES:
+:EMAIL: [[mailto: Kristina Sokic <Kristina.Sokic@golling.schule>]]
+:END: 
+
+
+
+** Augustin Sommer
+:PROPERTIES:
+:EMAIL: [[mailto: Augustin Sommer <Augustin.Sommer@golling.schule>]]
+:END: 
+
+
+
+** Phillipp Spagolla
+:PROPERTIES:
+:EMAIL: [[mailto: Phillipp Spagolla <Phillipp.Spagolla@golling.schule>]]
+:END: 
+
+
+
+** Emma Tikvic
+:PROPERTIES:
+:EMAIL: [[mailto: Emma Tikvic <Emma.Tikvic@golling.schule>]]
+:END: 
+
+
+
+** Selina Weiss
+:PROPERTIES:
+:EMAIL: [[mailto: Selina Weiss <Selina.Weiss@golling.schule>]]
+:END: 
+
+
+
+** Samuel Wittner
+:PROPERTIES:
+:EMAIL: [[mailto: Samuel Wittner <Samuel.Wittner@golling.schule>]]
+:END: 
+
+
+
+
+
+* Reflexionen                                                  
+
+** [SW01] Mit jedem redest du anders / Das war ein Missverständnis!
+Datum: <2022-09-15 Do 07:45>
+
+Diese Stunde ist entfallen - Klasse 2b ist auf zweitägigem Ausflug.
+
+

@@ -1,0 +1,32 @@
+#+title:      [SW20] Philosophie
+#+date:       [2023-07-11 Di 00:45]
+#+filetags:   :04:sw20:
+#+identifier: 20230711T004503
+
+
+* Kompetenzbeschreibung
+[[#A2]] Menschen und ihre Lebensorientierungen - Sich mit den großen Fragen der Menschen auseinandersetzen können
+[[#A2_KB1]] Die Schüler können Perspektiven für ihr Leben entwickeln und Zukunftspläne entwerfen.
+
+* AH / UH
+[[#A2_UH1]] Einführung in die Philosophie; ausgehend von Texten über philosophische Fragestellungen nachdenken...
+
+* Wiederholung
+Bücher (Amazon):
+ - Texte für Philosophie
+ - Geschichte der Philosophie
+ - etc...
+
+[[file:~/Downloads/Angst.pdf]]
+
+[[file:~/Downloads/Descartes.pdf]]
+
+[[/home/matthias/NMS_Golling/Philosophie/]]
+
+[[https://www.br.de/radio/bayern2/sendungen/radiowissen/aristoteles-philosophie-denker-100.html]]
+
+* Erarbeitung
+
+
+* Hefteintrag
+

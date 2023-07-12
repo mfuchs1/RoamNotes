@@ -6,137 +6,92 @@
 
 * Jahresplanung
 
-** [[denote:20230619T073700][[SW01] Jahresstoff / ich stehe in den Schuhen des Anderen]]
-
+** [#A] [[denote:20230619T073700][[SW01] Jahresstoff / ich stehe in den Schuhen des Anderen]]
 
 ** [[denote:20230619T074010][[SW02] Eine Gemeinschaft, die uns stärkt]]
 
-
 ** [[denote:20230619T074058][[SW03] Was ich mir zutraue / Kann ich dir vertrauen?]] 
-
 
 ** [[denote:20230619T074141][[SW04] Wir sind eine Gemeinschaft]]
 
-
 ** [[denote:20230619T074226][[SW05] Das große Durcheinander]]
-
 
 ** [[denote:20230619T074359][[SW06] Eine gute Gemeinschaft]]
 
-
 ** DONE [SW07] Herbstferien1
-
-
 
 ** [[denote:20230619T085157][[SW08] Fragen die uns bewegen (Kap. 2)]]
 
 ** [[denote:20230619T085426][[SW09] Große Fragen - große Antworten]]
 
-
 ** [[denote:20230619T085724][[SW10] Harte Fakten - gute Gedanken?]]
-
 
 ** [[denote:20230619T085846][[SW11] Methode: Fragen stellen (philosophieren)]]
 
-
 ** [[denote:20230619T090127][[SW12] Beginn Advent - Singen von Adventliedern]]
-
 
 ** [[denote:20230619T090707][[SW13] Maria Empfängnis (8.12.)]]
 
-
 ** [[denote:20230619T090758][[SW14] Ave Maria]]
-
 
 ** [[denote:20230619T091059][[SW15] Jesus ist geboren / Weihnachtsgottesdienst]]
 
-
 ** DONE [SW16] Ferien
-
 
 ** DONE [SW17] Ferien
 
-
 ** [[denote:20230619T091440][[SW18] Jesus, der Mensch - Jesus der Christus]]
-
 
 ** [[denote:20230619T091611][[SW19] Bibel: Mit der Bibel arbeiten]]
 
-
 ** [[denote:20230619T091723][[SW20] Für einen treuen Freund gibt es keinen Preis]]
-
 
 ** [[denote:20230619T091826][[SW21] David und Jonathan]]
 
-
 ** [[denote:20230619T091911][[SW22] Wiederholung / Film]]
-
 
 ** DONE [SW23] Semsterferien
 
-
 ** [[denote:20230619T092006][[SW24] Eine Kirche die uns verbindet / Menschen beten]]
-
 
 ** [[denote:20230619T092126][[SW25] Über mein Leben nachdenken / Impuls: Dankbar sein]]
 
-
 ** [[denote:20230619T092443][[SW26] Arten von Gebeten / mit dem Körper beten]]
 
-
 ** [[denote:20230619T092702][[SW27] Vielfalt unseres Betens / wie wir beten können]]
-
    
 ** [[denote:20230619T092912][[SW28] Die Bitten unseres Lebens / Das Vaterunser]]
 
-
 ** [[denote:20230619T144913][[SW29] Die Gemeinschaft der Glaubenden]]
-
 
 ** DONE [SW30] Karwoche / Osterferien
 
-
 ** [[denote:20230619T145033][[SW31] Ich gehöre dazu / ein gemeinsamer Glaube]]
-
 
 ** [[denote:20230619T145125][[SW32] Jesus ist auferstanden / Osterfestkreis (Kap 5.7)]]
 
-
 ** [[denote:20230619T145222][[SW33] Gottes Gegenwart feiern / Übungsteil]]
-
 
 ** [[denote:20230619T145319][[SW34] Eine Welt die uns prägt / Die Feste unserer Welt]]
 
-
 ** [[denote:20230619T145418][[SW35] Durstrecken unseres Lebens / Grund zu feiern]]
-
 
 ** [[denote:20230619T145518][[SW36] Lauf des Lebens / das Kirchenjahr]]
 
-
 ** [[denote:20230619T145559][[SW37] Feste im Kirchenjahr / Übungsteil]]
-
 
 ** [[denote:20230619T145640][[SW38] Vielfalt, die uns eint / Wo ich Zuhause bin]]
 
-
 ** [[denote:20230619T145734][[SW39] Unsere Vielfalt]]
 
-
 ** [[denote:20230619T145818][[SW40] Vielfalt der Reigionen]]
-<2023-06-12 Mo>
 
 ** [[denote:20230619T145913][[SW41] Weltreligionen / Drei Konfessionen stellen sich vor]]
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2023-06-23 Fr 17:57]
-:END:
-<2023-06-19 Mo>
 
 ** [[denote:20230619T150019][[SW42] Übungsteil]]
-<2023-06-26 Mo>
 
 ** [[denote:20230623T174332][[SW43] Schulgottesdienst]]
-<2023-07-03 Mo>
+
 
 * Kompetenzbereiche und Kompetenzdimensionen
 

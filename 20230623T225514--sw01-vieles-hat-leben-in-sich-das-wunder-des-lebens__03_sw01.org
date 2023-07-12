@@ -3,8 +3,4 @@
 #+filetags:   :03:sw01:
 #+identifier: 20230623T225514
 
-Externer Link zu einem File und #CUSTOM_ID
 
-Syntax: denote:<identifier>::#CUSTOM_ID
-
-[[denote:20230621T073521::#A1_KB1][03 Golling]

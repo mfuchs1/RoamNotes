@@ -1,61 +1,85 @@
 #+title:      B Klasse 2020-24
 #+date:       [2022-12-30 Fr 19:37]
-#+filetags:   :3b:Project:
+#+filetags:   :4b:Project:
 #+identifier: 20221230T193718
 #+CATEGORY: golling
 
-* 3b 09:35-10:25
+* 4b 09:35-10:25
 <%%(org-class 2022 9 12 2023 7 3 1 27)>
 
-nehme an, die Kids werden nicht besonders aufnahmefähig sein.
-Film (max 1 UE)
 
-Bergpredigt
-Vater Unser?
-
-* 3b 08:40-09:30
+* 4b 08:40-09:30
 <%%(org-class 2022 9 15 2023 7 6 4 27)>
 
-Film "Löcher / Green Lake" fertig geschaut.
 
-Spielestunde....
-
-* 3B [KV Erwin Essl]
+* 4B [KV Erwin Essl]
 
 #+Name: 2021-students
 | First      | Last         | Name                  | Note | Mitarbeit | Heft | LZK |
 |------------+--------------+-----------------------+------+-----------+------+-----|
-| Maximilian | Fischhofer   | [[Maximilian Fischhofer][Maximilian Fischhofer]] |    3 | -         |      |     |
-| Hannah     | Höllbacher   | [[Hannah Höllbacher][Hannah Höllbacher]]     |    1 | +         |      |     |
-| Leon       | Keser        | [[Leon Keser][Leon Keser]]            |    2 | -         |      |     |
-| Thomas     | Krallinger   | [[Thomas Krallinger][Thomas Krallinger]]     |    3 | -         |      |     |
-| Fabian     | Lienbacher   | [[Fabian Lienbacher][Fabian Lienbacher]]     |    3 | -         |      |     |
-| Lena       | Malter       | [[Lena Malter][Lena Malter]]           |    1 | +         |      |     |
-| Sophia     | Mayr         | [[Sophia Mayr][Sophia Mayr]]           |    1 | +         |      |     |
-| Florian    | Peroutka     | [[Florian Peroutka][Florian Peroutka]]      |    1 | -         |      |     |
-| Andreas    | Rußegger     | [[Andreas Rußegger][Andreas Rußegger]]      |    3 | -         |      |     |
-| Valerie    | Schönauer    | [[Valerie Schönauer][Valerie Schönauer]]     |    1 | +         |      |     |
-| Marlene    | Seidl        | [[Marlene Seidl][Marlene Seidl]]         |    1 | +         |      |     |
-| Anna       | Spitzelseder | [[Anna Spitzelseder][Anna Spitzelseder]]     |    1 | +         |      |     |
-| Florian    | Steiner      | [[Florian Steiner][Florian Steiner]]       |    3 | -         |      |     |
-| Karin      | Struber      | [[Karin Struber][Karin Struber]]         |    1 | +         |      |     |
-| Lukas      | Wagenhofer   | [[Lukas Wagenhofer][Lukas Wagenhofer]]      |    3 | -         |      |     |
+| Maximilian | Fischhofer   | [[Maximilian Fischhofer][Maximilian Fischhofer]] |      |           |      |     |
+| Hannah     | Höllbacher   | [[Hannah Höllbacher][Hannah Höllbacher]]     |      |           |      |     |
+| Maximilian | Fischhofer   | [[Maximilian Fischhofer][Maximilian Fischhofer]] |      |           |      |     |
+| Hannah     | Höllbacher   | [[Hannah Höllbacher][Hannah Höllbacher]]     |      |           |      |     |
+| Thomas     | Krallinger   | [[Thomas Krallinger][Thomas Krallinger]]     |      |           |      |     |
+| Fabian     | Lienbacher   | [[Fabian Lienbacher][Fabian Lienbacher]]     |      |           |      |     |
+| Lena       | Malter       | [[Lena Malter][Lena Malter]]           |      |           |      |     |
+| Sophia     | Mayr         | [[Sophia Mayr][Sophia Mayr]]           |      |           |      |     |
+| Florian    | Peroutka     | [[Florian Peroutka][Florian Peroutka]]      |      |           |      |     |
+| Andreas    | Rußegger     | [[Andreas Rußegger][Andreas Rußegger]]      |      |           |      |     |
+| Valerie    | Schönauer    | [[Valerie Schönauer][Valerie Schönauer]]     |      |           |      |     |
+| Marlene    | Seidl        | [[Marlene Seidl][Marlene Seidl]]         |      |           |      |     |
+| Anna       | Spitzelseder | [[Anna Spitzelseder][Anna Spitzelseder]]     |      |           |      |     |
+| Florian    | Steiner      | [[Florian Steiner][Florian Steiner]]       |      |           |      |     |
+| Karin      | Struber      | [[Karin Struber][Karin Struber]]         |      |           |      |     |
+| Lukas      | Wagenhofer   | [[Lukas Wagenhofer][Lukas Wagenhofer]]      |      |           |      |     |
 #+TBLFM: $4=vmean($5..$>)
 #+TBLFM: $3='(concat "[[" $1 " " $2 "][" $1 " " $2 "]]")
-#+TBLFM: $4='(identity remote(2021-22-Mitarbeit,@@#$4))
+#+TBLFM: $5='(identity remote(Mitarbeit,@@#$2))
 
 #+BEGIN_SRC python :var table=2021-students :results output raw
-print('* Mitarbeit')
-for student in table:
-    first = student[0]
-    last = student[1]
-    email = first + '.' + last + '@golling.schule'
-    print('** ' + first + ' ' + last + '\n\n')  
+  print('* Mitarbeit')
+  for student in table:
+      first = student[0]
+      last = student[1]
+      email = first + '.' + last + '@golling.schule'
+      print('** ' + first + ' ' + last + '')
+      print(':PROPERTIES:')
+      print(':EMAIL: ' '[[mailto: ' + first + ' ' + last + ' <' + email + '>]]')
+      print(':END: ')
+      print('\n\n')
 #+END_SRC
 
 #+RESULTS:
 * Mitarbeit
+
+#+Name: Mitarbeit
+| Name                  | Note | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|-----------------------+------+---+---+---+---+---+---+---+---+---+----|
+| [[Maximilian Fischhofer][Maximilian Fischhofer]] |      |   |   |   |   |   |   |   |   |   |    |
+| [[Hannah Höllbacher][Hannah Höllbacher]]     |      |   |   |   |   |   |   |   |   |   |    |
+| [[Maximilian Fischhofer][Maximilian Fischhofer]] |      |   |   |   |   |   |   |   |   |   |    |
+| [[Hannah Höllbacher][Hannah Höllbacher]]     |      |   |   |   |   |   |   |   |   |   |    |
+| [[Thomas Krallinger][Thomas Krallinger]]     |      |   |   |   |   |   |   |   |   |   |    |
+| [[Fabian Lienbacher][Fabian Lienbacher]]     |      |   |   |   |   |   |   |   |   |   |    |
+| [[Lena Malter][Lena Malter]]           |      |   |   |   |   |   |   |   |   |   |    |
+| [[Sophia Mayr][Sophia Mayr]]           |      |   |   |   |   |   |   |   |   |   |    |
+| [[Florian Peroutka][Florian Peroutka]]      |      |   |   |   |   |   |   |   |   |   |    |
+| [[Andreas Rußegger][Andreas Rußegger]]      |      |   |   |   |   |   |   |   |   |   |    |
+| [[Valerie Schönauer][Valerie Schönauer]]     |      |   |   |   |   |   |   |   |   |   |    |
+| [[Marlene Seidl][Marlene Seidl]]         |      |   |   |   |   |   |   |   |   |   |    |
+| [[Anna Spitzelseder][Anna Spitzelseder]]     |      |   |   |   |   |   |   |   |   |   |    |
+| [[Florian Steiner][Florian Steiner]]       |      |   |   |   |   |   |   |   |   |   |    |
+| [[Karin Struber][Karin Struber]]         |      |   |   |   |   |   |   |   |   |   |    |
+| [[Lukas Wagenhofer][Lukas Wagenhofer]]      |      |   |   |   |   |   |   |   |   |   |    |
+#+TBLFM: $2=vmean($3..$>)
+#+TBLFM: $1='(identity remote(2021-students,@@#$3))
+
 ** Maximilian Fischhofer
+:PROPERTIES:
+:EMAIL: [[mailto: Maximilian Fischhofer <Maximilian.Fischhofer@golling.schule>]]
+:END: 
+
 *** Link zur UE: [[file:~/RoamNotes/main/03_Golling.org::#Herbstferien3][file:~/RoamNotes/main/03_Golling.org::#Herbstferien3]]
 so wie Andreas, Thomas und Lukas: stört, legt ein provozierendes Verhalten an den Tag. Man redet sie direkt an - und erhält ein provozierendes "Okay, okay, okay" mit einem präpotenten Grinsen zurück.
 
@@ -66,10 +90,19 @@ PERIOD: [2023-03-27 Mo 09:35]
 
 Maxi, Thomas und Fabian arbeiten gemeinsam in einer Gruppe. Im Moment wird dort nur gelacht, und Blödsinn gemacht. Vielleicht trügt der Anschein?
 
+
 ** Hannah Höllbacher
+:PROPERTIES:
+:EMAIL: [[mailto: Hannah Höllbacher <Hannah.Höllbacher@golling.schule>]]
+:END: 
+
 
 
 ** Leon Keser
+:PROPERTIES:
+:EMAIL: [[mailto: Leon Keser <Leon.Keser@golling.schule>]]
+:END: 
+
 beweist sich nicht
 
 *** [[file:~/RoamNotes/main/02_Golling.org::#Auferstehung][file:~/RoamNotes/main/02_Golling.org::#Auferstehung]]
@@ -116,6 +149,10 @@ Alle Indizien weisen auf Leon hin und Daniel ... Schüler aus der 2B.
 
 
 ** Thomas Krallinger
+:PROPERTIES:
+:EMAIL: [[mailto: Thomas Krallinger <Thomas.Krallinger@golling.schule>]]
+:END: 
+
 *** [[file:~/RoamNotes/main/03_Golling.org::*Medienkonsum und Entwicklung des Gehirns][Medienkonsum und Entwicklung des Gehirns]]
 Datum: <2022-09-19 Mo>
 
@@ -166,39 +203,81 @@ Was würde Thomas lernen, wenn ich jetzt nachgeben würde? "Ich kann mir durch I
 Das "Gut" bildet die Leistung und Mitarbeit des gesamten Jahres ab. Und im ersten Semester war seine Mitarbeit weniger gut, eben befriedigend, im zweiten Semester besser, mcht insgesamt ein "Gut". 
 
 
+
 ** Fabian Lienbacher
+:PROPERTIES:
+:EMAIL: [[mailto: Fabian Lienbacher <Fabian.Lienbacher@golling.schule>]]
+:END: 
+
 
 
 ** Lena Malter
+:PROPERTIES:
+:EMAIL: [[mailto: Lena Malter <Lena.Malter@golling.schule>]]
+:END: 
+
 
 
 ** Sophia Mayr
+:PROPERTIES:
+:EMAIL: [[mailto: Sophia Mayr <Sophia.Mayr@golling.schule>]]
+:END: 
+
 
 
 ** Florian Peroutka
+:PROPERTIES:
+:EMAIL: [[mailto: Florian Peroutka <Florian.Peroutka@golling.schule>]]
+:END: 
+
 
 
 ** Andreas Rußegger
-Sein Verhalten hat sich kaum verändert, nicht nur in Religion.
+:PROPERTIES:
+:EMAIL: [[mailto: Andreas Rußegger <Andreas.Rußegger@golling.schule>]]
+:END: 
+
 
 
 ** Valerie Schönauer
+:PROPERTIES:
+:EMAIL: [[mailto: Valerie Schönauer <Valerie.Schönauer@golling.schule>]]
+:END: 
+
 
 
 ** Marlene Seidl
+:PROPERTIES:
+:EMAIL: [[mailto: Marlene Seidl <Marlene.Seidl@golling.schule>]]
+:END: 
+
 
 
 ** Anna Spitzelseder
+:PROPERTIES:
+:EMAIL: [[mailto: Anna Spitzelseder <Anna.Spitzelseder@golling.schule>]]
+:END: 
+
 
 
 ** Florian Steiner
+:PROPERTIES:
+:EMAIL: [[mailto: Florian Steiner <Florian.Steiner@golling.schule>]]
+:END: 
+
 
 
 ** Karin Struber
+:PROPERTIES:
+:EMAIL: [[mailto: Karin Struber <Karin.Struber@golling.schule>]]
+:END: 
+
 
 
 ** Lukas Wagenhofer
-
+:PROPERTIES:
+:EMAIL: [[mailto: Lukas Wagenhofer <Lukas.Wagenhofer@golling.schule>]]
+:END: 
 
 
 * Reflexionen
@@ -228,9 +307,7 @@ Das war heute emotional sehr anstrengend. Die erste Hälfte der Stunde war "buis
 Thema: Sinn und Bedeutung der Arbeit für den Menschen - In D: Arbeitsbedingungen in den großen Textilfirmen; BO Tage der Schüler; Pleite von zwei Modefirmen; Pleite dreier großen Banken (SVB, noch eine andere US Bank, Credit Suisse, ...)
 
 Maxi ändert sich gar nicht - scheinbar ist die Reli Note Zuhause völlig egal. Schaut sich seine Mama überhaupt das Zeugnis an? Thomas und Lukas ändern sich zum Besseren.
-
-
-* Reflexionen                                                 
+                                                 
 
 ** [[id:03_SW01][[SW01] Wer möchte ich sein – wer bin ich?]]
 Datum: <2022-09-15 Do 08:40>

@@ -1,0 +1,229 @@
+#+title:      B Klasse 2022-26
+#+date:       [2022-12-30 Fr 19:34]
+#+filetags:   :2b:Project:
+#+identifier: 20221230T193456
+#+CATEGORY: golling
+
+* 2b 10:40-11:30
+<%%(org-class 2022 9 13 2023 7 4 2 27)>
+
+Film über Burschen in Palästina / Meer ...
+
+
+* 2b 11:35-12:25
+<%%(org-class 2022 9 16 2023 7 7 5 27)>
+
+Spielestunde
+
+* Supplierstunde 2b BU (Hannes Lacher) 10:40-11:30
+<%%(org-class 2023 3 8 2023 7 5 3 27)>
+aktueller Stoff: Säugetiere / Fische.
+Buch S. 104ff
+
+Buch S. 106 / 107
+Arbeitsheft S. 54
+
+* 1B [KV Martin Pock]
+
+#+Name: 2021-students
+| First     | Last       | Name               | Note | Mitarbeit | Heft | LZK |
+|-----------+------------+--------------------+------+-----------+------+-----|
+| Lorenz    | Aschauer   | [[Lorenz Aschauer][Lorenz Aschauer]]    |    2 |           |      |     |
+| Stefan    | Atanasov   | [[Stefan Atanasov][Stefan Atanasov]]    |    2 |           |      |     |
+| Lela      | Dent       | [[Lela Dent][Lela Dent]]          |    1 |           |      |     |
+| Emma      | Gonschorek | [[Emma Gonschorek][Emma Gonschorek]]    |    1 |           |      |     |
+| Marie     | Hofer      | [[Marie Hofer][Marie Hofer]]        |    1 |           |      |     |
+| Hubert    | Keinrad    | [[Hubert Keinrad][Hubert Keinrad]]     |    1 |           |      |     |
+| Nena      | Langenfeld | [[Nena Langenfeld][Nena Langenfeld]]    |    1 |           |      |     |
+| Bernhard  | Neureiter  | [[Bernhard Neureiter][Bernhard Neureiter]] |    2 |           |      |     |
+| Lucian    | Rainer     | [[Lucian Rainer][Lucian Rainer]]      |    2 |           |      |     |
+| Manuel    | Reiter     | [[Manuel Reiter][Manuel Reiter]]      |    1 |           |      |     |
+| Emma      | Riebler    | [[Emma Riebler][Emma Riebler]]       |    1 |           |      |     |
+| Annika    | Seiwald    | [[Annika Seiwald][Annika Seiwald]]     |    1 |           |      |     |
+| Valerian  | Seling     | [[Valerian Seling][Valerian Seling]]    |    2 |           |      |     |
+| Theresa   | Steiner    | [[Theresa Steiner][Theresa Steiner]]    |    1 |           |      |     |
+| Valentina | Struber    | [[Valentina Struber][Valentina Struber]]  |    1 |           |      |     |
+| Felix     | Wenger     | [[Felix Wenger][Felix Wenger]]       |    1 |           |      |     |
+| Leon      | Zemmer     | [[Leon Zemmer][Leon Zemmer]]        |    1 |           |      |     |
+| Fabian    | Zorzi      | [[Fabian Zorzi][Fabian Zorzi]]       |    1 |           |      |     |
+#+TBLFM: $4=vmean($5..$>)
+#+TBLFM: $3='(concat "[[" $1 " " $2 "][" $1 " " $2 "]]")
+#+TBLFM: $5='(identity remote(2021-22-Mitarbeit,@@#$2)) 
+
+#+BEGIN_SRC python :var table=2021-students :results output raw
+  print('* Mitarbeit')
+  for student in table:
+      first = student[0]
+      last = student[1]
+      email = first + '.' + last + '@golling.schule'
+      print('** ' + first + ' ' + last + '')
+      print(':PROPERTIES:')
+      print(':EMAIL: ' '[[mailto: ' + first + ' ' + last + ' <' + email + '>]]')
+      print(':END: ')
+      print('\n\n')
+#+END_SRC
+
+#+RESULTS:
+* Mitarbeit
+
+#+Name: Mitarbeit
+| Name               | Note | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|--------------------+------+---+---+---+---+---+---+---+---+---+----|
+| [[Lorenz Aschauer][Lorenz Aschauer]]    |      |   |   |   |   |   |   |   |   |   |    |
+| [[Stefan Atanasov][Stefan Atanasov]]    |      |   |   |   |   |   |   |   |   |   |    |
+| [[Lela Dent][Lela Dent]]          |      |   |   |   |   |   |   |   |   |   |    |
+| [[Emma Gonschorek][Emma Gonschorek]]    |      |   |   |   |   |   |   |   |   |   |    |
+| [[Marie Hofer][Marie Hofer]]        |      |   |   |   |   |   |   |   |   |   |    |
+| [[Hubert Keinrad][Hubert Keinrad]]     |      |   |   |   |   |   |   |   |   |   |    |
+| [[Nena Langenfeld][Nena Langenfeld]]    |      |   |   |   |   |   |   |   |   |   |    |
+| [[Bernhard Neureiter][Bernhard Neureiter]] |      |   |   |   |   |   |   |   |   |   |    |
+| [[Lucian Rainer][Lucian Rainer]]      |      |   |   |   |   |   |   |   |   |   |    |
+| [[Manuel Reiter][Manuel Reiter]]      |      |   |   |   |   |   |   |   |   |   |    |
+| [[Emma Riebler][Emma Riebler]]       |      |   |   |   |   |   |   |   |   |   |    |
+| [[Annika Seiwald][Annika Seiwald]]     |      |   |   |   |   |   |   |   |   |   |    |
+| [[Valerian Seling][Valerian Seling]]    |      |   |   |   |   |   |   |   |   |   |    |
+| [[Theresa Steiner][Theresa Steiner]]    |      |   |   |   |   |   |   |   |   |   |    |
+| [[Valentina Struber][Valentina Struber]]  |      |   |   |   |   |   |   |   |   |   |    |
+| [[Felix Wenger][Felix Wenger]]       |      |   |   |   |   |   |   |   |   |   |    |
+| [[Leon Zemmer][Leon Zemmer]]        |      |   |   |   |   |   |   |   |   |   |    |
+| [[Fabian Zorzi][Fabian Zorzi]]       |      |   |   |   |   |   |   |   |   |   |    |
+#+TBLFM: $2=vmean($3..$>)
+#+TBLFM: $1='(identity remote(2021-students,@@#$3))
+
+
+** Lorenz Aschauer
+:PROPERTIES:
+:EMAIL: [[mailto: Lorenz Aschauer <Lorenz.Aschauer@golling.schule>]]
+:END: 
+
+
+
+** Stefan Atanasov
+:PROPERTIES:
+:EMAIL: [[mailto: Stefan Atanasov <Stefan.Atanasov@golling.schule>]]
+:END: 
+
+
+
+** Lela Dent
+:PROPERTIES:
+:EMAIL: [[mailto: Lela Dent <Lela.Dent@golling.schule>]]
+:END: 
+
+
+
+** Emma Gonschorek
+:PROPERTIES:
+:EMAIL: [[mailto: Emma Gonschorek <Emma.Gonschorek@golling.schule>]]
+:END: 
+
+
+
+** Marie Hofer
+:PROPERTIES:
+:EMAIL: [[mailto: Marie Hofer <Marie.Hofer@golling.schule>]]
+:END: 
+
+
+
+** Hubert Keinrad
+:PROPERTIES:
+:EMAIL: [[mailto: Hubert Keinrad <Hubert.Keinrad@golling.schule>]]
+:END: 
+
+
+
+** Nena Langenfeld
+:PROPERTIES:
+:EMAIL: [[mailto: Nena Langenfeld <Nena.Langenfeld@golling.schule>]]
+:END: 
+
+
+
+** Bernhard Neureiter
+:PROPERTIES:
+:EMAIL: [[mailto: Bernhard Neureiter <Bernhard.Neureiter@golling.schule>]]
+:END: 
+
+
+
+** Lucian Rainer
+:PROPERTIES:
+:EMAIL: [[mailto: Lucian Rainer <Lucian.Rainer@golling.schule>]]
+:END: 
+
+
+
+** Manuel Reiter
+:PROPERTIES:
+:EMAIL: [[mailto: Manuel Reiter <Manuel.Reiter@golling.schule>]]
+:END: 
+
+
+
+** Emma Riebler
+:PROPERTIES:
+:EMAIL: [[mailto: Emma Riebler <Emma.Riebler@golling.schule>]]
+:END: 
+
+
+
+** Annika Seiwald
+:PROPERTIES:
+:EMAIL: [[mailto: Annika Seiwald <Annika.Seiwald@golling.schule>]]
+:END: 
+
+
+
+** Valerian Seling
+:PROPERTIES:
+:EMAIL: [[mailto: Valerian Seling <Valerian.Seling@golling.schule>]]
+:END: 
+
+
+
+** Theresa Steiner
+:PROPERTIES:
+:EMAIL: [[mailto: Theresa Steiner <Theresa.Steiner@golling.schule>]]
+:END: 
+
+
+
+** Valentina Struber
+:PROPERTIES:
+:EMAIL: [[mailto: Valentina Struber <Valentina.Struber@golling.schule>]]
+:END: 
+
+
+
+** Felix Wenger
+:PROPERTIES:
+:EMAIL: [[mailto: Felix Wenger <Felix.Wenger@golling.schule>]]
+:END: 
+
+
+
+** Leon Zemmer
+:PROPERTIES:
+:EMAIL: [[mailto: Leon Zemmer <Leon.Zemmer@golling.schule>]]
+:END: 
+
+
+
+** Fabian Zorzi
+:PROPERTIES:
+:EMAIL: [[mailto: Fabian Zorzi <Fabian.Zorzi@golling.schule>]]
+:END: 
+
+
+
+
+
+* Reflexionen
+
+** [[denote:20221226T162523][Grundgebete]]
+PERIOD: [2023-01-27 Fr 11:35]
+
+Die Klasse hat sich bei mir für ihr recht schlimmes Verhalten entschuldigt, sie hat einen kleinen Brief geschrieben. Leider hat die versprochene Besserung nicht lange angehalten; aber das wird schon noch, davon bin ich überzeugt.
+
+Thema heute: Vater unser.

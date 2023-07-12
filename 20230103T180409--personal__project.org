@@ -233,3 +233,23 @@ osm-link:
 ** Leopold Ausflug Festung / Salzburg (KG)
 <2023-06-29 Do 14:30>--<2023-06-29 Do 17:00>
 
+** Ausflug in den Bergen planen
+<2023-07-10 Mo 08:00>--<2023-07-10 Mo 17:00>
+- Habachtal
+- Gosauseen
+- Schmittenhöhe / Zell am See
+- ...
+
+** Besuch bei Valerie
+<2023-07-10 Mo 09:00>--<2023-07-10 Mo 17:00>
+
+** Besuch bei Alicia und Fred (50 Geb.)
+<2023-07-17 Mo 14:00>--<2023-07-17 Mo 22:00>
+Kinder bei Omi und Opa / Manfred
+
+** Freibad Lepi 10:00-19:00
+<%%(org-class 2023 7 8 2023 9 6 6 28)>
+
+** Grill bei Omi und Opa
+<2023-07-15 Sa 14:00>--<2023-07-15 Sa 18:00>
+[[mailto: Peter Fuchs <peter@dipfuchs>]]

@@ -1,21 +1,21 @@
 #+title:      C Klasse 2020-24
 #+date:       [2022-12-28 Mi 20:41]
-#+filetags:   :3c:Project:
+#+filetags:   :4c:Project:
 #+identifier: 20221228T204149
 #+CATEGORY: golling
 
-* 3c 09:35-10:25
+* 4c 09:35-10:25
 <%%(org-class 2022 9 13 2023 7 4 2 27)>
 
 Nehme an die Kids werden nicht besonders aufnahmefähig sein.
 Film (max 1 UE)
 
-* 3c 07:45-08:35
+* 4c 07:45-08:35
 <%%(org-class 2022 9 16 2023 7 7 5 27)>
 
 Spielestunde...
 
-* 3C [KV Gertraud Ellmaier]
+* 4C [KV Gertraud Ellmaier]
 
 #+Name: 2021-students
 | First         | Last         | Name                     | Note | Mitarbeit | Heft | LZK |
@@ -43,81 +43,196 @@ Spielestunde...
 | Celine        | Zuchristian  | [[Celine Zuchristian][Celine Zuchristian]]       |      |           |      |     |
 #+TBLFM: $4=vmean($5..$>)
 #+TBLFM: $3='(concat "[[" $1 " " $2 "][" $1 " " $2 "]]")
-#+TBLFM: $4='(identity remote(2021-22-Mitarbeit,@@#$4))
+#+TBLFM: $5='(identity remote(2021-22-Mitarbeit,@@#$2))
 
 #+BEGIN_SRC python :var table=2021-students :results output raw
-print('* Mitarbeit')
-for student in table:
-    first = student[0]
-    last = student[1]
-    email = first + '.' + last + '@golling.schule'
-    print('** ' + first + ' ' + last + '\n\n')  
+  print('* Mitarbeit')
+  for student in table:
+      first = student[0]
+      last = student[1]
+      email = first + '.' + last + '@golling.schule'
+      print('** ' + first + ' ' + last + '')
+      print(':PROPERTIES:')
+      print(':EMAIL: ' '[[mailto: ' + first + ' ' + last + ' <' + email + '>]]')
+      print(':END: ')
+      print('\n\n')
 #+END_SRC
 
 #+RESULTS:
 * Mitarbeit
+
+#+Name: Mitarbeit
+| Name                     | Note | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|--------------------------+------+---+---+---+---+---+---+---+---+---+----|
+| [[Zlatko Atanasov][Zlatko Atanasov]]          |      |   |   |   |   |   |   |   |   |   |    |
+| [[Laura Gschiel][Laura Gschiel]]            |      |   |   |   |   |   |   |   |   |   |    |
+| [[Fabian Hansmann][Fabian Hansmann]]          |      |   |   |   |   |   |   |   |   |   |    |
+| [[Victoria Kappacher][Victoria Kappacher]]       |      |   |   |   |   |   |   |   |   |   |    |
+| [[Elias Leitner][Elias Leitner]]            |      |   |   |   |   |   |   |   |   |   |    |
+| [[Annika-Sophie Lienbacher][Annika-Sophie Lienbacher]] |      |   |   |   |   |   |   |   |   |   |    |
+| [[Alexander Loipold][Alexander Loipold]]        |      |   |   |   |   |   |   |   |   |   |    |
+| [[Andreas Meisl][Andreas Meisl]]            |      |   |   |   |   |   |   |   |   |   |    |
+| [[Nikola Moser][Nikola Moser]]             |      |   |   |   |   |   |   |   |   |   |    |
+| [[Maid Mujkic][Maid Mujkic]]              |      |   |   |   |   |   |   |   |   |   |    |
+| [[Josip Perkovic][Josip Perkovic]]           |      |   |   |   |   |   |   |   |   |   |    |
+| [[Anna Pichler][Anna Pichler]]             |      |   |   |   |   |   |   |   |   |   |    |
+| [[Lukas Rettenbacher][Lukas Rettenbacher]]       |      |   |   |   |   |   |   |   |   |   |    |
+| [[Sebastian Rettenbacher][Sebastian Rettenbacher]]   |      |   |   |   |   |   |   |   |   |   |    |
+| [[Mia Russegger][Mia Russegger]]            |      |   |   |   |   |   |   |   |   |   |    |
+| [[Melanie Schröcker][Melanie Schröcker]]        |      |   |   |   |   |   |   |   |   |   |    |
+| [[Hannah Seiwald][Hannah Seiwald]]           |      |   |   |   |   |   |   |   |   |   |    |
+| [[Thomas Siller][Thomas Siller]]            |      |   |   |   |   |   |   |   |   |   |    |
+| [[Theresa Sunkler][Theresa Sunkler]]          |      |   |   |   |   |   |   |   |   |   |    |
+| [[Yasir Tigli][Yasir Tigli]]              |      |   |   |   |   |   |   |   |   |   |    |
+| [[Celine Zuchristian][Celine Zuchristian]]       |      |   |   |   |   |   |   |   |   |   |    |
+#+TBLFM: $2=vmean($3..$>)
+#+TBLFM: $1='(identity remote(2021-students,@@#$3))
+
+
 ** Zlatko Atanasov
+:PROPERTIES:
+:EMAIL: [[mailto: Zlatko Atanasov <Zlatko.Atanasov@golling.schule>]]
+:END: 
+
 
 
 ** Laura Gschiel
+:PROPERTIES:
+:EMAIL: [[mailto: Laura Gschiel <Laura.Gschiel@golling.schule>]]
+:END: 
+
 
 
 ** Fabian Hansmann
+:PROPERTIES:
+:EMAIL: [[mailto: Fabian Hansmann <Fabian.Hansmann@golling.schule>]]
+:END: 
+
 
 
 ** Victoria Kappacher
+:PROPERTIES:
+:EMAIL: [[mailto: Victoria Kappacher <Victoria.Kappacher@golling.schule>]]
+:END: 
+
 
 
 ** Elias Leitner
+:PROPERTIES:
+:EMAIL: [[mailto: Elias Leitner <Elias.Leitner@golling.schule>]]
+:END: 
+
 
 
 ** Annika-Sophie Lienbacher
+:PROPERTIES:
+:EMAIL: [[mailto: Annika-Sophie Lienbacher <Annika-Sophie.Lienbacher@golling.schule>]]
+:END: 
+
 
 
 ** Alexander Loipold
+:PROPERTIES:
+:EMAIL: [[mailto: Alexander Loipold <Alexander.Loipold@golling.schule>]]
+:END: 
+
 
 
 ** Andreas Meisl
+:PROPERTIES:
+:EMAIL: [[mailto: Andreas Meisl <Andreas.Meisl@golling.schule>]]
+:END: 
+
 
 
 ** Nikola Moser
+:PROPERTIES:
+:EMAIL: [[mailto: Nikola Moser <Nikola.Moser@golling.schule>]]
+:END: 
+
 
 
 ** Maid Mujkic
+:PROPERTIES:
+:EMAIL: [[mailto: Maid Mujkic <Maid.Mujkic@golling.schule>]]
+:END: 
+
 
 
 ** Josip Perkovic
+:PROPERTIES:
+:EMAIL: [[mailto: Josip Perkovic <Josip.Perkovic@golling.schule>]]
+:END: 
+
 
 
 ** Anna Pichler
+:PROPERTIES:
+:EMAIL: [[mailto: Anna Pichler <Anna.Pichler@golling.schule>]]
+:END: 
+
 
 
 ** Lukas Rettenbacher
+:PROPERTIES:
+:EMAIL: [[mailto: Lukas Rettenbacher <Lukas.Rettenbacher@golling.schule>]]
+:END: 
+
 
 
 ** Sebastian Rettenbacher
+:PROPERTIES:
+:EMAIL: [[mailto: Sebastian Rettenbacher <Sebastian.Rettenbacher@golling.schule>]]
+:END: 
+
 
 
 ** Mia Russegger
+:PROPERTIES:
+:EMAIL: [[mailto: Mia Russegger <Mia.Russegger@golling.schule>]]
+:END: 
+
 
 
 ** Melanie Schröcker
+:PROPERTIES:
+:EMAIL: [[mailto: Melanie Schröcker <Melanie.Schröcker@golling.schule>]]
+:END: 
+
 
 
 ** Hannah Seiwald
+:PROPERTIES:
+:EMAIL: [[mailto: Hannah Seiwald <Hannah.Seiwald@golling.schule>]]
+:END: 
+
 
 
 ** Thomas Siller
+:PROPERTIES:
+:EMAIL: [[mailto: Thomas Siller <Thomas.Siller@golling.schule>]]
+:END: 
+
 
 
 ** Theresa Sunkler
+:PROPERTIES:
+:EMAIL: [[mailto: Theresa Sunkler <Theresa.Sunkler@golling.schule>]]
+:END: 
+
 
 
 ** Yasir Tigli
+:PROPERTIES:
+:EMAIL: [[mailto: Yasir Tigli <Yasir.Tigli@golling.schule>]]
+:END: 
+
 
 
 ** Celine Zuchristian
-
+:PROPERTIES:
+:EMAIL: [[mailto: Celine Zuchristian <Celine.Zuchristian@golling.schule>]]
+:END: 
 
 * Reflexionen                                                   
 ** [[id:03_SW01][[SW01] Wer möchte ich sein – wer bin ich?]]

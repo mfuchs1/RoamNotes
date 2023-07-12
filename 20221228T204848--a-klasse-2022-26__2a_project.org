@@ -1,0 +1,290 @@
+#+title:      A Klasse 2022-26
+#+date:       [2022-12-28 Mi 20:48]
+#+filetags:   :2a:Project:
+#+identifier: 20221228T204848
+#+CATEGORY: golling
+
+
+* 2a 08:40-09:30
+<%%(org-class 2022 9 13 2023 7 4 2 27)>
+
+Film über Burschen in Palästina / ...
+
+* 2a 12:30-13:20
+<%%(org-class 2022 9 16 2023 7 7 5 27)>
+
+Spielestunde
+
+* 1A MINT [KV Manuela Singer]
+
+#+Name: 2021-students
+| First     | Last       | Name               | Note | Mitarbeit | Heft | LZK |
+|-----------+------------+--------------------+------+-----------+------+-----|
+| Tobias    | Bernhofer  | [[Tobias Bernhofer][Tobias Bernhofer]]   |    1 |           |      |     |
+| Alexander | Cerny      | [[Alexander Cerny][Alexander Cerny]]    |    1 |           |      |     |
+| Laurin    | Ellmer     | [[Laurin Ellmer][Laurin Ellmer]]      |    1 |           |      |     |
+| Amrit     | Gappmaier  | [[Amrit Gappmaier][Amrit Gappmaier]]    |    1 |           |      |     |
+| Olivia    | Gappmaier  | [[Olivia Gappmaier][Olivia Gappmaier]]   |    1 |           |      |     |
+| Nadine    | Gschiel    | [[Nadine Gschiel][Nadine Gschiel]]     |    1 |           |      |     |
+| Damien    | Hettegger  | [[Damien Hettegger][Damien Hettegger]]   |    1 |           |      |     |
+| Christian | Kronreif   | [[Christian Kronreif][Christian Kronreif]] |    1 |           |      |     |
+| Rafael    | Lainer     | [[Rafael Lainer][Rafael Lainer]]      |    1 |           |      |     |
+| Leopold   | Lechner    | [[Leopold Lechner][Leopold Lechner]]    |    1 |           |      |     |
+| Hannah    | Lutje      | [[Hannah Lutje][Hannah Lutje]]       |    1 |           |      |     |
+| Leonhard  | Malter     | [[Leonhard Malter][Leonhard Malter]]    |    1 |           |      |     |
+| Sunmaya   | Marek      | [[Sunmaya Marek][Sunmaya Marek]]      |    1 |           |      |     |
+| Khushboo  | Markandey  | [[Khushboo Markandey][Khushboo Markandey]] |    1 |           |      |     |
+| Moritz    | Neuhofer   | [[Moritz Neuhofer][Moritz Neuhofer]]    |    1 |           |      |     |
+| Heidi     | Pichler    | [[Heidi Pichler][Heidi Pichler]]      |    1 |           |      |     |
+| Jakob     | Salchegger | [[Jakob Salchegger][Jakob Salchegger]]   |    1 |           |      |     |
+| Elias     | Schieferer | [[Elias Schieferer][Elias Schieferer]]   |    1 |           |      |     |
+| Nikolaj   | Schwaiger  | [[Nikolaj Schwaiger][Nikolaj Schwaiger]]  |    1 |           |      |     |
+| Florian   | Siller     | [[Florian Siller][Florian Siller]]     |    1 |           |      |     |
+| Michael   | Steiner    | [[Michael Steiner][Michael Steiner]]    |    1 |           |      |     |
+| Pascal    | Stippler   | [[Pascal Stippler][Pascal Stippler]]    |    1 |           |      |     |
+| Esther    | Tong       | [[Esther Tong][Esther Tong]]        |    1 |           |      |     |
+| Alexander | Wenger     | [[Alexander Wenger][Alexander Wenger]]   |    1 |           |      |     |
+| Oskar     | Wieser     | [[Oskar Wieser][Oskar Wieser]]       |    1 |           |      |     |
+| Veit      | Zierfuß    | [[Veit Zierfuß][Veit Zierfuß]]       |    1 |           |      |     |
+#+TBLFM: $4=vmean($5..$>)
+#+TBLFM: $3='(concat "[[" $1 " " $2 "][" $1 " " $2 "]]")
+#+TBLFM: $5='(identity remote(2021-22-Mitarbeit,@@#$2))
+
+
+#+BEGIN_SRC python :var table=2021-students :results output raw
+  print('* Mitarbeit')
+  for student in table:
+      first = student[0]
+      last = student[1]
+      email = first + '.' + last + '@golling.schule'
+      print('** ' + first + ' ' + last + '')
+      print(':PROPERTIES:')
+      print(':EMAIL: ' '[[mailto: ' + first + ' ' + last + ' <' + email + '>]]')
+      print(':END: ')
+      print('\n\n')
+#+END_SRC
+
+#+RESULTS:
+* Mitarbeit
+
+#+Name: Mitarbeit
+| Name               | Note | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|--------------------+------+---+---+---+---+---+---+---+---+---+----|
+| [[Tobias Bernhofer][Tobias Bernhofer]]   |      |   |   |   |   |   |   |   |   |   |    |
+| [[Alexander Cerny][Alexander Cerny]]    |      |   |   |   |   |   |   |   |   |   |    |
+| [[Laurin Ellmer][Laurin Ellmer]]      |      |   |   |   |   |   |   |   |   |   |    |
+| [[Amrit Gappmaier][Amrit Gappmaier]]    |      |   |   |   |   |   |   |   |   |   |    |
+| [[Olivia Gappmaier][Olivia Gappmaier]]   |      |   |   |   |   |   |   |   |   |   |    |
+| [[Nadine Gschiel][Nadine Gschiel]]     |      |   |   |   |   |   |   |   |   |   |    |
+| [[Damien Hettegger][Damien Hettegger]]   |      |   |   |   |   |   |   |   |   |   |    |
+| [[Christian Kronreif][Christian Kronreif]] |      |   |   |   |   |   |   |   |   |   |    |
+| [[Rafael Lainer][Rafael Lainer]]      |      |   |   |   |   |   |   |   |   |   |    |
+| [[Leopold Lechner][Leopold Lechner]]    |      |   |   |   |   |   |   |   |   |   |    |
+| [[Hannah Lutje][Hannah Lutje]]       |      |   |   |   |   |   |   |   |   |   |    |
+| [[Leonhard Malter][Leonhard Malter]]    |      |   |   |   |   |   |   |   |   |   |    |
+| [[Sunmaya Marek][Sunmaya Marek]]      |      |   |   |   |   |   |   |   |   |   |    |
+| [[Khushboo Markandey][Khushboo Markandey]] |      |   |   |   |   |   |   |   |   |   |    |
+| [[Moritz Neuhofer][Moritz Neuhofer]]    |      |   |   |   |   |   |   |   |   |   |    |
+| [[Heidi Pichler][Heidi Pichler]]      |      |   |   |   |   |   |   |   |   |   |    |
+| [[Jakob Salchegger][Jakob Salchegger]]   |      |   |   |   |   |   |   |   |   |   |    |
+| [[Elias Schieferer][Elias Schieferer]]   |      |   |   |   |   |   |   |   |   |   |    |
+| [[Nikolaj Schwaiger][Nikolaj Schwaiger]]  |      |   |   |   |   |   |   |   |   |   |    |
+| [[Florian Siller][Florian Siller]]     |      |   |   |   |   |   |   |   |   |   |    |
+| [[Michael Steiner][Michael Steiner]]    |      |   |   |   |   |   |   |   |   |   |    |
+| [[Pascal Stippler][Pascal Stippler]]    |      |   |   |   |   |   |   |   |   |   |    |
+| [[Esther Tong][Esther Tong]]        |      |   |   |   |   |   |   |   |   |   |    |
+| [[Alexander Wenger][Alexander Wenger]]   |      |   |   |   |   |   |   |   |   |   |    |
+| [[Oskar Wieser][Oskar Wieser]]       |      |   |   |   |   |   |   |   |   |   |    |
+| [[Veit Zierfuß][Veit Zierfuß]]       |      |   |   |   |   |   |   |   |   |   |    |
+#+TBLFM: $2=vmean($3..$>)
+#+TBLFM: $1='(identity remote(2021-students,@@#$3))
+
+
+
+** Tobias Bernhofer
+:PROPERTIES:
+:EMAIL: [[mailto: Tobias Bernhofer <Tobias.Bernhofer@golling.schule>]]
+:END: 
+
+
+
+** Alexander Cerny
+:PROPERTIES:
+:EMAIL: [[mailto: Alexander Cerny <Alexander.Cerny@golling.schule>]]
+:END: 
+
+
+
+** Laurin Ellmer
+:PROPERTIES:
+:EMAIL: [[mailto: Laurin Ellmer <Laurin.Ellmer@golling.schule>]]
+:END: 
+
+
+
+** Amrit Gappmaier
+:PROPERTIES:
+:EMAIL: [[mailto: Amrit Gappmaier <Amrit.Gappmaier@golling.schule>]]
+:END: 
+
+
+
+** Olivia Gappmaier
+:PROPERTIES:
+:EMAIL: [[mailto: Olivia Gappmaier <Olivia.Gappmaier@golling.schule>]]
+:END: 
+
+
+
+** Nadine Gschiel
+:PROPERTIES:
+:EMAIL: [[mailto: Nadine Gschiel <Nadine.Gschiel@golling.schule>]]
+:END: 
+
+
+
+** Damien Hettegger
+:PROPERTIES:
+:EMAIL: [[mailto: Damien Hettegger <Damien.Hettegger@golling.schule>]]
+:END: 
+
+
+
+** Christian Kronreif
+:PROPERTIES:
+:EMAIL: [[mailto: Christian Kronreif <Christian.Kronreif@golling.schule>]]
+:END: 
+
+
+
+** Rafael Lainer
+:PROPERTIES:
+:EMAIL: [[mailto: Rafael Lainer <Rafael.Lainer@golling.schule>]]
+:END: 
+
+
+
+** Leopold Lechner
+:PROPERTIES:
+:EMAIL: [[mailto: Leopold Lechner <Leopold.Lechner@golling.schule>]]
+:END: 
+
+
+
+** Hannah Lutje
+:PROPERTIES:
+:EMAIL: [[mailto: Hannah Lutje <Hannah.Lutje@golling.schule>]]
+:END: 
+
+
+
+** Leonhard Malter
+:PROPERTIES:
+:EMAIL: [[mailto: Leonhard Malter <Leonhard.Malter@golling.schule>]]
+:END: 
+
+
+
+** Sunmaya Marek
+:PROPERTIES:
+:EMAIL: [[mailto: Sunmaya Marek <Sunmaya.Marek@golling.schule>]]
+:END: 
+
+
+
+** Khushboo Markandey
+:PROPERTIES:
+:EMAIL: [[mailto: Khushboo Markandey <Khushboo.Markandey@golling.schule>]]
+:END: 
+
+
+
+** Moritz Neuhofer
+:PROPERTIES:
+:EMAIL: [[mailto: Moritz Neuhofer <Moritz.Neuhofer@golling.schule>]]
+:END: 
+
+
+
+** Heidi Pichler
+:PROPERTIES:
+:EMAIL: [[mailto: Heidi Pichler <Heidi.Pichler@golling.schule>]]
+:END: 
+
+
+
+** Jakob Salchegger
+:PROPERTIES:
+:EMAIL: [[mailto: Jakob Salchegger <Jakob.Salchegger@golling.schule>]]
+:END: 
+
+
+
+** Elias Schieferer
+:PROPERTIES:
+:EMAIL: [[mailto: Elias Schieferer <Elias.Schieferer@golling.schule>]]
+:END: 
+
+
+
+** Nikolaj Schwaiger
+:PROPERTIES:
+:EMAIL: [[mailto: Nikolaj Schwaiger <Nikolaj.Schwaiger@golling.schule>]]
+:END: 
+
+
+
+** Florian Siller
+:PROPERTIES:
+:EMAIL: [[mailto: Florian Siller <Florian.Siller@golling.schule>]]
+:END: 
+
+
+
+** Michael Steiner
+:PROPERTIES:
+:EMAIL: [[mailto: Michael Steiner <Michael.Steiner@golling.schule>]]
+:END: 
+
+
+
+** Pascal Stippler
+:PROPERTIES:
+:EMAIL: [[mailto: Pascal Stippler <Pascal.Stippler@golling.schule>]]
+:END: 
+
+
+
+** Esther Tong
+:PROPERTIES:
+:EMAIL: [[mailto: Esther Tong <Esther.Tong@golling.schule>]]
+:END: 
+
+
+
+** Alexander Wenger
+:PROPERTIES:
+:EMAIL: [[mailto: Alexander Wenger <Alexander.Wenger@golling.schule>]]
+:END: 
+
+
+
+** Oskar Wieser
+:PROPERTIES:
+:EMAIL: [[mailto: Oskar Wieser <Oskar.Wieser@golling.schule>]]
+:END: 
+
+
+
+** Veit Zierfuß
+:PROPERTIES:
+:EMAIL: [[mailto: Veit Zierfuß <Veit.Zierfuß@golling.schule>]]
+:END: 
+
+
+
+
+
+* Reflexionen
+
+

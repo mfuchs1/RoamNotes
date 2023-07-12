@@ -1,0 +1,238 @@
+#+title:      C Klasse 2021-25
+#+date:       [2022-12-30 Fr 19:41]
+#+filetags:   :3c:Project:
+#+identifier: 20221230T194127
+#+CATEGORY: golling
+
+* 2c 07:45-08:35
+<%%(org-class 2022 9 13 2023 7 4 2 27)>
+
+Wiederholung des Jahresstoffes
+Eventuell Bibel lesen?
+
+* 2c 08:40-09:30
+<%%(org-class 2022 9 16 2023 7 7 5 27)>
+
+Spielestunde
+
+* 2C [KV Daniela Schwaighofer]
+
+#+Name: 2021-students
+| First      | Last           | Name                 | Note | Heft | Mitarbeit | LZK |
+|------------+----------------+----------------------+------+------+-----------+-----|
+| Leonie     | Auer           | [[Leonie Auer][Leonie Auer]]          |      |      |           |     |
+| Selena     | Chmelik        | [[Selena Chmelik][Selena Chmelik]]       |      |      |           |     |
+| Sarah      | Dick           | [[Sarah Dick][Sarah Dick]]           |      |      |           |     |
+| Maximilian | Eberl          | [[Maximilian Eberl][Maximilian Eberl]]     |      |      |           |     |
+| Ana        | Ferreira Leite | [[Ana Ferreira Leite][Ana Ferreira Leite]]   |      |      |           |     |
+| Rafael     | Galler         | [[Rafael Galler][Rafael Galler]]        |      |      |           |     |
+| Sena       | Korkmaz        | [[Sena Korkmaz][Sena Korkmaz]]         |      |      |           |     |
+| Anja       | Lindenthaler   | [[Anja Lindenthaler][Anja Lindenthaler]]    |      |      |           |     |
+| Anna       | Loidl          | [[Anna Loidl][Anna Loidl]]           |      |      |           |     |
+| Karlo      | Lukacevic      | [[Karlo Lukacevic][Karlo Lukacevic]]      |      |      |           |     |
+| Paulina    | Montellano     | [[Paulina Montellano][Paulina Montellano]]   |      |      |           |     |
+| Tobias     | Neureiter      | [[Tobias Neureiter][Tobias Neureiter]]     |      |      |           |     |
+| Serah      | Prömer         | [[Serah Prömer][Serah Prömer]]         |      |      |           |     |
+| Melanie    | Scherer        | [[Melanie Scherer][Melanie Scherer]]      |      |      |           |     |
+| Lauren     | Steinberger    | [[Lauren Steinberger][Lauren Steinberger]]   |      |      |           |     |
+| Hannah     | Vorderleitner  | [[Hannah Vorderleitner][Hannah Vorderleitner]] |      |      |           |     |
+| Jakob      | Wallinger      | [[Jakob Wallinger][Jakob Wallinger]]      |      |      |           |     |
+| Katharina  | Wallinger      | [[Katharina Wallinger][Katharina Wallinger]]  |      |      |           |     |
+| Paula      | Weißenbacher   | [[Paula Weißenbacher][Paula Weißenbacher]]   |      |      |           |     |
+| Yaren      | Yavuzer        | [[Yaren Yavuzer][Yaren Yavuzer]]        |      |      |           |     |
+#+TBLFM: $4=vmean($5..$>)
+#+TBLFM: $3='(concat "[[" $1 " " $2 "][" $1 " " $2 "]]")
+#+TBLFM: $6='(identity remote(2021-22-Mitarbeit,@@#$2))
+
+#+BEGIN_SRC python :var table=2021-students :results output raw
+  print('* Mitarbeit')
+  for student in table:
+      first = student[0]
+      last = student[1]
+      email = first + '.' + last + '@golling.schule'
+      print('** ' + first + ' ' + last + '')
+      print(':PROPERTIES:')
+      print(':EMAIL: ' '[[mailto: ' + first + ' ' + last + ' <' + email + '>]]')
+      print(':END: ')
+      print('\n\n')
+#+END_SRC
+
+#+RESULTS:
+* Mitarbeit
+
+#+Name: Mitarbeit
+| Name                 | Note | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|----------------------+------+---+---+---+---+---+---+---+---+---+----|
+| [[Leonie Auer][Leonie Auer]]          |      |   |   |   |   |   |   |   |   |   |    |
+| [[Selena Chmelik][Selena Chmelik]]       |      |   |   |   |   |   |   |   |   |   |    |
+| [[Sarah Dick][Sarah Dick]]           |      |   |   |   |   |   |   |   |   |   |    |
+| [[Maximilian Eberl][Maximilian Eberl]]     |      |   |   |   |   |   |   |   |   |   |    |
+| [[Ana Ferreira Leite][Ana Ferreira Leite]]   |      |   |   |   |   |   |   |   |   |   |    |
+| [[Rafael Galler][Rafael Galler]]        |      |   |   |   |   |   |   |   |   |   |    |
+| [[Sena Korkmaz][Sena Korkmaz]]         |      |   |   |   |   |   |   |   |   |   |    |
+| [[Anja Lindenthaler][Anja Lindenthaler]]    |      |   |   |   |   |   |   |   |   |   |    |
+| [[Anna Loidl][Anna Loidl]]           |      |   |   |   |   |   |   |   |   |   |    |
+| [[Karlo Lukacevic][Karlo Lukacevic]]      |      |   |   |   |   |   |   |   |   |   |    |
+| [[Paulina Montellano][Paulina Montellano]]   |      |   |   |   |   |   |   |   |   |   |    |
+| [[Tobias Neureiter][Tobias Neureiter]]     |      |   |   |   |   |   |   |   |   |   |    |
+| [[Serah Prömer][Serah Prömer]]         |      |   |   |   |   |   |   |   |   |   |    |
+| [[Melanie Scherer][Melanie Scherer]]      |      |   |   |   |   |   |   |   |   |   |    |
+| [[Lauren Steinberger][Lauren Steinberger]]   |      |   |   |   |   |   |   |   |   |   |    |
+| [[Hannah Vorderleitner][Hannah Vorderleitner]] |      |   |   |   |   |   |   |   |   |   |    |
+| [[Jakob Wallinger][Jakob Wallinger]]      |      |   |   |   |   |   |   |   |   |   |    |
+| [[Katharina Wallinger][Katharina Wallinger]]  |      |   |   |   |   |   |   |   |   |   |    |
+| [[Paula Weißenbacher][Paula Weißenbacher]]   |      |   |   |   |   |   |   |   |   |   |    |
+| [[Yaren Yavuzer][Yaren Yavuzer]]        |      |   |   |   |   |   |   |   |   |   |    |
+#+TBLFM: $2=vmean($3..$>)
+#+TBLFM: $1='(identity remote(2021-students,@@#$3))
+
+
+** Leonie Auer
+:PROPERTIES:
+:EMAIL: [[mailto: Leonie Auer <Leonie.Auer@golling.schule>]]
+:END: 
+
+
+
+** Selena Chmelik
+:PROPERTIES:
+:EMAIL: [[mailto: Selena Chmelik <Selena.Chmelik@golling.schule>]]
+:END: 
+
+
+
+** Sarah Dick
+:PROPERTIES:
+:EMAIL: [[mailto: Sarah Dick <Sarah.Dick@golling.schule>]]
+:END: 
+
+
+
+** Maximilian Eberl
+:PROPERTIES:
+:EMAIL: [[mailto: Maximilian Eberl <Maximilian.Eberl@golling.schule>]]
+:END: 
+
+
+
+** Ana Ferreira Leite
+:PROPERTIES:
+:EMAIL: [[mailto: Ana Ferreira Leite <Ana.Ferreira Leite@golling.schule>]]
+:END: 
+
+
+
+** Rafael Galler
+:PROPERTIES:
+:EMAIL: [[mailto: Rafael Galler <Rafael.Galler@golling.schule>]]
+:END: 
+
+
+
+** Sena Korkmaz
+:PROPERTIES:
+:EMAIL: [[mailto: Sena Korkmaz <Sena.Korkmaz@golling.schule>]]
+:END: 
+
+
+
+** Anja Lindenthaler
+:PROPERTIES:
+:EMAIL: [[mailto: Anja Lindenthaler <Anja.Lindenthaler@golling.schule>]]
+:END: 
+
+
+
+** Anna Loidl
+:PROPERTIES:
+:EMAIL: [[mailto: Anna Loidl <Anna.Loidl@golling.schule>]]
+:END: 
+
+
+
+** Karlo Lukacevic
+:PROPERTIES:
+:EMAIL: [[mailto: Karlo Lukacevic <Karlo.Lukacevic@golling.schule>]]
+:END: 
+
+
+
+** Paulina Montellano
+:PROPERTIES:
+:EMAIL: [[mailto: Paulina Montellano <Paulina.Montellano@golling.schule>]]
+:END: 
+
+
+
+** Tobias Neureiter
+:PROPERTIES:
+:EMAIL: [[mailto: Tobias Neureiter <Tobias.Neureiter@golling.schule>]]
+:END: 
+
+
+
+** Serah Prömer
+:PROPERTIES:
+:EMAIL: [[mailto: Serah Prömer <Serah.Prömer@golling.schule>]]
+:END: 
+
+
+
+** Melanie Scherer
+:PROPERTIES:
+:EMAIL: [[mailto: Melanie Scherer <Melanie.Scherer@golling.schule>]]
+:END: 
+
+
+
+** Lauren Steinberger
+:PROPERTIES:
+:EMAIL: [[mailto: Lauren Steinberger <Lauren.Steinberger@golling.schule>]]
+:END: 
+
+
+
+** Hannah Vorderleitner
+:PROPERTIES:
+:EMAIL: [[mailto: Hannah Vorderleitner <Hannah.Vorderleitner@golling.schule>]]
+:END: 
+
+
+
+** Jakob Wallinger
+:PROPERTIES:
+:EMAIL: [[mailto: Jakob Wallinger <Jakob.Wallinger@golling.schule>]]
+:END: 
+
+
+
+** Katharina Wallinger
+:PROPERTIES:
+:EMAIL: [[mailto: Katharina Wallinger <Katharina.Wallinger@golling.schule>]]
+:END: 
+
+
+
+** Paula Weißenbacher
+:PROPERTIES:
+:EMAIL: [[mailto: Paula Weißenbacher <Paula.Weißenbacher@golling.schule>]]
+:END: 
+
+
+
+** Yaren Yavuzer
+:PROPERTIES:
+:EMAIL: [[mailto: Yaren Yavuzer <Yaren.Yavuzer@golling.schule>]]
+:END: 
+
+
+
+
+
+* Reflexionen
+
+** [[denote:20221226T110823][Sakramente]]
+PERIOD: [2023-02-03 Fr 08:40]
+
+Die Kinder arbeiten sehr konzentriert, ach, wie ist das entspannend. - Es gibt sie eben doch, die schönen Stunden.
+

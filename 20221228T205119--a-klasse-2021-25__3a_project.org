@@ -1,0 +1,259 @@
+#+title:      A Klasse 2021-25
+#+date:       [2022-12-28 Mi 20:51]
+#+filetags:   :3a:Project:
+#+identifier: 20221228T205119
+#+CATEGORY: golling
+
+
+* 3a 07:45-08:35
+<%%(org-class 2022 9 12 2023 7 3 1 27)>
+
+Was kann ich vorschlagen?
+Thema aus der Bibel?
+
+
+* 3a 07:45-08:35
+<%%(org-class 2022 9 14 2023 7 5 3 27)>
+
+Wiederholung Sakramente
+(letzte Seiten im Religionsbuch)
+
+ev. Doppelseite ins Heft?
+
+
+* 3A [KV Bernhard Moser]
+
+#+Name: 2021-students
+| First    | Last         | Name                | Note | Heft | Mitarbeit | LZK |
+|----------+--------------+---------------------+------+------+-----------+-----|
+| Marie    | Aigner       | [[Marie Aigner][Marie Aigner]]        |      |      |           |     |
+| Marko    | Bijelonjic   | [[Marko Bijelonjic][Marko Bijelonjic]]    |      |      |           |     |
+| Sarah    | Brandstätter | [[Sarah Brandstätter][Sarah Brandstätter]]  |      |      |           |     |
+| Julia    | Bretschu     | [[Julia Bretschu][Julia Bretschu]]      |      |      |           |     |
+| Matteo   | Eckhardt     | [[Matteo Eckhardt][Matteo Eckhardt]]     |      |      |           |     |
+| Diana    | Eibl         | [[Diana Eibl][Diana Eibl]]          |      |      |           |     |
+| Oliver   | Kurz         | [[Oliver Kurz][Oliver Kurz]]         |      |      |           |     |
+| Elisa    | Mayr         | [[Elisa Mayr][Elisa Mayr]]          |      |      |           |     |
+| Alisa    | Meisl        | [[Alisa Meisl][Alisa Meisl]]         |      |      |           |     |
+| Carolina | Schlager     | [[Carolina Schlager][Carolina Schlager]]   |      |      |           |     |
+| Marie    | Schmidt      | [[Marie Schmidt][Marie Schmidt]]       |      |      |           |     |
+| Annika   | Schröcker    | [[Annika Schröcker][Annika Schröcker]]    |      |      |           |     |
+| Lea      | Stoß         | [[Lea Stoß][Lea Stoß]]            |      |      |           |     |
+| Manuel   | Stoß         | [[Manuel Stoß][Manuel Stoß]]         |      |      |           |     |
+| Johanna  | Strubreiter  | [[Johanna Strubreiter][Johanna Strubreiter]] |      |      |           |     |
+| Laurenz  | Walcher      | [[Laurenz Walcher][Laurenz Walcher]]     |      |      |           |     |
+| Lorenz   | Wallinger    | [[Lorenz Wallinger][Lorenz Wallinger]]    |      |      |           |     |
+| Jana     | Wenger       | [[Jana Wenger][Jana Wenger]]         |      |      |           |     |
+| Luca     | Zemmer       | [[Luca Zemmer][Luca Zemmer]]         |      |      |           |     |
+| Karlo    | Zivkovic     | [[Karlo Zivkovic][Karlo Zivkovic]]      |      |      |           |     |
+| Robert   | Zivkovic     | [[Robert Zivkovic][Robert Zivkovic]]     |      |      |           |     |
+#+TBLFM: $4=vmean($INVALID..$>)
+#+TBLFM: $3='(concat "[[" $1 " " $2 "][" $1 " " $2 "]]")
+#+TBLFM: $6='(identity remote(2021-22-Mitarbeit,@@#$2)) 
+
+#+BEGIN_SRC python :var table=2021-students :results output raw
+  print('* Mitarbeit')
+  for student in table:
+      first = student[0]
+      last = student[1]
+      email = first + '.' + last + '@golling.schule'
+      print('** ' + first + ' ' + last + '')
+      print(':PROPERTIES:')
+      print(':EMAIL: ' '[[mailto: ' + first + ' ' + last + ' <' + email + '>]]')
+      print(':END: ')
+      print('\n\n')
+#+END_SRC
+
+#+RESULTS:
+* Mitarbeit
+
+#+Name: Mitarbeit
+| Name                | Note | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|---------------------+------+---+---+---+---+---+---+---+---+---+----|
+| [[Marie Aigner][Marie Aigner]]        |      |   |   |   |   |   |   |   |   |   |    |
+| [[Marko Bijelonjic][Marko Bijelonjic]]    |      |   |   |   |   |   |   |   |   |   |    |
+| [[Sarah Brandstätter][Sarah Brandstätter]]  |      |   |   |   |   |   |   |   |   |   |    |
+| [[Julia Bretschu][Julia Bretschu]]      |      |   |   |   |   |   |   |   |   |   |    |
+| [[Matteo Eckhardt][Matteo Eckhardt]]     |      |   |   |   |   |   |   |   |   |   |    |
+| [[Diana Eibl][Diana Eibl]]          |      |   |   |   |   |   |   |   |   |   |    |
+| [[Oliver Kurz][Oliver Kurz]]         |      |   |   |   |   |   |   |   |   |   |    |
+| [[Elisa Mayr][Elisa Mayr]]          |      |   |   |   |   |   |   |   |   |   |    |
+| [[Alisa Meisl][Alisa Meisl]]         |      |   |   |   |   |   |   |   |   |   |    |
+| [[Carolina Schlager][Carolina Schlager]]   |      |   |   |   |   |   |   |   |   |   |    |
+| [[Marie Schmidt][Marie Schmidt]]       |      |   |   |   |   |   |   |   |   |   |    |
+| [[Annika Schröcker][Annika Schröcker]]    |      |   |   |   |   |   |   |   |   |   |    |
+| [[Lea Stoß][Lea Stoß]]            |      |   |   |   |   |   |   |   |   |   |    |
+| [[Manuel Stoß][Manuel Stoß]]         |      |   |   |   |   |   |   |   |   |   |    |
+| [[Johanna Strubreiter][Johanna Strubreiter]] |      |   |   |   |   |   |   |   |   |   |    |
+| [[Laurenz Walcher][Laurenz Walcher]]     |      |   |   |   |   |   |   |   |   |   |    |
+| [[Lorenz Wallinger][Lorenz Wallinger]]    |      |   |   |   |   |   |   |   |   |   |    |
+| [[Jana Wenger][Jana Wenger]]         |      |   |   |   |   |   |   |   |   |   |    |
+| [[Luca Zemmer][Luca Zemmer]]         |      |   |   |   |   |   |   |   |   |   |    |
+| [[Karlo Zivkovic][Karlo Zivkovic]]      |      |   |   |   |   |   |   |   |   |   |    |
+| [[Robert Zivkovic][Robert Zivkovic]]     |      |   |   |   |   |   |   |   |   |   |    |
+#+TBLFM: $2=vmean($3..$>)
+#+TBLFM: $1='(identity remote(2021-students,@@#$3))
+
+
+
+** Marie Aigner
+:PROPERTIES:
+:EMAIL: [[mailto: Marie Aigner <Marie.Aigner@golling.schule>]]
+:END: 
+
+
+
+** Marko Bijelonjic
+:PROPERTIES:
+:EMAIL: [[mailto: Marko Bijelonjic <Marko.Bijelonjic@golling.schule>]]
+:END: 
+
+
+
+** Sarah Brandstätter
+:PROPERTIES:
+:EMAIL: [[mailto: Sarah Brandstätter <Sarah.Brandstätter@golling.schule>]]
+:END: 
+
+
+
+** Julia Bretschu
+:PROPERTIES:
+:EMAIL: [[mailto: Julia Bretschu <Julia.Bretschu@golling.schule>]]
+:END: 
+
+
+
+** Matteo Eckhardt
+:PROPERTIES:
+:EMAIL: [[mailto: Matteo Eckhardt <Matteo.Eckhardt@golling.schule>]]
+:END: 
+
+
+
+** Diana Eibl
+:PROPERTIES:
+:EMAIL: [[mailto: Diana Eibl <Diana.Eibl@golling.schule>]]
+:END: 
+
+
+
+** Oliver Kurz
+:PROPERTIES:
+:EMAIL: [[mailto: Oliver Kurz <Oliver.Kurz@golling.schule>]]
+:END: 
+
+
+
+** Elisa Mayr
+:PROPERTIES:
+:EMAIL: [[mailto: Elisa Mayr <Elisa.Mayr@golling.schule>]]
+:END: 
+
+
+
+** Alisa Meisl
+:PROPERTIES:
+:EMAIL: [[mailto: Alisa Meisl <Alisa.Meisl@golling.schule>]]
+:END: 
+
+
+
+** Carolina Schlager
+:PROPERTIES:
+:EMAIL: [[mailto: Carolina Schlager <Carolina.Schlager@golling.schule>]]
+:END: 
+
+
+
+** Marie Schmidt
+:PROPERTIES:
+:EMAIL: [[mailto: Marie Schmidt <Marie.Schmidt@golling.schule>]]
+:END: 
+
+
+
+** Annika Schröcker
+:PROPERTIES:
+:EMAIL: [[mailto: Annika Schröcker <Annika.Schröcker@golling.schule>]]
+:END: 
+
+
+
+** Lea Stoß
+:PROPERTIES:
+:EMAIL: [[mailto: Lea Stoß <Lea.Stoß@golling.schule>]]
+:END: 
+
+
+
+** Manuel Stoß
+:PROPERTIES:
+:EMAIL: [[mailto: Manuel Stoß <Manuel.Stoß@golling.schule>]]
+:END: 
+
+
+
+** Johanna Strubreiter
+:PROPERTIES:
+:EMAIL: [[mailto: Johanna Strubreiter <Johanna.Strubreiter@golling.schule>]]
+:END: 
+
+
+
+** Laurenz Walcher
+:PROPERTIES:
+:EMAIL: [[mailto: Laurenz Walcher <Laurenz.Walcher@golling.schule>]]
+:END: 
+
+
+
+** Lorenz Wallinger
+:PROPERTIES:
+:EMAIL: [[mailto: Lorenz Wallinger <Lorenz.Wallinger@golling.schule>]]
+:END: 
+
+
+
+** Jana Wenger
+:PROPERTIES:
+:EMAIL: [[mailto: Jana Wenger <Jana.Wenger@golling.schule>]]
+:END: 
+
+
+
+** Luca Zemmer
+:PROPERTIES:
+:EMAIL: [[mailto: Luca Zemmer <Luca.Zemmer@golling.schule>]]
+:END: 
+
+
+
+** Karlo Zivkovic
+:PROPERTIES:
+:EMAIL: [[mailto: Karlo Zivkovic <Karlo.Zivkovic@golling.schule>]]
+:END: 
+
+
+
+** Robert Zivkovic
+:PROPERTIES:
+:EMAIL: [[mailto: Robert Zivkovic <Robert.Zivkovic@golling.schule>]]
+:END: 
+
+
+
+
+
+* Reflexionen
+
+** Wie gehe ich mit Unterrichtsstörungen um?
+Wow, das wird immer schlimmer. Liegt es an mir? Liegt es (nur) an den Schülern? Auf jeden Fall werde ich von den Schülern (meist den Buben) häufig unterbrochen. Da dies in einigen Klassen vorkommt, stellt sich für mich doch die Frage, ob es irgendwie auch an mir hängt. Oder am Fach?
+
+Bernhard (KV) hat mir gesagt, dass es ihm ähnlich ergeht: er bemerkt einen Unterschied zwischen Mathematik und Geografie. Also liegt es auch am Fach.
+
+Heute habe ich die gesamte Klasse schreiben lassen; das werde ich nächste Stunde genauso machen.
+
+Ich frage mich: "Woher kommt diese Unart, den Lehrer nicht mal ausreden zu lassen; nebenbei Privatgespräche abzuhalten; ...? Woher lernen die Kinder dieses Verhalten?" Meist schauen sich die Kinder dies von Erwachsenen oder Film, TV, etc ab.
+
+** ein Eintrag
