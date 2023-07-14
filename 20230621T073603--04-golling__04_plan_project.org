@@ -493,13 +493,13 @@ Inhaltlich konkretisiert werden die Kompetenzbeschreibungen durch Anwendungsbere
 Unterrichtshinweise (UH) sind als Ergänzungen zu den Fachlehrplänen gedacht. Sie geben Empfehlungen für die Umsetzung des kompetenzorientierten Lehrplans und unterstützen bei der Unterrichtsplanung.
 
 
-** TODO Themengebiete (nach Kirchenjahr, Heilige Schrift, ...)
+** Themengebiete (nach Kirchenjahr, Heilige Schrift, ...)
 
 
-** TODO Ziele formulieren
+** Ziele formulieren
   
 
-** TODO Methoden entwickeln
+** Methoden entwickeln
 Ich hatte gerade am Dienstag ein Gespräch mit der 4a: ihr passives und lethargisches Verhalten ist manchmal ein Zeichen, dass der Unterricht für sie zu fad und uninteressant ist. Sie wollen die Themen lieber selbständig erarbeiten. Ihre Vorschläge:
 
  - Gruppenarbeit
@@ -522,7 +522,7 @@ Für das aktuelle Thema "Sehnsucht, Glück, Drogen" erarbeiten die Schüler in K
 Jede Gruppe soll die Giftstoffe, ihre Wirkung, Anzeichen der Abhängigkeit, etc herausrabeiten, aber ebenso Möglichkeiten des Entzugs, Heilung aufzeigen.
 
 
-* TODO Ablauf einer Stunde
+* Ablauf einer Stunde
 
  1. Andocken an letzte Stunde / Whg / Aufzeichnungen
  2. Hinführung zu neuem Thema
@@ -532,7 +532,7 @@ Jede Gruppe soll die Giftstoffe, ihre Wirkung, Anzeichen der Abhängigkeit, etc 
 
 
    
-* TODO Checkbox [0/8] 
+* Checkbox [0/8] 
 
   - [ ] Klasse?
   - [ ] Ideen
@@ -544,7 +544,7 @@ Jede Gruppe soll die Giftstoffe, ihre Wirkung, Anzeichen der Abhängigkeit, etc 
   - [ ] Ablauf der Stunde
 
 
-* TODO Aufzeichnungen / Mitarbeit
+* Aufzeichnungen / Mitarbeit
 In diesem org.-file zeichne ich die Mitarbeit der einzelnen Schüler auf.
 
 

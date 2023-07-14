@@ -4,9 +4,10 @@
 #+identifier: 20230708T143945
 #+CATEGORY: golling
 
-
 * 1b 07:45-08:35
 <%%(org-class 2022 9 12 2023 7 3 1 27)>
+Hier kommt mein Text. Und da schreibe ich weiter.
+
 
 * 1b 07:45-08:35
 <%%(org-class 2022 9 12 2023 7 3 1 27)>
