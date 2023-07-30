@@ -243,13 +243,13 @@ osm-link:
 ** Besuch bei Valerie
 <2023-07-10 Mo 09:00>--<2023-07-10 Mo 17:00>
 
-** Besuch bei Alicia und Fred (50 Geb.)
-<2023-07-17 Mo 14:00>--<2023-07-17 Mo 22:00>
-Kinder bei Omi und Opa / Manfred
-
 ** Freibad Lepi 10:00-19:00
 <%%(org-class 2023 7 8 2023 9 6 6 28)>
 
 ** Grill bei Omi und Opa
 <2023-07-15 Sa 14:00>--<2023-07-15 Sa 18:00>
 [[mailto: Peter Fuchs <peter@dipfuchs>]]
+
+** 50. Geburtstagsfeier Fred (Alicia)
+<2023-07-17 Mo 18:00>--<2023-07-17 Mo 22:00>
+

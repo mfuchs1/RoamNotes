@@ -8,14 +8,12 @@
 * 2a 08:40-09:30
 <%%(org-class 2022 9 13 2023 7 4 2 27)>
 
-Film über Burschen in Palästina / ...
 
 * 2a 12:30-13:20
 <%%(org-class 2022 9 16 2023 7 7 5 27)>
 
-Spielestunde
 
-* 1A MINT [KV Manuela Singer]
+* 2A MINT [KV Manuela Singer]
 
 #+Name: 2021-students
 | First     | Last       | Name               | Note | Mitarbeit | Heft | LZK |
@@ -46,6 +44,7 @@ Spielestunde
 | Alexander | Wenger     | [[Alexander Wenger][Alexander Wenger]]   |    1 |           |      |     |
 | Oskar     | Wieser     | [[Oskar Wieser][Oskar Wieser]]       |    1 |           |      |     |
 | Veit      | Zierfuß    | [[Veit Zierfuß][Veit Zierfuß]]       |    1 |           |      |     |
+|-----------+------------+--------------------+------+-----------+------+-----|
 #+TBLFM: $4=vmean($5..$>)
 #+TBLFM: $3='(concat "[[" $1 " " $2 "][" $1 " " $2 "]]")
 #+TBLFM: $5='(identity remote(2021-22-Mitarbeit,@@#$2))

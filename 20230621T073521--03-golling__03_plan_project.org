@@ -6,7 +6,7 @@
 
 * Jahresplanung
 
-** [#A] [[denote:20230623T225514][[SW01] Vieles hat Leben in sich / Das Wunder des Lebens]]
+** TODO [#A] [[denote:20230623T225514][[SW01] Vieles hat Leben in sich / Das Wunder des Lebens]]
 
 ** [[denote:20230623T225904][[SW02] Das Leben kleben]]
 

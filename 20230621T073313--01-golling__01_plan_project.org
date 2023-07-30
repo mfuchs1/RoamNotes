@@ -6,7 +6,7 @@
 
 * Jahresplanung
 
-** [#A] [[denote:20230619T073700][[SW01] Jahresstoff / ich stehe in den Schuhen des Anderen]]
+** TODO [#A] [[denote:20230619T073700][[SW01] Jahresstoff / ich stehe in den Schuhen des Anderen]]
 
 ** [[denote:20230619T074010][[SW02] Eine Gemeinschaft, die uns stärkt]]
 

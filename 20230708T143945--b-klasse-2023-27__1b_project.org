@@ -6,11 +6,11 @@
 
 * 1b 07:45-08:35
 <%%(org-class 2022 9 12 2023 7 3 1 27)>
-Hier kommt mein Text. Und da schreibe ich weiter.
-
+Hier kommt mein Text. Und da schreibe ich weiter. Ist das wirklich besser zum Lesen? Ich bin mir nicht so sicher. Was denken andere, wenn sie diesen Text lesen? Hm... So sieht der Text eigentlich recht sauber und klar aus. In der Iosevka Comfy Wide Fixed sieht der Text für meinen Geschmack jedoch besser lesbar aus als in der Iosevka Aile oder der regulären Iosevka. Jetbrains Mono wäre auch noch eine Alternative. Ich hab mich von der Iosevka CWF verabschiedet; eventuell war meine Installation nicht korrekt. Ich kehre zu Jetbrains Mono zurück und habe in allen Programmen und va auf dem ganzen System die Schriftarten geändert.
 
 * 1b 07:45-08:35
 <%%(org-class 2022 9 12 2023 7 3 1 27)>
+
 
 * 1B [KV Gertraud Viertbauer]
 #+Name: 2021-students
@@ -54,32 +54,30 @@ Hier kommt mein Text. Und da schreibe ich weiter.
 
 #+RESULTS:
 * Mitarbeit
-
+# In diese Tabelle trage ich die Mitarbeit während 10 Schulwochen ein. Danach kann ich mit der ersten Tabellenformel die aktuelle Durchschnittsnote errechnen. Diese kann ich in die obige Tabelle übernehmen. Nach 23 Wochen (dh einem Semster) müsste ich die Tabelle wieder leeren - hm, gibt es keine bessere Lösung? Eine Tabelle mit allen 43 Schulwochen wäre zu groß. Mit 'C-c TAB' kann ich einzelne Spalten ein- und ausklappen. Wie geht das mit mehreren Spalten?
 #+Name: Mitarbeit
-| Name                 | Note | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|----------------------+------+---+---+---+---+---+---+---+---+---+----|
-| [[Marko Davidovic][Marko Davidovic]]      |      |   |   |   |   |   |   |   |   |   |    |
-| [[Elias Galler][Elias Galler]]         |      |   |   |   |   |   |   |   |   |   |    |
-| [[Emma Hansmann][Emma Hansmann]]        |      |   |   |   |   |   |   |   |   |   |    |
-| [[Magdalena Höllbacher][Magdalena Höllbacher]] |      |   |   |   |   |   |   |   |   |   |    |
-| [[Julia Höllweger][Julia Höllweger]]      |      |   |   |   |   |   |   |   |   |   |    |
-| [[Rudolf Jochinger][Rudolf Jochinger]]     |      |   |   |   |   |   |   |   |   |   |    |
-| [[Martin Kappacher][Martin Kappacher]]     |      |   |   |   |   |   |   |   |   |   |    |
-| [[Laura Klausner][Laura Klausner]]       |      |   |   |   |   |   |   |   |   |   |    |
-| [[Sophia Korten][Sophia Korten]]        |      |   |   |   |   |   |   |   |   |   |    |
-| [[Lisa Kronreif][Lisa Kronreif]]        |      |   |   |   |   |   |   |   |   |   |    |
-| [[Peter Kronreif][Peter Kronreif]]       |      |   |   |   |   |   |   |   |   |   |    |
-| [[Anna-Mae Leierer][Anna-Mae Leierer]]     |      |   |   |   |   |   |   |   |   |   |    |
-| [[Raphael Neureiter][Raphael Neureiter]]    |      |   |   |   |   |   |   |   |   |   |    |
-| [[Felix Putz][Felix Putz]]           |      |   |   |   |   |   |   |   |   |   |    |
-| [[Klara Schmitzberger][Klara Schmitzberger]]  |      |   |   |   |   |   |   |   |   |   |    |
-| [[Elisabeth Seigmann][Elisabeth Seigmann]]   |      |   |   |   |   |   |   |   |   |   |    |
-| [[Bianca Spagolla][Bianca Spagolla]]      |      |   |   |   |   |   |   |   |   |   |    |
-| [[Ilija Zivkovic][Ilija Zivkovic]]       |      |   |   |   |   |   |   |   |   |   |    |
+| Name                 | Note | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
+|----------------------+------+---+---+---+---+---+---+---+---+---+----+----|
+| [[Marko Davidovic][Marko Davidovic]]      |      |   |   |   |   |   |   |   |   |   |    |    |
+| [[Elias Galler][Elias Galler]]         |      |   |   |   |   |   |   |   |   |   |    |    |
+| [[Emma Hansmann][Emma Hansmann]]        |      |   |   |   |   |   |   |   |   |   |    |    |
+| [[Magdalena Höllbacher][Magdalena Höllbacher]] |      |   |   |   |   |   |   |   |   |   |    |    |
+| [[Julia Höllweger][Julia Höllweger]]      |      |   |   |   |   |   |   |   |   |   |    |    |
+| [[Rudolf Jochinger][Rudolf Jochinger]]     |      |   |   |   |   |   |   |   |   |   |    |    |
+| [[Martin Kappacher][Martin Kappacher]]     |      |   |   |   |   |   |   |   |   |   |    |    |
+| [[Laura Klausner][Laura Klausner]]       |      |   |   |   |   |   |   |   |   |   |    |    |
+| [[Sophia Korten][Sophia Korten]]        |      |   |   |   |   |   |   |   |   |   |    |    |
+| [[Lisa Kronreif][Lisa Kronreif]]        |      |   |   |   |   |   |   |   |   |   |    |    |
+| [[Peter Kronreif][Peter Kronreif]]       |      |   |   |   |   |   |   |   |   |   |    |    |
+| [[Anna-Mae Leierer][Anna-Mae Leierer]]     |      |   |   |   |   |   |   |   |   |   |    |    |
+| [[Raphael Neureiter][Raphael Neureiter]]    |      |   |   |   |   |   |   |   |   |   |    |    |
+| [[Felix Putz][Felix Putz]]           |      |   |   |   |   |   |   |   |   |   |    |    |
+| [[Klara Schmitzberger][Klara Schmitzberger]]  |      |   |   |   |   |   |   |   |   |   |    |    |
+| [[Elisabeth Seigmann][Elisabeth Seigmann]]   |      |   |   |   |   |   |   |   |   |   |    |    |
+| [[Bianca Spagolla][Bianca Spagolla]]      |      |   |   |   |   |   |   |   |   |   |    |    |
+| [[Ilija Zivkovic][Ilija Zivkovic]]       |      |   |   |   |   |   |   |   |   |   |    |    |
 #+TBLFM: $2=vmean($3..$>)
 #+TBLFM: $1='(identity remote(2021-students,@@#$3))
-
-
 
 ** Marko Davidovic
 :PROPERTIES:

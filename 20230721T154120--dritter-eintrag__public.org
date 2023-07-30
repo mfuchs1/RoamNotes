@@ -1,0 +1,16 @@
+#+title:      dritter Eintrag
+#+date:       [2023-07-21 Fr 15:41]
+#+filetags:   :public:
+#+identifier: 20230721T154120
+#+HUGO_BASE_DIR: /home/matthias/flying-toasters/
+#+AUTHOR: Matthias Fuchs
+
+
+So diesmal hab ich im Header des Files "Author" hinzugefügt.
+
+* Erstens
+Mein Ziel ist es, ein org-capture zu erstellen. Danach muss das capture nur mehr nach Hugo exportiert werden. Im besten Fall könnte dies in einem Schritt und automatisiert geschehen.
+
+* Zweitens
+
+* Drittens

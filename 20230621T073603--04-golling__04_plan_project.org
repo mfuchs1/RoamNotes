@@ -6,7 +6,7 @@
 
 * Jahresplanung
 
-** [#A] [[denote:20230711T002844][[SW01] Jesus ist die Quelle unseres Lebens]]
+** TODO [#A] [[denote:20230711T002844][[SW01] Jesus ist die Quelle unseres Lebens]]
 
 ** [[denote:20230711T003116][[SW02] Die Berufung als Quelle meines Lebens]]
 
