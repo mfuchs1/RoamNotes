@@ -1,8 +1,13 @@
-#+title:      Parsch
+#+title:      Parsch Klassen
 #+date:       [2023-01-02 Mo 19:42]
 #+filetags:   :parsch:Project:
 #+identifier: 20230102T194216
-#+CATEGORY: parsch 
+#+CATEGORY: parsch
+
+* Tasks
+
+** Testeintrag
+<2023-08-04 Fr 10:00>--<2023-08-04 Fr 11:00>
 
 * Montag
 ** 1b / 4b 14:30-15:20

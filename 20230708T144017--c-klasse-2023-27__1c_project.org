@@ -6,6 +6,7 @@
 
 * 1c 07:45-08:35
 <%%(org-class 2022 9 12 2023 7 3 1 27)>
+Das ist ein Text in der Iosevka Aile. Hm einmal was anderes und gefällt mir viel besser. 
 
 * 1c 07:45-08:35
 <%%(org-class 2022 9 12 2023 7 3 1 27)>
