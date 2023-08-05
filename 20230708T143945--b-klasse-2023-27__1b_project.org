@@ -12,7 +12,9 @@ Eigentlich habe ich bisher die 'headings' und den file-title größer geschriebe
 
 Ich habe seine Konfiguration von den modus-themes übernommen - schaut sehr schöns aus - alles ist in einem "Lavendel"-Stil.
 
-Jetzt sollte ich beginen, das Schuljahr und die Themen genauer vorzubereiten. Emacs hab ich ausreichend konfiguriert. Die Schriftgröße habe ich v.a. in Emacs con 12 auf 13 erhöht (so wird es auf der Homepage von JetBrains Mono vorgeschlagen: [[https://www.jetbrains.com/lp/mono/]])
+Jetzt sollte ich beginen, das Schuljahr und die Themen genauer vorzubereiten. Emacs hab ich ausreichend konfiguriert. Die Schriftgröße habe ich v.a. in Emacs con 12 auf 13 erhöht (so wird es auf der Homepage von JetBrains Mono vorgeschlagen: [[https://www.jetbrains.com/lp/mono/]]) Diese kleine Änderung hat eine relativ große Wirkung und verbessert die Lesbarkeit des Textes. Und meine Augen müssen sich erst an die neue Schriftgröße gewöhnen.
+
+Dieser ständige Regen nervt sehr. Wann hört er auf? Ich denke an all die armen Menschen, die unter Hochwasser leiden müssen. Manchmal wird das Datum rechts in der Modeline schwarz (statt rot). Woran liegt das? 
 
 * 1b 07:45-08:35
 <%%(org-class 2022 9 12 2023 7 3 1 27)>
