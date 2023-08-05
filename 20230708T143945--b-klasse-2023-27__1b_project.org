@@ -8,6 +8,12 @@
 <%%(org-class 2022 9 12 2023 7 3 1 27)>
 Hier kommt mein Text. Und da schreibe ich weiter. Ist das wirklich besser zum Lesen? Ich bin mir nicht so sicher. Was denken andere, wenn sie diesen Text lesen? Hm... So sieht der Text eigentlich recht sauber und klar aus. In der Iosevka Comfy Wide Fixed sieht der Text für meinen Geschmack jedoch besser lesbar aus als in der Iosevka Aile oder der regulären Iosevka. Jetbrains Mono wäre auch noch eine Alternative. Ich hab mich von der Iosevka CWF verabschiedet; eventuell war meine Installation nicht korrekt. Ich kehre zu Jetbrains Mono zurück und habe in allen Programmen und va auf dem ganzen System die Schriftarten geändert.
 
+Eigentlich habe ich bisher die 'headings' und den file-title größer geschrieben - mit modus-themes-headings lässt sich das sehr gut und einfach konfigurieren. Jetzt habe ich bei prot nachgeschaut: er verändert nur die org-agenda. Die Headings in org-mode bleiben gleich groß, es ändert sich nur die Farbe (blau oder violett). Prot hat Recht: schließlich ist es Text - es muss nicht all zu fancy sein. Die Headings sind fett, das genügt als Hervorhebung.
+
+Ich habe seine Konfiguration von den modus-themes übernommen - schaut sehr schöns aus - alles ist in einem "Lavendel"-Stil.
+
+Jetzt sollte ich beginen, das Schuljahr und die Themen genauer vorzubereiten. Emacs hab ich ausreichend konfiguriert. Die Schriftgröße habe ich v.a. in Emacs con 12 auf 13 erhöht (so wird es auf der Homepage von JetBrains Mono vorgeschlagen: [[https://www.jetbrains.com/lp/mono/]])
+
 * 1b 07:45-08:35
 <%%(org-class 2022 9 12 2023 7 3 1 27)>
 
