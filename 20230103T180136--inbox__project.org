@@ -60,4 +60,16 @@ CLOSED: [2023-07-07 Fr 22:07] DEADLINE: <2023-07-07 Fr 21:00>
 - Manuela Gruber: siehe Liste
 - 3b: ein Schüler mehr
 - 4a: eine Schülerin mehr
-  
+
+
+* DONE Neuer Eintrag
+CLOSED: [2023-08-11 Fr 17:12] DEADLINE: <2023-08-11 Fr 17:08>
+:PROPERTIES:
+:CAPTURED: [2023-08-11 Fr 17:08]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-08-11 Fr 17:12]
+:END:
+
+[[denote:20221228T205119]]
+

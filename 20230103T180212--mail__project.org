@@ -6,6 +6,13 @@
 
 * Follow Up
 
+** TODO Follow up with Elisabeth Weninger on AW: Zusätzliche Schulbücher
+SCHEDULED:<2023-08-11 Fr>
+DEADLINE: <2023-08-13 So>
+
+[[mu4e:msgid:00ae01d9b31a$23a2be50$6ae83af0$@motzko.at][AW: Zusätzliche Schulbücher]]
+
+
 ** TODO Follow up with Manova-Magazin on [[mu4e:msgid:64ce5649133b_75fc9f43802942883d@www-manova.mail][Manova-Newsletter 32/2023]]
 SCHEDULED:<2023-08-05 Sa>
 DEADLINE: <2023-08-07 Mo>

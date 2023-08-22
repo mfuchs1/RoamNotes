@@ -1,6 +1,6 @@
-#+title:      Gabriel
+#+title:      Gabriel Diary
 #+date:       [2023-08-07 Mo 11:17]
-#+filetags:   :gabriel:
+#+filetags:   :gabriel:Project:
 #+identifier: 20230807T111759
 
 * 2023

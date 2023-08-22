@@ -4,16 +4,16 @@
 #+identifier: 20221230T194127
 #+CATEGORY: golling
 
-* 2c 07:45-08:35
+* 3c 07:45-08:35
 <%%(org-class 2022 9 13 2023 7 4 2 27)>
 
 
-* 2c 08:40-09:30
+* 3c 08:40-09:30
 <%%(org-class 2022 9 16 2023 7 7 5 27)>
 
 Spielestunde
 
-* 2C [KV Daniela Schwaighofer]
+* 3C [KV Daniela Schwaighofer]
 
 #+Name: 2021-students
 | First      | Last           | Name                 | Note | Heft | Mitarbeit | LZK |
@@ -56,7 +56,7 @@ Spielestunde
 #+END_SRC
 
 #+RESULTS:
-* Mitarbeit
+* Mitarbeitstabelle
 
 #+Name: Mitarbeit
 | Name                 | Note | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
@@ -83,13 +83,11 @@ Spielestunde
 | [[Yaren Yavuzer][Yaren Yavuzer]]        |      |   |   |   |   |   |   |   |   |   |    |
 #+TBLFM: $2=vmean($3..$>)
 #+TBLFM: $1='(identity remote(2021-students,@@#$3))
-
-
+* Mitarbeit
 ** Leonie Auer
 :PROPERTIES:
 :EMAIL: [[mailto: Leonie Auer <Leonie.Auer@golling.schule>]]
 :END: 
-
 
 
 ** Selena Chmelik

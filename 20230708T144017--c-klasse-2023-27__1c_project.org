@@ -3,6 +3,10 @@
 #+filetags:   :1c:Project:
 #+identifier: 20230708T144017
 #+CATEGORY: golling
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) NEXT(x) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) CANCELED(c@)
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
 
 * 1c 07:45-08:35
 <%%(org-class 2022 9 12 2023 7 3 1 27)>
@@ -52,7 +56,7 @@ Das ist ein Text in der Iosevka Aile. Hm einmal was anderes und gefällt mir vie
 #+END_SRC
 
 #+RESULTS:
-* Mitarbeit
+* Mitarbeittabelle
 
 #+Name: Mitarbeit
 | Name                 | Note | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
@@ -77,14 +81,11 @@ Das ist ein Text in der Iosevka Aile. Hm einmal was anderes und gefällt mir vie
 | [[Jasmin Zuchristian][Jasmin Zuchristian]]   |      |   |   |   |   |   |   |   |   |   |    |
 #+TBLFM: $2=vmean($3..$>)
 #+TBLFM: $1='(identity remote(2021-students,@@#$3))
-
-
-
+* Mitarbeit
 ** Julia Anthofer
 :PROPERTIES:
 :EMAIL: [[mailto: Julia Anthofer <Julia.Anthofer@golling.schule>]]
 :END: 
-
 
 
 ** Hanna Bernhofer
