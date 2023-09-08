@@ -5,7 +5,7 @@
 #+CATEGORY: golling
 
 
-* 2b 10:40-11:30
+* 3b 10:40-11:30
 <%%(org-class 2022 9 12 2023 7 3 1 27)>
 
 Judentum - Religionsbuch
@@ -18,7 +18,7 @@ LZK über Judentum
 Letzte Seite im RB; ...
 
 
-* 2b 07:45-08:35
+* 3b 07:45-08:35
 <%%(org-class 2022 9 15 2023 7 6 4 27)>
 
 Spielestunde...
@@ -50,7 +50,7 @@ Rechenbeispiele
 Hebel, Kraftarm, Lastarm
 
 
-* 2B [KV Lena ]
+* 3B [KV Lena ]
 
 
 #+Name: 2021-students

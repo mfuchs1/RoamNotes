@@ -23,7 +23,7 @@ Buch S. 104ff
 Buch S. 106 / 107
 Arbeitsheft S. 54
 
-* 1B [KV Martin Pock]
+* 2B [KV Martin Pock]
 
 #+Name: 2021-students
 | First     | Last       | Name               | Note | Mitarbeit | Heft | LZK |
