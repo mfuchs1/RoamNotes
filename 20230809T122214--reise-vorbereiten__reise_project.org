@@ -1,6 +1,6 @@
 #+title:      Reise vorbereiten
 #+date:       [2023-08-09 Mi 12:22]
-#+filetags:   :reise:Project:
+#+filetags:   :reise:
 #+identifier: 20230809T122214
 #+CATEGORY: Reise
 
