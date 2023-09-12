@@ -4,15 +4,24 @@
 #+identifier: 20230621T073405
 #+CATEGORY: Topic 02
 
+* Klassen
+[[denote:20221228T204848][A Klasse 2022-26]]
+
+[[denote:20221230T193456][B Klasse 2022-26]]
+
 * Jahresplanung
 
-** TODO [#A] [[denote:20230619T210001][[SW01] Mit jedem redest du anders]]
+** [[denote:20230619T210001][[SW01] Mit jedem redest du anders]]
+<2023-09-11 Mo>
 
 ** [[denote:20230619T210120][[SW02] Autorität und Verantwortung]]
+<2023-09-18 Mo>
 
 ** [[denote:20230619T210213][[SW03] Impuls: Konflikte lösen]]
+<2023-09-25 Mo>
 
 ** [[denote:20230619T210331][[SW04] Wofür Jesus streitet / Liebe, eine Grundhaltung]]
+<2023-10-02 Mo>
 
 ** [[denote:20230619T210414][[SW05] Freundschaft: Verliebt und verzaubert]]
 

@@ -4,36 +4,46 @@
 #+identifier: 20230708T143945
 #+CATEGORY: golling
 
-* 1b 07:45-08:35
-<%%(org-class 2022 9 12 2023 7 3 1 27)>
+* Jahresplanung
+[[denote:20230621T073313][01 Golling]]
+
+* 1b 12:30-13:20
+<%%(org-class 2023 9 12 2024 7 6 2)>
 
 
 * 1b 07:45-08:35
-<%%(org-class 2022 9 12 2023 7 3 1 27)>
+<%%(org-class 2023 9 15 2024 7 9 5)>
 
 
 * 1B [KV Gertraud Viertbauer]
 #+Name: 2021-students
 | First     | Last          | Name                 | Note | Mitarbeit | Heft | LZK |
 |-----------+---------------+----------------------+------+-----------+------+-----|
+| Julia     | Anthofer      | [[Julia Anthofer][Julia Anthofer]]       |      |           |      |     |
 | Marko     | Davidovic     | [[Marko Davidovic][Marko Davidovic]]      |    1 |           |      |     |
-| Elias     | Galler        | [[Elias Galler][Elias Galler]]         |    1 |           |      |     |
+| Simon     | Hager         | [[Simon Hager][Simon Hager]]          |      |           |      |     |
 | Emma      | Hansmann      | [[Emma Hansmann][Emma Hansmann]]        |    1 |           |      |     |
 | Magdalena | Höllbacher    | [[Magdalena Höllbacher][Magdalena Höllbacher]] |    1 |           |      |     |
 | Julia     | Höllweger     | [[Julia Höllweger][Julia Höllweger]]      |    1 |           |      |     |
 | Rudolf    | Jochinger     | [[Rudolf Jochinger][Rudolf Jochinger]]     |    1 |           |      |     |
-| Martin    | Kappacher     | [[Martin Kappacher][Martin Kappacher]]     |    1 |           |      |     |
 | Laura     | Klausner      | [[Laura Klausner][Laura Klausner]]       |    1 |           |      |     |
 | Sophia    | Korten        | [[Sophia Korten][Sophia Korten]]        |    1 |           |      |     |
 | Lisa      | Kronreif      | [[Lisa Kronreif][Lisa Kronreif]]        |    1 |           |      |     |
 | Peter     | Kronreif      | [[Peter Kronreif][Peter Kronreif]]       |    1 |           |      |     |
 | Anna-Mae  | Leierer       | [[Anna-Mae Leierer][Anna-Mae Leierer]]     |    1 |           |      |     |
+| Mira      | Meißner       | [[Mira Meißner][Mira Meißner]]         |      |           |      |     |
+| Neureiter | Benjamin      | [[Neureiter Benjamin][Neureiter Benjamin]]   |      |           |      |     |
+| Paula     | Neureiter     | [[Paula Neureiter][Paula Neureiter]]      |      |           |      |     |
 | Raphael   | Neureiter     | [[Raphael Neureiter][Raphael Neureiter]]    |    1 |           |      |     |
-| Felix     | Putz          | [[Felix Putz][Felix Putz]]           |    1 |           |      |     |
+| Sebastian | Neureiter     | [[Sebastian Neureiter][Sebastian Neureiter]]  |      |           |      |     |
+| Sophie    | Schieferer    | [[Sophie Schieferer][Sophie Schieferer]]    |      |           |      |     |
 | Klara     | Schmitzberger | [[Klara Schmitzberger][Klara Schmitzberger]]  |    1 |           |      |     |
 | Elisabeth | Seigmann      | [[Elisabeth Seigmann][Elisabeth Seigmann]]   |    1 |           |      |     |
 | Bianca    | Spagolla      | [[Bianca Spagolla][Bianca Spagolla]]      |    1 |           |      |     |
-| Ilija     | Zivkovic      | [[Ilija Zivkovic][Ilija Zivkovic]]       |      |           |      |     |
+| Pia       | Stoß          | [[Pia Stoß][Pia Stoß]]             |      |           |      |     |
+| Valentin  | Walcher       | [[Valentin Walcher][Valentin Walcher]]     |      |           |      |     |
+| Vincent   | Walcher       | [[Vincent Walcher][Vincent Walcher]]      |      |           |      |     |
+| Illija    | Zivkovic      | [[Illija Zivkovic][Illija Zivkovic]]      |      |           |      |     |
 |-----------+---------------+----------------------+------+-----------+------+-----|
 #+TBLFM: $4=vmean($5..$>)
 #+TBLFM: $3='(concat "[[" $1 " " $2 "][" $1 " " $2 "]]")
@@ -54,30 +64,45 @@
 
 #+RESULTS:
 * Mitarbeit
+
 # In diese Tabelle trage ich die Mitarbeit während 10 Schulwochen ein. Danach kann ich mit der ersten Tabellenformel die aktuelle Durchschnittsnote errechnen. Diese kann ich in die obige Tabelle übernehmen. Nach 23 Wochen (dh einem Semster) müsste ich die Tabelle wieder leeren - hm, gibt es keine bessere Lösung? Eine Tabelle mit allen 43 Schulwochen wäre zu groß. Mit 'C-c TAB' kann ich einzelne Spalten ein- und ausklappen. Wie geht das mit mehreren Spalten?
 #+Name: Mitarbeit
 | Name                 | Note | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
 |----------------------+------+---+---+---+---+---+---+---+---+---+----+----|
+| [[Julia Anthofer][Julia Anthofer]]       |      |   |   |   |   |   |   |   |   |   |    |    |
 | [[Marko Davidovic][Marko Davidovic]]      |      |   |   |   |   |   |   |   |   |   |    |    |
-| [[Elias Galler][Elias Galler]]         |      |   |   |   |   |   |   |   |   |   |    |    |
+| [[Simon Hager][Simon Hager]]          |      |   |   |   |   |   |   |   |   |   |    |    |
 | [[Emma Hansmann][Emma Hansmann]]        |      |   |   |   |   |   |   |   |   |   |    |    |
 | [[Magdalena Höllbacher][Magdalena Höllbacher]] |      |   |   |   |   |   |   |   |   |   |    |    |
 | [[Julia Höllweger][Julia Höllweger]]      |      |   |   |   |   |   |   |   |   |   |    |    |
 | [[Rudolf Jochinger][Rudolf Jochinger]]     |      |   |   |   |   |   |   |   |   |   |    |    |
-| [[Martin Kappacher][Martin Kappacher]]     |      |   |   |   |   |   |   |   |   |   |    |    |
 | [[Laura Klausner][Laura Klausner]]       |      |   |   |   |   |   |   |   |   |   |    |    |
 | [[Sophia Korten][Sophia Korten]]        |      |   |   |   |   |   |   |   |   |   |    |    |
 | [[Lisa Kronreif][Lisa Kronreif]]        |      |   |   |   |   |   |   |   |   |   |    |    |
 | [[Peter Kronreif][Peter Kronreif]]       |      |   |   |   |   |   |   |   |   |   |    |    |
 | [[Anna-Mae Leierer][Anna-Mae Leierer]]     |      |   |   |   |   |   |   |   |   |   |    |    |
+| [[Mira Meißner][Mira Meißner]]         |      |   |   |   |   |   |   |   |   |   |    |    |
+| [[Neureiter Benjamin][Neureiter Benjamin]]   |      |   |   |   |   |   |   |   |   |   |    |    |
+| [[Paula Neureiter][Paula Neureiter]]      |      |   |   |   |   |   |   |   |   |   |    |    |
 | [[Raphael Neureiter][Raphael Neureiter]]    |      |   |   |   |   |   |   |   |   |   |    |    |
-| [[Felix Putz][Felix Putz]]           |      |   |   |   |   |   |   |   |   |   |    |    |
+| [[Sebastian Neureiter][Sebastian Neureiter]]  |      |   |   |   |   |   |   |   |   |   |    |    |
+| [[Sophie Schieferer][Sophie Schieferer]]    |      |   |   |   |   |   |   |   |   |   |    |    |
 | [[Klara Schmitzberger][Klara Schmitzberger]]  |      |   |   |   |   |   |   |   |   |   |    |    |
 | [[Elisabeth Seigmann][Elisabeth Seigmann]]   |      |   |   |   |   |   |   |   |   |   |    |    |
 | [[Bianca Spagolla][Bianca Spagolla]]      |      |   |   |   |   |   |   |   |   |   |    |    |
-| [[Ilija Zivkovic][Ilija Zivkovic]]       |      |   |   |   |   |   |   |   |   |   |    |    |
+| [[Pia Stoß][Pia Stoß]]             |      |   |   |   |   |   |   |   |   |   |    |    |
+| [[Valentin Walcher][Valentin Walcher]]     |      |   |   |   |   |   |   |   |   |   |    |    |
+| [[Vincent Walcher][Vincent Walcher]]      |      |   |   |   |   |   |   |   |   |   |    |    |
+| [[Illija Zivkovic][Illija Zivkovic]]      |      |   |   |   |   |   |   |   |   |   |    |    |
 #+TBLFM: $2=vmean($3..$>)
 #+TBLFM: $1='(identity remote(2021-students,@@#$3))
+
+** Julia Anthofer
+:PROPERTIES:
+:EMAIL: [[mailto: Julia Anthofer <Julia.Anthofer@golling.schule>]]
+:END: 
+
+
 
 ** Marko Davidovic
 :PROPERTIES:
@@ -86,9 +111,9 @@
 
 
 
-** Elias Galler
+** Simon Hager
 :PROPERTIES:
-:EMAIL: [[mailto: Elias Galler <Elias.Galler@golling.schule>]]
+:EMAIL: [[mailto: Simon Hager <Simon.Hager@golling.schule>]]
 :END: 
 
 
@@ -117,13 +142,6 @@
 ** Rudolf Jochinger
 :PROPERTIES:
 :EMAIL: [[mailto: Rudolf Jochinger <Rudolf.Jochinger@golling.schule>]]
-:END: 
-
-
-
-** Martin Kappacher
-:PROPERTIES:
-:EMAIL: [[mailto: Martin Kappacher <Martin.Kappacher@golling.schule>]]
 :END: 
 
 
@@ -163,6 +181,27 @@
 
 
 
+** Mira Meißner
+:PROPERTIES:
+:EMAIL: [[mailto: Mira Meißner <Mira.Meißner@golling.schule>]]
+:END: 
+
+
+
+** Neureiter Benjamin
+:PROPERTIES:
+:EMAIL: [[mailto: Neureiter Benjamin <Neureiter.Benjamin@golling.schule>]]
+:END: 
+
+
+
+** Paula Neureiter
+:PROPERTIES:
+:EMAIL: [[mailto: Paula Neureiter <Paula.Neureiter@golling.schule>]]
+:END: 
+
+
+
 ** Raphael Neureiter
 :PROPERTIES:
 :EMAIL: [[mailto: Raphael Neureiter <Raphael.Neureiter@golling.schule>]]
@@ -170,57 +209,18 @@
 
 
 
-** Felix Putz
+** Sebastian Neureiter
 :PROPERTIES:
-:EMAIL: [[mailto: Felix Putz <Felix.Putz@golling.schule>]]
-:END:
+:EMAIL: [[mailto: Sebastian Neureiter <Sebastian.Neureiter@golling.schule>]]
+:END: 
 
-*** Fragen zu [[denote:20230619T074058][[SW03] Was ich mir zutraue / Kann ich dir vertrauen?]]
+
+
+** Sophie Schieferer
 :PROPERTIES:
-:CAPTURED: [2023-08-11 Fr 23:38]
-:END:
+:EMAIL: [[mailto: Sophie Schieferer <Sophie.Schieferer@golling.schule>]]
+:END: 
 
-Felix hat zu (Thema) in der ersten Stunde am Samstag folgende interessante Fragen gestellt:
-- Frage 1
-- Frage 2
-  
-*** Mitarbeit
-:PROPERTIES:
-:CAPTURED: [2023-08-12 Sa 07:45]
-:END:
-
-Seine Mitarbeit ist klasse.
-
-*** Fragen
-:PROPERTIES:
-:CAPTURED: [2023-08-12 Sa 07:45]
-:END:
-
-Test test
-
-*** Verhalten
-:PROPERTIES:
-:CAPTURED: [2023-08-12 Sa 00:13]
-:CLASS: 1b 07:45-08:35
-:END:
-
-Felix ist seinen Mitschülern gegenüber sehr hilfsbereit.
-
-*** Heft...
-:PROPERTIES:
-:CAPTURED: [2023-08-12 Sa 00:23]
-:CLASS: [2023-08-12 Sa 07:45]--[2023-08-12 Sa 08:35]
-:END:
-
-... sieht toll aus.
-
-*** Fragen zu 
-:PROPERTIES:
-:CAPTURED: [2023-08-12 Sa 18:48]
-:CLASS: [2023-08-12 Sa 07:45] 1. Stunde
-:END:
-
-Hm, wie sieht das aus?
 
 
 ** Klara Schmitzberger
@@ -244,13 +244,31 @@ Hm, wie sieht das aus?
 
 
 
-** Ilija Zivkovic
+** Pia Stoß
 :PROPERTIES:
-:EMAIL: [[mailto: Ilija Zivkovic <Ilija.Zivkovic@golling.schule>]]
+:EMAIL: [[mailto: Pia Stoß <Pia.Stoß@golling.schule>]]
 :END: 
 
 
 
+** Valentin Walcher
+:PROPERTIES:
+:EMAIL: [[mailto: Valentin Walcher <Valentin.Walcher@golling.schule>]]
+:END: 
+
+
+
+** Vincent Walcher
+:PROPERTIES:
+:EMAIL: [[mailto: Vincent Walcher <Vincent.Walcher@golling.schule>]]
+:END: 
+
+
+
+** Illija Zivkovic
+:PROPERTIES:
+:EMAIL: [[mailto: Illija Zivkovic <Illija.Zivkovic@golling.schule>]]
+:END: 
 
 
 * Reflexionen

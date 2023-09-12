@@ -4,33 +4,46 @@
 #+identifier: 20230708T143857
 #+CATEGORY: golling
 
-* 1a 07:45-08:35
-<%%(org-class 2022 9 12 2023 7 3 1 27)>
+* Jahresplanung
+[[denote:20230621T073313][01 Golling]]
+
+* 1a 11:35-12:25
+<%%(org-class 2023 9 12 2024 7 6 2)>
 
 
-* 1a 07:45-08:35
-<%%(org-class 2022 9 12 2023 7 3 1 27)>
+* 1a 12:30-13:20
+<%%(org-class 2023 9 14 2024 7 8 4)>
 
 * 1A MINT [KV Mirjam Seiwald]
 #+Name: 2021-students
-| First      | Last        | Name                 | Note | Mitarbeit | Heft | LZK |
-|------------+-------------+----------------------+------+-----------+------+-----|
-| Jakob      | Astner      | [[Jakob Astner][Jakob Astner]]         |    1 |           |      |     |
-| Can        | Bayraktar   | [[Can Bayraktar][Can Bayraktar]]        |    1 |           |      |     |
-| Philipp    | Breinlinger | [[Philipp Breinlinger][Philipp Breinlinger]]  |    1 |           |      |     |
-| Alma       | Entfellner  | [[Alma Entfellner][Alma Entfellner]]      |    1 |           |      |     |
-| Peter      | Harlander   | [[Peter Harlander][Peter Harlander]]      |    1 |           |      |     |
-| Ivelin     | Ivanov      | [[Ivelin Ivanov][Ivelin Ivanov]]        |    1 |           |      |     |
-| Lea        | Kainhofer   | [[Lea Kainhofer][Lea Kainhofer]]        |    1 |           |      |     |
-| Emilia     | Loidl       | [[Emilia Loidl][Emilia Loidl]]         |    1 |           |      |     |
-| Malena     | Müller      | [[Malena Müller][Malena Müller]]        |    1 |           |      |     |
-| Anna-Lena  | Oberhauser  | [[Anna-Lena Oberhauser][Anna-Lena Oberhauser]] |    1 |           |      |     |
-| Moritz     | Russegger   | [[Moritz Russegger][Moritz Russegger]]     |    1 |           |      |     |
-| Nina       | Sattlberger | [[Nina Sattlberger][Nina Sattlberger]]     |    1 |           |      |     |
-| Ana        | Sokic       | [[Ana Sokic][Ana Sokic]]            |    1 |           |      |     |
-| Tobias     | Starzacher  | [[Tobias Starzacher][Tobias Starzacher]]    |    1 |           |      |     |
-| Maximilian | Wallmann    | [[Maximilian Wallmann][Maximilian Wallmann]]  |    1 |           |      |     |
-|------------+-------------+----------------------+------+-----------+------+-----|
+| First      | Last            | Name                 | Note | Mitarbeit | Heft | LZK |
+|------------+-----------------+----------------------+------+-----------+------+-----|
+| Jakob      | Astner          | [[Jakob Astner][Jakob Astner]]         |    1 |           |      |     |
+| Can        | Bayraktar       | [[Can Bayraktar][Can Bayraktar]]        |    1 |           |      |     |
+| Hanna      | Bernhofer       | [[Hanna Bernhofer][Hanna Bernhofer]]      |      |           |      |     |
+| Philipp    | Breinlinger     | [[Philipp Breinlinger][Philipp Breinlinger]]  |    1 |           |      |     |
+| Alma       | Entfellner      | [[Alma Entfellner][Alma Entfellner]]      |    1 |           |      |     |
+| Peter      | Harlander       | [[Peter Harlander][Peter Harlander]]      |    1 |           |      |     |
+| Ivelin     | Ivanov          | [[Ivelin Ivanov][Ivelin Ivanov]]        |    1 |           |      |     |
+| Lea        | Kainhofer       | [[Lea Kainhofer][Lea Kainhofer]]        |    1 |           |      |     |
+| Martin     | Kappacher       | [[Martin Kappacher][Martin Kappacher]]     |      |           |      |     |
+| Ema        | Ljubic          | [[Ema Ljubic][Ema Ljubic]]           |      |           |      |     |
+| Emilia     | Loidl           | [[Emilia Loidl][Emilia Loidl]]         |    1 |           |      |     |
+| Malena     | Müller          | [[Malena Müller][Malena Müller]]        |    1 |           |      |     |
+| Anna-Lena  | Oberhauser      | [[Anna-Lena Oberhauser][Anna-Lena Oberhauser]] |    1 |           |      |     |
+| Felix      | Putz            | [[Felix Putz][Felix Putz]]           |      |           |      |     |
+| Julia      | Rettenbacher    | [[Julia Rettenbacher][Julia Rettenbacher]]   |      |           |      |     |
+| Moritz     | Russegger       | [[Moritz Russegger][Moritz Russegger]]     |    1 |           |      |     |
+| Nina       | Sattlberger     | [[Nina Sattlberger][Nina Sattlberger]]     |    1 |           |      |     |
+| Ana        | Sokic           | [[Ana Sokic][Ana Sokic]]            |    1 |           |      |     |
+| Tobias     | Starzacher      | [[Tobias Starzacher][Tobias Starzacher]]    |    1 |           |      |     |
+| Luca       | Steiner         | [[Luca Steiner][Luca Steiner]]         |      |           |      |     |
+| Lara       | Struber-Steiner | [[Lara Struber-Steiner][Lara Struber-Steiner]] |      |           |      |     |
+| Manuel     | Tikvic          | [[Manuel Tikvic][Manuel Tikvic]]        |      |           |      |     |
+| Valentina  | Tillian         | [[Valentina Tillian][Valentina Tillian]]    |      |           |      |     |
+| Maximilian | Wallmann        | [[Maximilian Wallmann][Maximilian Wallmann]]  |    1 |           |      |     |
+| Jasmin     | Zuchristian     | [[Jasmin Zuchristian][Jasmin Zuchristian]]   |      |           |      |     |
+|------------+-----------------+----------------------+------+-----------+------+-----|
 #+TBLFM: $4=vmean($5..$>)
 #+TBLFM: $3='(concat "[[" $1 " " $2 "][" $1 " " $2 "]]")
 #+TBLFM: $5='(identity remote(2021-22-Mitarbeit,@@#$2))
@@ -49,38 +62,25 @@
 #+END_SRC
 
 #+RESULTS:
-* Schülertabelle Mitarbeit
-
-#+Name: Mitarbeit
-| Name                 | Note | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|----------------------+------+---+---+---+---+---+---+---+---+---+----|
-| [[Jakob Astner][Jakob Astner]]         |      |   |   |   |   |   |   |   |   |   |    |
-| [[Can Bayraktar][Can Bayraktar]]        |      |   |   |   |   |   |   |   |   |   |    |
-| [[Philipp Breinlinger][Philipp Breinlinger]]  |      |   |   |   |   |   |   |   |   |   |    |
-| [[Alma Entfellner][Alma Entfellner]]      |      |   |   |   |   |   |   |   |   |   |    |
-| [[Peter Harlander][Peter Harlander]]      |      |   |   |   |   |   |   |   |   |   |    |
-| [[Ivelin Ivanov][Ivelin Ivanov]]        |      |   |   |   |   |   |   |   |   |   |    |
-| [[Lea Kainhofer][Lea Kainhofer]]        |      |   |   |   |   |   |   |   |   |   |    |
-| [[Emilia Loidl][Emilia Loidl]]         |      |   |   |   |   |   |   |   |   |   |    |
-| [[Malena Müller][Malena Müller]]        |      |   |   |   |   |   |   |   |   |   |    |
-| [[Anna-Lena Oberhauser][Anna-Lena Oberhauser]] |      |   |   |   |   |   |   |   |   |   |    |
-| [[Moritz Russegger][Moritz Russegger]]     |      |   |   |   |   |   |   |   |   |   |    |
-| [[Nina Sattlberger][Nina Sattlberger]]     |      |   |   |   |   |   |   |   |   |   |    |
-| [[Ana Sokic][Ana Sokic]]            |      |   |   |   |   |   |   |   |   |   |    |
-| [[Tobias Starzacher][Tobias Starzacher]]    |      |   |   |   |   |   |   |   |   |   |    |
-| [[Maximilian Wallmann][Maximilian Wallmann]]  |      |   |   |   |   |   |   |   |   |   |    |
-#+TBLFM: $2=vmean($3..$>)
-#+TBLFM: $1='(identity remote(2021-students,@@#$3))
 * Mitarbeit
+
 ** Jakob Astner
 :PROPERTIES:
 :EMAIL: [[mailto: Jakob Astner <Jakob.Astner@golling.schule>]]
 :END: 
 
 
+
 ** Can Bayraktar
 :PROPERTIES:
 :EMAIL: [[mailto: Can Bayraktar <Can.Bayraktar@golling.schule>]]
+:END: 
+
+
+
+** Hanna Bernhofer
+:PROPERTIES:
+:EMAIL: [[mailto: Hanna Bernhofer <Hanna.Bernhofer@golling.schule>]]
 :END: 
 
 
@@ -120,6 +120,20 @@
 
 
 
+** Martin Kappacher
+:PROPERTIES:
+:EMAIL: [[mailto: Martin Kappacher <Martin.Kappacher@golling.schule>]]
+:END: 
+
+
+
+** Ema Ljubic
+:PROPERTIES:
+:EMAIL: [[mailto: Ema Ljubic <Ema.Ljubic@golling.schule>]]
+:END: 
+
+
+
 ** Emilia Loidl
 :PROPERTIES:
 :EMAIL: [[mailto: Emilia Loidl <Emilia.Loidl@golling.schule>]]
@@ -137,6 +151,20 @@
 ** Anna-Lena Oberhauser
 :PROPERTIES:
 :EMAIL: [[mailto: Anna-Lena Oberhauser <Anna-Lena.Oberhauser@golling.schule>]]
+:END: 
+
+
+
+** Felix Putz
+:PROPERTIES:
+:EMAIL: [[mailto: Felix Putz <Felix.Putz@golling.schule>]]
+:END: 
+
+
+
+** Julia Rettenbacher
+:PROPERTIES:
+:EMAIL: [[mailto: Julia Rettenbacher <Julia.Rettenbacher@golling.schule>]]
 :END: 
 
 
@@ -169,6 +197,34 @@
 
 
 
+** Luca Steiner
+:PROPERTIES:
+:EMAIL: [[mailto: Luca Steiner <Luca.Steiner@golling.schule>]]
+:END: 
+
+
+
+** Lara Struber-Steiner
+:PROPERTIES:
+:EMAIL: [[mailto: Lara Struber-Steiner <Lara.Struber-Steiner@golling.schule>]]
+:END: 
+
+
+
+** Manuel Tikvic
+:PROPERTIES:
+:EMAIL: [[mailto: Manuel Tikvic <Manuel.Tikvic@golling.schule>]]
+:END: 
+
+
+
+** Valentina Tillian
+:PROPERTIES:
+:EMAIL: [[mailto: Valentina Tillian <Valentina.Tillian@golling.schule>]]
+:END: 
+
+
+
 ** Maximilian Wallmann
 :PROPERTIES:
 :EMAIL: [[mailto: Maximilian Wallmann <Maximilian.Wallmann@golling.schule>]]
@@ -176,7 +232,45 @@
 
 
 
+** Jasmin Zuchristian
+:PROPERTIES:
+:EMAIL: [[mailto: Jasmin Zuchristian <Jasmin.Zuchristian@golling.schule>]]
+:END: 
 
+
+
+* Schülertabelle Mitarbeit
+
+#+Name: Mitarbeit
+| Name                 | Note | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|----------------------+------+---+---+---+---+---+---+---+---+---+----|
+| [[Jakob Astner][Jakob Astner]]         |      |   |   |   |   |   |   |   |   |   |    |
+| [[Can Bayraktar][Can Bayraktar]]        |      |   |   |   |   |   |   |   |   |   |    |
+| [[Hanna Bernhofer][Hanna Bernhofer]]      |      |   |   |   |   |   |   |   |   |   |    |
+| [[Philipp Breinlinger][Philipp Breinlinger]]  |      |   |   |   |   |   |   |   |   |   |    |
+| [[Alma Entfellner][Alma Entfellner]]      |      |   |   |   |   |   |   |   |   |   |    |
+| [[Peter Harlander][Peter Harlander]]      |      |   |   |   |   |   |   |   |   |   |    |
+| [[Ivelin Ivanov][Ivelin Ivanov]]        |      |   |   |   |   |   |   |   |   |   |    |
+| [[Lea Kainhofer][Lea Kainhofer]]        |      |   |   |   |   |   |   |   |   |   |    |
+| [[Martin Kappacher][Martin Kappacher]]     |      |   |   |   |   |   |   |   |   |   |    |
+| [[Ema Ljubic][Ema Ljubic]]           |      |   |   |   |   |   |   |   |   |   |    |
+| [[Emilia Loidl][Emilia Loidl]]         |      |   |   |   |   |   |   |   |   |   |    |
+| [[Malena Müller][Malena Müller]]        |      |   |   |   |   |   |   |   |   |   |    |
+| [[Anna-Lena Oberhauser][Anna-Lena Oberhauser]] |      |   |   |   |   |   |   |   |   |   |    |
+| [[Felix Putz][Felix Putz]]           |      |   |   |   |   |   |   |   |   |   |    |
+| [[Julia Rettenbacher][Julia Rettenbacher]]   |      |   |   |   |   |   |   |   |   |   |    |
+| [[Moritz Russegger][Moritz Russegger]]     |      |   |   |   |   |   |   |   |   |   |    |
+| [[Nina Sattlberger][Nina Sattlberger]]     |      |   |   |   |   |   |   |   |   |   |    |
+| [[Ana Sokic][Ana Sokic]]            |      |   |   |   |   |   |   |   |   |   |    |
+| [[Tobias Starzacher][Tobias Starzacher]]    |      |   |   |   |   |   |   |   |   |   |    |
+| [[Luca Steiner][Luca Steiner]]         |      |   |   |   |   |   |   |   |   |   |    |
+| [[Lara Struber-Steiner][Lara Struber-Steiner]] |      |   |   |   |   |   |   |   |   |   |    |
+| [[Manuel Tikvic][Manuel Tikvic]]        |      |   |   |   |   |   |   |   |   |   |    |
+| [[Valentina Tillian][Valentina Tillian]]    |      |   |   |   |   |   |   |   |   |   |    |
+| [[Maximilian Wallmann][Maximilian Wallmann]]  |      |   |   |   |   |   |   |   |   |   |    |
+| [[Jasmin Zuchristian][Jasmin Zuchristian]]   |      |   |   |   |   |   |   |   |   |   |    |
+#+TBLFM: $2=vmean($3..$>)
+#+TBLFM: $1='(identity remote(2021-students,@@#$3))
 
 * Reflexionen
 

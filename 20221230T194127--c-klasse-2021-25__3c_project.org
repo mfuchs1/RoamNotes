@@ -4,12 +4,15 @@
 #+identifier: 20221230T194127
 #+CATEGORY: golling
 
-* 3c 07:45-08:35
-<%%(org-class 2022 9 13 2023 7 4 2 27)>
+* Jahresplaung
+[[denote:20230621T073521][03 Golling]]
+
+* 3c 11:35-12:25
+<%%(org-class 2023 9 14 2024 7 8 4)>
 
 
-* 3c 08:40-09:30
-<%%(org-class 2022 9 16 2023 7 7 5 27)>
+* 3c 10:40-11:30
+<%%(org-class 2023 9 15 2024 7 9 5)>
 
 Spielestunde
 

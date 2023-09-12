@@ -4,15 +4,26 @@
 #+identifier: 20230621T073603
 #+CATEGORY: Topic 04
 
+* Klassen
+[[denote:20221228T204513][A Klasse 2020-24]]
+
+[[denote:20221230T193718][B Klasse 2020-24]]
+
+[[denote:20221228T204149][C Klasse 2020-24]]
+
 * Jahresplanung
 
-** TODO [#A] [[denote:20230711T002844][[SW01] Jesus ist die Quelle unseres Lebens]]
+** [[denote:20230711T002844][[SW01] Jesus ist die Quelle unseres Lebens]]
+<2023-09-11 Mo>
 
 ** [[denote:20230711T003116][[SW02] Die Berufung als Quelle meines Lebens]]
+<2023-09-18 Mo>
 
 ** [[denote:20230711T003213][[SW03] Sinn der Arbeit]]
+<2023-09-25 Mo>
 
 ** [[denote:20230711T003258][[SW04] (Un-)gerechte Wirtschaftsmodelle]]
+<2023-10-02 Mo>
 
 ** [[denote:20230711T003342][[SW05] Nachhaltige Entwicklungsziele der UNO]]
 

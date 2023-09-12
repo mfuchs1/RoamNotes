@@ -4,15 +4,26 @@
 #+identifier: 20230621T073521
 #+CATEGORY: Topic 03
 
+* Klassen
+[[denote:20221228T205119][A Klasse 2021-25]]
+
+[[denote:20221230T193609][B Klasse 2021-25]]
+
+[[denote:20221230T194127][C Klasse 2021-25]]
+
 * Jahresplanung
 
-** TODO [#A] [[denote:20230623T225514][[SW01] Vieles hat Leben in sich / Das Wunder des Lebens]]
+** [[denote:20230623T225514][[SW01] Vieles hat Leben in sich / Das Wunder des Lebens]]
+<2023-09-11 Mo>
 
 ** [[denote:20230623T225904][[SW02] Das Leben kleben]]
+<2023-09-18 Mo>
 
 ** [[denote:20230623T230134][[SW03] Die Schönheit der Schöpfung / Die Schöpfung in Gefahr]]
+<2023-09-25 Mo>
 
 ** [[denote:20230623T230355][[SW04] Ein Papst schreibt an die Welt / Die Erde ist unser Auftrag]]
+<2023-10-02 Mo>
 
 ** [[denote:20230623T230501][[SW05] Die Schöpfung erhalten aber wie]]
 

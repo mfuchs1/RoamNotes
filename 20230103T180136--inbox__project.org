@@ -5,6 +5,7 @@
 #+CATEGORY: inbox
 
 * TODO [#A] Teacher Assistent eintragen
+https://www.sokrates-web.at/TA_SBG/login/
 
 * Themen für Schule 
 

@@ -4,13 +4,15 @@
 #+identifier: 20221228T204848
 #+CATEGORY: golling
 
+* Jahresplanung
+[[denote:20230621T073405][02 Golling]]
 
-* 2a 08:40-09:30
-<%%(org-class 2022 9 13 2023 7 4 2 27)>
+* 2a 13:30-14:20
+<%%(org-class 2023 9 11 2024 7 5 1)>
 
 
-* 2a 12:30-13:20
-<%%(org-class 2022 9 16 2023 7 7 5 27)>
+* 2a 09:35-10:25
+<%%(org-class 2023 9 12 2024 7 6 2)>
 
 
 * 2A MINT [KV Manuela Singer]
