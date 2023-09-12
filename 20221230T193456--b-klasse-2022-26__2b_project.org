@@ -16,7 +16,7 @@ Film über Burschen in Palästina / Meer ...
 * 2b 10:40-11:30
 <%%(org-class 2023 9 13 2024 7 7 3)>
 
-Spielestunde
+[[denote:20230619T210001][[SW01] Mit jedem redest du anders]]
 
 * Supplierstunde 2b BU (Hannes Lacher) 10:40-11:30
 <%%(org-class 2023 3 8 2023 7 5 3 27)>
