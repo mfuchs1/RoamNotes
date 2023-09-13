@@ -14,6 +14,7 @@
 * 1b 07:45-08:35
 <%%(org-class 2023 9 15 2024 7 9 5)>
 
+[[denote:20230619T073700][[SW01] Jahresstoff / ich stehe in den Schuhen des Anderen]]
 
 * 1B [KV Gertraud Viertbauer]
 #+Name: 2021-students

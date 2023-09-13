@@ -14,6 +14,8 @@
 * 1a 12:30-13:20
 <%%(org-class 2023 9 14 2024 7 8 4)>
 
+[[denote:20230619T073700][[SW01] Jahresstoff / ich stehe in den Schuhen des Anderen]]
+
 * 1A MINT [KV Mirjam Seiwald]
 #+Name: 2021-students
 | First      | Last            | Name                 | Note | Mitarbeit | Heft | LZK |

@@ -1,0 +1,39 @@
+#+title:      org-gcal
+#+date:       [2023-09-13 Mi 09:32]
+#+filetags:   :calendar:Project:
+#+identifier: 20230913T093221
+#+CATEGORY: google
+
+
+
+* Klassenforum Leopold VS 1a
+:PROPERTIES:
+:ETag:     "3389183846740000"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 2loi0ottvos9ivtfnqccmcvd80/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2023-09-13 Mi 19:00-20:00>
+:END:
+
+* Beten und Lesen
+:PROPERTIES:
+:ETag:     "3389183869442000"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 5cpv539p59o1m4m3fps2ai75r3/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2023-09-14 Do 19:00-20:00>
+:END:
+* Beten
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3389183974028000"
+:entry-id: vt4rtsdjpih41ss9eqnqvausq8/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2023-09-16 Sa 10:00-11:00>
+:END:
