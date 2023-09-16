@@ -3,6 +3,13 @@
 #+filetags:   :4b:Project:
 #+identifier: 20221230T193718
 #+CATEGORY: golling
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) NEXT(x) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) CANCELED(c@)
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width \linewidth
+#+OPTIONS: toc:nil
+#+export_file_name: ~/RoamNotes/exports/4b.html
 
 * Jahresplanung
 [[denote:20230621T073603][04 Golling]]
@@ -29,6 +36,7 @@ Von Anfang an klar und "streng" sein.
 | Hannah     | Höllbacher   | [[Hannah Höllbacher][Hannah Höllbacher]]     |      |           |      |     |
 | Maximilian | Fischhofer   | [[Maximilian Fischhofer][Maximilian Fischhofer]] |      |           |      |     |
 | Hannah     | Höllbacher   | [[Hannah Höllbacher][Hannah Höllbacher]]     |      |           |      |     |
+| Leon       | Keser        | [[Leon Keser][Leon Keser]]            |      |           |      |     |
 | Thomas     | Krallinger   | [[Thomas Krallinger][Thomas Krallinger]]     |      |           |      |     |
 | Fabian     | Lienbacher   | [[Fabian Lienbacher][Fabian Lienbacher]]     |      |           |      |     |
 | Lena       | Malter       | [[Lena Malter][Lena Malter]]           |      |           |      |     |
@@ -54,12 +62,377 @@ Von Anfang an klar und "streng" sein.
       print('** ' + first + ' ' + last + '')
       print(':PROPERTIES:')
       print(':EMAIL: ' '[[mailto: ' + first + ' ' + last + ' <' + email + '>]]')
+      print(':EXPORT_FILE_NAME: ' '~/RoamNotes/exports/'  + first +  '_'  + last +  '.html')
       print(':END: ')
-      print('\n\n')
+      print('\n')
+      print('|-----------------------+-----------+-------------------------+---------------|')
+      print('| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |')
+      print('|-----------------------+-----------+-------------------------+---------------|')
+      print('\n')
+      print('*** Note')
+      print('|-----------+-------------+-----+-----------+------------|')
+      print('| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |')
+      print('|-----------+-------------+-----+-----------+------------|')
+      print('|         2 |           3 |   2 |         3 |        2.5 |')
+      print('#+TBLFM: $5=vmean($1..$4)')
+      print('\n')
 #+END_SRC
 
 #+RESULTS:
 * Mitarbeit
+** Maximilian Fischhofer
+:PROPERTIES:
+:EMAIL: [[mailto: Maximilian Fischhofer <Maximilian.Fischhofer@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Maximilian_Fischhofer.html
+:END: 
+
+
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
+
+
+*** Note
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Hannah Höllbacher
+:PROPERTIES:
+:EMAIL: [[mailto: Hannah Höllbacher <Hannah.Höllbacher@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Hannah_Höllbacher.html
+:END: 
+
+
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
+
+
+*** Note
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Maximilian Fischhofer
+:PROPERTIES:
+:EMAIL: [[mailto: Maximilian Fischhofer <Maximilian.Fischhofer@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Maximilian_Fischhofer.html
+:END: 
+
+
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
+
+
+*** Note
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Hannah Höllbacher
+:PROPERTIES:
+:EMAIL: [[mailto: Hannah Höllbacher <Hannah.Höllbacher@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Hannah_Höllbacher.html
+:END: 
+
+
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
+
+
+*** Note
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Leon Keser
+:PROPERTIES:
+:EMAIL: [[mailto: Leon Keser <Leon.Keser@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Leon_Keser.html
+:END: 
+
+
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
+
+*** [[denote:20230711T002844][[SW01] Jesus ist die Quelle unseres Lebens]]
+:PROPERTIES:
+:CAPTURED: [2023-09-13 Mi 08:54]
+:CLASS: [2023-09-13 Mi 07:45] 1. Stunde
+:END:
+
+Leon hat gleich in der ersten Stunde wieder "ordentlich" begonnen. Er hat zuerst das gemeinsame Gebet gestört und während dem Unterricht mit einer "Papierklatsche" Lärm gemacht. Als ich die Klasse verlassen hatte, hat ein anderer (?) Schüler ebenfalls mit der Papierklatsche Lärm gemacht.
+
+Ich hab den Vorfall im schwarzen Buch vermerkt und werde noch die Mutter von leon verständigt.
+
+*** Note
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Thomas Krallinger
+:PROPERTIES:
+:EMAIL: [[mailto: Thomas Krallinger <Thomas.Krallinger@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Thomas_Krallinger.html
+:END: 
+
+
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
+
+
+*** Note
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Fabian Lienbacher
+:PROPERTIES:
+:EMAIL: [[mailto: Fabian Lienbacher <Fabian.Lienbacher@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Fabian_Lienbacher.html
+:END: 
+
+
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
+
+
+*** Note
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Lena Malter
+:PROPERTIES:
+:EMAIL: [[mailto: Lena Malter <Lena.Malter@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Lena_Malter.html
+:END: 
+
+
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
+
+
+*** Note
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Sophia Mayr
+:PROPERTIES:
+:EMAIL: [[mailto: Sophia Mayr <Sophia.Mayr@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Sophia_Mayr.html
+:END: 
+
+
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
+
+
+*** Note
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Florian Peroutka
+:PROPERTIES:
+:EMAIL: [[mailto: Florian Peroutka <Florian.Peroutka@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Florian_Peroutka.html
+:END: 
+
+
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
+
+
+*** Note
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Andreas Rußegger
+:PROPERTIES:
+:EMAIL: [[mailto: Andreas Rußegger <Andreas.Rußegger@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Andreas_Rußegger.html
+:END: 
+
+
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
+
+
+*** Note
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Valerie Schönauer
+:PROPERTIES:
+:EMAIL: [[mailto: Valerie Schönauer <Valerie.Schönauer@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Valerie_Schönauer.html
+:END: 
+
+
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
+
+
+*** Note
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Marlene Seidl
+:PROPERTIES:
+:EMAIL: [[mailto: Marlene Seidl <Marlene.Seidl@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Marlene_Seidl.html
+:END: 
+
+
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
+
+
+*** Note
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Anna Spitzelseder
+:PROPERTIES:
+:EMAIL: [[mailto: Anna Spitzelseder <Anna.Spitzelseder@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Anna_Spitzelseder.html
+:END: 
+
+
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
+
+
+*** Note
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Florian Steiner
+:PROPERTIES:
+:EMAIL: [[mailto: Florian Steiner <Florian.Steiner@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Florian_Steiner.html
+:END: 
+
+
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
+
+
+*** Note
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Karin Struber
+:PROPERTIES:
+:EMAIL: [[mailto: Karin Struber <Karin.Struber@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Karin_Struber.html
+:END: 
+
+
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
+
+
+*** Note
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Lukas Wagenhofer
+:PROPERTIES:
+:EMAIL: [[mailto: Lukas Wagenhofer <Lukas.Wagenhofer@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Lukas_Wagenhofer.html
+:END: 
+
+
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
+
+
+*** Note
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+
+
+
+
 
 #+Name: Mitarbeit
 | Name                  | Note | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
@@ -68,6 +441,7 @@ Von Anfang an klar und "streng" sein.
 | [[Hannah Höllbacher][Hannah Höllbacher]]     |      |   |   |   |   |   |   |   |   |   |    |
 | [[Maximilian Fischhofer][Maximilian Fischhofer]] |      |   |   |   |   |   |   |   |   |   |    |
 | [[Hannah Höllbacher][Hannah Höllbacher]]     |      |   |   |   |   |   |   |   |   |   |    |
+| [[Leon Keser][Leon Keser]]            |      |   |   |   |   |   |   |   |   |   |    |
 | [[Thomas Krallinger][Thomas Krallinger]]     |      |   |   |   |   |   |   |   |   |   |    |
 | [[Fabian Lienbacher][Fabian Lienbacher]]     |      |   |   |   |   |   |   |   |   |   |    |
 | [[Lena Malter][Lena Malter]]           |      |   |   |   |   |   |   |   |   |   |    |
@@ -82,220 +456,6 @@ Von Anfang an klar und "streng" sein.
 | [[Lukas Wagenhofer][Lukas Wagenhofer]]      |      |   |   |   |   |   |   |   |   |   |    |
 #+TBLFM: $2=vmean($3..$>)
 #+TBLFM: $1='(identity remote(2021-students,@@#$3))
-
-** Maximilian Fischhofer
-:PROPERTIES:
-:EMAIL: [[mailto: Maximilian Fischhofer <Maximilian.Fischhofer@golling.schule>]]
-:END: 
-
-*** Link zur UE: [[file:~/RoamNotes/main/03_Golling.org::#Herbstferien3][file:~/RoamNotes/main/03_Golling.org::#Herbstferien3]]
-so wie Andreas, Thomas und Lukas: stört, legt ein provozierendes Verhalten an den Tag. Man redet sie direkt an - und erhält ein provozierendes "Okay, okay, okay" mit einem präpotenten Grinsen zurück.
-
-Hat sein Heft vergessen.
-
-*** [[denote:20230327T101329][[SW29] Die Erlösung durch das Kreuz]]
-PERIOD: [2023-03-27 Mo 09:35]
-
-Maxi, Thomas und Fabian arbeiten gemeinsam in einer Gruppe. Im Moment wird dort nur gelacht, und Blödsinn gemacht. Vielleicht trügt der Anschein?
-
-
-** Hannah Höllbacher
-:PROPERTIES:
-:EMAIL: [[mailto: Hannah Höllbacher <Hannah.Höllbacher@golling.schule>]]
-:END: 
-
-
-
-** Leon Keser
-:PROPERTIES:
-:EMAIL: [[mailto: Leon Keser <Leon.Keser@golling.schule>]]
-:END: 
-
-beweist sich nicht
-
-*** [[file:~/RoamNotes/main/02_Golling.org::#Auferstehung][file:~/RoamNotes/main/02_Golling.org::#Auferstehung]]
-Datum: <2022-04-04 Mo>
-
-In der heutigen Stunde war es generell sehr schwierig und mühsam. Vor allem die Burschen "auf meiner Linken" und die drei Burschen "in der letzten Reihe" haben massiv gestört. Da ich ein eher ruhiger Typ bin, bringt es nicht viel, auf einmal herumzubrüllen und laut zu werden. Wenn zB Hannes oder Christoph das machen, dann "passt" es zu ihnen. Die Schüler werden dann wirklich ruhig. Bei mir...?
-
-Dazu kommt noch die emotionale Reaktion von Birgit auf eine Diskussion über das Thema "Kirche" (in die sie sich unaufgefordert eingemischt hat). Ich denke, dass Birgit deshalb wieder die Geschichte mit dem abgesagten Ostergottesdienst aufgewärmt hat - und darüber zornig wird; obwohl Elisabeth darauf ziemlich gelassen reagiert hat.
-
-Im Moment also hab ich kaukm Lust auf meine Arbeit - von allen Seiten verspüre ich Widerstand, Kritik und schon Attacken gegen meine Person.
-
-Ich hab mich sicher nicht richtig verhalten, weil ich es verabsäumt hatte, Elisabeth zu kontaktieren - und vergessen habe, au den SA Plan zu schauen.
-
-*** [[file:~/RoamNotes/main/02_Golling.org::#Wiederholung Jahresstoff][file:~/RoamNotes/main/02_Golling.org::#Wiederholung Jahresstoff]]
-Datum: <2022-06-27 Mo>
-
-Das ist heute leider komplett daneben gegangen. Schade. Leon hat uns die ganze, schöne Filmstunde ruiniert - aber nicht nur er.
-
-*** Link zur UE: [[file:~/RoamNotes/main/03_Golling.org::#Wegbegleiter][file:~/RoamNotes/main/03_Golling.org::#Wegbegleiter]]
-
-Hat trotz Aufforderung und SchoolFox Nachricht sein Heft nicht in Ordnung gebracht (dh er hat die "zesrtörten" Seiten schlecht herausgeschnitten und sie nicht nachgemacht.)
-
-Erneute Nachricht an die Eltern - was noch?
-
-*** Link zur UE: [[file:~/RoamNotes/main/03_Golling.org::#Herbstferien3][file:~/RoamNotes/main/03_Golling.org::#Herbstferien3]]
-
-Hm, unkonzentriert ... wie damit umgehen?
-
-*** Link zur UE: [[file:~/RoamNotes/main/03_Golling.org::#Wegbegleiter][file:~/RoamNotes/main/03_Golling.org::#Wegbegleiter]]
-
-Aha: also muss ich vorher mu4e aufrufen, einen Link zu einem Mail herstellen. Dann funktioniert auch org-store-link wieder.
-
-*** [[file:~/RoamNotes/main/03_Golling.org::*Medienkonsum und Entwicklung des Gehirns][Medienkonsum und Entwicklung des Gehirns]]
-Datum: <2022-09-19 Mo>
-
-hat Reli-Heft und Buch vergessen.
-
-*** [[file:~/RoamNotes/main/02_Golling.org::*\[SW28\] Die Klagepsalmen / Die letzte Woche in Jerusalem][[SW28] Die Klagepsalmen / Die letzte Woche in Jerusalem]]
-Datum: <2022-03-25 Fr>
-
-Komisch: vor der vierten Stunde, am Ende der Pause gab es im Stiegenhaus eine lauten, spitzen Schrei. Mir schien es, als käme er von einem Schüler - einer Schülerin der 2B. Ich fragte in allen 2. Klassen nach - keiner war es. Die vierten Klassen fallen auch aus ...
-
-Alle Indizien weisen auf Leon hin und Daniel ... Schüler aus der 2B.
-
-*** [[denote:20230711T002844][[SW01] Jesus ist die Quelle unseres Lebens]]
-:PROPERTIES:
-:CAPTURED: [2023-09-13 Mi 08:54]
-:CLASS: [2023-09-13 Mi 07:45] 1. Stunde
-:END:
-
-Leon hat gleich in der ersten Stunde wieder "ordentlich" begonnen. Er hat zuerst das gemeinsame Gebet gestört und während dem Unterricht mit einer "Papierklatsche" Lärm gemacht. Als ich die Klasse verlassen hatte, hat ein anderer (?) Schüler ebenfalls mit der Papierklatsche Lärm gemacht.
-
-Ich hab den Vorfall im schwarzen Buch vermerkt und werde noch die Mutter von leon verständigt.
-
-** Thomas Krallinger
-:PROPERTIES:
-:EMAIL: [[mailto: Thomas Krallinger <Thomas.Krallinger@golling.schule>]]
-:END: 
-
-*** [[file:~/RoamNotes/main/03_Golling.org::*Medienkonsum und Entwicklung des Gehirns][Medienkonsum und Entwicklung des Gehirns]]
-Datum: <2022-09-19 Mo>
-
-hat Reli-Heft und Buch vergessen.
-
-beweist sich nicht
-
-*** Verhalten und Mitarbeit
-Die Religionsnote setzt sich v.a. aus der Mitarbeit / Heftführung zusammen. Und diese ist bei Thomas eben nicht so gut, dass ich ihm ein Sehr Gut oder Gut geben kann. Ich mache beuwsst keinen Test - die Schüler haben schon genug Fächer, in denen sie geprüft werden. Im Gegenzug erwarte ich aber eine viel aktivere Teilnahme am Unterricht. In Religion ist Raum und Zeit für viele Themen und Austausch zu vielen Themen. 
-
-Seit dem Gespräch zum Elternsprechtag hat sich leider das Verhalten von Thomas nicht gebessert. Im Gegenteil. Wie ich es angekündigt hatte, habe ich daher für mehrere Schüler als Verhaltensnote ein WZ beantragt. Dies wurde einstimmig von allen Lehrern der 3b bestätigt.
-
-Auch andere Lehrer der Klasse klagen über das schlechte Verhalten in dieser Klasse. Daher wurde u.a. ein zusätzlicher Tisch in die Klasse gestellt, um Schüler trennen zu können.
-
-Thomas und die anderen Burschen stören nicht nur meinen / unseren Unterricht, machen dadurch ein ruhiges Lernen unmöglich. Sondern sie verhindern auch, dass jene, die gerne wollen, am Unterricht teilnehmen können.
-
-Wenn ein Schüler (massiv) den Unterricht stört und er eine dementsprechende Verhaltensnote erhält, dann kann er nicht gleichzeitig eine gute Leistung im Unterricht bringen. Die Religionsnote ergibt sich auch logischerweise aus dem Verhalten, v.a. da ich besnders auf die Mitarbeit großen Wert lege.
-
-Es kann sein, dass ich in der ersten und zweiten Klasse zu gutmütig war, und manche Noten zu leichtfertig verschenkt habe. Ich gab den Kindern einen Vertrauensvorschuss und dachte, dass die Kinder dies mit guter Mitarbeit beantworten würden. Ich wurde enttäuscht und das kann ich jetzt nicht mehr machen.
-
-Etwas Positives: alle betroffenen Burschen haben verstanden - wenn sie ihr Verhalten ändern und besser mitarbeiten, können sie sich ihre Note verbessern. Ich kann keine guten Noten einfach herschenken.
-
-*** Auswirkungen auf Lehrer
-Habe Pflicht, dem Lehrplan entsprechend zu unterrichten. Störendes Verhalten hindert mich daran. Ist eigentlich eine Beleidigung gegenüber dem Lehrer, wenn sich dieser besonders viel Mühe bei der Vorbereitung gegeben hat. Als weitere Folge kann der Lehrer seine Freude am Unterricht verlieren und kommt nur mehr ungern in diese Klasse. 
-
-*** Auswirkungen auf Klasse
-Durch sein Verhalten hat Thomas im ersten Semester vor allem auch seine Mitschüler vom Lernen abgehalten. Man muss ihm zu gute halten, dass er trotz seines Störens klug genug ist, rechtzeitig aufzuhören. Und dennoch stört er.
-
-Durch das oftmalige Ermahnen geht kostbare Unterrichtszeit verloren. Das wirkt sich negativ auf alle aus: dem Schüler selbst, den Mitschülern und den Lehrer.
-
-*** Auswirkungen auf sich selbst
-Durch sein Stören kann er weniger gut aufpassen und überhört wichtige Lerninhalte. Es stimmt, dass sich Thomas seit dem ersten Semester gesteigert hat, aber dies rechtfertigt noch kein "Sehr Gut".
-
-*** Leistungsbeurteilung
-Für ein "Sehr Gut" sind v.a. erforderlich:
-"Mit „Sehr gut“ sind Leistungen zu beurteilen, mit denen der Schüler die nach Maßgabe des Lehrplanes gestellten Anforderungen in der Erfassung und in der Anwendung des Lehrstoffes sowie in der Durchführung der Aufgaben *in weit über das Wesentliche hinausgehendem Ausmaß* erfüllt und, wo dies möglich ist, *deutliche* Eigenständigkeit beziehungsweise die Fähigkeit zur selbständigen Anwendung seines Wissens und Könnens auf für ihn neuartige Aufgaben zeigt."
-
-Für ein "Gut":
-"Mit „Gut“ sind Leistungen zu beurteilen, mit denen der Schüler die nach Maßgabe des Lehrplanes gestellten Anforderungen in der Erfassung und in der Anwendung des Lehrstoffes sowie in der Durchführung der Aufgaben in über das Wesentliche hinausgehendem Ausmaß erfüllt und, wo dies möglich ist, merkliche Ansätze zur Eigenständigkeit beziehungsweise bei entsprechender Anleitung die Fähigkeit zur Anwendung seines Wissens und Könnens auf für ihn neuartige Aufgaben zeigt."
-
-Wenn ich also im Unterricht Fragen stelle und die Schüler zur Mitarbeit auffordere, dann kommt von Thomas eben eine gute Mitarbeit - für ein Sehr Gut reicht es nicht. Thomas hat noch das vierte und letzte Schuljahr an der Mittelschule - noch genug Zeit, um sich zu beweisen.
-
-*** P.S.
-Im Übrigen lasse ich mich nicht unter Druck setzen - oder gar erpressen. Würde ich hier nachgeben, wäre dies das Ende meine Laufbahn als Lehrer; oder ich müsste mir eine neue Schule suchen. Das würde sich herumsprechen und wäre nicht nur ein Schaden für mich, sondern für die gesamte Schule. Ein "Gut" ist keine Katastrophe, sondern eine gute Note (auch in Religion). Ich hab den Schülern klar kommuniziert, dass sie sich im zweiten Semester durch entsprechende Mitarbeit ihre Note verbessern können (von 3 auf 2). Und das hat Thomas getan, er hat wirklich in diesem Semster besser mitgearbeitet und sich bemüht, daher hat er sich das "Gut" verdient. Ich lade Thomas ein, diesen Weg weiterzugehen - so bliebt er auf einem guten Weg.
-
-Was würde Thomas lernen, wenn ich jetzt nachgeben würde? "Ich kann mir durch Intervention eine sehr gute Note ergattern?" Welche Auswirkungen hätte mein Nachgeben auf das Verhalten der Klasse im nächsten Schuljahr? Jeder Respekt wäre komplett weg! Nein, deshalb gebe ich hier nicht nach. Frau Gruber und meine Inspektorin stärken mir den Rücken, ich stehe nicht alleine da.
-
-Das "Gut" bildet die Leistung und Mitarbeit des gesamten Jahres ab. Und im ersten Semester war seine Mitarbeit weniger gut, eben befriedigend, im zweiten Semester besser, mcht insgesamt ein "Gut". 
-
-
-
-** Fabian Lienbacher
-:PROPERTIES:
-:EMAIL: [[mailto: Fabian Lienbacher <Fabian.Lienbacher@golling.schule>]]
-:END: 
-
-
-
-** Lena Malter
-:PROPERTIES:
-:EMAIL: [[mailto: Lena Malter <Lena.Malter@golling.schule>]]
-:END: 
-
-
-
-** Sophia Mayr
-:PROPERTIES:
-:EMAIL: [[mailto: Sophia Mayr <Sophia.Mayr@golling.schule>]]
-:END: 
-
-
-
-** Florian Peroutka
-:PROPERTIES:
-:EMAIL: [[mailto: Florian Peroutka <Florian.Peroutka@golling.schule>]]
-:END: 
-
-
-
-** Andreas Rußegger
-:PROPERTIES:
-:EMAIL: [[mailto: Andreas Rußegger <Andreas.Rußegger@golling.schule>]]
-:END: 
-
-
-
-** Valerie Schönauer
-:PROPERTIES:
-:EMAIL: [[mailto: Valerie Schönauer <Valerie.Schönauer@golling.schule>]]
-:END: 
-
-
-
-** Marlene Seidl
-:PROPERTIES:
-:EMAIL: [[mailto: Marlene Seidl <Marlene.Seidl@golling.schule>]]
-:END: 
-
-
-
-** Anna Spitzelseder
-:PROPERTIES:
-:EMAIL: [[mailto: Anna Spitzelseder <Anna.Spitzelseder@golling.schule>]]
-:END: 
-
-
-
-** Florian Steiner
-:PROPERTIES:
-:EMAIL: [[mailto: Florian Steiner <Florian.Steiner@golling.schule>]]
-:END: 
-
-
-
-** Karin Struber
-:PROPERTIES:
-:EMAIL: [[mailto: Karin Struber <Karin.Struber@golling.schule>]]
-:END: 
-
-
-
-** Lukas Wagenhofer
-:PROPERTIES:
-:EMAIL: [[mailto: Lukas Wagenhofer <Lukas.Wagenhofer@golling.schule>]]
-:END: 
-
 
 * Reflexionen
 

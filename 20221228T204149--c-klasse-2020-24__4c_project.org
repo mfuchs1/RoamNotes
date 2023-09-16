@@ -3,6 +3,13 @@
 #+filetags:   :4c:Project:
 #+identifier: 20221228T204149
 #+CATEGORY: golling
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) NEXT(x) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) CANCELED(c@)
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width \linewidth
+#+OPTIONS: toc:nil
+#+export_file_name: ~/RoamNotes/exports/4c.html
 
 * Jahresplanung
 [[denote:20230621T073603][04 Golling]]
@@ -56,12 +63,445 @@
       print('** ' + first + ' ' + last + '')
       print(':PROPERTIES:')
       print(':EMAIL: ' '[[mailto: ' + first + ' ' + last + ' <' + email + '>]]')
+      print(':EXPORT_FILE_NAME: ' '~/RoamNotes/exports/'  + first +  '_'  + last +  '.html')
       print(':END: ')
-      print('\n\n')
+      print('\n')
+      print('|-----------------------+-----------+-------------------------+---------------|')
+      print('| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |')
+      print('|-----------------------+-----------+-------------------------+---------------|')
+      print('\n')
+      print('*** Note')
+      print('|-----------+-------------+-----+-----------+------------|')
+      print('| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |')
+      print('|-----------+-------------+-----+-----------+------------|')
+      print('|         2 |           3 |   2 |         3 |        2.5 |')
+      print('#+TBLFM: $5=vmean($1..$4)')
+      print('\n')
 #+END_SRC
 
 #+RESULTS:
 * Mitarbeit
+** Zlatko Atanasov
+:PROPERTIES:
+:EMAIL: [[mailto: Zlatko Atanasov <Zlatko.Atanasov@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Zlatko_Atanasov.html
+:END: 
+
+
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
+
+
+*** Note
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Laura Gschiel
+:PROPERTIES:
+:EMAIL: [[mailto: Laura Gschiel <Laura.Gschiel@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Laura_Gschiel.html
+:END: 
+
+
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
+
+
+*** Note
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Fabian Hansmann
+:PROPERTIES:
+:EMAIL: [[mailto: Fabian Hansmann <Fabian.Hansmann@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Fabian_Hansmann.html
+:END: 
+
+
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
+
+
+*** Note
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Victoria Kappacher
+:PROPERTIES:
+:EMAIL: [[mailto: Victoria Kappacher <Victoria.Kappacher@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Victoria_Kappacher.html
+:END: 
+
+
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
+
+
+*** Note
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Elias Leitner
+:PROPERTIES:
+:EMAIL: [[mailto: Elias Leitner <Elias.Leitner@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Elias_Leitner.html
+:END: 
+
+
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
+
+
+*** Note
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Annika-Sophie Lienbacher
+:PROPERTIES:
+:EMAIL: [[mailto: Annika-Sophie Lienbacher <Annika-Sophie.Lienbacher@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Annika-Sophie_Lienbacher.html
+:END: 
+
+
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
+
+
+*** Note
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Alexander Loipold
+:PROPERTIES:
+:EMAIL: [[mailto: Alexander Loipold <Alexander.Loipold@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Alexander_Loipold.html
+:END: 
+
+
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
+
+
+*** Note
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Andreas Meisl
+:PROPERTIES:
+:EMAIL: [[mailto: Andreas Meisl <Andreas.Meisl@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Andreas_Meisl.html
+:END: 
+
+
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
+
+
+*** Note
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Nikola Moser
+:PROPERTIES:
+:EMAIL: [[mailto: Nikola Moser <Nikola.Moser@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Nikola_Moser.html
+:END: 
+
+
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
+
+
+*** Note
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Maid Mujkic
+:PROPERTIES:
+:EMAIL: [[mailto: Maid Mujkic <Maid.Mujkic@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Maid_Mujkic.html
+:END: 
+
+
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
+
+
+*** Note
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Josip Perkovic
+:PROPERTIES:
+:EMAIL: [[mailto: Josip Perkovic <Josip.Perkovic@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Josip_Perkovic.html
+:END: 
+
+
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
+
+
+*** Note
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Anna Pichler
+:PROPERTIES:
+:EMAIL: [[mailto: Anna Pichler <Anna.Pichler@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Anna_Pichler.html
+:END: 
+
+
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
+
+
+*** Note
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Lukas Rettenbacher
+:PROPERTIES:
+:EMAIL: [[mailto: Lukas Rettenbacher <Lukas.Rettenbacher@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Lukas_Rettenbacher.html
+:END: 
+
+
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
+
+
+*** Note
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Sebastian Rettenbacher
+:PROPERTIES:
+:EMAIL: [[mailto: Sebastian Rettenbacher <Sebastian.Rettenbacher@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Sebastian_Rettenbacher.html
+:END: 
+
+
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
+
+
+*** Note
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Mia Russegger
+:PROPERTIES:
+:EMAIL: [[mailto: Mia Russegger <Mia.Russegger@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Mia_Russegger.html
+:END: 
+
+
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
+
+
+*** Note
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Melanie Schröcker
+:PROPERTIES:
+:EMAIL: [[mailto: Melanie Schröcker <Melanie.Schröcker@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Melanie_Schröcker.html
+:END: 
+
+
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
+
+
+*** Note
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Hannah Seiwald
+:PROPERTIES:
+:EMAIL: [[mailto: Hannah Seiwald <Hannah.Seiwald@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Hannah_Seiwald.html
+:END: 
+
+
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
+
+
+*** Note
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Thomas Siller
+:PROPERTIES:
+:EMAIL: [[mailto: Thomas Siller <Thomas.Siller@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Thomas_Siller.html
+:END: 
+
+
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
+
+
+*** Note
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Theresa Sunkler
+:PROPERTIES:
+:EMAIL: [[mailto: Theresa Sunkler <Theresa.Sunkler@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Theresa_Sunkler.html
+:END: 
+
+
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
+
+
+*** Note
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Yasir Tigli
+:PROPERTIES:
+:EMAIL: [[mailto: Yasir Tigli <Yasir.Tigli@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Yasir_Tigli.html
+:END: 
+
+
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
+
+
+*** Note
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Celine Zuchristian
+:PROPERTIES:
+:EMAIL: [[mailto: Celine Zuchristian <Celine.Zuchristian@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Celine_Zuchristian.html
+:END: 
+
+
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
+
+
+*** Note
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+
 
 #+Name: Mitarbeit
 | Name                     | Note | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
@@ -91,149 +531,7 @@
 #+TBLFM: $1='(identity remote(2021-students,@@#$3))
 
 
-** Zlatko Atanasov
-:PROPERTIES:
-:EMAIL: [[mailto: Zlatko Atanasov <Zlatko.Atanasov@golling.schule>]]
-:END: 
 
-
-
-** Laura Gschiel
-:PROPERTIES:
-:EMAIL: [[mailto: Laura Gschiel <Laura.Gschiel@golling.schule>]]
-:END: 
-
-
-
-** Fabian Hansmann
-:PROPERTIES:
-:EMAIL: [[mailto: Fabian Hansmann <Fabian.Hansmann@golling.schule>]]
-:END: 
-
-
-
-** Victoria Kappacher
-:PROPERTIES:
-:EMAIL: [[mailto: Victoria Kappacher <Victoria.Kappacher@golling.schule>]]
-:END: 
-
-
-
-** Elias Leitner
-:PROPERTIES:
-:EMAIL: [[mailto: Elias Leitner <Elias.Leitner@golling.schule>]]
-:END: 
-
-
-
-** Annika-Sophie Lienbacher
-:PROPERTIES:
-:EMAIL: [[mailto: Annika-Sophie Lienbacher <Annika-Sophie.Lienbacher@golling.schule>]]
-:END: 
-
-
-
-** Alexander Loipold
-:PROPERTIES:
-:EMAIL: [[mailto: Alexander Loipold <Alexander.Loipold@golling.schule>]]
-:END: 
-
-
-
-** Andreas Meisl
-:PROPERTIES:
-:EMAIL: [[mailto: Andreas Meisl <Andreas.Meisl@golling.schule>]]
-:END: 
-
-
-
-** Nikola Moser
-:PROPERTIES:
-:EMAIL: [[mailto: Nikola Moser <Nikola.Moser@golling.schule>]]
-:END: 
-
-
-
-** Maid Mujkic
-:PROPERTIES:
-:EMAIL: [[mailto: Maid Mujkic <Maid.Mujkic@golling.schule>]]
-:END: 
-
-
-
-** Josip Perkovic
-:PROPERTIES:
-:EMAIL: [[mailto: Josip Perkovic <Josip.Perkovic@golling.schule>]]
-:END: 
-
-
-
-** Anna Pichler
-:PROPERTIES:
-:EMAIL: [[mailto: Anna Pichler <Anna.Pichler@golling.schule>]]
-:END: 
-
-
-
-** Lukas Rettenbacher
-:PROPERTIES:
-:EMAIL: [[mailto: Lukas Rettenbacher <Lukas.Rettenbacher@golling.schule>]]
-:END: 
-
-
-
-** Sebastian Rettenbacher
-:PROPERTIES:
-:EMAIL: [[mailto: Sebastian Rettenbacher <Sebastian.Rettenbacher@golling.schule>]]
-:END: 
-
-
-
-** Mia Russegger
-:PROPERTIES:
-:EMAIL: [[mailto: Mia Russegger <Mia.Russegger@golling.schule>]]
-:END: 
-
-
-
-** Melanie Schröcker
-:PROPERTIES:
-:EMAIL: [[mailto: Melanie Schröcker <Melanie.Schröcker@golling.schule>]]
-:END: 
-
-
-
-** Hannah Seiwald
-:PROPERTIES:
-:EMAIL: [[mailto: Hannah Seiwald <Hannah.Seiwald@golling.schule>]]
-:END: 
-
-
-** Thomas Siller
-:PROPERTIES:
-:EMAIL: [[mailto: Thomas Siller <Thomas.Siller@golling.schule>]]
-:END: 
-
-
-
-** Theresa Sunkler
-:PROPERTIES:
-:EMAIL: [[mailto: Theresa Sunkler <Theresa.Sunkler@golling.schule>]]
-:END: 
-
-
-
-** Yasir Tigli
-:PROPERTIES:
-:EMAIL: [[mailto: Yasir Tigli <Yasir.Tigli@golling.schule>]]
-:END: 
-
-
-
-** Celine Zuchristian
-:PROPERTIES:
-:EMAIL: [[mailto: Celine Zuchristian <Celine.Zuchristian@golling.schule>]]
-:END: 
 
 * Reflexionen                                                   
 ** [[id:03_SW01][[SW01] Wer möchte ich sein – wer bin ich?]]

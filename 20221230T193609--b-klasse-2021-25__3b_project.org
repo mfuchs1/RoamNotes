@@ -3,6 +3,14 @@
 #+filetags:   :3b:Project:
 #+identifier: 20221230T193609
 #+CATEGORY: golling
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) NEXT(x) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) CANCELED(c@)
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width \linewidth
+#+OPTIONS: toc:nil
+#+export_file_name: ~/RoamNotes/exports/3b.html
+
 
 * Jahresplanung
 [[denote:20230621T073521][03 Golling]]
@@ -18,32 +26,6 @@
 [[denote:20230623T225514][[SW01] Vieles hat Leben in sich / Das Wunder des Lebens]]
 
 
-* Supplierstunde 2b PH 11:35-12:25
-<%%(org-class 2023 1 25 2023 7 5 3 27)>
-
-nächste Stunde (nach Ostern): *LZK* - gestern <2023-03-29 Mi 11:35-12:25> waren einige Schüler der Klasse ziemlich frech (Andreas + Augustin).
-
-Buch S. 28: Arbeit in der Physik
-- Arbeit: Kraft wirkt auf einen Körper, dieser verändert seine Lage, seinen Ort, oder seine Form.
-
-- Hubarbeit, Reibungsarbeit, Verformungsarbeit, Beschleunigungsarbeit.
-
-- Formel: W = F * s [Einheit: 1 Joule (Newtonmeter) = 1 Newton * 1 m(eter)]
-
-- Leistung:
-  wie viel Arbeit pro Zeit
-
-  P = W / t [Einheit: 1 Watt = 1J pro Sekunde]
-
-  Z.B. Leistungsangaben bei Elektrogeräten, Autos, etc ...
-
-Video Harald Lesch über Energie
-Energieformen
-Rechenbeispiele
-
-Hebel, Kraftarm, Lastarm
-
-
 * 3B [KV Lena ]
 
 
@@ -54,20 +36,20 @@ Hebel, Kraftarm, Lastarm
 | Dalya    | Durukan            | [[Dalya Durukan][Dalya Durukan]]            |      |           |      |     |
 | Azra     | Hant               | [[Azra Hant][Azra Hant]]                |      |           |      |     |
 | Hannah   | Hauser             | [[Hannah Hauser][Hannah Hauser]]            |      |           |      |     |
-| Matthias | Holler             | [[Matthias Holler][Matthias Holler]]          |      |           |      |     |
-| Andreas  | Hollweger          | [[Andreas Hollweger][Andreas Hollweger]]        |      |           | V    |     |
-| Jonas    | Jarnig             | [[Jonas Jarnig][Jonas Jarnig]]             |      |           |      |     |
+| Matthias | Holler             | [[Matthias Holler][Matthias Holler]]          |      |         3 |    3 |   3 |
+| Andreas  | Hollweger          | [[Andreas Hollweger][Andreas Hollweger]]        |      |           |      |     |
+| Jonas    | Jarnig             | [[Jonas Jarnig][Jonas Jarnig]]             |      |         3 |    3 |   3 |
 | Fabian   | Klöß               | [[Fabian Klöß][Fabian Klöß]]              |      |           |      |     |
 | Evelyn   | Nestler            | [[Evelyn Nestler][Evelyn Nestler]]           |      |           |      |     |
 | Julia    | Schlager-Weidinger | [[Julia Schlager-Weidinger][Julia Schlager-Weidinger]] |      |           |      |     |
 | Felix    | Schmegner          | [[Felix Schmegner][Felix Schmegner]]          |      |           |      |     |
 | Annika   | Schmitzberger      | [[Annika Schmitzberger][Annika Schmitzberger]]     |      |           |      |     |
 | Kristina | Sokic              | [[Kristina Sokic][Kristina Sokic]]           |      |           |      |     |
-| Augustin | Sommer             | [[Augustin Sommer][Augustin Sommer]]          |      |           |      |     |
+| Augustin | Sommer             | [[Augustin Sommer][Augustin Sommer]]          |      |         3 |    3 |   3 |
 | Phillipp | Spagolla           | [[Phillipp Spagolla][Phillipp Spagolla]]        |      |           |      |     |
 | Emma     | Tikvic             | [[Emma Tikvic][Emma Tikvic]]              |      |           |      |     |
 | Selina   | Weiss              | [[Selina Weiss][Selina Weiss]]             |      |           |      |     |
-| Samuel   | Wittner            | [[Samuel Wittner][Samuel Wittner]]           |      |           | V    |     |
+| Samuel   | Wittner            | [[Samuel Wittner][Samuel Wittner]]           |      |           |      |     |
 #+TBLFM: $4=vmean($5..$>)
 #+TBLFM: $3='(concat "[[" $1 " " $2 "][" $1 " " $2 "]]")
 #+TBLFM: $5='(identity remote(2021-22-Mitarbeit,@@#$2))
@@ -81,12 +63,421 @@ Hebel, Kraftarm, Lastarm
       print('** ' + first + ' ' + last + '')
       print(':PROPERTIES:')
       print(':EMAIL: ' '[[mailto: ' + first + ' ' + last + ' <' + email + '>]]')
+      print(':EXPORT_FILE_NAME: ' '~/RoamNotes/exports/'  + first +  '_'  + last +  '.html')
       print(':END: ')
-      print('\n\n')
+      print('\n')
+      print('|-----------------------+-----------+-------------------------+---------------|')
+      print('| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |')
+      print('|-----------------------+-----------+-------------------------+---------------|')
+      print('\n')
+      print('*** Note')
+      print('|-----------+-------------+-----+-----------+------------|')
+      print('| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |')
+      print('|-----------+-------------+-----+-----------+------------|')
+      print('|         2 |           3 |   2 |         3 |        2.5 |')
+      print('#+TBLFM: $5=vmean($1..$4)')
+      print('\n')
 #+END_SRC
 
 #+RESULTS:
 * Mitarbeit
+** Anja Breinlinger
+:PROPERTIES:
+:EMAIL: [[mailto: Anja Breinlinger <Anja.Breinlinger@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Anja_Breinlinger.html
+:END: 
+
+
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
+
+
+*** Note
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Dalya Durukan
+:PROPERTIES:
+:EMAIL: [[mailto: Dalya Durukan <Dalya.Durukan@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Dalya_Durukan.html
+:END: 
+
+
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
+
+
+*** Note
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Azra Hant
+:PROPERTIES:
+:EMAIL: [[mailto: Azra Hant <Azra.Hant@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Azra_Hant.html
+:END: 
+
+
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
+
+
+*** Note
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Hannah Hauser
+:PROPERTIES:
+:EMAIL: [[mailto: Hannah Hauser <Hannah.Hauser@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Hannah_Hauser.html
+:END: 
+
+
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
+
+
+*** Note
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Matthias Holler
+:PROPERTIES:
+:EMAIL: [[mailto: Matthias Holler <Matthias.Holler@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Matthias_Holler.html
+:END: 
+
+|-----------------------+-----------+-------------------+--------------------|
+| Datum / UE            | Stunde    | Thema             | Anmerkungen        |
+|-----------------------+-----------+-------------------+--------------------|
+| [2023-09-14 Do 10:40] | 4. Stunde | Wunder des Lebens | aufmüpfig          |
+|                       |           |                   | provokant          |
+|                       |           |                   | lächerlich-machend |
+|                       |           |                   |                    |
+
+
+
+*** [[denote:20230623T225514][[SW01] Vieles hat Leben in sich / Das Wunder des Lebens]]
+:PROPERTIES:
+:CAPTURED: [2023-09-14 Do 16:15]
+:CLASS: [2023-09-14 Do 10:40] 4. Stunde
+:END:
+
+Hat diese Stunde besonders durch seine aufmüpfige Art gestört. Er hat provokant und demonstrativ Desinteresse gezeigt, und durch lächerlich-machende Äußerungen des RU unmöglich gemacht.
+
+*** Note
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Andreas Hollweger
+:PROPERTIES:
+:EMAIL: [[mailto: Andreas Hollweger <Andreas.Hollweger@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Andreas_Hollweger.html
+:END: 
+
+
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
+
+
+*** Note
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Jonas Jarnig
+:PROPERTIES:
+:EMAIL: [[mailto: Jonas Jarnig <Jonas.Jarnig@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Jonas_Jarnig.html
+:END: 
+
+
+|-----------------------+-----------+-------------------+-----------------|
+| Datum / UE            | Stunde    | Thema             | Anmerkungen     |
+|-----------------------+-----------+-------------------+-----------------|
+| [2023-09-14 Do 10:40] | 4. Stunde | Wunder des Lebens | sehr schlampige |
+|                       |           |                   | Heftarbeit      |
+|                       |           |                   |                 |
+
+
+*** [[denote:20230623T225514][[SW01] Vieles hat Leben in sich / Das Wunder des Lebens]]
+:PROPERTIES:
+:CAPTURED: [2023-09-14 Do 16:19]
+:CLASS: [2023-09-14 Do 10:40] 4. Stunde
+:END:
+
+Er fiel bessonders negativ durch seine äußerst unsorgfältige Heftarbeit auf.
+
+*** Note
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Fabian Klöß
+:PROPERTIES:
+:EMAIL: [[mailto: Fabian Klöß <Fabian.Klöß@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Fabian_Klöß.html
+:END: 
+
+
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
+
+
+*** Note
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Evelyn Nestler
+:PROPERTIES:
+:EMAIL: [[mailto: Evelyn Nestler <Evelyn.Nestler@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Evelyn_Nestler.html
+:END: 
+
+
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
+
+
+*** Note
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Julia Schlager-Weidinger
+:PROPERTIES:
+:EMAIL: [[mailto: Julia Schlager-Weidinger <Julia.Schlager-Weidinger@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Julia_Schlager-Weidinger.html
+:END: 
+
+
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
+
+
+*** Note
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Felix Schmegner
+:PROPERTIES:
+:EMAIL: [[mailto: Felix Schmegner <Felix.Schmegner@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Felix_Schmegner.html
+:END: 
+
+
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
+
+
+*** Note
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Annika Schmitzberger
+:PROPERTIES:
+:EMAIL: [[mailto: Annika Schmitzberger <Annika.Schmitzberger@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Annika_Schmitzberger.html
+:END: 
+
+
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
+
+
+*** Note
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Kristina Sokic
+:PROPERTIES:
+:EMAIL: [[mailto: Kristina Sokic <Kristina.Sokic@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Kristina_Sokic.html
+:END: 
+
+
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
+
+
+*** Note
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Augustin Sommer
+:PROPERTIES:
+:EMAIL: [[mailto: Augustin Sommer <Augustin.Sommer@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Augustin_Sommer.html
+:END: 
+
+
+|-----------------------+-----------+-------------------+--------------------|
+| Datum / UE            | Stunde    | Thema             | Anmerkungen        |
+|-----------------------+-----------+-------------------+--------------------|
+| [2023-09-14 Do 10:40] | 4. Stunde | Wunder des Lebens | sehr provokant     |
+|                       |           |                   | lächerlich-machend |
+|                       |           |                   |                    |
+
+
+
+*** [[denote:20230623T225514][[SW01] Vieles hat Leben in sich / Das Wunder des Lebens]]
+:PROPERTIES:
+:CAPTURED: [2023-09-14 Do 16:18]
+:CLASS: [2023-09-14 Do 10:40] 4. Stunde
+:END:
+
+Er war besonders "verhaltnesauffällig" und hat durch äußerst provokante und lächerlich-machende Äußerungen gestört. Wie bei Matthias ist die Heftarbeit alles andere als schön.
+
+*** Note
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Phillipp Spagolla
+:PROPERTIES:
+:EMAIL: [[mailto: Phillipp Spagolla <Phillipp.Spagolla@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Phillipp_Spagolla.html
+:END: 
+
+
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
+
+
+*** Note
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Emma Tikvic
+:PROPERTIES:
+:EMAIL: [[mailto: Emma Tikvic <Emma.Tikvic@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Emma_Tikvic.html
+:END: 
+
+
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
+
+
+*** Note
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Selina Weiss
+:PROPERTIES:
+:EMAIL: [[mailto: Selina Weiss <Selina.Weiss@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Selina_Weiss.html
+:END: 
+
+
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
+
+
+*** Note
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Samuel Wittner
+:PROPERTIES:
+:EMAIL: [[mailto: Samuel Wittner <Samuel.Wittner@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Samuel_Wittner.html
+:END: 
+
+
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
+
+
+*** Note
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+
+
 
 #+Name: Mitarbeit
 | Name                     | Note | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
@@ -113,129 +504,7 @@ Hebel, Kraftarm, Lastarm
 #+TBLFM: $1='(identity remote(2021-students,@@#$3))
 
 
-** Anja Breinlinger
-:PROPERTIES:
-:EMAIL: [[mailto: Anja Breinlinger <Anja.Breinlinger@golling.schule>]]
-:END: 
 
-
-
-** Dalya Durukan
-:PROPERTIES:
-:EMAIL: [[mailto: Dalya Durukan <Dalya.Durukan@golling.schule>]]
-:END: 
-
-
-
-** Azra Hant
-:PROPERTIES:
-:EMAIL: [[mailto: Azra Hant <Azra.Hant@golling.schule>]]
-:END: 
-
-
-
-** Hannah Hauser
-:PROPERTIES:
-:EMAIL: [[mailto: Hannah Hauser <Hannah.Hauser@golling.schule>]]
-:END: 
-
-
-
-** Matthias Holler
-:PROPERTIES:
-:EMAIL: [[mailto: Matthias Holler <Matthias.Holler@golling.schule>]]
-:END: 
-
-
-
-** Andreas Hollweger
-:PROPERTIES:
-:EMAIL: [[mailto: Andreas Hollweger <Andreas.Hollweger@golling.schule>]]
-:END: 
-
-
-
-** Jonas Jarnig
-:PROPERTIES:
-:EMAIL: [[mailto: Jonas Jarnig <Jonas.Jarnig@golling.schule>]]
-:END: 
-
-
-
-** Fabian Klöß
-:PROPERTIES:
-:EMAIL: [[mailto: Fabian Klöß <Fabian.Klöß@golling.schule>]]
-:END: 
-
-
-
-** Evelyn Nestler
-:PROPERTIES:
-:EMAIL: [[mailto: Evelyn Nestler <Evelyn.Nestler@golling.schule>]]
-:END: 
-
-
-
-** Julia Schlager-Weidinger
-:PROPERTIES:
-:EMAIL: [[mailto: Julia Schlager-Weidinger <Julia.Schlager-Weidinger@golling.schule>]]
-:END: 
-
-
-
-** Felix Schmegner
-:PROPERTIES:
-:EMAIL: [[mailto: Felix Schmegner <Felix.Schmegner@golling.schule>]]
-:END: 
-
-
-
-** Annika Schmitzberger
-:PROPERTIES:
-:EMAIL: [[mailto: Annika Schmitzberger <Annika.Schmitzberger@golling.schule>]]
-:END: 
-
-
-
-** Kristina Sokic
-:PROPERTIES:
-:EMAIL: [[mailto: Kristina Sokic <Kristina.Sokic@golling.schule>]]
-:END: 
-
-
-
-** Augustin Sommer
-:PROPERTIES:
-:EMAIL: [[mailto: Augustin Sommer <Augustin.Sommer@golling.schule>]]
-:END: 
-
-
-
-** Phillipp Spagolla
-:PROPERTIES:
-:EMAIL: [[mailto: Phillipp Spagolla <Phillipp.Spagolla@golling.schule>]]
-:END: 
-
-
-
-** Emma Tikvic
-:PROPERTIES:
-:EMAIL: [[mailto: Emma Tikvic <Emma.Tikvic@golling.schule>]]
-:END: 
-
-
-
-** Selina Weiss
-:PROPERTIES:
-:EMAIL: [[mailto: Selina Weiss <Selina.Weiss@golling.schule>]]
-:END: 
-
-
-
-** Samuel Wittner
-:PROPERTIES:
-:EMAIL: [[mailto: Samuel Wittner <Samuel.Wittner@golling.schule>]]
-:END: 
 
 
 
@@ -248,4 +517,15 @@ Datum: <2022-09-15 Do 07:45>
 
 Diese Stunde ist entfallen - Klasse 2b ist auf zweitägigem Ausflug.
 
+** [[denote:20230623T225514][[SW01] Vieles hat Leben in sich / Das Wunder des Lebens]]
+:PROPERTIES:
+:CAPTURED: [2023-09-14 Do 16:07]
+:CLASS: [2023-09-14 Do 10:40] 4. Stunde
+:END:
+
+In der 3b ist der RU nahezu unmöglich: ein Teil der Klasse, va die Bruschen ziehen jedes Thema ins Lächerliche. Der andere Teil sagt gar nichts (va die Mädchen). Was ist zu tun?
+
+Die Vorlauten werde ich auffordern, selber zu einem religiösen Thema eine Gesrächsrunde vorzubereiten. Dies fließt in ihre Note ein. Wenn auch das ins Lächerliche gezogen wird - schlechte Note. Keine Mitarbeit - auch schlechte Note. Kollektivstrafen gibt's keine.
+
+Störenfriede dürfen ab jetzt Texte abschreiben und diese werden von den Eltern unterzeichnet.
 
