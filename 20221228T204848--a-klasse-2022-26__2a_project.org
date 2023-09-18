@@ -14,13 +14,22 @@
 * Jahresplanung
 [[denote:20230621T073405][02 Golling]]
 
-* 2a 13:30-14:20
+Esther Tong hat sich abgemeldet.
+
+* 2a 13:25-14:15
 <%%(org-class 2023 9 11 2024 7 5 1)>
+
+[[denote:20230619T210001][[SW01] Mit jedem redest du anders]]
+
+[[denote:20230619T210120][[SW02] Autorität und Verantwortung]]
 
 
 * 2a 09:35-10:25
 <%%(org-class 2023 9 12 2024 7 6 2)>
 
+[[denote:20230619T210001][[SW01] Mit jedem redest du anders]]
+
+[[denote:20230619T210120][[SW02] Autorität und Verantwortung]]
 
 * 2A MINT [KV Manuela Singer]
 
@@ -49,7 +58,6 @@
 | Florian   | Siller     | [[Florian Siller][Florian Siller]]     |    1 |           |      |     |
 | Michael   | Steiner    | [[Michael Steiner][Michael Steiner]]    |    1 |           |      |     |
 | Pascal    | Stippler   | [[Pascal Stippler][Pascal Stippler]]    |    1 |           |      |     |
-| Esther    | Tong       | [[Esther Tong][Esther Tong]]        |    1 |           |      |     |
 | Alexander | Wenger     | [[Alexander Wenger][Alexander Wenger]]   |    1 |           |      |     |
 | Oskar     | Wieser     | [[Oskar Wieser][Oskar Wieser]]       |    1 |           |      |     |
 | Veit      | Zierfuß    | [[Veit Zierfuß][Veit Zierfuß]]       |    1 |           |      |     |
