@@ -3,153 +3,159 @@
 #+filetags:   :parsch:Project:
 #+identifier: 20230102T194216
 #+CATEGORY: parsch
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) NEXT(x) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) CANCELED(c@)
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width \linewidth
+#+OPTIONS: toc:nil
+#+export_file_name: ~/RoamNotes/exports/parsch.html
 
-* Tasks
+* Jahresplanung
 
-** Testeintrag
-<2023-08-04 Fr 10:00>--<2023-08-04 Fr 11:00>
+Vier (!) Schüler aus der ganzen Schule. Die 2a des letzten Jahres hat sich komplett abgemeldet. Hat das mit mir zu tun? Hab ich doch zu viel Film geschaut? Kann ich mir kaum vorstellen.
 
-* Montag
-** 1b / 4b 14:30-15:20
-<%%(org-class 2022 9 12 2023 7 3 1)>
+Dieses Schuljahr werde ich das nimmer machen. Ich werde zwar keinen Stoff pauken; aber ganz normalen RU machen. Gebet wird wichtig sein. Vielleicht nehme ich überbleibende Schulbücher aus Golling mit?
 
-[[denote:20230403T101428][Auferstehung]]
+[[denote:20230621T073313][01 Golling]]
 
-* Dienstag
+[[denote:20230621T073405][02 Golling]]
 
-** 2a 14:30-15:20
-<%%(org-class 2022 9 13 2023 7 4 2)>
+[[denote:20230621T073521][03 Golling]]
 
-[[denote:20230403T101428][Auferstehung]]
 
-Film "Auf dem Weg zur Schule"
+* 1a 2b 3a 14h30-15h20
+<%%(org-class 2023 9 18 2024 7 5 4 39)>
 
-** 1a / 2b 15:25-16:15
-<%%(org-class 2022 9 13 2023 7 4 2)>
-
-[[denote:20230403T101428][Auferstehung]]
-
-Film "Auf dem Weg zur Schule"
-
-* Reflexionen
-
-** 2b
-PERIOD: [2023-02-28 Di 15:25]
-
-Aura-Ana-Maria hat dieses Semester schon mindestens dreimal unentschuldigt im Religionsunterricht gefehlt. Ich habe Wolfgang Rosenstatter (KV) verständigt. Sollte ich selbst die Eltern anrufen?
-
-** 2b
-PERIOD: [2023-02-28 Di 15:25]
-
-Aura-Ana-Maria hat mindestens dreimal in diesem Semester gefehlt. Habe KV verständigt.
+* 1a 2b 3a 15h25-16h15
+<%%(org-class 2023 9 11 2024 7 5 4 39)>
 
 
 * Schülerliste
 
 #+Name: 2021-students
-| First          | Last       | Klasse | Name               | Note | Mitarbeit    | Heft | LZK |
-|----------------+------------+--------+--------------------+------+--------------+------+-----|
-| Edmund         | Atherton   | 1b     | [[EdmundAtherton][Edmund Atherton]]    |    1 |              |      |     |
-| Sabrina        | Richterova | 2a     | [[SabrinaRichterova][Sabrina Richterova]] |    1 |              |      |     |
-| Robin          | Fasl       | 2a     | [[RobinFasl][Robin Fasl]]         |    1 |              |      |     |
-| Viktor         | Werber     | 2a     | [[ViktorWerber][Viktor Werber]]      |    1 |              |      |     |
-| Mate           | Meszaros   | 2a     | [[MateMeszaros][Mate Meszaros]]      |    1 |              |      |     |
-| Isabella       | Holub      | 2b     | [[IsabellaHolub][Isabella Holub]]     |      | Schulwechsel |      |     |
-| Sarah          | Ascic      | 2b     | [[SarahAscic][Sarah Ascic]]        |    1 |              |      |     |
-| Aura-Ana-Maria | Filan      | 2b     | [[AuraFilan][Aura Filan]]         |    3 | kommt nicht  |      |     |
-| Lukas          | Gady       | 4b     | [[LukasGady][Lukas Gady]]         |    1 | kommt nicht  |      |     |
-|----------------+------------+--------+--------------------+------+--------------+------+-----|
-#+TBLFM: $5=vmean($6..$>)
-#+TBLFM: $4='(concat "[[" $1 $2 "][" $1 " " $2 "]]")
-#+TBLFM: $4='(identity remote(2021-22-Mitarbeit,@@#$4))
+| First  | Last     | Name            | Klasse  | Note | Mitarbeit | Heft | LZK |
+|--------+----------+-----------------+---------+------+-----------+------+-----|
+| Edmund | Atherton | [[Edmund Atherton][Edmund Atherton]] | 2b      |      |           |      |     |
+| Ramona | Streibl  | [[Ramona Streibl][Ramona Streibl]]  | 3b      |      |           |      |     |
+| Simon  | Wippel   | [[Simon Wippel][Simon Wippel]]    | 3b      |      |           |      |     |
+| Ketrin | Serban   | [[Ketrin Serban][Ketrin Serban]]   | 4a/1DFK |      |           |      |     |
+|--------+----------+-----------------+---------+------+-----------+------+-----|
+#+TBLFM: $5=vmean($6..$8)
+#+TBLFM: $3='(concat "[[" $1 " " $2 "][" $1 " " $2 "]]")
+#+TBLFM: $7='(identity remote(2021-22-Mitarbeit,@@#$2)) 
 
 #+BEGIN_SRC python :var table=2021-students :results output raw
-print('* Mitarbeit')
-for student in table:
-    first = student[0]
-    last = student[1]
-    email = first + '.' + last + '@golling.schule'
-    print('** ' + first + ' ' + last + '\n\n')  
+  print('* Mitarbeit')
+  for student in table:
+      first = student[0]
+      last = student[1]
+      email = first + '.' + last + '@ms-parsch.at'
+      print('** ' + first + ' ' + last + '')
+      print(':PROPERTIES:')
+      print(':EMAIL: ' '[[mailto: ' + first + ' ' + last + ' <' + email + '>]]')
+      print(':EXPORT_FILE_NAME: ' '~/RoamNotes/exports/'  + first +  '_'  + last +  '.html')
+      print(':END: ')
+      print('\n')
+      print('|-----------------------+-----------+-------------------------+---------------|')
+      print('| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |')
+      print('|-----------------------+-----------+-------------------------+---------------|')
+      print('\n')
+      print('*** Note')
+      print('|-----------+-------------+-----+-----------+------------|')
+      print('| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |')
+      print('|-----------+-------------+-----+-----------+------------|')
+      print('|         2 |           3 |   2 |         3 |        2.5 |')
+      print('#+TBLFM: $5=vmean($1..$4)')
+      print('\n')
 #+END_SRC
 
 #+RESULTS:
 * Mitarbeit
-** First Last
-
-
 ** Edmund Atherton
+:PROPERTIES:
+:EMAIL: [[mailto: Edmund Atherton <Edmund.Atherton@ms-parsch.at>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Edmund_Atherton.html
+:END: 
 
 
-** Sabrina Richterova
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
 
 
-** Robin Fasl
+*** Note
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
 
 
-** Viktor Werber
+** Ramona Streibl
+:PROPERTIES:
+:EMAIL: [[mailto: Ramona Streibl <Ramona.Streibl@ms-parsch.at>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Ramona_Streibl.html
+:END: 
 
 
-** Mate Meszaros
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
 
 
-** Isabella Holub
+*** Note
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
 
 
-** Sarah Ascic
+** Simon Wippel
+:PROPERTIES:
+:EMAIL: [[mailto: Simon Wippel <Simon.Wippel@ms-parsch.at>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Simon_Wippel.html
+:END: 
 
 
-** Aura-Ana-Maria Filan
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
 
-*** [[denote:20221226T153748][Christenverfolgung]]
-PERIOD: [2023-02-28 Di 15:25]
 
-Aura-Ana-Maria hat mindestens dreimal in diesem Semester unentschuldigt gefehlt. Ich habe ihren KV per Mail verständigt.
+*** Note
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
 
-*** Fehlstunden (unentschuldigt)
-Falls jemand nachfragt, dokumentiere ich hier die vielen unentschuldigten Fehlstunden von Aura-Ana-Maria. Cf. Report / Teacher Assistent: [[file:~/NMS_Golling/TA_Fehlzeiten-Uebersicht-7.pdf]]
 
-| Name                 | Datum                           | Fehlstunden    | Ferien           |
-|----------------------+---------------------------------+----------------+------------------|
-| Filan Aura-Ana-Maria | <2022-12-13 Di>                 | unentschuldigt |                  |
-|                      | <2022-12-20 Di>                 | unentschuldigt |                  |
-|                      |                                 |                |                  |
-|                      | <2022-12-24 Sa>-<2023-01-08 So> |                | Weihnachtsferien |
-|                      |                                 |                |                  |
-|                      | <2023-02-11 Sa>-<2023-02-19 So> |                | Semesterferien   |
-|                      |                                 |                |                  |
-|                      | <2023-02-21 Di>                 | unentschuldigt |                  |
-|                      | <2023-02-28 Di>                 | unentschuldigt |                  |
-|                      | <2023-03-07 Di>                 | unentschuldigt |                  |
-|                      |                                 |                |                  |
-|                      | <2022-04-01 Sa>-<2023-04-10 Mo> |                | Osterferien      |
-|                      |                                 |                |                  |
-|                      | <2023-04-11 Di>                 | unentschuldigt |                  |
-|                      | <2023-04-18 Di>                 | unentschuldigt |                  |
-|                      | <2023-04-25 Di>                 | unentschuldigt |                  |
-|                      | <2023-05-02 Di>                 | unentschuldigt |                  |
-|                      | <2023-05-09 Di>                 | unentschuldigt |                  |
-|                      | <2023-05-16 Di>                 | unentschuldigt |                  |
-|                      |                                 |                |                  |
-|                      | <2023-05-27 Sa>-<2023-05-29 Mo> |                | Pfingsten        |
-|                      |                                 |                |                  |
-|                      | <2023-05-30 Di>                 | unentschuldigt |                  |
-|                      | <2023-06-06 Di>                 | unentschuldigt |                  |
-|                      | <2023-06-13 Di>                 | unentschuldigt |                  |
-|                      |                                 |                |                  |
+** Ketrin Serban
+:PROPERTIES:
+:EMAIL: [[mailto: Ketrin Serban <Ketrin.Serban@ms-parsch.at>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Ketrin_Serban.html
+:END: 
 
-Ich hab - so denke ich - mindestens dreimal den KV der 2b verständigt. Erst beim dritten Mal und durch Intervention des Direktors hat der KV geantwortet. Somit habe ich meine "Schuldigkeit" getan. Alles weitere (Anzeige) liegt in den Händen des KVs und der Schulleitung. Eine Feststellungsprüfung macht eigentlich keinen Sinn, da die Schülerin massiv fehlt und gar keine Chance hat, die Prüfung zu bestehen.
 
-*** Wieder zurück...
-LESSON: [2023-06-20 Di 15:25]
-TOPIC: 
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
 
-Überraschung: heute war Aura DOCH hier. Ich hab ihr die Situation dargelegt: über 220 Fehlstunden, davon über 170 unentschuldigt. Ihr droht ganz sicher eine Anzeige wegen Verletzung der Schulpflicht (Geldstrafen von 110-440 Euros; auch Freiheitsstrafen sind möglich.) Aura tat ganz erstaunt, wie viele es sind. So als wüsste sie es nicht...
+
+*** Note
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
 
 
 
-** Lukas Gady
 
 
+* Reflexionen
 
 
 
