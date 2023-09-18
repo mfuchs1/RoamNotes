@@ -14,6 +14,9 @@
 * Jahresplaung
 [[denote:20230621T073405][02 Golling]]
 
+Wer hat sich abgemeldet?
+Lucian, ...
+
 * 2b 10:40-11:30
 <%%(org-class 2023 9 12 2024 7 6 2)>
 
