@@ -45,14 +45,10 @@ Das war ein Missverständnis / 4 Ohren Modell
 | First     | Last       | Name               | Note | Mitarbeit | Heft | LZK |
 |-----------+------------+--------------------+------+-----------+------+-----|
 | Lorenz    | Aschauer   | [[Lorenz Aschauer][Lorenz Aschauer]]    |    2 |           |      |     |
-| Stefan    | Atanasov   | [[Stefan Atanasov][Stefan Atanasov]]    |    2 |           |      |     |
-| Lela      | Dent       | [[Lela Dent][Lela Dent]]          |    1 |           |      |     |
 | Emma      | Gonschorek | [[Emma Gonschorek][Emma Gonschorek]]    |    1 |           |      |     |
 | Marie     | Hofer      | [[Marie Hofer][Marie Hofer]]        |    1 |           |      |     |
-| Hubert    | Keinrad    | [[Hubert Keinrad][Hubert Keinrad]]     |    1 |           |      |     |
 | Nena      | Langenfeld | [[Nena Langenfeld][Nena Langenfeld]]    |    1 |           |      |     |
 | Bernhard  | Neureiter  | [[Bernhard Neureiter][Bernhard Neureiter]] |    2 |           |      |     |
-| Lucian    | Rainer     | [[Lucian Rainer][Lucian Rainer]]      |    2 |           |      |     |
 | Manuel    | Reiter     | [[Manuel Reiter][Manuel Reiter]]      |    1 |           |      |     |
 | Emma      | Riebler    | [[Emma Riebler][Emma Riebler]]       |    1 |           |      |     |
 | Annika    | Seiwald    | [[Annika Seiwald][Annika Seiwald]]     |    1 |           |      |     |
