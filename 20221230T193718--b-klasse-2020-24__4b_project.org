@@ -26,9 +26,13 @@ Staffel 1 - Episode 8
 
 [[denote:20230711T002844][[SW01] Jesus ist die Quelle unseres Lebens]]
 
-Achtung: das ist die "schwierige" Klasse. Tipp von Charly: Bitte den Hl. Geist bevor du die Klasse betrittst.
+Wie beruft Jesus? Wen beruft Jesus?
+- Jünger
+- "macht sie zu Aposteln"
 
-Von Anfang an klar und "streng" sein.
+  Ausschnitte aus "The Chosen"
+  
+- Paulus
 
 
 * 4B [KV Erwin Essl]
@@ -171,9 +175,11 @@ Von Anfang an klar und "streng" sein.
 :END: 
 
 
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+|-----------------------+-----------+---------------------------+------------------------|
+| Datum / UE            | Stunde    | Thema                     | Anmerkungen            |
+|-----------------------+-----------+---------------------------+------------------------|
+| [2023-09-20 Mi 07:45] | 1. Stunde | Berufung in der Bibelwerk | Papierflieger gefaltet |
+
 
 *** [[denote:20230711T002844][[SW01] Jesus ist die Quelle unseres Lebens]]
 :PROPERTIES:
@@ -185,13 +191,25 @@ Leon hat gleich in der ersten Stunde wieder "ordentlich" begonnen. Er hat zuerst
 
 Ich hab den Vorfall im schwarzen Buch vermerkt und werde noch die Mutter von leon verständigt.
 
+*** [[denote:20230711T003116][[SW02] Die Berufung als Quelle meines Lebens]]
+:PROPERTIES:
+:CAPTURED: [2023-09-20 Mi 09:01]
+:CLASS: [2023-09-20 Mi 07:45] 1. Stunde
+:END:
+
+Leon hat während den Unterricht durch das Falten eines Papierfliegers gestört. Dazu hat er einige Seiten aus seinem neuen Heft herausgerissen. Sein Verhalten kam besonders bei Maxi und Andreas "gut" an - den beiden ist jede Abwechslung recht.
+
+Was ist zu tun? Leon leidet unter ADHS (wie stark?). Andererseits kann dies keine Ausrede für störendes Verhalten sein. Ich werde mit seiner Mutter reden. (Ich denke dabei auch an Gabriel...)
+
+**** TODO [#A] Leons Mutter kontaktieren (SchoolFox)
+
+
 *** Note
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
 |         2 |           3 |   2 |         3 |        2.5 |
 #+TBLFM: $5=vmean($1..$4)
-
 
 ** Thomas Krallinger
 :PROPERTIES:
