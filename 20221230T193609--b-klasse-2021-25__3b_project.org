@@ -70,7 +70,7 @@
       print('| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |')
       print('|-----------------------+-----------+-------------------------+---------------|')
       print('\n')
-      print('*** Note')
+      print('*** Note ' + first + ' ' + last)
       print('|-----------+-------------+-----+-----------+------------|')
       print('| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |')
       print('|-----------+-------------+-----+-----------+------------|')
@@ -93,7 +93,7 @@
 |-----------------------+-----------+-------------------------+---------------|
 
 
-*** Note
+*** Note Anja Breinlinger
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -113,7 +113,7 @@
 |-----------------------+-----------+-------------------------+---------------|
 
 
-*** Note
+*** Note Dalya Durukan
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -133,7 +133,7 @@
 |-----------------------+-----------+-------------------------+---------------|
 
 
-*** Note
+*** Note Azra Hant
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -153,7 +153,7 @@
 |-----------------------+-----------+-------------------------+---------------|
 
 
-*** Note
+*** Note Hannah Hauser
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -166,6 +166,7 @@
 :EMAIL: [[mailto: Matthias Holler <Matthias.Holler@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Matthias_Holler.html
 :END: 
+
 
 |-----------------------+-----------+-------------------+--------------------|
 | Datum / UE            | Stunde    | Thema             | Anmerkungen        |
@@ -185,7 +186,9 @@
 
 Hat diese Stunde besonders durch seine aufmüpfige Art gestört. Er hat provokant und demonstrativ Desinteresse gezeigt, und durch lächerlich-machende Äußerungen des RU unmöglich gemacht.
 
-*** Note
+
+
+*** Note Matthias Holler
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -205,7 +208,7 @@ Hat diese Stunde besonders durch seine aufmüpfige Art gestört. Er hat provokan
 |-----------------------+-----------+-------------------------+---------------|
 
 
-*** Note
+*** Note Andreas Hollweger
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -236,7 +239,9 @@ Hat diese Stunde besonders durch seine aufmüpfige Art gestört. Er hat provokan
 
 Er fiel bessonders negativ durch seine äußerst unsorgfältige Heftarbeit auf.
 
-*** Note
+
+
+*** Note Jonas Jarnig
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -256,7 +261,7 @@ Er fiel bessonders negativ durch seine äußerst unsorgfältige Heftarbeit auf.
 |-----------------------+-----------+-------------------------+---------------|
 
 
-*** Note
+*** Note Fabian Klöß
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -276,7 +281,7 @@ Er fiel bessonders negativ durch seine äußerst unsorgfältige Heftarbeit auf.
 |-----------------------+-----------+-------------------------+---------------|
 
 
-*** Note
+*** Note Evelyn Nestler
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -296,7 +301,7 @@ Er fiel bessonders negativ durch seine äußerst unsorgfältige Heftarbeit auf.
 |-----------------------+-----------+-------------------------+---------------|
 
 
-*** Note
+*** Note Julia Schlager-Weidinger
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -316,7 +321,7 @@ Er fiel bessonders negativ durch seine äußerst unsorgfältige Heftarbeit auf.
 |-----------------------+-----------+-------------------------+---------------|
 
 
-*** Note
+*** Note Felix Schmegner
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -336,7 +341,7 @@ Er fiel bessonders negativ durch seine äußerst unsorgfältige Heftarbeit auf.
 |-----------------------+-----------+-------------------------+---------------|
 
 
-*** Note
+*** Note Annika Schmitzberger
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -356,7 +361,7 @@ Er fiel bessonders negativ durch seine äußerst unsorgfältige Heftarbeit auf.
 |-----------------------+-----------+-------------------------+---------------|
 
 
-*** Note
+*** Note Kristina Sokic
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -388,7 +393,9 @@ Er fiel bessonders negativ durch seine äußerst unsorgfältige Heftarbeit auf.
 
 Er war besonders "verhaltnesauffällig" und hat durch äußerst provokante und lächerlich-machende Äußerungen gestört. Wie bei Matthias ist die Heftarbeit alles andere als schön.
 
-*** Note
+
+
+*** Note Augustin Sommer
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -408,7 +415,7 @@ Er war besonders "verhaltnesauffällig" und hat durch äußerst provokante und l
 |-----------------------+-----------+-------------------------+---------------|
 
 
-*** Note
+*** Note Phillipp Spagolla
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -428,7 +435,7 @@ Er war besonders "verhaltnesauffällig" und hat durch äußerst provokante und l
 |-----------------------+-----------+-------------------------+---------------|
 
 
-*** Note
+*** Note Emma Tikvic
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -448,7 +455,7 @@ Er war besonders "verhaltnesauffällig" und hat durch äußerst provokante und l
 |-----------------------+-----------+-------------------------+---------------|
 
 
-*** Note
+*** Note Selina Weiss
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -468,17 +475,14 @@ Er war besonders "verhaltnesauffällig" und hat durch äußerst provokante und l
 |-----------------------+-----------+-------------------------+---------------|
 
 
-*** Note
+*** Note Samuel Wittner
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
 |         2 |           3 |   2 |         3 |        2.5 |
 #+TBLFM: $5=vmean($1..$4)
 
-
-
-
-
+* Mitarbeit Tabelle 
 #+Name: Mitarbeit
 | Name                     | Note | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |--------------------------+------+---+---+---+---+---+---+---+---+---+----|
@@ -502,12 +506,6 @@ Er war besonders "verhaltnesauffällig" und hat durch äußerst provokante und l
 | [[Samuel Wittner][Samuel Wittner]]           |      |   |   |   |   |   |   |   |   |   |    |
 #+TBLFM: $2=vmean($3..$>)
 #+TBLFM: $1='(identity remote(2021-students,@@#$3))
-
-
-
-
-
-
 
 
 * Reflexionen                                                  

@@ -78,7 +78,7 @@ Das war ein Missverständnis / 4 Ohren Modell
       print('| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |')
       print('|-----------------------+-----------+-------------------------+---------------|')
       print('\n')
-      print('*** Note')
+      print('*** Note ' + first + ' ' + last)
       print('|-----------+-------------+-----+-----------+------------|')
       print('| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |')
       print('|-----------+-------------+-----+-----------+------------|')
@@ -101,47 +101,7 @@ Das war ein Missverständnis / 4 Ohren Modell
 |-----------------------+-----------+-------------------------+---------------|
 
 
-*** Note
-|-----------+-------------+-----+-----------+------------|
-| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
-|-----------+-------------+-----+-----------+------------|
-|         2 |           3 |   2 |         3 |        2.5 |
-#+TBLFM: $5=vmean($1..$4)
-
-
-** Stefan Atanasov
-:PROPERTIES:
-:EMAIL: [[mailto: Stefan Atanasov <Stefan.Atanasov@golling.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Stefan_Atanasov.html
-:END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
-
-
-*** Note
-|-----------+-------------+-----+-----------+------------|
-| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
-|-----------+-------------+-----+-----------+------------|
-|         2 |           3 |   2 |         3 |        2.5 |
-#+TBLFM: $5=vmean($1..$4)
-
-
-** Lela Dent
-:PROPERTIES:
-:EMAIL: [[mailto: Lela Dent <Lela.Dent@golling.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Lela_Dent.html
-:END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
-
-
-*** Note
+*** Note Lorenz Aschauer
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -161,7 +121,7 @@ Das war ein Missverständnis / 4 Ohren Modell
 |-----------------------+-----------+-------------------------+---------------|
 
 
-*** Note
+*** Note Emma Gonschorek
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -181,27 +141,7 @@ Das war ein Missverständnis / 4 Ohren Modell
 |-----------------------+-----------+-------------------------+---------------|
 
 
-*** Note
-|-----------+-------------+-----+-----------+------------|
-| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
-|-----------+-------------+-----+-----------+------------|
-|         2 |           3 |   2 |         3 |        2.5 |
-#+TBLFM: $5=vmean($1..$4)
-
-
-** Hubert Keinrad
-:PROPERTIES:
-:EMAIL: [[mailto: Hubert Keinrad <Hubert.Keinrad@golling.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Hubert_Keinrad.html
-:END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
-
-
-*** Note
+*** Note Marie Hofer
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -221,7 +161,7 @@ Das war ein Missverständnis / 4 Ohren Modell
 |-----------------------+-----------+-------------------------+---------------|
 
 
-*** Note
+*** Note Nena Langenfeld
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -241,27 +181,7 @@ Das war ein Missverständnis / 4 Ohren Modell
 |-----------------------+-----------+-------------------------+---------------|
 
 
-*** Note
-|-----------+-------------+-----+-----------+------------|
-| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
-|-----------+-------------+-----+-----------+------------|
-|         2 |           3 |   2 |         3 |        2.5 |
-#+TBLFM: $5=vmean($1..$4)
-
-
-** Lucian Rainer
-:PROPERTIES:
-:EMAIL: [[mailto: Lucian Rainer <Lucian.Rainer@golling.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Lucian_Rainer.html
-:END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
-
-
-*** Note
+*** Note Bernhard Neureiter
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -281,7 +201,7 @@ Das war ein Missverständnis / 4 Ohren Modell
 |-----------------------+-----------+-------------------------+---------------|
 
 
-*** Note
+*** Note Manuel Reiter
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -301,7 +221,7 @@ Das war ein Missverständnis / 4 Ohren Modell
 |-----------------------+-----------+-------------------------+---------------|
 
 
-*** Note
+*** Note Emma Riebler
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -321,7 +241,7 @@ Das war ein Missverständnis / 4 Ohren Modell
 |-----------------------+-----------+-------------------------+---------------|
 
 
-*** Note
+*** Note Annika Seiwald
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -341,7 +261,7 @@ Das war ein Missverständnis / 4 Ohren Modell
 |-----------------------+-----------+-------------------------+---------------|
 
 
-*** Note
+*** Note Valerian Seling
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -361,7 +281,7 @@ Das war ein Missverständnis / 4 Ohren Modell
 |-----------------------+-----------+-------------------------+---------------|
 
 
-*** Note
+*** Note Theresa Steiner
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -381,7 +301,7 @@ Das war ein Missverständnis / 4 Ohren Modell
 |-----------------------+-----------+-------------------------+---------------|
 
 
-*** Note
+*** Note Valentina Struber
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -401,7 +321,7 @@ Das war ein Missverständnis / 4 Ohren Modell
 |-----------------------+-----------+-------------------------+---------------|
 
 
-*** Note
+*** Note Felix Wenger
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -421,7 +341,7 @@ Das war ein Missverständnis / 4 Ohren Modell
 |-----------------------+-----------+-------------------------+---------------|
 
 
-*** Note
+*** Note Leon Zemmer
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -441,7 +361,7 @@ Das war ein Missverständnis / 4 Ohren Modell
 |-----------------------+-----------+-------------------------+---------------|
 
 
-*** Note
+*** Note Fabian Zorzi
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -456,14 +376,10 @@ Das war ein Missverständnis / 4 Ohren Modell
 | Name               | Note | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |--------------------+------+---+---+---+---+---+---+---+---+---+----|
 | [[Lorenz Aschauer][Lorenz Aschauer]]    |      |   |   |   |   |   |   |   |   |   |    |
-| [[Stefan Atanasov][Stefan Atanasov]]    |      |   |   |   |   |   |   |   |   |   |    |
-| [[Lela Dent][Lela Dent]]          |      |   |   |   |   |   |   |   |   |   |    |
 | [[Emma Gonschorek][Emma Gonschorek]]    |      |   |   |   |   |   |   |   |   |   |    |
 | [[Marie Hofer][Marie Hofer]]        |      |   |   |   |   |   |   |   |   |   |    |
-| [[Hubert Keinrad][Hubert Keinrad]]     |      |   |   |   |   |   |   |   |   |   |    |
 | [[Nena Langenfeld][Nena Langenfeld]]    |      |   |   |   |   |   |   |   |   |   |    |
 | [[Bernhard Neureiter][Bernhard Neureiter]] |      |   |   |   |   |   |   |   |   |   |    |
-| [[Lucian Rainer][Lucian Rainer]]      |      |   |   |   |   |   |   |   |   |   |    |
 | [[Manuel Reiter][Manuel Reiter]]      |      |   |   |   |   |   |   |   |   |   |    |
 | [[Emma Riebler][Emma Riebler]]       |      |   |   |   |   |   |   |   |   |   |    |
 | [[Annika Seiwald][Annika Seiwald]]     |      |   |   |   |   |   |   |   |   |   |    |

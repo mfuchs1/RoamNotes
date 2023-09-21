@@ -77,7 +77,7 @@ Wie beruft Jesus? Wen beruft Jesus?
       print('| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |')
       print('|-----------------------+-----------+-------------------------+---------------|')
       print('\n')
-      print('*** Note')
+      print('*** Note ' + first + ' ' + last)
       print('|-----------+-------------+-----+-----------+------------|')
       print('| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |')
       print('|-----------+-------------+-----+-----------+------------|')
@@ -100,7 +100,7 @@ Wie beruft Jesus? Wen beruft Jesus?
 |-----------------------+-----------+-------------------------+---------------|
 
 
-*** Note
+*** Note Maximilian Fischhofer
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -120,7 +120,7 @@ Wie beruft Jesus? Wen beruft Jesus?
 |-----------------------+-----------+-------------------------+---------------|
 
 
-*** Note
+*** Note Hannah Höllbacher
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -140,7 +140,7 @@ Wie beruft Jesus? Wen beruft Jesus?
 |-----------------------+-----------+-------------------------+---------------|
 
 
-*** Note
+*** Note Maximilian Fischhofer
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -160,7 +160,7 @@ Wie beruft Jesus? Wen beruft Jesus?
 |-----------------------+-----------+-------------------------+---------------|
 
 
-*** Note
+*** Note Hannah Höllbacher
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -173,7 +173,6 @@ Wie beruft Jesus? Wen beruft Jesus?
 :EMAIL: [[mailto: Leon Keser <Leon.Keser@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Leon_Keser.html
 :END: 
-
 
 |-----------------------+-----------+---------------------------+------------------------|
 | Datum / UE            | Stunde    | Thema                     | Anmerkungen            |
@@ -204,12 +203,14 @@ Was ist zu tun? Leon leidet unter ADHS (wie stark?). Andererseits kann dies kein
 **** TODO [#A] Leons Mutter kontaktieren (SchoolFox)
 
 
-*** Note
+
+*** Note Leon Keser
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
 |         2 |           3 |   2 |         3 |        2.5 |
 #+TBLFM: $5=vmean($1..$4)
+
 
 ** Thomas Krallinger
 :PROPERTIES:
@@ -223,7 +224,7 @@ Was ist zu tun? Leon leidet unter ADHS (wie stark?). Andererseits kann dies kein
 |-----------------------+-----------+-------------------------+---------------|
 
 
-*** Note
+*** Note Thomas Krallinger
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -243,7 +244,7 @@ Was ist zu tun? Leon leidet unter ADHS (wie stark?). Andererseits kann dies kein
 |-----------------------+-----------+-------------------------+---------------|
 
 
-*** Note
+*** Note Fabian Lienbacher
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -263,7 +264,7 @@ Was ist zu tun? Leon leidet unter ADHS (wie stark?). Andererseits kann dies kein
 |-----------------------+-----------+-------------------------+---------------|
 
 
-*** Note
+*** Note Lena Malter
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -283,7 +284,7 @@ Was ist zu tun? Leon leidet unter ADHS (wie stark?). Andererseits kann dies kein
 |-----------------------+-----------+-------------------------+---------------|
 
 
-*** Note
+*** Note Sophia Mayr
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -303,7 +304,7 @@ Was ist zu tun? Leon leidet unter ADHS (wie stark?). Andererseits kann dies kein
 |-----------------------+-----------+-------------------------+---------------|
 
 
-*** Note
+*** Note Florian Peroutka
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -323,7 +324,7 @@ Was ist zu tun? Leon leidet unter ADHS (wie stark?). Andererseits kann dies kein
 |-----------------------+-----------+-------------------------+---------------|
 
 
-*** Note
+*** Note Andreas Rußegger
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -343,7 +344,7 @@ Was ist zu tun? Leon leidet unter ADHS (wie stark?). Andererseits kann dies kein
 |-----------------------+-----------+-------------------------+---------------|
 
 
-*** Note
+*** Note Valerie Schönauer
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -363,7 +364,7 @@ Was ist zu tun? Leon leidet unter ADHS (wie stark?). Andererseits kann dies kein
 |-----------------------+-----------+-------------------------+---------------|
 
 
-*** Note
+*** Note Marlene Seidl
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -383,7 +384,7 @@ Was ist zu tun? Leon leidet unter ADHS (wie stark?). Andererseits kann dies kein
 |-----------------------+-----------+-------------------------+---------------|
 
 
-*** Note
+*** Note Anna Spitzelseder
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -403,7 +404,7 @@ Was ist zu tun? Leon leidet unter ADHS (wie stark?). Andererseits kann dies kein
 |-----------------------+-----------+-------------------------+---------------|
 
 
-*** Note
+*** Note Florian Steiner
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -423,7 +424,7 @@ Was ist zu tun? Leon leidet unter ADHS (wie stark?). Andererseits kann dies kein
 |-----------------------+-----------+-------------------------+---------------|
 
 
-*** Note
+*** Note Karin Struber
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -443,7 +444,7 @@ Was ist zu tun? Leon leidet unter ADHS (wie stark?). Andererseits kann dies kein
 |-----------------------+-----------+-------------------------+---------------|
 
 
-*** Note
+*** Note Lukas Wagenhofer
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -451,11 +452,7 @@ Was ist zu tun? Leon leidet unter ADHS (wie stark?). Andererseits kann dies kein
 #+TBLFM: $5=vmean($1..$4)
 
 
-
-
-
-
-
+* Mitarbeittabelle
 #+Name: Mitarbeit
 | Name                  | Note | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |-----------------------+------+---+---+---+---+---+---+---+---+---+----|

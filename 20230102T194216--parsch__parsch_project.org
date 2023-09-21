@@ -61,7 +61,7 @@ Dieses Schuljahr werde ich das nimmer machen. Ich werde zwar keinen Stoff pauken
       print('| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |')
       print('|-----------------------+-----------+-------------------------+---------------|')
       print('\n')
-      print('*** Note')
+      print('*** Note ' + first + ' ' + last)
       print('|-----------+-------------+-----+-----------+------------|')
       print('| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |')
       print('|-----------+-------------+-----+-----------+------------|')
@@ -84,7 +84,7 @@ Dieses Schuljahr werde ich das nimmer machen. Ich werde zwar keinen Stoff pauken
 |-----------------------+-----------+-------------------------+---------------|
 
 
-*** Note
+*** Note Edmund Atherton
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -104,7 +104,7 @@ Dieses Schuljahr werde ich das nimmer machen. Ich werde zwar keinen Stoff pauken
 |-----------------------+-----------+-------------------------+---------------|
 
 
-*** Note
+*** Note Ramona Streibl
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -124,7 +124,7 @@ Dieses Schuljahr werde ich das nimmer machen. Ich werde zwar keinen Stoff pauken
 |-----------------------+-----------+-------------------------+---------------|
 
 
-*** Note
+*** Note Simon Wippel
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -144,7 +144,7 @@ Dieses Schuljahr werde ich das nimmer machen. Ich werde zwar keinen Stoff pauken
 |-----------------------+-----------+-------------------------+---------------|
 
 
-*** Note
+*** Note Ketrin Serban
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -155,14 +155,14 @@ Dieses Schuljahr werde ich das nimmer machen. Ich werde zwar keinen Stoff pauken
 
 
 
+
 * Reflexionen
 
+** [[denote:20230619T210120][[SW02] Autorität und Verantwortung]]
+:PROPERTIES:
+:CAPTURED: [2023-09-21 Do 15:49]
+:CLASS: [2023-09-21 Do 14:30] 1. Stunde
+:END:
 
-
-
-
-
-
-
-
+Heute war nur Edmund anwesend. Ob die anderen Schüler vom RU wussten? In TA kann ich noch nix eintragen. Also hab ich den Direktor verständigt. Ich befürchte, dass es in Zukunft nicht anders sein wird.
 
