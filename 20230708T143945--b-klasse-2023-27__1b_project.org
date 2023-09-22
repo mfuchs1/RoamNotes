@@ -28,6 +28,9 @@ Abgemeldet:
 
 [[denote:20230619T073700][[SW01] Jahresstoff / ich stehe in den Schuhen des Anderen]]
 
+[[denote:20230619T074010][[SW02] Eine Gemeinschaft, die uns stärkt]]
+
+
 * 1B [KV Gertraud Viertbauer]
 #+Name: 2021-students
 | First     | Last          | Name                 | Note | Mitarbeit | Heft | LZK |
@@ -44,7 +47,6 @@ Abgemeldet:
 | Lisa      | Kronreif      | [[Lisa Kronreif][Lisa Kronreif]]        |    1 |           |      |     |
 | Peter     | Kronreif      | [[Peter Kronreif][Peter Kronreif]]       |    1 |           |      |     |
 | Anna-Mae  | Leierer       | [[Anna-Mae Leierer][Anna-Mae Leierer]]     |    1 |           |      |     |
-| Mira      | Meißner       | [[Mira Meißner][Mira Meißner]]         |      |           |      |     |
 | Neureiter | Benjamin      | [[Neureiter Benjamin][Neureiter Benjamin]]   |      |           |      |     |
 | Paula     | Neureiter     | [[Paula Neureiter][Paula Neureiter]]      |      |           |      |     |
 | Raphael   | Neureiter     | [[Raphael Neureiter][Raphael Neureiter]]    |    1 |           |      |     |
@@ -54,8 +56,6 @@ Abgemeldet:
 | Elisabeth | Seigmann      | [[Elisabeth Seigmann][Elisabeth Seigmann]]   |    1 |           |      |     |
 | Bianca    | Spagolla      | [[Bianca Spagolla][Bianca Spagolla]]      |    1 |           |      |     |
 | Pia       | Stoß          | [[Pia Stoß][Pia Stoß]]             |      |           |      |     |
-| Valentin  | Walcher       | [[Valentin Walcher][Valentin Walcher]]     |      |           |      |     |
-| Vincent   | Walcher       | [[Vincent Walcher][Vincent Walcher]]      |      |           |      |     |
 | Illija    | Zivkovic      | [[Illija Zivkovic][Illija Zivkovic]]      |      |           |      |     |
 |-----------+---------------+----------------------+------+-----------+------+-----|
 #+TBLFM: $4=vmean($5..$>)
@@ -329,26 +329,6 @@ Abgemeldet:
 #+TBLFM: $5=vmean($1..$4)
 
 
-** Mira Meißner
-:PROPERTIES:
-:EMAIL: [[mailto: Mira Meißner <Mira.Meißner@golling.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Mira_Meißner.html
-:END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
-
-
-*** Note Mira Meißner
-|-----------+-------------+-----+-----------+------------|
-| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
-|-----------+-------------+-----+-----------+------------|
-|         2 |           3 |   2 |         3 |        2.5 |
-#+TBLFM: $5=vmean($1..$4)
-
-
 ** Neureiter Benjamin
 :PROPERTIES:
 :EMAIL: [[mailto: Neureiter Benjamin <Neureiter.Benjamin@golling.schule>]]
@@ -529,46 +509,6 @@ Abgemeldet:
 #+TBLFM: $5=vmean($1..$4)
 
 
-** Valentin Walcher
-:PROPERTIES:
-:EMAIL: [[mailto: Valentin Walcher <Valentin.Walcher@golling.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Valentin_Walcher.html
-:END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
-
-
-*** Note Valentin Walcher
-|-----------+-------------+-----+-----------+------------|
-| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
-|-----------+-------------+-----+-----------+------------|
-|         2 |           3 |   2 |         3 |        2.5 |
-#+TBLFM: $5=vmean($1..$4)
-
-
-** Vincent Walcher
-:PROPERTIES:
-:EMAIL: [[mailto: Vincent Walcher <Vincent.Walcher@golling.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Vincent_Walcher.html
-:END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
-
-
-*** Note Vincent Walcher
-|-----------+-------------+-----+-----------+------------|
-| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
-|-----------+-------------+-----+-----------+------------|
-|         2 |           3 |   2 |         3 |        2.5 |
-#+TBLFM: $5=vmean($1..$4)
-
-
 ** Illija Zivkovic
 :PROPERTIES:
 :EMAIL: [[mailto: Illija Zivkovic <Illija.Zivkovic@golling.schule>]]
@@ -593,7 +533,7 @@ Abgemeldet:
 
 
 
-
+* Mitarbeittabelle
 # In diese Tabelle trage ich die Mitarbeit während 10 Schulwochen ein. Danach kann ich mit der ersten Tabellenformel die aktuelle Durchschnittsnote errechnen. Diese kann ich in die obige Tabelle übernehmen. Nach 23 Wochen (dh einem Semster) müsste ich die Tabelle wieder leeren - hm, gibt es keine bessere Lösung? Eine Tabelle mit allen 43 Schulwochen wäre zu groß. Mit 'C-c TAB' kann ich einzelne Spalten ein- und ausklappen. Wie geht das mit mehreren Spalten?
 #+Name: Mitarbeit
 | Name                 | Note | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 |
