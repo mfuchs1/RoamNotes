@@ -14,10 +14,6 @@
 * Jahresplanung
 [[denote:20230621T073313][01 Golling]]
 
-Abgemeldet:
-- Mira Messner
-- Valentin Walcher
-- Vincent Walcher
 
 * 1b 12:30-13:20
 <%%(org-class 2023 9 12 2024 7 6 2)>
@@ -550,7 +546,6 @@ Abgemeldet:
 | [[Lisa Kronreif][Lisa Kronreif]]        |      |   |   |   |   |   |   |   |   |   |    |    |
 | [[Peter Kronreif][Peter Kronreif]]       |      |   |   |   |   |   |   |   |   |   |    |    |
 | [[Anna-Mae Leierer][Anna-Mae Leierer]]     |      |   |   |   |   |   |   |   |   |   |    |    |
-| [[Mira Meißner][Mira Meißner]]         |      |   |   |   |   |   |   |   |   |   |    |    |
 | [[Neureiter Benjamin][Neureiter Benjamin]]   |      |   |   |   |   |   |   |   |   |   |    |    |
 | [[Paula Neureiter][Paula Neureiter]]      |      |   |   |   |   |   |   |   |   |   |    |    |
 | [[Raphael Neureiter][Raphael Neureiter]]    |      |   |   |   |   |   |   |   |   |   |    |    |
@@ -560,8 +555,6 @@ Abgemeldet:
 | [[Elisabeth Seigmann][Elisabeth Seigmann]]   |      |   |   |   |   |   |   |   |   |   |    |    |
 | [[Bianca Spagolla][Bianca Spagolla]]      |      |   |   |   |   |   |   |   |   |   |    |    |
 | [[Pia Stoß][Pia Stoß]]             |      |   |   |   |   |   |   |   |   |   |    |    |
-| [[Valentin Walcher][Valentin Walcher]]     |      |   |   |   |   |   |   |   |   |   |    |    |
-| [[Vincent Walcher][Vincent Walcher]]      |      |   |   |   |   |   |   |   |   |   |    |    |
 | [[Illija Zivkovic][Illija Zivkovic]]      |      |   |   |   |   |   |   |   |   |   |    |    |
 #+TBLFM: $2=vmean($3..$>)
 #+TBLFM: $1='(identity remote(2021-students,@@#$3))

@@ -17,13 +17,13 @@
 <2023-09-11 Mo>
 
 ** [[denote:20230623T225904][[SW02] Das Leben kleben]]
-<2023-09-18 Mo>
+SCHEDULED: <2023-09-18 Mo>
 
 ** [[denote:20230623T230134][[SW03] Die Schönheit der Schöpfung / Die Schöpfung in Gefahr]]
-<2023-09-25 Mo>
+SCHEDULED: <2023-09-25 Mo>
 
-** [[denote:20230623T230355][[SW04] Ein Papst schreibt an die Welt / Die Erde ist unser Auftrag]]
-<2023-10-02 Mo>
+** [[denote:20230623T230355][[SW04] Ein Papst schreibt an die Welt / Die Erde ist unser Auftrag]]d
+SCHEDULED: <2023-10-02 Mo>
 
 ** [[denote:20230623T230501][[SW05] Die Schöpfung erhalten aber wie]]
 

@@ -17,15 +17,16 @@
 <2023-09-11 Mo>
 
 ** [[denote:20230711T003116][[SW02] Die Berufung als Quelle meines Lebens]]
-<2023-09-18 Mo>
+SCHEDULED: <2023-09-18 Mo>
 
 ** [[denote:20230711T003213][[SW03] Sinn der Arbeit]]
-<2023-09-25 Mo>
+SCHEDULED: <2023-09-25 Mo>
 
 ** [[denote:20230711T003258][[SW04] (Un-)gerechte Wirtschaftsmodelle]]
-<2023-10-02 Mo>
+SCHEDULED: <2023-10-02 Mo>
 
 ** [[denote:20230711T003342][[SW05] Nachhaltige Entwicklungsziele der UNO]]
+
 
 ** [[denote:20230711T003421][[SW06] Menschenrechte]]
 

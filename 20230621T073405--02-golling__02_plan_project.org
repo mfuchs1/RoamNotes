@@ -15,13 +15,13 @@
 <2023-09-11 Mo>
 
 ** [[denote:20230619T210120][[SW02] Autorität und Verantwortung]]
-<2023-09-18 Mo>
+SCHEDULED: <2023-09-18 Mo>
 
 ** [[denote:20230619T210213][[SW03] Impuls: Konflikte lösen]]
-<2023-09-25 Mo>
+SCHEDULED: <2023-09-25 Mo>
 
 ** [[denote:20230619T210331][[SW04] Wofür Jesus streitet / Liebe, eine Grundhaltung]]
-<2023-10-02 Mo>
+SCHEDULED: <2023-10-02 Mo>
 
 ** [[denote:20230619T210414][[SW05] Freundschaft: Verliebt und verzaubert]]
 
