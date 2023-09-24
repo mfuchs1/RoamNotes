@@ -17,22 +17,26 @@
 * 4b 07:45-08:35
 <%%(org-class 2023 9 12 2024 7 6 2)>
 
-[[denote:20230711T003116][[SW02] Die Berufung als Quelle meines Lebens]]
-The Chosen - Szene am Brunnen in Sychar
-Staffel 1 - Episode 8
+[[denote:20230711T003213][[SW03] Sinn der Arbeit]]
+
+** Arbeitsaufträge:
+
+[[file:~/Dokumente/DC_Studyguide_Deu_7.pdf][Eine Wirtschaft, die den Menschen dient]]
+
+[[file:~/Dokumente/DC_Studyguide_Deu_6.pdf]]
+
+Geht uns die Arbeit aus?
+
+[[https://jugend-und-bildung.de/fileadmin/user_upload_sozialpolitik/PDFs/schaubild-geht-uns-die-arbeit-aus.pdf]]
+
+[[file:~/Downloads/global_lernen_2017-1.pdf.pdf]]
+
+Frage des Privateigentums
 
 * 4b 07:45-08:35
 <%%(org-class 2023 9 13 2024 7 7 3)>
 
-[[denote:20230711T002844][[SW01] Jesus ist die Quelle unseres Lebens]]
-
-Wie beruft Jesus? Wen beruft Jesus?
-- Jünger
-- "macht sie zu Aposteln"
-
-  Ausschnitte aus "The Chosen"
-  
-- Paulus
+[[denote:20230711T003213][[SW03] Sinn der Arbeit]]
 
 
 * 4B [KV Erwin Essl]
@@ -40,23 +44,21 @@ Wie beruft Jesus? Wen beruft Jesus?
 #+Name: 2021-students
 | First      | Last         | Name                  | Note | Mitarbeit | Heft | LZK |
 |------------+--------------+-----------------------+------+-----------+------+-----|
-| Maximilian | Fischhofer   | [[Maximilian Fischhofer][Maximilian Fischhofer]] |      |           |      |     |
+| *Maximilian | Fischhofer   | [[Maximilian Fischhofer][Maximilian Fischhofer]] |      |           |      |     |
 | Hannah     | Höllbacher   | [[Hannah Höllbacher][Hannah Höllbacher]]     |      |           |      |     |
-| Maximilian | Fischhofer   | [[Maximilian Fischhofer][Maximilian Fischhofer]] |      |           |      |     |
-| Hannah     | Höllbacher   | [[Hannah Höllbacher][Hannah Höllbacher]]     |      |           |      |     |
-| Leon       | Keser        | [[Leon Keser][Leon Keser]]            |      |           |      |     |
-| Thomas     | Krallinger   | [[Thomas Krallinger][Thomas Krallinger]]     |      |           |      |     |
+| *Leon      | Keser        | [[Leon Keser][Leon Keser]]            |      |           |      |     |
+| *Thomas    | Krallinger   | [[Thomas Krallinger][Thomas Krallinger]]     |      |           |      |     |
 | Fabian     | Lienbacher   | [[Fabian Lienbacher][Fabian Lienbacher]]     |      |           |      |     |
 | Lena       | Malter       | [[Lena Malter][Lena Malter]]           |      |           |      |     |
 | Sophia     | Mayr         | [[Sophia Mayr][Sophia Mayr]]           |      |           |      |     |
 | Florian    | Peroutka     | [[Florian Peroutka][Florian Peroutka]]      |      |           |      |     |
-| Andreas    | Rußegger     | [[Andreas Rußegger][Andreas Rußegger]]      |      |           |      |     |
+| *Andreas   | Rußegger     | [[Andreas Rußegger][Andreas Rußegger]]      |      |           |      |     |
 | Valerie    | Schönauer    | [[Valerie Schönauer][Valerie Schönauer]]     |      |           |      |     |
 | Marlene    | Seidl        | [[Marlene Seidl][Marlene Seidl]]         |      |           |      |     |
 | Anna       | Spitzelseder | [[Anna Spitzelseder][Anna Spitzelseder]]     |      |           |      |     |
 | Florian    | Steiner      | [[Florian Steiner][Florian Steiner]]       |      |           |      |     |
 | Karin      | Struber      | [[Karin Struber][Karin Struber]]         |      |           |      |     |
-| Lukas      | Wagenhofer   | [[Lukas Wagenhofer][Lukas Wagenhofer]]      |      |           |      |     |
+| *Lukas     | Wagenhofer   | [[Lukas Wagenhofer][Lukas Wagenhofer]]      |      |           |      |     |
 #+TBLFM: $4=vmean($5..$>)
 #+TBLFM: $3='(concat "[[" $1 " " $2 "][" $1 " " $2 "]]")
 #+TBLFM: $5='(identity remote(Mitarbeit,@@#$2))
@@ -88,46 +90,6 @@ Wie beruft Jesus? Wen beruft Jesus?
 
 #+RESULTS:
 * Mitarbeit
-** Maximilian Fischhofer
-:PROPERTIES:
-:EMAIL: [[mailto: Maximilian Fischhofer <Maximilian.Fischhofer@golling.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Maximilian_Fischhofer.html
-:END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
-
-
-*** Note Maximilian Fischhofer
-|-----------+-------------+-----+-----------+------------|
-| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
-|-----------+-------------+-----+-----------+------------|
-|         2 |           3 |   2 |         3 |        2.5 |
-#+TBLFM: $5=vmean($1..$4)
-
-
-** Hannah Höllbacher
-:PROPERTIES:
-:EMAIL: [[mailto: Hannah Höllbacher <Hannah.Höllbacher@golling.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Hannah_Höllbacher.html
-:END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
-
-
-*** Note Hannah Höllbacher
-|-----------+-------------+-----+-----------+------------|
-| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
-|-----------+-------------+-----+-----------+------------|
-|         2 |           3 |   2 |         3 |        2.5 |
-#+TBLFM: $5=vmean($1..$4)
-
-
 ** Maximilian Fischhofer
 :PROPERTIES:
 :EMAIL: [[mailto: Maximilian Fischhofer <Maximilian.Fischhofer@golling.schule>]]
@@ -457,8 +419,6 @@ Was ist zu tun? Leon leidet unter ADHS (wie stark?). Andererseits kann dies kein
 #+Name: Mitarbeit
 | Name                  | Note | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |-----------------------+------+---+---+---+---+---+---+---+---+---+----|
-| [[Maximilian Fischhofer][Maximilian Fischhofer]] |      |   |   |   |   |   |   |   |   |   |    |
-| [[Hannah Höllbacher][Hannah Höllbacher]]     |      |   |   |   |   |   |   |   |   |   |    |
 | [[Maximilian Fischhofer][Maximilian Fischhofer]] |      |   |   |   |   |   |   |   |   |   |    |
 | [[Hannah Höllbacher][Hannah Höllbacher]]     |      |   |   |   |   |   |   |   |   |   |    |
 | [[Leon Keser][Leon Keser]]            |      |   |   |   |   |   |   |   |   |   |    |

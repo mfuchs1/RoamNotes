@@ -17,12 +17,20 @@
 * 3a 11:35-12:25
 <%%(org-class 2023 9 11 2024 7 5 1)>
 
-[[denote:20230623T225514][[SW01] Vieles hat Leben in sich / Das Wunder des Lebens]]
+[[denote:20230623T230134][[SW03] Die Schönheit der Schöpfung / Die Schöpfung in Gefahr]]
+
+BBC Doku / Bsp. der Umweltverschmutzung
+
+Kinder bringen Fotos aus ihrer Umgebung mit, die die Schönheit der Schöpfung zeigen.
 
 * 3a 11:35-12:25
 <%%(org-class 2023 9 15 2024 7 9 5)>
 
-[[denote:20230623T225514][[SW01] Vieles hat Leben in sich / Das Wunder des Lebens]]
+[[denote:20230623T230134][[SW03] Die Schönheit der Schöpfung / Die Schöpfung in Gefahr]]
+
+BBC Doku / Bsp. der Umweltverschmutzung
+
+Kinder bringen Fotos aus ihrer Umgebung mit, die die Schönheit der Schöpfung zeigen.
 
 * 3A [KV Bernhard Moser]
 
@@ -35,20 +43,20 @@
 | Julia    | Bretschu     | [[Julia Bretschu][Julia Bretschu]]      |      |      |           |     |
 | Matteo   | Eckhardt     | [[Matteo Eckhardt][Matteo Eckhardt]]     |      |      |           |     |
 | Diana    | Eibl         | [[Diana Eibl][Diana Eibl]]          |      |      |           |     |
-| Oliver   | Kurz         | [[Oliver Kurz][Oliver Kurz]]         |      |      |           |     |
+| *Oliver  | Kurz         | [[Oliver Kurz][Oliver Kurz]]         |      |      |           |     |
 | Elisa    | Mayr         | [[Elisa Mayr][Elisa Mayr]]          |      |      |           |     |
 | Alisa    | Meisl        | [[Alisa Meisl][Alisa Meisl]]         |      |      |           |     |
 | Carolina | Schlager     | [[Carolina Schlager][Carolina Schlager]]   |      |      |           |     |
 | Marie    | Schmidt      | [[Marie Schmidt][Marie Schmidt]]       |      |      |           |     |
 | Annika   | Schröcker    | [[Annika Schröcker][Annika Schröcker]]    |      |      |           |     |
 | Lea      | Stoß         | [[Lea Stoß][Lea Stoß]]            |      |      |           |     |
-| Manuel   | Stoß         | [[Manuel Stoß][Manuel Stoß]]         |      |      |           |     |
-| Johanna  | Strubreiter  | [[Johanna Strubreiter][Johanna Strubreiter]] |      |      |           |     |
+| *Manuel  | Stoß         | [[Manuel Stoß][Manuel Stoß]]         |      |      |           |     |
+| *Johanna | Strubreiter  | [[Johanna Strubreiter][Johanna Strubreiter]] |      |      |           |     |
 | Laurenz  | Walcher      | [[Laurenz Walcher][Laurenz Walcher]]     |      |      |           |     |
-| Lorenz   | Wallinger    | [[Lorenz Wallinger][Lorenz Wallinger]]    |      |      |           |     |
+| *Lorenz  | Wallinger    | [[Lorenz Wallinger][Lorenz Wallinger]]    |      |      |           |     |
 | Jana     | Wenger       | [[Jana Wenger][Jana Wenger]]         |      |      |           |     |
-| Luca     | Zemmer       | [[Luca Zemmer][Luca Zemmer]]         |      |      |           |     |
-| Karlo    | Zivkovic     | [[Karlo Zivkovic][Karlo Zivkovic]]      |      |      |           |     |
+| *Luca    | Zemmer       | [[Luca Zemmer][Luca Zemmer]]         |      |      |           |     |
+| *Karlo   | Zivkovic     | [[Karlo Zivkovic][Karlo Zivkovic]]      |      |      |           |     |
 | Robert   | Zivkovic     | [[Robert Zivkovic][Robert Zivkovic]]     |      |      |           |     |
 #+TBLFM: $4=vmean($5..$>)
 #+TBLFM: $3='(concat "[[" $1 " " $2 "][" $1 " " $2 "]]")

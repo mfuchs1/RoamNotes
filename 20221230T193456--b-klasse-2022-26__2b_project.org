@@ -20,22 +20,13 @@ Lucian, Stefan, +?
 * 2b 10:40-11:30
 <%%(org-class 2023 9 12 2024 7 6 2)>
 
-[[denote:20230619T210001][[SW01] Mit jedem redest du anders]]
-
-Das war ein Missverständnis / 4 Ohren Modell
-
-[[denote:20230619T210120][[SW02] Autorität und Verantwortung]]
-
+[[denote:20230619T210213][[SW03] Impuls: Konflikte lösen]]
 
 
 * 2b 10:40-11:30
 <%%(org-class 2023 9 13 2024 7 7 3)>
 
-[[denote:20230619T210001][[SW01] Mit jedem redest du anders]]
-
-Das war ein Missverständnis / 4 Ohren Modell
-
-[[denote:20230619T210120][[SW02] Autorität und Verantwortung]]
+[[denote:20230619T210213][[SW03] Impuls: Konflikte lösen]]
 
 
 
@@ -44,15 +35,15 @@ Das war ein Missverständnis / 4 Ohren Modell
 #+Name: 2021-students
 | First     | Last       | Name               | Note | Mitarbeit | Heft | LZK |
 |-----------+------------+--------------------+------+-----------+------+-----|
-| Lorenz    | Aschauer   | [[Lorenz Aschauer][Lorenz Aschauer]]    |    2 |           |      |     |
+| *Lorenz   | Aschauer   | [[Lorenz Aschauer][Lorenz Aschauer]]    |    2 |           |      |     |
 | Emma      | Gonschorek | [[Emma Gonschorek][Emma Gonschorek]]    |    1 |           |      |     |
 | Marie     | Hofer      | [[Marie Hofer][Marie Hofer]]        |    1 |           |      |     |
 | Nena      | Langenfeld | [[Nena Langenfeld][Nena Langenfeld]]    |    1 |           |      |     |
-| Bernhard  | Neureiter  | [[Bernhard Neureiter][Bernhard Neureiter]] |    2 |           |      |     |
+| *Bernhard | Neureiter  | [[Bernhard Neureiter][Bernhard Neureiter]] |    2 |           |      |     |
 | Manuel    | Reiter     | [[Manuel Reiter][Manuel Reiter]]      |    1 |           |      |     |
 | Emma      | Riebler    | [[Emma Riebler][Emma Riebler]]       |    1 |           |      |     |
 | Annika    | Seiwald    | [[Annika Seiwald][Annika Seiwald]]     |    1 |           |      |     |
-| Valerian  | Seling     | [[Valerian Seling][Valerian Seling]]    |    2 |           |      |     |
+| *Valerian | Seling     | [[Valerian Seling][Valerian Seling]]    |    2 |           |      |     |
 | Theresa   | Steiner    | [[Theresa Steiner][Theresa Steiner]]    |    1 |           |      |     |
 | Valentina | Struber    | [[Valentina Struber][Valentina Struber]]  |    1 |           |      |     |
 | Felix     | Wenger     | [[Felix Wenger][Felix Wenger]]       |    1 |           |      |     |
