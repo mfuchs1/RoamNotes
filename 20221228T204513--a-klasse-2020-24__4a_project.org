@@ -20,6 +20,11 @@
 
 [[denote:20230711T003213][[SW03] Sinn der Arbeit]]
 
+Gruppenarbeit (zu viert):
+- eines der beiden AB bearbeiten;
+- Ergebnisse im Heft festhalten
+
+
 ** Arbeitsaufträge:
 
 [[file:~/Dokumente/DC_Studyguide_Deu_7.pdf][Eine Wirtschaft, die den Menschen dient]]
@@ -30,7 +35,6 @@ Geht uns die Arbeit aus?
 
 [[https://jugend-und-bildung.de/fileadmin/user_upload_sozialpolitik/PDFs/schaubild-geht-uns-die-arbeit-aus.pdf]]
 
-[[file:~/Downloads/global_lernen_2017-1.pdf.pdf]]
 
 Frage des Privateigentums
 
@@ -57,9 +61,10 @@ Frage des Privateigentums
 | Arthur     | Schattauer  | [[Arthur Schattauer][Arthur Schattauer]]     |    1 |           |      |     |
 | Fabian     | Schober     | [[Fabian Schober][Fabian Schober]]        |    1 |           |      |     |
 | Kristina   | Seidl       | [[Kristina Seidl][Kristina Seidl]]        |    1 |           |      |     |
-| Ivana      | Sokic       | [[Ivana Sokic][Ivana Sokic]]           |    1 |           |      |     |
 | Anna       | Steiner     | [[Anna Steiner][Anna Steiner]]          |    1 |           |      |     |
 | Andre-Leon | Stippler    | [[Andre-Leon Stippler][Andre-Leon Stippler]]   |    1 |           |      |     |
+| Nico       | Straßer     | [[Nico Straßer][Nico Straßer]]          |      |           |      |     |
+| Emma       | Sunkler     | [[Emma Sunkler][Emma Sunkler]]          |      |           |      |     |
 | Christina  | Unterrainer | [[Christina Unterrainer][Christina Unterrainer]] |    1 |           |      |     |
 | Thomas     | Wenger      | [[Thomas Wenger][Thomas Wenger]]         |    1 |           |      |     |
 | Lena       | Zorzi       | [[Lena Zorzi][Lena Zorzi]]            |    1 |           |      |     |
@@ -314,26 +319,6 @@ Frage des Privateigentums
 #+TBLFM: $5=vmean($1..$4)
 
 
-** Ivana Sokic
-:PROPERTIES:
-:EMAIL: [[mailto: Ivana Sokic <Ivana.Sokic@golling.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Ivana_Sokic.html
-:END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
-
-
-*** Note Ivana Sokic
-|-----------+-------------+-----+-----------+------------|
-| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
-|-----------+-------------+-----+-----------+------------|
-|         2 |           3 |   2 |         3 |        2.5 |
-#+TBLFM: $5=vmean($1..$4)
-
-
 ** Anna Steiner
 :PROPERTIES:
 :EMAIL: [[mailto: Anna Steiner <Anna.Steiner@golling.schule>]]
@@ -367,6 +352,46 @@ Frage des Privateigentums
 
 
 *** Note Andre-Leon Stippler
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Nico Straßer
+:PROPERTIES:
+:EMAIL: [[mailto: Nico Straßer <Nico.Straßer@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Nico_Straßer.html
+:END: 
+
+
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
+
+
+*** Note Nico Straßer
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Emma Sunkler
+:PROPERTIES:
+:EMAIL: [[mailto: Emma Sunkler <Emma.Sunkler@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Emma_Sunkler.html
+:END: 
+
+
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
+
+
+*** Note Emma Sunkler
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -434,6 +459,8 @@ Frage des Privateigentums
 #+TBLFM: $5=vmean($1..$4)
 
 
+
+
 * Mitarbeittabelle
 # In diese Tabelle trage ich die Mitarbeit während 10 Schulwochen ein. Danach kann ich mit der ersten Tabellenformel die aktuelle Durchschnittsnote errechnen. Diese kann ich in die obige Tabelle übernehmen. Nach 23 Wochen (dh einem Semster) müsste ich die Tabelle wieder leeren - hm, gibt es keine bessere Lösung? Eine Tabelle mit allen 43 Schulwochen wäre zu groß. Mit 'C-c TAB' kann ich einzelne Spalten ein- und ausklappen. Wie geht das mit mehreren Spalten?
 #+Name: Mitarbeit
@@ -450,14 +477,15 @@ Frage des Privateigentums
 | [[Arthur Schattauer][Arthur Schattauer]]     |      |   |   |   |   |   |   |   |   |   |    |
 | [[Fabian Schober][Fabian Schober]]        |      |   |   |   |   |   |   |   |   |   |    |
 | [[Kristina Seidl][Kristina Seidl]]        |      |   |   |   |   |   |   |   |   |   |    |
-| [[Ivana Sokic][Ivana Sokic]]           |      |   |   |   |   |   |   |   |   |   |    |
 | [[Anna Steiner][Anna Steiner]]          |      |   |   |   |   |   |   |   |   |   |    |
 | [[Andre-Leon Stippler][Andre-Leon Stippler]]   |      |   |   |   |   |   |   |   |   |   |    |
+| [[Nico Straßer][Nico Straßer]]          |      |   |   |   |   |   |   |   |   |   |    |
+| [[Emma Sunkler][Emma Sunkler]]          |      |   |   |   |   |   |   |   |   |   |    |
 | [[Christina Unterrainer][Christina Unterrainer]] |      |   |   |   |   |   |   |   |   |   |    |
 | [[Thomas Wenger][Thomas Wenger]]         |      |   |   |   |   |   |   |   |   |   |    |
 | [[Lena Zorzi][Lena Zorzi]]            |      |   |   |   |   |   |   |   |   |   |    |
-#+TBLFM: $2=vmean($3..$>)
 #+TBLFM: $1='(identity remote(2021-students,@@#$3))
+#+TBLFM: $2=vmean($3..$>)
 
 
 * Reflexionen

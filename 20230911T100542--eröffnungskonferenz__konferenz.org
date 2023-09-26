@@ -2,6 +2,13 @@
 #+date:       [2023-09-11 Mo 10:05]
 #+filetags:   :konferenz:
 #+identifier: 20230911T100542
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) NEXT(x) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) CANCELED(c@)
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width \linewidth
+#+OPTIONS: toc:nil
+#+export_file_name: ~/RoamNotes/exports/Protokoll Eröffnungskonferenz.html
 
 test
 * Begrüßung
@@ -12,7 +19,7 @@ Besonders Sylvia (Verwaltungsassistent)
 Markus Grill
 Stefanie Baumgartner
 Daniel Graf
-Erlbacher
+Anton Erlbacher
 Bernadette Lienbacher
 
 ** Geburtstagskinder
@@ -25,7 +32,7 @@ Wegen einem Schüler, statt 3x 1. Klasse jetzt 2x 1. Klassen.
 
 Wunsch nach harmonischem Miteinander
 
-** Änderungen bekanntgeben
+** Änderungen der persönlichen Daten bekanntgeben
 
 ** Sokrates
 Stundenplan könnte sich ändern ... sollte es ein Erstklassler sein; Problem, weil 2 Lehrer fehlen.
@@ -142,17 +149,10 @@ noch nicht fixiert.
 9.10. 14.11. 12.12. 18.01
 jeweils 16h00
 
-** Schulfotograf
-11.10. 12.10.
-
-** Weihnachtsferien
-22.12. 11h45 Gottesdienst
-bis 7.1.
-
 ** Tag der offenen Tür:
 vor Weihnachten
 
-7.12.
+7.12.2023
 
 ** Semesterkonferenz
 5.2.2024 15h00
@@ -160,24 +160,7 @@ vor Weihnachten
 ** Schitag
 13.12.?
 
-** Schulnachricht
-9.2.
 
-** Semsester
-10.2. 18.2.
-
-** Ostermesse
-22.3.
-ferien bis 1.4.
-
-** Sportwoche
-2.4. 5.4.
-
-** Wienwoche
-?
-
-** Skikurs
-18.12. 22.12.
 
 * Mehr Schulbücher
 
@@ -185,8 +168,7 @@ ferien bis 1.4.
 
 ** 2b einer mehr 
 
-** eine erste Klasse weniger
-nachfragen Fr Weninger
+
 
 
 * Wandertag
@@ -210,7 +192,7 @@ Schloss ohne Schlüssel - auf schneiden
 Martin: Hannah Nr 80?
 
 * Schulgottesdienst
-8:00
+Di, 12.9., 8:00
 
 * Eventplanungsteam:
 Lehrerausflug, Skitag, Fasching:

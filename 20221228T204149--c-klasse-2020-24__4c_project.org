@@ -45,16 +45,13 @@ Frage des Privateigentums
 #+Name: 2021-students
 | First         | Last         | Name                     | Note | Mitarbeit | Heft | LZK |
 |---------------+--------------+--------------------------+------+-----------+------+-----|
-| Zlatko        | Atanasov     | [[Zlatko Atanasov][Zlatko Atanasov]]          |      |           |      |     |
 | Laura         | Gschiel      | [[Laura Gschiel][Laura Gschiel]]            |      |           |      |     |
 | Fabian        | Hansmann     | [[Fabian Hansmann][Fabian Hansmann]]          |      |           |      |     |
 | Victoria      | Kappacher    | [[Victoria Kappacher][Victoria Kappacher]]       |      |           |      |     |
-| Elias         | Leitner      | [[Elias Leitner][Elias Leitner]]            |      |           |      |     |
 | Annika-Sophie | Lienbacher   | [[Annika-Sophie Lienbacher][Annika-Sophie Lienbacher]] |      |           |      |     |
 | Alexander     | Loipold      | [[Alexander Loipold][Alexander Loipold]]        |      |           |      |     |
 | Andreas       | Meisl        | [[Andreas Meisl][Andreas Meisl]]            |      |           |      |     |
 | Nikola        | Moser        | [[Nikola Moser][Nikola Moser]]             |      |           |      |     |
-| Maid          | Mujkic       | [[Maid Mujkic][Maid Mujkic]]              |      |           |      |     |
 | Josip         | Perkovic     | [[Josip Perkovic][Josip Perkovic]]           |      |           |      |     |
 | Anna          | Pichler      | [[Anna Pichler][Anna Pichler]]             |      |           |      |     |
 | Lukas         | Rettenbacher | [[Lukas Rettenbacher][Lukas Rettenbacher]]       |      |           |      |     |
@@ -64,7 +61,6 @@ Frage des Privateigentums
 | Hannah        | Seiwald      | [[Hannah Seiwald][Hannah Seiwald]]           |      |           |      |     |
 | Thomas        | Siller       | [[Thomas Siller][Thomas Siller]]            |      |           |      |     |
 | Theresa       | Sunkler      | [[Theresa Sunkler][Theresa Sunkler]]          |      |           |      |     |
-| Yasir         | Tigli        | [[Yasir Tigli][Yasir Tigli]]              |      |           |      |     |
 | Celine        | Zuchristian  | [[Celine Zuchristian][Celine Zuchristian]]       |      |           |      |     |
 #+TBLFM: $4=vmean($5..$>)
 #+TBLFM: $3='(concat "[[" $1 " " $2 "][" $1 " " $2 "]]")
@@ -170,26 +166,6 @@ Frage des Privateigentums
 
 
 *** Note Victoria Kappacher
-|-----------+-------------+-----+-----------+------------|
-| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
-|-----------+-------------+-----+-----------+------------|
-|         2 |           3 |   2 |         3 |        2.5 |
-#+TBLFM: $5=vmean($1..$4)
-
-
-** Elias Leitner
-:PROPERTIES:
-:EMAIL: [[mailto: Elias Leitner <Elias.Leitner@golling.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Elias_Leitner.html
-:END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
-
-
-*** Note Elias Leitner
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -517,6 +493,9 @@ Frage des Privateigentums
 #+TBLFM: $5=vmean($1..$4)
 
 
+
+
+
 * Mitarbeittabelle
 # In diese Tabelle trage ich die Mitarbeit während 10 Schulwochen ein. Danach kann ich mit der ersten Tabellenformel die aktuelle Durchschnittsnote errechnen. Diese kann ich in die obige Tabelle übernehmen. Nach 23 Wochen (dh einem Semster) müsste ich die Tabelle wieder leeren - hm, gibt es keine bessere Lösung? Eine Tabelle mit allen 43 Schulwochen wäre zu groß. Mit 'C-c TAB' kann ich einzelne Spalten ein- und ausklappen. Wie geht das mit mehreren Spalten?
 #+Name: Mitarbeit
@@ -526,7 +505,6 @@ Frage des Privateigentums
 | [[Laura Gschiel][Laura Gschiel]]            |      |   |   |   |   |   |   |   |   |   |    |
 | [[Fabian Hansmann][Fabian Hansmann]]          |      |   |   |   |   |   |   |   |   |   |    |
 | [[Victoria Kappacher][Victoria Kappacher]]       |      |   |   |   |   |   |   |   |   |   |    |
-| [[Elias Leitner][Elias Leitner]]            |      |   |   |   |   |   |   |   |   |   |    |
 | [[Annika-Sophie Lienbacher][Annika-Sophie Lienbacher]] |      |   |   |   |   |   |   |   |   |   |    |
 | [[Alexander Loipold][Alexander Loipold]]        |      |   |   |   |   |   |   |   |   |   |    |
 | [[Andreas Meisl][Andreas Meisl]]            |      |   |   |   |   |   |   |   |   |   |    |

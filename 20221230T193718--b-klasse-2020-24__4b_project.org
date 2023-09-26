@@ -17,7 +17,7 @@
 * 4b 07:45-08:35
 <%%(org-class 2023 9 12 2024 7 6 2)>
 
-[[denote:20230711T003213][[SW03] Sinn der Arbeit]]
+[[denote:20230711T003213][[SW03] Sinn der Arbeit]]https://www.youtube.com/watch?v=43Dg5zYPHTU&t=902s
 
 ** Arbeitsaufträge:
 
@@ -38,27 +38,29 @@ Frage des Privateigentums
 
 [[denote:20230711T003213][[SW03] Sinn der Arbeit]]
 
+Zweites AB...
+
 
 * 4B [KV Erwin Essl]
 
 #+Name: 2021-students
-| First      | Last         | Name                  | Note | Mitarbeit | Heft | LZK |
-|------------+--------------+-----------------------+------+-----------+------+-----|
+| First       | Last         | Name                  | Note | Mitarbeit | Heft | LZK |
+|-------------+--------------+-----------------------+------+-----------+------+-----|
 | *Maximilian | Fischhofer   | [[Maximilian Fischhofer][Maximilian Fischhofer]] |      |           |      |     |
-| Hannah     | Höllbacher   | [[Hannah Höllbacher][Hannah Höllbacher]]     |      |           |      |     |
-| *Leon      | Keser        | [[Leon Keser][Leon Keser]]            |      |           |      |     |
-| *Thomas    | Krallinger   | [[Thomas Krallinger][Thomas Krallinger]]     |      |           |      |     |
-| Fabian     | Lienbacher   | [[Fabian Lienbacher][Fabian Lienbacher]]     |      |           |      |     |
-| Lena       | Malter       | [[Lena Malter][Lena Malter]]           |      |           |      |     |
-| Sophia     | Mayr         | [[Sophia Mayr][Sophia Mayr]]           |      |           |      |     |
-| Florian    | Peroutka     | [[Florian Peroutka][Florian Peroutka]]      |      |           |      |     |
-| *Andreas   | Rußegger     | [[Andreas Rußegger][Andreas Rußegger]]      |      |           |      |     |
-| Valerie    | Schönauer    | [[Valerie Schönauer][Valerie Schönauer]]     |      |           |      |     |
-| Marlene    | Seidl        | [[Marlene Seidl][Marlene Seidl]]         |      |           |      |     |
-| Anna       | Spitzelseder | [[Anna Spitzelseder][Anna Spitzelseder]]     |      |           |      |     |
-| Florian    | Steiner      | [[Florian Steiner][Florian Steiner]]       |      |           |      |     |
-| Karin      | Struber      | [[Karin Struber][Karin Struber]]         |      |           |      |     |
-| *Lukas     | Wagenhofer   | [[Lukas Wagenhofer][Lukas Wagenhofer]]      |      |           |      |     |
+| Hannah      | Höllbacher   | [[Hannah Höllbacher][Hannah Höllbacher]]     |      |           |      |     |
+| *Leon       | Keser        | [[Leon Keser][Leon Keser]]            |      |           |      |     |
+| *Thomas     | Krallinger   | [[Thomas Krallinger][Thomas Krallinger]]     |      |           |      |     |
+| Fabian      | Lienbacher   | [[Fabian Lienbacher][Fabian Lienbacher]]     |      |           |      |     |
+| Lena        | Malter       | [[Lena Malter][Lena Malter]]           |      |           |      |     |
+| Sophia      | Mayr         | [[Sophia Mayr][Sophia Mayr]]           |      |           |      |     |
+| Florian     | Peroutka     | [[Florian Peroutka][Florian Peroutka]]      |      |           |      |     |
+| *Andreas    | Rußegger     | [[Andreas Rußegger][Andreas Rußegger]]      |      |           |      |     |
+| Valerie     | Schönauer    | [[Valerie Schönauer][Valerie Schönauer]]     |      |           |      |     |
+| Marlene     | Seidl        | [[Marlene Seidl][Marlene Seidl]]         |      |           |      |     |
+| Anna        | Spitzelseder | [[Anna Spitzelseder][Anna Spitzelseder]]     |      |           |      |     |
+| Florian     | Steiner      | [[Florian Steiner][Florian Steiner]]       |      |           |      |     |
+| Karin       | Struber      | [[Karin Struber][Karin Struber]]         |      |           |      |     |
+| *Lukas      | Wagenhofer   | [[Lukas Wagenhofer][Lukas Wagenhofer]]      |      |           |      |     |
 #+TBLFM: $4=vmean($5..$>)
 #+TBLFM: $3='(concat "[[" $1 " " $2 "][" $1 " " $2 "]]")
 #+TBLFM: $5='(identity remote(Mitarbeit,@@#$2))
@@ -109,6 +111,15 @@ Frage des Privateigentums
 |         2 |           3 |   2 |         3 |        2.5 |
 #+TBLFM: $5=vmean($1..$4)
 
+*** [[denote:20230711T003213][[SW03] Sinn der Arbeit]]
+:PROPERTIES:
+:CAPTURED: [2023-09-26 Di 08:13]
+:CLASS: [2023-09-26 Di 08:10] 1. Stunde
+:END:
+
+Maxi stört den Unterricht: er faltet zwei (ziemlich große) Papierflieger, arbeitet so gut wie gar nicht mit, ... Wie soll ich das in Zukunft machen? Thomas, Maxi und Andreas in verschiedene Gruppen aufteilen? Gar keine Gruppenarbeit mehr? Ich hab die drei Schüler getrennt, Thomas, Maxi und Andi arbeiten alleine.
+
+Maxi schreibt die HO ab und lässt diese unterschreiben.
 
 ** Hannah Höllbacher
 :PROPERTIES:
@@ -162,7 +173,13 @@ Leon hat während den Unterricht durch das Falten eines Papierfliegers gestört.
 
 Was ist zu tun? Leon leidet unter ADHS (wie stark?). Andererseits kann dies keine Ausrede für störendes Verhalten sein. Ich werde mit seiner Mutter reden. (Ich denke dabei auch an Gabriel...)
 
-**** TODO [#A] Leons Mutter kontaktieren (SchoolFox)
+**** DONE [#A] Leons Mutter kontaktieren (SchoolFox)
+CLOSED: [2023-09-25 Mo 10:24]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-09-25 Mo 10:24]
+- State "DONE"       from "TODO"       [2023-09-25 Mo 10:23]
+- State "DONE"       from "TODO"       [2023-09-25 Mo 10:20]
+:END:
 
 
 
@@ -173,6 +190,13 @@ Was ist zu tun? Leon leidet unter ADHS (wie stark?). Andererseits kann dies kein
 |         2 |           3 |   2 |         3 |        2.5 |
 #+TBLFM: $5=vmean($1..$4)
 
+*** [[denote:20230711T003213][[SW03] Sinn der Arbeit]]
+:PROPERTIES:
+:CAPTURED: [2023-09-26 Di 08:26]
+:CLASS: [2023-09-26 Di 08:26] 1. Stunde
+:END:
+
+Leon redet viel, stört andere; schreibt nix. Ist dies seine Schwäche? Wie arbeitet er besser? Was braucht er?
 
 ** Thomas Krallinger
 :PROPERTIES:
@@ -473,3 +497,10 @@ Für dieses capture: C-1 C-n-c (das fügt das "date at point" der agenda ein) ..
 
 Das war eigentlich eine gute Stunde; ein paar Burschen in der ersten Reihe wurden unruhig sobald ich ihnen den Rücken zukehrte. Ich hab sie darauf hingewiesen. Leon kann ich am Mo+Do zu Manuela schicken (was er gar nicht mag).
 
+** [[denote:20230711T003213][[SW03] Sinn der Arbeit]]
+:PROPERTIES:
+:CAPTURED: [2023-09-26 Di 08:28]
+:CLASS: [2023-09-26 Di 08:28] 1. Stunde
+:END:
+ Maxi, Thomas und Andi fragen bei jeder Kleinigkeit nach. Und reagieren beleidigt, wenn ich ihnen mit Humor antworte und sie an ihre Selbständigkeit erinnere. Alle andere (mit Ausnahme von Fabian und Leon) arbeiten. Ich bewundere Lukas, der neben Leon und Fabian gut arbeiten kann.
+ 

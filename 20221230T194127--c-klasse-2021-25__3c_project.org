@@ -42,16 +42,19 @@ Kinder bringen Fotos aus ihrer Umgebung mit, die die Schönheit der Schöpfung z
 | Sarah      | Dick           | [[Sarah Dick][Sarah Dick]]           |      |      |           |     |
 | Maximilian | Eberl          | [[Maximilian Eberl][Maximilian Eberl]]     |      |      |           |     |
 | Ana        | Ferreira Leite | [[Ana Ferreira Leite][Ana Ferreira Leite]]   |      |      |           |     |
-| Rafael     | Galler         | [[Rafael Galler][Rafael Galler]]        |      |      |           |     |
+| Lotta      | Huber          | [[Lotta Huber][Lotta Huber]]          |      |      |           |     |
 | Sena       | Korkmaz        | [[Sena Korkmaz][Sena Korkmaz]]         |      |      |           |     |
 | Anja       | Lindenthaler   | [[Anja Lindenthaler][Anja Lindenthaler]]    |      |      |           |     |
 | Anna       | Loidl          | [[Anna Loidl][Anna Loidl]]           |      |      |           |     |
 | Karlo      | Lukacevic      | [[Karlo Lukacevic][Karlo Lukacevic]]      |      |      |           |     |
+| Mufidin    | Matkic         | [[Mufidin Matkic][Mufidin Matkic]]       |      |      |           |     |
 | Paulina    | Montellano     | [[Paulina Montellano][Paulina Montellano]]   |      |      |           |     |
 | Tobias     | Neureiter      | [[Tobias Neureiter][Tobias Neureiter]]     |      |      |           |     |
 | Serah      | Prömer         | [[Serah Prömer][Serah Prömer]]         |      |      |           |     |
 | Melanie    | Scherer        | [[Melanie Scherer][Melanie Scherer]]      |      |      |           |     |
+| Ivana      | Sokic          | [[Ivana Sokic][Ivana Sokic]]          |      |      |           |     |
 | Lauren     | Steinberger    | [[Lauren Steinberger][Lauren Steinberger]]   |      |      |           |     |
+| Jonuz      | Velijoski      | [[Jonuz Velijoski][Jonuz Velijoski]]      |      |      |           |     |
 | Hannah     | Vorderleitner  | [[Hannah Vorderleitner][Hannah Vorderleitner]] |      |      |           |     |
 | Jakob      | Wallinger      | [[Jakob Wallinger][Jakob Wallinger]]      |      |      |           |     |
 | Katharina  | Wallinger      | [[Katharina Wallinger][Katharina Wallinger]]  |      |      |           |     |
@@ -188,10 +191,10 @@ Kinder bringen Fotos aus ihrer Umgebung mit, die die Schönheit der Schöpfung z
 #+TBLFM: $5=vmean($1..$4)
 
 
-** Rafael Galler
+** Lotta Huber
 :PROPERTIES:
-:EMAIL: [[mailto: Rafael Galler <Rafael.Galler@golling.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Rafael_Galler.html
+:EMAIL: [[mailto: Lotta Huber <Lotta.Huber@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Lotta_Huber.html
 :END: 
 
 
@@ -200,7 +203,7 @@ Kinder bringen Fotos aus ihrer Umgebung mit, die die Schönheit der Schöpfung z
 |-----------------------+-----------+-------------------------+---------------|
 
 
-*** Note Rafael Galler
+*** Note Lotta Huber
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -288,6 +291,26 @@ Kinder bringen Fotos aus ihrer Umgebung mit, die die Schönheit der Schöpfung z
 #+TBLFM: $5=vmean($1..$4)
 
 
+** Mufidin Matkic
+:PROPERTIES:
+:EMAIL: [[mailto: Mufidin Matkic <Mufidin.Matkic@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Mufidin_Matkic.html
+:END: 
+
+
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
+
+
+*** Note Mufidin Matkic
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
 ** Paulina Montellano
 :PROPERTIES:
 :EMAIL: [[mailto: Paulina Montellano <Paulina.Montellano@golling.schule>]]
@@ -368,6 +391,26 @@ Kinder bringen Fotos aus ihrer Umgebung mit, die die Schönheit der Schöpfung z
 #+TBLFM: $5=vmean($1..$4)
 
 
+** Ivana Sokic
+:PROPERTIES:
+:EMAIL: [[mailto: Ivana Sokic <Ivana.Sokic@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Ivana_Sokic.html
+:END: 
+
+
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
+
+
+*** Note Ivana Sokic
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
 ** Lauren Steinberger
 :PROPERTIES:
 :EMAIL: [[mailto: Lauren Steinberger <Lauren.Steinberger@golling.schule>]]
@@ -381,6 +424,26 @@ Kinder bringen Fotos aus ihrer Umgebung mit, die die Schönheit der Schöpfung z
 
 
 *** Note Lauren Steinberger
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Jonuz Velijoski
+:PROPERTIES:
+:EMAIL: [[mailto: Jonuz Velijoski <Jonuz.Velijoski@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Jonuz_Velijoski.html
+:END: 
+
+
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
+
+
+*** Note Jonuz Velijoski
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -489,6 +552,7 @@ Kinder bringen Fotos aus ihrer Umgebung mit, die die Schönheit der Schöpfung z
 
 
 
+
 * Mitarbeittabelle
 # In diese Tabelle trage ich die Mitarbeit während 10 Schulwochen ein. Danach kann ich mit der ersten Tabellenformel die aktuelle Durchschnittsnote errechnen. Diese kann ich in die obige Tabelle übernehmen. Nach 23 Wochen (dh einem Semster) müsste ich die Tabelle wieder leeren - hm, gibt es keine bessere Lösung? Eine Tabelle mit allen 43 Schulwochen wäre zu groß. Mit 'C-c TAB' kann ich einzelne Spalten ein- und ausklappen. Wie geht das mit mehreren Spalten?
 #+Name: Mitarbeit
@@ -499,16 +563,19 @@ Kinder bringen Fotos aus ihrer Umgebung mit, die die Schönheit der Schöpfung z
 | [[Sarah Dick][Sarah Dick]]           |      |   |   |   |   |   |   |   |   |   |    |
 | [[Maximilian Eberl][Maximilian Eberl]]     |      |   |   |   |   |   |   |   |   |   |    |
 | [[Ana Ferreira Leite][Ana Ferreira Leite]]   |      |   |   |   |   |   |   |   |   |   |    |
-| [[Rafael Galler][Rafael Galler]]        |      |   |   |   |   |   |   |   |   |   |    |
+| [[Lotta Huber][Lotta Huber]]          |      |   |   |   |   |   |   |   |   |   |    |
 | [[Sena Korkmaz][Sena Korkmaz]]         |      |   |   |   |   |   |   |   |   |   |    |
 | [[Anja Lindenthaler][Anja Lindenthaler]]    |      |   |   |   |   |   |   |   |   |   |    |
 | [[Anna Loidl][Anna Loidl]]           |      |   |   |   |   |   |   |   |   |   |    |
 | [[Karlo Lukacevic][Karlo Lukacevic]]      |      |   |   |   |   |   |   |   |   |   |    |
+| [[Mufidin Matkic][Mufidin Matkic]]       |      |   |   |   |   |   |   |   |   |   |    |
 | [[Paulina Montellano][Paulina Montellano]]   |      |   |   |   |   |   |   |   |   |   |    |
 | [[Tobias Neureiter][Tobias Neureiter]]     |      |   |   |   |   |   |   |   |   |   |    |
 | [[Serah Prömer][Serah Prömer]]         |      |   |   |   |   |   |   |   |   |   |    |
 | [[Melanie Scherer][Melanie Scherer]]      |      |   |   |   |   |   |   |   |   |   |    |
+| [[Ivana Sokic][Ivana Sokic]]          |      |   |   |   |   |   |   |   |   |   |    |
 | [[Lauren Steinberger][Lauren Steinberger]]   |      |   |   |   |   |   |   |   |   |   |    |
+| [[Jonuz Velijoski][Jonuz Velijoski]]      |      |   |   |   |   |   |   |   |   |   |    |
 | [[Hannah Vorderleitner][Hannah Vorderleitner]] |      |   |   |   |   |   |   |   |   |   |    |
 | [[Jakob Wallinger][Jakob Wallinger]]      |      |   |   |   |   |   |   |   |   |   |    |
 | [[Katharina Wallinger][Katharina Wallinger]]  |      |   |   |   |   |   |   |   |   |   |    |

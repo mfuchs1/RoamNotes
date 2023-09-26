@@ -13,11 +13,18 @@
 
 * Jahresplanung
 
-** [[denote:20230711T002844][[SW01] Jesus ist die Quelle unseres Lebens]]
+** DONE [[denote:20230711T002844][[SW01] Jesus ist die Quelle unseres Lebens]]
+CLOSED: [2023-09-25 Mo 10:33]
+:LOGBOOK:
+- State "DONE"       from              [2023-09-25 Mo 10:33]
+:END:
 <2023-09-11 Mo>
 
-** [[denote:20230711T003116][[SW02] Die Berufung als Quelle meines Lebens]]
-SCHEDULED: <2023-09-18 Mo>
+** DONE [[denote:20230711T003116][[SW02] Die Berufung als Quelle meines Lebens]]
+CLOSED: [2023-09-25 Mo 08:33] SCHEDULED: <2023-09-18 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2023-09-25 Mo 08:33]
+:END:
 
 ** [[denote:20230711T003213][[SW03] Sinn der Arbeit]]
 SCHEDULED: <2023-09-25 Mo>

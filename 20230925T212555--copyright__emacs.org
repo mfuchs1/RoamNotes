@@ -1,0 +1,15 @@
+#+title:      Copyright
+#+date:       [2023-09-25 Mo 21:25]
+#+filetags:   :emacs:
+#+identifier: 20230925T212555
+#+DESCRIPTION: This text was generated using the After Dark post archetype.
+#+HUGO_CATEGORIES: 
+#+HUGO_AUTO_SET_LASTMOD: t
+#+HUGO_BASE_DIR: /home/matthias/flying-toasters/
+#+AUTHOR: Matthias Fuchs
+
+
+* Erstens
+
+* Zweitens
+

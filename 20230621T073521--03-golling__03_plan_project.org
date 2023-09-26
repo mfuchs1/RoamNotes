@@ -13,11 +13,18 @@
 
 * Jahresplanung
 
-** [[denote:20230623T225514][[SW01] Vieles hat Leben in sich / Das Wunder des Lebens]]
+** DONE [[denote:20230623T225514][[SW01] Vieles hat Leben in sich / Das Wunder des Lebens]]
+CLOSED: [2023-09-25 Mo 10:33]
+:LOGBOOK:
+- State "DONE"       from              [2023-09-25 Mo 10:33]
+:END:
 <2023-09-11 Mo>
 
-** [[denote:20230623T225904][[SW02] Das Leben kleben]]
-SCHEDULED: <2023-09-18 Mo>
+** DONE [[denote:20230623T225904][[SW02] Das Leben kleben]]
+CLOSED: [2023-09-25 Mo 08:33] SCHEDULED: <2023-09-18 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2023-09-25 Mo 08:33]
+:END:
 
 ** [[denote:20230623T230134][[SW03] Die Schönheit der Schöpfung / Die Schöpfung in Gefahr]]
 SCHEDULED: <2023-09-25 Mo>

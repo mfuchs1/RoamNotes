@@ -8,10 +8,20 @@
 * Tasks
 
 ** Sprechstunde 09:35-10:25
-<%%(org-class 2023 9 12 2024 7 6 3)>
+<%%(org-class 2023 9 12 2024 7 6 3 39)>
 
 ** Supplierstunde 1a BE / Textiles Werken
 <2023-09-22 Fr 09:35>--<2023-09-22 Fr 10:25>
+
+** Supplierstunde 1a M (statt Eva, mit Bernadette L.)
+<2023-09-27 Mi 09:35>--<2023-09-27 Mi 10:25>
+
+** Fr. Weninger Schulbücher (Reduktionen, ...)
+<2023-09-27 Mi 08:35>--<2023-09-27 Mi 09:30>
+Rückmeldung von Mirjam: einige der BU-Bücher haben kein Etikett?
+
+** VS Hallein-Burgfried GTS
+<2023-09-27 Mi 13:55>--<2023-09-27 Mi 14:45>
 
 * Alte Termine
 

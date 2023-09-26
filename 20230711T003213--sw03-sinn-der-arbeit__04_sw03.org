@@ -2,14 +2,21 @@
 #+date:       [2023-07-11 Di 00:32]
 #+filetags:   :04:sw03:
 #+identifier: 20230711T003213
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) NEXT(x) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) CANCELED(c@)
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width \linewidth
+#+OPTIONS: toc:nil
+#+export_file_name: ~/RoamNotes/exports/Sinn_der_Arbeit.html
 
 
 * Komepetenzbeschreibung
-[[#A2]] Menschen und ihre Lebensorientierungen - Sich mit den großen Fragen der Menschen auseinandersetzen können
-[[#A2_KB1]] Die Schüler können Perspektiven für ihr Leben entwickeln und  Zukunftspläne entwerfen. 
+Menschen und ihre Lebensorientierungen - Sich mit den großen Fragen der Menschen auseinandersetzen können
+Die Schüler können Perspektiven für ihr Leben entwickeln und  Zukunftspläne entwerfen. 
 
 * AB / UH
-[[#A2_UH1]] persönliche und berufliche Ziele
+persönliche und berufliche Ziele
 
 * Wiederholung
 
@@ -32,9 +39,9 @@ Geht uns die Arbeit aus?
 
 [[https://jugend-und-bildung.de/fileadmin/user_upload_sozialpolitik/PDFs/schaubild-geht-uns-die-arbeit-aus.pdf]]
 
-[[https://jugend-und-bildung.de/fileadmin/user_upload_sozialpolitik/PDFs/arbeitsblatt-geht-uns-die-arbeit-aus.pdf]]
+[[https://www.brot-fuer-die-welt.de/fileadmin/mediapool/downloads/Bildungsmaterial/global-lernen/BfdW_GlobalLernen_Arbeit.pdf]]
 
-[[file:~/Downloads/global_lernen_2017-1.pdf.pdf]]
+[[file:~/NMS_Golling/GlobalLernen_MenschenwuerdigeArbeit-Print.indd - BfdW_GlobalLernen_Arbeit.pdf]]
 
 Arten der Arbeit
 
