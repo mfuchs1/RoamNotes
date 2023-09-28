@@ -8,6 +8,7 @@
 #+HUGO_BASE_DIR: /home/matthias/flying-toasters/
 #+AUTHOR: Matthias Fuchs
 
+
 * Schule
 Anders als zum Ende des letzten Schuljahres angekündigt wird es dieses Jahr 2023/24 nur zwei statt drei 1. Klassen geben. Da sich zusätzlich in meiner anderen Schule sehr viele katholische Schüler vom RU abgemeldet haben, bleiben dort nur mehr vier (!) Schüler übrig. Das ergibt gerade einmal eine Stunde pro Woche - für eine Schule mit über 200 Schülern. Organisatorisch heißt dies: eine Doppelstunde alle zwei Wochen.
 
@@ -28,7 +29,7 @@ Mittlerweile sitze ich in der Kletterhalle Salzburg Nord und schreibe diesen Tex
 Aber eigentlich hat dieses Schuljahr für Gabriel wesentlich positiver begonnen als das erste Schuljahr in der MS.
 
 * Wie kann ich den Copyright-Eintrag in jedem Post ändern?
-Das muss ich noch nachforschen? Gibt es wo eine post-Template dafür? Habe es gefunden: ich habe die Datei 'config.toml' geändert und beim Copyright-Eintrag (template?) das Jahr hinzugefügt.
+Das muss ich noch nachforschen? Gibt es wo eine post-Template dafür? Habe es gefunden: ich habe die Datei =~/flying-toasters/config.toml= geändert und beim Copyright-Eintrag (template?) das Jahr hinzugefügt.
 
 So, jetzt wird dieser Eintrag gepostet.
 

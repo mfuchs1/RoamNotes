@@ -20,6 +20,13 @@
 <2023-09-27 Mi 08:35>--<2023-09-27 Mi 09:30>
 Rückmeldung von Mirjam: einige der BU-Bücher haben kein Etikett?
 
+*** TODO [#A] Lieferscheine suchen, Bücher bestätigen
+Fr. Weninger wird mir die Kopien derLieferscheine nachschicken. Somit kann ich gelieferten Bücher bestätigen.
+
+Teilbestätigung: Nur bei den geleiferten Büchern die Menge eingeben. ALLE ANDEREN Bücher auf "0" setzen.
+
+Ordner anlegen: Pro Klasse, dann Fächer. Oder pro Fach, innerhalb pro Klasse?
+
 ** VS Hallein-Burgfried GTS
 <2023-09-27 Mi 13:55>--<2023-09-27 Mi 14:45>
 
