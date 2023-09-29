@@ -42,9 +42,8 @@ Fragen aus dem DoCat Studyguide zum Thema "Schöpfung":
 
 Kinder bringen Fotos aus ihrer Umgebung mit, die die Schönheit der Schöpfung zeigen.
 
+
 * 3B [KV Lena ]
-
-
 #+Name: 2021-students
 | First    | Last               | Name                     | Note | Mitarbeit | Heft | LZK |
 |----------+--------------------+--------------------------+------+-----------+------+-----|
