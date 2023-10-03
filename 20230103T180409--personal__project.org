@@ -284,3 +284,9 @@ Den Dachstein hätten wir aber heute eh nicht geschafft; dafür waren va die Kin
 <2023-09-27 Mi 19:00>--<2023-09-27 Mi 20:30>
 MS Grödig, Aula
 
+** Einkaufen Alpenstraße
+<2023-09-30 Sa 14:00>--<2023-09-30 Sa 17:00>
+
+** Kletterkurs Gabriel 16:15-17:45
+<%%(org-class 2023 9 26 2024 2 6 2)>
+siehe Zettel - Kletterkurs fällt zu schulfreien Zeiten aus.

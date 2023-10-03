@@ -26,14 +26,16 @@ CLOSED: [2023-09-25 Mo 08:33] SCHEDULED: <2023-09-18 Mo>
 - State "DONE"       from              [2023-09-25 Mo 08:33]
 :END:
 
-** [[denote:20230711T003213][[SW03] Sinn der Arbeit]]
-SCHEDULED: <2023-09-25 Mo>
+** DONE [[denote:20230711T003213][[SW03] Sinn der Arbeit]]
+CLOSED: [2023-09-30 Sa 12:04] SCHEDULED: <2023-09-25 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2023-09-30 Sa 12:04]
+:END:
 
 ** [[denote:20230711T003258][[SW04] (Un-)gerechte Wirtschaftsmodelle]]
 SCHEDULED: <2023-10-02 Mo>
 
 ** [[denote:20230711T003342][[SW05] Nachhaltige Entwicklungsziele der UNO]]
-
 
 ** [[denote:20230711T003421][[SW06] Menschenrechte]]
 

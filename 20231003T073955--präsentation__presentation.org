@@ -1,0 +1,14 @@
+#+title:      Präsentation
+#+date:       [2023-10-03 Di 07:39]
+#+filetags:   :presentation:
+#+identifier: 20231003T073955
+
+* Das ist die erste Folie
+
+Hier steht ihr Inhalt. Darunter können auch weitere Headlines stehen, diese werden jedoch eingeklappt.
+
+** Wie dieser hier
+
+** und dieser
+
+* Das ist die zweite Folie

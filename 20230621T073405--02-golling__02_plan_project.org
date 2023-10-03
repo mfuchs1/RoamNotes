@@ -24,8 +24,11 @@ CLOSED: [2023-09-25 Mo 08:33] SCHEDULED: <2023-09-18 Mo>
 - State "DONE"       from              [2023-09-25 Mo 08:33]
 :END:
 
-** [[denote:20230619T210213][[SW03] Impuls: Konflikte lösen]]
-SCHEDULED: <2023-09-25 Mo>
+** DONE [[denote:20230619T210213][[SW03] Impuls: Konflikte lösen]]
+CLOSED: [2023-09-30 Sa 12:04] SCHEDULED: <2023-09-25 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2023-09-30 Sa 12:04]
+:END:
 
 ** [[denote:20230619T210331][[SW04] Wofür Jesus streitet / Liebe, eine Grundhaltung]]
 SCHEDULED: <2023-10-02 Mo>

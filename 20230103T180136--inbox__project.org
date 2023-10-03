@@ -85,3 +85,23 @@ CLOSED: [2023-08-11 Fr 17:12] DEADLINE: <2023-08-11 Fr 17:08>
 
 ** TODO [#A] Was kann ich tun, um meine (Grund)Stimmung zu heben?
 Medikamente will ich nicht - die machen nur abhängig, siehe Gabriel.
+
+* DONE org-mode beamer
+CLOSED: [2023-10-02 Mo 21:41] DEADLINE: <2023-10-02 Mo 22:00>
+:PROPERTIES:
+:CAPTURED: [2023-10-02 Mo 09:34]
+:END:
+
+- Wie funtkioniert das: von org-mode / Präsentation?
+- Beste, effektive Möglichkeiten?
+- Über LaTex? oder direkt (hab ja was installiert, konfiguriert)?
+- Wäre cool, wenn es übers Handy zu steuern wöre (kde-connect).
+
+=org-re-reveal= ist eine weitere Möglichkeit. LaTex_beamer habe ich mir angesehen, das Ergebnis gefällt mir jedoch überhaupt nicht (die themes! brrr!).
+
+Da würde ich, auch wenn es noch rudimentärer aussieht, eher noch bei =org-present= bleiben. =org-re-reveal= sieht am schönsten aus (Nachteil: Platz!)
+
+Jemand wie prot präsentiert mit org-mode - ebenso wie David Wilson von system crafters.
+
+
+

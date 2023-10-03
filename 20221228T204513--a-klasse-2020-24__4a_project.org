@@ -18,32 +18,18 @@
 * 4a 10:40-11:30
 <%%(org-class 2023 9 11 2024 7 5 1)>
 
-[[denote:20230711T003213][[SW03] Sinn der Arbeit]]
+[[denote:20230711T003258][[SW04] (Un-)gerechte Wirtschaftsmodelle]]
 
-Gruppenarbeit (zu viert):
-- eines der beiden AB bearbeiten;
-- Ergebnisse im Heft festhalten
+- Inselszenario
+  Welche Regeln garantieren das Überleben?
+- Wie kommen diese Regeln zustande?
+- Wir können nichts über die guten und schlechten Eigenschaften, oder gar bösen Absichten der Überlebenden wissen.
 
-
-** Arbeitsaufträge:
-
-[[file:~/Dokumente/DC_Studyguide_Deu_7.pdf][Eine Wirtschaft, die den Menschen dient]]
-
-[[file:~/Dokumente/DC_Studyguide_Deu_6.pdf]]
-
-Geht uns die Arbeit aus?
-
-[[https://jugend-und-bildung.de/fileadmin/user_upload_sozialpolitik/PDFs/schaubild-geht-uns-die-arbeit-aus.pdf]]
-
-
-Frage des Privateigentums
-
-
+  
 * 4a 08:40-09:30
 <%%(org-class 2023 9 12 2024 7 6 2)>
 
-[[denote:20230711T003213][[SW03] Sinn der Arbeit]]
-
+[[denote:20230711T003258][[SW04] (Un-)gerechte Wirtschaftsmodelle]]
 
 * 4A [KV Magdalena Pürrer]
 

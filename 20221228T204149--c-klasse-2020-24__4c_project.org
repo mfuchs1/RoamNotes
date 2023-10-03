@@ -18,32 +18,19 @@
 * 4c 14:20-15:10
 <%%(org-class 2023 9 11 2024 7 5 1)>
 
-[[denote:20230711T003213][[SW03] Sinn der Arbeit]]
+[[denote:20230711T003258][[SW04] (Un-)gerechte Wirtschaftsmodelle]]
 
+Fragen, welche Themengebiete sie interessieren:
+- Bibel?
+- Sakramente
+- ...
 
-
-** Arbeitsaufträge:
-
-[[file:~/Dokumente/DC_Studyguide_Deu_7.pdf][Eine Wirtschaft, die den Menschen dient]]
-
-[[file:~/Dokumente/DC_Studyguide_Deu_6.pdf]]
-
-Geht uns die Arbeit aus?
-
-[[https://jugend-und-bildung.de/fileadmin/user_upload_sozialpolitik/PDFs/schaubild-geht-uns-die-arbeit-aus.pdf]]
-
-[[file:~/Downloads/global_lernen_2017-1.pdf.pdf]]
-
-Frage des Privateigentums
-
+(Lehrplan zeigen...) - obiges Thema kommt direkt aus dem Lehrplan.
 
 * 4c 09:35-10:25
 <%%(org-class 2023 9 14 2024 7 8 4)>
 
-[[denote:20230711T003213][[SW03] Sinn der Arbeit]]
-
-AB fertig machen; anschließend Präsentation.
-Fragen klären...
+[[denote:20230711T003258][[SW04] (Un-)gerechte Wirtschaftsmodelle]]
 
 
 * 4C [KV Gertraud Ellmaier]

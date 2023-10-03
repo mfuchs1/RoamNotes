@@ -26,8 +26,11 @@ CLOSED: [2023-09-25 Mo 08:33] SCHEDULED: <2023-09-18 Mo>
 - State "DONE"       from              [2023-09-25 Mo 08:33]
 :END:
 
-** [[denote:20230623T230134][[SW03] Die Schönheit der Schöpfung / Die Schöpfung in Gefahr]]
-SCHEDULED: <2023-09-25 Mo>
+** DONE [[denote:20230623T230134][[SW03] Die Schönheit der Schöpfung / Die Schöpfung in Gefahr]]
+CLOSED: [2023-09-30 Sa 12:04] SCHEDULED: <2023-09-25 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2023-09-30 Sa 12:04]
+:END:
 
 ** [[denote:20230623T230355][[SW04] Ein Papst schreibt an die Welt / Die Erde ist unser Auftrag]]d
 SCHEDULED: <2023-10-02 Mo>

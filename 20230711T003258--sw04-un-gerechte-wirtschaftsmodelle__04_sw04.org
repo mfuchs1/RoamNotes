@@ -1,6 +1,6 @@
 #+title:      [SW04] (Un-)gerechte Wirtschaftsmodelle
 #+date:       [2023-07-11 Di 00:32]
-#+filetags:   :04:sw05:
+#+filetags:   :04:sw04:
 #+identifier: 20230711T003258
 
 
@@ -22,7 +22,7 @@ Einstieg: mit Anderen auf einer einsamen Insel gestrandet (cf AB). Welche Regeln
 Bsp. aus Indien, Paraguay, etc. Texte diskutieren... (in Gruppenarbeit).
 
 UNO Menschenrechte / AB:
-[[id:fb954dff-8503-4797-add5-b9f6a60ddc30][Together Strong - Menschenrechte]]
+[[https://unis.unvienna.org/unis/de/teaching_material/menschenrechte.html]]
 
 [[http://www.youtube.com/watch?v=12uKuORCyBM]]
 

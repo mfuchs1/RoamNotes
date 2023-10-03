@@ -23,8 +23,11 @@ CLOSED: [2023-09-25 Mo 08:33] SCHEDULED: <2023-09-18 Mo>
 - State "DONE"       from              [2023-09-25 Mo 08:33]
 :END:
 
-** [[denote:20230619T074058][[SW03] Was ich mir zutraue / Kann ich dir vertrauen?]]
-SCHEDULED: <2023-09-25 Mo>
+** DONE [[denote:20230619T074058][[SW03] Was ich mir zutraue / Kann ich dir vertrauen?]]
+CLOSED: [2023-09-30 Sa 12:04] SCHEDULED: <2023-09-25 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2023-09-30 Sa 12:04]
+:END:
 
 ** [[denote:20230619T074141][[SW04] Wir sind eine Gemeinschaft]]
 SCHEDULED: <2023-10-02 Mo>
