@@ -271,8 +271,8 @@ Daher sind wir auf einem anderen Weg zur Erentrudisalm gegangen. Der Weg war wun
 
 Den Dachstein hätten wir aber heute eh nicht geschafft; dafür waren va die Kinder nicht fit genug, und auch Isabelle ist jetzt leider wieder krank. Wir werden diesen Ausflug auf einen späteren Zeitpunkt verschieben.
 
-** Leopold Kinderchor Musikum Grödig
-<2023-09-20 Mi 16:30>--<2023-09-20 Mi 17:30>
+** Leopold Kinderchor Musikum Grödig 16:30-17:30
+<%%(org-class 2023 9 13 2024 7 7 3)>
 
 ** Hl. Messe (Dom)
 <2023-09-24 So 11:30>--<2023-09-24 So 12:30>
@@ -290,3 +290,5 @@ MS Grödig, Aula
 ** Kletterkurs Gabriel 16:15-17:45
 <%%(org-class 2023 9 26 2024 2 6 2)>
 siehe Zettel - Kletterkurs fällt zu schulfreien Zeiten aus.
+
+

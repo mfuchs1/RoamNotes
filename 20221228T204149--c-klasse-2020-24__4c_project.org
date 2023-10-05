@@ -27,10 +27,20 @@ Fragen, welche Themengebiete sie interessieren:
 
 (Lehrplan zeigen...) - obiges Thema kommt direkt aus dem Lehrplan.
 
+YouCat "Gerechtigkeit"
+
 * 4c 09:35-10:25
 <%%(org-class 2023 9 14 2024 7 8 4)>
 
 [[denote:20230711T003258][[SW04] (Un-)gerechte Wirtschaftsmodelle]]
+
+Letzte Stunde: YouCat.
+Heute: Video? Soziallehre der Kirche?
+
+Einführung:
+[[https://www.youtube.com/watch?v=MiYQRla0RMk]]
+
+weitere Videos...
 
 
 * 4C [KV Gertraud Ellmaier]
