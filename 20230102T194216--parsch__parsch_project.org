@@ -24,23 +24,24 @@ Dieses Schuljahr werde ich das nimmer machen. Ich werde zwar keinen Stoff pauken
 [[denote:20230621T073521][03 Golling]]
 
 
-* 2b 3b 4a 14h30-15h20
+* 2b 3b 4a 14:30-15:20
 <%%(org-class 2023 9 18 2024 7 5 4 39)>
 
-* 2b 3b 4a 15h25-16h15
+* 2b 3b 4a 15:25-16:15
 <%%(org-class 2023 9 11 2024 7 5 4 39)>
 
 
 * Schülerliste
 
 #+Name: 2021-students
-| First  | Last     | Name            | Klasse  | Note | Mitarbeit | Heft | LZK |
-|--------+----------+-----------------+---------+------+-----------+------+-----|
-| Edmund | Atherton | [[Edmund Atherton][Edmund Atherton]] | 2b      |      |           |      |     |
-| Ramona | Streibl  | [[Ramona Streibl][Ramona Streibl]]  | 3b      |      |           |      |     |
-| Simon  | Wippel   | [[Simon Wippel][Simon Wippel]]    | 3b      |      |           |      |     |
-| Ketrin | Serban   | [[Ketrin Serban][Ketrin Serban]]   | 4a/1DFK |      |           |      |     |
-|--------+----------+-----------------+---------+------+-----------+------+-----|
+| First  | Last        | Name             | Klasse  | Note | Mitarbeit | Heft | LZK |
+|--------+-------------+------------------+---------+------+-----------+------+-----|
+| Enas   | Safarizadeh | [[Enas Safarizadeh][Enas Safarizadeh]] |         |      |           |      |     |
+| Edmund | Atherton    | [[Edmund Atherton][Edmund Atherton]]  | 2b      |      |           |      |     |
+| Ramona | Streibl     | [[Ramona Streibl][Ramona Streibl]]   | 3b      |      |           |      |     |
+| Simon  | Wippel      | [[Simon Wippel][Simon Wippel]]     | 3b      |      |           |      |     |
+| Ketrin | Serban      | [[Ketrin Serban][Ketrin Serban]]    | 4a/1DFK |      |           |      |     |
+|--------+-------------+------------------+---------+------+-----------+------+-----|
 #+TBLFM: $5=vmean($6..$8)
 #+TBLFM: $3='(concat "[[" $1 " " $2 "][" $1 " " $2 "]]")
 #+TBLFM: $7='(identity remote(2021-22-Mitarbeit,@@#$2)) 
@@ -72,6 +73,26 @@ Dieses Schuljahr werde ich das nimmer machen. Ich werde zwar keinen Stoff pauken
 
 #+RESULTS:
 * Mitarbeit
+** Enas Safarizadeh
+:PROPERTIES:
+:EMAIL: [[mailto: Enas Safarizadeh <Enas.Safarizadeh@ms-parsch.at>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Enas_Safarizadeh.html
+:END: 
+
+
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
+
+
+*** Note Enas Safarizadeh
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
 ** Edmund Atherton
 :PROPERTIES:
 :EMAIL: [[mailto: Edmund Atherton <Edmund.Atherton@ms-parsch.at>]]
@@ -150,7 +171,6 @@ Dieses Schuljahr werde ich das nimmer machen. Ich werde zwar keinen Stoff pauken
 |-----------+-------------+-----+-----------+------------|
 |         2 |           3 |   2 |         3 |        2.5 |
 #+TBLFM: $5=vmean($1..$4)
-
 
 
 
