@@ -17,12 +17,12 @@
 * 1a 11:35-12:25
 <%%(org-class 2023 9 12 2024 7 6 2)>
 
-[[denote:20230619T074058][[SW03] Was ich mir zutraue / Kann ich dir vertrauen?]]
+[[denote:20230619T074226][[SW05] Das große Durcheinander]]
 
 * 1a 12:30-13:20
 <%%(org-class 2023 9 14 2024 7 8 4)>
 
-[[denote:20230619T074058][[SW03] Was ich mir zutraue / Kann ich dir vertrauen?]]
+[[denote:20230619T074226][[SW05] Das große Durcheinander]]
 
 * 1A MINT [KV Mirjam Seiwald]
 #+Name: 2021-students

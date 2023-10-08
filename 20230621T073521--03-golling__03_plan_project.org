@@ -32,20 +32,29 @@ CLOSED: [2023-09-30 Sa 12:04] SCHEDULED: <2023-09-25 Mo>
 - State "DONE"       from              [2023-09-30 Sa 12:04]
 :END:
 
-** [[denote:20230623T230355][[SW04] Ein Papst schreibt an die Welt / Die Erde ist unser Auftrag]]d
-SCHEDULED: <2023-10-02 Mo>
+** DONE [[denote:20230623T230355][[SW04] Ein Papst schreibt an die Welt / Die Erde ist unser Auftrag]]d
+CLOSED: [2023-10-07 Sa 23:04] SCHEDULED: <2023-10-02 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2023-10-07 Sa 23:04]
+:END:
 
 ** [[denote:20230623T230501][[SW05] Die Schöpfung erhalten aber wie]]
+SCHEDULED: <2023-10-09 Mo>
 
 ** [[denote:20230623T230549][[SW06] Zukunftswerkstatt]]
+SCHEDULED: <2023-10-16 Mo>
 
 ** [[denote:20230623T230647][[SW07] Übungsteil Kap 1]]
+SCHEDULED: <2023-10-23 Mo>
 
 ** [[denote:20230624T193318][[SW08] Drei Arten des Glücks]]
+SCHEDULED: <2023-10-30 Mo>
 
 ** [[denote:20230624T193417][[SW09] Ein großes Versprechen]]
+SCHEDULED: <2023-11-06 Mo>
 
 ** [[denote:20230624T193503][[SW10] Genuss und Sucht]]
+SCHEDULED: <2023-11-13 Mo>
 
 ** [[denote:20230624T193611][[SW11] Verzicht und Genügsamkeit]]
 

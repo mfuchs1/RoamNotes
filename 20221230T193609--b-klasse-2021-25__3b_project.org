@@ -18,13 +18,12 @@
 * 3b 11:35-12:25
 <%%(org-class 2023 9 13 2024 7 7 3)>
 
-[[denote:20230623T230355][[SW04] Ein Papst schreibt an die Welt / Die Erde ist unser Auftrag]]
+[[denote:20230623T230501][[SW05] Die Schöpfung erhalten aber wie]]
 
 * 3b 10:40-11:30
 <%%(org-class 2023 9 14 2024 7 8 4)>
 
-[[denote:20230623T230355][[SW04] Ein Papst schreibt an die Welt / Die Erde ist unser Auftrag]]
-
+[[denote:20230623T230501][[SW05] Die Schöpfung erhalten aber wie]]
 
 * 3B [KV Lena ]
 #+Name: 2021-students

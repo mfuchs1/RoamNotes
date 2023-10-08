@@ -32,20 +32,29 @@ CLOSED: [2023-09-30 Sa 12:04] SCHEDULED: <2023-09-25 Mo>
 - State "DONE"       from              [2023-09-30 Sa 12:04]
 :END:
 
-** [[denote:20230711T003258][[SW04] (Un-)gerechte Wirtschaftsmodelle]]
-SCHEDULED: <2023-10-02 Mo>
+** DONE [[denote:20230711T003258][[SW04] (Un-)gerechte Wirtschaftsmodelle]]
+CLOSED: [2023-10-07 Sa 23:04] SCHEDULED: <2023-10-02 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2023-10-07 Sa 23:04]
+:END:
 
 ** [[denote:20230711T003342][[SW05] Nachhaltige Entwicklungsziele der UNO]]
+SCHEDULED: <2023-10-09 Mo>
 
 ** [[denote:20230711T003421][[SW06] Menschenrechte]]
+SCHEDULED: <2023-10-16 Mo>
 
 ** [[denote:20230711T003503][[SW07] Herbstferien4]]
+SCHEDULED: <2023-10-23 Mo>
 
 ** [[denote:20230711T003525][[SW08] Geschaffen für das ewige Leben]]
+SCHEDULED: <2023-10-30 Mo>
 
 ** [[denote:20230711T003559][[SW09] Hinduismus]]
+SCHEDULED: <2023-11-06 Mo>
 
 ** [[denote:20230711T003636][[SW10] Buddhismus]]
+SCHEDULED: <2023-11-13 Mo>
 
 ** [[denote:20230711T003702][[SW11] Chinesische Traditionen]]
 

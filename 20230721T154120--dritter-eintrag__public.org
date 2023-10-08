@@ -5,7 +5,6 @@
 #+HUGO_BASE_DIR: /home/matthias/flying-toasters/
 #+AUTHOR: Matthias Fuchs
 
-
 So diesmal hab ich im Header des Files "Author" hinzugefügt.
 
 * Erstens

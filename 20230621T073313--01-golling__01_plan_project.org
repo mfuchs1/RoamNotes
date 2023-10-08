@@ -29,20 +29,29 @@ CLOSED: [2023-09-30 Sa 12:04] SCHEDULED: <2023-09-25 Mo>
 - State "DONE"       from              [2023-09-30 Sa 12:04]
 :END:
 
-** [[denote:20230619T074141][[SW04] Wir sind eine Gemeinschaft]]
-SCHEDULED: <2023-10-02 Mo>
+** DONE [[denote:20230619T074141][[SW04] Wir sind eine Gemeinschaft]]
+CLOSED: [2023-10-07 Sa 23:03] SCHEDULED: <2023-10-02 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2023-10-07 Sa 23:03]
+:END:
 
 ** [[denote:20230619T074226][[SW05] Das große Durcheinander]]
+SCHEDULED: <2023-10-09 Mo>
 
 ** [[denote:20230619T074359][[SW06] Eine gute Gemeinschaft]]
+SCHEDULED: <2023-10-16 Mo>
 
 ** DONE [SW07] Herbstferien1
+SCHEDULED: <2023-10-23 Mo>
 
 ** [[denote:20230619T085157][[SW08] Fragen die uns bewegen (Kap. 2)]]
+SCHEDULED: <2023-10-30 Mo>
 
 ** [[denote:20230619T085426][[SW09] Große Fragen - große Antworten]]
+SCHEDULED: <2023-11-06 Mo>
 
 ** [[denote:20230619T085724][[SW10] Harte Fakten - gute Gedanken?]]
+SCHEDULED: <2023-11-13 Mo>
 
 ** [[denote:20230619T085846][[SW11] Methode: Fragen stellen (philosophieren)]]
 

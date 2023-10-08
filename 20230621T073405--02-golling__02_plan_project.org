@@ -30,20 +30,29 @@ CLOSED: [2023-09-30 Sa 12:04] SCHEDULED: <2023-09-25 Mo>
 - State "DONE"       from              [2023-09-30 Sa 12:04]
 :END:
 
-** [[denote:20230619T210331][[SW04] Wofür Jesus streitet / Liebe, eine Grundhaltung]]
-SCHEDULED: <2023-10-02 Mo>
+** DONE [[denote:20230619T210331][[SW04] Wofür Jesus streitet / Liebe, eine Grundhaltung]]
+CLOSED: [2023-10-07 Sa 23:04] SCHEDULED: <2023-10-02 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2023-10-07 Sa 23:04]
+:END:
 
 ** [[denote:20230619T210414][[SW05] Freundschaft: Verliebt und verzaubert]]
+SCHEDULED: <2023-10-09 Mo>
 
 ** [[denote:20230619T211254][[SW06] Typisch Mann, typisch Frau?]]
+SCHEDULED: <2023-10-16 Mo>
 
 ** [SW07] Herbstferien2
+SCHEDULED: <2023-10-23 Mo>
 
 ** [[denote:20230619T211407][[SW08] Übungsteil / Das nehme ich mit]]
+SCHEDULED: <2023-10-30 Mo>
 
 ** [[denote:20230619T211456][[SW09] Leid hat viele Gesichter]]
+SCHEDULED: <2023-11-06 Mo>
 
 ** [[denote:20230619T211542][[SW10] Warum habt ihr solche Angst?]]
+SCHEDULED: <2023-11-13 Mo>
 
 ** [[denote:20230619T211715][[SW11] Vertrauen, die Stärke des Herzens]]
 

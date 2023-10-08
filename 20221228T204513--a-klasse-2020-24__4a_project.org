@@ -18,18 +18,23 @@
 * 4a 10:40-11:30
 <%%(org-class 2023 9 11 2024 7 5 1)>
 
-[[denote:20230711T003258][[SW04] (Un-)gerechte Wirtschaftsmodelle]]
+[[denote:20230711T003342][[SW05] Nachhaltige Entwicklungsziele der UNO]]
+Wirklich? Steht so im Lehrplan. Ich mach keine Propaganda für die UNO; also ein neues Thema...
 
-- Inselszenario
-  Welche Regeln garantieren das Überleben?
-- Wie kommen diese Regeln zustande?
-- Wir können nichts über die guten und schlechten Eigenschaften, oder gar bösen Absichten der Überlebenden wissen.
+- Wh "Menschenrechte"
+- Bibel?
+- Sakrament?
 
-  
 * 4a 08:40-09:30
 <%%(org-class 2023 9 12 2024 7 6 2)>
 
-[[denote:20230711T003258][[SW04] (Un-)gerechte Wirtschaftsmodelle]]
+[[denote:20230711T003342][[SW05] Nachhaltige Entwicklungsziele der UNO]]
+Wirklich? Ich mach keine Propaganda für die UNO; also ein neues Thema...
+
+- Wh "Menschenrechte"
+- Bibel?
+- Sakrament?
+
 
 * 4A [KV Magdalena Pürrer]
 
