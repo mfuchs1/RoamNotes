@@ -1,0 +1,101 @@
+#+title:      Bücher die ich lese
+#+date:       [2023-10-08 So 22:31]
+#+filetags:   :books:
+#+identifier: 20231008T223105
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) NEXT(x) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) CANCELED(c@)
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width \linewidth
+#+OPTIONS: toc:nil
+#+export_file_name: ~/RoamNotes/exports/books.html
+
+Liste von Büchern, die ich lese:
+
+* Der Herr der Ringe
+:PROPERTIES:
+:CAPTURED: [2023-10-08 So 22:40]
+:AUTHOR:   J. R. R. Tolkien
+:YEAR:     1954,2021
+:EDITOR:   J. G. Cotta'sche Buchhandlung
+:LOCATION: Stuttgart
+:END:
+
+* Werke
+:PROPERTIES:
+:CAPTURED: [2023-10-08 So 22:45]
+:AUTHOR:   Peter Bamm
+:YEAR:     1967
+:EDITOR:   Droemersche Verlagsgesellschaft
+:LOCATION: Zürich
+:END:
+
+* Die vierzig Tage des Musa Dagh
+:PROPERTIES:
+:CAPTURED: [2023-10-08 So 22:51]
+:AUTHOR:   Franz Werfel
+:YEAR:     2015
+:EDITOR:   S. Fischer Verlag
+:LOCATION: Frankfurt am Main
+:END:
+
+* Irdene Gefäße
+:PROPERTIES:
+:CAPTURED: [2023-10-08 So 22:54]
+:AUTHOR: Gabriel Bunge
+:YEAR:  2017
+:EDITOR:  Beuroner Kunstverlag 
+:LOCATION:  Beuron
+:END:
+
+* Über den Sinn des Lebens
+:PROPERTIES:
+:CAPTURED: [2023-10-08 So 23:04]
+:AUTHOR: Viktor E. Frankl
+:YEAR:  2023
+:EDITOR:  Beltz Verlag 
+:LOCATION:  Basel
+:END:
+
+* Trotzdem JA zum Leben sagen
+:PROPERTIES:
+:CAPTURED: [2023-10-08 So 23:05]
+:AUTHOR: Viktor E. Frankl
+:YEAR:  1977
+:EDITOR:  Kösel Verlag 
+:LOCATION:  München
+:END:
+
+* Gespräche
+:PROPERTIES:
+:CAPTURED: [2023-10-08 So 23:06]
+:AUTHOR: Konfuzius, Hans van Ess
+:YEAR:  2023
+:EDITOR:  C. H. Beck 
+:LOCATION:  München
+:END:
+
+* Die Geburt der mediterranen Welt
+:PROPERTIES:
+:CAPTURED: [2023-10-08 So 23:09]
+:AUTHOR: Cyprian Broodbank
+:YEAR:  2013
+:EDITOR:  C. H. Beck 
+:LOCATION:  München
+:END:
+
+* Die Lagune oder wie Aristoteles die Naturwissenschaften erfand
+:PROPERTIES:
+:CAPTURED: [2023-10-08 So 23:10]
+:AUTHOR: Armand Marie Leroi
+:YEAR:  2017
+:EDITOR:  WBG Theiss Verlag 
+:LOCATION:  Darmstadt
+:END:
+
+
+
+
+
+
+

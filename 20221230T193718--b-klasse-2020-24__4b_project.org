@@ -24,6 +24,8 @@ Wirklich? Ich mach keine Propaganda für die UNO; also ein neues Thema...
 - Bibel?
 - Sakrament?
 
+Ich hab den Plan ein wenig geändert: als Einstimmung in die asiatischen Religionen habe ich den vierten Klassen die arte doku über Konfuzius gezeigt.
+
 * 4b 07:45-08:35
 <%%(org-class 2023 9 13 2024 7 7 3)>
 
@@ -505,5 +507,15 @@ Das war eigentlich eine gute Stunde; ein paar Burschen in der ersten Reihe wurde
 :END:
 
 Wie kontrolliere und benote ich die Gruppenarbeit der letzten beiden Tage? Eventuell kann ich vorschlagen, bis zu Beginn der nächsten Woche das Heft in Ordnung zu bringen.
+
+** [[denote:20230711T003702][[SW11] Chinesische Traditionen]]
+:PROPERTIES:
+:CAPTURED: [2023-10-11 Mi 08:26]
+:CLASS: [2023-10-11 Mi 07:45] 1. Stunde
+:END:
+
+Hm, was soll ich in den 4. Klassen tun? Da besteht im Grunde null Interesse am Fach. Egal, was ich vorschlage - kaum Mitarbeit. Wir schauen einen Film über "Konfuzius" (mit Auftrag); es wird sehr laut in der Klasse.
+
+Ab nächster Woche muss ich den "Stil" ändern: kurzer Film, dann viel Gruppenarbeit (Doppelseite gestalten).
 
 
