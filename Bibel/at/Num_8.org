@@ -1,26 +1,20 @@
-:PROPERTIES:
-:ID:       9852fa1d-b345-4eb5-b214-65d40125e8bd
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Numeri* -- [[file:Num_1.html][1]] ...
-[[file:Num_6.html][6]] [[file:Num_7.html][7]] *8* [[file:Num_9.html][9]]
-[[file:Num_10.html][10]] ... [[file:Num_36.html][36]]
-
---------------
-
-* Num 8
-  :PROPERTIES:
-  :CUSTOM_ID: num-8
-  :END:
+#+TITLE: Num 8 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-14 Sa 22:47]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Num 8.html
 
 <<verses>>
 
 <<v1>>
-**** Die Bedienung des Leuchters: 8,1-4
-     :PROPERTIES:
-     :CUSTOM_ID: die-bedienung-des-leuchters-81-4
-     :END:
+* Die Bedienung des Leuchters: 8,1-4
+
 1 Der Herr sprach zu Mose:
 
 <<v2>>
@@ -35,14 +29,12 @@ Leuchter aus nach vorn fiel, wie der Herr es Mose aufgetragen hatte.
 <<v4>>
 4 Der Leuchter war aus Gold getrieben, vom Gestell bis zu den Blüten war
 er aus Gold getrieben. Mose hatte den Leuchter nach dem Muster
-angefertigt, das der Herr ihm gezeigt hatte. ^{[[#fn1][1]]}\\
+angefertigt, das der Herr ihm gezeigt hatte. [fn:1]\\
 \\
 
 <<v5>>
-**** Die Weihe und der Dienst der Leviten: 8,5-26
-     :PROPERTIES:
-     :CUSTOM_ID: die-weihe-und-der-dienst-der-leviten-85-26
-     :END:
+* Die Weihe und der Dienst der Leviten: 8,5-26
+
 5 Der Herr sprach zu Mose:
 
 <<v6>>
@@ -97,8 +89,7 @@ Israeliten habe ich sie mir genommen.
 <<v17>>
 17 Denn alle erstgeborenen Israeliten gehören mir, sowohl bei den
 Menschen als auch beim Vieh. An dem Tag, an dem ich in Ägypten alle
-Erstgeborenen erschlug, habe ich sie als mir heilig erklärt
-^{[[#fn2][2]]}
+Erstgeborenen erschlug, habe ich sie als mir heilig erklärt [fn:2]
 
 <<v18>>
 18 und habe die Leviten als Ersatz für alle erstgeborenen Israeliten
@@ -143,6 +134,8 @@ ihrer Pflichten helfen; doch den eigentlichen Dienst soll er nicht
 versehen. So sollst du die Dienstpflichten der Leviten ordnen.\\
 \\
 
-^{[[#fnm1][1]]} ℘ Ex 25,31-36.40; 37,17-24
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 3,11-13; Ex 13,11-15
+[fn:1] Ex 25,31-36.40 [[file:Ex_25.org::v31][Ex 25,31-36.40]]; 37,17-24 [[file:Ex_37.org::v17][Ex 37,17-24]]
+
+[fn:2] 3,11-13 [[file:Num_3.org::v11][Num 3,11-13]]; Ex 13,11-15 [[file:Ex_13.org::v11][Ex 13,11-15]]

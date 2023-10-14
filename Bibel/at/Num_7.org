@@ -1,26 +1,21 @@
-:PROPERTIES:
-:ID:       31125137-1351-47d3-85c3-6961e7371bb4
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Numeri* -- [[file:Num_1.html][1]] ...
-[[file:Num_5.html][5]] [[file:Num_6.html][6]] *7* [[file:Num_8.html][8]]
-[[file:Num_9.html][9]] ... [[file:Num_36.html][36]]
+#+TITLE: Num 7 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-14 Sa 22:46]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Num 7.html
 
---------------
-
-* Num 7
-  :PROPERTIES:
-  :CUSTOM_ID: num-7
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Die Weihegaben der Stammesführer: 7,1-88
-     :PROPERTIES:
-     :CUSTOM_ID: die-weihegaben-der-stammesführer-71-88
-     :END:
+* Die Weihegaben der Stammesführer: 7,1-88
+
 1 An dem Tag, an dem Mose die Wohnstätte errichtet hatte, salbte und
 weihte er sie, dazu alle ihre Geräte, ebenso auch den Altar und alle
 seine Geräte. Er salbte sie und weihte alles.
@@ -406,10 +401,8 @@ hatte.\\
 \\
 
 <<v89>>
-**** Die Begegnung des Herrn mit Mose: 7,89
-     :PROPERTIES:
-     :CUSTOM_ID: die-begegnung-des-herrn-mit-mose-789
-     :END:
+* Die Begegnung des Herrn mit Mose: 7,89
+
 89 Wenn Mose das Offenbarungszelt betrat, um mit dem Herrn zu reden,
 hörte er die Stimme zu ihm reden. Sie sprach zu ihm von der Deckplatte
 her, die auf der Lade der Bundesurkunde lag, aus dem Raum zwischen den
