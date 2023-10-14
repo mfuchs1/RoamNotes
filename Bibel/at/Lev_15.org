@@ -1,33 +1,26 @@
-:PROPERTIES:
-:ID:       17df06da-5157-4447-8c72-93628f97b9da
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Levitikus* -- [[file:Lev_1.html][1]]
-... [[file:Lev_13.html][13]] [[file:Lev_14.html][14]] *15*
-[[file:Lev_16.html][16]] [[file:Lev_17.html][17]] ...
-[[file:Lev_27.html][27]]
+#+TITLE: Lev 15 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 15:02]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Lev 15.html
 
---------------
-
-* Lev 15
-  :PROPERTIES:
-  :CUSTOM_ID: lev-15
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Die Unreinheit bei Männern: 15,1-18
-     :PROPERTIES:
-     :CUSTOM_ID: die-unreinheit-bei-männern-151-18
-     :END:
+* Die Unreinheit bei Männern: 15,1-18
+
 1 Der Herr sprach zu Mose und Aaron:
 
 <<v2>>
 2 Redet zu den Israeliten und sagt zu ihnen: Wenn ein Mann einen
-Ausfluss aus seinem Körper hat, so ist dieser Ausfluss unrein.
-^{[[#fn1][1]]}
+Ausfluss aus seinem Körper hat, so ist dieser Ausfluss unrein. [fn:1]
 
 <<v3>>
 3 Hat er diesen Ausfluss, so besteht seine Unreinheit, ob sein Körper
@@ -101,10 +94,8 @@ sich beide in Wasser baden und sind unrein bis zum Abend.\\
 \\
 
 <<v19>>
-**** Die Unreinheit bei Frauen: 15,19-33
-     :PROPERTIES:
-     :CUSTOM_ID: die-unreinheit-bei-frauen-1519-33
-     :END:
+* Die Unreinheit bei Frauen: 15,19-33
+
 19 Hat eine Frau Blutfluss und ist solches Blut an ihrem Körper, soll
 sie sieben Tage lang in der Unreinheit ihrer Regel verbleiben. Wer sie
 berührt, ist unrein bis zum Abend.
@@ -174,6 +165,9 @@ oder die Frau mit Ausfluss und den Mann, der mit einer unreinen Frau
 schläft.\\
 \\
 
-^{[[#fnm1][1]]} «Ausfluss aus dem Körper» sind alle krankhaften
+
+* Footnotes
+
+[fn:1] «Ausfluss aus dem Körper» sind alle krankhaften
 Ausflüsse aus den natürlichen Körperöffnungen und aus ständig nässenden
-Fisteln. Dazu und zu 15,19-33 vgl. die Einleitung.
+Fisteln. Dazu und zu 15,19-33 vgl. die Einleitung. 

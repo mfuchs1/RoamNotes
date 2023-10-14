@@ -1,18 +1,17 @@
-:PROPERTIES:
-:ID:       4fca8f16-2f88-4497-8ba3-ef9c25672e85
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Exodus* -- [[file:Ex_1.html][1]]
-[[file:Ex_2.html][2]] [[file:Ex_3.html][3]] *4* [[file:Ex_5.html][5]]
-[[file:Ex_6.html][6]] ... [[file:Ex_40.html][40]]
+#+TITLE: Ex 4 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 12:47]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ex 4.html
 
---------------
 
 * Ex 4
-  :PROPERTIES:
-  :CUSTOM_ID: ex-4
-  :END:
 
 <<verses>>
 
@@ -71,8 +70,7 @@ wer macht taub oder stumm, sehend oder blind? Doch wohl ich, der Herr!
 sollst.
 
 <<v13>>
-13 Doch Mose antwortete: Aber bitte, Herr, schick doch einen andern!
-^{[[#fn1][1]]}
+13 Doch Mose antwortete: Aber bitte, Herr, schick doch einen andern! [fn:1]
 
 <<v14>>
 14 Da entbrannte der Zorn des Herrn über Mose und er sprach: Hast du
@@ -94,14 +92,11 @@ vollbringen.\\
 \\
 
 <<v18>>
-**** Die Rückkehr des Mose nach Ägypten: 4,18-31
-     :PROPERTIES:
-     :CUSTOM_ID: die-rückkehr-des-mose-nach-ägypten-418-31
-     :END:
+* Die Rückkehr des Mose nach Ägypten: 4,18-31
+
 18 Darauf kehrte Mose zu seinem Schwiegervater Jitro zurück. Er sagte zu
 ihm: Ich will zu meinen Brüdern nach Ägypten zurückkehren. Ich will
-sehen, ob sie noch am Leben sind. Jitro antwortete Mose: Geh in Frieden!
-^{[[#fn2][2]]}
+sehen, ob sie noch am Leben sind. Jitro antwortete Mose: Geh in Frieden! [fn:2]
 
 <<v19>>
 19 Der Herr sprach zu Mose in Midian: Mach dich auf und kehr nach
@@ -111,7 +106,7 @@ tot.
 <<v20>>
 20 Da holte Mose seine Frau und seine Söhne, setzte sie auf einen Esel
 und trat den Rückweg nach Ägypten an. Den Gottesstab hielt er in der
-Hand. ^{[[#fn3][3]]}
+Hand. [fn:3]
 
 <<v21>>
 21 Der Herr sprach zu Mose: Wenn du gehst und nach Ägypten zurückkehrst,
@@ -130,7 +125,7 @@ erstgeborenen Sohn um.
 
 <<v24>>
 24 Unterwegs am Rastplatz trat der Herr dem Mose entgegen und wollte ihn
-töten. ^{[[#fn4][4]]}
+töten. [fn:4]
 
 <<v25>>
 25 Zippora ergriff einen Feuerstein und schnitt ihrem Sohn die Vorhaut
@@ -163,14 +158,17 @@ Israeliten angenommen und ihr Elend gesehen habe, verneigten sie sich
 und warfen sich vor ihm nieder.\\
 \\
 
-^{[[#fnm1][1]]} Wörtlich: Schicke, wen du schickst!
 
-^{[[#fnm2][2]]} Zu Jitro vgl. die Anmerkung zu 2,18.
+* Footnotes
 
-^{[[#fnm3][3]]} ℘ 18,3f
+[fn:1] Wörtlich: Schicke, wen du schickst!
 
-^{[[#fnm4][4]]} 24-26: Eine ähnlich geheimnisvolle Szene wie Gen
-32,23-33. Wahrscheinlich betont diese Erzählung die religiöse Bedeutung
+[fn:2] Zu Jitro vgl. die Anmerkung zu 2,18 [[file:Ex_2.org][Ex 2,18]]
+
+[fn:3] 18,3f [[file:Ex_18.org::v3][Ex 18,3]]
+
+[fn:4] 24-26: Eine ähnlich geheimnisvolle Szene wie Gen 32,23-33 [[file:Gen_32.org::v23][Gen 32,23-33]]
+Wahrscheinlich betont diese Erzählung die religiöse Bedeutung
 der Beschneidung. Der schwer kranke Mose konnte nicht beschnitten
 werden, weil bei den damaligen hygienischen Verhältnissen die
 Beschneidung fast immer Wundfieber zur Folge hatte (vgl. Gen 34,25 und

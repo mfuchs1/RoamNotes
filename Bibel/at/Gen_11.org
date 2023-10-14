@@ -1,33 +1,21 @@
-:PROPERTIES:
-:ID:       639f8391-f02c-4cee-8805-40b908d070fe
-:END:
-#+STARTUP: fnadjust
-#+STARTUP: showall
-#+STARTUP: logdone
-#+STARTUP: lognotedone
-#+STARTUP: hidestars
-#+OPTIONS: broken-links:t H:6
-#+filetags: :hide:
-#+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur authoryear-ibid
-#+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) NEXT(x) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) CANCELED(c@)
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
-#+TITLE: Gen_11
+#+TITLE: Gen 11 
 #+AUTHOR: Matthias Fuchs
 #+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 10:03]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Gen 11.html
 
-* Gen 11
-:PROPERTIES:
-:CUSTOM_ID: gen-11
-:END:
 
 <<verses>>
 
 <<v1>>
-** Der Turmbau zu Babel: 11,1-9
-:PROPERTIES:
-:CUSTOM_ID: der-turmbau-zu-babel-111-9
-:END:
+* Der Turmbau zu Babel: 11,1-9
+
 1 Alle Menschen hatten die gleiche Sprache und gebrauchten die gleichen
 Worte. [fn:1]
 
@@ -69,14 +57,10 @@ die ganze Erde zerstreut.\\
 \\
 
 <<v10>>
-** Die Erzväter: 11,10 - 36,43
-:PROPERTIES:
-:CUSTOM_ID: die-erzväter-1110---3643
-:END:
-*** Die Vorfahren Abrahams: 11,10-32
-:PROPERTIES:
-:CUSTOM_ID: die-vorfahren-abrahams-1110-32
-:END:
+* Die Erzväter: 11,10 - 36,43
+
+* Die Vorfahren Abrahams: 11,10-32
+
 10 Das ist die Geschlechterfolge nach Sem: Sem zeugte im Alter von
 hundert Jahren Arpachschad, zwei Jahre nach der Flut.
 

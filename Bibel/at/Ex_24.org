@@ -1,28 +1,19 @@
-:PROPERTIES:
-:ID:       53959a25-66c5-4ef9-ba6c-21bdec7879b9
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Exodus* -- [[file:Ex_1.html][1]] ...
-[[file:Ex_22.html][22]] [[file:Ex_23.html][23]] *24*
-[[file:Ex_25.html][25]] [[file:Ex_26.html][26]] ...
-[[file:Ex_40.html][40]]
-
---------------
-
-* Ex 24
-  :PROPERTIES:
-  :CUSTOM_ID: ex-24
-  :END:
+#+TITLE: Ex 24 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-11 Mi 23:22]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ex 24.html
 
 <<verses>>
 
 <<v1>>
-1 ¥
-**** Der Bundesschluß: 24,1-18
-     :PROPERTIES:
-     :CUSTOM_ID: der-bundesschluß-241-18
-     :END:
+* Der Bundesschluß: 24,1-18
 Zu Mose sprach er: Steig zum Herrn hinauf zusammen mit Aaron, Nadab,
 Abihu und mit siebzig von den Ältesten Israels; werft euch in einiger
 Entfernung nieder!

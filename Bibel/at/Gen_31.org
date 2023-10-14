@@ -1,33 +1,21 @@
-:PROPERTIES:
-:ID:       487b63f2-e63f-42fa-84cd-4facce51142a
-:END:
-#+STARTUP: fnadjust
-#+STARTUP: showall
-#+STARTUP: logdone
-#+STARTUP: lognotedone
-#+STARTUP: hidestars
-#+OPTIONS: broken-links:t H:6
-#+filetags: :hide:
-#+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur authoryear-ibid
-#+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) NEXT(x) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) CANCELED(c@)
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
-#+TITLE: Gen_31
+#+TITLE: Gen 31 
 #+AUTHOR: Matthias Fuchs
 #+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 10:22]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Gen 31.html
 
-* Gen 31
-:PROPERTIES:
-:CUSTOM_ID: gen-31
-:END:
 
 <<verses>>
 
 <<v1>>
-*** Jakobs Trennung von Laban: 31,1 - 32,1
-:PROPERTIES:
-:CUSTOM_ID: jakobs-trennung-von-laban-311---321
-:END:
+* Jakobs Trennung von Laban: 31,1 - 32,1
+
 1 Jakob hatte erfahren, dass die Söhne Labans sagten: Jakob hat alles,
 was unserem Vater gehört, weggenommen; auf Kosten unseres Vaters hat er
 sich so bereichert.

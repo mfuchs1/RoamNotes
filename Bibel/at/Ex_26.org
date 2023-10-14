@@ -1,27 +1,22 @@
-:PROPERTIES:
-:ID:       0a66f14b-c324-47cd-bbac-82c80c145cee
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Exodus* -- [[file:Ex_1.html][1]] ...
-[[file:Ex_24.html][24]] [[file:Ex_25.html][25]] *26*
-[[file:Ex_27.html][27]] [[file:Ex_28.html][28]] ...
-[[file:Ex_40.html][40]]
-
---------------
+#+TITLE: Ex 27 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-11 Mi 23:32]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ex 27.html
 
 * Ex 26
-  :PROPERTIES:
-  :CUSTOM_ID: ex-26
-  :END:
-
 <<verses>>
 
 <<v1>>
 1 Die Wohnstätte sollst du aus zehn Zelttüchern herstellen; aus
 gezwirntem Byssus, violettem und rotem Purpur und Karmesin mit Kerubim
-sollst du sie machen, wie es ein Kunstweber macht.
-^{[[#fn1][1]][[#fn2][2]]}
+sollst du sie machen, wie es ein Kunstweber macht. [fn:1] [fn:2]
 
 <<v2>>
 2 Ein Zelttuch soll achtundzwanzig Ellen lang und vier Ellen breit sein;
@@ -47,7 +42,7 @@ bilden.
 
 <<v7>>
 7 Mach Decken aus Ziegenhaar für das Zelt über der Wohnstätte; elf Stück
-sollst du herstellen. ^{[[#fn3][3]]}
+sollst du herstellen. [fn:3]
 
 <<v8>>
 8 Eine Decke soll dreißig Ellen lang und vier Ellen breit sein; die elf
@@ -77,11 +72,10 @@ die beiden Seiten der Wohnstätte herabhängen, sodass sie sie bedeckt.
 
 <<v14>>
 14 Schließlich mach für das Zelt eine Decke aus rötlichen Widderfellen
-und darüber eine Decke aus Tahaschhäuten! ^{[[#fn4][4]]}
+und darüber eine Decke aus Tahaschhäuten! [fn:4]
 
 <<v15>>
-15 Mach für die Wohnstätte Bretter aus Akazienholz zum Aufstellen!
-^{[[#fn5][5]]}
+15 Mach für die Wohnstätte Bretter aus Akazienholz zum Aufstellen! [fn:5]
 
 <<v16>>
 16 Jedes Brett soll zehn Ellen lang und anderthalb Ellen breit sein;
@@ -125,7 +119,7 @@ zwei Sockel als Unterlage für jedes Brett.
 
 <<v26>>
 26 Verfertige Querlatten aus Akazienholz, fünf für die Bretter auf der
-einen Seite der Wohnstätte, ^{[[#fn6][6]]}
+einen Seite der Wohnstätte, [fn:6]
 
 <<v27>>
 27 fünf für die Bretter der zweiten Seite der Wohnstätte und fünf für
@@ -146,7 +140,7 @@ gezeigt worden ist.
 <<v31>>
 31 Mach einen Vorhang aus violettem und rotem Purpur, Karmesin und
 gezwirntem Byssus; wie Kunstweberarbeit soll er gemacht werden, mit
-Kerubim. ^{[[#fn7][7]]}
+Kerubim. [fn:7]
 
 <<v32>>
 32 Häng ihn an die vier mit Gold überzogenen Akaziensäulen, die auf vier
@@ -176,16 +170,19 @@ sein.
 gieß für sie fünf kupferne Sockel! Auch die Nägel der Säulen sollen aus
 Gold sein.
 
-^{[[#fnm1][1]]} ℘ (1-6) 36,8-13
 
-^{[[#fnm2][2]]} Zu Byssus vgl. die Anmerkung zu Gen 41,42.
+* Footnotes
 
-^{[[#fnm3][3]]} ℘ (7-14) 36,14-19
+[fn:1] (1-6) 36,8-13
 
-^{[[#fnm4][4]]} Zu den Tahaschhäuten vgl. die Anmerkung zu 25,5.
+[fn:2] Zu Byssus vgl. die Anmerkung zu Gen 41,42.
 
-^{[[#fnm5][5]]} ℘ (15-25) 36,20-30
+[fn:3] (7-14) 36,14-19
 
-^{[[#fnm6][6]]} ℘ (26-30) 36,31-34
+[fn:4] Zu den Tahaschhäuten vgl. die Anmerkung zu 25,5.
 
-^{[[#fnm7][7]]} ℘ (31-37) 36,35-38
+[fn:5] (15-25) 36,20-30
+
+[fn:6] (26-30) 36,31-34
+
+[fn:7] (31-37) 36,35-38

@@ -1,37 +1,30 @@
-:PROPERTIES:
-:ID:       a1757c84-655d-4ce7-bac4-2162d751b106
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Levitikus* -- [[file:Lev_1.html][1]]
-... [[file:Lev_3.html][3]] [[file:Lev_4.html][4]] *5*
-[[file:Lev_6.html][6]] [[file:Lev_7.html][7]] ...
-[[file:Lev_27.html][27]]
+#+TITLE: Lev 5 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 14:02]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Lev 5.html
 
---------------
-
-* Lev 5
-  :PROPERTIES:
-  :CUSTOM_ID: lev-5
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Die Schuld- und Sündopfer für einzelne Vergehen: 5,1-13
-     :PROPERTIES:
-     :CUSTOM_ID: die-schuld--und-sündopfer-für-einzelne-vergehen-51-13
-     :END:
+* Die Schuld- und Sündopfer für einzelne Vergehen: 5,1-13
+
 1 Angenommen, jemand sündigt in einem der folgenden Fälle: er hat eine
 laute Verfluchung gehört, ist Zeuge, da er es gesehen oder darum gewusst
-hat, aber er zeigt es nicht an und lädt damit Schuld auf sich;
-^{[[#fn1][1]]}
+hat, aber er zeigt es nicht an und lädt damit Schuld auf sich; [fn:1]
 
 <<v2>>
 2 oder jemand berührt eine unreine Sache, das Aas eines unreinen wilden
 Tieres oder eines unreinen Haustiers oder eines unreinen Kriechtiers und
 es blieb ihm verborgen, aber er merkt es dann und wird unrein und
-schuldig; ^{[[#fn2][2]]}
+schuldig; [fn:2]
 
 <<v3>>
 3 oder er berührt etwas Unreines von einem Menschen, dessen Berührung
@@ -91,10 +84,8 @@ Priester gehört das Gleiche wie beim Speiseopfer.\\
 \\
 
 <<v14>>
-**** Das Schuldopfer für sakrale Vergehen: 5,14-19
-     :PROPERTIES:
-     :CUSTOM_ID: das-schuldopfer-für-sakrale-vergehen-514-19
-     :END:
+* Das Schuldopfer für sakrale Vergehen: 5,14-19
+
 14 Der Herr sprach zu Mose:
 
 <<v15>>
@@ -126,16 +117,14 @@ Herrn schuldig gemacht.\\
 \\
 
 <<v20>>
-**** Das Schuldopfer für unsoziales Verhalten: 5,20-26
-     :PROPERTIES:
-     :CUSTOM_ID: das-schuldopfer-für-unsoziales-verhalten-520-26
-     :END:
+* Das Schuldopfer für unsoziales Verhalten: 5,20-26
+
 20 Der Herr sprach zu Mose:
 
 <<v21>>
 21 Wenn jemand sündigt und eine Veruntreuung gegen den Herrn begeht,
 indem er einen aus seinem Volk über anvertrautes oder hinterlegtes oder
-geraubtes Gut täuscht oder ihn übervorteilt ^{[[#fn3][3]]}
+geraubtes Gut täuscht oder ihn übervorteilt [fn:3]
 
 <<v22>>
 22 oder verlorenes Gut findet und es leugnet oder einen Meineid leistet
@@ -160,13 +149,16 @@ Schätzwert als sein Schuldopfer vor den Herrn zum Priester bringen
 vergeben werden, durch die er sich schuldig gemacht hat.\\
 \\
 
-^{[[#fnm1][1]]} Wie noch heute bei den Beduinen, so hat man in Israel
+
+* Footnotes
+
+[fn:1] Wie noch heute bei den Beduinen, so hat man in Israel
 dem Fluch die Kraft zugeschrieben, das angedeutete Unheil auch wirklich
 herbeizuführen. Ein Fluch ist üblich und erlaubt, wenn jemand etwas
 verloren hat und den Finder vor Fundunterschlagung oder den Hehler vor
 Annahme oder Kauf des Gegenstands warnen will. Der unredliche Finder
 oder der Hehler würde Unheil auf sich bringen.
 
-^{[[#fnm2][2]]} aber er merkt es dann: sinngemäß ergänzt (vgl. V. 3).
+[fn:2] aber er merkt es dann: sinngemäß ergänzt (vgl. V. 3).
 
-^{[[#fnm3][3]]} ℘ (21-26) Ex 22,6-14
+[fn:3] (21-26) Ex 22,6-14 [[file:Ex_22.org::v6][Ex 22,6-14]]

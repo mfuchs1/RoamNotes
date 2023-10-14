@@ -1,26 +1,16 @@
-:PROPERTIES:
-:ID:       1084423b-ff1c-4cb2-885c-a562af6ed15a
-:END:
-#+STARTUP: fnadjust
-#+STARTUP: showall
-#+STARTUP: logdone
-#+STARTUP: lognotedone
-#+STARTUP: hidestars
-#+OPTIONS: broken-links:t H:6
-#+filetags: :hide:
-#+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur authoryear-ibid
-#+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) NEXT(x) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) CANCELED(c@)
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
-#+TITLE: Gen_7
+#+TITLE: Gen 7 
 #+AUTHOR: Matthias Fuchs
 #+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 10:00]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Gen 7.html
 
 * Gen 7
-:PROPERTIES:
-:CUSTOM_ID: gen-7
-:END:
-
 <<verses>>
 
 <<v1>>
@@ -92,10 +82,7 @@ aufgetragen hatte. Dann schloss der Herr hinter ihm zu.\\
 \\
 
 <<v17>>
-** Die große Flut: 7,17 - 8,22
-:PROPERTIES:
-:CUSTOM_ID: die-große-flut-717---822
-:END:
+* Die große Flut: 7,17 - 8,22
 17 Die Flut auf der Erde dauerte vierzig Tage. Das Wasser stieg und hob
 die Arche immer höher über die Erde.
 

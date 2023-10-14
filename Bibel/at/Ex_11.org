@@ -1,19 +1,16 @@
-:PROPERTIES:
-:ID:       9b6ee01e-0fa7-4e22-97bc-d27b8742847a
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Exodus* -- [[file:Ex_1.html][1]] ...
-[[file:Ex_9.html][9]] [[file:Ex_10.html][10]] *11*
-[[file:Ex_12.html][12]] [[file:Ex_13.html][13]] ...
-[[file:Ex_40.html][40]]
-
---------------
+#+TITLE: Ex 11 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-11 Mi 22:22]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ex 11.html
 
 * Ex 11
-  :PROPERTIES:
-  :CUSTOM_ID: ex-11
-  :END:
 
 <<verses>>
 
@@ -24,7 +21,7 @@ euch endlich ziehen lässt, wird er euch sogar fortjagen.
 
 <<v2>>
 2 Lass unter dem Volk ausrufen, jeder Mann und jede Frau soll sich von
-dem Nachbarn Geräte aus Silber und Gold erbitten. ^{[[#fn1][1]]}
+dem Nachbarn Geräte aus Silber und Gold erbitten. [fn:1]
 
 <<v3>>
 3 Der Herr ließ das Volk bei den Ägyptern Gunst finden. Auch Mose genoss
@@ -37,7 +34,7 @@ in Ägypten bei den Dienern des Pharao und beim Volk hohes Ansehen.
 <<v5>>
 5 Dann wird jeder Erstgeborene in Ägypten sterben, vom Erstgeborenen des
 Pharao, der auf dem Thron sitzt, bis zum Erstgeborenen der Magd an der
-Handmühle und bis zu den Erstlingen unter dem Vieh. ^{[[#fn2][2]]}
+Handmühle und bis zu den Erstlingen unter dem Vieh. [fn:2]
 
 <<v6>>
 6 Geschrei wird sich in ganz Ägypten erheben, so groß, wie es keines je
@@ -64,6 +61,9 @@ Pharao, aber der Herr verhärtete das Herz des Pharao, sodass er die
 Israeliten nicht aus seinem Land fortziehen ließ.\\
 \\
 
-^{[[#fnm1][1]]} ℘ 3,22; 12,35f
 
-^{[[#fnm2][2]]} ℘ 4,23
+* Footnotes
+
+[fn:1] 3,22; 12,35f
+
+[fn:2] 4,23

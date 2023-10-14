@@ -1,30 +1,22 @@
-:PROPERTIES:
-:ID:       42d8310b-04a5-4dbf-82e3-7c6dbd9478f4
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Exodus* -- [[file:Ex_1.html][1]] ...
-[[file:Ex_27.html][27]] [[file:Ex_28.html][28]] *29*
-[[file:Ex_30.html][30]] [[file:Ex_31.html][31]] ...
-[[file:Ex_40.html][40]]
-
---------------
-
-* Ex 29
-  :PROPERTIES:
-  :CUSTOM_ID: ex-29
-  :END:
+#+TITLE: Ex 29 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-11 Mi 23:45]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ex 29.html
 
 <<verses>>
 
 <<v1>>
-**** Die Weihe der Priester: 29,1-37
-     :PROPERTIES:
-     :CUSTOM_ID: die-weihe-der-priester-291-37
-     :END:
+* Die Weihe der Priester: 29,1-37
 1 Das ist es, was du mit ihnen tun sollst, wenn du sie zum
 Priesterdienst für mich weihst: Nimm einen Jungstier und zwei fehlerlose
-Widder, ^{[[#fn1][1]]}
+Widder, [fn:1]
 
 <<v2>>
 2 ungesäuerte Brote, mit Öl vermengte ungesäuerte Kuchen und mit Öl
@@ -189,12 +181,9 @@ ist dann hochheilig; jeder, der den Altar berührt, wird heilig.\\
 \\
 
 <<v38>>
-**** Vorschriften für den Kult: 29,38 - 30,38
-     :PROPERTIES:
-     :CUSTOM_ID: vorschriften-für-den-kult-2938---3038
-     :END:
+* Vorschriften für den Kult: 29,38 - 30,38
 38 Folgendes sollst du auf dem Altar darbringen: Tagtäglich und ständig
-zwei männliche einjährige Lämmer. ^{[[#fn2][2]]}
+zwei männliche einjährige Lämmer. [fn:2]
 
 <<v39>>
 39 Das eine Lamm sollst du am Morgen, das andere zur Zeit der
@@ -231,6 +220,8 @@ heiligen und für meinen Priesterdienst weihen.
 Ägypten herausgeführt hat, um in ihrer Mitte zu wohnen, ich, der Herr,
 ihr Gott.
 
-^{[[#fnm1][1]]} ℘ (1-37) Lev 8,1-36
 
-^{[[#fnm2][2]]} ℘ Num 28,1-10
+* Footnotes
+[fn:1] (1-37) Lev 8,1-36 
+
+[fn:2] Num 28,1-10

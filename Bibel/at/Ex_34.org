@@ -1,20 +1,16 @@
-:PROPERTIES:
-:ID:       6104283c-efcd-4cee-af38-9868355db281
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Exodus* -- [[file:Ex_1.html][1]] ...
-[[file:Ex_32.html][32]] [[file:Ex_33.html][33]] *34*
-[[file:Ex_35.html][35]] [[file:Ex_36.html][36]] ...
-[[file:Ex_40.html][40]]
-
---------------
+#+TITLE: Ex 34 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 00:05]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ex 34.html
 
 * Ex 34
-  :PROPERTIES:
-  :CUSTOM_ID: ex-34
-  :END:
-
 <<verses>>
 
 <<v1>>
@@ -42,7 +38,7 @@ hin. Er rief den Namen Jahwe aus.
 
 <<v6>>
 6 Der Herr ging an ihm vorüber und rief: Jahwe ist ein barmherziger und
-gnädiger Gott, langmütig, reich an Huld und Treue: ^{[[#fn1][1]]}
+gnädiger Gott, langmütig, reich an Huld und Treue: [fn:1]
 
 <<v7>>
 7 Er bewahrt Tausenden Huld, nimmt Schuld, Frevel und Sünde weg, lässt
@@ -100,11 +96,11 @@ ihren Göttern verführen.
 18 Du sollst das Fest der ungesäuerten Brote halten. Im Monat Abib
 sollst du zur festgesetzten Zeit sieben Tage lang ungesäuertes Brot
 essen, wie ich es dir geboten habe. Denn im Monat Abib bist du aus
-Ägypten ausgezogen. ^{[[#fn2][2]]}
+Ägypten ausgezogen. [fn:2]
 
 <<v19>>
 19 Das Erste, was den Mutterschoß durchbricht, jeder männliche Erstling
-beim Vieh, bei deinen Rindern und Schafen, gehört mir. ^{[[#fn3][3]]}
+beim Vieh, bei deinen Rindern und Schafen, gehört mir. [fn:3]
 
 <<v20>>
 20 Den Erstling vom Esel aber sollst du durch ein Schaf auslösen. Willst
@@ -114,7 +110,7 @@ erscheinen.
 
 <<v21>>
 21 Sechs Tage sollst du arbeiten, am siebten Tag sollst du ruhen; selbst
-zur Zeit des Pflügens und des Erntens sollst du ruhen. ^{[[#fn4][4]]}
+zur Zeit des Pflügens und des Erntens sollst du ruhen. [fn:4]
 
 <<v22>>
 22 Du sollst das Wochenfest feiern, das Fest der Erstlingsfrüchte von
@@ -133,7 +129,7 @@ erscheinen.
 <<v25>>
 25 Beim Schlachten sollst du das Blut meines Opfers nicht über
 gesäuertes Brot fließen lassen und vom Schlachttier des Paschafestes
-darf nichts bis zum Morgen liegen bleiben. ^{[[#fn5][5]]}
+darf nichts bis zum Morgen liegen bleiben. [fn:5]
 
 <<v26>>
 26 Von den Erstlingsfrüchten deines Ackers sollst du die besten in das
@@ -180,14 +176,16 @@ Israeliten alles vor, was ihm aufgetragen worden war.
 35 Wenn die Israeliten das Gesicht des Mose sahen und merkten, dass die
 Haut seines Gesichtes Licht ausstrahlte, legte er den Schleier über sein
 Gesicht, bis er wieder hineinging, um mit dem Herrn zu reden.\\
-\\
 
-^{[[#fnm1][1]]} ℘ (6f) 20,5f; Num 14,18; Dtn 5,9f
 
-^{[[#fnm2][2]]} ℘ 23,15
+* Footnotes
 
-^{[[#fnm3][3]]} ℘ 13,12f; 22,28f
+[fn:1] (6f) 20,5f; Num 14,18; Dtn 5,9f
 
-^{[[#fnm4][4]]} ℘ 20,9f; 23,12
+[fn:2] 23,15
 
-^{[[#fnm5][5]]} ℘ 23,18f
+[fn:3] 13,12f; 22,28f
+
+[fn:4] 20,9f; 23,12
+
+[fn:5] 23,18f

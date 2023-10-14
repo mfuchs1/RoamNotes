@@ -1,31 +1,22 @@
-:PROPERTIES:
-:ID:       ff693396-0822-4a24-a3c7-3bfd4d59e17b
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Levitikus* -- [[file:Lev_1.html][1]]
-... [[file:Lev_19.html][19]] [[file:Lev_20.html][20]] *21*
-[[file:Lev_22.html][22]] [[file:Lev_23.html][23]] ...
-[[file:Lev_27.html][27]]
-
---------------
-
-* Lev 21
-  :PROPERTIES:
-  :CUSTOM_ID: lev-21
-  :END:
+#+TITLE: Lev 21 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 21:29]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Lev 21.html
 
 <<verses>>
 
-<<v1>>
-*** Vorschriften für Priester: 21,1-24
-    :PROPERTIES:
-    :CUSTOM_ID: vorschriften-für-priester-211-24
-    :END:
-**** Das Verhalten beim Begräbnis von Verwandten: 21,1-6
-     :PROPERTIES:
-     :CUSTOM_ID: das-verhalten-beim-begräbnis-von-verwandten-211-6
-     :END:
+
+* Vorschriften für Priester: 21,1-24
+   
+* Das Verhalten beim Begräbnis von Verwandten: 21,1-6
+<<v1>>   
 1 Der Herr sprach zu Mose: Rede zu den Priestern, den Söhnen Aarons, und
 sag zu ihnen: Keiner von ihnen darf sich an der Leiche eines seiner
 Stammesgenossen verunreinigen,
@@ -53,10 +44,8 @@ ihres Gottes, darbringen; darum sollen sie heilig sein.\\
 \\
 
 <<v7>>
-**** Ehehindernisse für Priester: 21,7-8
-     :PROPERTIES:
-     :CUSTOM_ID: ehehindernisse-für-priester-217-8
-     :END:
+* Ehehindernisse für Priester: 21,7-8
+
 7 Sie dürfen weder eine Dirne, noch eine Entehrte, noch eine Frau
 heiraten, die ihr Mann verstoßen hat; denn der Priester ist seinem Gott
 geweiht.
@@ -68,19 +57,15 @@ heiligt.\\
 \\
 
 <<v9>>
-**** Die Strafe für unzüchtige Priestertöchter: 21,9
-     :PROPERTIES:
-     :CUSTOM_ID: die-strafe-für-unzüchtige-priestertöchter-219
-     :END:
+* Die Strafe für unzüchtige Priestertöchter: 21,9
+
 9 Wenn sich die Tochter eines Priesters als Dirne entweiht, so entweiht
 sie ihren Vater; sie soll im Feuer verbrannt werden.\\
 \\
 
 <<v10>>
-**** Das Verhalten des Hohenpriesters bei Todesfällen: 21,10-12
-     :PROPERTIES:
-     :CUSTOM_ID: das-verhalten-des-hohenpriesters-bei-todesfällen-2110-12
-     :END:
+* Das Verhalten des Hohenpriesters bei Todesfällen: 21,10-12
+
 10 Der Priester, der unter seinen Brüdern den höchsten Rang einnimmt,
 auf dessen Haupt das Salböl ausgegossen wurde und der durch das Anlegen
 der heiligen Gewänder eingesetzt ist, soll sein Haar nicht lose
@@ -97,10 +82,8 @@ auf ihm. Ich bin der Herr.\\
 \\
 
 <<v13>>
-**** Ehehindernisse für den Hohenpriester: 21,13-15
-     :PROPERTIES:
-     :CUSTOM_ID: ehehindernisse-für-den-hohenpriester-2113-15
-     :END:
+* Ehehindernisse für den Hohenpriester: 21,13-15
+
 13 Er soll nur eine Jungfrau heiraten.
 
 <<v14>>
@@ -114,10 +97,8 @@ entweihen; denn ich, der Herr, bin es, der ihn heiligt.\\
 \\
 
 <<v16>>
-**** Die körperliche Tauglichkeit für das Priesteramt: 21,16-23
-     :PROPERTIES:
-     :CUSTOM_ID: die-körperliche-tauglichkeit-für-das-priesteramt-2116-23
-     :END:
+* Die körperliche Tauglichkeit für das Priesteramt: 21,16-23
+
 16 Der Herr sprach zu Mose:
 
 <<v17>>
@@ -144,7 +125,7 @@ darzubringen.
 
 <<v22>>
 22 Doch darf er von der Speise seines Gottes, von den hochheiligen und
-heiligen Dingen, essen, ^{[[#fn1][1]]}
+heiligen Dingen, essen, [fn:1]
 
 <<v23>>
 23 aber nicht zum Vorhang kommen und sich nicht dem Altar nähern; denn
@@ -153,13 +134,14 @@ entweihen; denn ich bin der Herr, der sie geheiligt hat.\\
 \\
 
 <<v24>>
-**** Schlussbemerkung: 21,24
-     :PROPERTIES:
-     :CUSTOM_ID: schlussbemerkung-2124
-     :END:
+* Schlussbemerkung: 21,24
+
 24 Das sagte Mose zu Aaron, zu dessen Söhnen und zu allen Israeliten.\\
 \\
 
-^{[[#fnm1][1]]} «Speise Gottes» ist das Opfer; im AT wird aber nirgends
+
+* Footnotes
+
+[fn:1] «Speise Gottes» ist das Opfer; im AT wird aber nirgends
 angenommen, dass Gott die Opferspeise genießt oder ihrer bedarf (vgl. Ps
-50,8-13).
+50,8-13 [[file:Ps_50.org::v8][Ps 50,8-13]]). 

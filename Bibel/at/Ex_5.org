@@ -1,26 +1,18 @@
-:PROPERTIES:
-:ID:       9ada553d-9050-4791-933f-e5c83c713e7b
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Exodus* -- [[file:Ex_1.html][1]] ...
-[[file:Ex_3.html][3]] [[file:Ex_4.html][4]] *5* [[file:Ex_6.html][6]]
-[[file:Ex_7.html][7]] ... [[file:Ex_40.html][40]]
+#+TITLE: Ex 5 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-11 Mi 22:07]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+export_file_name: ~/RoamNotes/exports/Ex 5.html
 
---------------
-
-* Ex 5
-  :PROPERTIES:
-  :CUSTOM_ID: ex-5
-  :END:
-
-<<verses>>
 
 <<v1>>
-**** Die erfolglosen Verhandlungen mit dem Pharao: 5,1-19
-     :PROPERTIES:
-     :CUSTOM_ID: die-erfolglosen-verhandlungen-mit-dem-pharao-51-19
-     :END:
+* Die erfolglosen Verhandlungen mit dem Pharao: 5,1-19
+
 1 Danach gingen Mose und Aaron zum Pharao und sagten: So spricht Jahwe,
 der Gott Israels: Lass mein Volk ziehen, damit sie mir in der Wüste ein
 Fest feiern können.
@@ -51,7 +43,7 @@ Listenführern die Anweisung:
 
 <<v7>>
 7 Gebt den Leuten nicht mehr, wie bisher, Stroh zum Ziegelmachen! Sie
-sollen selber gehen und sich Stroh besorgen. ^{[[#fn1][1]]}
+sollen selber gehen und sich Stroh besorgen. [fn:1]
 
 <<v8>>
 8 Legt ihnen aber das gleiche Soll an Ziegeln auf, das sie bisher
@@ -108,10 +100,8 @@ euch erlassen.\\
 \\
 
 <<v20>>
-**** Die Klage des Mose und die Verheißung Gottes: 5,20 - 6,13
-     :PROPERTIES:
-     :CUSTOM_ID: die-klage-des-mose-und-die-verheißung-gottes-520---613
-     :END:
+* Die Klage des Mose und die Verheißung Gottes: 5,20 - 6,13
+
 20 Als sie vom Pharao kamen, stießen sie auf Mose und Aaron, die ihnen
 entgegenkamen.
 
@@ -130,5 +120,7 @@ behandelst du dieses Volk so schlecht? Wozu hast du mich denn gesandt?
 behandelt er dieses Volk noch schlechter, aber du hast dein Volk nicht
 gerettet.
 
-^{[[#fnm1][1]]} Stroh, zu Häcksel geschnitten, dient bei der
-Ziegelherstellung als Bindemittel für den Lehm.
+
+* Footnotes
+
+[fn:1] Stroh, zu Häcksel geschnitten, dient bei der Ziegelherstellung als Bindemittel für den Lehm.

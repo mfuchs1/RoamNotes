@@ -1,29 +1,21 @@
-:PROPERTIES:
-:ID:       8cc2aeab-48e0-43ae-b3bc-d5b3757a605f
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Levitikus* -- [[file:Lev_1.html][1]]
-... [[file:Lev_5.html][5]] [[file:Lev_6.html][6]] *7*
-[[file:Lev_8.html][8]] [[file:Lev_9.html][9]] ...
-[[file:Lev_27.html][27]]
-
---------------
-
-* Lev 7
-  :PROPERTIES:
-  :CUSTOM_ID: lev-7
-  :END:
+#+TITLE: Lev 7 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 14:21]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Lev 7.html
 
 <<verses>>
 
 <<v1>>
-**** Das Schuldopfer: 7,1-10
-     :PROPERTIES:
-     :CUSTOM_ID: das-schuldopfer-71-10
-     :END:
-1 Für das Schuldopfer gilt folgendes Gesetz: Es ist etwas Hochheiliges.
-^{[[#fn1][1]]}
+* Das Schuldopfer: 7,1-10
+
+1 Für das Schuldopfer gilt folgendes Gesetz: Es ist etwas Hochheiliges. [fn:1]
 
 <<v2>>
 2 Dort, wo man das Brandopfer schlachtet, soll man das Schuldopfer
@@ -64,12 +56,10 @@ Söhnen Aarons ohne Unterschied.\\
 \\
 
 <<v11>>
-**** Das Heilsopfer: 7,11-21
-     :PROPERTIES:
-     :CUSTOM_ID: das-heilsopfer-711-21
-     :END:
+* Das Heilsopfer: 7,11-21
+
 11 Für das Heilsopfer, das man für den Herrn darbringt, gilt folgendes
-Gesetz: ^{[[#fn2][2]]}
+Gesetz: [fn:2]
 
 <<v12>>
 12 Wenn man es als Dankopfer darbringt, soll man zu diesem
@@ -84,7 +74,7 @@ zusammen mit dem Heilsopfer als Dankopfer darbringen.
 <<v14>>
 14 Einen Teil von jeder Opfergabe soll man mit dem Erhebungsritus dem
 Herrn darbringen; es gehört dem Priester, der das Blut des Heilsopfers
-sprengt. ^{[[#fn3][3]]}
+sprengt. [fn:3]
 
 <<v15>>
 15 Das Opferfleisch des Schlachtdankopfers soll am Tag der Darbringung
@@ -125,10 +115,8 @@ Stammesgenossen ausgemerzt werden.\\
 \\
 
 <<v22>>
-**** Das Verbot von Fett- und Blutgenuß: 7,22-27
-     :PROPERTIES:
-     :CUSTOM_ID: das-verbot-von-fett--und-blutgenuß-722-27
-     :END:
+* Das Verbot von Fett- und Blutgenuß: 7,22-27
+
 22 Der Herr sprach zu Mose:
 
 <<v23>>
@@ -137,8 +125,7 @@ Fett essen.
 
 <<v24>>
 24 Das Fett eines verendeten oder zerrissenen Tieres kann zu jedem Zweck
-verwendet werden, doch essen dürft ihr es auf keinen Fall.
-^{[[#fn4][4]]}
+verwendet werden, doch essen dürft ihr es auf keinen Fall. [fn:4]
 
 <<v25>>
 25 Jeder, der dennoch das Fett eines Tieres isst, das man als Feueropfer
@@ -147,7 +134,7 @@ werden.
 
 <<v26>>
 26 Wo immer ihr wohnt, dürft ihr kein Blut genießen, weder von Vögeln,
-noch vom Vieh. ^{[[#fn5][5]]}
+noch vom Vieh. [fn:5]
 
 <<v27>>
 27 Wer Blut genießt, soll aus seinen Stammesgenossen ausgemerzt
@@ -155,10 +142,8 @@ werden.\\
 \\
 
 <<v28>>
-**** Die Feueropfer: 7,28-38
-     :PROPERTIES:
-     :CUSTOM_ID: die-feueropfer-728-38
-     :END:
+* Die Feueropfer: 7,28-38
+
 28 Der Herr sprach zu Mose:
 
 <<v29>>
@@ -208,14 +193,17 @@ dem er die Israeliten verpflichtete, ihre Gaben dem Herrn in der Wüste
 Sinai darzubringen.\\
 \\
 
-^{[[#fnm1][1]]} ℘ (1-10) 5,1-26
 
-^{[[#fnm2][2]]} ℘ (11-21) 3,1-17
+* Footnotes
 
-^{[[#fnm3][3]]} Der Erhebungsritus ist ein ritueller Akt, bei dem der
+[fn:1] (1-10) 5,1-26 [[file:Lev_5.org::v1][Lev 5,1-26]]
+
+[fn:2] (11-21) 3,1-17 [[file:Lev_3.org::v1][Lev 3,1-17]]
+
+[fn:3] Der Erhebungsritus ist ein ritueller Akt, bei dem der
 Priester die Opfergabe mit beiden Händen hochhebt zum Zeichen dafür,
 dass er sie Gott anbietet.
 
-^{[[#fnm4][4]]} ℘ Ex 22,30
+[fn:4] Ex 22,30 [[file:Ex_22.org::30][Ex 22,30]]
 
-^{[[#fnm5][5]]} ℘ Gen 9,4
+[fn:5] Gen 9,4 [[file:Gen_9.org::v4][Gen 9,4]]

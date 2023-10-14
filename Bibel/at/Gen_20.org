@@ -1,33 +1,21 @@
-:PROPERTIES:
-:ID:       fc0c28d7-ecce-4ac8-9eeb-8d78311fabbd
-:END:
-#+STARTUP: fnadjust
-#+STARTUP: showall
-#+STARTUP: logdone
-#+STARTUP: lognotedone
-#+STARTUP: hidestars
-#+OPTIONS: broken-links:t H:6
-#+filetags: :hide:
-#+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur authoryear-ibid
-#+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) NEXT(x) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) CANCELED(c@)
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
-#+TITLE: Gen_20
+#+TITLE: Gen 20 
 #+AUTHOR: Matthias Fuchs
 #+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 10:08]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Gen 20.html
 
-* Gen 20
-:PROPERTIES:
-:CUSTOM_ID: gen-20
-:END:
 
 <<verses>>
 
 <<v1>>
-*** Abraham in Gerar: 20,1-18
-:PROPERTIES:
-:CUSTOM_ID: abraham-in-gerar-201-18
-:END:
+* Abraham in Gerar: 20,1-18
+
 1 Abraham brach von dort auf und zog in den Negeb. Er ließ sich zwischen
 Kadesch und Schur nieder und hielt sich in Gerar als Fremder auf. [fn:1]
 

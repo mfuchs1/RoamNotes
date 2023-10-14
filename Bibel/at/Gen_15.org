@@ -16,18 +16,12 @@
 #+AUTHOR: Matthias Fuchs
 #+EMAIL: matthiasfuchs01@gmail.com
 
-* Gen 15
-:PROPERTIES:
-:CUSTOM_ID: gen-15
-:END:
 
 <<verses>>
 
 <<v1>>
-*** Gottes Bund mit Abraham: 15,1-21
-:PROPERTIES:
-:CUSTOM_ID: gottes-bund-mit-abraham-151-21
-:END:
+* Gottes Bund mit Abraham: 15,1-21
+
 1 Nach diesen Ereignissen erging das Wort des Herrn in einer Vision an
 Abram: Fürchte dich nicht, Abram, ich bin dein Schild; dein Lohn wird
 sehr groß sein.

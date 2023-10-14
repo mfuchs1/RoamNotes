@@ -1,33 +1,20 @@
-:PROPERTIES:
-:ID:       204a4662-b013-42a4-8f90-32f7a0169fe9
-:END:
-#+STARTUP: fnadjust
-#+STARTUP: showall
-#+STARTUP: logdone
-#+STARTUP: lognotedone
-#+STARTUP: hidestars
-#+OPTIONS: broken-links:t H:6
-#+filetags: :hide:
-#+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur authoryear-ibid
-#+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) NEXT(x) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) CANCELED(c@)
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
-#+TITLE: Gen_22
+#+TITLE: Gen 22 
 #+AUTHOR: Matthias Fuchs
 #+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 10:13]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Gen 22.html
 
-* Gen 22
-:PROPERTIES:
-:CUSTOM_ID: gen-22
-:END:
 
 <<verses>>
 
 <<v1>>
-*** Abrahams Opfer: 22,1-19
-:PROPERTIES:
-:CUSTOM_ID: abrahams-opfer-221-19
-:END:
+* Abrahams Opfer: 22,1-19
 1 Nach diesen Ereignissen stellte Gott Abraham auf die Probe. Er sprach
 zu ihm: Abraham! Er antwortete: Hier bin ich. [fn:1]
 
@@ -113,10 +100,8 @@ wohnen.\\
 \\
 
 <<v20>>
-*** Abrahams Verwandtschaft: 22,20-24
-:PROPERTIES:
-:CUSTOM_ID: abrahams-verwandtschaft-2220-24
-:END:
+* Abrahams Verwandtschaft: 22,20-24
+
 20 Nach diesen Ereignissen meldete man Abraham: Auch Milka hat deinem
 Bruder Nahor Söhne geboren:
 

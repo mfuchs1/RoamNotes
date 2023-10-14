@@ -1,25 +1,22 @@
-:PROPERTIES:
-:ID:       35558e23-273b-4577-8245-9423f1318327
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Exodus* -- [[file:Ex_1.html][1]] ...
-[[file:Ex_36.html][36]] [[file:Ex_37.html][37]] *38*
-[[file:Ex_39.html][39]] [[file:Ex_40.html][40]]
+#+TITLE: Ex 38 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 08:54]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ex 38.html
 
---------------
 
 * Ex 38
-  :PROPERTIES:
-  :CUSTOM_ID: ex-38
-  :END:
-
 <<verses>>
 
 <<v1>>
 1 Dann machte er den Brandopferaltar aus Akazienholz, fünf Ellen lang,
-fünf Ellen breit - also quadratisch - und drei Ellen hoch.
-^{[[#fn1][1]]}
+fünf Ellen breit - also quadratisch - und drei Ellen hoch. [fn:1]
 
 <<v2>>
 2 Er machte ihm Hörner an seinen vier Ecken - seine Hörner bildeten mit
@@ -51,7 +48,7 @@ Spiegeln der Frauen, die am Eingang des Offenbarungszeltes Dienst taten.
 
 <<v9>>
 9 Dann machte er den Vorhof: für die südliche Längsseite Vorhofbehänge
-aus gezwirntem Byssus, hundert Ellen. ^{[[#fn2][2]]}
+aus gezwirntem Byssus, hundert Ellen. [fn:2]
 
 <<v10>>
 10 Ihre zwanzig Säulen und deren zwanzig Sockel waren aus Kupfer, die
@@ -84,7 +81,7 @@ Sockeln.
 <<v17>>
 17 Die Sockel der Säulen waren aus Kupfer, die Nägel der Säulen und ihre
 Querstangen aus Silber, der Überzug ihrer Kapitelle aus Silber. Alle
-Säulen des Vorhofs hatten Querstangen aus Silber. ^{[[#fn3][3]]}
+Säulen des Vorhofs hatten Querstangen aus Silber. [fn:3]
 
 <<v18>>
 18 Für das Tor des Vorhofs machte er einen Vorhang: Er war
@@ -104,7 +101,7 @@ Kupfer.
 <<v21>>
 21 Das ist die Veranlagung zugunsten der Wohnstätte, der Stätte der
 Bundesurkunde; diese Veranlagung hatte Mose den Leviten unter dem
-Priester Itamar, dem Sohn Aarons, übertragen. ^{[[#fn4][4]]}
+Priester Itamar, dem Sohn Aarons, übertragen. [fn:4]
 
 <<v22>>
 22 Bezalel, der Sohn Uris, des Sohnes Hurs, vom Stamm Juda, führte alles
@@ -150,13 +147,15 @@ Altargeräte
 <<v31>>
 31 sowie die Sockel für den Vorhof ringsum, die Torsockel des Vorhofs,
 alle Zeltpflöcke der Wohnstätte und alle Zeltpflöcke des Vorhofs
-ringsum.\\
-\\
+ringsum.
 
-^{[[#fnm1][1]]} ℘ (1-7) 27,1-8
 
-^{[[#fnm2][2]]} ℘ (9-20) 27,9-19
+* Footnotes
 
-^{[[#fnm3][3]]} Der letzte Satz des Verses ist in H unklar.
+[fn:1] (1-7) 27,1-8 [[file:Ex_27.org::v1][Ex 27,1-8]]
 
-^{[[#fnm4][4]]} ℘ (21-26) 30,11-16
+[fn:2] (9-20) 27,9-19 [[file:Ex_27.org::v9][Ex 27,9-19]]
+
+[fn:3] Der letzte Satz des Verses ist in H unklar.
+
+[fn:4] (21-26) 30,11-16 [[file:Ex_30.org::v11][Ex 30,11-16]]

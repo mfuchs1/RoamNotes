@@ -1,31 +1,23 @@
-:PROPERTIES:
-:ID:       d3bd62dd-6ffa-42bd-b6b3-6bdb6f318bc9
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Levitikus* -- [[file:Lev_1.html][1]]
-... [[file:Lev_17.html][17]] [[file:Lev_18.html][18]] *19*
-[[file:Lev_20.html][20]] [[file:Lev_21.html][21]] ...
-[[file:Lev_27.html][27]]
+#+TITLE: Lev 19 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 20:39]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Lev 19.html
 
---------------
-
-* Lev 19
-  :PROPERTIES:
-  :CUSTOM_ID: lev-19
-  :END:
 
 <<verses>>
 
 <<v1>>
-*** Kultische und soziale Gebote: 19,1-37
-    :PROPERTIES:
-    :CUSTOM_ID: kultische-und-soziale-gebote-191-37
-    :END:
-**** Einleitung: 19,1-2
-     :PROPERTIES:
-     :CUSTOM_ID: einleitung-191-2
-     :END:
+* Kultische und soziale Gebote: 19,1-37
+
+* Einleitung: 19,1-2
+
 1 Der Herr sprach zu Mose:
 
 <<v2>>
@@ -34,12 +26,10 @@ denn ich, der Herr, euer Gott, bin heilig.\\
 \\
 
 <<v3>>
-**** Die Ehrfurcht gegenüber den Eltern: 19,3-4
-     :PROPERTIES:
-     :CUSTOM_ID: die-ehrfurcht-gegenüber-den-eltern-193-4
-     :END:
+* Die Ehrfurcht gegenüber den Eltern: 19,3-4
+
 3 Jeder von euch soll Mutter und Vater fürchten und auf meine Sabbate
-achten; ich bin der Herr, euer Gott. ^{[[#fn1][1]]}
+achten; ich bin der Herr, euer Gott. [fn:1]
 
 <<v4>>
 4 Ihr sollt euch nicht anderen Göttern zuwenden und euch nicht
@@ -47,12 +37,10 @@ Götterbilder aus Metall gießen; ich bin der Herr, euer Gott.\\
 \\
 
 <<v5>>
-**** Die rechte Einstellung zum Heilsopfer: 19,5-8
-     :PROPERTIES:
-     :CUSTOM_ID: die-rechte-einstellung-zum-heilsopfer-195-8
-     :END:
+* Die rechte Einstellung zum Heilsopfer: 19,5-8
+
 5 Wenn ihr für den Herrn ein Heilsopfer schlachtet, opfert es so, dass
-ihr Annahme findet. ^{[[#fn2][2]]}
+ihr Annahme findet. [fn:2]
 
 <<v6>>
 6 An dem Tag, an dem ihr es schlachtet, oder am folgenden Tag soll es
@@ -70,10 +58,8 @@ Stammesgenossen ausgemerzt werden.\\
 \\
 
 <<v9>>
-**** Das Verbot der Nachlese: 19,9-10
-     :PROPERTIES:
-     :CUSTOM_ID: das-verbot-der-nachlese-199-10
-     :END:
+* Das Verbot der Nachlese: 19,9-10
+
 9 Wenn ihr die Ernte eures Landes einbringt, sollt ihr das Feld nicht
 bis zum äußersten Rand abernten. Du sollst keine Nachlese von deiner
 Ernte halten.
@@ -85,12 +71,9 @@ Fremden überlassen. Ich bin der Herr, euer Gott.\\
 \\
 
 <<v11>>
-**** Soziales Verhalten und Nächstenliebe: 19,11-18
-     :PROPERTIES:
-     :CUSTOM_ID: soziales-verhalten-und-nächstenliebe-1911-18
-     :END:
-11 Ihr sollt nicht stehlen, nicht täuschen und einander nicht betrügen.
-^{[[#fn3][3]]}
+* Soziales Verhalten und Nächstenliebe: 19,11-18
+
+11 Ihr sollt nicht stehlen, nicht täuschen und einander nicht betrügen. [fn:3]
 
 <<v12>>
 12 Ihr sollt nicht falsch bei meinem Namen schwören; du würdest sonst
@@ -109,7 +92,7 @@ Ich bin der Herr.
 <<v15>>
 15 Ihr sollt in der Rechtsprechung kein Unrecht tun. Du sollst weder für
 einen Geringen noch für einen Großen Partei nehmen; gerecht sollst du
-deinen Stammesgenossen richten. ^{[[#fn4][4]]}
+deinen Stammesgenossen richten. [fn:4]
 
 <<v16>>
 16 Du sollst deinen Stammesgenossen nicht verleumden und dich nicht
@@ -123,14 +106,12 @@ Schuld auf dich laden.
 <<v18>>
 18 An den Kindern deines Volkes sollst du dich nicht rächen und ihnen
 nichts nachtragen. Du sollst deinen Nächsten lieben wie dich selbst. Ich
-bin der Herr. ^{[[#fn5][5]]}\\
+bin der Herr. [fn:5]\\
 \\
 
 <<v19>>
-**** Das Verbot von Mischungen: 19,19
-     :PROPERTIES:
-     :CUSTOM_ID: das-verbot-von-mischungen-1919
-     :END:
+* Das Verbot von Mischungen: 19,19
+
 19 Ihr sollt auf meine Satzungen achten: Unter deinem Vieh sollst du
 nicht zwei Tiere verschiedener Art sich begatten lassen. Dein Feld
 sollst du nicht mit zweierlei Arten besäen. Du sollst kein aus zweierlei
@@ -138,14 +119,12 @@ Fäden gewebtes Kleid anlegen.\\
 \\
 
 <<v20>>
-**** Unzucht mit der Nebenfrau eines anderen: 19,20-22
-     :PROPERTIES:
-     :CUSTOM_ID: unzucht-mit-der-nebenfrau-eines-anderen-1920-22
-     :END:
+* Unzucht mit der Nebenfrau eines anderen: 19,20-22
+
 20 Wohnt ein Mann einer Frau bei, die einem andern Mann als Sklavin zur
 Nebenfrau bestimmt ist und die weder losgekauft noch freigelassen ist,
 dann soll der Fall untersucht werden; sterben sollen sie nicht, da sie
-nicht freigelassen war. ^{[[#fn6][6]]}
+nicht freigelassen war. [fn:6]
 
 <<v21>>
 21 Er soll als sein Schuldopfer für den Herrn einen Widder zum Eingang
@@ -158,10 +137,8 @@ vergeben.\\
 \\
 
 <<v23>>
-**** Die Erstlingsfrüchte: 19,23-25
-     :PROPERTIES:
-     :CUSTOM_ID: die-erstlingsfrüchte-1923-25
-     :END:
+* Die Erstlingsfrüchte: 19,23-25
+
 23 Wenn ihr in das Land kommt und einen Fruchtbaum pflanzt, sollt ihr
 seine Früchte behandeln, als ob sie seine Vorhaut wären. Drei Jahre lang
 sollen sie für euch etwas Unbeschnittenes sein, das man nicht essen
@@ -177,12 +154,10 @@ euch ernten. Ich bin der Herr, euer Gott.\\
 \\
 
 <<v26>>
-**** Das Verbot fremder Kultbräuche: 19,26-31
-     :PROPERTIES:
-     :CUSTOM_ID: das-verbot-fremder-kultbräuche-1926-31
-     :END:
+* Das Verbot fremder Kultbräuche: 19,26-31
+
 26 Ihr sollt nichts mit Blut essen. Wahrsagerei und Zauberei sollt ihr
-nicht treiben. ^{[[#fn7][7]]}
+nicht treiben. [fn:7]
 
 <<v27>>
 27 Ihr sollt euer Kopfhaar nicht rundum abschneiden. Du sollst deinen
@@ -199,7 +174,7 @@ damit das Land nicht der Unzucht verfällt und voller Schandtat wird.
 
 <<v30>>
 30 Ihr sollt auf meine Sabbate achten und mein Heiligtum fürchten. Ich
-bin der Herr. ^{[[#fn8][8]]}
+bin der Herr. [fn:8]
 
 <<v31>>
 31 Wendet euch nicht an die Totenbeschwörer und sucht nicht die
@@ -207,19 +182,15 @@ Wahrsager auf; sie verunreinigen euch. Ich bin der Herr, euer Gott.\\
 \\
 
 <<v32>>
-**** Die Ehrfurcht vor dem Alter: 19,32
-     :PROPERTIES:
-     :CUSTOM_ID: die-ehrfurcht-vor-dem-alter-1932
-     :END:
+* Die Ehrfurcht vor dem Alter: 19,32
+
 32 Du sollst vor grauem Haar aufstehen, das Ansehen eines Greises ehren
 und deinen Gott fürchten. Ich bin der Herr.\\
 \\
 
 <<v33>>
-**** Verhalten gegen Fremde: 19,33-34
-     :PROPERTIES:
-     :CUSTOM_ID: verhalten-gegen-fremde-1933-34
-     :END:
+* Verhalten gegen Fremde: 19,33-34
+
 33 Wenn bei dir ein Fremder in eurem Land lebt, sollt ihr ihn nicht
 unterdrücken.
 
@@ -230,10 +201,8 @@ seid selbst Fremde in Ägypten gewesen. Ich bin der Herr, euer Gott.\\
 \\
 
 <<v35>>
-**** Übervorteilung: 19,35-36
-     :PROPERTIES:
-     :CUSTOM_ID: übervorteilung-1935-36
-     :END:
+* Übervorteilung: 19,35-36
+
 35 Ihr sollt kein Unrecht begehen bei Gericht, mit Längenmaß, Gewicht
 und Hohlmaß.
 
@@ -244,29 +213,30 @@ geführt hat.\\
 \\
 
 <<v37>>
-**** Schlussmahnung: 19,37
-     :PROPERTIES:
-     :CUSTOM_ID: schlussmahnung-1937
-     :END:
+* Schlussmahnung: 19,37
+
 37 Ihr sollt auf alle meine Satzungen und alle meine Vorschriften achten
 und sie befolgen. Ich bin der Herr.\\
 \\
 
-^{[[#fnm1][1]]} ℘ (3-4) Ex 20,1-12; 23,12; 34,14-17.21; Dtn 5,6-16
 
-^{[[#fnm2][2]]} ℘ (5-8) 7,14-18
+* Footnotes
 
-^{[[#fnm3][3]]} ℘ (11-12) Ex 20,7.15f; 23,7; Dtn 5,11.19f
+[fn:1] (3-4) Ex 20,1-12 [[file:Ex_20.org::v1][Ex 20,1-12]]; 23,12 [[file:Ex_23.org::v12][Ex 23,12]]; 34,14-17.21 [[file:Ex_34.org::v14][Ex 34,14-17.21]]; Dtn 5,6-16 [[file:Dtn_5.org::v6][Dtn 5,6-16]]
 
-^{[[#fnm4][4]]} ℘ (15-16) Ex 23,3-7
+[fn:2] (5-8) 7,14-18 [[file:Lev_7.org::v14][Lev 7,14-18]]
 
-^{[[#fnm5][5]]} Unter dem «Nächsten» verstand Israel vor allem den
+[fn:3] (11-12) Ex 20,7.15f [[file:Ex_20.org::v7][Ex 20,7.15f]]; 23,7 [[file:Ex_23.org::v7][Ex 23,7]]; Dtn 5,11.19f [[file:Dtn_5.org::v11][Dtn 5,11.19f]]
+
+[fn:4] (15-16) Ex 23,3-7 [[file:Ex_23.org::v3][Ex 23,3-7]]
+
+[fn:5] Unter dem «Nächsten» verstand Israel vor allem den
 Volks- und Glaubensgenossen; doch sind nach V. 34 auch alle Fremden, die
 Gastrecht genießen, in das Gebot der Nächstenliebe mit eingeschlossen.
-Jesus hat es nach Mt 5,43 und Lk 10,27-37 auf alle Menschen ausgedehnt.
+Jesus hat es nach Mt 5,43 [[file:~/RoamNotes/notes/Bibel/nt/Mt_5.org::v43][Mt 5,43]] und Lk 10,27-37 [[file:~/RoamNotes/notes/Bibel/nt/Lk_10.org::v27][Lk 10,27-37]] auf alle Menschen ausgedehnt.
 
-^{[[#fnm6][6]]} ℘ Ex 21,7-9
+[fn:6] Ex 21,7-9 [[file:Ex_21.org::v7][Ex 21,7-9]]
 
-^{[[#fnm7][7]]} ℘ 17,10-12
+[fn:7] 17,10-12 [[file:Lev_17.org::v10][Lev 17,10-12]]
 
-^{[[#fnm8][8]]} ℘ Ex 20,8; Dtn 5,12
+[fn:8] Ex 20,8 [[file:Ex_20.org::v8][Ex 20,8]]; Dtn 5,12 [[file:Dtn_5.org::v12][Dtn 5,12]]

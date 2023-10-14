@@ -1,19 +1,16 @@
-:PROPERTIES:
-:ID:       6c8b4c30-89e0-4a28-b16f-10e27fad1014
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Exodus* -- [[file:Ex_1.html][1]] ...
-[[file:Ex_11.html][11]] [[file:Ex_12.html][12]] *13*
-[[file:Ex_14.html][14]] [[file:Ex_15.html][15]] ...
-[[file:Ex_40.html][40]]
-
---------------
+#+TITLE: Ex 13 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-11 Mi 22:27]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ex 13.html
 
 * Ex 13
-  :PROPERTIES:
-  :CUSTOM_ID: ex-13
-  :END:
 
 <<verses>>
 
@@ -91,10 +88,8 @@ herausgeführt.\\
 \\
 
 <<v17>>
-**** Die Rettung am Schilfmeer: 13,17 - 14,31
-     :PROPERTIES:
-     :CUSTOM_ID: die-rettung-am-schilfmeer-1317---1431
-     :END:
+* Die Rettung am Schilfmeer: 13,17 - 14,31
+
 17 Als der Pharao das Volk ziehen ließ, führte sie Gott nicht den Weg
 ins Philisterland, obwohl er der kürzere war. Denn Gott sagte: Die Leute
 könnten es sonst, wenn sie Krieg erleben, bereuen und nach Ägypten
@@ -107,7 +102,7 @@ Schilfmeer führte. Geordnet zogen die Israeliten aus Ägypten hinauf.
 <<v19>>
 19 Mose nahm die Gebeine Josefs mit; denn dieser hatte die Söhne Israels
 beschworen: Wenn Gott sich euer annimmt, dann nehmt meine Gebeine von
-hier mit hinauf! ^{[[#fn1][1]]}
+hier mit hinauf! [fn:1]
 
 <<v20>>
 20 Sie brachen von Sukkot auf und schlugen ihr Lager in Etam am Rand der
@@ -122,4 +117,7 @@ So konnten sie Tag und Nacht unterwegs sein.
 22 Die Wolkensäule wich bei Tag nicht von der Spitze des Volkes und die
 Feuersäule nicht bei Nacht.
 
-^{[[#fnm1][1]]} ℘ Gen 50,25
+
+* Footnotes
+
+[fn:1] Gen 50,25

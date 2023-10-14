@@ -1,33 +1,22 @@
-:PROPERTIES:
-:ID:       0df08e7a-3f67-4a54-93bd-9bf6b55e2320
-:END:
-#+STARTUP: fnadjust
-#+STARTUP: showall
-#+STARTUP: logdone
-#+STARTUP: lognotedone
-#+STARTUP: hidestars
-#+OPTIONS: broken-links:t H:6
-#+filetags: :hide:
-#+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur authoryear-ibid
-#+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) NEXT(x) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) CANCELED(c@)
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
-#+TITLE: Gen_33
+#+TITLE: Gen 33 
 #+AUTHOR: Matthias Fuchs
 #+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 10:24]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Gen 33.html
 
-* Gen 33
-:PROPERTIES:
-:CUSTOM_ID: gen-33
-:END:
+
 
 <<verses>>
 
 <<v1>>
-*** Jakobs Versöhnung mit Esau: 33,1-20
-:PROPERTIES:
-:CUSTOM_ID: jakobs-versöhnung-mit-esau-331-20
-:END:
+* Jakobs Versöhnung mit Esau: 33,1-20
+
 1 Jakob blickte auf und sah: Esau kam und mit ihm vierhundert Mann. Da
 verteilte er die Kinder auf Lea und Rahel und auf die beiden Mägde.
 

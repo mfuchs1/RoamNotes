@@ -1,30 +1,19 @@
-:PROPERTIES:
-:ID:       67c0f5ec-6cca-41bf-b4ee-753fb0519834
-:END:
-#+STARTUP: fnadjust
-#+STARTUP: showall
-#+STARTUP: logdone
-#+STARTUP: lognotedone
-#+STARTUP: hidestars
-#+OPTIONS: broken-links:t H:6
-#+filetags: :hide:
-#+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur authoryear-ibid
-#+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) NEXT(x) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) CANCELED(c@)
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
-#+TITLE: Gen_36
+#+TITLE: Gen 36 
 #+AUTHOR: Matthias Fuchs
 #+EMAIL: matthiasfuchs01@gmail.com
-
-* Gen 36
-:PROPERTIES:
-:CUSTOM_ID: gen-36
-:END:
+#+DATE: [2023-10-12 Do 10:30]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Gen 36.html
 
 <<verses>>
 
 <<v1>>
-*** Die Nachkommen Esaus: 36,1-43
+* Die Nachkommen Esaus: 36,1-43
 :PROPERTIES:
 :CUSTOM_ID: die-nachkommen-esaus-361-43
 :END:

@@ -1,27 +1,22 @@
-:PROPERTIES:
-:ID:       998af48e-d797-4a10-8149-cac3b481e10f
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Levitikus* -- [[file:Lev_1.html][1]]
-[[file:Lev_2.html][2]] [[file:Lev_3.html][3]] *4* [[file:Lev_5.html][5]]
-[[file:Lev_6.html][6]] ... [[file:Lev_27.html][27]]
+#+TITLE: Lev 4 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 13:58]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Lev 4.html
 
---------------
-
-* Lev 4
-  :PROPERTIES:
-  :CUSTOM_ID: lev-4
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Das Sündopfer eines Priesters: 4,1-12
-     :PROPERTIES:
-     :CUSTOM_ID: das-sündopfer-eines-priesters-41-12
-     :END:
-1 Der Herr sprach zu Mose: ^{[[#fn1][1]]}
+* Das Sündopfer eines Priesters: 4,1-12
+
+1 Der Herr sprach zu Mose: [fn:1]
 
 <<v2>>
 2 Sag zu den Israeliten: Wenn einer ohne Vorsatz gegen eines der Gebote
@@ -49,8 +44,7 @@ den Vorhang des Heiligtums spritzen.
 7 Darauf soll der Priester etwas vom Blut auf die Hörner des
 Rauchopferaltars tun, der vor dem Herrn im Offenbarungszelt steht, und
 dann soll er das ganze Blut des Stiers am Sockel des Brandopferaltars
-ausgießen, der sich am Eingang des Offenbarungszeltes befindet.
-^{[[#fn2][2]]}
+ausgießen, der sich am Eingang des Offenbarungszeltes befindet. [fn:2]
 
 <<v8>>
 8 Dann soll er das ganze Fett des Sündopferstieres abheben, und zwar das
@@ -76,10 +70,8 @@ verbrannt werden.\\
 \\
 
 <<v13>>
-**** Das Sündopfer der Gemeinde: 4,13-21
-     :PROPERTIES:
-     :CUSTOM_ID: das-sündopfer-der-gemeinde-413-21
-     :END:
+* Das Sündopfer der Gemeinde: 4,13-21
+
 13 Wenn die ganze Gemeinde Israels ohne Vorsatz gesündigt und etwas vom
 Herrn Verbotenes getan hat, ohne es bemerkt zu haben, und dadurch
 schuldig wurde,
@@ -123,10 +115,8 @@ Gemeinde.\\
 \\
 
 <<v22>>
-**** Das Sündopfer eines Sippenhauptes: 4,22-26
-     :PROPERTIES:
-     :CUSTOM_ID: das-sündopfer-eines-sippenhauptes-422-26
-     :END:
+* Das Sündopfer eines Sippenhauptes: 4,22-26
+
 22 Angenommen, ein Sippenhaupt sündigt, tut ohne Vorsatz etwas, was der
 Herr, sein Gott, verboten hat, und wird dadurch schuldig
 
@@ -151,10 +141,8 @@ löst ihn von seiner Sünde; dann wird ihm vergeben werden.\\
 \\
 
 <<v27>>
-**** Das Sündopfer eines gewöhnlichen Israeliten: 4,27-35
-     :PROPERTIES:
-     :CUSTOM_ID: das-sündopfer-eines-gewöhnlichen-israeliten-427-35
-     :END:
+* Das Sündopfer eines gewöhnlichen Israeliten: 4,27-35
+
 27 Wenn jemand aus dem Volk ohne Vorsatz sündigt und schuldig wird, weil
 er etwas vom Herrn Verbotenes getan hat,
 
@@ -199,13 +187,17 @@ um ihn von seiner Sünde zu lösen, die er begangen hat; dann wird ihm
 vergeben werden.\\
 \\
 
-^{[[#fnm1][1]]} 1-5,26: Der Unterschied zwischen Sündopfern und
+
+
+* Footnotes
+
+[fn:1] 1-5,26: Der Unterschied zwischen Sündopfern und
 Schuldopfern ist nur schwer festzustellen. Bei beiden Opferarten geht es
 um Sühne für absichtliche und unabsichtliche Übertretungen von zumeist
 kultischen Vorschriften. Dabei spielt das Blut eine wichtige Rolle. Es
 wird an den Altar und andere Teile des Heiligtums gesprengt oder
-gestrichen. Zur Bedeutung des Blutes beim Opfer vgl. 17,11.
+gestrichen. Zur Bedeutung des Blutes beim Opfer vgl. 17,11 [[file:Lev_17.org::v11][Lev 17,11]].
 
-^{[[#fnm2][2]]} Die Hörner des Altars sind hornförmige Aufbauten an den
+[fn:2] Die Hörner des Altars sind hornförmige Aufbauten an den
 vier Ecken, die wahrscheinlich die Macht Gottes versinnbilden (vgl. die
-Anmerkung zu Ex 32,1-35).
+Anmerkung zu Ex 32,1-35 [[file:Ex_32.org::v1][Ex,1-35]]).

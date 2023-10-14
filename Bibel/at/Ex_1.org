@@ -1,17 +1,16 @@
-:PROPERTIES:
-:ID:       8c66ac41-c9af-40d3-9596-78ccd3728443
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Exodus* -- *1* [[file:Ex_2.html][2]]
-[[file:Ex_3.html][3]] ... [[file:Ex_40.html][40]]
-
---------------
+#+TITLE: Ex 1 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 10:38]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ex 1.html
 
 * Ex 1
-  :PROPERTIES:
-  :CUSTOM_ID: ex-1
-  :END:
 
 Das Buch Exodus ist vom Buch Genesis deutlich abgehoben. Es schildert
 die weiteren Schicksale der Nachkommen Jakobs, die in Ägypten zu einem
@@ -74,25 +73,21 @@ Die Zehn Gebote haben die Ethik der Kulturvölker maßgeblich geprägt.\\
 <<verses>>
 
 <<v1>>
-** Israel in Ägypten: 1,1 - 11,10
-   :PROPERTIES:
-   :CUSTOM_ID: israel-in-ägypten-11---1110
-   :END:
-**** Jakobs Nachkommen in Ägypten: 1,1-22
-     :PROPERTIES:
-     :CUSTOM_ID: jakobs-nachkommen-in-ägypten-11-22
-     :END:
+* Israel in Ägypten: 1,1 - 11,10
+
+* Jakobs Nachkommen in Ägypten: 1,1-22
+
 1 Das sind die Namen der Söhne Israels, die nach Ägypten gekommen
 waren - mit Jakob waren sie gekommen, jeder mit seiner Familie:
 
 <<v2>>
-2 Ruben, Simeon, Levi, Juda,
+2 Ruben, Simeon, Levi, Juda,\\
 
 <<v3>>
-3 Issachar, Sebulon, Benjamin,
+3 Issachar, Sebulon, Benjamin,\\
 
 <<v4>>
-4 Dan, Naftali, Gad und Ascher.
+4 Dan, Naftali, Gad und Ascher.\\
 
 <<v5>>
 5 Zusammen waren es siebzig Personen; sie alle stammten von Jakob ab.
@@ -118,12 +113,12 @@ und stärker als wir.
 10 Gebt Acht! Wir müssen überlegen, was wir gegen sie tun können, damit
 sie sich nicht weiter vermehren. Wenn ein Krieg ausbricht, können sie
 sich unseren Feinden anschließen, gegen uns kämpfen und sich des Landes
-bemächtigen. ^{[[#fn1][1]]}
+bemächtigen. [fn:1]
 
 <<v11>>
 11 Da setzte man Fronvögte über sie ein, um sie durch schwere Arbeit
 unter Druck zu setzen. Sie mussten für den Pharao die Städte Pitom und
-Ramses als Vorratslager bauen. ^{[[#fn2][2]]}
+Ramses als Vorratslager bauen. [fn:2]
 
 <<v12>>
 12 Je mehr man sie aber unter Druck hielt, umso stärker vermehrten sie
@@ -174,10 +169,12 @@ den Hebräern geboren werden, werft in den Nil! Die Mädchen dürft ihr
 alle am Leben lassen.\\
 \\
 
-^{[[#fnm1][1]]} und sich des Landes bemächtigen, andere
+
+* Footnotes
+[fn:1]  und sich des Landes bemächtigen, andere
 Übersetzungsmöglichkeit: und aus dem Land fortziehen.
 
-^{[[#fnm2][2]]} Die beiden Städte wurden vom Pharao Ramses II.
+[fn:2] Die beiden Städte wurden vom Pharao Ramses II.
 (1304-1237 v. Chr.) im östlichen Nildelta als Garnisons- und
 Vorratsstädte zur Vorbereitung seines Feldzugs gegen die Hetiter
 angelegt.

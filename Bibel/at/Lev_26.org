@@ -1,34 +1,26 @@
-:PROPERTIES:
-:ID:       46456be4-9d21-4ec2-a8fe-f02d927767b5
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Levitikus* -- [[file:Lev_1.html][1]]
-... [[file:Lev_24.html][24]] [[file:Lev_25.html][25]] *26*
-[[file:Lev_27.html][27]]
-
---------------
-
-* Lev 26
-  :PROPERTIES:
-  :CUSTOM_ID: lev-26
-  :END:
+#+TITLE: Lev 26 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-13 Fr 09:44]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Lev 26.html
 
 <<verses>>
 
 <<v1>>
-*** Segen und Fluch: 26,1-46
-    :PROPERTIES:
-    :CUSTOM_ID: segen-und-fluch-261-46
-    :END:
-**** Die Grundforderungen Gottes: 26,1-2
-     :PROPERTIES:
-     :CUSTOM_ID: die-grundforderungen-gottes-261-2
-     :END:
+* Segen und Fluch: 26,1-46
+
+* Die Grundforderungen Gottes: 26,1-2
+
 1 Ihr sollt euch keine Götzen machen, euch weder ein Gottesbild noch ein
 Steinmal aufstellen und in eurem Land keine Steine mit Bildwerken
 aufrichten, um euch vor ihnen niederzuwerfen; denn ich bin der Herr,
-euer Gott. ^{[[#fn1][1]]}
+euer Gott. [fn:1]
 
 <<v2>>
 2 Ihr sollt auf meine Sabbate achten und mein Heiligtum fürchten; ich
@@ -36,12 +28,10 @@ bin der Herr.\\
 \\
 
 <<v3>>
-**** Die Segenszusage für Gehorsam: 26,3-13
-     :PROPERTIES:
-     :CUSTOM_ID: die-segenszusage-für-gehorsam-263-13
-     :END:
+* Die Segenszusage für Gehorsam: 26,3-13
+
 3 Wenn ihr nach meinen Satzungen handelt, auf meine Gebote achtet und
-sie befolgt, ^{[[#fn2][2]][[#fn3][3]]}
+sie befolgt, [fn:2] [fn:3]
 
 <<v4>>
 4 so gebe ich euch Regen zur rechten Zeit; die Erde liefert ihren
@@ -89,12 +79,10 @@ lassen.\\
 \\
 
 <<v14>>
-**** Strafandrohung und Fluch für Ungehorsam: 26,14-38
-     :PROPERTIES:
-     :CUSTOM_ID: strafandrohung-und-fluch-für-ungehorsam-2614-38
-     :END:
+* Strafandrohung und Fluch für Ungehorsam: 26,14-38
+
 14 Aber wenn ihr auf mich nicht hört und alle diese Gebote nicht
-befolgt, ^{[[#fn4][4]]}
+befolgt, [fn:4]
 
 <<v15>>
 15 wenn ihr meine Satzungen missachtet, meine Vorschriften verabscheut
@@ -149,7 +137,7 @@ eure Mitte und ihr geratet in Feindeshand.
 <<v26>>
 26 Ich entziehe euch dann euren Vorrat an Brot, sodass zehn Frauen euer
 Brot in einem einzigen Backofen backen, dass man euch das Brot abgewogen
-zuteilt und ihr euch nicht satt essen könnt. ^{[[#fn5][5]]}
+zuteilt und ihr euch nicht satt essen könnt. [fn:5]
 
 <<v27>>
 27 Und wenn ihr daraufhin noch immer nicht auf mich hört und mir immer
@@ -181,7 +169,7 @@ Schwert. Euer Land wird zur Wüste und eure Städte werden zu Ruinen.
 <<v34>>
 34 Dann erhält das Land seine Sabbate ersetzt, in der ganzen Zeit der
 Verwüstung, während ihr im Land eurer Feinde seid. Dann hat das Land
-Ruhe und erhält Ersatz für seine Sabbate. ^{[[#fn6][6]]}
+Ruhe und erhält Ersatz für seine Sabbate. [fn:6]
 
 <<v35>>
 35 Während der ganzen Zeit der Verwüstung hat es Sabbatruhe, die es an
@@ -203,10 +191,8 @@ euch.\\
 \\
 
 <<v39>>
-**** Umkehr und Vergebung: 26,39-45
-     :PROPERTIES:
-     :CUSTOM_ID: umkehr-und-vergebung-2639-45
-     :END:
+* Umkehr und Vergebung: 26,39-45
+
 39 Diejenigen von euch, die dann noch überleben, siechen dahin in den
 Ländern eurer Feinde wegen ihrer Sünden, auch wegen der Sünden ihrer
 Väter, sodass sie, gleich ihnen, dahinsiechen.
@@ -245,31 +231,32 @@ habe, um ihr Gott zu sein, ich, der Herr.\\
 \\
 
 <<v46>>
-**** Schluss des Heiligkeitsgesetzes: 26,46
-     :PROPERTIES:
-     :CUSTOM_ID: schluss-des-heiligkeitsgesetzes-2646
-     :END:
+* Schluss des Heiligkeitsgesetzes: 26,46
+
 46 Das sind die Satzungen, Vorschriften und Gesetze, die der Herr
 zwischen sich und den Israeliten auf dem Sinai durch die Vermittlung des
 Mose erlassen hat.\\
 \\
 
-^{[[#fnm1][1]]} ℘ 19,4; Ex 20,4; Dtn 5,8
 
-^{[[#fnm2][2]]} ℘ (3-13) Dtn 28,1-14
+* Footnotes
 
-^{[[#fnm3][3]]} 3-38: Im Alten Orient war es Brauch, Gesetzbücher und
+[fn:1] 19,4 [[file:Lev_19.org::v4][Lev 19,4]]; Ex 20,4 [[file:Ex_20.org::v4][Ex 20,4]]; Dtn 5,8 [[file:Dtn_5.org::v8][Dtn 5,8]]
+
+[fn:2] (3-13) Dtn 28,1-14 [[file:Dtn_28.org::v1][Dtn 28,1-14]]
+
+[fn:3] 3-38: Im Alten Orient war es Brauch, Gesetzbücher und
 Verträge mit Flüchen und Segenssprüchen abzuschließen, um vor
 Missachtung der Gesetze oder vor Vertragsbruch abzuschrecken und zur
 Befolgung der Gesetze oder zur Vertragstreue anzuspornen. So schließt
 auch das «Heiligkeitsgesetz» hier und das ursprüngliche Deuteronomium in
 Dtn 28 mit Segen und Fluch.
 
-^{[[#fnm4][4]]} ℘ (14-38) Dtn 28,15-68
+[fn:4] (14-38) Dtn 28,15-68 [[file:Dtn_28.org::v15][Dtn 28,15-68]]
 
-^{[[#fnm5][5]]} Ich entziehe ihnen ihren Vorrat an Brot, wörtlich: Ich
+[fn:5] Ich entziehe ihnen ihren Vorrat an Brot, wörtlich: Ich
 zerbreche ihnen den Brotstab; gemeint ist der Holzpflock an der Wand,
 auf dem die ringförmigen Brote hängen.
 
-^{[[#fnm6][6]]} Der Vers bezieht sich auf das Sabbatjahr, in dem das
-Ackerland brachliegen, also Ruhe haben sollte (vgl. 25,2-7).
+[fn:6] Der Vers bezieht sich auf das Sabbatjahr, in dem das
+Ackerland brachliegen, also Ruhe haben sollte (vgl. 25,2-7 [[file:Lev_25.org::v2][Lev 25,2-7]]).

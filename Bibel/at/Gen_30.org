@@ -1,26 +1,16 @@
-:PROPERTIES:
-:ID:       58d60de6-643f-416d-8a8b-b580f03debb8
-:END:
-#+STARTUP: fnadjust
-#+STARTUP: showall
-#+STARTUP: logdone
-#+STARTUP: lognotedone
-#+STARTUP: hidestars
-#+OPTIONS: broken-links:t H:6
-#+filetags: :hide:
-#+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur authoryear-ibid
-#+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) NEXT(x) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) CANCELED(c@)
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
-#+TITLE: Gen_30
+#+TITLE: Gen 30 
 #+AUTHOR: Matthias Fuchs
 #+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 10:21]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Gen 30.html
 
 * Gen 30
-:PROPERTIES:
-:CUSTOM_ID: gen-30
-:END:
-
 <<verses>>
 
 <<v1>>
@@ -122,10 +112,8 @@ einen anderen Sohn hinzu.\\
 \\
 
 <<v25>>
-*** Jakobs List gegen Laban: 30,25-43
-:PROPERTIES:
-:CUSTOM_ID: jakobs-list-gegen-laban-3025-43
-:END:
+* Jakobs List gegen Laban: 30,25-43
+
 25 Nachdem Rahel Josef geboren hatte, sagte Jakob zu Laban: Entlass
 mich! Ich will in meine Heimat ziehen.
 

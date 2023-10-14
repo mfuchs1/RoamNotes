@@ -1,32 +1,22 @@
-:PROPERTIES:
-:ID:       6f33ebf6-ef67-4f90-9baa-beac7a46c8df
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Exodus* -- [[file:Ex_1.html][1]] ...
-[[file:Ex_23.html][23]] [[file:Ex_24.html][24]] *25*
-[[file:Ex_26.html][26]] [[file:Ex_27.html][27]] ...
-[[file:Ex_40.html][40]]
-
---------------
-
-* Ex 25
-  :PROPERTIES:
-  :CUSTOM_ID: ex-25
-  :END:
+#+TITLE: Ex 25 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-11 Mi 23:23]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ex 25.html
 
 <<verses>>
 
 <<v1>>
-*** Die Anordnungen für Heiligtum und Kult: 25,1 - 31,17
-    :PROPERTIES:
-    :CUSTOM_ID: die-anordnungen-für-heiligtum-und-kult-251---3117
-    :END:
-**** Das Heiligtum und seine Geräte:
-     :PROPERTIES:
-     :CUSTOM_ID: das-heiligtum-und-seine-geräte
-     :END:
-1 Der Herr sprach zu Mose: ^{[[#fn1][1]]}
+* Die Anordnungen für Heiligtum und Kult: 25,1 - 31,17
+
+* Das Heiligtum und seine Geräte:
+1 Der Herr sprach zu Mose: [fn:1]
 
 <<v2>>
 2 Sag zu den Israeliten, sie sollen für mich eine Abgabe erheben. Von
@@ -40,25 +30,25 @@ Kupfer,
 4 violetten und roten Purpur, Karmesin, Byssus, Ziegenhaare,
 
 <<v5>>
-5 rötliche Widderfelle, Tahaschhäute und Akazienholz; ^{[[#fn2][2]]}
+5 rötliche Widderfelle, Tahaschhäute und Akazienholz; [fn:2]
 
 <<v6>>
 6 Öl für den Leuchter, Balsame für das Salböl und für duftendes
 Räucherwerk;
 
 <<v7>>
-7 Karneolsteine und Ziersteine für Efod und Lostasche. ^{[[#fn3][3]]}
+7 Karneolsteine und Ziersteine für Efod und Lostasche. [fn:3]
 
 <<v8>>
 8 Macht mir ein Heiligtum! Dann werde ich in ihrer Mitte wohnen.
 
 <<v9>>
 9 Genau nach dem Muster der Wohnstätte und aller ihrer Gegenstände, das
-ich dir zeige, sollt ihr es herstellen. ^{[[#fn4][4]]}
+ich dir zeige, sollt ihr es herstellen. [fn:4]
 
 <<v10>>
 10 Macht eine Lade aus Akazienholz, zweieinhalb Ellen lang, anderthalb
-Ellen breit und anderthalb Ellen hoch! ^{[[#fn5][5]]}
+Ellen breit und anderthalb Ellen hoch! [fn:5]
 
 <<v11>>
 11 Überzieh sie innen und außen mit purem Gold und bring daran
@@ -111,7 +101,7 @@ alles sagen, was ich dir für die Israeliten auftragen werde.
 
 <<v23>>
 23 Fertige auch einen Tisch aus Akazienholz an, zwei Ellen lang, eine
-Elle breit und anderthalb Ellen hoch! ^{[[#fn6][6]]}
+Elle breit und anderthalb Ellen hoch! [fn:6]
 
 <<v24>>
 24 Überzieh ihn mit purem Gold und bring daran ringsherum eine
@@ -143,7 +133,7 @@ Aus purem Gold sollst du sie anfertigen.
 <<v31>>
 31 Verfertige auch einen Leuchter aus purem Gold! Der Leuchter, sein
 Gestell, sein Schaft, seine Kelche, Knospen und Blüten sollen aus einem
-Stück getrieben sein. ^{[[#fn7][7]]}
+Stück getrieben sein. [fn:7]
 
 <<v32>>
 32 Von seinen Seiten sollen sechs Arme ausgehen, drei Leuchterarme auf
@@ -182,21 +172,24 @@ Geräte machen.
 40 Sieh zu, dass du ihn nach dem Muster ausführst, das du auf dem Berg
 gesehen hast.
 
-^{[[#fnm1][1]]} ℘ (1-9) 35,4-10
 
-^{[[#fnm2][2]]} Was Tahaschhäute sind, wissen wir nicht; man vermutet,
+* Footnotes
+
+[fn:1] (1-9) 35,4-10
+
+[fn:2] Was Tahaschhäute sind, wissen wir nicht; man vermutet,
 dass es Haut von Meerestieren (Delphinen?) war.
 
-^{[[#fnm3][3]]} Das Efod ist hier ein Kleidungsstück des Priesters.
+[fn:3] Das Efod ist hier ein Kleidungsstück des Priesters.
 Seine Form hat sich im Lauf der Zeit geändert. In Ri 8,24-27 und
 18,14-20 scheint es eher ein Kultobjekt, ein Gottesbild, gewesen zu
 sein.
 
-^{[[#fnm4][4]]} «Wohnstätte» ist in der P-Schicht Ausdruck für das
+[fn:4] «Wohnstätte» ist in der P-Schicht Ausdruck für das
 Zeltheiligtum, das als Wohnstätte Gottes unter dem wandernden Volk galt.
 
-^{[[#fnm5][5]]} ℘ (10-22) 37,1-9
+[fn:5] (10-22) 37,1-9
 
-^{[[#fnm6][6]]} ℘ (23-30) 37,10-16
+[fn:6] (23-30) 37,10-16
 
-^{[[#fnm7][7]]} ℘ (31-40) 37,17-24
+[fn:7] (31-40) 37,17-24

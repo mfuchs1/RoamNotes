@@ -1,15 +1,19 @@
-#+title:      Gen 49
-#+date:       [2023-10-11 Mi 09:12]
-#+filetags:   :at:gen49:
-#+identifier: 20231011T091257
+#+TITLE: Gen 49 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 10:37]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-
-* Gen 49
+#+export_file_name: ~/RoamNotes/exports/Gen 49.html
 
 <<verses>>
 
 <<v1>>
-** Der Segen Jakobs: 49,1-27
+* Der Segen Jakobs: 49,1-27
     
 1 Darauf rief Jakob seine Söhne und sprach: Versammelt euch, dann sage
 ich euch an, was euch begegnet in künftigen Tagen. [fn:1]\\
@@ -173,7 +177,7 @@ Lager. [fn:3] [fn:4]\\
 \\
 
 <<v28>>
-** Jakobs Tod und Begräbnis: 49,28 - 50,13
+* Jakobs Tod und Begräbnis: 49,28 - 50,13
 28 Sie alle sind die zwölf Stämme Israels und das war es, was ihr Vater
 zu ihnen sagte, als er sie segnete. Einen jeden bedachte er mit dem
 Segen, der ihm zukam.
@@ -210,7 +214,7 @@ knapp und verwendet viele schwer verständliche Anspielungen.
 
 [fn:2] (3-27) Dtn 33,6-25 [[file:Dtn_33.org::v6][Dtn 33,6-25]]
 
-[fn:3] 35,22
+[fn:3] 35,22 [[file:Gen_35.org::v22][Gen 35,22]]
 
 [fn:4] Der Erste sollst du nicht bleiben: Er verliert das
 Erstgeburtsrecht. Andere Übersetzungsmöglichkeit: Den Übermut dämpfe!
@@ -218,7 +222,7 @@ Erstgeburtsrecht. Andere Übersetzungsmöglichkeit: Den Übermut dämpfe!
 
 [fn:5] Die Messer sind vielleicht die Beschneidungsmesser, die
 die Sichemiten wehrlos gemacht haben, oder die Schwerter, mit denen die
-Jakob-Söhne die Sichemiten niedergemetzelt haben (vgl. 34,13-26).
+Jakob-Söhne die Sichemiten niedergemetzelt haben (vgl. 34,13-26 [[file:Gen_34.org::v13][Gen 34,13-26]]).
 
 [fn:6] Die Stämme Simeon und Levi sind später in anderen
 Stämmen aufgegangen.
@@ -227,11 +231,12 @@ Stämmen aufgegangen.
 übernimmt. Die Übersetzung ist unsicher.
 
 [fn:8] Wortspiel mit dem Namen Dan, der auch «der, der Recht
-spricht» bedeutet (vgl. 30,6).
+spricht» bedeutet (vgl. 30,6 [[file:Gen_30.org::v6][Gen 30,6]]).
 
 [fn:9] Wortspiel mit dem Namen Gad und dem Zeitwort «drängen»
-(gadád); anders 30,11.
+(gadád); anders 30,11 [[file:Gen_30.org::v11][Gen 30,11]].
 
 [fn:10] Der Sinn des letzten Versteils ist in H unklar.
 
-[fn:11] 23,16-18
+[fn:11] 23,16-18 [[file:Gen_23.org::v16][Gen 23,16-18]]
+

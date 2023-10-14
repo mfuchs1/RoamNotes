@@ -1,33 +1,21 @@
-:PROPERTIES:
-:ID:       e86bb2fe-c202-4b52-b714-9568e5bf4e75
-:END:
-#+STARTUP: fnadjust
-#+STARTUP: showall
-#+STARTUP: logdone
-#+STARTUP: lognotedone
-#+STARTUP: hidestars
-#+OPTIONS: broken-links:t H:6
-#+filetags: :hide:
-#+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur authoryear-ibid
-#+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) NEXT(x) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) CANCELED(c@)
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
-#+TITLE: Gen_18
+#+TITLE: Gen 18 
 #+AUTHOR: Matthias Fuchs
 #+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 10:07]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Gen 18.html
 
-* Gen 18
-:PROPERTIES:
-:CUSTOM_ID: gen-18
-:END:
 
 <<verses>>
 
 <<v1>>
-*** Gott zu Gast bei Abraham: 18,1-33
-:PROPERTIES:
-:CUSTOM_ID: gott-zu-gast-bei-abraham-181-33
-:END:
+* Gott zu Gast bei Abraham: 18,1-33
+
 1 Der Herr erschien Abraham bei den Eichen von Mamre. Abraham saß zur
 Zeit der Mittagshitze am Zelteingang.
 

@@ -1,33 +1,21 @@
-:PROPERTIES:
-:ID:       c742f365-4906-4398-999a-020ed8c67e12
-:END:
-#+STARTUP: fnadjust
-#+STARTUP: showall
-#+STARTUP: logdone
-#+STARTUP: lognotedone
-#+STARTUP: hidestars
-#+OPTIONS: broken-links:t H:6
-#+filetags: :hide:
-#+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur authoryear-ibid
-#+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) NEXT(x) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) CANCELED(c@)
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
-#+TITLE: Gen_4
+#+TITLE: Gen 4 
 #+AUTHOR: Matthias Fuchs
 #+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 09:57]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Gen 4.html
 
 * Gen 4
-:PROPERTIES:
-:CUSTOM_ID: gen-4
-:END:
-
 <<verses>>
 
 <<v1>>
-** Kain und Abel: 4,1-16
-:PROPERTIES:
-:CUSTOM_ID: kain-und-abel-41-16
-:END:
+* Kain und Abel: 4,1-16
+
 1 Adam erkannte Eva, seine Frau; sie wurde schwanger und gebar Kain. Da
 sagte sie: Ich habe einen Mann vom Herrn erworben. [fn:1]
 
@@ -99,10 +87,7 @@ Zeichen, damit ihn keiner erschlage, der ihn finde.
 \\
 
 <<v17>>
-** Die Nachkommen Kains: 4,17-24
-:PROPERTIES:
-:CUSTOM_ID: die-nachkommen-kains-417-24
-:END:
+* Die Nachkommen Kains: 4,17-24
 17 Kain erkannte seine Frau; sie wurde schwanger und gebar Henoch. Kain
 wurde Gründer einer Stadt und benannte sie nach seinem Sohn Henoch. [fn:7]
 
@@ -140,10 +125,7 @@ Eisenhandwerker schmiedete. Die Schwester Tubal-Kajins war Naama.\\
 \\
 
 <<v25>>
-** Die Nachkommen Sets: 4,25 - 5,32
-:PROPERTIES:
-:CUSTOM_ID: die-nachkommen-sets-425---532
-:END:
+* Die Nachkommen Sets: 4,25 - 5,32
 25 Adam erkannte noch einmal seine Frau. Sie gebar einen Sohn und nannte
 ihn Set (Setzling); denn sie sagte: Gott setzte mir anderen Nachwuchs
 ein /\\

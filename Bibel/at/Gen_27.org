@@ -1,33 +1,21 @@
-:PROPERTIES:
-:ID:       4cb0d633-4eec-44e1-9ed2-63b89509e8b6
-:END:
-#+STARTUP: fnadjust
-#+STARTUP: showall
-#+STARTUP: logdone
-#+STARTUP: lognotedone
-#+STARTUP: hidestars
-#+OPTIONS: broken-links:t H:6
-#+filetags: :hide:
-#+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur authoryear-ibid
-#+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) NEXT(x) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) CANCELED(c@)
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
-#+TITLE: Gen_27
+#+TITLE: Gen 27 
 #+AUTHOR: Matthias Fuchs
 #+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 10:19]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Gen 27.html
 
-* Gen 27
-:PROPERTIES:
-:CUSTOM_ID: gen-27
-:END:
 
 <<verses>>
 
 <<v1>>
-*** Der Erstgeburtssegen: 27,1-40
-:PROPERTIES:
-:CUSTOM_ID: der-erstgeburtssegen-271-40
-:END:
+* Der Erstgeburtssegen: 27,1-40
+
 1 Als Isaak alt geworden und seine Augen erloschen waren, sodass er
 nicht mehr sehen konnte, rief er seinen älteren Sohn Esau und sagte zu
 ihm: Mein Sohn! Er antwortete: Hier bin ich.
@@ -215,10 +203,8 @@ musst du wohnen, /\\
 \\
 
 <<v41>>
-*** Jakobs Flucht nach Haran: 27,41 - 28,22
-:PROPERTIES:
-:CUSTOM_ID: jakobs-flucht-nach-haran-2741---2822
-:END:
+* Jakobs Flucht nach Haran: 27,41 - 28,22
+
 41 Esau war dem Jakob Feind wegen des Segens, mit dem ihn sein Vater
 gesegnet hatte, und Esau sagte: Es nähern sich die Tage der Trauer um
 meinen Vater; dann werde ich meinen Bruder Jakob umbringen.

@@ -1,33 +1,21 @@
-:PROPERTIES:
-:ID:       e740c382-f3fb-434c-803a-283cfc565c6c
-:END:
-#+STARTUP: fnadjust
-#+STARTUP: showall
-#+STARTUP: logdone
-#+STARTUP: lognotedone
-#+STARTUP: hidestars
-#+OPTIONS: broken-links:t H:6
-#+filetags: :hide:
-#+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur authoryear-ibid
-#+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) NEXT(x) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) CANCELED(c@)
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
-#+TITLE: Gen_25
+#+TITLE: Gen 25 
 #+AUTHOR: Matthias Fuchs
 #+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 10:16]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Gen 25.html
 
-* Gen 25
-:PROPERTIES:
-:CUSTOM_ID: gen-25
-:END:
 
 <<verses>>
 
 <<v1>>
-*** Die Nachkommen Abrahams: 25,1-6
-:PROPERTIES:
-:CUSTOM_ID: die-nachkommen-abrahams-251-6
-:END:
+* Die Nachkommen Abrahams: 25,1-6
+
 1 Abraham nahm sich noch eine andere Frau, namens Ketura.
 
 <<v2>>
@@ -51,10 +39,8 @@ weit weg von seinem Sohn Isaak.\\
 \\
 
 <<v7>>
-*** Abrahams Tod und Begräbnis: 25,7-11
-:PROPERTIES:
-:CUSTOM_ID: abrahams-tod-und-begräbnis-257-11
-:END:
+* Abrahams Tod und Begräbnis: 25,7-11
+
 7 Das ist die Zahl der Lebensjahre Abrahams: Hundertfünfundsiebzig Jahre
 wurde er alt,
 
@@ -76,10 +62,8 @@ sich beim Brunnen Lahai-Roï nieder.\\
 \\
 
 <<v12>>
-*** Der Stammbaum der Ismaeliter: 25,12-18
-:PROPERTIES:
-:CUSTOM_ID: der-stammbaum-der-ismaeliter-2512-18
-:END:
+* Der Stammbaum der Ismaeliter: 25,12-18
+
 12 Das ist die Geschlechterfolge nach Ismael, dem Sohn Abrahams. Ihn
 hatte die Ägypterin Hagar, die Magd Saras, Abraham geboren.
 
@@ -110,10 +94,8 @@ her.\\
 \\
 
 <<v19>>
-*** Geburt Esaus und Jakobs: 25,19-26
-:PROPERTIES:
-:CUSTOM_ID: geburt-esaus-und-jakobs-2519-26
-:END:
+* Geburt Esaus und Jakobs: 25,19-26
+
 19 Und das ist die Geschlechterfolge nach Isaak, dem Sohn Abrahams:
 Abraham zeugte Isaak.
 
@@ -155,10 +137,8 @@ geboren wurden.\\
 \\
 
 <<v27>>
-*** Verkauf des Erstgeburtsrechts an Jakob: 25,27-34
-:PROPERTIES:
-:CUSTOM_ID: verkauf-des-erstgeburtsrechts-an-jakob-2527-34
-:END:
+* Verkauf des Erstgeburtsrechts an Jakob: 25,27-34
+
 27 Die Knaben wuchsen heran. Esau war ein Mann geworden, der sich auf
 die Jagd verstand, ein Mann des freien Feldes. Jakob dagegen war ein
 untadeliger Mann und blieb bei den Zelten.

@@ -1,18 +1,16 @@
-:PROPERTIES:
-:ID:       e971e2b2-b27d-41f4-b0e0-a52526d94a8c
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Genesis* -- [[file:Gen_1.html][1]] ...
-[[file:Gen_48.html][48]] [[file:Gen_49.html][49]] *50*
-
---------------
+#+TITLE: Gen 50 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 10:38]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Gen 50.html
 
 * Gen 50
-:PROPERTIES:
-  :CUSTOM_ID: gen-50
-  :END:
-
 <<verses>>
 
 <<v1>>
@@ -76,10 +74,7 @@ eigene Grabstätte von dem Hetiter Efron gekauft.\\
 \\
 
 <<v14>>
-**** Josefs letzte Lebensjahre und sein Tod: 50,14-26
-     :PROPERTIES:
-     :CUSTOM_ID: josefs-letzte-lebensjahre-und-sein-tod-5014-26
-     :END:
+* Josefs letzte Lebensjahre und sein Tod: 50,14-26
 14 Nachdem Josef seinen Vater begraben hatte, kehrte er nach Ägypten
 zurück, zusammen mit seinen Brüdern und allen, die mitgezogen waren, um
 seinen Vater zu begraben.
@@ -122,7 +117,7 @@ hundertzehn Jahre alt.
 
 <<v23>>
 23 Er sah noch Efraims Söhne und Enkel. Auch die Söhne Machirs, des
-Sohnes Manasses, kamen auf Josefs Knien zur Welt. ^{[[#fn1][1]]}
+Sohnes Manasses, kamen auf Josefs Knien zur Welt. [fn:1]
 
 <<v24>>
 24 Dann sprach Josef zu seinen Brüdern: Ich muss sterben. Gott wird sich
@@ -139,5 +134,8 @@ dann nehmt meine Gebeine von hier mit hinauf!
 und legte ihn in Ägypten in einen Sarg.\\
 \\
 
-^{[[#fnm1][1]]} Josef nimmt die Kinder Manasses zum Zeichen der Adoption
-unmittelbar nach ihrer Geburt auf seine Knie (vgl. 30,3).
+
+* Footnotes
+
+[fn:1] Josef nimmt die Kinder Manasses zum Zeichen der Adoption
+unmittelbar nach ihrer Geburt auf seine Knie (vgl. 30,3 [[file:Gen_30.org::v3][Gen 30,3]]). 

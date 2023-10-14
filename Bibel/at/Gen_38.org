@@ -1,30 +1,19 @@
-:PROPERTIES:
-:ID:       7537dd91-f19c-4bf6-8a2d-06d472fa251f
-:END:
-#+STARTUP: fnadjust
-#+STARTUP: showall
-#+STARTUP: logdone
-#+STARTUP: lognotedone
-#+STARTUP: hidestars
-#+OPTIONS: broken-links:t H:6
-#+filetags: :hide:
-#+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur authoryear-ibid
-#+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) NEXT(x) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) CANCELED(c@)
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
-#+TITLE: Gen_38
+#+TITLE: Gen 38 
 #+AUTHOR: Matthias Fuchs
 #+EMAIL: matthiasfuchs01@gmail.com
-
-* Gen 38
-:PROPERTIES:
-:CUSTOM_ID: gen-38
-:END:
+#+DATE: [2023-10-12 Do 10:31]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Gen 38.html
 
 <<verses>>
 
 <<v1>>
-*** Die Familiengeschichte Judas: 38,1-30
+* Die Familiengeschichte Judas: 38,1-30
 :PROPERTIES:
 :CUSTOM_ID: die-familiengeschichte-judas-381-30
 :END:

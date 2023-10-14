@@ -1,32 +1,23 @@
-:PROPERTIES:
-:ID:       1f22ac24-69df-4f83-aeb7-89099300a3d2
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Levitikus* -- [[file:Lev_1.html][1]]
-... [[file:Lev_20.html][20]] [[file:Lev_21.html][21]] *22*
-[[file:Lev_23.html][23]] [[file:Lev_24.html][24]] ...
-[[file:Lev_27.html][27]]
+#+TITLE: Lev 22 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 21:32]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Lev 22.html
 
---------------
-
-* Lev 22
-  :PROPERTIES:
-  :CUSTOM_ID: lev-22
-  :END:
 
 <<verses>>
 
 <<v1>>
-*** Weitere Vorschriften für den Genuss und die Darbringung von Opfern:
-22,1-33
-    :PROPERTIES:
-    :CUSTOM_ID: weitere-vorschriften-für-den-genuss-und-die-darbringung-von-opfern-221-33
-    :END:
-**** Der Ausschluss von Priestern vom Genuss der Opfergaben: 22,1-9
-     :PROPERTIES:
-     :CUSTOM_ID: der-ausschluss-von-priestern-vom-genuss-der-opfergaben-221-9
-     :END:
+* Weitere Vorschriften für den Genuss und die Darbringung von Opfern: 22,1-33
+
+* Der Ausschluss von Priestern vom Genuss der Opfergaben: 22,1-9
+
 1 Der Herr sprach zu Mose:
 
 <<v2>>
@@ -67,14 +58,12 @@ dadurch verunreinigen. Ich bin der Herr.
 <<v9>>
 9 Sie sollen auf meine Anordnungen achten und keine Sünde auf sich
 laden; sie sollen sterben, falls sie sie entweihen. Ich, der Herr, bin
-es, der sie heiligt. ^{[[#fn1][1]]}\\
+es, der sie heiligt. [fn:1]\\
 \\
 
 <<v10>>
-**** Der Ausschluss der Laien vom Genuss der Opfergaben: 22,10-16
-     :PROPERTIES:
-     :CUSTOM_ID: der-ausschluss-der-laien-vom-genuss-der-opfergaben-2210-16
-     :END:
+* Der Ausschluss der Laien vom Genuss der Opfergaben: 22,10-16
+
 10 Kein Laie darf Heiliges essen; weder der Hausgenosse eines Priesters
 noch sein Lohnarbeiter darf etwas Heiliges essen.
 
@@ -104,14 +93,12 @@ Herrn darbieten, nicht entweihen.
 <<v16>>
 16 Sie würden den Israeliten Schuld aufladen, die zu einem Schuldopfer
 verpflichtet, wenn sie ihre heiligen Gaben äßen; denn ich bin der Herr,
-der diese Gaben geheiligt hat. ^{[[#fn2][2]]}\\
+der diese Gaben geheiligt hat. [fn:2]\\
 \\
 
 <<v17>>
-**** Die Tauglichkeit der Opfertiere: 22,17-25
-     :PROPERTIES:
-     :CUSTOM_ID: die-tauglichkeit-der-opfertiere-2217-25
-     :END:
+* Die Tauglichkeit der Opfertiere: 22,17-25
+
 17 Der Herr sprach zu Mose:
 
 <<v18>>
@@ -157,16 +144,14 @@ ihnen bewirkt ein Gebrechen; sie würden euch keine Annahme bringen.\\
 \\
 
 <<v26>>
-**** Einzelbestimmungen über Opfertiere: 22,26-30
-     :PROPERTIES:
-     :CUSTOM_ID: einzelbestimmungen-über-opfertiere-2226-30
-     :END:
+* Einzelbestimmungen über Opfertiere: 22,26-30
+
 26 Der Herr sprach zu Mose:
 
 <<v27>>
 27 Wenn ein Rind, ein Schaf oder eine Ziege geboren wird, soll das Junge
 sieben Tage bei seiner Mutter bleiben. Vom achten Tag an ist es als
-Feueropfer für den Herrn annehmbar. ^{[[#fn3][3]]}
+Feueropfer für den Herrn annehmbar. [fn:3]
 
 <<v28>>
 28 Ein Rind oder Schaf sollt ihr nicht an einem Tag zugleich mit seinem
@@ -182,10 +167,8 @@ angenommen werden kann.
 \\
 
 <<v31>>
-**** Schlussmahnung: 22,31-33
-     :PROPERTIES:
-     :CUSTOM_ID: schlussmahnung-2231-33
-     :END:
+* Schlussmahnung: 22,31-33
+
 31 Ihr sollt auf meine Gebote achten und sie befolgen; ich bin der Herr.
 
 <<v32>>
@@ -197,8 +180,10 @@ der Israeliten geheiligt werde; ich, der Herr, bin es, der euch heiligt.
 ich bin der Herr.\\
 \\
 
-^{[[#fnm1][1]]} falls sie sie entweihen: H unklar.
+* Footnotes
 
-^{[[#fnm2][2]]} H ist nicht völlig klar.
+[fn:1] falls sie sie entweihen: H unklar.
 
-^{[[#fnm3][3]]} ℘ Ex 22,29
+[fn:2] H ist nicht völlig klar.
+
+[fn:3] Ex 22,29 [[file:Ex_22.org::v22][Ex 22,29]]

@@ -1,31 +1,23 @@
-:PROPERTIES:
-:ID:       126d58cb-21b9-4b30-85aa-94deea476379
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Levitikus* -- [[file:Lev_1.html][1]]
-... [[file:Lev_16.html][16]] [[file:Lev_17.html][17]] *18*
-[[file:Lev_19.html][19]] [[file:Lev_20.html][20]] ...
-[[file:Lev_27.html][27]]
+#+TITLE: Lev 18 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 15:15]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Lev 18.html
 
---------------
-
-* Lev 18
-  :PROPERTIES:
-  :CUSTOM_ID: lev-18
-  :END:
 
 <<verses>>
 
 <<v1>>
-*** Sexuelle Vorschriften: 18,1-30
-    :PROPERTIES:
-    :CUSTOM_ID: sexuelle-vorschriften-181-30
-    :END:
-**** Einleitung: 18,1-5
-     :PROPERTIES:
-     :CUSTOM_ID: einleitung-181-5
-     :END:
+* Sexuelle Vorschriften: 18,1-30
+
+* Einleitung: 18,1-5
+
 1 Der Herr sprach zu Mose:
 
 <<v2>>
@@ -46,10 +38,8 @@ einhält, wird durch sie leben. Ich bin der Herr.\\
 \\
 
 <<v6>>
-**** Unzucht unter Verwandten: 18,6-18
-     :PROPERTIES:
-     :CUSTOM_ID: unzucht-unter-verwandten-186-18
-     :END:
+* Unzucht unter Verwandten: 18,6-18
+
 6 Niemand von euch darf sich einer Blutsverwandten nähern, um ihre Scham
 zu entblößen. Ich bin der Herr.
 
@@ -110,10 +100,8 @@ die Scham ihrer Schwester entblößt.\\
 \\
 
 <<v19>>
-**** Andere Unzuchtvergehen: 18,19-23
-     :PROPERTIES:
-     :CUSTOM_ID: andere-unzuchtvergehen-1819-23
-     :END:
+* Andere Unzuchtvergehen: 18,19-23
+
 19 Einer Frau, die wegen ihrer Regel unrein ist, darfst du dich nicht
 nähern, um ihre Scham zu entblößen.
 
@@ -123,8 +111,7 @@ dadurch unrein.
 
 <<v21>>
 21 Von deinen Nachkommen darfst du keinen für Moloch darbringen. Du
-darfst den Namen deines Gottes nicht entweihen. Ich bin der Herr.
-^{[[#fn1][1]][[#fn2][2]]}
+darfst den Namen deines Gottes nicht entweihen. Ich bin der Herr. [fn:1] [fn:2]
 
 <<v22>>
 22 Du darfst nicht mit einem Mann schlafen, wie man mit einer Frau
@@ -137,10 +124,8 @@ eine schandbare Tat.\\
 \\
 
 <<v24>>
-**** Schlussmahnung: 18,24-30
-     :PROPERTIES:
-     :CUSTOM_ID: schlussmahnung-1824-30
-     :END:
+* Schlussmahnung: 18,24-30
+
 24 Ihr sollt euch nicht durch all das verunreinigen; denn durch all das
 haben sich die Völker verunreinigt, die ich vor euch vertrieben habe.
 
@@ -171,11 +156,13 @@ Bräuchen, die man vor euch befolgt hat, und verunreinigt euch nicht
 durch sie. Ich bin der Herr, euer Gott.\\
 \\
 
-^{[[#fnm1][1]]} ℘ 20,2-5
 
-^{[[#fnm2][2]]} Kinderopfer waren in außerordentlichen Notsituationen
+* Footnotes
+
+[fn:1] 20,2-5 [[file:Lev_20.org::v2][Lev 20,2-5]]
+
+[fn:2] Kinderopfer waren in außerordentlichen Notsituationen
 bei den Kanaanitern üblich (vgl. die Anmerkung zu Gen 22,1-19). Moloch
 bedeutet eigentlich «König» und ist ein entstellter Beiname für Baal.
-Nach 2 Kön 23,10; Jer 32,35; Ez 16,20-22 ist das Kinderopfer für Moloch
-zur Königszeit auch in Israel und Juda geübt worden, wobei man Kinder
-«durchs Feuer gehen ließ», d. h. verbrannte.
+Nach 2 Kön 23,10 [[file:2.Kön_23.org::v10][2 Kön 23,10]]; Jer 32,35 [[file:Jer_32.org::v35][Jer 32,35]]; Ez 16,20-22 [[file:Ez_16.org::v20][Ez 16,20-22]]
+ist das Kinderopfer für Moloch zur Königszeit auch in Israel und Juda geübt worden, wobei man Kinder «durchs Feuer gehen ließ», d. h. verbrannte.

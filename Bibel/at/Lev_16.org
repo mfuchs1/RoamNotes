@@ -1,36 +1,29 @@
-:PROPERTIES:
-:ID:       43d70b87-57a4-4df2-aa10-fddae5cbe5de
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Levitikus* -- [[file:Lev_1.html][1]]
-... [[file:Lev_14.html][14]] [[file:Lev_15.html][15]] *16*
-[[file:Lev_17.html][17]] [[file:Lev_18.html][18]] ...
-[[file:Lev_27.html][27]]
+#+TITLE: Lev 16 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 15:06]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Lev 16.html
 
---------------
-
-* Lev 16
-  :PROPERTIES:
-  :CUSTOM_ID: lev-16
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Das Ritual für den Versöhnungstag: 16,1-34
-     :PROPERTIES:
-     :CUSTOM_ID: das-ritual-für-den-versöhnungstag-161-34
-     :END:
+* Das Ritual für den Versöhnungstag: 16,1-34
+
 1 Nach dem Tod der beiden Söhne Aarons, die umgekommen waren, als sie
-vor den Herrn hintraten, redete der Herr mit Mose.
-^{[[#fn1][1]][[#fn2][2]]}
+vor den Herrn hintraten, redete der Herr mit Mose. [fn:1] [fn:2]
 
 <<v2>>
 2 Der Herr sprach zu Mose: Sag deinem Bruder Aaron, er soll nicht zu
 jeder beliebigen Zeit das Heiligtum hinter dem Vorhang vor der
 Deckplatte der Lade betreten. Dann wird er nicht sterben, wenn ich über
-der Deckplatte in einer Wolke erscheine. ^{[[#fn3][3]]}
+der Deckplatte in einer Wolke erscheine. [fn:3]
 
 <<v3>>
 3 Aaron darf nur so in das Heiligtum kommen: mit einem Jungstier für ein
@@ -56,7 +49,7 @@ Eingang des Offenbarungszeltes aufstellen.
 
 <<v8>>
 8 Für die beiden Böcke soll er Lose kennzeichnen, ein Los «für den
-Herrn» und ein Los «für Asasel». ^{[[#fn4][4]]}
+Herrn» und ein Los «für Asasel». [fn:4]
 
 <<v9>>
 9 Aaron soll den Bock, für den das Los «für den Herrn» herauskommt,
@@ -186,17 +179,20 @@ Israeliten von allen ihren Sünden entsühnt werden. Und man tat, wie es
 der Herr dem Mose befohlen hatte.\\
 \\
 
-^{[[#fnm1][1]]} ℘ 10,1-5
 
-^{[[#fnm2][2]]} 1-34: Der Versöhnungstag wird am 10. Tag des Monats
+* Footnotes
+
+[fn:1] 10,1-5 [[file:Lev_10.org::v1][Lev 10,1-5]]
+
+[fn:2] 1-34: Der Versöhnungstag wird am 10. Tag des Monats
 Tischri (September/Oktober), fünf Tage vor dem Laubhüttenfest, gefeiert.
 Er ist ein Fasttag und der Tag, an dem der Hohepriester sich, die
 Priester und das Volk für alle Vergehen entsühnt. Nur an diesem Tag darf
-er das Allerheiligste des Tempels betreten (vgl. auch Num 29,7-11).
+er das Allerheiligste des Tempels betreten (vgl. auch Num 29,7-11 [[file:Num_29.org::v7][Num 29,7-11]]).
 
-^{[[#fnm3][3]]} ℘ Ex 25,17-21
+[fn:3] Ex 25,17-21 [[file:Ex_25.org::v17][Ex 25,17-21]]
 
-^{[[#fnm4][4]]} 8.20-22: Der Ritus mit dem Sündenbock für Asasel geht
+[fn:4] 8.20-22: Der Ritus mit dem Sündenbock für Asasel geht
 wohl auf einen alten Brauch zurück, der durch den Jahwekult nicht ganz
 verdrängt werden konnte und darum als symbolische Handlung in das Ritual
 des Versöhnungstags eingebaut wurde. Asasel ist ein Wüstendämon. Alle

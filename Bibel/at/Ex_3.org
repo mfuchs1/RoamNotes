@@ -1,19 +1,17 @@
-:PROPERTIES:
-:ID:       d1a93dd8-e406-48d8-a0e9-df3156941306
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Exodus* -- [[file:Ex_1.html][1]]
-[[file:Ex_2.html][2]] *3* [[file:Ex_4.html][4]] [[file:Ex_5.html][5]]
-... [[file:Ex_40.html][40]]
+#+TITLE: Ex 3 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 09:32]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ex 3.html
 
---------------
 
 * Ex 3
-  :PROPERTIES:
-  :CUSTOM_ID: ex-3
-  :END:
-
 <<verses>>
 
 <<v1>>
@@ -79,7 +77,7 @@ werden sie mich fragen: Wie heißt er? Was soll ich ihnen darauf sagen?
 <<v14>>
 14 Da antwortete Gott dem Mose: Ich bin der «Ich-bin-da». Und er fuhr
 fort: So sollst du zu den Israeliten sagen: Der «Ich-bin-da» hat mich zu
-euch gesandt. ^{[[#fn1][1]]}
+euch gesandt. [fn:1]
 
 <<v15>>
 15 Weiter sprach Gott zu Mose: So sag zu den Israeliten: Jahwe, der Gott
@@ -102,7 +100,7 @@ Hiwiter und Jebusiter, in ein Land, in dem Milch und Honig fließen.
 18 Wenn sie auf dich hören, so geh mit den Ältesten Israels zum König
 von Ägypten; sagt ihm: Jahwe, der Gott der Hebräer, ist uns begegnet.
 Und jetzt wollen wir drei Tagesmärsche weit in die Wüste ziehen und
-Jahwe, unserem Gott, Schlachtopfer darbringen. ^{[[#fn2][2]]}
+Jahwe, unserem Gott, Schlachtopfer darbringen. [fn:2]
 
 <<v19>>
 19 Ich weiß, dass euch der König von Ägypten nicht ziehen lässt, es sei
@@ -122,7 +120,9 @@ wenn ihr wegzieht, werdet ihr nicht mit leeren Händen gehen.
 goldene Geräte und Kleider verlangen. Übergebt sie euren Söhnen und
 Töchtern und plündert so die Ägypter aus!
 
-^{[[#fnm1][1]]} 14f: Im Hebräischen ist «Jahwe» eine Zeitwortform in
+* Footnotes
+
+[fn:1] 14f: Im Hebräischen ist «Jahwe» eine Zeitwortform in
 der 3. Person Einzahl, etwa «er ist da»; da hier Gott von sich selbst in
 der 1. Person redet, gebraucht er das Zeitwort in der Ich-Form: Ich bin
 da. Für «Jahwe» werden allerdings auch andere Erklärungen versucht, von
@@ -130,7 +130,7 @@ denen noch am ehesten zutreffen könnte: Er setzt ins Dasein. Zur
 Umschreibung des Gottesnamens Jahwe mit «der Herr» vgl. die Anmerkung zu
 Gen 4,26.
 
-^{[[#fnm2][2]]} Hier und an ähnlichen Stellen, wo der Name Jahwe im
+[fn:2] Hier und an ähnlichen Stellen, wo der Name Jahwe im
 Gespräch mit fremden Völkern gebraucht wird, ist die Umschreibung mit
 «der Herr» nicht angebracht, weil die nicht israelitischen Völker den
 Gott Israels nicht als Herrn anerkennen und weil sie für ihre Götter

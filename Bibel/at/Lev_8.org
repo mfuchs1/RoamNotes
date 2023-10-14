@@ -1,32 +1,24 @@
-:PROPERTIES:
-:ID:       c70d2cdd-a674-40e7-aade-78068e9d9399
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Levitikus* -- [[file:Lev_1.html][1]]
-... [[file:Lev_6.html][6]] [[file:Lev_7.html][7]] *8*
-[[file:Lev_9.html][9]] [[file:Lev_10.html][10]] ...
-[[file:Lev_27.html][27]]
+#+TITLE: Lev 8 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 14:29]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Lev 8.html
 
---------------
-
-* Lev 8
-  :PROPERTIES:
-  :CUSTOM_ID: lev-8
-  :END:
 
 <<verses>>
 
 <<v1>>
-** Die Priestergesetze: 8,1 - 10,20
-   :PROPERTIES:
-   :CUSTOM_ID: die-priestergesetze-81---1020
-   :END:
-**** Die Priesterweihe: 8,1-36
-     :PROPERTIES:
-     :CUSTOM_ID: die-priesterweihe-81-36
-     :END:
-1 Der Herr sprach zu Mose: ^{[[#fn1][1]][[#fn2][2]]}
+* Die Priestergesetze: 8,1 - 10,20
+
+* Die Priesterweihe: 8,1-36
+
+1 Der Herr sprach zu Mose: [fn:1] [fn:2]
 
 <<v2>>
 2 Nimm Aaron und seine Söhne, die Gewänder, das Salböl, den Stier für
@@ -50,7 +42,7 @@ versammelte sich am Eingang des Offenbarungszeltes.
 <<v7>>
 7 Er legte ihm das Gewand an, gürtete ihn mit dem Gürtel, bekleidete ihn
 mit dem Obergewand und legte ihm das Efod an. Dann band er ihm die
-Schärpe um, an der er das Efod befestigte. ^{[[#fn3][3]]}
+Schärpe um, an der er das Efod befestigte. [fn:3]
 
 <<v8>>
 8 Er übergab ihm die Lostasche, in die er die Lose Urim und Tummim
@@ -63,7 +55,7 @@ Mose vorgeschrieben hatte.
 
 <<v10>>
 10 Darauf nahm Mose das Salböl und salbte die Wohnstätte und alles, was
-darin war, um sie zu weihen. ^{[[#fn4][4]]}
+darin war, um sie zu weihen. [fn:4]
 
 <<v11>>
 11 Mit dem Öl spritzte er siebenmal gegen den Altar, salbte ihn und alle
@@ -167,7 +159,7 @@ und deren Gewänder.
 31 Mose sagte zu Aaron und seinen Söhnen: Kocht das Fleisch am Eingang
 des Offenbarungszeltes! Ihr sollt es dort essen, ebenso wie das Brot aus
 dem Einsetzungskorb, wie ich es angeordnet habe mit den Worten: Aaron
-und seine Söhne sollen es essen. ^{[[#fn5][5]]}
+und seine Söhne sollen es essen. [fn:5]
 
 <<v32>>
 32 Was vom Fleisch und vom Brot übrig bleibt, sollt ihr verbrennen.
@@ -191,9 +183,12 @@ dann werdet ihr nicht sterben. Denn so ist es mir befohlen worden.
 hatte.\\
 \\
 
-^{[[#fnm1][1]]} ℘ (1-36) Ex 29,1-37
 
-^{[[#fnm2][2]]} 1-10,20: Dass nur Angehörige des Stammes Levi opfern,
+* Footnotes
+
+[fn:1] (1-36) Ex 29,1-37 [[file:Ex_29.org::v1][Ex 29,1-37]]
+
+[fn:2] 1-10,20: Dass nur Angehörige des Stammes Levi opfern,
 hat sich erst in der Königszeit durchgesetzt. Aus Ri 17f erfahren wir
 zwar, dass Leviten als Priester bevorzugt wurden; aus den
 Samuelerzählungen und aus den Nachrichten über die Überführung der
@@ -205,8 +200,8 @@ Stellung und die Weihe des Hohenpriesters oder einer hohepriesterlichen
 Dynastie ist für die Königszeit noch nicht nachweisbar, sondern erst in
 der nachexilischen Zeit zu belegen.
 
-^{[[#fnm3][3]]} ℘ Ex 28,4-43
+[fn:3] Ex 28,4-43 [[file:Ex_28.org::v4][Ex 28,4-43]]
 
-^{[[#fnm4][4]]} Zur Wohnstätte vgl. die Anmerkung zu Ex 25,9.
+[fn:4] Zur Wohnstätte vgl. die Anmerkung zu Ex 25,9 [[file:Ex_25.org::v9][Ex 25,9]].
 
-^{[[#fnm5][5]]} ℘ Ex 29,31-34
+[fn:5] Ex 29,31-34 [[file:Ex_29.org::v31][Ex 29,31-34]]

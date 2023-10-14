@@ -1,26 +1,20 @@
-:PROPERTIES:
-:ID:       b965e11d-ff9e-4fc4-a2dc-b9bd3aa3c82c
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Numeri* -- [[file:Num_1.html][1]]
-[[file:Num_2.html][2]] *3* [[file:Num_4.html][4]] [[file:Num_5.html][5]]
-... [[file:Num_36.html][36]]
-
---------------
-
-* Num 3
-  :PROPERTIES:
-  :CUSTOM_ID: num-3
-  :END:
+#+TITLE: Num 3 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-13 Fr 10:38]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Num 3.html
 
 <<verses>>
 
 <<v1>>
-**** Die Musterung der Priester- und Levitengeschlechter: 3,1 - 4,49
-     :PROPERTIES:
-     :CUSTOM_ID: die-musterung-der-priester--und-levitengeschlechter-31---449
-     :END:
+* Die Musterung der Priester- und Levitengeschlechter: 3,1 - 4,49
+
 1 Das ist die Geschlechterfolge nach Aaron und Mose, zu der Zeit, als
 der Herr mit Mose auf dem Sinai redete.
 
@@ -36,7 +30,7 @@ ins Priesteramt eingesetzt hatte.
 4 Nadab und Abihu waren vor den Augen des Herrn gestorben, als sie in
 der Wüste Sinai dem Herrn ein unrechtmäßiges Feueropfer darbrachten. Sie
 hatten keine Söhne und so versahen dann Eleasar und Itamar unter der
-Aufsicht ihres Vaters Aaron den Priesterdienst. ^{[[#fn1][1]]}
+Aufsicht ihres Vaters Aaron den Priesterdienst. [fn:1]
 
 <<v5>>
 5 Der Herr sprach zu Mose:
@@ -65,7 +59,7 @@ sein.
 zu versehen. Wer unbefugt daran teilnimmt, wird mit dem Tod bestraft.
 
 <<v11>>
-11 Der Herr sprach zu Mose: ^{[[#fn2][2]]}
+11 Der Herr sprach zu Mose: [fn:2]
 
 <<v12>>
 12 Hiermit nehme ich die Leviten als Ersatz für alle erstgeborenen
@@ -190,7 +184,7 @@ Sippen geordnet, betrug 22000.
 <<v40>>
 40 Der Herr sprach zu Mose: Zähle alle männlichen erstgeborenen
 Israeliten, die einen Monat und älter sind, stell ihre Zahl namentlich
-fest! ^{[[#fn3][3]]}
+fest! [fn:3]
 
 <<v41>>
 41 Dann nimm für mich, für mich, den Herrn, die Leviten als Ersatz für
@@ -237,8 +231,10 @@ dem Schekelgewicht des Heiligtums,
 51 und er übergab Aaron und seinen Söhnen das Lösegeld, wie es ihm der
 Herr befohlen hatte.
 
-^{[[#fnm1][1]]} ℘ Lev 10,1-5
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ (11-13) 3,41-45; 8,15-19; Ex 13,11-15; 34,20
+[fn:1] Lev 10,1-5 [[file:Lev_10.org::v1][Lev 10,1-5]]
 
-^{[[#fnm3][3]]} ℘ (40-45) 3,11-13
+[fn:2] (11-13) 3,41-45 [[file:Num_3.org::v41][Num 3,41-45]]; 8,15-19 [[file:Num_8.org][Num 8,15-19]]; Ex 13,11-15 [[file:Ex_13.org][Ex 13,11-15]]; 34,20 [[file:Ex_34.org][Ex 34,20]]
+
+[fn:3] (40-45) 3,11-13 [[file:Num_3.org][Num 3,11-13]]

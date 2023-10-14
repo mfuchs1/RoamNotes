@@ -1,27 +1,21 @@
-:PROPERTIES:
-:ID:       e5461e55-9078-42ea-aaeb-2119597fc7b8
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Numeri* -- [[file:Num_1.html][1]] ...
-[[file:Num_3.html][3]] [[file:Num_4.html][4]] *5* [[file:Num_6.html][6]]
-[[file:Num_7.html][7]] ... [[file:Num_36.html][36]]
-
---------------
-
-* Num 5
-  :PROPERTIES:
-  :CUSTOM_ID: num-5
-  :END:
+#+TITLE: Num 5 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-14 Sa 22:39]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Num 5.html
 
 <<verses>>
 
 <<v1>>
-**** Die Ausweisung der Unreinen: 5,1-4
-     :PROPERTIES:
-     :CUSTOM_ID: die-ausweisung-der-unreinen-51-4
-     :END:
-1 Der Herr sprach zu Mose: ^{[[#fn1][1]]}
+* Die Ausweisung der Unreinen: 5,1-4
+
+1 Der Herr sprach zu Mose: [fn:1]
 
 <<v2>>
 2 Befiehl den Israeliten, jeden aus dem Lager zu schicken, der an
@@ -39,10 +33,8 @@ dem Lager. Wie der Herr es Mose gesagt hatte, so machten sie es.\\
 \\
 
 <<v5>>
-**** Schadenersatz und Abgaben ans Heiligtum: 5,5-10
-     :PROPERTIES:
-     :CUSTOM_ID: schadenersatz-und-abgaben-ans-heiligtum-55-10
-     :END:
+* Schadenersatz und Abgaben ans Heiligtum: 5,5-10
+
 5 Der Herr sprach zu Mose:
 
 <<v6>>
@@ -59,7 +51,7 @@ schuldig geworden ist, noch ein Fünftel dazugeben.
 8 Wenn aber der Anspruchsberechtigte keinen Löser hat, dem der Schuldige
 Ersatz leisten könnte, dann gehört der geschuldete Betrag dem Herrn
 zugunsten des Priesters, ebenso wie der Sühnewidder, mit dem der
-Priester für ihn die Sühne erwirkt. ^{[[#fn2][2]]}
+Priester für ihn die Sühne erwirkt. [fn:2]
 
 <<v9>>
 9 Dem Priester gehören auch alle Weihegeschenke, die die Israeliten zu
@@ -67,14 +59,12 @@ ihm bringen.
 
 <<v10>>
 10 Jeder kann selbst bestimmen, was er als Weihegeschenk geben will; was
-er aber dem Priester gibt, gehört dem Priester. ^{[[#fn3][3]]}\\
+er aber dem Priester gibt, gehört dem Priester. [fn:3]\\
 \\
 
 <<v11>>
-**** Das Eifersuchtsordal: 5,11-31
-     :PROPERTIES:
-     :CUSTOM_ID: das-eifersuchtsordal-511-31
-     :END:
+* Das Eifersuchtsordal: 5,11-31
+
 11 Der Herr sprach zu Mose:
 
 <<v12>>
@@ -135,7 +125,7 @@ Frau antworten: Amen, amen.
 
 <<v23>>
 23 Der Priester aber schreibt diese Flüche auf und wischt die Schrift
-sodann in das bittere Wasser. ^{[[#fn4][4]]}
+sodann in das bittere Wasser. [fn:4]
 
 <<v24>>
 24 Dann gibt er der Frau das bittere, fluchbringende Wasser zu trinken,
@@ -177,16 +167,18 @@ dieses Gesetz auf sie anwendet,
 ihrer Schuld tragen.\\
 \\
 
-^{[[#fnm1][1]]} 1-4: Zur Unreinheit bei Aussatz vgl. die Anmerkung zu
-Lev 13,1-46 und die Einleitung zu Lev. - Alles, was mit dem Tod
+* Footnotes
+
+[fn:1] 1-4: Zur Unreinheit bei Aussatz vgl. die Anmerkung zu
+Lev 13,1-46 ([[file:Lev_13.org::v1][Lev 13,1-46]]) und die Einleitung zu Lev. - Alles, was mit dem Tod
 zusammenhängt, also auch Leichen und Gräber, wird für unrein erklärt, um
 den Totenkult, wie er bei den Nachbarvölkern üblich war, abzuwehren.
 
-^{[[#fnm2][2]]} Zum Löser vgl. die Anmerkung zu Lev 25,25.
+[fn:2] Zum Löser vgl. die Anmerkung zu Lev 25,25 [[file:Lev_25.org::v25][Lev 25,25]].
 
-^{[[#fnm3][3]]} Der Sinn von H ist unklar.
+[fn:3] Der Sinn von H ist unklar.
 
-^{[[#fnm4][4]]} Von Segens- und Fluchformeln erwartet man im Alten
+[fn:4] Von Segens- und Fluchformeln erwartet man im Alten
 Orient, dass von ihnen die Macht ausgeht, das darin Gesagte
 herbeizuführen. Sie gewinnen nach dem Glauben jener Zeit noch an Kraft,
 wenn man sie aufschreibt (vgl. die Anmerkung zu Lev 5,1).

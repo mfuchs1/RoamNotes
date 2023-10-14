@@ -1,19 +1,16 @@
-:PROPERTIES:
-:ID:       ad191b0e-49b7-49ab-a290-edd0c78a67d8
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Exodus* -- [[file:Ex_1.html][1]] ...
-[[file:Ex_15.html][15]] [[file:Ex_16.html][16]] *17*
-[[file:Ex_18.html][18]] [[file:Ex_19.html][19]] ...
-[[file:Ex_40.html][40]]
-
---------------
+#+TITLE: Ex 17 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-11 Mi 22:36]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ex 17.html
 
 * Ex 17
-  :PROPERTIES:
-  :CUSTOM_ID: ex-17
-  :END:
 
 <<verses>>
 
@@ -50,8 +47,7 @@ trinken. Das tat Mose vor den Augen der Ältesten Israels.
 <<v7>>
 7 Den Ort nannte er Massa und Meriba (Probe und Streit), weil die
 Israeliten Streit begonnen und den Herrn auf die Probe gestellt hatten,
-indem sie sagten: Ist der Herr in unserer Mitte oder nicht?
-^{[[#fn1][1]]}
+indem sie sagten: Ist der Herr in unserer Mitte oder nicht? [fn:1]
 
 <<v8>>
 8 Als Amalek kam und in Refidim den Kampf mit Israel suchte,
@@ -92,4 +88,7 @@ Feldzeichen».
 und Amalek von Generation zu Generation.\\
 \\
 
-^{[[#fnm1][1]]} ℘ Num 20,7-13; Dtn 32,51; 33,8; Ps 95,8f; 106,32f
+
+* Footnotes
+
+[fn:1] Num 20,7-13; Dtn 32,51; 33,8; Ps 95,8f; 106,32f

@@ -1,33 +1,21 @@
-:PROPERTIES:
-:ID:       cdf08575-c004-45bc-8551-b1d8c85a303f
-:END:
-#+STARTUP: fnadjust
-#+STARTUP: showall
-#+STARTUP: logdone
-#+STARTUP: lognotedone
-#+STARTUP: hidestars
-#+OPTIONS: broken-links:t H:6
-#+filetags: :hide:
-#+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur authoryear-ibid
-#+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) NEXT(x) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) CANCELED(c@)
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
-#+TITLE: Gen_19
+#+TITLE: Gen 19 
 #+AUTHOR: Matthias Fuchs
 #+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 10:08]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Gen 19.html
 
-* Gen 19
-:PROPERTIES:
-:CUSTOM_ID: gen-19
-:END:
 
 <<verses>>
 
 <<v1>>
-*** Das Gericht über Sodom und die Rettung Lots: 19,1-29
-:PROPERTIES:
-:CUSTOM_ID: das-gericht-über-sodom-und-die-rettung-lots-191-29
-:END:
+* Das Gericht über Sodom und die Rettung Lots: 19,1-29
+
 1 Die beiden Engel kamen am Abend nach Sodom. Lot saß im Stadttor von
 Sodom. Als er sie sah, erhob er sich, trat auf sie zu, warf sich mit dem
 Gesicht zur Erde nieder
@@ -164,10 +152,8 @@ in denen Lot gewohnt hatte, von Grund auf zerstörte.\\
 \\
 
 <<v30>>
-*** Die Stammväter der Moabiter und Ammoniter: 19,30-38
-:PROPERTIES:
-:CUSTOM_ID: die-stammväter-der-moabiter-und-ammoniter-1930-38
-:END:
+* Die Stammväter der Moabiter und Ammoniter: 19,30-38
+
 30 Lot zog von Zoar weiter hinauf und ließ sich mit seinen beiden
 Töchtern im Gebirge nieder. Er fürchtete sich nämlich, in Zoar zu
 bleiben, und wollte lieber mit seinen beiden Töchtern in einer Höhle

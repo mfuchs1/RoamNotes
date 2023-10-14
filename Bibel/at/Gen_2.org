@@ -1,26 +1,17 @@
-:PROPERTIES:
-:ID:       e0d6b425-76ad-4935-96f3-97f37eb1e6ee
-:END:
-#+STARTUP: fnadjust
-#+STARTUP: showall
-#+STARTUP: logdone
-#+STARTUP: lognotedone
-#+STARTUP: hidestars
-#+OPTIONS: broken-links:t H:6
-#+filetags:   :at:gen2:
-#+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur authoryear-ibid
-#+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) NEXT(x) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) CANCELED(c@)
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
-#+title:      Gen 2
+#+TITLE: Gen 2 
 #+AUTHOR: Matthias Fuchs
 #+EMAIL: matthiasfuchs01@gmail.com
-* Gen 2
-:PROPERTIES:
-:CUSTOM_ID: gen-2
-:ID:       Gen-2
-:END:
+#+DATE: [2023-10-12 Do 09:55]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Gen 2.html
 
+
+* Gen 2
 <<verses>>
 
 <<v1>>
@@ -39,11 +30,7 @@ ihm ruhte Gott, nachdem er das ganze Werk der Schöpfung vollendet hatte.
 erschaffen wurden.
 
 <<v4b>>
-** Das Paradies: 2,4b-25
-:PROPERTIES:
-:CUSTOM_ID: das-paradies-24b-25
-:ID:       das-paradies-24b-25
-:END:
+* Das Paradies: 2,4b-25
 4b Zur Zeit, als Gott, der Herr, Erde und Himmel machte, [fn:2] [fn:3]
 
 <<v5>>

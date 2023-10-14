@@ -1,25 +1,20 @@
-:PROPERTIES:
-:ID:       931ebd79-d199-4fd3-a09e-f808599acc19
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Exodus* -- [[file:Ex_1.html][1]] ...
-[[file:Ex_38.html][38]] [[file:Ex_39.html][39]] *40*
+#+TITLE: Ex 40 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 08:58]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ex 40.html
 
---------------
-
-* Ex 40
-  :PROPERTIES:
-  :CUSTOM_ID: ex-40
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Die Weihe des Heiligtums: 40,1-38
-     :PROPERTIES:
-     :CUSTOM_ID: die-weihe-des-heiligtums-401-38
-     :END:
+* Die Weihe des Heiligtums: 40,1-38
 1 Der Herr sprach zu Mose:
 
 <<v2>>
@@ -167,5 +162,4 @@ dem Tag, an dem sie sich erhob.
 <<v38>>
 38 Bei Tag schwebte über der Wohnstätte die Wolke des Herrn, bei Nacht
 aber war an ihr Feuer vor den Augen des ganzen Hauses Israel, solange
-ihre Wanderung dauerte.\\
-\\
+ihre Wanderung dauerte.

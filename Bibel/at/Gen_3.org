@@ -1,33 +1,20 @@
-:PROPERTIES:
-:ID:       962a2ceb-876d-435d-90d8-a7379da9ded8
-:END:
-#+STARTUP: fnadjust
-#+STARTUP: showall
-#+STARTUP: logdone
-#+STARTUP: lognotedone
-#+STARTUP: hidestars
-#+OPTIONS: broken-links:t H:6
-#+filetags: :hide:
-#+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur authoryear-ibid
-#+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) NEXT(x) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) CANCELED(c@)
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
-#+TITLE: Gen_3
+#+TITLE: Gen 3 
 #+AUTHOR: Matthias Fuchs
 #+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 09:56]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Gen 3.html
 
 * Gen 3
-:PROPERTIES:
-:CUSTOM_ID: gen-3
-:END:
-
 <<verses>>
 
 <<v1>>
-** Der Fall des Menschen: 3,1-24
-:PROPERTIES:
-:CUSTOM_ID: der-fall-des-menschen-31-24
-:END:
+* Der Fall des Menschen: 3,1-24
 1 Die Schlange war schlauer als alle Tiere des Feldes, die Gott, der
 Herr, gemacht hatte. Sie sagte zu der Frau: Hat Gott wirklich gesagt:
 Ihr dürft von keinem Baum des Gartens essen? [fn:1] [fn:2]

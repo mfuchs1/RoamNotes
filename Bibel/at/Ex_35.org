@@ -1,50 +1,38 @@
-:PROPERTIES:
-:ID:       8cc29627-c276-4012-93f3-903355238c7c
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Exodus* -- [[file:Ex_1.html][1]] ...
-[[file:Ex_33.html][33]] [[file:Ex_34.html][34]] *35*
-[[file:Ex_36.html][36]] [[file:Ex_37.html][37]] ...
-[[file:Ex_40.html][40]]
+#+TITLE: Ex 35 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 00:08]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ex 35.html
 
---------------
-
-* Ex 35
-  :PROPERTIES:
-  :CUSTOM_ID: ex-35
-  :END:
 
 <<verses>>
 
 <<v1>>
-*** Ausführung der kultischen Anordnungen 35,1 - 40,38
-    :PROPERTIES:
-    :CUSTOM_ID: ausführung-der-kultischen-anordnungen-351---4038
-    :END:
-**** Das Gesetz über den Sabbat: 35,1-3
-     :PROPERTIES:
-     :CUSTOM_ID: das-gesetz-über-den-sabbat-351-3
-     :END:
+* Ausführung der kultischen Anordnungen 35,1 - 40,38
+
+* Das Gesetz über den Sabbat: 35,1-3
 1 Mose versammelte die ganze Gemeinde der Israeliten und sagte zu ihnen:
 Das ist es, was der Herr euch zu tun befohlen hat:
 
 <<v2>>
 2 Sechs Tage soll man arbeiten; der siebte Tag ist heilig, Sabbat,
 Ruhetag zur Ehre des Herrn. Jeder, der an ihm arbeitet, soll mit dem Tod
-bestraft werden. ^{[[#fn1][1]]}
+bestraft werden. [fn:1]
 
 <<v3>>
 3 Am Sabbat sollt ihr in keiner eurer Wohnstätten Feuer anzünden.\\
 \\
 
 <<v4>>
-**** Die Spenden für das Heiligtum: 35,4-29
-     :PROPERTIES:
-     :CUSTOM_ID: die-spenden-für-das-heiligtum-354-29
-     :END:
+* Die Spenden für das Heiligtum: 35,4-29
 4 Mose sagte zur ganzen Gemeinde der Israeliten: Der Herr hat Folgendes
-befohlen: ^{[[#fn2][2]]}
+befohlen: [fn:2]
 
 <<v5>>
 5 Erhebt von euch eine Abgabe für den Herrn! Jeder, den sein Herz dazu
@@ -149,13 +137,9 @@ alle diese Israeliten brachten eine Spende für den Herrn.\\
 \\
 
 <<v30>>
-**** Die Beauftragung von Künstlern und Handwerkern: 35,30 - 36,7
-     :PROPERTIES:
-     :CUSTOM_ID: die-beauftragung-von-künstlern-und-handwerkern-3530---367
-     :END:
+* Die Beauftragung von Künstlern und Handwerkern: 35,30 - 36,7
 30 Dann sagte Mose zu den Israeliten: Seht, der Herr hat Bezalel, den
-Sohn Uris, des Sohnes Hurs, vom Stamm Juda, beim Namen gerufen
-^{[[#fn3][3]]}
+Sohn Uris, des Sohnes Hurs, vom Stamm Juda, beim Namen gerufen [fn:3]
 
 <<v31>>
 31 und ihn mit dem Geist Gottes erfüllt, mit Weisheit, Klugheit und
@@ -178,8 +162,11 @@ Steinschneiders, eines Kunstwebers und eines Buntwirkers in violettem
 und rotem Purpur, Karmesin und Byssus sowie eines Webers. Sie können
 alle Arbeiten ausführen und die Pläne dazu entwerfen.
 
-^{[[#fnm1][1]]} ℘ 20,9f; 31,15; Dtn 5,12-14
 
-^{[[#fnm2][2]]} ℘ (4-29) 25,1-9
+* Footnotes
 
-^{[[#fnm3][3]]} ℘ (30-35) 31,1-11
+[fn:1] 20,9f; 31,15; Dtn 5,12-14
+
+[fn:2] (4-29) 25,1-9
+
+[fn:3] (30-35) 31,1-11

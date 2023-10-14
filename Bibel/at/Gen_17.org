@@ -1,33 +1,21 @@
-:PROPERTIES:
-:ID:       2601e51e-7daa-4cf5-8284-2527ecc0b085
-:END:
-#+STARTUP: fnadjust
-#+STARTUP: showall
-#+STARTUP: logdone
-#+STARTUP: lognotedone
-#+STARTUP: hidestars
-#+OPTIONS: broken-links:t H:6
-#+filetags: :hide:
-#+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur authoryear-ibid
-#+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) NEXT(x) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) CANCELED(c@)
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
-#+TITLE: Gen_17
+#+TITLE: Gen 17 
 #+AUTHOR: Matthias Fuchs
 #+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 10:07]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Gen 17.html
 
-* Gen 17
-:PROPERTIES:
-:CUSTOM_ID: gen-17
-:END:
 
 <<verses>>
 
 <<v1>>
-*** Die Beschneidung als Bundeszeichen: 17,1-27
-:PROPERTIES:
-:CUSTOM_ID: die-beschneidung-als-bundeszeichen-171-27
-:END:
+* Die Beschneidung als Bundeszeichen: 17,1-27
+
 1 Als Abram neunundneunzig Jahre alt war, erschien ihm der Herr und
 sprach zu ihm: Ich bin Gott, der Allmächtige. Geh deinen Weg vor mir und
 sei rechtschaffen!

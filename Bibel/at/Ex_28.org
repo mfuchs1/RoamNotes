@@ -1,30 +1,23 @@
-:PROPERTIES:
-:ID:       a38edf7e-4f7b-49d5-9867-49b52a4bc0b5
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Exodus* -- [[file:Ex_1.html][1]] ...
-[[file:Ex_26.html][26]] [[file:Ex_27.html][27]] *28*
-[[file:Ex_29.html][29]] [[file:Ex_30.html][30]] ...
-[[file:Ex_40.html][40]]
-
---------------
+#+TITLE: Ex 28 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-11 Mi 23:43]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ex 28.html
 
 * Ex 28
-  :PROPERTIES:
-  :CUSTOM_ID: ex-28
-  :END:
-
 <<verses>>
 
 <<v1>>
-**** Die Priestergewänder: 28,1-43
-     :PROPERTIES:
-     :CUSTOM_ID: die-priestergewänder-281-43
-     :END:
+* Die Priestergewänder: 28,1-43
 1 Lass aus der Mitte der Israeliten deinen Bruder Aaron und mit ihm auch
 seine Söhne zu dir kommen, damit sie mir als Priester dienen, Aaron mit
-Nadab, Abihu, Eleasar und Itamar, den Söhnen Aarons. ^{[[#fn1][1]]}
+Nadab, Abihu, Eleasar und Itamar, den Söhnen Aarons. [fn:1]
 
 <<v2>>
 2 Lass für deinen Bruder Aaron heilige Gewänder anfertigen, die ihm zur
@@ -47,8 +40,7 @@ verwenden.
 
 <<v6>>
 6 Das Efod sollen sie als Kunstweberarbeit herstellen, aus Gold,
-violettem und rotem Purpur, Karmesin und gezwirntem Byssus.
-^{[[#fn2][2]]}
+violettem und rotem Purpur, Karmesin und gezwirntem Byssus. [fn:2]
 
 <<v7>>
 7 Es soll zwei miteinander verbundene Schulterstücke haben, und zwar an
@@ -214,8 +206,10 @@ Offenbarungszelt kommen oder sich dem Altar nähern, um den Dienst am
 Heiligtum zu verrichten; so werden sie keine Schuld auf sich laden und
 nicht sterben. Als ständig einzuhaltende Verpflichtung gelte dies für
 ihn und seine Nachkommen.\\
-\\
 
-^{[[#fnm1][1]]} ℘ (1-43) 39,1-31
 
-^{[[#fnm2][2]]} Zum Efod vgl. die Anmerkung zu 25,7.
+* Footnotes
+
+[fn:1] (1-43) 39,1-31
+
+[fn:2] Zum Efod vgl. die Anmerkung zu 25,7.

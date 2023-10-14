@@ -1,30 +1,23 @@
-:PROPERTIES:
-:ID:       d08e7bf1-de5e-44e2-999f-053d64790de2
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Levitikus* -- [[file:Lev_1.html][1]]
-... [[file:Lev_25.html][25]] [[file:Lev_26.html][26]] *27*
-
---------------
-
-* Lev 27
-  :PROPERTIES:
-  :CUSTOM_ID: lev-27
-  :END:
+#+TITLE: Lev 27 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-13 Fr 10:05]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Lev 27.html
 
 <<verses>>
 
 <<v1>>
-** Die Ablösung von Gelübden und Weihegaben: 27,1-34
-   :PROPERTIES:
-   :CUSTOM_ID: die-ablösung-von-gelübden-und-weihegaben-271-34
-   :END:
-**** Bei Personen: 27,1-8
-     :PROPERTIES:
-     :CUSTOM_ID: bei-personen-271-8
-     :END:
-1 Der Herr sprach zu Mose: ^{[[#fn1][1]]}
+* Die Ablösung von Gelübden und Weihegaben: 27,1-34
+
+* Bei Personen: 27,1-8
+
+1 Der Herr sprach zu Mose: [fn:1]
 
 <<v2>>
 2 Rede zu den Israeliten und sag zu ihnen: Will jemand ein Gelübde für
@@ -60,10 +53,8 @@ Gelobende aufbringen kann, feststellen.\\
 \\
 
 <<v9>>
-**** Bei Tieren: 27,9-13
-     :PROPERTIES:
-     :CUSTOM_ID: bei-tieren-279-13
-     :END:
+* Bei Tieren: 27,9-13
+
 9 Handelt es sich um Tiere, die man für den Herrn als Opfergabe
 darbringen kann, so wird jedes Tier, das man dem Herrn gibt, etwas
 Heiliges.
@@ -84,14 +75,12 @@ soll man sich halten.
 
 <<v13>>
 13 Will man es auslösen, so soll man den Schätzwert um ein Fünftel
-erhöhen. ^{[[#fn2][2]]}\\
+erhöhen. [fn:2]\\
 \\
 
 <<v14>>
-**** Bei Häusern: 27,14-15
-     :PROPERTIES:
-     :CUSTOM_ID: bei-häusern-2714-15
-     :END:
+* Bei Häusern: 27,14-15
+
 14 Will man sein Haus dem Herrn weihen, so soll es der Priester
 schätzen, indem er seinen Durchschnittswert feststellt. Man halte sich
 an die Schätzung des Priesters.
@@ -103,10 +92,8 @@ gehören.\\
 \\
 
 <<v16>>
-**** Bei Grundstücken: 27,16-24
-     :PROPERTIES:
-     :CUSTOM_ID: bei-grundstücken-2716-24
-     :END:
+* Bei Grundstücken: 27,16-24
+
 16 Weiht ein Mann eines von seinen Erbgrundstücken dem Herrn, so soll
 der Schätzwert seines Saatgutes geschätzt werden. Ein Hómer Saatgerste
 entspricht fünfzig Silberschekeln.
@@ -145,23 +132,19 @@ Heiliges für den Herrn.
 
 <<v24>>
 24 Im Jubeljahr soll das Feld an den Verkäufer zurückfallen, dem es als
-ererbter Landbesitz gehört. ^{[[#fn3][3]]}\\
+ererbter Landbesitz gehört. [fn:3]\\
 \\
 
 <<v25>>
-**** Das Maß der Schätzung: 27,25
-     :PROPERTIES:
-     :CUSTOM_ID: das-maß-der-schätzung-2725
-     :END:
+* Das Maß der Schätzung: 27,25
+
 25 Jede Schätzung bei dir soll nach dem Schekelgewicht des Heiligtums
 erfolgen: Zwanzig Gera entsprechen einem Schekel.\\
 \\
 
 <<v26>>
-**** Sonderfälle: 27,26-33
-     :PROPERTIES:
-     :CUSTOM_ID: sonderfälle-2726-33
-     :END:
+* Sonderfälle: 27,26-33
+
 26 Eine Erstgeburt beim Vieh, die als Erstlingsgabe dem Herrn gehört,
 kann man nicht weihen, weder ein Rind noch ein Schaf; denn es gehört
 schon dem Herrn.
@@ -202,21 +185,22 @@ werden.\\
 \\
 
 <<v34>>
-**** Abschluss: 27,34
-     :PROPERTIES:
-     :CUSTOM_ID: abschluss-2734
-     :END:
+* Abschluss: 27,34
+
 34 Das sind die Gebote, die der Herr dem Mose für die Israeliten auf dem
 Sinai gegeben hat.\\
 \\
 
-^{[[#fnm1][1]]} 1-8: Diese Bestimmung geht vielleicht auf einen alten
+
+* Footnotes
+
+[fn:1] 1-8: Diese Bestimmung geht vielleicht auf einen alten
 Brauch zurück, Personen aus der eigenen Sippe aufgrund eines in
 Notzeiten abgelegten Gelübdes dem Heiligtum zu weihen, d. h. zur
 Dienstleistung zu übergeben (vgl. 1 Sam 1,11.23-28). Konnte man sich
 später von der Person nicht trennen, musste man sie gegen Geld auslösen.
 
-^{[[#fnm2][2]]} 13.15.27: Der Zuschlag von einem Fünftel zum Schätzwert
+[fn:2] 13.15.27: Der Zuschlag von einem Fünftel zum Schätzwert
 ist wohl als Buße für die Zurücknahme des Gelübdes gedacht.
 
-^{[[#fnm3][3]]} ℘ 25,23-28
+[fn:3] 25,23-28 [[file:Lev_25.org::v23][Lev 25,23-28]]

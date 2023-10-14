@@ -1,20 +1,16 @@
-:PROPERTIES:
-:ID:       a5e3658b-d1f9-4d7d-abf3-f17902a0f0fa
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Exodus* -- [[file:Ex_1.html][1]] ...
-[[file:Ex_31.html][31]] [[file:Ex_32.html][32]] *33*
-[[file:Ex_34.html][34]] [[file:Ex_35.html][35]] ...
-[[file:Ex_40.html][40]]
-
---------------
+#+TITLE: Ex 33 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 00:04]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ex 33.html
 
 * Ex 33
-  :PROPERTIES:
-  :CUSTOM_ID: ex-33
-  :END:
-
 <<verses>>
 
 <<v1>>
@@ -47,10 +43,7 @@ Dann will ich sehen, was ich mit dir tun kann.
 \\
 
 <<v7>>
-**** Die Erneuerung des Bundes: 33,7 - 34,35
-     :PROPERTIES:
-     :CUSTOM_ID: die-erneuerung-des-bundes-337---3435
-     :END:
+* Die Erneuerung des Bundes: 33,7 - 34,35
 7 Mose nahm das Zelt und schlug es für sich außerhalb des Lagers auf, in
 einiger Entfernung vom Lager. Er nannte es Offenbarungszelt. Wenn einer
 den Herrn aufsuchen wollte, ging er zum Offenbarungszelt vor das Lager

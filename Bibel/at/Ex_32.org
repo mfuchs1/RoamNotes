@@ -1,28 +1,23 @@
-:PROPERTIES:
-:ID:       4e5f2e3d-5fdb-470b-94fb-6bfbe87808ab
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Exodus* -- [[file:Ex_1.html][1]] ...
-[[file:Ex_30.html][30]] [[file:Ex_31.html][31]] *32*
-[[file:Ex_33.html][33]] [[file:Ex_34.html][34]] ...
-[[file:Ex_40.html][40]]
-
---------------
+#+TITLE: Ex 32 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 00:01]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ex 32.html
 
 * Ex 32
-  :PROPERTIES:
-  :CUSTOM_ID: ex-32
-  :END:
-
 <<verses>>
 
 <<v1>>
 1 Als das Volk sah, dass Mose noch immer nicht vom Berg herabkam,
 versammelte es sich um Aaron und sagte zu ihm: Komm, mach uns Götter,
 die vor uns herziehen. Denn dieser Mose, der Mann, der uns aus Ägypten
-heraufgebracht hat - wir wissen nicht, was mit ihm geschehen ist.
-^{[[#fn1][1]]}
+heraufgebracht hat - wir wissen nicht, was mit ihm geschehen ist. [fn:1]
 
 <<v2>>
 2 Aaron antwortete: Nehmt euren Frauen, Söhnen und Töchtern die goldenen
@@ -35,7 +30,7 @@ Aaron.
 <<v4>>
 4 Er nahm sie von ihnen entgegen, zeichnete mit einem Griffel eine
 Skizze und goss danach ein Kalb. Da sagten sie: Das sind deine Götter,
-Israel, die dich aus Ägypten heraufgeführt haben. ^{[[#fn2][2]]}
+Israel, die dich aus Ägypten heraufgeführt haben. [fn:2]
 
 <<v5>>
 5 Als Aaron das sah, baute er vor dem Kalb einen Altar und rief aus:
@@ -80,7 +75,7 @@ das Böse reuen, das du deinem Volk antun wolltest.
 einem Eid bei deinem eigenen Namen zugesichert und gesagt hast: Ich will
 eure Nachkommen zahlreich machen wie die Sterne am Himmel, und: Dieses
 ganze Land, von dem ich gesprochen habe, will ich euren Nachkommen geben
-und sie sollen es für immer besitzen. ^{[[#fn3][3]]}
+und sie sollen es für immer besitzen. [fn:3]
 
 <<v14>>
 14 Da ließ sich der Herr das Böse reuen, das er seinem Volk angedroht
@@ -151,7 +146,7 @@ Tag gegen dreitausend Mann.
 <<v29>>
 29 Dann sagte Mose: Füllt heute eure Hände mit Gaben für den Herrn! Denn
 jeder von euch ist heute gegen seinen Sohn und seinen Bruder vorgegangen
-und der Herr hat Segen auf euch gelegt. ^{[[#fn4][4]]}
+und der Herr hat Segen auf euch gelegt. [fn:4]
 
 <<v30>>
 30 Am folgenden Morgen sprach Mose zum Volk: Ihr habt eine große Sünde
@@ -177,9 +172,12 @@ werde ich über ihre Sünde mit ihnen abrechnen.
 
 <<v35>>
 35 Der Herr schlug das Volk mit Unheil, weil sie das Kalb gemacht
-hatten, das Aaron anfertigen ließ. ^{[[#fn5][5]]}
+hatten, das Aaron anfertigen ließ. [fn:5]
 
-^{[[#fnm1][1]]} 1-35: Der Stier (im AT oft abwertend: Kalb) ist Sinnbild
+
+* Footnotes
+
+[fn:1] 1-35: Der Stier (im AT oft abwertend: Kalb) ist Sinnbild
 der Kraft und der Fruchtbarkeit. Darum werden in der Umwelt Israels die
 Götter oft in Stiergestalt oder mit Hörnern dargestellt. Als später
 Jerobeam die Nordstämme von der Dynastie Davids und vom Kult in
@@ -188,15 +186,15 @@ mit Gold überzogene Stierbilder aufstellen, die zunächst als Symbole für
 den Gott Israels gedacht waren, aber vom Volk bald als Bilder des
 Fruchtbarkeitsgottes Baal verehrt wurden (vgl. 1 Kön 12,26-33).
 
-^{[[#fnm2][2]]} Er zeichnete eine Skizze: Die Bedeutung von H ist
+[fn:2] Er zeichnete eine Skizze: Die Bedeutung von H ist
 umstritten; andere Übersetzungsmöglichkeit: Er formte das Gold in einer
-Gussform und goss daraus . . .
+Gussform und goss daraus ...
 
-^{[[#fnm3][3]]} ℘ Gen 22,17; 26,4; 17,8
+[fn:3] Gen 22,17; 26,4; 17,8
 
-^{[[#fnm4][4]]} Die Hände mit Gaben füllen war ein Ritus der
+[fn:4] Die Hände mit Gaben füllen war ein Ritus der
 Priestereinsetzung. Die Priester mussten dabei Opfergaben in die Hände
 nehmen, die sie Gott darbrachten.
 
-^{[[#fnm5][5]]} gemacht, andere Übersetzungsmöglichkeit (nach den alten
+[fn:5] gemacht, andere Übersetzungsmöglichkeit (nach den alten
 Übersetzungen): verehrt.

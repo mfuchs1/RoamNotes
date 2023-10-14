@@ -1,28 +1,22 @@
-:PROPERTIES:
-:ID:       c032aaf1-15ed-4cf1-bf50-32b91081dfbe
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Levitikus* -- [[file:Lev_1.html][1]]
-... [[file:Lev_11.html][11]] [[file:Lev_12.html][12]] *13*
-[[file:Lev_14.html][14]] [[file:Lev_15.html][15]] ...
-[[file:Lev_27.html][27]]
+#+TITLE: Lev 13 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 14:51]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Lev 13.html
 
---------------
-
-* Lev 13
-  :PROPERTIES:
-  :CUSTOM_ID: lev-13
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Der Aussatz an Menschen: 13,1-46
-     :PROPERTIES:
-     :CUSTOM_ID: der-aussatz-an-menschen-131-46
-     :END:
-1 Der Herr sprach zu Mose und Aaron: ^{[[#fn1][1]]}
+* Der Aussatz an Menschen: 13,1-46
+
+1 Der Herr sprach zu Mose und Aaron: [fn:1]
 
 <<v2>>
 2 Wenn sich auf der Haut eines Menschen eine Schwellung, ein Ausschlag
@@ -245,12 +239,10 @@ abgesondert wohnen, außerhalb des Lagers soll er sich aufhalten.\\
 \\
 
 <<v47>>
-**** Der Aussatz an Kleidern: 13,47-59
-     :PROPERTIES:
-     :CUSTOM_ID: der-aussatz-an-kleidern-1347-59
-     :END:
+* Der Aussatz an Kleidern: 13,47-59
+
 47 Zeigt sich Aussatz auf einem Kleidungsstück, sei es ein Woll- oder
-Leinenkleid, ^{[[#fn2][2]]}
+Leinenkleid, [fn:2]
 
 <<v48>>
 48 ein Gewebe oder Gewirke aus Leinen oder Wolle, oder auf Leder oder
@@ -314,12 +306,15 @@ Leinenkleid, einem Gewebe, Gewirke oder Ledergerät, wenn es gilt, sie
 für rein oder unrein zu erklären.\\
 \\
 
-^{[[#fnm1][1]]} 1-46: Das mit «Aussatz» wiedergegebene hebräische Wort
+
+* Footnotes
+
+[fn:1] 1-46: Das mit «Aussatz» wiedergegebene hebräische Wort
 meint nicht immer die Lepra in unserem Sinn, sondern dürfte auch andere
 Ekel erregende Hautkrankheiten bezeichnen, die man mit Lepra
 verwechselte.
 
-^{[[#fnm2][2]]} 47-59: Da man nur vom äußeren Anschein ausging, galten
+[fn:2] 47-59: Da man nur vom äußeren Anschein ausging, galten
 auch Veränderungen an Kleidern durch Fäulnis oder Verrottung, die
 entsprechenden Krankheitserscheinungen auf der menschlichen Haut
 ähnelten, als lepraverdächtig und ansteckend.

@@ -1,26 +1,16 @@
-:PROPERTIES:
-:ID:       73398827-62fb-4e4c-b29d-845d2221221b
-:END:
-#+STARTUP: fnadjust
-#+STARTUP: showall
-#+STARTUP: logdone
-#+STARTUP: lognotedone
-#+STARTUP: hidestars
-#+OPTIONS: broken-links:t H:6
-#+filetags: :hide:
-#+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur authoryear-ibid
-#+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) NEXT(x) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) CANCELED(c@)
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
-#+TITLE: Gen_47
+#+TITLE: Gen 47 
 #+AUTHOR: Matthias Fuchs
 #+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 10:36]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Gen 47.html
 
 * Gen 47
-:PROPERTIES:
-:CUSTOM_ID: gen-47
-:END:
-
 <<verses>>
 
 <<v1>>
@@ -80,7 +70,7 @@ seines Vaters mit so viel Brot, dass die Kinder genug zu essen hatten.\\
 \\
 
 <<v13>>
-**** Josefs Verwaltung in Ägypten: 47,13-26
+* Josefs Verwaltung in Ägypten: 47,13-26
 :PROPERTIES:
 :CUSTOM_ID: josefs-verwaltung-in-ägypten-4713-26
 :END:
@@ -159,7 +149,7 @@ Pharao.\\
 \\
 
 <<v27>>
-**** Jakobs letzter Wille: 47,27 - 48,22
+* Jakobs letzter Wille: 47,27 - 48,22
 :PROPERTIES:
 :CUSTOM_ID: jakobs-letzter-wille-4727---4822
 :END:

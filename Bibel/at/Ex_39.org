@@ -1,30 +1,23 @@
-:PROPERTIES:
-:ID:       88a29eb6-105e-4b60-95ec-d363a91247f8
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Exodus* -- [[file:Ex_1.html][1]] ...
-[[file:Ex_37.html][37]] [[file:Ex_38.html][38]] *39*
-[[file:Ex_40.html][40]]
+#+TITLE: Ex 39 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 08:57]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ex 39.html
 
---------------
-
-* Ex 39
-  :PROPERTIES:
-  :CUSTOM_ID: ex-39
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Die Anfertigung der Priestergewänder: 39,1-31
-     :PROPERTIES:
-     :CUSTOM_ID: die-anfertigung-der-priestergewänder-391-31
-     :END:
+* Die Anfertigung der Priestergewänder: 39,1-31
 1 Aus violettem und rotem Purpur und aus Karmesin verfertigten sie die
 gewirkten Gewänder für den Dienst im Heiligtum und verfertigten die
-heiligen Gewänder für Aaron, wie es der Herr dem Mose befohlen hatte.
-^{[[#fn1][1]]}
+heiligen Gewänder für Aaron, wie es der Herr dem Mose befohlen hatte. [fn:1]
 
 <<v2>>
 2 Sie stellten das Efod her aus Gold, violettem und rotem Purpur,
@@ -158,10 +151,8 @@ am Turban anzubringen, wie es der Herr dem Mose befohlen hatte.\\
 \\
 
 <<v32>>
-**** Der Abschluss der Arbeiten: 39,32-43
-     :PROPERTIES:
-     :CUSTOM_ID: der-abschluss-der-arbeiten-3932-43
-     :END:
+* Der Abschluss der Arbeiten: 39,32-43
+
 32 So wurde das ganze Werk für die Wohnstätte des Offenbarungszeltes
 vollendet; die Israeliten taten genau so, wie es der Herr dem Mose
 befohlen hatte. So machten sie es.
@@ -208,7 +199,9 @@ Israeliten die gesamte Arbeit aus.
 
 <<v43>>
 43 Mose besichtigte das ganze Werk: Sie hatten es gemacht, wie der Herr
-es befohlen hatte. So hatten sie es gemacht und Mose segnete sie.\\
-\\
+es befohlen hatte. So hatten sie es gemacht und Mose segnete sie.
 
-^{[[#fnm1][1]]} ℘ (1-31) 28,1-43
+
+* Footnotes
+
+[fn:1] (1-31) 28,1-43 [[file:Ex_28.org::v1][Ex 28,1-43]]

@@ -1,34 +1,26 @@
-:PROPERTIES:
-:ID:       8cd98015-7161-483b-9f4c-7fc0c3414788
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Levitikus* -- [[file:Lev_1.html][1]]
-... [[file:Lev_22.html][22]] [[file:Lev_23.html][23]] *24*
-[[file:Lev_25.html][25]] [[file:Lev_26.html][26]]
-[[file:Lev_27.html][27]]
-
---------------
-
-* Lev 24
-  :PROPERTIES:
-  :CUSTOM_ID: lev-24
-  :END:
+#+TITLE: Lev 24 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-13 Fr 08:26]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Lev 24.html
 
 <<verses>>
 
 <<v1>>
-**** Einzelbestimmungen über den Leuchter und den Tisch für die
-Schaubrote: 24,1-9
-     :PROPERTIES:
-     :CUSTOM_ID: einzelbestimmungen-über-den-leuchter-und-den-tisch-für-die-schaubrote-241-9
-     :END:
+* Einzelbestimmungen über den Leuchter und den Tisch für die Schaubrote: 24,1-9
+
 1 Der Herr sprach zu Mose:
 
 <<v2>>
 2 Befiehl den Israeliten, dass sie dir für den Leuchter reines Öl aus
 zerstoßenen Oliven bringen, damit man ständig eine Lampe brennen lassen
-kann. ^{[[#fn1][1]]}
+kann. [fn:1]
 
 <<v3>>
 3 Im Offenbarungszelt, vor dem Vorhang der Lade, soll Aaron diese Lampe
@@ -42,8 +34,7 @@ ständig in Ordnung halten.
 
 <<v5>>
 5 Du sollst Feinmehl nehmen und daraus zwölf Kuchen backen; aus zwei
-zehntel Efa Feinmehl soll jeder einzelne Kuchen zubereitet sein.
-^{[[#fn2][2]]}
+zehntel Efa Feinmehl soll jeder einzelne Kuchen zubereitet sein. [fn:2]
 
 <<v6>>
 6 Dann sollst du sie in zwei Schichten, sechs in jeder Schicht, auf den
@@ -64,10 +55,8 @@ Anrecht von den Feueropfern des Herrn.\\
 \\
 
 <<v10>>
-**** Einschub: Die Lästerung des Gottesnamens: 24,10-23
-     :PROPERTIES:
-     :CUSTOM_ID: einschub-die-lästerung-des-gottesnamens-2410-23
-     :END:
+* Einschub: Die Lästerung des Gottesnamens: 24,10-23
+
 10 Der Sohn einer Israelitin und eines Ägypters ging unter die
 Israeliten. Im Lager geriet er in Streit mit einem Mann, der Israelit
 war.
@@ -91,7 +80,7 @@ Kopf legen; dann soll ihn die ganze Gemeinde steinigen.
 
 <<v15>>
 15 Sag den Israeliten: Jeder, der seinem Gott flucht, muss die Folgen
-seiner Sünde tragen. ^{[[#fn3][3]]}
+seiner Sünde tragen. [fn:3]
 
 <<v16>>
 16 Wer den Namen des Herrn schmäht, wird mit dem Tod bestraft; die ganze
@@ -99,8 +88,7 @@ Gemeinde soll ihn steinigen. Der Fremde muss ebenso wie der Einheimische
 getötet werden, wenn er den Gottesnamen schmäht.
 
 <<v17>>
-17 Wer einen Menschen erschlägt, wird mit dem Tod bestraft.
-^{[[#fn4][4]]}
+17 Wer einen Menschen erschlägt, wird mit dem Tod bestraft. [fn:4]
 
 <<v18>>
 18 Wer ein Stück Vieh erschlägt, muss es ersetzen: Leben für Leben.
@@ -111,7 +99,7 @@ er getan hat:
 
 <<v20>>
 20 Bruch um Bruch, Auge um Auge, Zahn um Zahn. Der Schaden, den er einem
-Menschen zugefügt hat, soll ihm zugefügt werden. ^{[[#fn5][5]]}
+Menschen zugefügt hat, soll ihm zugefügt werden. [fn:5]
 
 <<v21>>
 21 Wer ein Stück Vieh erschlägt, muss es ersetzen; wer aber einen
@@ -127,15 +115,18 @@ der den Fluch ausgesprochen hatte, aus dem Lager hinaus und steinigten
 ihn. So erfüllten sie, was der Herr dem Mose aufgetragen hatte.\\
 \\
 
-^{[[#fnm1][1]]} ℘ (2-4) Ex 25,31-40
 
-^{[[#fnm2][2]]} Die zwölf Kuchen werden in Ex 25,30 und 1 Sam 21,7
+* Footnotes
+
+[fn:1] (2-4) Ex 25,31-40 [[file:Ex_25.org::v31][Ex 25,31-40]]
+
+[fn:2] Die zwölf Kuchen werden in Ex 25,30 und 1 Sam 21,7
 «Schaubrote» (wörtlich: Brote des Angesichts) genannt, wahrscheinlich in
 dem Sinn, dass Gott sie anschaut und als Zeichen des Dankes Israels
 gnädig annimmt.
 
-^{[[#fnm3][3]]} ℘ Ex 20,7; 22,27
+[fn:3] Ex 20,7 [[file:Ex_20.org::v7][Ex 20,7]]; 22,27 [[file:Ex_22.org::v27][Ex 22,27]]
 
-^{[[#fnm4][4]]} ℘ Ex 20,13; 21,12-20
+[fn:4] Ex 20,13 [[file:Ex_20.org::v13][Ex 20,13]]; 21,12-20 [[file:Ex_21.org::v12][Ex 21,12-20]]
 
-^{[[#fnm5][5]]} ℘ Ex 21,23-25; Dtn 19,21
+[fn:5] Ex 21,23-25 [[file:Ex_21.org::v23][Ex 21,23-25]]; Dtn 19,21 [[file:Dtn_19.org::v21][Dtn 19,21]]

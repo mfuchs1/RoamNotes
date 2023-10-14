@@ -1,26 +1,16 @@
-:PROPERTIES:
-:ID:       405d9a06-d6ab-49d5-9f9d-d26ec5190432
-:END:
-#+STARTUP: fnadjust
-#+STARTUP: showall
-#+STARTUP: logdone
-#+STARTUP: lognotedone
-#+STARTUP: hidestars
-#+OPTIONS: broken-links:t H:6
-#+filetags: :hide:
-#+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur authoryear-ibid
-#+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) NEXT(x) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) CANCELED(c@)
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
-#+TITLE: Gen_32
+#+TITLE: Gen 32 
 #+AUTHOR: Matthias Fuchs
 #+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 10:23]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Gen 32.html
 
 * Gen 32
-:PROPERTIES:
-:CUSTOM_ID: gen-32
-:END:
-
 <<verses>>
 
 <<v1>>
@@ -30,10 +20,8 @@ zurück.\\
 \\
 
 <<v2>>
-*** Die Boten und Geschenke für Esau: 32,2-22
-:PROPERTIES:
-:CUSTOM_ID: die-boten-und-geschenke-für-esau-322-22
-:END:
+* Die Boten und Geschenke für Esau: 32,2-22
+
 2 Auch Jakob zog seines Weges. Da begegneten ihm Engel Gottes.
 
 <<v3>>
@@ -130,10 +118,8 @@ brachte jene Nacht im Lager zu.\\
 \\
 
 <<v23>>
-*** Jakobs Kampf mit Gott: 32,23-33
-:PROPERTIES:
-:CUSTOM_ID: jakobs-kampf-mit-gott-3223-33
-:END:
+* Jakobs Kampf mit Gott: 32,23-33
+
 23 In derselben Nacht stand er auf, nahm seine beiden Frauen, seine
 beiden Mägde sowie seine elf Söhne und durchschritt die Furt des Jabbok.
 

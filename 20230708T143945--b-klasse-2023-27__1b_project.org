@@ -10,6 +10,8 @@
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width \linewidth
 #+OPTIONS: toc:nil
 #+export_file_name: ~/RoamNotes/exports/1b.html
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
 
 * Jahresplanung
 [[denote:20230621T073313][01 Golling]]

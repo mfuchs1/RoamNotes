@@ -1,33 +1,24 @@
-:PROPERTIES:
-:ID:       b410f053-8cf1-4f7e-b2ae-6d5a5fbc4463
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Exodus* -- [[file:Ex_1.html][1]] ...
-[[file:Ex_17.html][17]] [[file:Ex_18.html][18]] *19*
-[[file:Ex_20.html][20]] [[file:Ex_21.html][21]] ...
-[[file:Ex_40.html][40]]
-
---------------
-
-* Ex 19
-  :PROPERTIES:
-  :CUSTOM_ID: ex-19
-  :END:
+#+TITLE: Ex 19 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-11 Mi 22:39]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ex 19.html
 
 <<verses>>
 
 <<v1>>
-** Am Sinai: 19,1 - 40,38
-   :PROPERTIES:
-   :CUSTOM_ID: am-sinai-191---4038
-   :END:
-**** Das Bundesangebot Gottes: 19,1-25
-     :PROPERTIES:
-     :CUSTOM_ID: das-bundesangebot-gottes-191-25
-     :END:
+* Am Sinai: 19,1 - 40,38
+
+* Das Bundesangebot Gottes: 19,1-25
+
 1 Im dritten Monat nach dem Auszug der Israeliten aus Ägypten - am
-heutigen Tag - kamen sie in der Wüste Sinai an. ^{[[#fn1][1]]}
+heutigen Tag - kamen sie in der Wüste Sinai an. [fn:1]
 
 <<v2>>
 2 Sie waren von Refidim aufgebrochen und kamen in die Wüste Sinai. Sie
@@ -50,7 +41,7 @@ die ganze Erde,
 <<v6>>
 6 ihr aber sollt mir als ein Reich von Priestern und als ein heiliges
 Volk gehören. Das sind die Worte, die du den Israeliten mitteilen
-sollst. ^{[[#fn2][2]]}
+sollst. [fn:2]
 
 <<v7>>
 7 Mose ging und rief die Ältesten des Volkes zusammen. Er legte ihnen
@@ -142,8 +133,11 @@ Reihen eine Bresche.
 25 Da ging Mose zum Volk hinunter und sagte es ihnen.\\
 \\
 
-^{[[#fnm1][1]]} am heutigen Tag: Hinweis auf die liturgische Verwendung
+
+* Footnotes
+
+[fn:1] am heutigen Tag: Hinweis auf die liturgische Verwendung
 des Textes an einem bestimmten Tag; die Juden lesen ihn am Wochenfest,
 unserem Pfingstfest.
 
-^{[[#fnm2][2]]} ℘ (5f) 1 Petr 2,9
+[fn:2] (5f) 1 Petr 2,9

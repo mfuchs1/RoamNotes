@@ -1,19 +1,16 @@
-:PROPERTIES:
-:ID:       8a127fa8-b410-4e60-a62e-0df61b9a3f17
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Exodus* -- [[file:Ex_1.html][1]] ...
-[[file:Ex_14.html][14]] [[file:Ex_15.html][15]] *16*
-[[file:Ex_17.html][17]] [[file:Ex_18.html][18]] ...
-[[file:Ex_40.html][40]]
-
---------------
+#+TITLE: Ex 16 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-11 Mi 22:33]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ex 16.html
 
 * Ex 16
-  :PROPERTIES:
-  :CUSTOM_ID: ex-16
-  :END:
 
 <<verses>>
 
@@ -54,7 +51,7 @@ uns murrt?
 8 Weiter sagte Mose: Wenn der Herr euch heute Abend Fleisch zu essen
 gibt und euch am Morgen mit Brot sättigt, wenn er also euer Murren hört,
 mit dem ihr ihn bedrängt, was sind wir dann? Nicht uns galt euer Murren,
-sondern dem Herrn. ^{[[#fn1][1]]}
+sondern dem Herrn. [fn:1]
 
 <<v9>>
 9 Dann sagte Mose zu Aaron: Sag der ganzen Gemeinde der Israeliten:
@@ -84,7 +81,7 @@ Feines, Knuspriges, fein wie Reif, auf der Erde.
 <<v15>>
 15 Als das die Israeliten sahen, sagten sie zueinander: Was ist das?
 Denn sie wussten nicht, was es war. Da sagte Mose zu ihnen: Das ist das
-Brot, das der Herr euch zu essen gibt. ^{[[#fn2][2]]}
+Brot, das der Herr euch zu essen gibt. [fn:2]
 
 <<v16>>
 16 Das ordnet der Herr an: Sammelt davon so viel, wie jeder zum Essen
@@ -153,7 +150,7 @@ verlasse niemand seinen Platz.
 
 <<v31>>
 31 Das Haus Israel nannte das Brot Manna. Es war weiß wie Koriandersamen
-und schmeckte wie Honigkuchen. ^{[[#fn3][3]]}
+und schmeckte wie Honigkuchen. [fn:3]
 
 <<v32>>
 32 Mose sagte: Der Herr ordnet Folgendes an. Ein volles Gomer Manna ist
@@ -172,21 +169,23 @@ Bundesurkunde, damit es dort aufbewahrt würde.
 
 <<v35>>
 35 Die Israeliten aßen vierzig Jahre lang Manna, bis sie in bewohntes
-Land kamen. Sie aßen Manna, bis sie die Grenze von Kanaan erreichten.
-^{[[#fn4][4]]}
+Land kamen. Sie aßen Manna, bis sie die Grenze von Kanaan erreichten. [fn:4]
 
 <<v36>>
 36 Ein Gomer ist der zehnte Teil eines Efa.
 
-^{[[#fnm1][1]]} ℘ Num 11,31-33; Ps 78,26-29; Weish 19,11f
 
-^{[[#fnm2][2]]} ℘ 16,4; Num 11,7-9; Dtn 8,3.16; Ps 78,24; Weish 16,20-28
+* Footnotes
 
-^{[[#fnm3][3]]} Manna bedeutet «Was ist das?» (vgl. V. 15). Man
+[fn:1] Num 11,31-33; Ps 78,26-29; Weish 19,11f
+
+[fn:2] 16,4; Num 11,7-9; Dtn 8,3.16; Ps 78,24; Weish 16,20-28
+
+[fn:3] Manna bedeutet «Was ist das?» (vgl. V. 15). Man
 vergleicht das biblische Manna oft mit dem genießbaren süßlichen Harz
 der auf der Sinaihalbinsel noch heute vorkommenden Manna-Tamariske; doch
 kommt dieses «Manna» in so geringen Mengen vor, dass es nicht für eine
 größere wandernde Gruppe die Nahrung ersetzen kann. Die Bibel versteht
 die Mannagabe als Wunder.
 
-^{[[#fnm4][4]]} ℘ Jos 5,12
+[fn:4] Jos 5,12

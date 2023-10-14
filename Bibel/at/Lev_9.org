@@ -1,27 +1,20 @@
-:PROPERTIES:
-:ID:       86e77ed5-373a-4fa7-a958-a9a33c56994a
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Levitikus* -- [[file:Lev_1.html][1]]
-... [[file:Lev_7.html][7]] [[file:Lev_8.html][8]] *9*
-[[file:Lev_10.html][10]] [[file:Lev_11.html][11]] ...
-[[file:Lev_27.html][27]]
-
---------------
-
-* Lev 9
-  :PROPERTIES:
-  :CUSTOM_ID: lev-9
-  :END:
+#+TITLE: Lev 9 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 14:33]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Lev 9.html
 
 <<verses>>
 
 <<v1>>
-**** Das Weiheopfer des Hohenpriesters: 9,1-24
-     :PROPERTIES:
-     :CUSTOM_ID: das-weiheopfer-des-hohenpriesters-91-24
-     :END:
+* Das Weiheopfer des Hohenpriesters: 9,1-24
+
 1 Am achten Tag rief Mose Aaron, seine Söhne und die Ältesten Israels
 zusammen
 
@@ -52,11 +45,11 @@ euch die Herrlichkeit des Herrn erscheint.
 7 Dann sagte Mose zu Aaron: Tritt zum Altar hin, bring dein Sünd- und
 dein Brandopfer dar und vollzieh so für dich und das Volk die Sühne!
 Dann bring das Opfer des Volkes dar und entsühne es, wie der Herr
-befohlen hat. ^{[[#fn1][1]]}
+befohlen hat. [fn:1]
 
 <<v8>>
 8 Aaron trat an den Altar und schlachtete das Kalb für seine eigene
-Sünde. ^{[[#fn2][2]]}
+Sünde. [fn:2]
 
 <<v9>>
 9 Dann brachten ihm die Söhne Aarons das Blut; er tauchte seinen Finger
@@ -90,17 +83,16 @@ als Sündopfer dar.
 
 <<v16>>
 16 Darauf ließ er das Brandopfer bringen und verfuhr nach der
-Vorschrift. ^{[[#fn3][3]]}
+Vorschrift. [fn:3]
 
 <<v17>>
 17 Er ließ das Speiseopfer bringen, nahm eine Hand voll davon und ließ
-es auf dem Altar in Rauch aufgehen, dazu noch das Morgenbrandopfer.
-^{[[#fn4][4]]}
+es auf dem Altar in Rauch aufgehen, dazu noch das Morgenbrandopfer. [fn:4]
 
 <<v18>>
 18 Dann schlachtete er das Rind und den Widder als Heilsopfer für das
 Volk. Die Söhne Aarons reichten ihm das Blut und er sprengte es ringsum
-an den Altar. ^{[[#fn5][5]]}
+an den Altar. [fn:5]
 
 <<v19>>
 19 Die Fettstücke des Rinds und des Widders, und zwar den Fettschwanz,
@@ -130,13 +122,16 @@ Fettstücke auf dem Altar. Als das ganze Volk das sah, stieß es
 Jubelschreie aus und alle fielen auf ihr Gesicht nieder.\\
 \\
 
-^{[[#fnm1][1]]} für dich und das Volk, vielleicht nach G zu korrigieren:
+
+* Footnotes
+
+[fn:1] für dich und das Volk, vielleicht nach G zu korrigieren:
 für dich und dein Haus.
 
-^{[[#fnm2][2]]} ℘ 8,14-21
+[fn:2] 8,14-21 [[file:Lev_8.org::v14][Lev 8,14-21]]
 
-^{[[#fnm3][3]]} ℘ 1,10-13
+[fn:3] 1,10-13 [[file:Lev_1.org::v10][Lev 1,10-13]]
 
-^{[[#fnm4][4]]} ℘ 2,1-16
+[fn:4] 2,1-16 [[file:Lev_2.org::v1][Lev 2,1-16]]
 
-^{[[#fnm5][5]]} ℘ 3,1-17
+[fn:5] 3,1-17 [[file:Lev_3.org::v1][Lev 3,1-17]]

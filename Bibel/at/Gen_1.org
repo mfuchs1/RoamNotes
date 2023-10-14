@@ -1,18 +1,16 @@
-#+filetags:   :at:gen1:
-#+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur authoryear-ibid
-#+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) NEXT(x) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) CANCELED(c@)
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
-#+title:      Gen 1
+#+TITLE: Gen 1 
 #+AUTHOR: Matthias Fuchs
 #+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 09:54]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Gen 1.html
 
 * Gen 1
-:PROPERTIES:
-  :CUSTOM_ID: gen-1
-  :ID:       Gen-1
-  :END:
-
 Das erste der fünf Bücher Mose heißt in der griechischen und in der
 lateinischen Übersetzung Genesis (Entstehung), weil es von der
 Entstehung der Welt, der Menschheit und des Volkes Israel handelt. Die
@@ -67,16 +65,9 @@ Heil erwählt.\\
 <<verses>>
 
 <<v1>>
-** Die Anfänge: 1,1 - 11,9
-:PROPERTIES:
-   :CUSTOM_ID: die-anfänge-11---119
-   :ID:       die-anfänge-11---119
-   :END:
-*** Die Erschaffung der Welt: 1,1 - 2,4a
-:PROPERTIES:
-     :CUSTOM_ID: die-erschaffung-der-welt-11---24a
-     :ID:       die-erschaffung-der-welt-11---24a
-     :END:
+* Die Anfänge: 1,1 - 11,9
+
+* Die Erschaffung der Welt: 1,1 - 2,4a
 1 Im Anfang schuf Gott Himmel und Erde; [fn:1] [fn:2]
 
 <<v2>>

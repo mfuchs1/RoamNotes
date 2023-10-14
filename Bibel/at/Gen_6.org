@@ -1,37 +1,22 @@
-:PROPERTIES:
-:ID:       494eaa06-f5d3-4342-beea-e164872508f3
-:END:
-#+STARTUP: fnadjust
-#+STARTUP: showall
-#+STARTUP: logdone
-#+STARTUP: lognotedone
-#+STARTUP: hidestars
-#+OPTIONS: broken-links:t H:6
-#+filetags: :hide:
-#+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur authoryear-ibid
-#+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) NEXT(x) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) CANCELED(c@)
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
-#+TITLE: Gen_6
+#+TITLE: Gen 6 
 #+AUTHOR: Matthias Fuchs
 #+EMAIL: matthiasfuchs01@gmail.com
-
-* Gen 6
-:PROPERTIES:
-:CUSTOM_ID: gen-6
-:END:
+#+DATE: [2023-10-12 Do 10:00]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Gen 6.html
 
 <<verses>>
 
 <<v1>>
-** Noach und die Sintflut: 6,1 - 9,29
-:PROPERTIES:
-:CUSTOM_ID: noach-und-die-sintflut-61---929
-:END:
-*** Die Bosheit der Menschen: 6,1-8
-:PROPERTIES:
-:CUSTOM_ID: die-bosheit-der-menschen-61-8
-:END:
+* Noach und die Sintflut: 6,1 - 9,29
+
+* Die Bosheit der Menschen: 6,1-8
+
 1 Als sich die Menschen über die Erde hin zu vermehren begannen und
 ihnen Töchter geboren wurden, [fn:1]
 
@@ -68,10 +53,8 @@ des Himmels, denn es reut mich, sie gemacht zu haben.
 \\
 
 <<v9>>
-*** Gottes Sorge um Noach: 6,9 - 7,16
-:PROPERTIES:
-:CUSTOM_ID: gottes-sorge-um-noach-69---716
-:END:
+* Gottes Sorge um Noach: 6,9 - 7,16
+
 9 Das ist die Geschlechterfolge nach Noach: Noach war ein gerechter,
 untadeliger Mann unter seinen Zeitgenossen; er ging seinen Weg mit Gott.
 

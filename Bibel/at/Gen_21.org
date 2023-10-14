@@ -1,33 +1,21 @@
-:PROPERTIES:
-:ID:       ade2f652-2d82-425f-b0cd-2bb8a7141eaf
-:END:
-#+STARTUP: fnadjust
-#+STARTUP: showall
-#+STARTUP: logdone
-#+STARTUP: lognotedone
-#+STARTUP: hidestars
-#+OPTIONS: broken-links:t H:6
-#+filetags: :hide:
-#+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur authoryear-ibid
-#+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) NEXT(x) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) CANCELED(c@)
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
-#+TITLE: Gen_21
+#+TITLE: Gen 21 
 #+AUTHOR: Matthias Fuchs
 #+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 10:09]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Gen 21.html
 
-* Gen 21
-:PROPERTIES:
-:CUSTOM_ID: gen-21
-:END:
 
 <<verses>>
 
 <<v1>>
-*** Isaaks Geburt: 21,1-8
-:PROPERTIES:
-:CUSTOM_ID: isaaks-geburt-211-8
-:END:
+* Isaaks Geburt: 21,1-8
+
 1 Der Herr nahm sich Saras an, wie er gesagt hatte, und er tat Sara so,
 wie er versprochen hatte. [fn:1]
 
@@ -59,10 +47,8 @@ veranstaltete Abraham ein großes Festmahl.\\
 \\
 
 <<v9>>
-*** Hagar und Ismael: 21,9-21
-:PROPERTIES:
-:CUSTOM_ID: hagar-und-ismael-219-21
-:END:
+* Hagar und Ismael: 21,9-21
+
 9 Eines Tages beobachtete Sara, wie der Sohn, den die Ägypterin Hagar
 Abraham geboren hatte, umhertollte. [fn:3] [fn:4]
 
@@ -120,10 +106,8 @@ Frau aus Ägypten.\\
 \\
 
 <<v22>>
-*** Der Vertrag Abrahams mit Abimelech: 21,22-34
-:PROPERTIES:
-:CUSTOM_ID: der-vertrag-abrahams-mit-abimelech-2122-34
-:END:
+* Der Vertrag Abrahams mit Abimelech: 21,22-34
+
 22 Um jene Zeit sagten Abimelech und sein Feldherr Pichol zu Abraham:
 Gott ist mit dir bei allem, was du unternimmst.
 

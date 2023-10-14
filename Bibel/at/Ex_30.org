@@ -1,25 +1,21 @@
-:PROPERTIES:
-:ID:       7dd0dd0c-27a7-4d63-a1fd-308c811c575c
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Exodus* -- [[file:Ex_1.html][1]] ...
-[[file:Ex_28.html][28]] [[file:Ex_29.html][29]] *30*
-[[file:Ex_31.html][31]] [[file:Ex_32.html][32]] ...
-[[file:Ex_40.html][40]]
-
---------------
+#+TITLE: Ex 30 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-11 Mi 23:48]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ex 30.html
 
 * Ex 30
-  :PROPERTIES:
-  :CUSTOM_ID: ex-30
-  :END:
-
 <<verses>>
 
 <<v1>>
 1 Mach auch einen Altar zum Verbrennen von Räucherwerk; aus Akazienholz
-sollst du ihn machen. ^{[[#fn1][1]]}
+sollst du ihn machen. [fn:1]
 
 <<v2>>
 2 Er soll eine Elle lang, eine Elle breit, also quadratisch, und zwei
@@ -59,7 +55,7 @@ Trankopfer ausgießen.
 10 An seinen Hörnern soll Aaron einmal im Jahr die Sühne für die Sünden
 vollziehen; mit dem Blut des Sühneopfers soll man einmal im Jahr auf ihm
 die Sühne vollziehen von Generation zu Generation. Etwas Hochheiliges
-ist es für den Herrn. ^{[[#fn2][2]]}
+ist es für den Herrn. [fn:2]
 
 <<v11>>
 11 Der Herr sprach zu Mose:
@@ -68,7 +64,7 @@ ist es für den Herrn. ^{[[#fn2][2]]}
 12 Wenn du die Zählung der Israeliten für ihre Veranlagung durchführst,
 soll jeder von ihnen ein Lösegeld für seine Person anlässlich der
 Veranlagung an den Herrn zahlen, damit sie kein Unheil wegen der
-Veranlagung trifft. ^{[[#fn3][3]]}
+Veranlagung trifft. [fn:3]
 
 <<v13>>
 13 Jeder von ihnen, der zur Veranlagung kommt, soll einen halben
@@ -113,7 +109,7 @@ Dies soll für sie eine immer währende Verpflichtung sein, für Aaron und
 seine Nachkommen von Generation zu Generation.
 
 <<v22>>
-22 Der Herr sprach zu Mose: ^{[[#fn4][4]]}
+22 Der Herr sprach zu Mose: [fn:4]
 
 <<v23>>
 23 Nimm dir Balsam von bester Sorte: fünfhundert Schekel erstarrte
@@ -181,12 +177,14 @@ gelten.
 <<v38>>
 38 Wer solches um des Duftes willen herstellt, soll aus seinen
 Stammesgenossen ausgemerzt werden.\\
-\\
 
-^{[[#fnm1][1]]} ℘ (1-5) 37,25-28
 
-^{[[#fnm2][2]]} ℘ Lev 16,18f
+* Footnotes
 
-^{[[#fnm3][3]]} ℘ 38,21
+[fn:1] (1-5) 37,25-28
 
-^{[[#fnm4][4]]} ℘ (22-33) 37,29
+[fn:2] Lev 16,18f
+
+[fn:3] 38,21
+
+[fn:4] (22-33) 37,29

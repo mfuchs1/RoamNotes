@@ -1,18 +1,16 @@
-:PROPERTIES:
-:ID:       ea6807e5-bc33-4525-8e50-49722b4b9184
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Numeri* -- [[file:Num_1.html][1]]
-[[file:Num_2.html][2]] [[file:Num_3.html][3]] *4* [[file:Num_5.html][5]]
-[[file:Num_6.html][6]] ... [[file:Num_36.html][36]]
-
---------------
+#+TITLE: Num 4 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-14 Sa 22:38]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Num 4.html
 
 * Num 4
-  :PROPERTIES:
-  :CUSTOM_ID: num-4
-  :END:
 
 <<verses>>
 

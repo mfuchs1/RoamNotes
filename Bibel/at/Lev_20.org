@@ -1,37 +1,28 @@
-:PROPERTIES:
-:ID:       bcd1c070-7c0a-4866-9741-30f1e5e1ab37
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Levitikus* -- [[file:Lev_1.html][1]]
-... [[file:Lev_18.html][18]] [[file:Lev_19.html][19]] *20*
-[[file:Lev_21.html][21]] [[file:Lev_22.html][22]] ...
-[[file:Lev_27.html][27]]
-
---------------
-
-* Lev 20
-  :PROPERTIES:
-  :CUSTOM_ID: lev-20
-  :END:
+#+TITLE: Lev 20 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 20:46]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Lev 20.html
 
 <<verses>>
 
 <<v1>>
-*** Todeswürdige Verbrechen: 20,1-27
-    :PROPERTIES:
-    :CUSTOM_ID: todeswürdige-verbrechen-201-27
-    :END:
-**** Das Kinderopfer: 20,1-5
-     :PROPERTIES:
-     :CUSTOM_ID: das-kinderopfer-201-5
-     :END:
+* Todeswürdige Verbrechen: 20,1-27
+
+* Das Kinderopfer: 20,1-5
+
 1 Der Herr sprach zu Mose:
 
 <<v2>>
 2 Sag zu den Israeliten: Jeder Mann unter den Israeliten oder unter den
 Fremden in Israel, der eines seiner Kinder dem Moloch gibt, wird mit dem
-Tod bestraft. Die Bürger des Landes sollen ihn steinigen. ^{[[#fn1][1]]}
+Tod bestraft. Die Bürger des Landes sollen ihn steinigen. [fn:1]
 
 <<v3>>
 3 Ich richte mein Angesicht gegen einen solchen und merze ihn aus seinem
@@ -50,13 +41,11 @@ Molochdienst hingeben.\\
 \\
 
 <<v6>>
-**** Die Totenbeschwörung und Wahrsagerei: 20,6-8
-     :PROPERTIES:
-     :CUSTOM_ID: die-totenbeschwörung-und-wahrsagerei-206-8
-     :END:
+* Die Totenbeschwörung und Wahrsagerei: 20,6-8
+
 6 Gegen einen, der sich an Totenbeschwörer und Wahrsager wendet und sich
 mit ihnen abgibt, richte ich mein Angesicht und merze ihn aus seinem
-Volk aus. ^{[[#fn2][2]]}
+Volk aus. [fn:2]
 
 <<v7>>
 7 Ihr sollt euch heiligen, um heilig zu sein; denn ich bin der Herr,
@@ -68,32 +57,26 @@ Herr, der euch heiligt.\\
 \\
 
 <<v9>>
-**** Die Verfluchung der Eltern: 20,9
-     :PROPERTIES:
-     :CUSTOM_ID: die-verfluchung-der-eltern-209
-     :END:
+* Die Verfluchung der Eltern: 20,9
+
 9 Jeder, der seinen Vater oder seine Mutter verflucht, wird mit dem Tod
 bestraft. Da er seinen Vater oder seine Mutter verflucht hat, soll sein
-Blut auf ihn kommen. ^{[[#fn3][3]]}\\
+Blut auf ihn kommen. [fn:3]\\
 \\
 
 <<v10>>
-**** Der Ehebruch: 20,10
-     :PROPERTIES:
-     :CUSTOM_ID: der-ehebruch-2010
-     :END:
+* Der Ehebruch: 20,10
+
 10 Ein Mann, der mit der Frau seines Nächsten die Ehe bricht, wird mit
-dem Tod bestraft, der Ehebrecher samt der Ehebrecherin. ^{[[#fn4][4]]}\\
+dem Tod bestraft, der Ehebrecher samt der Ehebrecherin. [fn:4]\\
 \\
 
 <<v11>>
-**** Unzuchtverbrechen: 20,11-17
-     :PROPERTIES:
-     :CUSTOM_ID: unzuchtverbrechen-2011-17
-     :END:
+* Unzuchtverbrechen: 20,11-17
+
 11 Ein Mann, der mit der Frau seines Vaters schläft, hat die Scham
 seines Vaters entblößt. Beide werden mit dem Tod bestraft; ihr Blut soll
-auf sie kommen. ^{[[#fn5][5]]}
+auf sie kommen. [fn:5]
 
 <<v12>>
 12 Schläft einer mit seiner Schwiegertochter, so werden beide mit dem
@@ -128,10 +111,8 @@ die Folgen seiner Schuld tragen.\\
 \\
 
 <<v18>>
-**** Der Verkehr mit einer Menstruierenden: 20,18
-     :PROPERTIES:
-     :CUSTOM_ID: der-verkehr-mit-einer-menstruierenden-2018
-     :END:
+* Der Verkehr mit einer Menstruierenden: 20,18
+
 18 Ein Mann, der mit einer Frau während ihrer Regel schläft und ihre
 Scham entblößt, hat ihre Blutquelle aufgedeckt und sie hat ihre
 Blutquelle entblößt; daher sollen beide aus ihrem Volk ausgemerzt
@@ -139,10 +120,8 @@ werden.\\
 \\
 
 <<v19>>
-**** Die Unzucht mit Verwandten: 20,19-21
-     :PROPERTIES:
-     :CUSTOM_ID: die-unzucht-mit-verwandten-2019-21
-     :END:
+* Die Unzucht mit Verwandten: 20,19-21
+
 19 Die Scham der Schwester deiner Mutter oder der Schwester deines
 Vaters sollst du nicht entblößen; denn wer seine eigene Verwandte
 entblößt, muss die Folgen seiner Schuld tragen.
@@ -158,13 +137,11 @@ die Scham seines Bruders entblößt; sie sollen kinderlos bleiben.\\
 \\
 
 <<v22>>
-**** Schlussmahnung: 20,22-26
-     :PROPERTIES:
-     :CUSTOM_ID: schlussmahnung-2022-26
-     :END:
+* Schlussmahnung: 20,22-26
+
 22 Ihr sollt auf alle meine Satzungen und Vorschriften achten und sie
 befolgen; dann wird euch das Land nicht ausspeien, in das ich euch
-führe, und ihr werdet dort wohnen können. ^{[[#fn6][6]]}
+führe, und ihr werdet dort wohnen können. [fn:6]
 
 <<v23>>
 23 Ihr sollt euch nicht nach den Bräuchen des Volkes richten, das ich
@@ -189,26 +166,26 @@ von all diesen Völkern ausgesondert, damit ihr mir gehört.\\
 \\
 
 <<v27>>
-**** Nachtrag: Die Totenbeschwörung: 20,27
-     :PROPERTIES:
-     :CUSTOM_ID: nachtrag-die-totenbeschwörung-2027
-     :END:
+* Nachtrag: Die Totenbeschwörung: 20,27
+
 27 Männer oder Frauen, in denen ein Toten- oder ein Wahrsagegeist ist,
 sollen mit dem Tod bestraft werden. Man soll sie steinigen, ihr Blut
-soll auf sie kommen. ^{[[#fn7][7]]}\\
+soll auf sie kommen. [fn:7]\\
 \\
 
-^{[[#fnm1][1]]} Zu den Kinderopfern für Moloch vgl. die Anmerkung zu
-18,21.
 
-^{[[#fnm2][2]]} ℘ 19,31
+* Footnotes
 
-^{[[#fnm3][3]]} ℘ Ex 21,17
+[fn:1] Zu den Kinderopfern für Moloch vgl. die Anmerkung zu 18,21 [[file:Lev_18.org::v21][Lev 18,21]].
 
-^{[[#fnm4][4]]} ℘ Ex 20,14; Dtn 5,18
+[fn:2] 19,31 [[file:Lev_19.org::v31][Lev 19,31]]
 
-^{[[#fnm5][5]]} ℘ (11-17) 18,6-23
+[fn:3] Ex 21,17 [[file:Ex_21.org::v17][Ex 21,17]]
 
-^{[[#fnm6][6]]} ℘ (22-26) 18,24-30
+[fn:4] Ex 20,14 [[file:Ex_20.org::v14][Ex 20,14]]; Dtn 5,18 [[file:Dtn_5.org::v18][Dtn 5,18]]
 
-^{[[#fnm7][7]]} ℘ 19,31
+[fn:5] (11-17) 18,6-23 [[file:Lev_18.org::v6][Lev 18,6-23]]
+
+[fn:6] (22-26) 18,24-30 [[file:Lev_18.org::v24][Lev 18,24-30]]
+
+[fn:7] 19,31 [[file:Lev_19.org::v31][Lev 19,31]]

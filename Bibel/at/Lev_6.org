@@ -1,31 +1,23 @@
-:PROPERTIES:
-:ID:       307f155f-a2e5-4c71-b11c-2d28157cf455
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Levitikus* -- [[file:Lev_1.html][1]]
-... [[file:Lev_4.html][4]] [[file:Lev_5.html][5]] *6*
-[[file:Lev_7.html][7]] [[file:Lev_8.html][8]] ...
-[[file:Lev_27.html][27]]
+#+TITLE: Lev 6 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 14:05]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Lev 6.html
 
---------------
-
-* Lev 6
-  :PROPERTIES:
-  :CUSTOM_ID: lev-6
-  :END:
 
 <<verses>>
 
 <<v1>>
-** Die Opfervorschriften für die Priester: 6,1 - 7,38
-   :PROPERTIES:
-   :CUSTOM_ID: die-opfervorschriften-für-die-priester-61---738
-   :END:
-**** Das Brandopfer: 6,1-6
-     :PROPERTIES:
-     :CUSTOM_ID: das-brandopfer-61-6
-     :END:
+* Die Opfervorschriften für die Priester: 6,1 - 7,38
+
+* Das Brandopfer: 6,1-6
+
 1 Der Herr sprach zu Mose:
 
 <<v2>>
@@ -37,7 +29,7 @@ Feuerstelle des Altars bleiben und das Altarfeuer soll darauf brennen.
 3 Der Priester soll sein Leinengewand anlegen und seinen Körper mit
 einem leinenen Beinkleid bedecken. Dann soll er die Fett-Asche nehmen,
 zu der das Brandopfer auf dem Altar vom Feuer verzehrt wurde, und sie
-neben den Altar schütten. ^{[[#fn1][1]]}
+neben den Altar schütten. [fn:1]
 
 <<v4>>
 4 Dann soll er seine Kleider ablegen, andere anziehen und die Fett-Asche
@@ -55,12 +47,10 @@ verlöschen.\\
 \\
 
 <<v7>>
-**** Das Speiseopfer: 6,7-11
-     :PROPERTIES:
-     :CUSTOM_ID: das-speiseopfer-67-11
-     :END:
+* Das Speiseopfer: 6,7-11
+
 7 Für das Speiseopfer gilt folgendes Gesetz: Einer der Söhne Aarons
-bringt es vor den Herrn zur Vorderseite des Altars, ^{[[#fn2][2]]}
+bringt es vor den Herrn zur Vorderseite des Altars, [fn:2]
 
 <<v8>>
 8 hebt von ihm eine Hand voll Feinmehl, zusammen mit dem Öl und dem
@@ -85,10 +75,8 @@ heilig.\\
 \\
 
 <<v12>>
-**** Das Opfer bei der Priesterweihe: 6,12-16
-     :PROPERTIES:
-     :CUSTOM_ID: das-opfer-bei-der-priesterweihe-612-16
-     :END:
+* Das Opfer bei der Priesterweihe: 6,12-16
+
 12 Der Herr sprach zu Mose:
 
 <<v13>>
@@ -112,11 +100,9 @@ es nicht essen.\\
 \\
 
 <<v17>>
-**** Das Sündopfer: 6,17-23
-     :PROPERTIES:
-     :CUSTOM_ID: das-sündopfer-617-23
-     :END:
-17 Der Herr sprach zu Mose: ^{[[#fn3][3]]}
+* Das Sündopfer: 6,17-23
+
+17 Der Herr sprach zu Mose: [fn:3]
 
 <<v18>>
 18 Sag zu Aaron und seinen Söhnen: Für das Sündopfer gilt folgendes
@@ -147,8 +133,11 @@ Offenbarungszelt gebracht hat, um im Heiligtum die Sühne zu vollziehen;
 es muss im Feuer verbrannt werden.\\
 \\
 
-^{[[#fnm1][1]]} ℘ Ex 28,42f
 
-^{[[#fnm2][2]]} ℘ (7-11) 2,1-13
+* Footnotes
 
-^{[[#fnm3][3]]} ℘ (17-23) 4,1-35
+[fn:1] Ex 28,42f
+
+[fn:2] (7-11) 2,1-13
+
+[fn:3] (17-23) 4,1-35

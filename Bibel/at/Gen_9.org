@@ -1,33 +1,21 @@
-:PROPERTIES:
-:ID:       1bd9dd0e-b582-4a74-98c4-caa24146ba59
-:END:
-#+STARTUP: fnadjust
-#+STARTUP: showall
-#+STARTUP: logdone
-#+STARTUP: lognotedone
-#+STARTUP: hidestars
-#+OPTIONS: broken-links:t H:6
-#+filetags: :hide:
-#+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur authoryear-ibid
-#+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) NEXT(x) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) CANCELED(c@)
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
-#+TITLE: Gen_9
+#+TITLE: Gen 9 
 #+AUTHOR: Matthias Fuchs
 #+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 10:01]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Gen 9.html
 
-* Gen 9
-:PROPERTIES:
-:CUSTOM_ID: gen-9
-:END:
 
 <<verses>>
 
 <<v1>>
-** Gottes Bund mit Noach: 9,1-17
-:PROPERTIES:
-:CUSTOM_ID: gottes-bund-mit-noach-91-17
-:END:
+* Gottes Bund mit Noach: 9,1-17
+
 1 Dann segnete Gott Noach und seine Söhne und sprach zu ihnen: Seid
 fruchtbar, vermehrt euch und bevölkert die Erde! [fn:1]
 
@@ -103,10 +91,8 @@ habe.\\
 \\
 
 <<v18>>
-** Noachs Fluch und Segen: 9,18-29
-:PROPERTIES:
-:CUSTOM_ID: noachs-fluch-und-segen-918-29
-:END:
+* Noachs Fluch und Segen: 9,18-29
+
 18 Die Söhne Noachs, die aus der Arche gekommen waren, sind Sem, Ham und
 Jafet. Ham ist der Vater Kanaans.
 

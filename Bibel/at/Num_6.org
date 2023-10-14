@@ -1,27 +1,21 @@
-:PROPERTIES:
-:ID:       3096aeb9-92bf-4018-8ed0-dd8c9b600f66
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Numeri* -- [[file:Num_1.html][1]] ...
-[[file:Num_4.html][4]] [[file:Num_5.html][5]] *6* [[file:Num_7.html][7]]
-[[file:Num_8.html][8]] ... [[file:Num_36.html][36]]
-
---------------
-
-* Num 6
-  :PROPERTIES:
-  :CUSTOM_ID: num-6
-  :END:
+#+TITLE: Num 6 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-14 Sa 22:42]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Num 6.html
 
 <<verses>>
 
 <<v1>>
-**** Das Nasiräergelübde: 6,1-21
-     :PROPERTIES:
-     :CUSTOM_ID: das-nasiräergelübde-61-21
-     :END:
-1 Der Herr sprach zu Mose: ^{[[#fn1][1]]}
+* Das Nasiräergelübde: 6,1-21
+
+1 Der Herr sprach zu Mose: [fn:1]
 
 <<v2>>
 2 Rede zu den Israeliten und sag zu ihnen: Wenn ein Mann oder eine Frau
@@ -128,10 +122,8 @@ seinen Fall gilt.\\
 \\
 
 <<v22>>
-**** Der Priestersegen: 6,22-27
-     :PROPERTIES:
-     :CUSTOM_ID: der-priestersegen-622-27
-     :END:
+* Der Priestersegen: 6,22-27
+
 22 Der Herr sprach zu Mose:
 
 <<v23>>
@@ -152,7 +144,9 @@ sprecht zu ihnen:
 segnen.\\
 \\
 
-^{[[#fnm1][1]]} 1-21: Berühmte Nasiräer waren Simson (Ri 13,4f.14) und
+* Footnotes
+
+[fn:1] 1-21: Berühmte Nasiräer waren Simson (Ri 13,4f.14) und
 Samuel (1 Sam 1,11). Beide, anscheinend auch Johannes der Täufer (Lk
 1,15; vgl. Mt 11,18), wurden bereits vor ihrer Geburt Gott als Nasiräer
 geweiht. Das Gesetz von Num 6,1-21 sieht Nasiräergelübde von Eltern

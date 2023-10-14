@@ -1,27 +1,21 @@
-:PROPERTIES:
-:ID:       2e319665-371c-41a3-bd94-bf22b6d82e13
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Levitikus* -- [[file:Lev_1.html][1]]
-... [[file:Lev_12.html][12]] [[file:Lev_13.html][13]] *14*
-[[file:Lev_15.html][15]] [[file:Lev_16.html][16]] ...
-[[file:Lev_27.html][27]]
+#+TITLE: Lev 14 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 14:54]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Lev 14.html
 
---------------
-
-* Lev 14
-  :PROPERTIES:
-  :CUSTOM_ID: lev-14
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Die Reinigungsriten für vom Aussatz Geheilte: 14,1-32
-     :PROPERTIES:
-     :CUSTOM_ID: die-reinigungsriten-für-vom-aussatz-geheilte-141-32
-     :END:
+* Die Reinigungsriten für vom Aussatz Geheilte: 14,1-32
+
 1 Der Herr sprach zu Mose:
 
 <<v2>>
@@ -85,7 +79,7 @@ gehört wie ein Sündopfer dem Priester, es ist etwas Hochheiliges.
 14 Der Priester soll etwas Blut vom Schlachtopfer nehmen und es auf das
 rechte Ohrläppchen dessen tun, der sich der Reinigung unterzieht, und
 auf den Daumen seiner rechten Hand und auf die große Zehe seines rechten
-Fußes. ^{[[#fn1][1]]}
+Fußes. [fn:1]
 
 <<v15>>
 15 Dann soll er etwas von dem Log Öl nehmen und auf seinen eigenen
@@ -175,11 +169,9 @@ Mittel für seine Reinigung nicht ausreichen.\\
 \\
 
 <<v33>>
-**** Der Aussatz an Häusern: 14,33-57
-     :PROPERTIES:
-     :CUSTOM_ID: der-aussatz-an-häusern-1433-57
-     :END:
-33 Der Herr sprach zu Mose und Aaron: ^{[[#fn2][2]]}
+* Der Aussatz an Häusern: 14,33-57
+
+33 Der Herr sprach zu Mose und Aaron: [fn:2]
 
 <<v34>>
 34 Wenn ihr in das Land Kanaan kommt, das ich euch zum Besitz gebe, und
@@ -285,7 +277,10 @@ lassen. So entsühnt er das Haus und es ist wieder rein.
 über den Aussatz.\\
 \\
 
-^{[[#fnm1][1]]} ℘ 8,23; Ex 29,20
 
-^{[[#fnm2][2]]} 33-57: Ähnliches wie zum Aussatz an Kleidern ist zum
-Aussatz an Häusern zu sagen (vgl. die Anmerkung zu 13,47-59).
+* Footnotes
+
+[fn:1] 8,23 [[file:Lev_8.org::v23][Lev 8,23]]; Ex 29,20 [[file:Ex_29.org::v20][Ex 29,20]]
+
+[fn:2] 33-57: Ähnliches wie zum Aussatz an Kleidern ist zum
+Aussatz an Häusern zu sagen (vgl. die Anmerkung zu 13,47-59 [[file:Lev_13.org::v47][Lev 13,47-59]]).

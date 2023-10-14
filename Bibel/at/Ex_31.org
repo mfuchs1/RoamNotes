@@ -1,27 +1,20 @@
-:PROPERTIES:
-:ID:       3b37f3e6-78ae-473b-aaad-9e8275144b5a
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Exodus* -- [[file:Ex_1.html][1]] ...
-[[file:Ex_29.html][29]] [[file:Ex_30.html][30]] *31*
-[[file:Ex_32.html][32]] [[file:Ex_33.html][33]] ...
-[[file:Ex_40.html][40]]
+#+TITLE: Ex 31 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-11 Mi 23:50]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ex 31.html
 
---------------
-
-* Ex 31
-  :PROPERTIES:
-  :CUSTOM_ID: ex-31
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Die Beauftragung von Künstlern und Handwerkern: 31,1-11
-     :PROPERTIES:
-     :CUSTOM_ID: die-beauftragung-von-künstlern-und-handwerkern-311-11
-     :END:
+* Die Beauftragung von Künstlern und Handwerkern: 31,1-11
 1 Der Herr sprach zu Mose:
 
 <<v2>>
@@ -66,10 +59,7 @@ alles so ausführen, wie ich es dir befohlen habe.\\
 \\
 
 <<v12>>
-**** Die Feier des Sabbat: 31,12-17
-     :PROPERTIES:
-     :CUSTOM_ID: die-feier-des-sabbat-3112-17
-     :END:
+* Die Feier des Sabbat: 31,12-17
 12 Der Herr sprach zu Mose:
 
 <<v13>>
@@ -85,7 +75,7 @@ Arbeit verrichtet, soll aus seinen Stammesgenossen ausgemerzt werden.
 <<v15>>
 15 Sechs Tage soll man arbeiten; der siebte Tag ist Sabbat, Ruhetag,
 heilig für den Herrn. Jeder, der am Sabbat arbeitet, soll mit dem Tod
-bestraft werden. ^{[[#fn1][1]]}
+bestraft werden. [fn:1]
 
 <<v16>>
 16 Die Israeliten sollen also den Sabbat halten, indem sie ihn von
@@ -94,19 +84,18 @@ Generation zu Generation als einen ewigen Bund halten.
 <<v17>>
 17 Für alle Zeiten wird er ein Zeichen zwischen mir und den Israeliten
 sein. Denn in sechs Tagen hat der Herr Himmel und Erde gemacht; am
-siebten Tag ruhte er und atmete auf. ^{[[#fn2][2]]}\\
+siebten Tag ruhte er und atmete auf. [fn:2]\\
 \\
 
 <<v18>>
-18 ¥
-**** Der Bruch des Bundes: das goldene Kalb:
-     :PROPERTIES:
-     :CUSTOM_ID: der-bruch-des-bundes-das-goldene-kalb
-     :END:
+* Der Bruch des Bundes: das goldene Kalb:
 Nachdem der Herr zu Mose auf dem Berg Sinai alles gesagt hatte, übergab
 er ihm die beiden Tafeln der Bundesurkunde, steinerne Tafeln, auf die
 der Finger Gottes geschrieben hatte.
 
-^{[[#fnm1][1]]} ℘ 20,9f; Dtn 5,12-14
 
-^{[[#fnm2][2]]} ℘ Gen 2,2f
+* Footnotes
+
+[fn:1] 20,9f; Dtn 5,12-14
+
+[fn:2] Gen 2,2f

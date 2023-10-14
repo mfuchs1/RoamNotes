@@ -1,20 +1,17 @@
-:PROPERTIES:
-:ID:       a01095a1-678a-46b4-839e-eed8e8f33750
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Exodus* -- [[file:Ex_1.html][1]] ...
-[[file:Ex_34.html][34]] [[file:Ex_35.html][35]] *36*
-[[file:Ex_37.html][37]] [[file:Ex_38.html][38]] ...
-[[file:Ex_40.html][40]]
+#+TITLE: Ex 36 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 08:45]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ex 36.html
 
---------------
 
 * Ex 36
-  :PROPERTIES:
-  :CUSTOM_ID: ex-36
-  :END:
-
 <<verses>>
 
 <<v1>>
@@ -49,18 +46,13 @@ So bewog man das Volk, nichts mehr zu bringen.
 
 <<v7>>
 7 Es war Material mehr als genug vorhanden, um alle Arbeiten
-durchzuführen.\\
-\\
+durchzuführen.
 
 <<v8>>
-**** Die Ausstattung des Heiligtums: 36,8 - 38,31
-     :PROPERTIES:
-     :CUSTOM_ID: die-ausstattung-des-heiligtums-368---3831
-     :END:
+* Die Ausstattung des Heiligtums: 36,8 - 38,31
 8 Die Kunstverständigen unter den Arbeitern verfertigten die Wohnstätte
 aus zehn Zelttüchern: aus gezwirntem Byssus, violettem und rotem Purpur
-und Karmesin, mit Kerubimfiguren; als Kunstweberarbeit machten sie es.
-^{[[#fn1][1]]}
+und Karmesin, mit Kerubimfiguren; als Kunstweberarbeit machten sie es. [fn:1]
 
 <<v9>>
 9 Ein Zelttuch war achtundzwanzig Ellen lang und vier Ellen breit; alle
@@ -86,7 +78,7 @@ Haken, eines mit dem andern; so wurde die Wohnstätte ein Ganzes.
 
 <<v14>>
 14 Er machte Decken aus Ziegenhaar für das Zelt über der Wohnstätte; elf
-Decken stellte er her. ^{[[#fn2][2]]}
+Decken stellte er her. [fn:2]
 
 <<v15>>
 15 Eine Decke war dreißig Ellen lang und vier Ellen breit; die elf
@@ -111,8 +103,7 @@ damit es ein Ganzes ergäbe.
 Widderfellen und darüber eine Decke aus Tahaschhäuten.
 
 <<v20>>
-20 Er machte für die Wohnstätte Bretter aus Akazienholz zum Aufstellen.
-^{[[#fn3][3]]}
+20 Er machte für die Wohnstätte Bretter aus Akazienholz zum Aufstellen. [fn:3]
 
 <<v21>>
 21 Jedes Brett war zehn Ellen lang und anderthalb Ellen breit;
@@ -157,7 +148,7 @@ je zwei Sockel als Unterlage für ein Brett.
 
 <<v31>>
 31 Er verfertigte Querlatten aus Akazienholz, fünf für die Bretter auf
-der einen Seite der Wohnstätte, ^{[[#fn4][4]]}
+der einen Seite der Wohnstätte, [fn:4]
 
 <<v32>>
 32 fünf für die Bretter auf der zweiten Seite der Wohnstätte und fünf
@@ -174,7 +165,7 @@ Querlatten aufnahmen; auch die Querlatten überzog er mit Gold.
 <<v35>>
 35 Er machte einen Vorhang aus violettem und rotem Purpur, Karmesin und
 gezwirntem Byssus; er machte ihn in Kunstweberarbeit, mit
-Kerubimfiguren. ^{[[#fn5][5]]}
+Kerubimfiguren. [fn:5]
 
 <<v36>>
 36 Er machte für ihn vier Akaziensäulen, überzog sie mit Gold - auch die
@@ -188,12 +179,15 @@ rotem Purpur, Karmesin und gezwirntem Byssus in Buntwirkerarbeit
 38 sowie seine fünf Säulen mit ihren Nägeln und überzog ihre Kapitelle
 und ihre Querstangen mit Gold; ihre fünf Sockel waren aus Kupfer.
 
-^{[[#fnm1][1]]} ℘ (8-13) 26,1-6
 
-^{[[#fnm2][2]]} ℘ (14-19) 26,7-14
+* Footnotes
 
-^{[[#fnm3][3]]} ℘ (20-30) 26,15-25
+[fn:1] (8-13) 26,1-6 [[file:Ex_26.org::v1][Ex 26,1-6]]
 
-^{[[#fnm4][4]]} ℘ (31-34) 26,26-30
+[fn:2] (14-19) 26,7-14 [[file:Ex_26.org::v7][Ex 26,7-14]]
 
-^{[[#fnm5][5]]} ℘ (35-38) 26,31-37
+[fn:3] (20-30) 26,15-25 [[file:Ex_26.org::v15][Ex 26,15-25]]
+
+[fn:4] (31-34) 26,26-30 [[file:Ex_26.org::v26][Ex 26,26-30]]
+
+[fn:5] (35-38) 26,31-37 [[file:Ex_26.org::v31][Ex 26,31-37]]

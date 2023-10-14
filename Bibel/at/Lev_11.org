@@ -1,32 +1,24 @@
-:PROPERTIES:
-:ID:       495a4b1d-471d-42f1-b6a6-551d5fc1afdb
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Levitikus* -- [[file:Lev_1.html][1]]
-... [[file:Lev_9.html][9]] [[file:Lev_10.html][10]] *11*
-[[file:Lev_12.html][12]] [[file:Lev_13.html][13]] ...
-[[file:Lev_27.html][27]]
+#+TITLE: Lev 11 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 14:39]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Lev 11.html
 
---------------
-
-* Lev 11
-  :PROPERTIES:
-  :CUSTOM_ID: lev-11
-  :END:
 
 <<verses>>
 
 <<v1>>
-** Die Reinheitsgesetze: 11,1 - 15,33
-   :PROPERTIES:
-   :CUSTOM_ID: die-reinheitsgesetze-111---1533
-   :END:
-**** Reine und unreine Tiere: 11,1-47
-     :PROPERTIES:
-     :CUSTOM_ID: reine-und-unreine-tiere-111-47
-     :END:
-1 Der Herr sprach zu Mose und Aaron: ^{[[#fn1][1]][[#fn2][2]]}
+* Die Reinheitsgesetze: 11,1 - 15,33
+
+* Reine und unreine Tiere: 11,1-47
+
+1 Der Herr sprach zu Mose und Aaron: [fn:1] [fn:2]
 
 <<v2>>
 2 Sagt den Israeliten: Das sind die Tiere, die ihr von allem Vieh auf
@@ -34,7 +26,7 @@ der Erde essen dürft:
 
 <<v3>>
 3 Alle Tiere, die gespaltene Klauen haben, Paarzeher sind und
-wiederkäuen, dürft ihr essen. ^{[[#fn3][3]]}
+wiederkäuen, dürft ihr essen. [fn:3]
 
 <<v4>>
 4 Jedoch dürft ihr von den Tieren, die wiederkäuen oder gespaltene
@@ -181,7 +173,7 @@ darauf fällt, sollt ihr es für unrein halten.
 
 <<v39>>
 39 Wenn eines der Tiere, das euch zur Nahrung dient, verendet, so wird
-der, der sein Aas berührt, unrein bis zum Abend. ^{[[#fn4][4]]}
+der, der sein Aas berührt, unrein bis zum Abend. [fn:4]
 
 <<v40>>
 40 Wer von solchem Fleisch isst, muss seine Kleider waschen und ist
@@ -220,15 +212,18 @@ im Wasser bewegen, und alle Lebewesen, die auf dem Boden kriechen.
 man essen darf, und jene, die man nicht essen darf.\\
 \\
 
-^{[[#fnm1][1]]} ℘ (1-47) Dtn 14,3-21a
 
-^{[[#fnm2][2]]} 1-47: Die meisten der für unrein gehaltenen Tiere sind
+* Footnotes
+
+[fn:1] (1-47) Dtn 14,3-21a [[file:Dtn_14.org::v3][Dtn 14,3-21a]]
+
+[fn:2] 1-47: Die meisten der für unrein gehaltenen Tiere sind
 für den Menschen Ekel erregend, gelten als besonders unsauber oder
 spielen im Kult anderer Völker eine Rolle. Die genaue Bedeutung der
 hebräischen Tiernamen ist nicht immer gesichert.
 
-^{[[#fnm3][3]]} Die Einordnung in die Gattung der Wiederkäuer geschieht
+[fn:3] Die Einordnung in die Gattung der Wiederkäuer geschieht
 nach dem Augenschein. Danach gelten z. B. Tiere wie der Hase, die
 ständig das Maul bewegen, als Wiederkäuer.
 
-^{[[#fnm4][4]]} ℘ Ex 22,30
+[fn:4] Ex 22,30 [[file:Ex_22.org::v30][Ex 22,30]]

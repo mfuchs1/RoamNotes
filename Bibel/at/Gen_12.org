@@ -1,33 +1,21 @@
-:PROPERTIES:
-:ID:       4fca98ac-808c-47fb-88bd-9f79dd36a8b7
-:END:
-#+STARTUP: fnadjust
-#+STARTUP: showall
-#+STARTUP: logdone
-#+STARTUP: lognotedone
-#+STARTUP: hidestars
-#+OPTIONS: broken-links:t H:6
-#+filetags: :hide:
-#+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur authoryear-ibid
-#+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) NEXT(x) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) CANCELED(c@)
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
-#+TITLE: Gen_12
+#+TITLE: Gen 12 
 #+AUTHOR: Matthias Fuchs
 #+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 10:04]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Gen 12.html
 
-* Gen 12
-:PROPERTIES:
-:CUSTOM_ID: gen-12
-:END:
 
 <<verses>>
 
 <<v1>>
-*** Abrahams Berufung und Wanderung nach Kanaan: 12,1-9
-:PROPERTIES:
-:CUSTOM_ID: abrahams-berufung-und-wanderung-nach-kanaan-121-9
-:END:
+* Abrahams Berufung und Wanderung nach Kanaan: 12,1-9
+
 1 Der Herr sprach zu Abram: Zieh weg aus deinem Land, von deiner
 Verwandtschaft und aus deinem Vaterhaus in das Land, das ich dir zeigen
 werde. [fn:1]
@@ -67,10 +55,8 @@ er dem Herrn einen Altar und rief den Namen des Herrn an.
 \\
 
 <<v10>>
-*** Abraham und Sara in Ägypten: 12,10-20
-:PROPERTIES:
-     :CUSTOM_ID: abraham-und-sara-in-ägypten-1210-20
-     :END:
+* Abraham und Sara in Ägypten: 12,10-20
+
 10 Als über das Land eine Hungersnot kam, zog Abram nach Ägypten hinab,
 um dort zu bleiben; denn die Hungersnot lastete schwer auf dem Land.
 

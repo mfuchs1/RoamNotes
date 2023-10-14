@@ -1,33 +1,21 @@
-:PROPERTIES:
-:ID:       2fd4734e-2fdb-4731-ad82-dd8a06977add
-:END:
-#+STARTUP: fnadjust
-#+STARTUP: showall
-#+STARTUP: logdone
-#+STARTUP: lognotedone
-#+STARTUP: hidestars
-#+OPTIONS: broken-links:t H:6
-#+filetags: :hide:
-#+LANGUAGE: de
-#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur authoryear-ibid
-#+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) NEXT(x) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) CANCELED(c@)
-#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
-#+TITLE: Gen_26
+#+TITLE: Gen 26 
 #+AUTHOR: Matthias Fuchs
 #+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-12 Do 10:18]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Gen 26.html
 
-* Gen 26
-:PROPERTIES:
-:CUSTOM_ID: gen-26
-:END:
 
 <<verses>>
 
 <<v1>>
-*** Isaak in Gerar: 26,1-22
-:PROPERTIES:
-:CUSTOM_ID: isaak-in-gerar-261-22
-:END:
+* Isaak in Gerar: 26,1-22
+
 1 Im Land brach eine Hungersnot aus, eine andere als die frühere zur
 Zeit Abrahams. Isaak begab sich nach Gerar zu Abimelech, dem König der
 Philister. [fn:1]
@@ -128,10 +116,8 @@ Land fruchtbar geworden.\\
 \\
 
 <<v23>>
-*** Isaak in Beerscheba: 26,23-35
-     :PROPERTIES:
-     :CUSTOM_ID: isaak-in-beerscheba-2623-35
-     :END:
+* Isaak in Beerscheba: 26,23-35
+
 23 Von dort zog er nach Beerscheba hinauf.
 
 <<v24>>

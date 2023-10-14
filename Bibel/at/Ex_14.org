@@ -1,19 +1,16 @@
-:PROPERTIES:
-:ID:       39b67721-bddd-4a2e-877a-a6774afc4342
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Exodus* -- [[file:Ex_1.html][1]] ...
-[[file:Ex_12.html][12]] [[file:Ex_13.html][13]] *14*
-[[file:Ex_15.html][15]] [[file:Ex_16.html][16]] ...
-[[file:Ex_40.html][40]]
-
---------------
+#+TITLE: Ex 14 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-11 Mi 22:29]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ex 14.html
 
 * Ex 14
-  :PROPERTIES:
-  :CUSTOM_ID: ex-14
-  :END:
 
 <<verses>>
 
@@ -107,7 +104,7 @@ trat an das Ende.
 <<v20>>
 20 Sie kam zwischen das Lager der Ägypter und das Lager der Israeliten.
 Die Wolke war da und Finsternis und Blitze erhellten die Nacht. So kamen
-sie die ganze Nacht einander nicht näher. ^{[[#fn1][1]]}
+sie die ganze Nacht einander nicht näher. [fn:1]
 
 <<v21>>
 21 Mose streckte seine Hand über das Meer aus und der Herr trieb die
@@ -161,4 +158,7 @@ gehandelt hatte, fürchtete das Volk den Herrn. Sie glaubten an den Herrn
 und an Mose, seinen Knecht.\\
 \\
 
-^{[[#fnm1][1]]} H unklar, darum Übersetzung unsicher.
+
+* Footnotes
+
+[fn:1] H unklar, darum Übersetzung unsicher.

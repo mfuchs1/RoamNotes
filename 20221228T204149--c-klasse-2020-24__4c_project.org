@@ -10,6 +10,8 @@
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width \linewidth
 #+OPTIONS: toc:nil
 #+export_file_name: ~/RoamNotes/exports/4c.html
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
 
 * Jahresplanung
 [[denote:20230621T073603][04 Golling]]
@@ -30,15 +32,7 @@ Ich hab den Plan ein wenig geändert: als Einstimmung in die asiatischen Religio
 * 4c 09:35-10:25
 <%%(org-class 2023 9 14 2024 7 8 4)>
 
-[[denote:20230711T003258][[SW04] (Un-)gerechte Wirtschaftsmodelle]]
-
-Letzte Stunde: YouCat.
-Heute: Video? Soziallehre der Kirche?
-
-Einführung:
-[[https://www.youtube.com/watch?v=MiYQRla0RMk]]
-
-weitere Videos...
+[[denote:20230711T003342][[SW05] Nachhaltige Entwicklungsziele der UNO]]
 
 
 * 4C [KV Gertraud Ellmaier]
