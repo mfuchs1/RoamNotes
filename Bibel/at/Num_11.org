@@ -1,27 +1,21 @@
-:PROPERTIES:
-:ID:       7c2ceaad-0227-405f-93d5-08a43a1faecb
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Numeri* -- [[file:Num_1.html][1]] ...
-[[file:Num_9.html][9]] [[file:Num_10.html][10]] *11*
-[[file:Num_12.html][12]] [[file:Num_13.html][13]] ...
-[[file:Num_36.html][36]]
+#+TITLE: Num 11 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-16 Mo 09:58]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Num 11.html
 
---------------
-
-* Num 11
-  :PROPERTIES:
-  :CUSTOM_ID: num-11
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Mose und die Ältesten: 11,1-35
-     :PROPERTIES:
-     :CUSTOM_ID: mose-und-die-ältesten-111-35
-     :END:
+* Mose und die Ältesten: 11,1-35
+
 1 Das Volk lag dem Herrn mit schweren Vorwürfen in den Ohren. Als der
 Herr das hörte, entbrannte sein Zorn; das Feuer des Herrn brach bei
 ihnen aus und griff am Rand des Lagers um sich.
@@ -37,7 +31,7 @@ bei ihnen ausgebrochen war.
 <<v4>>
 4 Die Leute, die sich ihnen angeschlossen hatten, wurden von der Gier
 gepackt und auch die Israeliten begannen wieder zu weinen und sagten:
-Wenn uns doch jemand Fleisch zu essen gäbe! ^{[[#fn1][1]]}
+Wenn uns doch jemand Fleisch zu essen gäbe! [fn:1]
 
 <<v5>>
 5 Wir denken an die Fische, die wir in Ägypten umsonst zu essen bekamen,
@@ -49,8 +43,8 @@ Knoblauch.
 immer nur Manna.
 
 <<v7>>
-7 [Das Manna war wie Koriandersamen und es sah wie Bdelliumharz aus.
-^{[[#fn2][2]][[#fn3][3]]}
+7 [Das Manna war wie Koriandersamen und es sah wie Bdelliumharz aus. [fn:2] [fn:3]
+
 
 <<v8>>
 8 Die Leute pflegten umherzugehen und es zu sammeln; sie mahlten es mit
@@ -68,7 +62,7 @@ war verstimmt
 <<v11>>
 11 und sagte zum Herrn: Warum hast du deinen Knecht so schlecht
 behandelt und warum habe ich nicht deine Gnade gefunden, dass du mir die
-Last mit diesem ganzen Volk auferlegst? ^{[[#fn4][4]]}
+Last mit diesem ganzen Volk auferlegst? [fn:4]
 
 <<v12>>
 12 Habe denn ich dieses ganze Volk in meinem Schoß getragen oder habe
@@ -104,8 +98,7 @@ allein tragen.
 18 Zum Volk aber sollst du sagen: Heiligt euch für morgen, dann werdet
 ihr Fleisch zu essen haben. Denn ihr habt dem Herrn die Ohren
 vollgeweint und gesagt: Wenn uns doch jemand Fleisch zu essen gäbe! In
-Ägypten ging es uns gut. Der Herr wird euch Fleisch zu essen geben.
-^{[[#fn5][5]]}
+Ägypten ging es uns gut. Der Herr wird euch Fleisch zu essen geben. [fn:5]
 
 <<v19>>
 19 Nicht nur einen Tag werdet ihr es essen, nicht zwei Tage, nicht fünf
@@ -160,7 +153,7 @@ daran!
 <<v29>>
 29 Doch Mose sagte zu ihm: Willst du dich für mich ereifern? Wenn nur
 das ganze Volk des Herrn zu Propheten würde, wenn nur der Herr seinen
-Geist auf sie alle legte! ^{[[#fn6][6]]}
+Geist auf sie alle legte! [fn:6]
 
 <<v30>>
 30 Dann ging Mose mit den Ältesten Israels in das Lager zurück.
@@ -169,8 +162,7 @@ Geist auf sie alle legte! ^{[[#fn6][6]]}
 31 Darauf brach ein Wind los, den der Herr geschickt hatte, und trieb
 Wachteln vom Meer heran. Er warf sie auf das Lager, einen Tagesmarsch
 weit in der einen Richtung und einen Tagesmarsch weit in der anderen
-Richtung rings um das Lager; zwei Ellen hoch lagen sie auf dem Erdboden.
-^{[[#fn7][7]]}
+Richtung rings um das Lager; zwei Ellen hoch lagen sie auf dem Erdboden. [fn:7]
 
 <<v32>>
 32 Da stand das Volk auf und sammelte die Wachteln ein, den ganzen Tag
@@ -190,16 +182,18 @@ Leute begrub, die von der Gier gepackt worden waren.
 35 Von Kibrot-Taawa brach das Volk nach Hazerot auf.\\
 \\
 
-^{[[#fnm1][1]]} ℘ Ex 12,38
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ Ex 16,13-26
+[fn:1] Ex 12,38 [[file:Ex_12.org::v38][Ex 12,38]]
 
-^{[[#fnm3][3]]} Zu Bdellium vgl. die Anmerkung zu Gen 2,12.
+[fn:2] Ex 16,13-26 [[file:Ex_16.org::v13][Ex 16,13-26]]
 
-^{[[#fnm4][4]]} ℘ Ex 5,22
+[fn:3] Zu Bdellium vgl. die Anmerkung zu Gen 2,12 [[file:Gen_2.org::v12][Gen 2,12]].
 
-^{[[#fnm5][5]]} ℘ 11,4f
+[fn:4] Ex 5,22 [[file:Ex_25.org::v22][Ex 5,22]]
 
-^{[[#fnm6][6]]} ℘ Joël 3,1f
+[fn:5] 11,4f [[file:Num_11.org::v4][Num 11,4f]]
 
-^{[[#fnm7][7]]} ℘ Ex 16,6-13
+[fn:6] Joël 3,1f [[file:Joel_3.org::v1][Joel 3,1f]]
+
+[fn:7] Ex 16,6-13 [[file:Ex_16.org::v6][Ex 16,6-13]]
