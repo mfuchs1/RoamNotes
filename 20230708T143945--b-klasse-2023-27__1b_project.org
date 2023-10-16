@@ -20,12 +20,12 @@
 * 1b 12:30-13:20
 <%%(org-class 2023 9 12 2024 7 6 2)>
 
-[[denote:20230619T074226][[SW05] Das große Durcheinander]]
+[[denote:20230619T074359][[SW06] Eine gute Gemeinschaft]]
 
 * 1b 07:45-08:35
 <%%(org-class 2023 9 15 2024 7 9 5)>
 
-[[denote:20230619T074226][[SW05] Das große Durcheinander]]
+[[denote:20230619T074359][[SW06] Eine gute Gemeinschaft]]
 
 * 1B [KV Gertraud Viertbauer]
 #+Name: 2021-students
