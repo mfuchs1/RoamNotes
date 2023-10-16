@@ -35,8 +35,11 @@ CLOSED: [2023-10-07 Sa 23:03] SCHEDULED: <2023-10-02 Mo>
 - State "DONE"       from              [2023-10-07 Sa 23:03]
 :END:
 
-** [[denote:20230619T074226][[SW05] Das große Durcheinander]]
-SCHEDULED: <2023-10-09 Mo>
+** DONE [[denote:20230619T074226][[SW05] Das große Durcheinander]]
+CLOSED: [2023-10-16 Mo 08:50] SCHEDULED: <2023-10-09 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2023-10-16 Mo 08:50]
+:END:
 
 ** [[denote:20230619T074359][[SW06] Eine gute Gemeinschaft]]
 SCHEDULED: <2023-10-16 Mo>

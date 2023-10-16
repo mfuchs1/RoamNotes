@@ -38,8 +38,11 @@ CLOSED: [2023-10-07 Sa 23:04] SCHEDULED: <2023-10-02 Mo>
 - State "DONE"       from              [2023-10-07 Sa 23:04]
 :END:
 
-** [[denote:20230711T003342][[SW05] Nachhaltige Entwicklungsziele der UNO]]
-SCHEDULED: <2023-10-09 Mo>
+** DONE [[denote:20230711T003342][[SW05] Nachhaltige Entwicklungsziele der UNO]]
+CLOSED: [2023-10-16 Mo 08:50] SCHEDULED: <2023-10-09 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2023-10-16 Mo 08:50]
+:END:
 
 ** [[denote:20230711T003421][[SW06] Menschenrechte]]
 SCHEDULED: <2023-10-16 Mo>

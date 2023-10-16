@@ -1,29 +1,22 @@
-:PROPERTIES:
-:ID:       7bdfda3d-8e5d-41d3-9033-e826a2c0b9eb
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Numeri* -- [[file:Num_1.html][1]] ...
-[[file:Num_7.html][7]] [[file:Num_8.html][8]] *9*
-[[file:Num_10.html][10]] [[file:Num_11.html][11]] ...
-[[file:Num_36.html][36]]
-
---------------
-
-* Num 9
-  :PROPERTIES:
-  :CUSTOM_ID: num-9
-  :END:
+#+TITLE: Num 9 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-15 So 14:07]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Num 9.html
 
 <<verses>>
 
 <<v1>>
-**** Ergänzung der Paschaordnung: 9,1-14
-     :PROPERTIES:
-     :CUSTOM_ID: ergänzung-der-paschaordnung-91-14
-     :END:
+* Ergänzung der Paschaordnung: 9,1-14
+
 1 Im ersten Monat des zweiten Jahres nach ihrem Auszug aus Ägypten
-sprach der Herr in der Wüste Sinai zu Mose: ^{[[#fn1][1]]}
+sprach der Herr in der Wüste Sinai zu Mose: [fn:1]
 
 <<v2>>
 2 Die Israeliten sollen zur festgesetzten Zeit das Paschafest feiern.
@@ -88,14 +81,11 @@ Gesetz gelten.\\
 \\
 
 <<v15>>
-**** Die Wolkensäule über dem heiligen Zelt: 9,15-23
-     :PROPERTIES:
-     :CUSTOM_ID: die-wolkensäule-über-dem-heiligen-zelt-915-23
-     :END:
+* Die Wolkensäule über dem heiligen Zelt: 9,15-23
+
 15 An dem Tag, als man die Wohnstätte aufstellte, bedeckte eine Wolke
 die Wohnstätte, das Zelt der Bundesurkunde. Am Abend legte sie sich wie
-ein Feuerschein über die Wohnstätte und blieb dort bis zum Morgen.
-^{[[#fn2][2]]}
+ein Feuerschein über die Wohnstätte und blieb dort bis zum Morgen. [fn:2]
 
 <<v16>>
 16 So war es die ganze Zeit: Bei Tag bedeckte die Wolke die Wohnstätte
@@ -138,6 +128,8 @@ des Herrn brachen sie auf. Sie achteten auf die Anordnungen des Herrn,
 so wie es ihnen der Herr durch Mose befahl.\\
 \\
 
-^{[[#fnm1][1]]} ℘ (1-14) Ex 12,1-20.43-49
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ (15-18) Ex 40,34-38
+[fn:1] (1-14) Ex 12,1-20.43-49 [[file:Ex_12.org::v1][Ex 12,1-20.43-49]]
+
+[fn:2] (15-18) Ex 40,34-38 [[file:Ex_40.org::v34][Ex 40,34-38]]

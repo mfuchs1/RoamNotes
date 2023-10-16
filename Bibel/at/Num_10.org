@@ -1,27 +1,20 @@
-:PROPERTIES:
-:ID:       e9708473-641f-46f8-942d-e028c7c1107f
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Numeri* -- [[file:Num_1.html][1]] ...
-[[file:Num_8.html][8]] [[file:Num_9.html][9]] *10*
-[[file:Num_11.html][11]] [[file:Num_12.html][12]] ...
-[[file:Num_36.html][36]]
-
---------------
-
-* Num 10
-  :PROPERTIES:
-  :CUSTOM_ID: num-10
-  :END:
+#+TITLE: Num 10 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-15 So 14:13]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Num 10.html
 
 <<verses>>
 
 <<v1>>
-**** Die Trompetensignale für die Gemeinde: 10,1-10
-     :PROPERTIES:
-     :CUSTOM_ID: die-trompetensignale-für-die-gemeinde-101-10
-     :END:
+* Die Trompetensignale für die Gemeinde: 10,1-10
+
 1 Der Herr sprach zu Mose:
 
 <<v2>>
@@ -67,14 +60,10 @@ eurem Gott in Erinnerung bringen. Ich bin der Herr, euer Gott.\\
 \\
 
 <<v11>>
-** Vom Sinai zum Jordan: 10,11 - 36,13
-   :PROPERTIES:
-   :CUSTOM_ID: vom-sinai-zum-jordan-1011---3613
-   :END:
-**** Der Aufbruch vom Sinai: 10,11-36
-     :PROPERTIES:
-     :CUSTOM_ID: der-aufbruch-vom-sinai-1011-36
-     :END:
+* Vom Sinai zum Jordan: 10,11 - 36,13
+
+* Der Aufbruch vom Sinai: 10,11-36
+
 11 Am zwanzigsten Tag des zweiten Monats im zweiten Jahr erhob sich die
 Wolke über der Wohnstätte der Bundesurkunde.
 
@@ -85,7 +74,7 @@ nieder.
 
 <<v13>>
 13 So brachen sie zum ersten Mal auf, wie ihnen der Herr durch Mose
-befohlen hatte. ^{[[#fn1][1]]}
+befohlen hatte. [fn:1]
 
 <<v14>>
 14 Als Erstes brach das Feldzeichen des Lagers Juda auf, nach
@@ -181,16 +170,18 @@ aufbrachen.\\
 <<v35>>
 35 Wenn die Lade aufbrach, sagte Mose: Steh auf, Herr, dann zerstreuen
 sich deine Feinde, /\\
- dann fliehen deine Gegner vor dir. ^{[[#fn2][2]]}\\
+ dann fliehen deine Gegner vor dir. [fn:2]\\
 \\
 
 <<v36>>
 36 Und wenn man Halt machte, sagte er: Lass dich nieder, Herr, /\\
- bei den zehntausendmal Tausenden Israels! ^{[[#fn3][3]]}\\
+ bei den zehntausendmal Tausenden Israels! [fn:3]\\
 \\
 
-^{[[#fnm1][1]]} ℘ (13-28) 2,1-32
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ Ps 68,2
+[fn:1] (13-28) 2,1-32 [[file:Num_2.org::v1][Num 2,1-32]]
 
-^{[[#fnm3][3]]} Der Sinn von H ist unklar.
+[fn:2] Ps 68,2 [[file:Ps_68.org::v2][Ps 68,2]]
+
+[fn:3] Der Sinn von H ist unklar.

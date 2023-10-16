@@ -38,8 +38,11 @@ CLOSED: [2023-10-07 Sa 23:04] SCHEDULED: <2023-10-02 Mo>
 - State "DONE"       from              [2023-10-07 Sa 23:04]
 :END:
 
-** [[denote:20230623T230501][[SW05] Die Schöpfung erhalten aber wie]]
-SCHEDULED: <2023-10-09 Mo>
+** DONE [[denote:20230623T230501][[SW05] Die Schöpfung erhalten aber wie]]
+CLOSED: [2023-10-16 Mo 08:50] SCHEDULED: <2023-10-09 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2023-10-16 Mo 08:50]
+:END:
 
 ** [[denote:20230623T230549][[SW06] Zukunftswerkstatt]]
 SCHEDULED: <2023-10-16 Mo>

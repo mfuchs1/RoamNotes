@@ -22,12 +22,12 @@ Lucian, Stefan, +?
 * 2b 10:40-11:30
 <%%(org-class 2023 9 12 2024 7 6 2)>
 
-[[denote:20230619T210414][[SW05] Freundschaft: Verliebt und verzaubert]]
+[[denote:20230619T211254][[SW06] Typisch Mann, typisch Frau?]]
 
 * 2b 10:40-11:30
 <%%(org-class 2023 9 13 2024 7 7 3)>
 
-[[denote:20230619T210414][[SW05] Freundschaft: Verliebt und verzaubert]]
+[[denote:20230619T211254][[SW06] Typisch Mann, typisch Frau?]]
 
 * 2B [KV Martin Pock]
 
