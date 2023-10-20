@@ -77,13 +77,29 @@ CLOSED: [2023-08-11 Fr 17:12] DEADLINE: <2023-08-11 Fr 17:08>
 
 * [[denote:20230928T110311][Donnerstag 28 September 2023]]
 
-** TODO [#A] Zeit fürs Gebet und Bibellesen
+** DONE [#A] Zeit fürs Gebet und Bibellesen
+CLOSED: [2023-10-18 Mi 07:57]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-10-18 Mi 07:57]
+:END:
 
-** TODO [#A] Sport
+** DONE [#A] Sport
+CLOSED: [2023-10-18 Mi 07:57]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-10-18 Mi 07:57]
+:END:
 
-** TODO [#A] Mehr Schlaf
+** DONE [#A] Mehr Schlaf
+CLOSED: [2023-10-18 Mi 07:57]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-10-18 Mi 07:57]
+:END:
 
-** TODO [#A] Was kann ich tun, um meine (Grund)Stimmung zu heben?
+** DONE [#A] Was kann ich tun, um meine (Grund)Stimmung zu heben?
+CLOSED: [2023-10-18 Mi 07:57]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-10-18 Mi 07:57]
+:END:
 Medikamente will ich nicht - die machen nur abhängig, siehe Gabriel.
 
 * DONE org-mode beamer

@@ -294,3 +294,11 @@ siehe Zettel - Kletterkurs fällt zu schulfreien Zeiten aus.
 ** Kinder bei Omi und Opa abholen...
 <2023-10-13 Fr 20:00>--<2023-10-13 Fr 21:00>
 
+** Gabriel (?) und Leopold im Coq abholen 
+<2023-10-19 Do 16:30>--<2023-10-19 Do 17:00>
+Gabriel hat Kochen. Ich werde ihn wohl nicht abholen müssen.
+
+** Leopold Klavierunterricht 15:30-16:00
+<%%(org-class 2023 9 29 2024 7 5 5)>
+
+

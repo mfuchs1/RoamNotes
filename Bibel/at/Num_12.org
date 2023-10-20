@@ -1,27 +1,21 @@
-:PROPERTIES:
-:ID:       96f8888c-1742-4f9a-8659-54a76250977c
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Numeri* -- [[file:Num_1.html][1]] ...
-[[file:Num_10.html][10]] [[file:Num_11.html][11]] *12*
-[[file:Num_13.html][13]] [[file:Num_14.html][14]] ...
-[[file:Num_36.html][36]]
+#+TITLE: Num 12 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-16 Mo 13:06]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Num 12.html
 
---------------
-
-* Num 12
-  :PROPERTIES:
-  :CUSTOM_ID: num-12
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Auflehnung Mirjams und Aarons: 12,1-16
-     :PROPERTIES:
-     :CUSTOM_ID: auflehnung-mirjams-und-aarons-121-16
-     :END:
+* Auflehnung Mirjams und Aarons: 12,1-16
+
 1 Als sie in Hazerot waren, redeten Mirjam und Aaron über Mose wegen der
 kuschitischen Frau, die er sich genommen hatte. Er hatte sich nämlich
 eine Kuschiterin zur Frau genommen.

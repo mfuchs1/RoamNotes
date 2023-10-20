@@ -28,6 +28,10 @@ Lucian, Stefan, +?
 <%%(org-class 2023 9 13 2024 7 7 3)>
 
 [[denote:20230619T211254][[SW06] Typisch Mann, typisch Frau?]]
+Was ist "typisch Mann / typisch Frau"?
+Frauen kommen von der Venus, Männer kommen vom Mars.
+
+Harald Eia - Gleichstellungsparadoxon.
 
 * 2B [KV Martin Pock]
 
@@ -251,13 +255,22 @@ Lucian, Stefan, +?
 |-----------------------+-----------+-------------------------+---------------|
 
 
+*** [[denote:20230619T211254][[SW06] Typisch Mann, typisch Frau?]]
+:PROPERTIES:
+:CAPTURED: [2023-10-18 Mi 10:51]
+:CLASS: [2023-10-18 Mi 10:40] 4. Stunde
+:END:
+
+Valerian hat zum wiederholten Mal sein Heft nicht am Tisch liegen; jetzt sucht er es, macht dabei viel Lärm. Das lenkt va die drei Burschen (Manuel, Felix und Leon) ab.
+
+
+
 *** Note Valerian Seling
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
 |         2 |           3 |   2 |         3 |        2.5 |
 #+TBLFM: $5=vmean($1..$4)
-
 
 ** Theresa Steiner
 :PROPERTIES:

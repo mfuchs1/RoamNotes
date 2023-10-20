@@ -1,27 +1,21 @@
-:PROPERTIES:
-:ID:       d21fe4b3-87a2-40a8-844b-db48b62e04c2
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Numeri* -- [[file:Num_1.html][1]] ...
-[[file:Num_11.html][11]] [[file:Num_12.html][12]] *13*
-[[file:Num_14.html][14]] [[file:Num_15.html][15]] ...
-[[file:Num_36.html][36]]
+#+TITLE: Num 13 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-16 Mo 13:07]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Num 13.html
 
---------------
-
-* Num 13
-  :PROPERTIES:
-  :CUSTOM_ID: num-13
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Der Bericht der Kundschafter: 13,1 - 14,45
-     :PROPERTIES:
-     :CUSTOM_ID: der-bericht-der-kundschafter-131---1445
-     :END:
+* Der Bericht der Kundschafter: 13,1 - 14,45
+
 1 Der Herr sprach zu Mose:
 
 <<v2>>

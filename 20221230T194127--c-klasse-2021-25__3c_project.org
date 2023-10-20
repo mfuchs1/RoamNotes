@@ -25,6 +25,7 @@
 <%%(org-class 2023 9 15 2024 7 9 5)>
 
 [[denote:20230623T230549][[SW06] Zukunftswerkstatt]]
+Neues Kapitel 3...
 
 * 3C [KV Daniela Schwaighofer]
 

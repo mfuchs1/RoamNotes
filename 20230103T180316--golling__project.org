@@ -20,7 +20,11 @@
 <2023-09-27 Mi 08:35>--<2023-09-27 Mi 09:30>
 Rückmeldung von Mirjam: einige der BU-Bücher haben kein Etikett?
 
-*** TODO [#A] Lieferscheine suchen, Bücher bestätigen
+*** DONE [#A] Lieferscheine suchen, Bücher bestätigen
+CLOSED: [2023-10-18 Mi 07:57]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-10-18 Mi 07:57]
+:END:
 Fr. Weninger wird mir die Kopien derLieferscheine nachschicken. Somit kann ich gelieferten Bücher bestätigen.
 
 Teilbestätigung: Nur bei den geleiferten Büchern die Menge eingeben. ALLE ANDEREN Bücher auf "0" setzen.

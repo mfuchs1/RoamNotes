@@ -26,6 +26,8 @@
 
 [[denote:20230623T230549][[SW06] Zukunftswerkstatt]]
 
+Neues Kapitel 3 ...
+
 * 3A [KV Bernhard Moser]
 
 #+Name: 2021-students

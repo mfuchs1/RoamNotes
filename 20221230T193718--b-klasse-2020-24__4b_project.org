@@ -21,11 +21,14 @@
 
 [[denote:20230711T003421][[SW06] Menschenrechte]]
 
+arte doku "Konfuzius" fertig.
+
 * 4b 07:45-08:35
 <%%(org-class 2023 9 13 2024 7 7 3)>
 
 [[denote:20230711T003421][[SW06] Menschenrechte]]
 
+Heftarbeit über Konfuzianismus / Konfuzius. Am Ende der Stunde sammle ich die Hefte ein; werden mit "+ - ~" benotet.
 
 * 4B [KV Erwin Essl]
 
@@ -508,4 +511,11 @@ Hm, was soll ich in den 4. Klassen tun? Da besteht im Grunde null Interesse am F
 
 Ab nächster Woche muss ich den "Stil" ändern: kurzer Film, dann viel Gruppenarbeit (Doppelseite gestalten).
 
+** [[denote:20230711T003421][[SW06] Menschenrechte]]
+:PROPERTIES:
+:CAPTURED: [2023-10-17 Di 08:28]
+:CLASS: [2023-10-17 Di 08:28] 1. Stunde
+:END:
+
+Was soll ich machen? Einen Film zeigen nutzt gar nix - alle Schüler reden laut. Null Interesse. Mache ich eine normale Stunde - keine Mitarbeit. Aufregen? Nutzt nix. Nächste Stunde müssen die Schüler eine Heftseite gestalten. 
 
