@@ -41,10 +41,13 @@ CLOSED: [2023-10-16 Mo 08:50] SCHEDULED: <2023-10-09 Mo>
 - State "DONE"       from              [2023-10-16 Mo 08:50]
 :END:
 
-** [[denote:20230619T074359][[SW06] Eine gute Gemeinschaft]]
-SCHEDULED: <2023-10-16 Mo>
+** DONE [[denote:20230619T074359][[SW06] Eine gute Gemeinschaft]]
+CLOSED: [2023-10-21 Sa 10:58] SCHEDULED: <2023-10-16 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2023-10-21 Sa 10:58]
+:END:
 
-** DONE [SW07] Herbstferien1
+** [SW07] Herbstferien1
 SCHEDULED: <2023-10-23 Mo>
 
 ** [[denote:20230619T085157][[SW08] Fragen die uns bewegen (Kap. 2)]]

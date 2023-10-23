@@ -1,28 +1,22 @@
-:PROPERTIES:
-:ID:       90373097-3685-4e68-bba2-564fd7bbef83
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Numeri* -- [[file:Num_1.html][1]] ...
-[[file:Num_17.html][17]] [[file:Num_18.html][18]] *19*
-[[file:Num_20.html][20]] [[file:Num_21.html][21]] ...
-[[file:Num_36.html][36]]
+#+TITLE: Num 19 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-23 Mo 09:45]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Num 19.html
 
---------------
-
-* Num 19
-  :PROPERTIES:
-  :CUSTOM_ID: num-19
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Das Reinigungswasser: 19,1-22
-     :PROPERTIES:
-     :CUSTOM_ID: das-reinigungswasser-191-22
-     :END:
-1 Der Herr sprach zu Mose und Aaron: ^{[[#fn1][1]]}
+* Das Reinigungswasser: 19,1-22
+
+1 Der Herr sprach zu Mose und Aaron: [fn:1]
 
 <<v2>>
 2 Das ist die Verordnung, die der Herr erlässt: Sag den Israeliten, sie
@@ -124,6 +118,8 @@ Reinigungswasser in Berührung kommt, ist bis zum Abend unrein.
 berührt, bis zum Abend unrein.\\
 \\
 
-^{[[#fnm1][1]]} 1-13: Rot ist die Farbe des Blutes. Das Reinigungswasser
+* Footnotes
+
+[fn:1] 1-13: Rot ist die Farbe des Blutes. Das Reinigungswasser
 ist eine Art Weihwasser, das die Reinigung von Sünde und kultischer
 Unreinheit symbolisiert (vgl. Hebr 9,13).

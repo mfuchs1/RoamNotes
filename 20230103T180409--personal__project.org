@@ -301,4 +301,12 @@ Gabriel hat Kochen. Ich werde ihn wohl nicht abholen müssen.
 ** Leopold Klavierunterricht 15:30-16:00
 <%%(org-class 2023 9 29 2024 7 5 5)>
 
+** Arbeit / Lernen / HÜ
+<2023-10-22 So 08:00>--<2023-10-22 So 12:00>
+
+** Gottesdienst Franziskaner
+<2023-10-22 So 19:00>--<2023-10-22 So 20:00>
+
+** Org-mode, ...
+<2023-10-21 Sa 21:00>--<2023-10-21 Sa 22:00>
 

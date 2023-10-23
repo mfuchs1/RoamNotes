@@ -44,8 +44,11 @@ CLOSED: [2023-10-16 Mo 08:50] SCHEDULED: <2023-10-09 Mo>
 - State "DONE"       from              [2023-10-16 Mo 08:50]
 :END:
 
-** [[denote:20230711T003421][[SW06] Menschenrechte]]
-SCHEDULED: <2023-10-16 Mo>
+** DONE [[denote:20230711T003421][[SW06] Menschenrechte]]
+CLOSED: [2023-10-21 Sa 10:58] SCHEDULED: <2023-10-16 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2023-10-21 Sa 10:58]
+:END:
 
 ** [[denote:20230711T003503][[SW07] Herbstferien4]]
 SCHEDULED: <2023-10-23 Mo>

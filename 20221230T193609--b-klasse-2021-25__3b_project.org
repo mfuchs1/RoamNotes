@@ -19,10 +19,16 @@
 * 3b 11:35-12:25
 <%%(org-class 2023 9 13 2024 7 7 3)>
 
-[[denote:20230623T230549][[SW06] Zukunftswerkstatt]]
+Da in den Herbstferien das Thema "Allerheiligen / Allerseelen" fällt, bieten sich folgende Themen, Fragen an:
+- Leben nach dem Tod
+- Vollendung
+- Buch der Offenbarung
+- Hoffnungsperspektiven
+- Himmel
+- ...
 
 * 3b 10:40-11:30
-<%%(org-class 2023 9 14 2024 7 8 4)>
+<%%(org-class 2023 9 14 2024 7 8 4 43)>
 
 [[denote:20230623T230549][[SW06] Zukunftswerkstatt]]
 

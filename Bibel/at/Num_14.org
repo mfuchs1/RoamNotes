@@ -1,19 +1,17 @@
-:PROPERTIES:
-:ID:       2e63e94c-2723-419a-8605-fd8a85ec411e
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Numeri* -- [[file:Num_1.html][1]] ...
-[[file:Num_12.html][12]] [[file:Num_13.html][13]] *14*
-[[file:Num_15.html][15]] [[file:Num_16.html][16]] ...
-[[file:Num_36.html][36]]
+#+TITLE: Num 14 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-22 So 11:45]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Num 14.html
 
---------------
 
 * Num 14
-  :PROPERTIES:
-  :CUSTOM_ID: num-14
-  :END:
 
 <<verses>>
 
@@ -99,8 +97,7 @@ zeigen, wie du gesagt hast:
 <<v18>>
 18 Ich bin Jahwe, langmütig und reich an Huld, der Schuld und Frevel
 wegnimmt, der aber (den Sünder) nicht ungestraft lässt, der die Schuld
-der Väter an den Söhnen verfolgt, an der dritten und vierten Generation:
-^{[[#fn1][1]]}
+der Väter an den Söhnen verfolgt, an der dritten und vierten Generation: [fn:1]
 
 <<v19>>
 19 Verzeih also diesem Volk seine Sünde nach deiner großen Huld, wie du
@@ -144,7 +141,7 @@ lange genug angehört.
 
 <<v28>>
 28 Sag ihnen: So wahr ich lebe - Spruch des Herrn -, ich will euch das
-antun, womit ihr mir die Ohren vollgeschrien habt: ^{[[#fn2][2]]}
+antun, womit ihr mir die Ohren vollgeschrien habt: [fn:2]
 
 <<v29>>
 29 Hier in der Wüste sollen eure Leichen liegen bleiben, alle ohne
@@ -159,7 +156,7 @@ der Sohn Jefunnes, und Josua, der Sohn Nuns.
 <<v31>>
 31 Eure Kinder aber, von denen ihr gesagt habt, sie würden eine Beute
 der Feinde werden, sie werde ich in das Land bringen. Sie werden das
-Land kennen lernen, das ihr verschmäht habt. ^{[[#fn3][3]]}
+Land kennen lernen, das ihr verschmäht habt. [fn:3]
 
 <<v32>>
 32 Eure Leichen aber werden in dieser Wüste liegen bleiben.
@@ -184,7 +181,7 @@ sie sterben.
 <<v36>>
 36 Die Männer, die Mose ausgeschickt hatte, um das Land erkunden zu
 lassen, die dann aber nach ihrer Rückkehr die ganze Gemeinde zum Murren
-verführt hatten, ^{[[#fn4][4]]}
+verführt hatten, [fn:4]
 
 <<v37>>
 37 fielen plötzlich tot zu Boden, vor den Augen des Herrn, alle, die
@@ -227,10 +224,12 @@ wohnten, herunter und schlugen die Israeliten und zersprengten sie bis
 nach Horma.\\
 \\
 
-^{[[#fnm1][1]]} ℘ Ex 34,6f; Ex 20,5; Dtn 5,9
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 14,2
+[fn:1] Ex 34,6f [[file:Ex_34.org::v6][Ex 34,6f]]; Ex 20,5 [[file:Ex_20.org::v5][Ex 20,5]]; Dtn 5,9 [[file:Dtn_5.org::v9][Dtn 5,9]]
 
-^{[[#fnm3][3]]} ℘ 14,3
+[fn:2] 14,2 [[file:Num_14.org::v2][Num 14,2]]
 
-^{[[#fnm4][4]]} ℘ 1 Kor 10,5.10
+[fn:3] 14,3 [[file:Num_14.org::v3][Num 14,3]]
+
+[fn:4] 1 Kor 10,5.10 [[file:~/RoamNotes/notes/Bibel/nt/1.Kor_10.org::v5][1 Kor 10,5]] [[file:~/RoamNotes/notes/Bibel/nt/1.Kor_10.org::v10][1 Kor 10,10]]

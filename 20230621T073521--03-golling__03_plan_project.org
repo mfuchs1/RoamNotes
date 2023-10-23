@@ -44,10 +44,13 @@ CLOSED: [2023-10-16 Mo 08:50] SCHEDULED: <2023-10-09 Mo>
 - State "DONE"       from              [2023-10-16 Mo 08:50]
 :END:
 
-** [[denote:20230623T230549][[SW06] Zukunftswerkstatt]]
-SCHEDULED: <2023-10-16 Mo>
+** DONE [[denote:20230623T230549][[SW06] Zukunftswerkstatt]]
+CLOSED: [2023-10-21 Sa 10:58] SCHEDULED: <2023-10-16 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2023-10-21 Sa 10:58]
+:END:
 
-** [[denote:20230623T230647][[SW07] Übungsteil Kap 1]]
+** [SW07] Herbstferien3
 SCHEDULED: <2023-10-23 Mo>
 
 ** [[denote:20230624T193318][[SW08] Drei Arten des Glücks]]

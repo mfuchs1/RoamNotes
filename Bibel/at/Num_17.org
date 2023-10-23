@@ -1,19 +1,17 @@
-:PROPERTIES:
-:ID:       356a3411-ab67-4f98-a935-185bb2f5f06b
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Numeri* -- [[file:Num_1.html][1]] ...
-[[file:Num_15.html][15]] [[file:Num_16.html][16]] *17*
-[[file:Num_18.html][18]] [[file:Num_19.html][19]] ...
-[[file:Num_36.html][36]]
+#+TITLE: Num 17 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-23 Mo 08:52]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Num 17.html
 
---------------
 
 * Num 17
-  :PROPERTIES:
-  :CUSTOM_ID: num-17
-  :END:
 
 <<verses>>
 
@@ -132,7 +130,7 @@ seinen.
 25 Darauf sagte der Herr zu Mose: Trag den Stab Aarons zurück vor die
 Bundesurkunde! Dort soll er aufbewahrt werden als ein Zeichen für alle
 Aufsässigen. Mach mir auf diese Weise ihrem Murren ein Ende, dann werden
-sie nicht sterben. ^{[[#fn1][1]]}
+sie nicht sterben. [fn:1]
 
 <<v26>>
 26 Mose tat genau so, wie es ihm der Herr befohlen hatte. So machte er
@@ -147,4 +145,7 @@ gehen zugrunde, alle gehen wir noch zugrunde.
 wir denn alle umkommen?\\
 \\
 
-^{[[#fnm1][1]]} ℘ Hebr 9,4
+
+* Footnotes
+
+[fn:1] Hebr 9,4 [[file:~/RoamNotes/notes/Bibel/nt/Hebr_9.org::v4][Hebr 9,4]]

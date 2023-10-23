@@ -1,28 +1,22 @@
-:PROPERTIES:
-:ID:       5016bd20-0c66-46a4-8a46-6bb6bca6185a
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Numeri* -- [[file:Num_1.html][1]] ...
-[[file:Num_13.html][13]] [[file:Num_14.html][14]] *15*
-[[file:Num_16.html][16]] [[file:Num_17.html][17]] ...
-[[file:Num_36.html][36]]
+#+TITLE: Num 15 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-22 So 11:52]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Num 15.html
 
---------------
-
-* Num 15
-  :PROPERTIES:
-  :CUSTOM_ID: num-15
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Opfer und Sühne: 15,1-41
-     :PROPERTIES:
-     :CUSTOM_ID: opfer-und-sühne-151-41
-     :END:
-1 Der Herr sprach zu Mose: ^{[[#fn1][1]]}
+* Opfer und Sühne: 15,1-41
+
+1 Der Herr sprach zu Mose: [fn:1]
 
 <<v2>>
 2 Rede zu den Israeliten und sag zu ihnen: Wenn ihr in das Land kommt,
@@ -172,7 +166,7 @@ geschehen sollte.
 
 <<v35>>
 35 Der Herr sprach zu Mose: Der Mann ist mit dem Tod zu bestrafen. Die
-ganze Gemeinde soll ihn draußen vor dem Lager steinigen. ^{[[#fn2][2]]}
+ganze Gemeinde soll ihn draußen vor dem Lager steinigen. [fn:2]
 
 <<v36>>
 36 Da führte die ganze Gemeinde den Mann vor das Lager hinaus und
@@ -184,7 +178,7 @@ steinigte ihn zu Tod, wie der Herr es Mose befohlen hatte.
 <<v38>>
 38 Rede zu den Israeliten und sag zu ihnen, sie sollen sich Quasten an
 ihre Kleiderzipfel nähen, von Generation zu Generation, und sollen an
-den Quasten eine violette Purpurschnur anbringen; ^{[[#fn3][3]]}
+den Quasten eine violette Purpurschnur anbringen; [fn:3]
 
 <<v39>>
 39 sie soll bei euch zur Quaste gehören. Wenn ihr sie seht, werdet ihr
@@ -201,8 +195,10 @@ ihr eurem Gott heilig sein.
 um für euch Gott zu sein, ich, der Herr, euer Gott.\\
 \\
 
-^{[[#fnm1][1]]} ℘ (1-31) Lev 6,17 - 7,18
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ Ex 31,15; 35,2
+[fn:1] (1-31) Lev 6,17 - 7,18 [[file:Lev_6.org::v17][Lev 6,17]] - [[file:Lev_7.org::v18][Lev 7,18]]
 
-^{[[#fnm3][3]]} ℘ Mt 23,5
+[fn:2] Ex 31,15 [[file:Ex_31.org::v15][Ex 31,15]]; 35,2 [[file:Ex_35.org::v2][Ex 35,2]]
+
+[fn:3] Mt 23,5 [[file:~/RoamNotes/notes/Bibel/nt/Mt_23.org::v5][Mt 23,5]]

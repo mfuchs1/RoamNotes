@@ -2,16 +2,30 @@
 #+date:       [2023-10-20 Fr 09:10]
 #+filetags:   :organisation:schule:
 #+identifier: 20231020T091020
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) NEXT(x) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) CANCELED(c@)
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width \linewidth
+#+OPTIONS: toc:nil
+#+export_file_name: ~/RoamNotes/exports/Ablauf Unterricht.html
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
 
 Hab mir in den letzten Tagen gedacht, dass ich meinen Unetrricht etwas anders gestalten möchte. Bibel, Gebet kommt zu kurz. Generell kommen klassische Themen zu kurz. Va "dank" der neuen Bücher, die zwar bessere Arbeitsbücher sind. Aber die klassischen Themen des RU kommen zu wenig vor.
 
 Also - wie?
 
 * Singen
+Einige Klassen haben mich gefragt, ob sie mit mir singen können. Das werde ich auf jeden Fall ab nächster Woche machen.
 
 * Bibel lesen
+Wir beten zu Beginn der Stunde ein Vater Unser. Die Themen allerdings haben keinen direkten Bezug zur Bibel oder zum Glauben, das ist schade. 
 
-* ?
+Wie wäre es, wenn wir jede Stunde mit einer Betrachtung zur Bibel beginnen würden? Z.B. das Tagesevangelium? 
+
+* Gleichgültigkeit
+Woher kommt das? Haben die Kinder generell kein Interesse zum Fach? Ist ihnen fad, dh sie sind unterfordert? 
 
 
 

@@ -1,30 +1,23 @@
-:PROPERTIES:
-:ID:       da8383c0-0706-4991-80fc-5ad38020eb4b
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Numeri* -- [[file:Num_1.html][1]] ...
-[[file:Num_14.html][14]] [[file:Num_15.html][15]] *16*
-[[file:Num_17.html][17]] [[file:Num_18.html][18]] ...
-[[file:Num_36.html][36]]
-
---------------
-
-* Num 16
-  :PROPERTIES:
-  :CUSTOM_ID: num-16
-  :END:
+#+TITLE: Num 16 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-22 So 11:58]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Num 16.html
 
 <<verses>>
 
 <<v1>>
-**** Der Aufruhr Korachs, Datans und Abirams: 16,1 - 17,28
-     :PROPERTIES:
-     :CUSTOM_ID: der-aufruhr-korachs-datans-und-abirams-161---1728
-     :END:
+* Der Aufruhr Korachs, Datans und Abirams: 16,1 - 17,28
+
 1 Korach, der Sohn Jizhars, des Sohnes Kehats, des Sohnes Levis, ferner
 Datan und Abiram, die Söhne Eliabs, und On, der Sohn Pallus, der
-Rubeniter, ^{[[#fn1][1]]}
+Rubeniter, [fn:1]
 
 <<v2>>
 2 erhoben sich gegen Mose, zusammen mit zweihundertfünfzig führenden
@@ -119,7 +112,7 @@ ein Ende bereiten.
 <<v22>>
 22 Da warfen sie sich auf ihr Gesicht nieder und sagten: Gott, du Gott
 der Geister, die alle Menschen beleben, ein einzelner Mensch sündigt und
-du willst der ganzen Gemeinde zürnen? ^{[[#fn2][2]]}
+du willst der ganzen Gemeinde zürnen? [fn:2]
 
 <<v23>>
 23 Der Herr antwortete Mose:
@@ -178,7 +171,9 @@ schreien hörten; sie sagten: Die Erde wird auch uns noch verschlingen.
 35 Vom Herrn ging ein Feuer aus und fraß die zweihundertfünfzig Männer,
 die den Weihrauch dargebracht hatten.
 
-^{[[#fnm1][1]]} 1-35: Hier sind zwei einst selbstständige Erzählungen,
+* Footnotes
+
+[fn:1] 1-35: Hier sind zwei einst selbstständige Erzählungen,
 eine von Korach und eine von Datan und Abiram, zusammengearbeitet.
 
-^{[[#fnm2][2]]} ℘ 27,16
+[fn:2] 27,16 [[file:Num_27.org::v16][Num 27,16]]

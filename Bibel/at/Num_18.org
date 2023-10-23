@@ -1,27 +1,21 @@
-:PROPERTIES:
-:ID:       54fc5290-8fdf-42aa-9857-68783c83d9af
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Numeri* -- [[file:Num_1.html][1]] ...
-[[file:Num_16.html][16]] [[file:Num_17.html][17]] *18*
-[[file:Num_19.html][19]] [[file:Num_20.html][20]] ...
-[[file:Num_36.html][36]]
+#+TITLE: Num 18 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-23 Mo 09:41]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Num 18.html
 
---------------
-
-* Num 18
-  :PROPERTIES:
-  :CUSTOM_ID: num-18
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Der Dienst und die Entlohnung der Priester und Leviten: 18,1-32
-     :PROPERTIES:
-     :CUSTOM_ID: der-dienst-und-die-entlohnung-der-priester-und-leviten-181-32
-     :END:
+* Der Dienst und die Entlohnung der Priester und Leviten: 18,1-32
+
 1 Der Herr sprach zu Aaron: Du, deine Söhne und deine ganze Familie, ihr
 tragt die Verantwortung für das Heiligtum; du und mit dir deine Söhne,
 ihr tragt die Verantwortung für euer Priesteramt.
@@ -118,8 +112,7 @@ auch die rechte Keule dir gehören.
 19 Alle Abgaben von den heiligen Opfern, die die Israeliten dem Herrn
 entrichten, habe ich dir und deinen Söhnen und Töchtern, die bei dir
 sind, als dauerndes Anrecht gegeben. Das soll für dich und auch für
-deine Nachkommen als ein ewiger «Salzbund» vor dem Herrn gelten.
-^{[[#fn1][1]]}
+deine Nachkommen als ein ewiger «Salzbund» vor dem Herrn gelten. [fn:1]
 
 <<v20>>
 20 Der Herr sprach zu Aaron: Du sollst in ihrem Land keinen erblichen
@@ -184,6 +177,8 @@ abzugeben habt, und ihr dürft die heiligen Gaben der Israeliten nicht
 entweihen. Wenn ihr das befolgt, werdet ihr nicht sterben.\\
 \\
 
-^{[[#fnm1][1]]} Salzbund: Der Ausdruck kommt vielleicht daher, dass
+* Footnotes
+
+[fn:1] Salzbund: Der Ausdruck kommt vielleicht daher, dass
 durch gemeinsames Essen von Salz ein Freundschaftsverhältnis besiegelt
 wurde (vgl. Lev 2,13 und 2 Chr 13,5).
