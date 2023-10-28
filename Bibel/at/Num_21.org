@@ -1,27 +1,21 @@
-:PROPERTIES:
-:ID:       57c687bc-3670-4080-94c8-e0c2446817a7
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Numeri* -- [[file:Num_1.html][1]] ...
-[[file:Num_19.html][19]] [[file:Num_20.html][20]] *21*
-[[file:Num_22.html][22]] [[file:Num_23.html][23]] ...
-[[file:Num_36.html][36]]
+#+TITLE: Num 21 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-24 Di 16:52]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Num 21.html
 
---------------
-
-* Num 21
-  :PROPERTIES:
-  :CUSTOM_ID: num-21
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Die kupferne Schlange. Kämpfe unterwegs: 21,1-35
-     :PROPERTIES:
-     :CUSTOM_ID: die-kupferne-schlange.-kämpfe-unterwegs-211-35
-     :END:
+* Die kupferne Schlange. Kämpfe unterwegs: 21,1-35
+
 1 Als der kanaanitische König von Arad, der im Negeb saß, hörte, dass
 Israel auf dem Weg von Atarim heranzog, griff er die Israeliten an und
 machte einige Gefangene.
@@ -38,13 +32,13 @@ Ort Horma (Untergangsweihe).
 <<v4>>
 4 Die Israeliten brachen vom Berg Hor auf und schlugen die Richtung zum
 Schilfmeer ein, um Edom zu umgehen. Unterwegs aber verlor das Volk den
-Mut, ^{[[#fn1][1]]}
+Mut, [fn:1]
 
 <<v5>>
 5 es lehnte sich gegen Gott und gegen Mose auf und sagte: Warum habt ihr
 uns aus Ägypten heraufgeführt? Etwa damit wir in der Wüste sterben? Es
 gibt weder Brot noch Wasser. Dieser elenden Nahrung sind wir
-überdrüssig. ^{[[#fn2][2]]}
+überdrüssig. [fn:2]
 
 <<v6>>
 6 Da schickte der Herr Giftschlangen unter das Volk. Sie bissen die
@@ -63,14 +57,14 @@ er sie ansieht.
 <<v9>>
 9 Mose machte also eine Schlange aus Kupfer und hängte sie an einer
 Fahnenstange auf. Wenn nun jemand von einer Schlange gebissen wurde und
-zu der Kupferschlange aufblickte, blieb er am Leben. ^{[[#fn3][3]]}
+zu der Kupferschlange aufblickte, blieb er am Leben. [fn:3]
 
 <<v10>>
 10 Die Israeliten brachen auf und schlugen ihr Lager in Obot auf.
 
 <<v11>>
 11 Dann brachen sie von Obot auf und schlugen in Ije-Abarim ihr Lager
-auf, in der Wüste, die östlich von Moab liegt. ^{[[#fn4][4]]}
+auf, in der Wüste, die östlich von Moab liegt. [fn:4]
 
 <<v12>>
 12 Von dort brachen sie auf und schlugen ihr Lager am Bach Sered auf.
@@ -113,8 +107,7 @@ Mattana,\\
 das Ödland herabschaut.
 
 <<v21>>
-21 Israel schickte Boten zum Amoriterkönig Sihon und ließ ihm sagen:
-^{[[#fn5][5]][[#fn6][6]]}
+21 Israel schickte Boten zum Amoriterkönig Sihon und ließ ihm sagen: [fn:5] [fn:6]
 
 <<v22>>
 22 Ich möchte durch dein Land ziehen. Wir werden nicht in die Felder und
@@ -194,19 +187,33 @@ keiner von ihnen konnte entrinnen. Die Israeliten aber besetzten sein
 Land.\\
 \\
 
-^{[[#fnm1][1]]} ℘ (4-5) 11,4-6; 14,1-4; 17,6-14; 20,2-6
+^{[[#fnm1][1]]} ℘ 
 
-^{[[#fnm2][2]]} Die «elende Nahrung» ist das Manna.
+^{[[#fnm2][2]]} 
 
-^{[[#fnm3][3]]} König Hiskija hat nach 2 Kön 18,4 die kupferne Schlange
+^{[[#fnm3][3]]} 
+
+^{[[#fnm4][4]]} ℘ 
+
+^{[[#fnm5][5]]} ℘ 
+
+^{[[#fnm6][6]]} 
+
+* Footnotes
+
+[fn:1] (4-5) 11,4-6; 14,1-4; 17,6-14; 20,2-6
+
+[fn:2] Die «elende Nahrung» ist das Manna.
+
+[fn:3] König Hiskija hat nach 2 Kön 18,4 die kupferne Schlange
 aus der Mosezeit vernichtet, weil sie unterdessen als ein heidnisches
 Fruchtbarkeitssymbol missverstanden worden war. Nach Joh 3,14 ist die
 kupferne Schlange des Mose ein Urbild für den am Kreuz erhöhten
 Christus.
 
-^{[[#fnm4][4]]} ℘ 33,44-48
+[fn:4] 33,44-48 [[file:Num_33.org::v44][Num 33,44-48]]
 
-^{[[#fnm5][5]]} ℘ 20,14-21
+[fn:5] 20,14-21 [[file:Num_20.org::v14][Num 20,14-21]]
 
-^{[[#fnm6][6]]} 21-35: Andere Traditionen über Sihon und Og finden sich
-in Dtn 2,24 - 3,13 und Ri 11,19-22.
+[fn:6] 21-35: Andere Traditionen über Sihon und Og finden sich
+in [[file:Dtn_2.org::v24][Dtn 2,24]] - [[file:Dtn_3.org::v13][3,13]] und [[file:Ri_11.org::v11][Ri 11,19-22]].

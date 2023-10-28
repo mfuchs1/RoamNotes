@@ -1,0 +1,31 @@
+#+title:      Neue Notiz
+#+date:       [2023-10-24 Di 12:09]
+#+filetags:   :emacs:
+#+identifier: 20231024T120931
+
+* Mixed Fonts
+Ich habe die Einstellungen geändert: im =init.el= file habe ich die Schriftarten geändert:
+
+#+begin_src elisp
+;; Main typeface
+(set-face-attribute 'default nil :family "Jetbrains Mono" :height 130)
+
+;; Proportionately spaced typeface
+(set-face-attribute 'variable-pitch nil :family "Iosevka Aile" :height 1.0)
+
+;; Monospaced typeface
+(set-face-attribute 'fixed-pitch nil :family "Jetbrains Mono" :height 1.0)
+
+#+end_src
+
+Lange habe ich gezögert; jetzt hab ich mich "getraut". Und die =variable-pitch= font passt viel besser zum normalen Text. 
+
+* Thoughts
+Nach ein paar Stunden des Probierens bin ich bei meiner alten Regelung geblieben: alles in Jetbrains Mono. So viel schöner sind verschiedene Schriftarten auch nicht. Naja, die Ladezeit verlängert sich ein wenig.
+
+Nun bin ich wieder bei der =variable-pitch= Variante. Ich muss das länger probieren, wie das auf meine Augen wirkt. Was ich noch nicht verstanden habe: im ef-theme verändert sich die Schriftart vom #+title und #+date im Header des Files. Eigentlich sollte es in der Monospaced Font bleiben.
+
+Wenn allerdings alles in der Monospaced Font steht, erscheint es mir doch "sauberer", oder? Ich hab den =variable-pitch-mode= deaktiviert und bin zu Jetbrains Mono zurückgekehrt.
+
+Wie man sieht, schwanke ich zwischen den beiden Möglichkeiten hin und her. Entweder alles in der =default= font (also Monospaced); oder eben im =variable-pitch-mode=. Ich muss meinen Augen die Chance geben, sich an die neuen Einstellungen gewöhnen zu können.
+

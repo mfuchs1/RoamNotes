@@ -1,27 +1,20 @@
-:PROPERTIES:
-:ID:       7cece44b-b5a7-42e6-a299-e2c6665e1d9c
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Numeri* -- [[file:Num_1.html][1]] ...
-[[file:Num_23.html][23]] [[file:Num_24.html][24]] *25*
-[[file:Num_26.html][26]] [[file:Num_27.html][27]] ...
-[[file:Num_36.html][36]]
-
---------------
-
-* Num 25
-  :PROPERTIES:
-  :CUSTOM_ID: num-25
-  :END:
+#+TITLE: Num 25 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-24 Di 17:30]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Num 25.html
 
 <<verses>>
 
 <<v1>>
-**** Der Priester Pinhas: 25,1-18
-     :PROPERTIES:
-     :CUSTOM_ID: der-priester-pinhas-251-18
-     :END:
+* Der Priester Pinhas: 25,1-18
+
 1 Als sich Israel in Schittim aufhielt, begann das Volk mit den
 Moabiterinnen Unzucht zu treiben.
 
@@ -101,8 +94,6 @@ ausgebrochen war.\\
 \\
 
 <<v19>>
-**** Die zweite Volkszählung: 25,19 - 26,65
-     :PROPERTIES:
-     :CUSTOM_ID: die-zweite-volkszählung-2519---2665
-     :END:
+* Die zweite Volkszählung: 25,19 - 26,65
+     
 19 Nach jener Plage

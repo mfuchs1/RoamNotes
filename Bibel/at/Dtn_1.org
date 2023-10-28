@@ -1,18 +1,17 @@
-:PROPERTIES:
-:ID:       6afb3684-4ddf-46ec-bdd1-051cecba88f9
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Deuteronomium* -- *1*
-[[file:Dtn_2.html][2]] [[file:Dtn_3.html][3]] ...
-[[file:Dtn_34.html][34]]
+#+TITLE: Dtn 1 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-26 Do 21:51]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Dtn 1.html
 
---------------
 
-* Dtn 1
-  :PROPERTIES:
-  :CUSTOM_ID: dtn-1
-  :END:
+* Einleitung
 
 Das Buch Deuteronomium erzählt von den letzten Lebenstagen des Mose und
 schließt den Pentateuch ab. Vor seinem Tod verkündet Mose noch einmal
@@ -94,17 +93,13 @@ seiner Herrschaft.\\
 <<verses>>
 
 <<v1>>
-** Die Rede des Mose: Rückblick und Mahnung: 1,1 - 4,43
-   :PROPERTIES:
-   :CUSTOM_ID: die-rede-des-mose-rückblick-und-mahnung-11---443
-   :END:
-**** Ort und Zeit: 1,1-5
-     :PROPERTIES:
-     :CUSTOM_ID: ort-und-zeit-11-5
-     :END:
+* Die Rede des Mose: Rückblick und Mahnung: 1,1 - 4,43
+
+* Ort und Zeit: 1,1-5
+
 1 Das sind die Worte, die Mose vor ganz Israel gesprochen hat. Er sprach
 sie jenseits des Jordan, in der Wüste, in der Araba, östlich von Suf,
-zwischen Paran und Tofel, Laban, Hazerot und Di-Sahab. ^{[[#fn1][1]]}
+zwischen Paran und Tofel, Laban, Hazerot und Di-Sahab. [fn:1]
 
 <<v2>>
 2 Elf Tage sind es vom Horeb auf dem Weg zum Gebirge Seïr bis nach
@@ -118,7 +113,7 @@ aufgetragen hatte.
 <<v4>>
 4 Nachdem er Sihon, den König der Amoriter, der in Heschbon seinen Sitz
 hatte, und Og, den König des Baschan, der in Aschtarot seinen Sitz
-hatte, bei Edreï geschlagen hatte, ^{[[#fn2][2]]}
+hatte, bei Edreï geschlagen hatte, [fn:2]
 
 <<v5>>
 5 begann Mose jenseits des Jordan im Land Moab, diese Weisung
@@ -126,33 +121,30 @@ aufzuschreiben. Er sagte:\\
 \\
 
 <<v6>>
-**** Der Aufbruch vom Horeb: 1,6-18
-     :PROPERTIES:
-     :CUSTOM_ID: der-aufbruch-vom-horeb-16-18
-     :END:
+* Der Aufbruch vom Horeb: 1,6-18
+
 6 Der Herr, unser Gott, hat am Horeb zu uns gesagt: Ihr habt euch lange
-genug an diesem Berg aufgehalten. ^{[[#fn3][3]][[#fn4][4]]}
+genug an diesem Berg aufgehalten. [fn:3] [fn:4]
 
 <<v7>>
 7 Nun wendet euch dem Bergland der Amoriter zu, brecht auf und zieht
 hinauf! Zieht aus gegen alle seine Bewohner in der Araba, auf dem
 Gebirge, in der Schefela, im Negeb und an der Meeresküste! Zieht in das
 Land der Kanaaniter und in das Gebiet des Libanon, bis an den großen
-Strom, den Eufrat! ^{[[#fn5][5]][[#fn6][6]]}
+Strom, den Eufrat! [fn:5] [fn:6]
 
 <<v8>>
 8 Hiermit liefere ich euch das Land aus. Zieht hinein und nehmt es in
 Besitz, das Land, von dem ihr wisst: Der Herr hat euren Vätern Abraham,
 Isaak und Jakob geschworen, es ihnen und später ihren Nachkommen zu
-geben. ^{[[#fn7][7]]}
+geben. [fn:7]
 
 <<v9>>
-9 Damals habe ich zu euch gesagt: Ich kann euch nicht allein tragen.
-^{[[#fn8][8]][[#fn9][9]]}
+9 Damals habe ich zu euch gesagt: Ich kann euch nicht allein tragen. [fn:8] [fn:9]
 
 <<v10>>
 10 Der Herr, euer Gott, hat euch zahlreich gemacht. Ja, ihr seid heute
-schon so zahlreich wie die Sterne am Himmel. ^{[[#fn10][10]]}
+schon so zahlreich wie die Sterne am Himmel. [fn:10]
 
 <<v11>>
 11 Und der Herr, der Gott eurer Väter, lasse eure Zahl auf das
@@ -164,7 +156,7 @@ Rechtshändel?
 
 <<v13>>
 13 Schlagt für jeden eurer Stämme weise, gebildete und bewährte Männer
-vor, damit ich sie als eure Führer einsetze. ^{[[#fn11][11]]}
+vor, damit ich sie als eure Führer einsetze. [fn:11]
 
 <<v14>>
 14 Ihr habt mir geantwortet: Das ist ein guter Vorschlag. Führ ihn aus!
@@ -173,34 +165,31 @@ vor, damit ich sie als eure Führer einsetze. ^{[[#fn11][11]]}
 15 Also habe ich die Führer eurer Stämme, weise und bewährte Männer,
 genommen und sie zu euren Führern ernannt: als Anführer für je tausend,
 Anführer für je hundert, Anführer für je fünfzig, Anführer für je zehn,
-und als Listenführer, für jeden eurer Stämme. ^{[[#fn12][12]]}
+und als Listenführer, für jeden eurer Stämme. [fn:12]
 
 <<v16>>
 16 Damals habe ich eure Richter verpflichtet: Lasst jeden Streit
 zwischen euren Brüdern vor euch kommen. Entscheidet gerecht, sei es der
-Streit eines Mannes mit einem Bruder oder mit einem Fremden.
-^{[[#fn13][13]][[#fn14][14]]}
+Streit eines Mannes mit einem Bruder oder mit einem Fremden. [fn:13] [fn:14]
 
 <<v17>>
 17 Kennt vor Gericht kein Ansehen der Person! Klein wie Groß hört an!
 Fürchtet euch nicht vor angesehenen Leuten; denn das Gericht hat mit
 Gott zu tun. Und ist euch eine Sache zu schwierig, legt sie mir vor;
-dann werde ich sie anhören. ^{[[#fn15][15]][[#fn16][16]]}
+dann werde ich sie anhören. [fn:15] [fn:16]
 
 <<v18>>
 18 Damals habe ich euch alle Vorschriften gegeben, nach denen ihr
-handeln sollt. ^{[[#fn17][17]]}\\
+handeln sollt. [fn:17]\\
 \\
 
 <<v19>>
-**** Israels Unglaube in Kadesch-Barnea: 1,19-46
-     :PROPERTIES:
-     :CUSTOM_ID: israels-unglaube-in-kadesch-barnea-119-46
-     :END:
+* Israels Unglaube in Kadesch-Barnea: 1,19-46
+
 19 Dann brachen wir auf, verließen den Horeb und wanderten durch diese
 ganze große und Furcht erregende Wüste - ihr habt sie erlebt - auf dem
 Weg zum Amoriterbergland, wie es uns der Herr, unser Gott, befohlen
-hatte. Wir kamen bis Kadesch-Barnea. ^{[[#fn18][18]][[#fn19][19]]}
+hatte. Wir kamen bis Kadesch-Barnea. [fn:18] [fn:19]
 
 <<v20>>
 20 Dort sagte ich zu euch: Nun seid ihr am Bergland der Amoriter
@@ -223,7 +212,7 @@ aus, für jeden Stamm einen.
 
 <<v24>>
 24 Sie wendeten sich dem Bergland zu, zogen hinauf, gelangten bis zum
-Traubental und erkundeten es. ^{[[#fn20][20]]}
+Traubental und erkundeten es. [fn:20]
 
 <<v25>>
 25 Sie pflückten einige von den Früchten des Landes, brachten sie zu uns
@@ -243,11 +232,11 @@ Amoriter geben, um uns zu vernichten.
 28 Wohin geraten wir, wenn wir hinaufziehen? Unsere Brüder haben uns den
 Mut genommen, als sie berichteten: Ein Volk, größer und zahlreicher als
 wir, Städte, groß, mit himmelhohen Mauern. Sogar Anakiter haben wir dort
-gesehen. ^{[[#fn21][21]][[#fn22][22]]}
+gesehen. [fn:21] [fn:22]
 
 <<v29>>
 29 Da habe ich zu euch gesagt: Ihr dürft nicht vor ihnen zurückweichen
-und dürft euch nicht vor ihnen fürchten. ^{[[#fn23][23]]}
+und dürft euch nicht vor ihnen fürchten. [fn:23]
 
 <<v30>>
 30 Der Herr, euer Gott, der euch vorangeht, wird für euch kämpfen, genau
@@ -256,8 +245,7 @@ so, wie er vor euren Augen in Ägypten auf eurer Seite gekämpft hat.
 <<v31>>
 31 Das Gleiche tat er in der Wüste, du hast es selbst erlebt. Da hat der
 Herr, dein Gott, dich auf dem ganzen Weg, den ihr gewandert seid,
-getragen, wie ein Vater seinen Sohn trägt, bis ihr an diesen Ort kamt.
-^{[[#fn24][24]]}
+getragen, wie ein Vater seinen Sohn trägt, bis ihr an diesen Ort kamt. [fn:24]
 
 <<v32>>
 32 Trotzdem habt ihr nicht an den Herrn, euren Gott, geglaubt,
@@ -265,8 +253,7 @@ getragen, wie ein Vater seinen Sohn trägt, bis ihr an diesen Ort kamt.
 <<v33>>
 33 der euch auf dem Weg vorangegangen war, um euch die Stelle für das
 Lager zu suchen. Bei Nacht ging er im Feuer voran, um euch den Weg zu
-zeigen, auf dem ihr gehen solltet, bei Tag in der Wolke.
-^{[[#fn25][25]]}
+zeigen, auf dem ihr gehen solltet, bei Tag in der Wolke. [fn:25]
 
 <<v34>>
 34 Der Herr hörte euer lautes Murren, wurde unwillig und schwor:
@@ -279,16 +266,15 @@ es euren Vätern zu geben.
 <<v36>>
 36 Nur Kaleb, der Sohn Jefunnes, wird es sehen. Ihm und seinen Söhnen
 werde ich das Land geben, das er betreten hat. Denn er ist dem Herrn
-ganz und gar nachgefolgt. ^{[[#fn26][26]]}
+ganz und gar nachgefolgt. [fn:26]
 
 <<v37>>
 37 Auch mir grollte der Herr euretwegen und sagte: Auch du sollst nicht
-in das Land hineinkommen. ^{[[#fn27][27]][[#fn28][28]]}
+in das Land hineinkommen. [fn:27] [fn:28]
 
 <<v38>>
 38 Josua, der Sohn Nuns, dein Gehilfe, wird hineinkommen. Verleih ihm
-Macht: Er soll das Land an Israel als Erbbesitz verteilen.
-^{[[#fn29][29]][[#fn30][30]]}
+Macht: Er soll das Land an Israel als Erbbesitz verteilen. [fn:29] [fn:30]
 
 <<v39>>
 39 Und eure Kleinen, von denen ihr sagt: Zur Beute werden sie!, und eure
@@ -304,7 +290,7 @@ Schilfmeer!
 41 Ihr habt mir darauf erwidert: Wir haben vor dem Herrn gesündigt. Doch
 jetzt wollen wir hinaufziehen und kämpfen, genau so, wie es uns der
 Herr, unser Gott, befohlen hat. Und jeder legte die Waffen an und
-gürtete sich, um ins Bergland zu ziehen. ^{[[#fn31][31]]}
+gürtete sich, um ins Bergland zu ziehen. [fn:31]
 
 <<v42>>
 42 Doch der Herr sprach zu mir: Sag ihnen: Ihr sollt nicht hinaufziehen
@@ -327,93 +313,96 @@ Klagen nicht gehört und hatte kein Ohr mehr für euch.
 
 <<v46>>
 46 Dann hieltet ihr euch lange in Kadesch auf - die ganze Zeit, die ihr
-dort geblieben seid. ^{[[#fn32][32]][[#fn33][33]]}\\
+dort geblieben seid. [fn:32] [fn:33]\\
 \\
 
-^{[[#fnm1][1]]} 1-5: Vorbemerkung zur Rede des Mose 1,6 - 4,40. Die
+
+* Footnotes
+
+[fn:1] 1-5: Vorbemerkung zur Rede des Mose 1,6 - 4,40. Die
 Orts- und Zeitangaben gelten auch für die weiteren Mosereden, vor allem
 auch für die in 1,5 ausdrücklich genannte «Weisung» 5,1 - 28,68. Die
-Ortsund Entfernungsangaben sind spätere ergänzende Zusätze, wie sie sich
+Orts und Entfernungsangaben sind spätere ergänzende Zusätze, wie sie sich
 noch mehrfach in Kap. 1 - 4 finden.
 
-^{[[#fnm2][2]]} ℘ 2,24 - 3,11
+[fn:2] 2,24 [[file:Dtn_2.org::v24][Dtn 2,24]] - 3,11 [[file:Dtn_3.org::v11][Dtn 3,11]]
 
-^{[[#fnm3][3]]} ℘ (6-8) Ex 33,1
+[fn:3] (6-8) Ex 33,1 [[file:Ex_33.org::v1][Ex 33,1]]
 
-^{[[#fnm4][4]]} Horeb ist in Dtn der Name des Sinai.
+[fn:4] Horeb ist in Dtn der Name des Sinai.
 
-^{[[#fnm5][5]]} ℘ 19,8
+[fn:5] 19,8 [[file:Dtn_19.org::v8][Dtn 19,8]]
 
-^{[[#fnm6][6]]} «Bergland der Amoriter» ist in Dtn der Name für das
+[fn:6] «Bergland der Amoriter» ist in Dtn der Name für das
 verheißene Land westlich des Jordan. Es wird hier näher umschrieben und
 in einer Texterweiterung bis zum Eufrat hin ausgedehnt, ähnlich wie in
 Dtn 11,24 und Jos 1,4. Das entspricht dem Umfang des davidischen Reichs.
 
-^{[[#fnm7][7]]} von dem ihr wisst: Die Wendung ist hier und an anderen
+[fn:7] von dem ihr wisst: Die Wendung ist hier und an anderen
 Stellen eingefügt, weil man die komplizierte hebräische Satzkonstruktion
 im Deutschen so am besten wiedergeben kann.
 
-^{[[#fnm8][8]]} ℘ (9-18) Ex 18,13-27; Num 11,11-17
+[fn:8] (9-18) Ex 18,13-27 [[file:Ex_18.org::v13][Ex 18,13-27]]; Num 11,11-17 [[file:Num_11.org::v11][Num 11,11-17]]
 
-^{[[#fnm9][9]]} 9-18: Wahrscheinlich ein Zusatz.
+[fn:9] 9-18: Wahrscheinlich ein Zusatz.
 
-^{[[#fnm10][10]]} ℘ Hebr 11,12
+[fn:10] Hebr 11,12 [[file:~/RoamNotes/notes/Bibel/nt/Hebr_11.org::v12][Hebr 11,12]]
 
-^{[[#fnm11][11]]} ℘ 1,15; 5,23; 29,9; 33,5
+[fn:11] 1,15 [[file:Dtn_1.org::v15][Dtn 1,15]]; 5,23 [[file:Dtn_5.org::v23][Dtn 5,23]]; 29,9 [[file:Dtn_29.org::v9][Dtn 29,9]]; 33,5 [[file:Dtn_33.org::v5][Dtn 33,5]]
 
-^{[[#fnm12][12]]} ℘ 1,13; 16,18
+[fn:12] 1,13 [[file:Dtn_1.org::v13][Dtn 1,13]]; 16,18 [[file:Dtn_16.org::v18][Dtn 16,18]]
 
-^{[[#fnm13][13]]} ℘ (16-17) 16,18-20; 17,8-13; 2 Chr 19,5-11; Joh 7,51
+[fn:13] (16-17) 16,18-20 [[file:Dtn_16.org::v18][Dtn 16,18-20]]; 17,8-13 [[file:Dtn_17.org::v8][Dtn 17,8-13]]; 2 Chr 19,5-11 [[file:2.Chr_19.org::v5][2 Chr 19,5-11]]; Joh 7,51 [[file:~/RoamNotes/notes/Bibel/nt/Joh_7.org::v51][Joh 7,51]]
 
-^{[[#fnm14][14]]} Im Dtn werden alle Angehörigen des eigenen Volkes als
+[fn:14] Im Dtn werden alle Angehörigen des eigenen Volkes als
 «Brüder» betrachtet. «Fremder» meint hier und häufig in Dtn den
 Gastbürger mit eingeschränkten Rechten.
 
-^{[[#fnm15][15]]} ℘ Jak 2,9
+[fn:15] Jak 2,9 [[file:~/RoamNotes/notes/Bibel/nt/Jak_2.org::v9][Jak 2,9]]
 
-^{[[#fnm16][16]]} Andere Übersetzungsmöglichkeit: denn das Gericht kommt
+[fn:16] Andere Übersetzungsmöglichkeit: denn das Gericht kommt
 von Gott.
 
-^{[[#fnm17][17]]} ℘ Ex 24,3-8
+[fn:17] Ex 24,3-8 [[file:Ex_24.org::v3][Ex 24,3-8]]
 
-^{[[#fnm18][18]]} ℘ 29,1; (19-46) 9,23; 13-14
+[fn:18] 29,1 [[file:Dtn_29.org::v1][Dtn 29,1]]; (19-46) 9,23 [[file:Dtn_9.org::v23][Dtn 9,23]]; 13-14 [[file:Dtn_13.org][Dtn 13]] - [[file:Dtn_14.org][Dtn 14]]
 
-^{[[#fnm19][19]]} 19-45: Der wegen des Unglaubens Israels misslungene
+[fn:19] 19-45: Der wegen des Unglaubens Israels misslungene
 Versuch, das verheißene Land von Süden aus zu erobern, ist nach Num
 10,11 ins zweite Jahr des Wüstenzugs zu setzen.
 
-^{[[#fnm20][20]]} Das Traubental liegt bei Hebron.
+[fn:20] Das Traubental liegt bei Hebron.
 
-^{[[#fnm21][21]]} ℘ 9,1f
+[fn:21] 9,1f [[file:Dtn_9.org::v1][Dtn 9,1f]]
 
-^{[[#fnm22][22]]} Andere Lesart: größer und höher gewachsen als wir. Die
+[fn:22] Andere Lesart: größer und höher gewachsen als wir. Die
 Anakiter sind eine auch aus ägyptischen Texten bekannte Gruppe aus der
 Urbevölkerung des Landes. Sie lebten im Gebiet von Hebron.
 
-^{[[#fnm23][23]]} ℘ (29-31) 20,2-4
+[fn:23] (29-31) 20,2-4 [[file:Dtn_20.org::v2][Dtn 20,2-4]]
 
-^{[[#fnm24][24]]} ℘ 29,1; Apg 13,18
+[fn:24] 29,1 [[file:Dtn_29.org::v1][Dtn 29,1]]; Apg 13,18 [[file:~/RoamNotes/notes/Bibel/nt/Apg_13.org::v18][Apg 13,18]]
 
-^{[[#fnm25][25]]} ℘ Ex 13,21f
+[fn:25] Ex 13,21f [[file:Ex_13.org::v21][Ex 13,21f]]
 
-^{[[#fnm26][26]]} ℘ Jos 14,6-15
+[fn:26] Jos 14,6-15 [[file:Jos_14.org::v6][Jos 14,6-15]]
 
-^{[[#fnm27][27]]} ℘ 3,23-27; 4,21f; 31,2
+[fn:27] 3,23-27; 4,21f; 31,2
 
-^{[[#fnm28][28]]} Mose wird der Zugang zum verheißenen Land wegen seiner
-Verantwortung für das Volk verweigert (vgl. 3,26). Anders in Num 20,12
-(P); vgl. Dtn 32,51.
+[fn:28] Mose wird der Zugang zum verheißenen Land wegen seiner
+Verantwortung für das Volk verweigert (vgl. 3,26). Anders in Num 20,12 [[file:Num_20.org::v12][Num 20,12]]
+(P); vgl. Dtn 32,51 [[file:Dtn_32.org::51][Dtn 32,51]].
 
-^{[[#fnm29][29]]} ℘ 3,28; 31,6-8.23; Jos 1,2-9; 13,1-7
+[fn:29] 3,28 [[file:Dtn_32.org::v28][Dtn 3,28]]; 31,6-8.23 [[file:Dtn_31.org::v6][Dtn 31,6-8.23]]; Jos 1,2-9 [[file:Jos_1.org::v2][Jos 1,2-9]]; 13,1-7 [[file:Jos_13.org::v1][Jos 13,1-7]]
 
-^{[[#fnm30][30]]} Macht verleihen: Ritus der Amtseinsetzung.
+[fn:30] Macht verleihen: Ritus der Amtseinsetzung.
 
-^{[[#fnm31][31]]} Andere Übersetzungsmöglichkeit: Jeder legte die Waffen
+[fn:31] Andere Übersetzungsmöglichkeit: Jeder legte die Waffen
 an und zog leichten Sinnes ins Bergland hinauf.
 
-^{[[#fnm32][32]]} ℘ Num 20,1
+[fn:32] Num 20,1 [[file:Num_20.org::v1][Num 20,1]]
 
-^{[[#fnm33][33]]} Die umständliche und zugleich unbestimmte Zeitangabe
+[fn:33] Die umständliche und zugleich unbestimmte Zeitangabe
 überspielt die Theorie des Buchs Num, nach der die Israeliten 38 Jahre
 in Kadesch waren. Nach Dtn 2,1.14 sind die Israeliten bald wieder
 aufgebrochen und 38 Jahre lang in der Wüste umhergezogen.

@@ -1,27 +1,20 @@
-:PROPERTIES:
-:ID:       5faa89c4-0e70-4467-a307-176491b00dae
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Numeri* -- [[file:Num_1.html][1]] ...
-[[file:Num_30.html][30]] [[file:Num_31.html][31]] *32*
-[[file:Num_33.html][33]] [[file:Num_34.html][34]] ...
-[[file:Num_36.html][36]]
-
---------------
-
-* Num 32
-  :PROPERTIES:
-  :CUSTOM_ID: num-32
-  :END:
+#+TITLE: Num 32 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-26 Do 21:14]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Num 32.html
 
 <<verses>>
 
 <<v1>>
-**** Die Landzuteilung an die ostjordanischen Stämme: 32,1-42
-     :PROPERTIES:
-     :CUSTOM_ID: die-landzuteilung-an-die-ostjordanischen-stämme-321-42
-     :END:
+* Die Landzuteilung an die ostjordanischen Stämme: 32,1-42
+
 1 Die Rubeniter und die Gaditer hatten sehr große Viehherden. Als sie
 nun das Land Jaser und das Land Gilead sahen, erschien ihnen diese
 Gegend gut geeignet für ihre Viehhaltung.
@@ -57,11 +50,10 @@ Kadesch-Barnea ausgeschickt hatte, damit sie das Land erkundeten.
 <<v9>>
 9 Sie waren bis zum Traubental hinaufgekommen, hatten das Land gesehen
 und haben dann den Israeliten den Mut genommen, sodass sie das Land
-nicht mehr betreten wollten, das der Herr für sie bestimmt hatte.
-^{[[#fn1][1]]}
+nicht mehr betreten wollten, das der Herr für sie bestimmt hatte. [fn:1]
 
 <<v10>>
-10 Damals entbrannte der Zorn des Herrn und er schwor: ^{[[#fn2][2]]}
+10 Damals entbrannte der Zorn des Herrn und er schwor: [fn:2]
 
 <<v11>>
 11 Auf keinen Fall werden die, die aus Ägypten heraufgekommen sind, die
@@ -200,6 +192,9 @@ Zeltdörfer der Amoriter; er nannte sie Hawot-Jaïr (Zeltdörfer Jaïrs).
 nannte es nach seinem eigenen Namen Nobach.\\
 \\
 
-^{[[#fnm1][1]]} ℘ 14,1-38
 
-^{[[#fnm2][2]]} ℘ (10-12) 14,21-24.30f
+* Footnotes
+
+[fn:1] 14,1-38 [[file:Num_14.org::v1][Num 14,1-38]]
+
+[fn:2] (10-12) 14,21-24.30f [[file:Num_14.org::v21][Num 14,21-24]] [[file:Num_14.org::v30][Num 14,30]]

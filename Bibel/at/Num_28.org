@@ -1,34 +1,27 @@
-:PROPERTIES:
-:ID:       ac68a846-9f7e-48c2-a3d7-d0a293067cf5
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Numeri* -- [[file:Num_1.html][1]] ...
-[[file:Num_26.html][26]] [[file:Num_27.html][27]] *28*
-[[file:Num_29.html][29]] [[file:Num_30.html][30]] ...
-[[file:Num_36.html][36]]
+#+TITLE: Num 28 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-26 Do 21:08]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Num 28.html
 
---------------
-
-* Num 28
-  :PROPERTIES:
-  :CUSTOM_ID: num-28
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Opfer und Feste: 28,1 - 30,1
-     :PROPERTIES:
-     :CUSTOM_ID: opfer-und-feste-281---301
-     :END:
+* Opfer und Feste: 28,1 - 30,1
+
 1 Der Herr sprach zu Mose:
 
 <<v2>>
 2 Gib den Israeliten folgenden Befehl und sag zu ihnen: Ihr sollt darauf
 bedacht sein, zur festgesetzten Zeit meine Opfergaben, meine Speise,
-durch das Feueropfer als beruhigenden Duft mir darzubringen.
-^{[[#fn1][1]]}
+durch das Feueropfer als beruhigenden Duft mir darzubringen. [fn:1]
 
 <<v3>>
 3 Sag ihnen: Das ist das Feueropfer, das ihr dem Herrn darbringen sollt:
@@ -158,4 +151,7 @@ Feinmehl, das mit Öl vermengt ist, zwei Zehntel für den einen Widder
 dazugehörenden Speiseopfer und den dazugehörenden Trankopfern
 darbringen. Aber ihr dürft dabei nur fehlerlose Tiere verwenden.
 
-^{[[#fnm1][1]]} ℘ (2-8) Ex 29,38-46
+
+* Footnotes
+
+[fn:1] (2-8) Ex 29,38-46 [[file:Ex_29.org::v38][Ex 29,38-46]]

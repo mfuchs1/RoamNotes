@@ -19,7 +19,7 @@
 * 4b 07:45-08:35
 <%%(org-class 2023 9 12 2024 7 6 2)>
 
-Die Kinder haben in der letzten Stunde eine Doppelseite zum Thema "Konfuzius" gestaltet. Diese werde ich mir anschauen - benoten.
+Die Kinder haben in der letzten Stunde eine Doppelseite zum Thema "Konfuzius" gestaltet. Diese werde ich mir anschauen und benoten.
 
 Da in den Herbstferien das Thema "Allerheiligen / Allerseelen" fällt, bieten sich folgende Themen, Fragen an:
 - Leben nach dem Tod
@@ -29,26 +29,15 @@ Da in den Herbstferien das Thema "Allerheiligen / Allerseelen" fällt, bieten si
 - Himmel
 - ...
 
-Vollkommen sein?
-[[https://www.youtube.com/watch?v=1NtEJaMrZGg]]
+Doku über "Hinduismus"
+[[denote:20230711T003559][[SW09] Hinduismus]]
 
-TikTok:
-[[https://www.youtube.com/watch?v=PZPfO7vozVs]]
 
 * 4b 07:45-08:35
 <%%(org-class 2023 9 13 2024 7 7 3)>
 
-Die Kinder haben in der letzten Stunde eine Doppelseite zum Thema "Konfuzius" gestaltet. Diese werde ich mir anschauen - benoten.
+Wir werden wohl heute mit dem Hinduismus beginnen - Doku "Faszination Glaube - Hinduismus". 
 
-Da in den Herbstferien das Thema "Allerheiligen / Allerseelen" fällt, bieten sich folgende Themen, Fragen an:
-- Leben nach dem Tod
-- Vollendung
-- Buch der Offenbarung
-- Hoffnungsperspektiven
-- Himmel
-- ...
-
-Oder ich starte mit Hinduismus? Buddhismus?
 
 * 4B [KV Erwin Essl]
 
@@ -108,9 +97,11 @@ Oder ich starte mit Hinduismus? Buddhismus?
 :END: 
 
 
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+|-----------------------+-----------+-------------------+----------------|
+| Datum / UE            | Stunde    | Thema             | Anmerkungen    |
+|-----------------------+-----------+-------------------+----------------|
+| [2023-10-25 Mi 08:00] | 1. Stunde | [[denote:20230711T003559][[SW09] Hinduismus]] | Gute Mitarbeit |
+|                       |           |                   |                |
 
 
 *** Note Maximilian Fischhofer
@@ -156,10 +147,14 @@ Maxi schreibt die HO ab und lässt diese unterschreiben.
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Leon_Keser.html
 :END: 
 
-|-----------------------+-----------+---------------------------+------------------------|
-| Datum / UE            | Stunde    | Thema                     | Anmerkungen            |
-|-----------------------+-----------+---------------------------+------------------------|
-| [2023-09-20 Mi 07:45] | 1. Stunde | Berufung in der Bibelwerk | Papierflieger gefaltet |
+|-----------------------+-----------+------------+----------------------|
+| Datum / UE            | Stunde    | Thema      | Anmerkungen          |
+|-----------------------+-----------+------------+----------------------|
+| [2023-09-19 Di 08:00] | 1. Stunde | Berufung   | Papierflieger        |
+|                       |           |            |                      |
+| [2023-10-25 Mi 08:00] | 1. Stunde | Hinduismus | Versäumtes nachholen |
+
+
 
 
 *** [[denote:20230711T002844][[SW01] Jesus ist die Quelle unseres Lebens]]
@@ -205,7 +200,16 @@ CLOSED: [2023-09-25 Mo 10:24]
 :CLASS: [2023-09-26 Di 08:26] 1. Stunde
 :END:
 
-Leon redet viel, stört andere; schreibt nix. Ist dies seine Schwäche? Wie arbeitet er besser? Was braucht er?
+Leon redet viel, stört andere; schreibt nix. Ist dies seine Schwäche? Wie arbeitet er besser? Was braucht er? Wie sieht sein normales Schriftbild aus? Manuela hat mir eine D-SA gezeigt. Somit weiß ich, was ich von ihm verlangen bzw erwarten kann.
+
+*** [[denote:20230711T003559][[SW09] Hinduismus]]
+:PROPERTIES:
+:CAPTURED: [2023-10-25 Mi 09:28]
+:CLASS: [2023-10-25 Mi 08:00] 1. Stunde
+:END:
+
+Gespräch mit Manuela Gruder: Leon muss Versäumtes nachholen; va die Mindmap zum Thema "Konfuzius".
+
 
 ** Thomas Krallinger
 :PROPERTIES:
@@ -538,4 +542,13 @@ Ab nächster Woche muss ich den "Stil" ändern: kurzer Film, dann viel Gruppenar
 :END:
 
 Was soll ich machen? Einen Film zeigen nutzt gar nix - alle Schüler reden laut. Null Interesse. Mache ich eine normale Stunde - keine Mitarbeit. Aufregen? Nutzt nix. Nächste Stunde müssen die Schüler eine Heftseite gestalten. 
+
+** [[denote:20230711T003559][[SW09] Hinduismus]]
+:PROPERTIES:
+:CAPTURED: [2023-10-25 Mi 08:24]
+:CLASS: [2023-10-25 Mi 07:45] 1. Stunde
+:END:
+
+Hm, was muss ich noch tun? Was ändern? Dieses ständige Quatschen, nicht Aufpassen, ... in der 4b. Jetzt ist's für diese Stunde schon zu spät.
+
 

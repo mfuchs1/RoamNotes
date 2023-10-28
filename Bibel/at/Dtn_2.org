@@ -1,32 +1,26 @@
-:PROPERTIES:
-:ID:       873973a1-57eb-456a-90e8-591fe4c22288
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Deuteronomium* --
-[[file:Dtn_1.html][1]] *2* [[file:Dtn_3.html][3]] [[file:Dtn_4.html][4]]
-... [[file:Dtn_34.html][34]]
-
---------------
-
-* Dtn 2
-  :PROPERTIES:
-  :CUSTOM_ID: dtn-2
-  :END:
+#+TITLE: Dtn 2 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-26 Do 22:58]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Dtn 2.html
 
 <<verses>>
 
 <<v1>>
-**** Der Zug ins Ostjordanland: 2,1-13
-     :PROPERTIES:
-     :CUSTOM_ID: der-zug-ins-ostjordanland-21-13
-     :END:
+* Der Zug ins Ostjordanland: 2,1-13
+
 1 Dann wendeten wir uns der Wüste zu, brachen auf und nahmen den Weg zum
 Schilfmeer, wie es der Herr mir befohlen hatte. Wir umzogen lange Zeit
-das Gebirge Seïr. ^{[[#fn1][1]]}
+das Gebirge Seïr. [fn:1]
 
 <<v2>>
-2 Dann sagte der Herr zu mir: ^{[[#fn2][2]]}
+2 Dann sagte der Herr zu mir: [fn:2]
 
 <<v3>>
 3 Ihr seid jetzt lange genug um dieses Gebirge herumgezogen. Wendet euch
@@ -40,7 +34,7 @@ Seïr wohnen. Wenn sie Furcht vor euch zeigen, dann seid auf der Hut,
 <<v5>>
 5 und beginnt keine Feindseligkeiten gegen sie! Von ihrem Land gebe ich
 euch keinen Fußbreit; denn das Gebirge Seïr habe ich für Esau zum Besitz
-bestimmt. ^{[[#fn3][3]]}
+bestimmt. [fn:3]
 
 <<v6>>
 6 Was ihr an Getreide zum Essen braucht, kauft von ihnen für Silber;
@@ -50,7 +44,7 @@ selbst das Trinkwasser beschafft euch von ihnen gegen Silber!
 7 Der Herr, dein Gott, hatte dich reich gesegnet bei der Arbeit deiner
 Hände. Er wusste, dass du in dieser großen Wüste unterwegs warst.
 Vierzig Jahre lang war der Herr, dein Gott, bei dir. Nichts hat dir
-gefehlt. ^{[[#fn4][4]]}
+gefehlt. [fn:4]
 
 <<v8>>
 8 Wir zogen also weg aus dem Gebiet in der Nähe der Söhne Esaus, unserer
@@ -65,7 +59,7 @@ denn Ar habe ich für die Nachkommen Lots zum Besitz bestimmt.
 
 <<v10>>
 10 Einst saßen dort die Emiter, ein Volk, das groß, zahlreich und hoch
-gewachsen war wie die Anakiter. ^{[[#fn5][5]]}
+gewachsen war wie die Anakiter. [fn:5]
 
 <<v11>>
 11 Wie die Anakiter galten auch sie als Rafaïter, die Moabiter aber
@@ -83,10 +77,8 @@ wir das Tal des Sered.\\
 \\
 
 <<v14>>
-**** Die Eroberung des Ostjordanlandes: 2,14 - 3,17
-     :PROPERTIES:
-     :CUSTOM_ID: die-eroberung-des-ostjordanlandes-214---317
-     :END:
+* Die Eroberung des Ostjordanlandes: 2,14 - 3,17
+
 14 Die Zeit, die wir von Kadesch-Barnea an gewandert waren, bis wir das
 Tal des Sered überquerten, betrug achtunddreißig Jahre. So lange dauerte
 es, bis die Generation der waffenfähigen Männer vollständig ausgestorben
@@ -96,7 +88,7 @@ Herr geschworen hatte.
 <<v15>>
 15 Der Herr hatte seine Hand gegen sie ausgestreckt und Verwirrung unter
 ihnen verbreitet, bis sie ausgestorben waren, sodass sich keiner von
-ihnen mehr im Lager befand. ^{[[#fn6][6]]}
+ihnen mehr im Lager befand. [fn:6]
 
 <<v16>>
 16 Als alle waffenfähigen Männer ausgestorben und tot waren, sodass
@@ -116,7 +108,7 @@ die Nachkommen Lots zum Besitz bestimmt.
 
 <<v20>>
 20 Auch dieses gilt als Land der Rafaïter. Einst saßen die Rafaïter
-darin. Die Ammoniter nennen sie die Samsummiter, ^{[[#fn7][7]]}
+darin. Die Ammoniter nennen sie die Samsummiter, [fn:7]
 
 <<v21>>
 21 ein Volk, das groß, zahlreich und hoch gewachsen war wie die
@@ -144,12 +136,11 @@ beginnen.
 <<v25>>
 25 Und ich fange heute an, den Völkern überall unter dem Himmel
 Schrecken und Furcht vor dir ins Gesicht zu zeichnen. Wenn sie von dir
-nur hören, zittern sie. Sie winden sich vor Angst, wenn sie dich sehen.
-^{[[#fn8][8]]}
+nur hören, zittern sie. Sie winden sich vor Angst, wenn sie dich sehen. [fn:8]
 
 <<v26>>
 26 Da sandte ich aus der Wüste Kedemot Boten zu Sihon, dem König von
-Heschbon, und ließ ihm folgendes Abkommen vorschlagen: ^{[[#fn9][9]]}
+Heschbon, und ließ ihm folgendes Abkommen vorschlagen: [fn:9]
 
 <<v27>>
 27 Ich will durch dein Land ziehen. Ich werde mich genau an den Weg
@@ -187,7 +178,7 @@ Söhne und sein ganzes Volk.
 <<v34>>
 34 Damals eroberten wir alle seine Städte. Wir weihten die ganze
 männliche Bevölkerung, die Frauen, die Kinder und die Greise der
-Vernichtung; keinen ließen wir überleben. ^{[[#fn10][10]][[#fn11][11]]}
+Vernichtung; keinen ließen wir überleben. [fn:10] [fn:11]
 
 <<v35>>
 35 Als Beute behielten wir nur das Vieh und das, was wir in den
@@ -203,29 +194,31 @@ zu hoch waren. Alle hat uns der Herr, unser Gott, ausgeliefert.
 Randgebiet des Jabboktals und den Städten im Gebirge, also allem, was
 der Herr, unser Gott, uns verwehrt hatte.
 
-^{[[#fnm1][1]]} ℘ (1-25) Num 21,4-20
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ (2-8) Num 20,14-21
+[fn:1] (1-25) Num 21,4-20 [[file:Num_21.org::v4][Num 21,4-20]]
 
-^{[[#fnm3][3]]} ℘ Apg 7,5
+[fn:2] (2-8) Num 20,14-21 [[file:Num_20.org::v14][Num 20,14-21]]
 
-^{[[#fnm4][4]]} ℘ 8,4; 28,12; 29,4
+[fn:3] Apg 7,5 [[file:~/RoamNotes/notes/Bibel/nt/Apg_7.org::v5][Apg 7,5]]
 
-^{[[#fnm5][5]]} 10-12: Erklärender Zusatz (vgl. die Anmerkung zu 1,1-5).
+[fn:4] 8,4 [[file:Dtn_8.org::v4][Dtn 8,4]]; 28,12 [[file:Dtn_28.org::v12][Dtn 28,12]]; 29,4 [[file:Dtn_29.org::v4][Dtn 29,4]]
 
-^{[[#fnm6][6]]} ℘ Ex 14,24
+[fn:5] 10-12: Erklärender Zusatz (vgl. die Anmerkung zu 1,1-5).
 
-^{[[#fnm7][7]]} 20-23: Erklärender Zusatz (vgl. die Anmerkung zu 1,1-5).
+[fn:6] Ex 14,24 [[file:Ex_14.org::v24][Ex 14,24]]
 
-^{[[#fnm8][8]]} ℘ 11,25; 28,10; Ex 15,14
+[fn:7] 20-23: Erklärender Zusatz (vgl. die Anmerkung zu 1,1-5).
 
-^{[[#fnm9][9]]} ℘ (26-37) Num 21,21-25
+[fn:8] 11,25 [[file:Dtn_11.org::v25][Dtn 11,25]]; 28,10 [[file:Dtn_28.org::v10][Dtn 28,10]]; Ex 15,14 [[file:Ex_15.org::v14][Ex 15,14]]
 
-^{[[#fnm10][10]]} ℘ 20,16-18
+[fn:9] (26-37) Num 21,21-25 [[file:Num_21.org::v21][Num 21,21-25]]
 
-^{[[#fnm11][11]]} weihten der Vernichtung: In älteren Bibelübersetzungen
+[fn:10] 20,16-18 [[file:Dtn_20.org::v16][Dtn 20,16-18]]
+
+[fn:11] weihten der Vernichtung: In älteren Bibelübersetzungen
 stand hier und an ähnlichen Stellen das Wort «Bann» oder «bannen», das
 aber missverständlich ist. Gemeint ist die Vernichtung der Bevölkerung,
 und es ist dabei ein Wort benutzt, das in früheren Zeiten Vernichtung
 aufgrund von Gelübden oder Götterweisungen bezeichnete. Zur
-deuteronomischen Kriegstheorie vgl. 20,10-18.
+deuteronomischen Kriegstheorie vgl. [[file:Dtn_20.org::v10][Dtn 20,10-18]].

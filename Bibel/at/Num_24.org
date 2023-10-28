@@ -1,19 +1,17 @@
-:PROPERTIES:
-:ID:       1e662498-c21b-4c91-aca4-4b868792f387
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Numeri* -- [[file:Num_1.html][1]] ...
-[[file:Num_22.html][22]] [[file:Num_23.html][23]] *24*
-[[file:Num_25.html][25]] [[file:Num_26.html][26]] ...
-[[file:Num_36.html][36]]
+#+TITLE: Num 24 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-24 Di 17:18]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Num 24.html
 
---------------
 
 * Num 24
-  :PROPERTIES:
-  :CUSTOM_ID: num-24
-  :END:
 
 <<verses>>
 
@@ -30,7 +28,7 @@ Da kam der Geist Gottes über ihn,\\
 <<v3>>
 3 er begann mit seinem Orakelspruch und sagte: Spruch Bileams, des
 Sohnes Beors, /\\
- Spruch des Mannes mit geschlossenem Auge, ^{[[#fn1][1]]}\\
+ Spruch des Mannes mit geschlossenem Auge, [fn:1]\\
 \\
 
 <<v4>>
@@ -55,7 +53,7 @@ Sohnes Beors, /\\
 7 Von seinen Schöpfeimern rinnt das Wasser, /\\
  reichlich Wasser hat seine Saat. /\\
  Sein König ist Agag überlegen, /\\
- seine Königsherrschaft erstarkt. ^{[[#fn2][2]]}\\
+ seine Königsherrschaft erstarkt. [fn:2]\\
 \\
 
 <<v8>>
@@ -70,7 +68,7 @@ Sohnes Beors, /\\
 9 Er duckt sich, liegt da wie ein Löwe, /\\
  wie ein Raubtier. Wer wagt es, ihn aufzujagen? /\\
  Wer dich segnet, ist gesegnet, /\\
- und wer dich verflucht, ist verflucht. ^{[[#fn3][3]]}\\
+ und wer dich verflucht, ist verflucht. [fn:3]\\
 \\
 
 <<v10>>
@@ -90,7 +88,7 @@ du zu mir geschickt hast, gesagt:
 <<v13>>
 13 Auch wenn mir Balak sein Haus voll Silber und Gold gibt, kann ich dem
 Befehl des Herrn nicht zuwiderhandeln und nach eigenem Gutdünken Gutes
-oder Böses bewirken. Ich muss sagen, was der Herr sagt. ^{[[#fn4][4]]}
+oder Böses bewirken. Ich muss sagen, was der Herr sagt. [fn:4]
 
 <<v14>>
 14 Gut, ich gehe jetzt zu meinem Volk zurück. Ich will dir aber noch
@@ -100,7 +98,7 @@ verraten, was dieses Volk deinem Volk in der Zukunft antun wird.\\
 <<v15>>
 15 Und er begann mit seinem Orakelspruch und sagte: Spruch Bileams, des
 Sohnes Beors, /\\
- Spruch des Mannes mit geschlossenem Auge, ^{[[#fn5][5]]}\\
+ Spruch des Mannes mit geschlossenem Auge, [fn:5]\\
 \\
 
 <<v16>>
@@ -116,7 +114,7 @@ Sohnes Beors, /\\
  Ein Stern geht in Jakob auf, /\\
  ein Zepter erhebt sich in Israel. /\\
  Er zerschlägt Moab die Schläfen /\\
- und allen Söhnen Sets den Schädel. ^{[[#fn6][6]]}\\
+ und allen Söhnen Sets den Schädel. [fn:6]\\
 \\
 
 <<v18>>
@@ -149,13 +147,13 @@ sagte: Dein Wohnsitz, Kain, ist sicher und fest, /\\
 
 <<v23>>
 23 Er begann nochmals mit seinem Orakelspruch und sagte: Weh, wer wird
-am Leben bleiben, wenn Gott das tut? ^{[[#fn7][7]]}\\
+am Leben bleiben, wenn Gott das tut? [fn:7]\\
 \\
 
 <<v24>>
 24 Schiffe kommen von den Kittäern, /\\
  sie demütigen Assur, sie demütigen Eber. /\\
- Doch auch er endet im Untergang. ^{[[#fn8][8]]}\\
+ Doch auch er endet im Untergang. [fn:8]\\
 \\
 
 <<v25>>
@@ -163,19 +161,21 @@ am Leben bleiben, wenn Gott das tut? ^{[[#fn7][7]]}\\
 Balak zog seines Weges.\\
 \\
 
-^{[[#fnm1][1]]} ℘ 24,15f
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 1 Sam 15,8
+[fn:1] 24,15f [[file:Num_24.org::v15][Num 24,15f]]
 
-^{[[#fnm3][3]]} ℘ 22,6; Gen 12,3; 27,29
+[fn:2] 1 Sam 15,8 [[file:1.Sam_15.org::v8][1 Sam 15,8]]
 
-^{[[#fnm4][4]]} ℘ 22,18
+[fn:3] 22,6 [[file:Num_22.org::v6][Num 22,6]]; Gen 12,3 [[file:Gen_12.org::v3][Gen 12,3]]; 27,29 [[file:Gen_27.org::v29][Gen 27,29]]
 
-^{[[#fnm5][5]]} ℘ (15-16) 24,3f
+[fn:4] 22,18 [[file:Num_22.org::v18][Num 22,18]]
 
-^{[[#fnm6][6]]} Wahrscheinlich ist David und sein Sieg über die Moabiter
+[fn:5] (15-16) 24,3f [[file:Num_24.org::v3][Num 24,3f]]
+
+[fn:6] Wahrscheinlich ist David und sein Sieg über die Moabiter
 gemeint.
 
-^{[[#fnm7][7]]} Der Fragesatz ist in H unklar.
+[fn:7] Der Fragesatz ist in H unklar.
 
-^{[[#fnm8][8]]} Wer der ist, der im Untergang endet, ist unklar.
+[fn:8] Wer der ist, der im Untergang endet, ist unklar.

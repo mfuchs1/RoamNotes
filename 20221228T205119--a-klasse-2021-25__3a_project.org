@@ -546,11 +546,6 @@ TikTok (23 min):
 #+TBLFM: $2=vmean($3..$>)
 #+TBLFM: $1='(identity remote(2021-students,@@#$3))
 
-
-
-
-
-
 * Reflexionen
 
 ** Wie gehe ich mit Unterrichtsstörungen um?
@@ -563,3 +558,17 @@ Heute habe ich die gesamte Klasse schreiben lassen; das werde ich nächste Stund
 Ich frage mich: "Woher kommt diese Unart, den Lehrer nicht mal ausreden zu lassen; nebenbei Privatgespräche abzuhalten; ...? Woher lernen die Kinder dieses Verhalten?" Meist schauen sich die Kinder dies von Erwachsenen oder Film, TV, etc ab.
 
 ** ein Eintrag
+
+** [[denote:20230624T193417][[SW09] Ein großes Versprechen]]
+:PROPERTIES:
+:CAPTURED: [2023-10-23 Mo 12:48]
+:CLASS: [2023-10-23 Mo 12:25] 5. Stunde
+:END:
+
+Wow, das war wieder super anstrengend. Ich stelle Fragen - als Antwort kommt nix, oder: "Darf ich aufs Klo gehen? Sie müssen mich gehen lassen!" Und somit gehen alle 5 Minuten Schüler aufs Klo.
+
+Sehr gute Mitarbeit sieht anders aus. Diese offen gezeigte Gleichgültigkeit! Das ständige Reden. Das Fehlen jeden Respekts!
+
+Die Klasse weiß, dass ich äußerst ungern zu ihnen gehe.
+
+

@@ -1,28 +1,23 @@
-:PROPERTIES:
-:ID:       fabc482a-c02e-4ae7-ab80-bbfc27a0da4b
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Numeri* -- [[file:Num_1.html][1]] ...
-[[file:Num_33.html][33]] [[file:Num_34.html][34]] *35*
-[[file:Num_36.html][36]]
+#+TITLE: Num 35 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-26 Do 21:38]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Num 35.html
 
---------------
-
-* Num 35
-  :PROPERTIES:
-  :CUSTOM_ID: num-35
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Die Leviten- und Asylstädte: 35,1-34
-     :PROPERTIES:
-     :CUSTOM_ID: die-leviten--und-asylstädte-351-34
-     :END:
+* Die Leviten- und Asylstädte: 35,1-34
+
 1 In der Steppe von Moab, am Jordan bei Jericho, sprach der Herr zu
-Mose: ^{[[#fn1][1]]}
+Mose: [fn:1]
 
 <<v2>>
 2 Befiehl den Israeliten, sie sollen von ihrem Erbbesitz den Leviten
@@ -37,7 +32,7 @@ Verfügung stehen.
 
 <<v4>>
 4 Die Weideflächen der Städte, die ihr den Leviten gebt, sollen ringsum
-von der Stadtmauer zweitausend Ellen nach außen reichen. ^{[[#fn2][2]]}
+von der Stadtmauer zweitausend Ellen nach außen reichen. [fn:2]
 
 <<v5>>
 5 Außerhalb der Stadt sollt ihr in östlicher Richtung zweitausend Ellen,
@@ -160,7 +155,7 @@ als Recht gelten.
 <<v30>>
 30 Wenn irgendjemand einen Menschen erschlägt, darf man den Mörder nur
 aufgrund von Zeugenaussagen töten; doch aufgrund der Aussage nur eines
-einzigen Zeugen darf man einen Menschen nicht töten. ^{[[#fn3][3]]}
+einzigen Zeugen darf man einen Menschen nicht töten. [fn:3]
 
 <<v31>>
 31 Ihr sollt kein Sühnegeld annehmen für das Leben eines Mörders, der
@@ -183,9 +178,12 @@ in dessen Mitte ich selbst wohne; denn ich, der Herr, wohne mitten unter
 den Israeliten.\\
 \\
 
-^{[[#fnm1][1]]} ℘ (1-34) Ex 21,12-14; Jos 20,1-9; Dtn 19,1-10
 
-^{[[#fnm2][2]]} zweitausend Ellen: so nach G und nach dem Zusammenhang
+* Footnotes
+
+[fn:1] (1-34) Ex 21,12-14 [[file:Ex_21.org::v12][Ex 21,12-14]]; Jos 20,1-9 [[file:Jos_20.org::v1][Jos 20,1-9]]; Dtn 19,1-10 [[file:Dtn_19.org::v1][Dtn 19,1-10]]
+
+[fn:2] zweitausend Ellen: so nach G und nach dem Zusammenhang
 (vgl. V.5); H: tausend Ellen.
 
-^{[[#fnm3][3]]} ℘ Dtn 17,6; 19,15
+[fn:3] Dtn 17,6 [[file:Dtn_17.org::v6][Dtn 17,6]]; 19,15 [[file:Dtn_19.org::v15][Dtn 19,15]]

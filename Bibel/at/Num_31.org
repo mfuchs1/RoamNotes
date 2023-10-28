@@ -1,27 +1,20 @@
-:PROPERTIES:
-:ID:       72707fd5-72ea-40cf-98f3-37383a2293c8
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Numeri* -- [[file:Num_1.html][1]] ...
-[[file:Num_29.html][29]] [[file:Num_30.html][30]] *31*
-[[file:Num_32.html][32]] [[file:Num_33.html][33]] ...
-[[file:Num_36.html][36]]
-
---------------
-
-* Num 31
-  :PROPERTIES:
-  :CUSTOM_ID: num-31
-  :END:
+#+TITLE: Num 31 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-26 Do 21:11]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Num 31.html
 
 <<verses>>
 
 <<v1>>
-**** Der Midianiterkrieg: 31,1-54
-     :PROPERTIES:
-     :CUSTOM_ID: der-midianiterkrieg-311-54
-     :END:
+* Der Midianiterkrieg: 31,1-54
+
 1 Der Herr sprach zu Mose:
 
 <<v2>>
@@ -87,7 +80,7 @@ Kriegszug zurückkamen.
 <<v16>>
 16 Gerade sie haben auf den Rat Bileams hin die Israeliten dazu
 verführt, vom Herrn abzufallen und dem Pegor zu dienen, sodass die Plage
-über die Gemeinde des Herrn kam. ^{[[#fn1][1]]}
+über die Gemeinde des Herrn kam. [fn:1]
 
 <<v17>>
 17 Nun bringt alle männlichen Kinder um und ebenso alle Frauen, die
@@ -135,7 +128,7 @@ Gemeinde die Beute, die gefangenen Menschen und Tiere!
 
 <<v27>>
 27 Teil die Beute zur Hälfte zwischen denen, die am Krieg teilgenommen
-haben, und der ganzen Gemeinde. ^{[[#fn2][2]]}
+haben, und der ganzen Gemeinde. [fn:2]
 
 <<v28>>
 28 Dann erheb von den Kriegern, die mit dem Heer ausgezogen sind, als
@@ -213,8 +206,7 @@ und Ziegen,
 47 von dieser für die Israeliten bestimmten Hälfte also nahm Mose je
 eine von fünfzig gefangenen Frauen und je eines von fünfzig Tieren und
 übergab sie den Leviten, die auf die Anordnungen für die Wohnstätte des
-Herrn zu achten haben, wie der Herr es Mose befohlen hatte.
-^{[[#fn3][3]]}
+Herrn zu achten haben, wie der Herr es Mose befohlen hatte. [fn:3]
 
 <<v48>>
 48 Die Befehlshaber der Heeresverbände, die Hauptleute der
@@ -250,12 +242,15 @@ brachten es in das Offenbarungszelt, als Zeichen, das den Herrn an die
 Israeliten erinnern sollte.\\
 \\
 
-^{[[#fnm1][1]]} Die Nachricht über Bileam steht im Gegensatz zu Kap.
+
+* Footnotes
+
+[fn:1] Die Nachricht über Bileam steht im Gegensatz zu Kap.
 22 - 24. Ihr liegt entweder eine andere Tradition zugrunde, oder es
 handelt sich um eine spätere Kombination aus Kap. 22 - 24 und 25,1-18.
 
-^{[[#fnm2][2]]} Zur Teilung der Beute mit denen, die am Feldzug nicht
-teilgenommen haben, vgl. Jos 22,8 und 1 Sam 30,24f.
+[fn:2] Zur Teilung der Beute mit denen, die am Feldzug nicht
+teilgenommen haben, vgl. [[file:Jos_22.org::v8][Jos 22,8]] und [[file:1.Sam_30.org::v24][1 Sam 30,24f]].
 
-^{[[#fnm3][3]]} Die hohen Zahlen der Beute erklären sich wohl aus der
+[fn:3] Die hohen Zahlen der Beute erklären sich wohl aus der
 Vorliebe der Orientalen für Übertreibungen.

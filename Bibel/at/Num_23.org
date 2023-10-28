@@ -1,22 +1,19 @@
-:PROPERTIES:
-:ID:       3427794a-6aaf-4054-85d9-d9f58d512fe9
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Numeri* -- [[file:Num_1.html][1]] ...
-[[file:Num_21.html][21]] [[file:Num_22.html][22]] *23*
-[[file:Num_24.html][24]] [[file:Num_25.html][25]] ...
-[[file:Num_36.html][36]]
+#+TITLE: Num 23 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-24 Di 17:13]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Num 23.html
 
---------------
-
-* Num 23
-  :PROPERTIES:
-  :CUSTOM_ID: num-23
-  :END:
 
 <<verses>>
 
+* Num 23
 <<v1>>
 1 Bileam sagte zu Balak: Errichte mir hier sieben Altäre und stell mir
 hier sieben junge Stiere und sieben Widder bereit!
@@ -70,7 +67,7 @@ mich Balak her, /\\
 10 Wer zählt Jakobs Menge, zahlreich wie Staub, /\\
  wer die Zehntausende Israels? /\\
  Oh, könnte ich den Tod der Gerechten sterben /\\
- und wäre mein Ende dem seinen gleich. ^{[[#fn1][1]]}\\
+ und wäre mein Ende dem seinen gleich. [fn:1]\\
 \\
 
 <<v11>>
@@ -139,7 +136,7 @@ Moabs waren bei ihm. Balak fragte ihn: Was hat der Herr gesagt?\\
 23 Zauberei wirkt nicht gegen Jakob, /\\
  Beschwörung hilft nicht gegen Israel - /\\
  [Jetzt sagt man zu Jakob, zu Israel: /\\
- Was hat Gott getan?] ^{[[#fn2][2]]}\\
+ Was hat Gott getan?] [fn:2]\\
 \\
 
 <<v24>>
@@ -175,6 +172,8 @@ sieben junge Stiere und sieben Widder bereit!
 30 Balak tat, was Bileam gesagt hatte, und brachte auf jedem Altar einen
 jungen Stier und einen Widder dar.
 
-^{[[#fnm1][1]]} dem seinen, gemeint ist: dem Ende Israels.
+* Footnotes
 
-^{[[#fnm2][2]]} Der Einschub gibt hier keinen Sinn.
+[fn:1] dem seinen, gemeint ist: dem Ende Israels.
+
+[fn:2] Der Einschub gibt hier keinen Sinn.

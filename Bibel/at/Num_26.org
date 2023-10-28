@@ -1,25 +1,22 @@
-:PROPERTIES:
-:ID:       4e4bd31a-645a-4240-b1a0-0b2a498fff04
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Numeri* -- [[file:Num_1.html][1]] ...
-[[file:Num_24.html][24]] [[file:Num_25.html][25]] *26*
-[[file:Num_27.html][27]] [[file:Num_28.html][28]] ...
-[[file:Num_36.html][36]]
+#+TITLE: Num 26 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-24 Di 17:32]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Num 26.html
 
---------------
 
 * Num 26
-  :PROPERTIES:
-  :CUSTOM_ID: num-26
-  :END:
 
 <<verses>>
 
 <<v1>>
-1 sagte der Herr zu Mose und zu dem Priester Eleasar, dem Sohn Aarons:
-^{[[#fn1][1]]}
+1 sagte der Herr zu Mose und zu dem Priester Eleasar, dem Sohn Aarons: [fn:1]
 
 <<v2>>
 2 Ermittelt die Gesamtzahl der Gemeinde aller Israeliten, die zwanzig
@@ -58,7 +55,7 @@ Streit geraten waren.
 <<v10>>
 10 Die Erde tat ihren Rachen auf und verschlang sie und Korach, als
 seine Anhänger ums Leben kamen; das Feuer fraß die zweihundertfünfzig
-Mann und sie wurden zu einem warnenden Zeichen. ^{[[#fn2][2]]}
+Mann und sie wurden zu einem warnenden Zeichen. [fn:2]
 
 <<v11>>
 11 Die Söhne Korachs waren aber dabei nicht ums Leben gekommen.
@@ -92,7 +89,7 @@ Schuniter,
 
 <<v19>>
 19 Die Söhne Judas waren: Er und Onan; Er und Onan aber waren in Kanaan
-gestorben. ^{[[#fn3][3]]}
+gestorben. [fn:3]
 
 <<v20>>
 20 Zu Juda gehörten folgende Sippen: von Schela die Sippe der
@@ -149,8 +146,7 @@ Heferiter.
 
 <<v33>>
 33 Zelofhad, der Sohn Hefers, hatte keine Söhne, sondern nur Töchter;
-die Töchter Zelofhads hießen Machla, Noa, Hogla, Milka und Tirza.
-^{[[#fn4][4]]}
+die Töchter Zelofhads hießen Machla, Noa, Hogla, Milka und Tirza. [fn:4]
 
 <<v34>>
 34 Das waren die Sippen Manasses mit ihren Gemusterten, im Ganzen 52700
@@ -261,8 +257,7 @@ Levi noch in Ägypten geboren wurde. Sie gebar dem Amram Aaron und Mose
 sowie deren Schwester Mirjam.
 
 <<v60>>
-60 Dem Aaron wurden Nadab, Abihu, Eleasar und Itamar geboren.
-^{[[#fn5][5]]}
+60 Dem Aaron wurden Nadab, Abihu, Eleasar und Itamar geboren. [fn:5]
 
 <<v61>>
 61 Nadab und Abihu aber waren gestorben, als sie dem Herrn ein
@@ -281,24 +276,26 @@ gemustert hatten.
 
 <<v64>>
 64 Unter ihnen war niemand mehr von denen, die Mose und der Priester
-Aaron in der Wüste Sinai gemustert hatten. ^{[[#fn6][6]]}
+Aaron in der Wüste Sinai gemustert hatten. [fn:6]
 
 <<v65>>
 65 Denn über sie hatte der Herr ja gesagt: Sie müssen in der Wüste
 sterben. Daher war keiner von ihnen am Leben geblieben außer Kaleb, der
-Sohn Jefunnes, und Josua, der Sohn Nuns. ^{[[#fn7][7]]}\\
+Sohn Jefunnes, und Josua, der Sohn Nuns. [fn:7]\\
 \\
 
-^{[[#fnm1][1]]} ℘ (1-65) 1,1-54
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 16,1-35
+[fn:1] (1-65) 1,1-54 [[file:Num_1.org::v1][Num 1,1-54]]
 
-^{[[#fnm3][3]]} ℘ Gen 38,3-10
+[fn:2] 16,1-35 [[file:Num_16.org::v1][Num 16,1-35]]
 
-^{[[#fnm4][4]]} ℘ 27,1-11
+[fn:3] Gen 38,3-10 [[file:Gen_38.org::v3][Gen 38,3-10]]
 
-^{[[#fnm5][5]]} ℘ 3,2.4; Lev 10,1-5
+[fn:4] 27,1-11 [[file:Num_27.org::v1][Num 27,1-11]]
 
-^{[[#fnm6][6]]} ℘ 1; 3
+[fn:5] 3,2.4 [[file:Num_33.org::v2][Num 3,2.4]]; Lev 10,1-5 [[file:Lev_10.org::v1][Lev 10,1-5]]
 
-^{[[#fnm7][7]]} ℘ 14,21-35
+[fn:6] 1 [[file:Num_1.org::v1][Num 1]]; 3 [[file:Num_3.org::v1][Num 3]]
+
+[fn:7] 14,21-35 [[file:Num_14.org::v21][Num 14,21-35]]

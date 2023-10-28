@@ -1,27 +1,21 @@
-:PROPERTIES:
-:ID:       45918426-42d7-4c94-9729-d47aea70cc0b
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Numeri* -- [[file:Num_1.html][1]] ...
-[[file:Num_31.html][31]] [[file:Num_32.html][32]] *33*
-[[file:Num_34.html][34]] [[file:Num_35.html][35]]
-[[file:Num_36.html][36]]
+#+TITLE: Num 34 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-26 Do 21:26]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Num 34.html
 
---------------
-
-* Num 33
-  :PROPERTIES:
-  :CUSTOM_ID: num-33
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Das Verzeichnis der Lagerstationen: 33,1-49
-     :PROPERTIES:
-     :CUSTOM_ID: das-verzeichnis-der-lagerstationen-331-49
-     :END:
+* Das Verzeichnis der Lagerstationen: 33,1-49
+
 1 Das sind die Wegstrecken, die die Israeliten bei ihrem Auszug aus
 Ägypten unter der Führung von Mose und Aaron zurücklegten, nach
 Abteilungen geordnet.
@@ -34,7 +28,7 @@ der Reihenfolge, in der die Israeliten aufbrachen:
 <<v3>>
 3 Aus Ramses brachen sie am fünfzehnten Tag des ersten Monats auf. Am
 Tag nach dem Paschafest zogen die Israeliten vor den Augen aller Ägypter
-voll Zuversicht aus, ^{[[#fn1][1]]}
+voll Zuversicht aus, [fn:1]
 
 <<v4>>
 4 während die Ägypter ihre Erstgeborenen begruben, die der Herr bei
@@ -56,7 +50,7 @@ ab und schlugen ihr Lager vor Migdol auf.
 <<v8>>
 8 Von Pi-Hahirot brachen sie auf und zogen mitten durch das Meer in die
 Wüste. In der Wüste Etam waren sie drei Tage unterwegs und schlugen dann
-ihr Lager in Mara auf. ^{[[#fn2][2]]}
+ihr Lager in Mara auf. [fn:2]
 
 <<v9>>
 9 Von Mara brachen sie auf und kamen nach Elim. In Elim gab es zwölf
@@ -161,7 +155,7 @@ Rand von Edom auf.
 <<v38>>
 38 Auf Befehl des Herrn stieg der Priester Aaron auf den Berg Hor und
 starb dort im vierzigsten Jahr nach dem Auszug der Israeliten aus
-Ägypten, am ersten Tag des fünften Monats. ^{[[#fn3][3]]}
+Ägypten, am ersten Tag des fünften Monats. [fn:3]
 
 <<v39>>
 39 Aaron war hundertdreiundzwanzig Jahre alt, als er auf dem Berg Hor
@@ -169,7 +163,7 @@ starb.
 
 <<v40>>
 40 Der kanaanitische König von Arad, der im Negeb, im Süden Kanaans saß,
-hörte, dass die Israeliten heranrückten. ^{[[#fn4][4]]}
+hörte, dass die Israeliten heranrückten. [fn:4]
 
 <<v41>>
 41 Vom Berg Hor brachen sie auf und schlugen ihr Lager in Zalmona auf.
@@ -205,16 +199,14 @@ Abel-Schittim in den Steppen von Moab.\\
 \\
 
 <<v50>>
-**** Die Anweisungen für die Landverteilung: 33,50 - 34,29
-     :PROPERTIES:
-     :CUSTOM_ID: die-anweisungen-für-die-landverteilung-3350---3429
-     :END:
+* Die Anweisungen für die Landverteilung: 33,50 - 34,29
+
 50 In den Steppen von Moab, am Jordan bei Jericho, sprach der Herr zu
 Mose:
 
 <<v51>>
 51 Rede zu den Israeliten und sag zu ihnen: Wenn ihr den Jordan
-überschritten und Kanaan betreten habt, ^{[[#fn5][5]]}
+überschritten und Kanaan betreten habt, [fn:5]
 
 <<v52>>
 52 dann vertreibt vor euch alle Einwohner des Landes und vernichtet alle
@@ -229,7 +221,7 @@ habe es euch zum Besitz gegeben.
 54 Verteilt das Land durch das Los an eure Sippen! Einem großen Stamm
 gebt großen Erbbesitz, einem kleinen Stamm gebt kleinen Erbbesitz!
 Worauf das Los eines jeden fällt, das soll ihm gehören. Teilt das Land
-so unter die Stämme eurer Väter auf! ^{[[#fn6][6]]}
+so unter die Stämme eurer Väter auf! [fn:6]
 
 <<v55>>
 55 Wenn ihr die Einwohner des Landes vor euch nicht vertreibt, dann
@@ -240,14 +232,17 @@ wohnt, in eine große Gefahr bringen.
 <<v56>>
 56 Dann werde ich mit euch machen, was ich mit ihnen machen wollte.
 
-^{[[#fnm1][1]]} ℘ Ex 14,8
 
-^{[[#fnm2][2]]} ℘ Ex 14
+* Footnotes
 
-^{[[#fnm3][3]]} ℘ 20,22-29
+[fn:1] Ex 14,8 [[file:Ex_14.org::v8][Ex 14,8]]
 
-^{[[#fnm4][4]]} ℘ 21,1
+[fn:2] Ex 14 [[file:Ex_14.org::v1][Ex 14]]
 
-^{[[#fnm5][5]]} ℘ Ex 34,12f
+[fn:3] 20,22-29 [[file:Num_20.org::v22][Num 20,22-29]]
 
-^{[[#fnm6][6]]} ℘ 26,52-56
+[fn:4] 21,1 [[file:Num_21.org::v1][Num 21,1]]
+
+[fn:5] Ex 34,12f [[file:Ex_34.org::v12][Ex 34,12f]]
+
+[fn:6] 26,52-56 [[file:Num_26.org::v52][Num 26,52-56]]

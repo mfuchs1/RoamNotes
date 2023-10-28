@@ -1,27 +1,21 @@
-:PROPERTIES:
-:ID:       70353f61-b4a8-4c8b-8f37-aef9ef3cd2db
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Numeri* -- [[file:Num_1.html][1]] ...
-[[file:Num_20.html][20]] [[file:Num_21.html][21]] *22*
-[[file:Num_23.html][23]] [[file:Num_24.html][24]] ...
-[[file:Num_36.html][36]]
+#+TITLE: Num 22 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-24 Di 17:05]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Num 22.html
 
---------------
-
-* Num 22
-  :PROPERTIES:
-  :CUSTOM_ID: num-22
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Der Seher Bileam: 22,1 - 24,25
-     :PROPERTIES:
-     :CUSTOM_ID: der-seher-bileam-221---2425
-     :END:
+* Der Seher Bileam: 22,1 - 24,25
+
 1 Die Israeliten brachen auf und schlugen ihr Lager in den Steppen von
 Moab auf, jenseits des Jordan bei Jericho.
 
@@ -42,13 +36,13 @@ abgrasen. Damals war Balak, der Sohn Zippors, König von Moab.
 5 Er schickte Boten zu Bileam, dem Sohn Beors, nach Petor am Strom, ins
 Land seiner Stammesgenossen, um ihn rufen zu lassen. Er ließ ihm sagen:
 Aus Ägypten ist ein Volk herangezogen, das das ganze Land bedeckt und
-nun mir gegenüber sich niedergelassen hat. ^{[[#fn1][1]]}
+nun mir gegenüber sich niedergelassen hat. [fn:1]
 
 <<v6>>
 6 Darum komm her und verfluch mir dieses Volk; denn es ist zu mächtig
 für mich. Vielleicht kann ich es dann schlagen und aus dem Land
 vertreiben. Ich weiß: Wen du segnest, der ist gesegnet; wen du
-verfluchst, der ist verflucht. ^{[[#fn2][2]]}
+verfluchst, der ist verflucht. [fn:2]
 
 <<v7>>
 7 Die Ältesten von Moab und die Ältesten von Midian machten sich auf den
@@ -125,8 +119,7 @@ zwei jungen Männern, auf seinem Esel dahinritt.
 <<v23>>
 23 Der Esel sah den Engel des Herrn auf dem Weg stehen, mit dem
 gezückten Schwert in der Hand, und er verließ den Weg und wich ins Feld
-aus. Da schlug ihn Bileam, um ihn auf den Weg zurückzubringen.
-^{[[#fn3][3]]}
+aus. Da schlug ihn Bileam, um ihn auf den Weg zurückzubringen. [fn:3]
 
 <<v24>>
 24 Darauf stellte sich der Engel des Herrn auf den engen Weg zwischen
@@ -168,7 +161,7 @@ verneigte sich Bileam und warf sich auf sein Gesicht nieder.
 <<v32>>
 32 Der Engel des Herrn sagte zu ihm: Warum hast du deinen Esel dreimal
 geschlagen? Ich bin dir feindlich in den Weg getreten, weil mir der Weg,
-den du gehst, zu abschüssig ist. ^{[[#fn4][4]]}
+den du gehst, zu abschüssig ist. [fn:4]
 
 <<v33>>
 33 Der Esel hat mich gesehen und ist mir schon dreimal ausgewichen. Wäre
@@ -205,20 +198,22 @@ Hofleute, die dabei waren, bewirten.
 
 <<v41>>
 41 Am nächsten Morgen nahm Balak Bileam mit sich und führte ihn zu den
-Baalshöhen hinauf. Von dort konnte er bis zum Volk sehen. ^{[[#fn5][5]]}
+Baalshöhen hinauf. Von dort konnte er bis zum Volk sehen. [fn:5]
 
-^{[[#fnm1][1]]} Der «Strom» ist der Eufrat.
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 24,9; Gen 12,3; 27,29
+[fn:1] Der «Strom» ist der Eufrat.
 
-^{[[#fnm3][3]]} 23-35: Vgl. 2 Petr 2,16. Die Erzählung vom sprechenden
+[fn:2] 24,9 [[file:Num_24.org::v9][Num 24,9]]; Gen 12,3 [[file:Gen_12.org::v3][Gen 12,3]]; 27,29 [[file:Gen_27.org::v29][Gen 27,29]]
+
+[fn:3] 23-35: Vgl. [[file:~/RoamNotes/notes/Bibel/nt/2.Petr_2.org::v16][2 Petr 2,16]]. Die Erzählung vom sprechenden
 Esel will zeigen, wie töricht die Wahrsagerei der Heiden ist: Selbst ein
 Esel ist klüger als ein Wahrsager, der meint, die Geheimnisse der
 Gottheit zu kennen.
 
-^{[[#fnm4][4]]} zu abschüssig: Der Sinn des hebräischen Wortes ist
+[fn:4] zu abschüssig: Der Sinn des hebräischen Wortes ist
 unklar. Wenn es hier richtig übersetzt ist, dann ist es wohl in
 übertragener Bedeutung gemeint.
 
-^{[[#fnm5][5]]} bis zum Volk, wörtlich: bis an den äußersten Rand des
+[fn:5] bis zum Volk, wörtlich: bis an den äußersten Rand des
 Volkes (Israel).

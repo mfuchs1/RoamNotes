@@ -1,27 +1,21 @@
-:PROPERTIES:
-:ID:       d3b68eaa-9d1d-456f-a9b5-deb69a146f87
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Numeri* -- [[file:Num_1.html][1]] ...
-[[file:Num_18.html][18]] [[file:Num_19.html][19]] *20*
-[[file:Num_21.html][21]] [[file:Num_22.html][22]] ...
-[[file:Num_36.html][36]]
+#+TITLE: Num 20 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-24 Di 16:49]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Num 20.html
 
---------------
-
-* Num 20
-  :PROPERTIES:
-  :CUSTOM_ID: num-20
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Das Wasser aus dem Felsen. Der Tod Mirjams und Aarons: 20,1-29
-     :PROPERTIES:
-     :CUSTOM_ID: das-wasser-aus-dem-felsen.-der-tod-mirjams-und-aarons-201-29
-     :END:
+* Das Wasser aus dem Felsen. Der Tod Mirjams und Aarons: 20,1-29
+
 1 Im ersten Monat kam die ganze Gemeinde der Israeliten in die Wüste Zin
 und das Volk ließ sich in Kadesch nieder. Dort starb Mirjam und wurde
 auch dort begraben.
@@ -33,7 +27,7 @@ Aaron zusammen.
 <<v3>>
 3 Das Volk geriet mit Mose in Streit; sie sagten: Wären wir doch
 umgekommen wie unsere Brüder, die vor den Augen des Herrn gestorben
-sind. ^{[[#fn1][1]]}
+sind. [fn:1]
 
 <<v4>>
 4 Warum habt ihr das Volk des Herrn in diese Wüste geführt? Nur damit
@@ -50,7 +44,7 @@ Offenbarungszeltes und warfen sich auf ihr Gesicht nieder. Da erschien
 ihnen die Herrlichkeit des Herrn.
 
 <<v7>>
-7 Der Herr sprach zu Mose: ^{[[#fn2][2]]}
+7 Der Herr sprach zu Mose: [fn:2]
 
 <<v8>>
 8 Nimm deinen Stab; dann versammelt die Gemeinde, du und dein Bruder
@@ -85,7 +79,7 @@ dem Herrn gestritten haben und er sich als der Heilige erwiesen hat.
 <<v14>>
 14 Mose schickte von Kadesch aus Boten zum König von Edom und ließ ihm
 sagen: So sagt dein Bruder Israel: Du kennst alle Mühsal, die uns
-getroffen hat. ^{[[#fn3][3]]}
+getroffen hat. [fn:3]
 
 <<v15>>
 15 Unsere Väter sind nach Ägypten gezogen und wir haben viele Jahre in
@@ -156,8 +150,10 @@ stiegen vom Berg herab.
 das ganze Haus Israel dreißig Tage lang.\\
 \\
 
-^{[[#fnm1][1]]} ℘ (3-4) 11,4-6; 14,1-4; 17,6-14
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ (7-13) Ex 17,3-7
+[fn:1] (3-4) 11,4-6 [[file:Num_11.org::v4][Num 11,4-6]]; 14,1-4 [[file:Num_14.org::v1][Num 14,1-4]]; 17,6-14 [[file:Num_17.org::v6][Num 17,6-14]]
 
-^{[[#fnm3][3]]} ℘ 21,21-24
+[fn:2] (7-13) Ex 17,3-7 [[file:Ex_17.org::v3][Ex 17,3-7]]
+
+[fn:3] 21,21-24 [[file:Num_21.org::v21][Num 21,21-24]]

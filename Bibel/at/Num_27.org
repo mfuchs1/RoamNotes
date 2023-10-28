@@ -1,31 +1,23 @@
-:PROPERTIES:
-:ID:       f636e9aa-ebac-4602-8035-0220fde8f776
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Numeri* -- [[file:Num_1.html][1]] ...
-[[file:Num_25.html][25]] [[file:Num_26.html][26]] *27*
-[[file:Num_28.html][28]] [[file:Num_29.html][29]] ...
-[[file:Num_36.html][36]]
-
---------------
-
-* Num 27
-  :PROPERTIES:
-  :CUSTOM_ID: num-27
-  :END:
+#+TITLE: Num 27 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-26 Do 21:03]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Num 27.html
 
 <<verses>>
 
 <<v1>>
-**** Die Erbordnung: 27,1-11
-     :PROPERTIES:
-     :CUSTOM_ID: die-erbordnung-271-11
-     :END:
+* Die Erbordnung: 27,1-11
+
 1 Die Töchter Zelofhads, des Sohnes Hefers, des Sohnes Gileads, des
 Sohnes Machirs, des Sohnes Manasses, aus den Sippen Manasses, des Sohnes
-Josefs, - diese Töchter hießen Machla, Noa, Hogla, Milka und Tirza -,
-^{[[#fn1][1]]}
+Josefs, - diese Töchter hießen Machla, Noa, Hogla, Milka und Tirza -, [fn:1]
 
 <<v2>>
 2 kamen zu Mose, zum Priester Eleasar, zu den Anführern und zur ganzen
@@ -71,35 +63,32 @@ Israeliten geltendes Recht, wie der Herr es Mose befohlen hatte.\\
 \\
 
 <<v12>>
-**** Die Berufung Josuas: 27,12-23
-     :PROPERTIES:
-     :CUSTOM_ID: die-berufung-josuas-2712-23
-     :END:
+* Die Berufung Josuas: 27,12-23
+
 12 Der Herr sprach zu Mose: Steig auf das Abarimgebirge dort und sieh
 dir das Land an, das ich den Israeliten gegeben habe.
 
 <<v13>>
 13 Wenn du es gesehen hast, wirst du mit deinen Vorfahren vereint werden
-wie dein Bruder Aaron; ^{[[#fn2][2]]}
+wie dein Bruder Aaron; [fn:2]
 
 <<v14>>
 14 denn ihr habt euch in der Wüste Zin meinem Befehl widersetzt, als die
 Gemeinde aufbegehrte und ihr vor ihren Augen hättet bezeugen sollen,
 dass ich der Heilige bin. [Das ist das «Streitwasser» von Kadesch in der
-Wüste Zin.] ^{[[#fn3][3]]}
+Wüste Zin.] [fn:3]
 
 <<v15>>
 15 Da sagte Mose zum Herrn:
 
 <<v16>>
 16 Der Herr, der Gott der Geister, die alle Menschen beleben, setze
-einen Mann als Anführer der Gemeinde ein, ^{[[#fn4][4]]}
+einen Mann als Anführer der Gemeinde ein, [fn:4]
 
 <<v17>>
 17 der vor ihnen her in den Kampf zieht und vor ihnen her wieder in das
 Lager einzieht, der sie zum Krieg hinausführt und sie zurückführt; die
-Gemeinde des Herrn soll nicht sein wie Schafe, die keinen Hirten haben.
-^{[[#fn5][5]]}
+Gemeinde des Herrn soll nicht sein wie Schafe, die keinen Hirten haben. [fn:5]
 
 <<v18>>
 18 Der Herr antwortete Mose: Nimm Josua, den Sohn Nuns, einen Mann, der
@@ -128,12 +117,14 @@ vor den Priester Eleasar und vor die ganze Gemeinde treten.
 der Herr durch Mose befohlen hatte.\\
 \\
 
-^{[[#fnm1][1]]} ℘ 26,33
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 20,22-29
+[fn:1] 26,33 [[file:Num_26.org::v33][Num 26,33]]
 
-^{[[#fnm3][3]]} ℘ 20,2-13; Ex 17,7
+[fn:2] 20,22-29 [[file:Num_20.org::v22][Num 20,22-29]]
 
-^{[[#fnm4][4]]} ℘ 16,22
+[fn:3] 20,2-13 [[file:Num_20.org::v2][Num 20,2-13]]; Ex 17,7 [[file:Ex_17.org::v7][Ex 17,7]]
 
-^{[[#fnm5][5]]} ℘ Mt 9,36; Mk 6,34
+[fn:4] 16,22 [[file:Num_16.org::v22][Num 16,22]]
+
+[fn:5] Mt 9,36 [[file:~/RoamNotes/notes/Bibel/nt/Mt_9.org::v36][Mt 9,36]]; Mk 6,34 [[file:~/RoamNotes/notes/Bibel/nt/Mk_6.org::v34][Mk 6,34]]
