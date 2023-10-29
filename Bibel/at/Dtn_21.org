@@ -1,30 +1,24 @@
-:PROPERTIES:
-:ID:       74fa92bf-1286-44e8-a9d8-d845afa51ed0
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Deuteronomium* --
-[[file:Dtn_1.html][1]] ... [[file:Dtn_19.html][19]]
-[[file:Dtn_20.html][20]] *21* [[file:Dtn_22.html][22]]
-[[file:Dtn_23.html][23]] ... [[file:Dtn_34.html][34]]
+#+TITLE: Dtn 21 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-29 So 22:00]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Dtn 21.html
 
---------------
-
-* Dtn 21
-  :PROPERTIES:
-  :CUSTOM_ID: dtn-21
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Der Mord durch einen unbekannten Täter: 21,1-9
-     :PROPERTIES:
-     :CUSTOM_ID: der-mord-durch-einen-unbekannten-täter-211-9
-     :END:
+* Der Mord durch einen unbekannten Täter: 21,1-9
+
 1 Wenn in dem Land, das der Herr, dein Gott, dir gibt, damit du es in
 Besitz nimmst, einer auf freiem Feld ermordet aufgefunden wird und man
-nicht weiß, wer ihn erschlagen hat, ^{[[#fn1][1]][[#fn2][2]]}
+nicht weiß, wer ihn erschlagen hat, [fn:1] [fn:2]
 
 <<v2>>
 2 dann sollen deine Ältesten und Richter hinausgehen und feststellen,
@@ -45,17 +39,16 @@ Bachbett der Kuh das Genick brechen.
 5 Dann sollen die Priester, die Nachkommen Levis, herantreten; denn sie
 hat der Herr, dein Gott, dazu ausgewählt, vor ihm Dienst zu tun und im
 Namen des Herrn den Segen zu sprechen. Nach ihrem Spruch soll jeder
-Rechtsstreit und jeder Fall von Körperverletzung entschieden werden.
-^{[[#fn3][3]]}
+Rechtsstreit und jeder Fall von Körperverletzung entschieden werden. [fn:3]
 
 <<v6>>
 6 Alle Ältesten dieser Stadt sollen, weil sie dem Ermordeten am nächsten
 sind, über der Kuh, der im Bachbett das Genick gebrochen wurde, ihre
-Hände waschen. ^{[[#fn4][4]]}
+Hände waschen. [fn:4]
 
 <<v7>>
 7 Sie sollen feierlich sagen: Unsere Hände haben dieses Blut nicht
-vergossen und unsere Augen haben nichts gesehen. ^{[[#fn5][5]]}
+vergossen und unsere Augen haben nichts gesehen. [fn:5]
 
 <<v8>>
 8 Deck es zu, zum Schutz deines Volkes Israel, das du freigekauft hast,
@@ -64,15 +57,12 @@ Volkes Israel bleiben. Dann ist das Blut zu ihrem Schutz zugedeckt.
 
 <<v9>>
 9 Du wirst das unschuldig vergossene Blut aus deiner Mitte wegschaffen
-können, wenn du tust, was in den Augen des Herrn richtig ist.
-^{[[#fn6][6]]}\\
+können, wenn du tust, was in den Augen des Herrn richtig ist. [fn:6]\\
 \\
 
 <<v10>>
-**** Die Heirat einer Kriegsgefangenen: 21,10-14
-     :PROPERTIES:
-     :CUSTOM_ID: die-heirat-einer-kriegsgefangenen-2110-14
-     :END:
+* Die Heirat einer Kriegsgefangenen: 21,10-14
+
 10 Wenn du zum Kampf gegen deine Feinde ausziehst und der Herr, dein
 Gott, sie alle in deine Gewalt gibt, wenn du dabei Gefangene machst
 
@@ -82,7 +72,7 @@ wenn sie dein Herz gewinnt und du sie heiraten möchtest,
 
 <<v12>>
 12 dann sollst du sie in dein Haus bringen und sie soll sich den Kopf
-scheren, ihre Nägel kürzen ^{[[#fn7][7]]}
+scheren, ihre Nägel kürzen [fn:7]
 
 <<v13>>
 13 und die Gefangenenkleidung ablegen. Sie soll in deinem Haus wohnen
@@ -97,10 +87,8 @@ hast sie dir gefügig gemacht.\\
 \\
 
 <<v15>>
-**** Das Erbrecht des erstgeborenen Sohnes: 21,15-17
-     :PROPERTIES:
-     :CUSTOM_ID: das-erbrecht-des-erstgeborenen-sohnes-2115-17
-     :END:
+* Das Erbrecht des erstgeborenen Sohnes: 21,15-17
+
 15 Wenn ein Mann zwei Frauen hat, eine, die er liebt, und eine, die er
 nicht liebt, und wenn beide ihm Söhne gebären, die geliebte wie die
 ungeliebte, und der erstgeborene Sohn von der ungeliebten stammt,
@@ -114,23 +102,19 @@ verstoßen.
 <<v17>>
 17 Vielmehr soll er den Erstgeborenen, den Sohn der Ungeliebten,
 anerkennen, indem er ihm von allem, was er besitzt, den doppelten Anteil
-gibt. Ihn hat er zuerst gezeugt, er besitzt das Erstgeborenenrecht.
-^{[[#fn8][8]][[#fn9][9]]}\\
+gibt. Ihn hat er zuerst gezeugt, er besitzt das Erstgeborenenrecht. [fn:8] [fn:9]\\
 \\
 
 <<v18>>
-**** Die Verstoßung eines Sohnes: 21,18-21
-     :PROPERTIES:
-     :CUSTOM_ID: die-verstoßung-eines-sohnes-2118-21
-     :END:
+* Die Verstoßung eines Sohnes: 21,18-21
+
 18 Wenn ein Mann einen störrischen und widerspenstigen Sohn hat, der
 nicht auf die Stimme seines Vaters und seiner Mutter hört, und wenn sie
-ihn züchtigen und er trotzdem nicht auf sie hört,
-^{[[#fn10][10]][[#fn11][11]]}
+ihn züchtigen und er trotzdem nicht auf sie hört, [fn:10] [fn:11]
 
 <<v19>>
 19 dann sollen Vater und Mutter ihn packen, vor die Ältesten der Stadt
-und die Torversammlung des Ortes führen ^{[[#fn12][12]]}
+und die Torversammlung des Ortes führen [fn:12]
 
 <<v20>>
 20 und zu den Ältesten der Stadt sagen: Unser Sohn hier ist störrisch
@@ -140,64 +124,61 @@ Verschwender und Trinker.
 <<v21>>
 21 Dann sollen alle Männer der Stadt ihn steinigen und er soll sterben.
 Du sollst das Böse aus deiner Mitte wegschaffen. Ganz Israel soll davon
-hören, damit sie sich fürchten. ^{[[#fn13][13]]}\\
+hören, damit sie sich fürchten. [fn:13]\\
 \\
 
 <<v22>>
-**** Die Bestattung von Hingerichteten: 21,22f
-     :PROPERTIES:
-     :CUSTOM_ID: die-bestattung-von-hingerichteten-2122f
-     :END:
+* Die Bestattung von Hingerichteten: 21,22f
+
 22 Wenn jemand ein Verbrechen begangen hat, auf das die Todesstrafe
-steht, wenn er hingerichtet wird und du den Toten an einen Pfahl hängst,
-^{[[#fn14][14]]}
+steht, wenn er hingerichtet wird und du den Toten an einen Pfahl hängst, [fn:14]
 
 <<v23>>
 23 dann soll die Leiche nicht über Nacht am Pfahl hängen bleiben,
 sondern du sollst ihn noch am gleichen Tag begraben; denn ein Gehenkter
 ist ein von Gott Verfluchter. Du sollst das Land nicht unrein werden
-lassen, das der Herr, dein Gott, dir als Erbbesitz gibt.
-^{[[#fn15][15]]}\\
+lassen, das der Herr, dein Gott, dir als Erbbesitz gibt. [fn:15]\\
 \\
 
-^{[[#fnm1][1]]} ℘ (1-9) 5,17; 19,12
+* Footnotes
 
-^{[[#fnm2][2]]} 1-9: War der Mörder nicht bekannt, dann konnte die
+[fn:1] (1-9) [[file:Dtn_5.org::v17][5,17]]; [[file:Dtn_19.org::v12][19,12]]
+
+[fn:2] 1-9: War der Mörder nicht bekannt, dann konnte die
 Blutrache sich gegen jeden Menschen aus der nächstliegenden Stadt
 richten. Durch die hier vorgeschriebene rechtlich-rituelle Aktion
 befreite sich die Stadt von dieser Bedrohung.
 
-^{[[#fnm3][3]]} ℘ 10,8; 17,8-13; 19,17
+[fn:3] [[file:Dtn_10.org::v8][10,8]]; [[file:Dtn_17.org::v8][17,8-13]]; [[file:Dtn_19.org::v17][19,17]]
 
-^{[[#fnm4][4]]} ℘ (6-7) Mt 27,24
+[fn:4] (6-7) [[file:~/RoamNotes/notes/Bibel/nt/Mt_27.org::v24][Mt 27,24]]
 
-^{[[#fnm5][5]]} ℘ (7-9) 19,10
+[fn:5] (7-9) [[file:Dtn_19.org::v18][19,10]]
 
-^{[[#fnm6][6]]} ℘ 21,21
+[fn:6] [[v21][21,21]]
 
-^{[[#fnm7][7]]} 12f: Haarescheren, Nägelschneiden und Neueinkleidung
+[fn:7] 12f: Haarescheren, Nägelschneiden und Neueinkleidung
 sind wahrscheinlich Symbolhandlungen, die besagen, hier beginne ein
 neues Leben. Der Sinn der Trauer ist die seelische Loslösung von der
 Vergangenheit.
 
-^{[[#fnm8][8]]} ℘ Gen 49,3
+[fn:8] [[file:Gen_49.org::v3][Gen 49,3]]
 
-^{[[#fnm9][9]]} den doppelten Anteil, andere Übersetzungsmöglichkeit:
+[fn:9] den doppelten Anteil, andere Übersetzungsmöglichkeit:
 zwei Drittel.
 
-^{[[#fnm10][10]]} ℘ (18-21) 5,16; Ex 21,15.17
+[fn:10] (18-21) [[file:Dtn_5.org::v16][5,16]]; [[file:Ex_21.org::v15][Ex 21,15]].[[file:Ex_21.org::v17][17]]
 
-^{[[#fnm11][11]]} 18-21: Das Gesetz begrenzt die in der
+[fn:11] 18-21: Das Gesetz begrenzt die in der
 patriarchalischen Gesellschaft unbegrenzte väterliche Gewalt auf
 doppelte Weise: Die Verstoßung eines Sohnes muss über ein öffentliches
 Gerichtsverfahren laufen und neben dem Vater muss auch die Mutter tätig
 werden.
 
-^{[[#fnm12][12]]} ℘ 19,12
+[fn:12] [[file:Dtn_19.org::v12][19,12]]
 
-^{[[#fnm13][13]]} ℘ 13,6.12; 17,7.12; 19,13.19; 21,9; 22,21f; 24,7; Ri
-20,13
+[fn:13] [[file:Dtn_13.org::v6][13,6]].[[file:Dtn_13.org::v12][12]]; [[file:Dtn_17.org::v7][17,7]].[[file:Dtn_17.org::v12][12]]; [[file:Dtn_19.org::v13][19,13]].[[file:Dtn_19.org::v19][19]]; [[v9][21,9]]; [[file:Dtn_22.org::v21][22,21f]]; [[file:Dtn_24.org::v7][24,7]]; [[file:Ri_20.org::v13][Ri 20,13]]
 
-^{[[#fnm14][14]]} ℘ Apg 10,39; (22-23) Jos 8,29; Mt 27,57f; Joh 19,31
+[fn:14] [[file:~/RoamNotes/notes/Bibel/nt/Apg_10.org::v39][Apg 10,39]]; (22-23) [[file:Jos_8.org::v29][Jos 8,29]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_27.org::v57][Mt 27,57f]]; [[file:~/RoamNotes/notes/Bibel/nt/Joh_19.org::v31][Joh 19,31]]
 
-^{[[#fnm15][15]]} ℘ Gal 3,13
+[fn:15] [[file:~/RoamNotes/notes/Bibel/nt/Gal_3.org::v13][Gal 3,13]]

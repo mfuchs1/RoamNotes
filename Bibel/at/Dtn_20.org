@@ -1,27 +1,21 @@
-:PROPERTIES:
-:ID:       8a9f807a-9f32-4650-afcd-1c6eea62fd1b
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Deuteronomium* --
-[[file:Dtn_1.html][1]] ... [[file:Dtn_18.html][18]]
-[[file:Dtn_19.html][19]] *20* [[file:Dtn_21.html][21]]
-[[file:Dtn_22.html][22]] ... [[file:Dtn_34.html][34]]
+#+TITLE: Dtn 20 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-29 So 21:46]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Dtn 20.html
 
---------------
-
-* Dtn 20
-  :PROPERTIES:
-  :CUSTOM_ID: dtn-20
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Das Aufgebot des Volksheeres: 20,1-9
-     :PROPERTIES:
-     :CUSTOM_ID: das-aufgebot-des-volksheeres-201-9
-     :END:
+* Das Aufgebot des Volksheeres: 20,1-9
+
 1 Wenn du zum Kampf gegen deine Feinde ausziehst und Pferde und Wagen
 und ein Kriegsvolk erblickst, das zahlreicher ist als du, dann sollst du
 dich nicht vor ihnen fürchten; denn der Herr, dein Gott, der dich aus
@@ -29,7 +23,7 @@ dich nicht vor ihnen fürchten; denn der Herr, dein Gott, der dich aus
 
 <<v2>>
 2 Wenn ihr in den Kampf zieht, soll der Priester vortreten, dem
-Kriegsvolk eine Ansprache halten ^{[[#fn1][1]]}
+Kriegsvolk eine Ansprache halten [fn:1]
 
 <<v3>>
 3 und zu ihnen sagen: Höre, Israel! Ihr zieht heute in den Kampf gegen
@@ -38,13 +32,13 @@ durcheinander und weicht nicht erschreckt zurück, wenn sie angreifen.
 
 <<v4>>
 4 Denn der Herr, euer Gott, zieht mit euch, um für euch gegen eure
-Feinde zu kämpfen und euch zu retten. ^{[[#fn2][2]]}
+Feinde zu kämpfen und euch zu retten. [fn:2]
 
 <<v5>>
 5 Dann sollen die Listenführer zum Kriegsvolk sagen: Ist unter euch
 einer, der ein neues Haus gebaut und noch nicht eingeweiht hat? Er trete
 weg und kehre zu seinem Haus zurück, damit er nicht im Kampfe fällt und
-ein anderer es einweiht. ^{[[#fn3][3]]}
+ein anderer es einweiht. [fn:3]
 
 <<v6>>
 6 Ist unter euch einer, der einen Weinberg angelegt und noch nicht die
@@ -54,14 +48,13 @@ er nicht im Kampfe fällt und ein anderer die erste Lese hält.
 <<v7>>
 7 Ist unter euch einer, der sich mit einer Frau verlobt und sie noch
 nicht geheiratet hat? Er trete weg und kehre nach Hause zurück, damit er
-nicht im Kampfe fällt und ein anderer seine Frau heiratet.
-^{[[#fn4][4]]}
+nicht im Kampfe fällt und ein anderer seine Frau heiratet. [fn:4]
 
 <<v8>>
 8 Außerdem sollen die Listenführer zum Kriegsvolk sagen: Ist unter euch
 einer, der sich fürchtet und keinen Mut hat? Er trete weg und kehre nach
 Hause zurück, damit nicht auch noch seinen Brüdern der Mut genommen
-wird. ^{[[#fn5][5]]}
+wird. [fn:5]
 
 <<v9>>
 9 Und wenn die Listenführer damit zu Ende sind, dies dem Kriegsvolk zu
@@ -70,10 +63,8 @@ Kriegsvolk übertragen.\\
 \\
 
 <<v10>>
-**** Der Krieg gegen Städte: 20,10-18
-     :PROPERTIES:
-     :CUSTOM_ID: der-krieg-gegen-städte-2010-18
-     :END:
+* Der Krieg gegen Städte: 20,10-18
+
 10 Wenn du vor eine Stadt ziehst, um sie anzugreifen, dann sollst du ihr
 zunächst eine friedliche Einigung vorschlagen.
 
@@ -103,31 +94,27 @@ entfernt liegen und nicht zu den Städten dieser Völker hier gehören.
 
 <<v16>>
 16 Aus den Städten dieser Völker jedoch, die der Herr, dein Gott, dir
-als Erbbesitz gibt, darfst du nichts, was Atem hat, am Leben lassen.
-^{[[#fn6][6]]}
+als Erbbesitz gibt, darfst du nichts, was Atem hat, am Leben lassen. [fn:6]
 
 <<v17>>
 17 Vielmehr sollst du die Hetiter und Amoriter, Kanaaniter und
 Perisiter, Hiwiter und Jebusiter der Vernichtung weihen, so wie es der
-Herr, dein Gott, dir zur Pflicht gemacht hat, ^{[[#fn7][7]]}
+Herr, dein Gott, dir zur Pflicht gemacht hat, [fn:7]
 
 <<v18>>
 18 damit sie euch nicht lehren, alle Gräuel nachzuahmen, die sie
 begingen, wenn sie ihren Göttern dienten, und ihr nicht gegen den Herrn,
-euren Gott, sündigt. ^{[[#fn8][8]]}\\
+euren Gott, sündigt. [fn:8]\\
 \\
 
 <<v19>>
-**** Die Schonung des Baumbestandes: 20,19f
-     :PROPERTIES:
-     :CUSTOM_ID: die-schonung-des-baumbestandes-2019f
-     :END:
+* Die Schonung des Baumbestandes: 20,19f
+
 19 Wenn du eine Stadt längere Zeit hindurch belagerst, um sie
 anzugreifen und zu erobern, dann sollst du ihrem Baumbestand keinen
 Schaden zufügen, indem du die Axt daran legst. Du darfst von den Bäumen
 essen, sie aber nicht fällen mit dem Gedanken, die Bäume auf dem Feld
-seien der Mensch selbst, sodass sie von dir belagert werden müssten.
-^{[[#fn9][9]]}
+seien der Mensch selbst, sodass sie von dir belagert werden müssten. [fn:9]
 
 <<v20>>
 20 Nur den Bäumen, von denen du weißt, dass sie keine Fruchtbäume sind,
@@ -136,24 +123,24 @@ Belagerungswerk bauen gegen die Stadt, die gegen dich kämpfen will, bis
 sie schließlich fällt.\\
 \\
 
-^{[[#fnm1][1]]} ℘ (2-4) 1,29-31; 3,21f; Ex 14,13f; Jos 23,3-13; Dtn
-17,12
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ Ex 14,30; Ri 2,18; 6,37; 7,7; 10,12; 1 Sam 7,8;
-14,23.39
+[fn:1] (2-4) [[file:Dtn_1.org::v29][1,29-31]]; [[file:Dtn_3.org::v21][3,21f]]; [[file:Ex_14.org::v13][Ex 14,13f]]; [[file:Jos_23.org::v3][Jos 23,3-13]]; [[file:Dtn_17.org::v12][Dtn 17,12]]
 
-^{[[#fnm3][3]]} ℘ (5-9) 16,18; 28,30
+[fn:2] [[file:Ex_14.org::v30][Ex 14,30]]; [[file:Ri_2.org::v18][Ri 2,18]]; [[file:Ri_6.org::v37][6,37]]; [[file:Ri_7.org::v7][7,7]]; [[file:Ri_10.org::v12][10,12]]; [[file:1.Sam_7.org::v8][1 Sam 7,8]]; [[file:1.Sam_14.org::v23][14,23.39]]
 
-^{[[#fnm4][4]]} ℘ 24,5
+[fn:3] (5-9) [[file:Dtn_16.org::v18][16,18]]; [[file:Dtn_28.org::v30][28,30]]
 
-^{[[#fnm5][5]]} ℘ Ri 7,3
+[fn:4] [[file:Dtn_24.org::v5][24,5]]
 
-^{[[#fnm6][6]]} ℘ (16-18) 13,16f
+[fn:5] [[file:Ri_7.org::v3][Ri 7,3]]
 
-^{[[#fnm7][7]]} ℘ (17-18) 7,1-4
+[fn:6] (16-18) [[file:Dtn_13.org::v16][13,16f]]
 
-^{[[#fnm8][8]]} ℘ 18,9
+[fn:7] (17-18) [[file:Dtn_7.org::v1][7,1-4]]
 
-^{[[#fnm9][9]]} die Bäume auf dem Feld seien der Mensch selbst: Von den
+[fn:8] [[file:Dtn_18.org::v9][18,9]]
+
+[fn:9] die Bäume auf dem Feld seien der Mensch selbst: Von den
 Bäumen leben die Menschen der Stadt. Wer sie vernichtet, nimmt den
 Menschen für lange Zeit ihren Lebensunterhalt.
