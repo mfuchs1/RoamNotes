@@ -1,31 +1,24 @@
-:PROPERTIES:
-:ID:       f525038c-58d4-493c-aa11-fdfc16d0f525
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Deuteronomium* --
-[[file:Dtn_1.html][1]] ... [[file:Dtn_22.html][22]]
-[[file:Dtn_23.html][23]] *24* [[file:Dtn_25.html][25]]
-[[file:Dtn_26.html][26]] ... [[file:Dtn_34.html][34]]
-
---------------
-
-* Dtn 24
-  :PROPERTIES:
-  :CUSTOM_ID: dtn-24
-  :END:
+#+TITLE: Dtn 24 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-10-30 Mo 09:25]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Dtn 24.html
 
 <<verses>>
 
 <<v1>>
-**** Die Wiederaufnahme einer geschiedenen Ehefrau: 24,1-4
-     :PROPERTIES:
-     :CUSTOM_ID: die-wiederaufnahme-einer-geschiedenen-ehefrau-241-4
-     :END:
+* Die Wiederaufnahme einer geschiedenen Ehefrau: 24,1-4
+
 1 Wenn ein Mann eine Frau geheiratet hat und ihr Ehemann geworden ist,
 sie ihm dann aber nicht gefällt, weil er an ihr etwas Anstößiges
 entdeckt, wenn er ihr dann eine Scheidungsurkunde ausstellt, sie ihr
-übergibt und sie aus seinem Haus fortschickt, ^{[[#fn1][1]][[#fn2][2]]}
+übergibt und sie aus seinem Haus fortschickt, [fn:1] [fn:2]
 
 <<v2>>
 2 wenn sie sein Haus dann verlässt, hingeht und die Frau eines anderen
@@ -45,56 +38,46 @@ verfallen lassen.\\
 \\
 
 <<v5>>
-**** Die Befreiung Neuvermählter vom Kriegsdienst: 24,5
-     :PROPERTIES:
-     :CUSTOM_ID: die-befreiung-neuvermählter-vom-kriegsdienst-245
-     :END:
+* Die Befreiung Neuvermählter vom Kriegsdienst: 24,5
+
 5 Wenn ein Mann neu vermählt ist, muss er nicht mit dem Heer ausrücken.
 Man soll auch keine andere Leistung von ihm verlangen. Ein Jahr lang
 darf er frei von Verpflichtungen zu Hause bleiben und die Frau, die er
-geheiratet hat, erfreuen. ^{[[#fn3][3]]}\\
+geheiratet hat, erfreuen. [fn:3]\\
 \\
 
 <<v6>>
-**** Verbotenes Pfandgut: 24,6
-     :PROPERTIES:
-     :CUSTOM_ID: verbotenes-pfandgut-246
-     :END:
+* Verbotenes Pfandgut: 24,6
+
 6 Man darf nicht die Handmühle oder den oberen Mühlstein als Pfand
 nehmen; denn dann nimmt man das Leben selbst als Pfand.\\
 \\
 
 <<v7>>
-**** Der Menschenraub: 24,7
-     :PROPERTIES:
-     :CUSTOM_ID: der-menschenraub-247
-     :END:
+* Der Menschenraub: 24,7
+
 7 Wenn ein Mann dabei ertappt wird, wie er einen seiner Brüder, einen
 Israeliten, entführt, ihn als Sklaven kennzeichnet und verkauft, dann
 soll dieser Entführer sterben. Du sollst das Böse aus deiner Mitte
-wegschaffen. ^{[[#fn4][4]][[#fn5][5]]}\\
+wegschaffen. [fn:4] [fn:5]\\
 \\
 
 <<v8>>
-**** Der Aussatz: 24,8f
-     :PROPERTIES:
-     :CUSTOM_ID: der-aussatz-248f
-     :END:
+* Der Aussatz: 24,8f
+
 8 Nimm dich in Acht, wenn Aussatz als Seuche auftritt. Achte genau auf
 alles, wozu euch die levitischen Priester anweisen, und haltet es! So
 wie ich es ihnen aufgetragen habe, sollt ihr darauf achten und es
-halten. ^{[[#fn6][6]]}
+halten. [fn:6]
 
 <<v9>>
 9 Denkt an das, was der Herr, dein Gott, als ihr aus Ägypten zogt,
-unterwegs mit Mirjam getan hat. ^{[[#fn7][7]]}\\
+unterwegs mit Mirjam getan hat. [fn:7]\\
 \\
 
 <<v10>>
-**** Die Pfandeinbringung und Pfandbehandlung: 24,10-13
-     :PROPERTIES:
-     :CUSTOM_ID: die-pfandeinbringung-und-pfandbehandlung-2410-13
-     :END:
+* Die Pfandeinbringung und Pfandbehandlung: 24,10-13
+
 10 Wenn du einem andern irgendein Darlehen gibst, sollst du, um das
 Pfand zu holen, nicht sein Haus betreten.
 
@@ -103,8 +86,7 @@ Pfand zu holen, nicht sein Haus betreten.
 gibst, soll dir ein Pfand nach draußen bringen.
 
 <<v12>>
-12 Wenn er in Not ist, sollst du sein Pfand nicht über Nacht behalten.
-^{[[#fn8][8]]}
+12 Wenn er in Not ist, sollst du sein Pfand nicht über Nacht behalten. [fn:8]
 
 <<v13>>
 13 Bei Sonnenuntergang sollst du ihm sein Pfand zurückgeben. Dann kann
@@ -113,13 +95,11 @@ Herrn, deinem Gott, im Recht sein.\\
 \\
 
 <<v14>>
-**** Die Lohnauszahlung an den Tagelöhner: 24,14f
-     :PROPERTIES:
-     :CUSTOM_ID: die-lohnauszahlung-an-den-tagelöhner-2414f
-     :END:
+* Die Lohnauszahlung an den Tagelöhner: 24,14f
+
 14 Du sollst den Lohn eines Notleidenden und Armen unter deinen Brüdern
 oder unter den Fremden, die in deinem Land innerhalb deiner
-Stadtbereiche wohnen, nicht zurückhalten. ^{[[#fn9][9]][[#fn10][10]]}
+Stadtbereiche wohnen, nicht zurückhalten. [fn:9] [fn:10]
 
 <<v15>>
 15 An dem Tag, an dem er arbeitet, sollst du ihm auch seinen Lohn geben.
@@ -129,45 +109,37 @@ keine Strafe für eine Sünde über dich kommen.\\
 \\
 
 <<v16>>
-**** Das Verbot der Sippenhaft: 24,16
-     :PROPERTIES:
-     :CUSTOM_ID: das-verbot-der-sippenhaft-2416
-     :END:
+* Das Verbot der Sippenhaft: 24,16
+
 16 Väter sollen nicht für ihre Söhne und Söhne nicht für ihre Väter mit
 dem Tod bestraft werden. Jeder soll nur für sein eigenes Verbrechen mit
-dem Tod bestraft werden. ^{[[#fn11][11]]}\\
+dem Tod bestraft werden. [fn:11]\\
 \\
 
 <<v17>>
-**** Die sozial Schwachen: 24,17f
-     :PROPERTIES:
-     :CUSTOM_ID: die-sozial-schwachen-2417f
-     :END:
+* Die sozial Schwachen: 24,17f
+
 17 Du sollst das Recht von Fremden, die Waisen sind, nicht beugen; du
-sollst das Kleid einer Witwe nicht als Pfand nehmen. ^{[[#fn12][12]]}
+sollst das Kleid einer Witwe nicht als Pfand nehmen. [fn:12]
 
 <<v18>>
 18 Denk daran: Als du in Ägypten Sklave warst, hat dich der Herr, dein
 Gott, dort freigekauft. Darum mache ich es dir zur Pflicht, diese
-Bestimmung einzuhalten. ^{[[#fn13][13]]}\\
+Bestimmung einzuhalten. [fn:13]\\
 \\
 
 <<v19>>
-**** Die vergessene Garbe: 24,19
-     :PROPERTIES:
-     :CUSTOM_ID: die-vergessene-garbe-2419
-     :END:
+* Die vergessene Garbe: 24,19
+
 19 Wenn du dein Feld aberntest und eine Garbe auf dem Feld vergisst,
 sollst du nicht umkehren, um sie zu holen. Sie soll den Fremden, Waisen
 und Witwen gehören, damit der Herr, dein Gott, dich bei jeder Arbeit
-deiner Hände segnet. ^{[[#fn14][14]]}\\
+deiner Hände segnet. [fn:14]\\
 \\
 
 <<v20>>
-**** Die Nachlese: 24,20-22
-     :PROPERTIES:
-     :CUSTOM_ID: die-nachlese-2420-22
-     :END:
+* Die Nachlese: 24,20-22
+
 20 Wenn du einen Ölbaum abgeklopft hast, sollst du nicht auch noch die
 Zweige absuchen. Was noch hängt, soll den Fremden, Waisen und Witwen
 gehören.
@@ -178,42 +150,44 @@ Nachlese halten. Sie soll den Fremden, Waisen und Witwen gehören.
 
 <<v22>>
 22 Denk daran: Du bist in Ägypten Sklave gewesen. Darum mache ich es dir
-zur Pflicht, diese Bestimmung einzuhalten. ^{[[#fn15][15]]}\\
+zur Pflicht, diese Bestimmung einzuhalten. [fn:15]\\
 \\
 
-^{[[#fnm1][1]]} ℘ Mt 5,31; 19,7; Mk 10,4
+* Footnotes
 
-^{[[#fnm2][2]]} Anstößiges: Was genau gemeint ist, wird nicht deutlich.
+[fn:1] [[file:~/RoamNotes/notes/Bibel/nt/Mt_5.org::v31][Mt 5,31]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_19.org::v7][19,7]]; [[file:~/RoamNotes/notes/Bibel/nt/Mk_10.org::v4][Mk 10,4]]
+
+[fn:2] Anstößiges: Was genau gemeint ist, wird nicht deutlich.
 Vielleicht liegt gar keine Einschränkung des Falles auf einen ganz
 bestimmten Scheidungsgrund vor. Die Ehescheidung wird jedenfalls als
 selbstverständlich vorausgesetzt.
 
-^{[[#fnm3][3]]} ℘ 20,7
+[fn:3] [[file:Dtn_20.org::v7][20,7]]
 
-^{[[#fnm4][4]]} ℘ 19,19; 21,21; Ex 21,16; 1 Kor 5,13
+[fn:4] [[file:Dtn_19.org::v19][19,19]]; [[file:Dtn_21.org::v21][21,21]]; [[file:Ex_21.org::v16][Ex 21,16]]; [[file:~/RoamNotes/notes/Bibel/nt/1.Kor_5.org::v13][1 Kor 5,13]]
 
-^{[[#fnm5][5]]} Möglicherweise ist hier der ursprüngliche Sinn des
+[fn:5] Möglicherweise ist hier der ursprüngliche Sinn des
 siebten Gebots zu greifen. «Entführen» in diesem Gesetz und «stehlen» in
-5,19 geben dasselbe hebräische Wort wieder.
+[[file:Dtn_5.org::v19][5,19]] geben dasselbe hebräische Wort wieder.
 
-^{[[#fnm6][6]]} ℘ 10,8
+[fn:6] [[file:Dtn_10.org::v8][10,8]]
 
-^{[[#fnm7][7]]} ℘ Num 12
+[fn:7] [[file:Num_12.org::v1][Num 12]]
 
-^{[[#fnm8][8]]} ℘ (12-13) Ex 22,25f
+[fn:8] (12-13) [[file:Ex_22.org::v25][Ex 22,25f]]
 
-^{[[#fnm9][9]]} ℘ (14-15) Mt 20,8; Mk 10,19; Jak 5,4; Mal 3,5
+[fn:9] (14-15) [[file:~/RoamNotes/notes/Bibel/nt/Mt_20.org::v8][Mt 20,8]]; [[file:~/RoamNotes/notes/Bibel/nt/Mk_10.org::v19][Mk 10,19]]; [[file:~/RoamNotes/notes/Bibel/nt/Jak_5.org::v4][Jak 5,4]]; [[file:Mal_3.org::v5][Mal 3,5]]
 
-^{[[#fnm10][10]]} Andere Lesart: Du sollst einen Not leidenden und armen
+[fn:10] Andere Lesart: Du sollst einen Not leidenden und armen
 Taglöhner unter deinen Brüdern oder unter den Fremden, die in deinem
 Land innerhalb deiner Stadtbereiche wohnen, nicht ausbeuten.
 
-^{[[#fnm11][11]]} ℘ 7,10; 2 Kön 14,6; Ez 18
+[fn:11] [[file:Dtn_7.org::v10][7,10]]; [[file:2.Kön_14.org::v6][2 Kön 14,6]]; [[file:Ez_18.org::v1][Ez 18]]
 
-^{[[#fnm12][12]]} ℘ 27,19; (17-18) Ex 22,20-23; 23,9
+[fn:12] [[file:Dtn_27.org::v1][27,19]]; (17-18) [[file:Ex_22.org::v20][Ex 22,20-23]]; [[file:Ex_23.org::v9][23,9]]
 
-^{[[#fnm13][13]]} ℘ 5,15
+[fn:13] [[file:Dtn_5.org::v15][5,15]]
 
-^{[[#fnm14][14]]} ℘ 28,12
+[fn:14] [[file:Dtn_28.org::v12][28,12]]
 
-^{[[#fnm15][15]]} ℘ 5,15
+[fn:15] [[file:Dtn_5.org::v15][5,15]]
