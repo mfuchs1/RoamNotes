@@ -1,22 +1,20 @@
-:PROPERTIES:
-:ID:       0e641eb9-09f7-46e4-9961-3b263d1103f6
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Josua* -- *1* [[file:Jos_2.html][2]]
-[[file:Jos_3.html][3]] ... [[file:Jos_24.html][24]]
+#+TITLE: Jos 1 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-01 Mi 10:23]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Jos 1.html
 
---------------
 
 * Jos 1
-  :PROPERTIES:
-  :CUSTOM_ID: jos-1
-  :END:
 
-** Die Bücher der Geschichte des Volkes Gottes
-   :PROPERTIES:
-   :CUSTOM_ID: die-bücher-der-geschichte-des-volkes-gottes
-   :END:
+* Die Bücher der Geschichte des Volkes Gottes
+
 Dieses Buch ist nach Josua, dem Nachfolger des Mose, benannt. Es
 berichtet vom Einzug Israels in das verheißene Land und umfasst den
 Zeitraum vom Tod des Mose bis zum Tod Josuas. In dieser Zeit wird nach
@@ -78,16 +76,12 @@ treu zu bleiben.\\
 <<verses>>
 
 <<v1>>
-** Die Eroberung des Landes: 1,1 - 12,24
-   :PROPERTIES:
-   :CUSTOM_ID: die-eroberung-des-landes-11---1224
-   :END:
-**** Der Befehl zur Besetzung des Westjordanlandes: 1,1-18
-     :PROPERTIES:
-     :CUSTOM_ID: der-befehl-zur-besetzung-des-westjordanlandes-11-18
-     :END:
+* Die Eroberung des Landes: 1,1 - 12,24
+
+* Der Befehl zur Besetzung des Westjordanlandes: 1,1-18
+
 1 Nachdem Mose, der Knecht des Herrn, gestorben war, sagte der Herr zu
-Josua, dem Sohn Nuns, dem Diener des Mose: ^{[[#fn1][1]]}
+Josua, dem Sohn Nuns, dem Diener des Mose: [fn:1]
 
 <<v2>>
 2 Mein Knecht Mose ist gestorben. Mach dich also auf den Weg und zieh
@@ -96,28 +90,28 @@ den Israeliten, geben werde.
 
 <<v3>>
 3 Jeden Ort, den euer Fuß betreten wird, gebe ich euch, wie ich es Mose
-versprochen habe. ^{[[#fn2][2]]}
+versprochen habe. [fn:2]
 
 <<v4>>
 4 Euer Gebiet soll von der Steppe und vom Libanon an bis zum großen
 Strom, zum Eufrat, reichen - das ist das ganze Land der Hetiter - und
-bis hin zum großen Meer, wo die Sonne untergeht. ^{[[#fn3][3]]}
+bis hin zum großen Meer, wo die Sonne untergeht. [fn:3]
 
 <<v5>>
 5 Niemand wird dir Widerstand leisten können, solange du lebst. Wie ich
 mit Mose war, will ich auch mit dir sein. Ich lasse dich nicht fallen
-und verlasse dich nicht. ^{[[#fn4][4]]}
+und verlasse dich nicht. [fn:4]
 
 <<v6>>
 6 Sei mutig und stark! Denn du sollst diesem Volk das Land zum Besitz
 geben, von dem du weißt: Ich habe ihren Vätern geschworen, es ihnen zu
-geben. ^{[[#fn5][5]][[#fn6][6]]}
+geben. [fn:5] [fn:6]
 
 <<v7>>
 7 Sei nur mutig und stark und achte genau darauf, dass du ganz nach der
 Weisung handelst, die mein Knecht Mose dir gegeben hat. Weich nicht nach
 rechts und nicht nach links davon ab, damit du Erfolg hast in allem, was
-du unternimmst. ^{[[#fn7][7]]}
+du unternimmst. [fn:7]
 
 <<v8>>
 8 Über dieses Gesetzbuch sollst du immer reden und Tag und Nacht darüber
@@ -136,22 +130,21 @@ allem, was du unternimmst.
 11 Geht durch das Lager und befehlt den Leuten: Versorgt euch mit
 Lebensmitteln; denn in drei Tagen werdet ihr den Jordan hier
 überschreiten, um in das Land hineinzuziehen und es in Besitz zu nehmen,
-das der Herr, euer Gott, euch zu eigen gibt. ^{[[#fn8][8]]}
+das der Herr, euer Gott, euch zu eigen gibt. [fn:8]
 
 <<v12>>
 12 Und den Rubenitern, den Gaditern und dem halben Stamm Manasse sagte
-Josua: ^{[[#fn9][9]][[#fn10][10]]}
+Josua: [fn:9] [fn:10]
 
 <<v13>>
 13 Erinnert euch an das, was Mose, der Knecht des Herrn, euch geboten
-hat: Der Herr, euer Gott, gewährt euch Ruhe und gibt euch dieses Land.
-^{[[#fn11][11]]}
+hat: Der Herr, euer Gott, gewährt euch Ruhe und gibt euch dieses Land. [fn:11]
 
 <<v14>>
 14 Eure Frauen, eure Kinder und euer Vieh sollen in dem Land bleiben,
 das Mose euch östlich des Jordan gegeben hat. Ihr aber sollt mit euren
 Brüdern hinübergehen, ihnen kampfbereit mit allen Kriegern voranziehen
-und ihnen helfen, ^{[[#fn12][12]]}
+und ihnen helfen, [fn:12]
 
 <<v15>>
 15 bis der Herr euren Brüdern ebenso wie euch Ruhe gewährt und bis auch
@@ -175,30 +168,32 @@ Anordnungen gehorcht, soll mit dem Tod bestraft werden. Sei nur mutig
 und stark!\\
 \\
 
-^{[[#fnm1][1]]} ℘ Dtn 34,5
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ Dtn 11,24
+[fn:1] Dtn 34,5
 
-^{[[#fnm3][3]]} Umschreibung des verheißenen Landes in seiner idealen
+[fn:2] Dtn 11,24
+
+[fn:3] Umschreibung des verheißenen Landes in seiner idealen
 größten Ausdehnung. Syrien-Palästina ist nach den assyrischen
 Königsinschriften das Hetiterland.
 
-^{[[#fnm4][4]]} ℘ Dtn 31,6.8
+[fn:4] Dtn 31,6.8
 
-^{[[#fnm5][5]]} ℘ Dtn 3,28
+[fn:5] Dtn 3,28
 
-^{[[#fnm6][6]]} Vgl. die Anmerkung zu Dtn 1,8.
+[fn:6] Vgl. die Anmerkung zu Dtn 1,8.
 
-^{[[#fnm7][7]]} ℘ Dtn 5,32; 29,8
+[fn:7] Dtn 5,32; 29,8
 
-^{[[#fnm8][8]]} ℘ Dtn 3,12-29
+[fn:8] Dtn 3,12-29
 
-^{[[#fnm9][9]]} ℘ (12-18) 4,12
+[fn:9] (12-18) 4,12
 
-^{[[#fnm10][10]]} Diese Stämme hatten ihren Landanteil bereits im
+[fn:10] Diese Stämme hatten ihren Landanteil bereits im
 Ostjordanland erhalten (vgl. Num 32).
 
-^{[[#fnm11][11]]} ℘ Num 32,20-29
+[fn:11] Num 32,20-29
 
-^{[[#fnm12][12]]} 14f: östlich, wörtlich: jenseits; vom Standpunkt des
+[fn:12] 14f: östlich, wörtlich: jenseits; vom Standpunkt des
 Autors aus betrachtet, der in Palästina lebt.
