@@ -17,7 +17,7 @@
 [[denote:20230621T073521][03 Golling]]
 
 * 3a 11:35-12:25
-<%%(org-class 2023 9 11 2024 7 5 1)>
+<%%(org-class 2023 9 11 2024 7 5 1 44)>
 
 Da in den Herbstferien das Thema "Allerheiligen / Allerseelen" fällt, bieten sich folgende Themen, Fragen an:
 - Leben nach dem Tod
@@ -36,7 +36,7 @@ TikTok (23 min):
 [[https://www.youtube.com/watch?v=PZPfO7vozVs]]
   
 * 3a 11:35-12:25
-<%%(org-class 2023 9 15 2024 7 9 5 43)>
+<%%(org-class 2023 9 15 2024 7 9 5 44)>
 
 
 * 3A [KV Bernhard Moser]

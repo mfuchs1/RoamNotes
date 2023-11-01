@@ -17,7 +17,7 @@
 [[denote:20230621T073521][03 Golling]]
 
 * 3b 11:35-12:25
-<%%(org-class 2023 9 13 2024 7 7 3)>
+<%%(org-class 2023 9 13 2024 7 7 3 44)>
 
 Da in den Herbstferien das Thema "Allerheiligen / Allerseelen" fällt, bieten sich folgende Themen, Fragen an:
 - Leben nach dem Tod
@@ -28,7 +28,7 @@ Da in den Herbstferien das Thema "Allerheiligen / Allerseelen" fällt, bieten si
 - ...
 
 * 3b 10:40-11:30
-<%%(org-class 2023 9 14 2024 7 8 4 43)>
+<%%(org-class 2023 9 14 2024 7 8 4 44)>
 
 Kann ich vollkommen sein?
 YouTube Video dazu...

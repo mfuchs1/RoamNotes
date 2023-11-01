@@ -20,7 +20,7 @@ Esther Tong hat sich abgemeldet - oder bleibt sie jetzt?
 Wer geht noch nicht?
 
 * 2a 13:25-14:15
-<%%(org-class 2023 9 11 2024 7 5 1)>
+<%%(org-class 2023 9 11 2024 7 5 1 44)>
 
 Da in den Herbstferien das Thema "Allerheiligen / Allerseelen" fällt, bieten sich folgende Themen, Fragen an:
 - Leben nach dem Tod
@@ -31,7 +31,7 @@ Da in den Herbstferien das Thema "Allerheiligen / Allerseelen" fällt, bieten si
 - ...
 
 * 2a 09:35-10:25
-<%%(org-class 2023 9 12 2024 7 6 2)>
+<%%(org-class 2023 9 12 2024 7 6 2 44)>
 
 
 * 2A MINT [KV Manuela Singer]

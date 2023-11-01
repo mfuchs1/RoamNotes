@@ -17,7 +17,7 @@
 [[denote:20230621T073603][04 Golling]]
 
 * 4b 07:45-08:35
-<%%(org-class 2023 9 12 2024 7 6 2)>
+<%%(org-class 2023 9 12 2024 7 6 2 44)>
 
 Die Kinder haben in der letzten Stunde eine Doppelseite zum Thema "Konfuzius" gestaltet. Diese werde ich mir anschauen und benoten.
 
@@ -34,7 +34,7 @@ Doku über "Hinduismus"
 
 
 * 4b 07:45-08:35
-<%%(org-class 2023 9 13 2024 7 7 3)>
+<%%(org-class 2023 9 13 2024 7 7 3 44)>
 
 Wir werden wohl heute mit dem Hinduismus beginnen - Doku "Faszination Glaube - Hinduismus". 
 

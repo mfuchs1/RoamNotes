@@ -18,7 +18,7 @@
 
 
 * 4a 10:40-11:30
-<%%(org-class 2023 9 11 2024 7 5 1)>
+<%%(org-class 2023 9 11 2024 7 5 1 44)>
 
 Die Kinder haben in der letzten Stunde eine Doppelseite zum Thema "Konfuzius" gestaltet. Diese werde ich mir anschauen - benoten.
 
@@ -42,7 +42,7 @@ TikTok:
 
 
 * 4a 08:40-09:30
-<%%(org-class 2023 9 12 2024 7 6 2)>
+<%%(org-class 2023 9 12 2024 7 6 2 44)>
 
 Die Kinder haben in der letzten Stunde eine Doppelseite zum Thema "Konfuzius" gestaltet. Diese werde ich mir anschauen - benoten.
 

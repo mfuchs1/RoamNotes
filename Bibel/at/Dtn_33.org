@@ -1,84 +1,71 @@
-:PROPERTIES:
-:ID:       74fffee9-9d29-4716-8ff4-b45ab8308d6b
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Deuteronomium* --
-[[file:Dtn_1.html][1]] ... [[file:Dtn_31.html][31]]
-[[file:Dtn_32.html][32]] *33* [[file:Dtn_34.html][34]]
-
---------------
-
-* Dtn 33
-  :PROPERTIES:
-  :CUSTOM_ID: dtn-33
-  :END:
+#+TITLE: Dtn 33 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-01 Mi 09:57]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Dtn 33.html
 
 <<verses>>
 
 <<v1>>
-** Der Segen des Mose: 33,1-29
-   :PROPERTIES:
-   :CUSTOM_ID: der-segen-des-mose-331-29
-   :END:
+* Der Segen des Mose: 33,1-29
+
 1 Und das ist der Segen, mit dem Mose, der Mann Gottes, die Israeliten
 segnete, bevor er starb.\\
 \\
 
 <<v2>>
-**** Einleitung: 33,2-5
-     :PROPERTIES:
-     :CUSTOM_ID: einleitung-332-5
-     :END:
+* Einleitung: 33,2-5
+
 2 Er sprach: Der Herr kam hervor aus dem Sinai, /\\
  er leuchtete vor ihnen auf aus Seïr, /\\
  er strahlte aus dem Gebirge Paran, /\\
  er trat heraus aus Tausenden von Heiligen. /\\
- Ihm zur Rechten flammte vor ihnen das Feuer des Gesetzes.
-^{[[#fn1][1]][[#fn2][2]]}\\
+ Ihm zur Rechten flammte vor ihnen das Feuer des Gesetzes. [fn:1] [fn:2]\\
 \\
 
 <<v3>>
 3 Der du die Völker liebst: /\\
  In deiner Hand sind alle Heiligen eines jeden von ihnen. /\\
  Sie haben sich dir zu Füßen geworfen, /\\
- jeder wird sich erheben, wenn du es befiehlst.
-^{[[#fn3][3]][[#fn4][4]]}\\
+ jeder wird sich erheben, wenn du es befiehlst. [fn:3] [fn:4]\\
 \\
 
 <<v4>>
 4 Mose hat uns eine Weisung übergeben, /\\
- ein Besitztum für eine Gemeinde Jakobs, ^{[[#fn5][5]]}\\
+ ein Besitztum für eine Gemeinde Jakobs, [fn:5]\\
 \\
 
 <<v5>>
 5 und ein König erstand in Jeschurun - /\\
  als sich die Häupter des Volkes versammelten, /\\
- die Vereinigung der Stämme Israels. ^{[[#fn6][6]][[#fn7][7]]}\\
+ die Vereinigung der Stämme Israels. [fn:6] [fn:7]\\
 \\
 
 <<v6>>
-**** Der Segen über die Stämme: 33,6-25
-     :PROPERTIES:
-     :CUSTOM_ID: der-segen-über-die-stämme-336-25
-     :END:
+* Der Segen über die Stämme: 33,6-25
+
 6 *Ruben* soll leben, er sterbe nicht aus - /\\
- doch habe er wenig Männer. ^{[[#fn8][8]]}\\
+ doch habe er wenig Männer. [fn:8]\\
 \\
 
 <<v7>>
 7 Und dies sagte er für *Juda*: Höre, Herr, die Stimme Judas, /\\
  führ ihn heim zu seinem Volk. /\\
  Mit eigenen Händen kämpfe er dafür - /\\
- sei du ihm Hilfe gegen seine Feinde. ^{[[#fn9][9]]}\\
+ sei du ihm Hilfe gegen seine Feinde. [fn:9]\\
 \\
 
 <<v8>>
 8 Für *Levi* sagte er: Levi hat deine Tummim erhalten, /\\
  deine Urim dein treuer Gefolgsmann, /\\
  den du in Massa auf die Probe stelltest, /\\
- mit dem du strittest am Wasser von Meriba;
-^{[[#fn10][10]][[#fn11][11]]}\\
+ mit dem du strittest am Wasser von Meriba; [fn:10] [fn:11]\\
 \\
 
 <<v9>>
@@ -87,14 +74,14 @@ segnete, bevor er starb.\\
  und der seine Brüder nicht erkannte /\\
  und von seinen Kindern nichts wissen wollte. /\\
  Denn die Leviten haben auf dein Wort geachtet - /\\
- nun wachen sie über deinen Bund. ^{[[#fn12][12]]}\\
+ nun wachen sie über deinen Bund. [fn:12]\\
 \\
 
 <<v10>>
 10 Sie lehren Jakob deine Rechtsvorschriften, /\\
  Israel deine Weisung. /\\
  Sie legen Weihrauch auf, damit du ihn riechst, /\\
- legen das Ganzopfer auf deinen Altar. ^{[[#fn13][13]]}\\
+ legen das Ganzopfer auf deinen Altar. [fn:13]\\
 \\
 
 <<v11>>
@@ -109,7 +96,7 @@ segnete, bevor er starb.\\
  der Liebling des Herrn. /\\
  Täglich wacht /\\
  über ihn der Höchste /\\
- und zwischen seinen Schultern wohne er. ^{[[#fn14][14]][[#fn15][15]]}\\
+ und zwischen seinen Schultern wohne er. [fn:14] [fn:15]\\
 \\
 
 <<v13>>
@@ -120,7 +107,7 @@ segnete, bevor er starb.\\
 
 <<v14>>
 14 mit Köstlichem aus den Erzeugnissen der Sonne, /\\
- mit Köstlichem aus dem, was jeden Monat sprießt, ^{[[#fn16][16]]}\\
+ mit Köstlichem aus dem, was jeden Monat sprießt, [fn:16]\\
 \\
 
 <<v15>>
@@ -133,8 +120,7 @@ segnete, bevor er starb.\\
  und (über ihn komme) die Gnade dessen, /\\
  der im Dornbusch wohnt. /\\
  Das komme über Josefs Haupt, /\\
- auf den Scheitel des Geweihten aus seiner Brüder Schar.
-^{[[#fn17][17]][[#fn18][18]]}\\
+ auf den Scheitel des Geweihten aus seiner Brüder Schar. [fn:17] [fn:18]\\
 \\
 
 <<v17>>
@@ -143,7 +129,7 @@ segnete, bevor er starb.\\
  Mit ihnen stoße er die Völker alle zusammen nieder, /\\
  die Enden der Welt. /\\
  Das sind die Zehntausende aus *Efraim*, /\\
- das sind die Tausende aus *Manasse*. ^{[[#fn19][19]]}\\
+ das sind die Tausende aus *Manasse*. [fn:19]\\
 \\
 
 <<v18>>
@@ -156,13 +142,13 @@ segnete, bevor er starb.\\
 19 Sie werden Völker zum Berge rufen, /\\
  dort werden sie gültige Opfer schlachten. /\\
  Denn sie nähren sich vom Überfluss der Meere, /\\
- von Schätzen, die im Sand verborgen sind. ^{[[#fn20][20]]}\\
+ von Schätzen, die im Sand verborgen sind. [fn:20]\\
 \\
 
 <<v20>>
 20 Und für *Gad* sagte er: Gepriesen sei der, der Gad Raum schafft. /\\
  Gad lauert wie ein Löwe, /\\
- Arm und Kopf reißt er ab. ^{[[#fn21][21]]}\\
+ Arm und Kopf reißt er ab. [fn:21]\\
 \\
 
 <<v21>>
@@ -170,8 +156,7 @@ segnete, bevor er starb.\\
  denn wo der Anteil des Anführers war, /\\
  da versammelten sich die Häupter des Volkes. /\\
  Er tat, was vor dem Herrn recht ist, /\\
- (hielt sich) gemeinsam mit Israel (an) seine Rechtsvorschriften.
-^{[[#fn22][22]]}\\
+ (hielt sich) gemeinsam mit Israel (an) seine Rechtsvorschriften. [fn:22]\\
 \\
 
 <<v22>>
@@ -182,7 +167,7 @@ segnete, bevor er starb.\\
 <<v23>>
 23 Und für *Naftali* sagte er: Naftali, gesättigt mit Gnade, /\\
  gefüllt mit dem Segen des Herrn - /\\
- See und Süden nimm in Besitz! ^{[[#fn23][23]]}\\
+ See und Süden nimm in Besitz! [fn:23]\\
 \\
 
 <<v24>>
@@ -198,13 +183,11 @@ gesegnet, /\\
 \\
 
 <<v26>>
-**** Schluss: 33,26-29
-     :PROPERTIES:
-     :CUSTOM_ID: schluss-3326-29
-     :END:
+* Schluss: 33,26-29
+
 26 Keiner ist wie der Gott Jeschuruns, /\\
  der in den Himmel steigt, um dir zu helfen, /\\
- auf die Wolken in seiner Hoheit. ^{[[#fn24][24]]}\\
+ auf die Wolken in seiner Hoheit. [fn:24]\\
 \\
 
 <<v27>>
@@ -218,7 +201,7 @@ gesegnet, /\\
 28 So siedelte Israel sich sicher an, /\\
  die Quelle Jakobs für sich allein, /\\
  in einem Land voller Korn und Wein, /\\
- dessen Himmel Tau träufeln lässt. ^{[[#fn25][25]][[#fn26][26]]}\\
+ dessen Himmel Tau träufeln lässt. [fn:25] [fn:26]\\
 \\
 
 <<v29>>
@@ -231,9 +214,11 @@ erniedrigen /\\
  und du setzt deinen Fuß auf ihre Nacken.\\
 \\
 
-^{[[#fnm1][1]]} ℘ Ri 5,4; Ps 68,8; Mt 25,31; Jud 14
+* Footnotes
 
-^{[[#fnm2][2]]} 2-29: Ein sehr alter, mehrfach neu gedeuteter und
+[fn:1] [[file:Ri_5.org::v4][Ri 5,4]]; [[file:Ps_68.org::v8][Ps 68,8]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_25.org::v31][Mt 25,31]]; [[file:~/RoamNotes/notes/Bibel/nt/Jud_1.org::v14][Jud 14]]
+
+[fn:2] 2-29: Ein sehr alter, mehrfach neu gedeuteter und
 erweiterter Text. Er ist hier nach der ältesten in Handschriften
 erfassbaren Gestalt übersetzt. Einleitung und Schluss bilden zusammen
 einen rahmenden Psalm. Er ist in der hier übersetzten Fassung
@@ -243,63 +228,63 @@ Wüstenwanderung Israels hinein. Die «Heiligen» sind die Engel. Der
 Ausdruck «Tausende von Heiligen» ist in H aber zugleich eine Anspielung
 auf eine weitere Örtlichkeit der Wüstenwanderung: Meribat Kadesch.
 
-^{[[#fnm3][3]]} ℘ Apg 20,32; 26,18; Eph 1,18
+[fn:3] [[file:~/RoamNotes/notes/Bibel/nt/Apg_20.org::v32][Apg 20,32]]; [[file:~/RoamNotes/notes/Bibel/nt/Apg_26.org::v18][26,18]]; [[file:~/RoamNotes/notes/Bibel/nt/Eph_1.org::v18][Eph 1,18]]
 
-^{[[#fnm4][4]]} die Völker: hier die zwölf Stämme Israels. Ihre
+[fn:4] die Völker: hier die zwölf Stämme Israels. Ihre
 «Heiligen» sind entweder ihre Schutzengel oder die einzelnen Menschen
 aus den Stämmen.
 
-^{[[#fnm5][5]]} Weisung: die deuteronomische Gesetzgebung im Land Moab.
+[fn:5] Weisung: die deuteronomische Gesetzgebung im Land Moab.
 
-^{[[#fnm6][6]]} ℘ 1,13; 29,9; 32,15
+[fn:6] [[file:Dtn_1.org::v13][1,13]]; [[file:Dtn_29.org::v9][29,9]]; [[file:Dtn_32.org::v15][32,15]]
 
-^{[[#fnm7][7]]} Einführung des Königtums unter Samuel. Zu Jeschurun vgl.
+[fn:7] Einführung des Königtums unter Samuel. Zu Jeschurun vgl.
 die Anmerkung zu 32,15.
 
-^{[[#fnm8][8]]} ℘ (6-25) Gen 49,3-27
+[fn:8] (6-25) [[file:Gen_49.org::v3][Gen 49,3-27]]
 
-^{[[#fnm9][9]]} Entweder die Zeit nach Sauls Tod oder die Zeit nach der
+[fn:9] Entweder die Zeit nach Sauls Tod oder die Zeit nach der
 Reichsspaltung.
 
-^{[[#fnm10][10]]} ℘ 1 Sam 14,37-42 G; Ex 17; Num 20,2-13
+[fn:10] [[file:1.Sam_14.org::v37][1 Sam 14,37-42 G]]; [[file:Ex_17.org::v1][Ex 17]]; [[file:Num_20.org::v2][Num 20,2-13]]
 
-^{[[#fnm11][11]]} Tummim und Urim sind Orakelinstrumente. Andere Lesart:
+[fn:11] Tummim und Urim sind Orakelinstrumente. Andere Lesart:
 Deine Tummim und Urim gebühren deinem treuen Gefolgsmann.
 
-^{[[#fnm12][12]]} ℘ Ex 32,27-29; Mt 10,37; Lk 14,26
+[fn:12] [[file:Ex_32.org::v27][Ex 32,27-29]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_10.org::v37][Mt 10,37]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_14.org::v26][Lk 14,26]]
 
-^{[[#fnm13][13]]} Wörtlich: Sie legen Weihrauch in deine Nase.
+[fn:13] Wörtlich: Sie legen Weihrauch in deine Nase.
 
-^{[[#fnm14][14]]} ℘ 2 Thess 2,13
+[fn:14] [[file:~/RoamNotes/notes/Bibel/nt/2.Thess_2.org::v13][2 Thess 2,13]]
 
-^{[[#fnm15][15]]} Andere Lesart: In Sicherheit wohne der Liebling des
+[fn:15] Andere Lesart: In Sicherheit wohne der Liebling des
 Herrn an dessen Seite. Täglich wacht er über ihn und zwischen seinen
 Schultern wohnt er. - Das Wohnen zwischen den Schultern kann sich auf
 Benjamin beziehen: Er sei an Gottes Schultern, an Gottes Brust geborgen.
 Oder es kann sich auf Gott beziehen: Sein Heiligtum stehe zwischen den
 Schultern, d. h. den Bergen des Stammesgebiets von Benjamin.
 
-^{[[#fnm16][16]]} Erzeugnisse der Sonne: wohl die Früchte, die nur
+[fn:16] Erzeugnisse der Sonne: wohl die Früchte, die nur
 einmal im Jahr wachsen, im Gegensatz zu dem, «was jeden Monat sprießt»,
 d. h. während des ganzen Jahres wächst.
 
-^{[[#fnm17][17]]} ℘ Ex 3,2-4
+[fn:17] [[file:Ex_3.org::v2][Ex 3,2-4]]
 
-^{[[#fnm18][18]]} seiner Brüder Schar: die zwölf Söhne Jakobs.
+[fn:18] seiner Brüder Schar: die zwölf Söhne Jakobs.
 
-^{[[#fnm19][19]]} Josefs «Stier» ist der Gott Israels. Noch in der
+[fn:19] Josefs «Stier» ist der Gott Israels. Noch in der
 Königszeit wurde Gott auch in Gestalt eines Stierbildes verehrt. Josef
 gilt dem Dichter als Gottes Erstgeborener, wird also selbst auch mit
 einem gewaltigen Stier verglichen.
 
-^{[[#fnm20][20]]} Der «Berg» war vielleicht ursprünglich der Tabor.
+[fn:20] Der «Berg» war vielleicht ursprünglich der Tabor.
 «Schätze, die im Sand verborgen sind»: entweder zugewehtes Strandgut
 oder der Sand selbst, der für die Glaserzeugung gebraucht wurde.
 
-^{[[#fnm21][21]]} Der, «der Gad Raum schafft», ist Jahwe, der Gott
+[fn:21] Der, «der Gad Raum schafft», ist Jahwe, der Gott
 Israels.
 
-^{[[#fnm22][22]]} Andere Lesart: Das erste Stück hat er sich ausgesucht,
+[fn:22] Andere Lesart: Das erste Stück hat er sich ausgesucht,
 denn dort ist der Anteil des verborgenen Anführers. Er kam zu den
 Häuptern des Volkes. - Der «verborgene Anführer» ist nach der jüdischen
 Tradition Mose, der im Gebiet des Stammes Gad an einem unbekannten Ort
@@ -307,13 +292,13 @@ begraben ist. Bei der Versammlung der «Häupter des Volkes» kann man für
 die hier übersetzte Textfassung an die deuteronomische Gesetzgebung
 durch Mose denken.
 
-^{[[#fnm23][23]]} See und Süden: See Gennesaret und dessen Südufer. Der
+[fn:23] See und Süden: See Gennesaret und dessen Südufer. Der
 Hauptbesitz von Naftali war im galiläischen Bergland. Hier wird nur auf
 eine Gebietsausdehnung nach Süden hingewiesen.
 
-^{[[#fnm24][24]]} Zu Jeschurun vgl. die Anmerkung zu 32,15.
+[fn:24] Zu Jeschurun vgl. die Anmerkung zu [[file:Dtn_32.org::v15][32,15]].
 
-^{[[#fnm25][25]]} ℘ Gen 27,28
+[fn:25] [[file:Gen_27.org::v28][Gen 27,28]]
 
-^{[[#fnm26][26]]} Quelle Jakobs: alle, die aus Jakob hervorgegangen
+[fn:26] Quelle Jakobs: alle, die aus Jakob hervorgegangen
 sind, also das Volk Israel durch die Generationen hindurch.

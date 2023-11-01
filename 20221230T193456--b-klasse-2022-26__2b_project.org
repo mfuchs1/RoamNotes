@@ -20,12 +20,12 @@ Wer hat sich abgemeldet?
 Lucian, Stefan, +?
 
 * 2b 10:40-11:30
-<%%(org-class 2023 9 12 2024 7 6 2)>
+<%%(org-class 2023 9 12 2024 7 6 2 44)>
 
 Neues Kapitel: "das Leid hat viele Gesichter"
 
 * 2b 10:40-11:30
-<%%(org-class 2023 9 13 2024 7 7 3)>
+<%%(org-class 2023 9 13 2024 7 7 3 44)>
 
 Wir haben das neue, zweite Kapitel begonnen: Leid hat viele Gesichter. Wie gehen wir als Christen mit Schicksalsschlägen oder Leid um? Was sagt uns Gott? Welche Strategien gibt es:
 
