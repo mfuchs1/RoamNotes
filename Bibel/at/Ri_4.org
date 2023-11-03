@@ -1,37 +1,29 @@
-:PROPERTIES:
-:ID:       9d14c963-f06e-444e-bdc8-dfb1a0b2f18c
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch der Richter* -- [[file:Ri_1.html][1]]
-[[file:Ri_2.html][2]] [[file:Ri_3.html][3]] *4* [[file:Ri_5.html][5]]
-[[file:Ri_6.html][6]] ... [[file:Ri_21.html][21]]
-
---------------
-
-* Ri 4
-  :PROPERTIES:
-  :CUSTOM_ID: ri-4
-  :END:
+#+TITLE: Ri 4 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-03 Fr 16:51]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ri 4.html
 
 <<verses>>
 
 <<v1>>
-*** Debora und Barak: 4,1 - 5,31
-    :PROPERTIES:
-    :CUSTOM_ID: debora-und-barak-41---531
-    :END:
-**** Der Sieg über Sisera: 4,1-16
-     :PROPERTIES:
-     :CUSTOM_ID: der-sieg-über-sisera-41-16
-     :END:
+* Debora und Barak: 4,1 - 5,31
+
+* Der Sieg über Sisera: 4,1-16
+
 1 Als Ehud gestorben war, taten die Israeliten wieder, was dem Herrn
 missfiel.
 
 <<v2>>
 2 Darum lieferte sie der Herr der Gewalt Jabins, des Königs von Kanaan,
 aus, der in Hazor herrschte. Sein Heerführer war Sisera, der in
-Haroschet-Gojim wohnte. ^{[[#fn1][1]]}
+Haroschet-Gojim wohnte. [fn:1]
 
 <<v3>>
 3 Da schrien die Israeliten zum Herrn, denn Sisera besaß neunhundert
@@ -45,7 +37,7 @@ Israel.
 <<v5>>
 5 Sie hatte ihren Sitz unter der Debora-Palme zwischen Rama und Bet-El
 im Gebirge Efraim und die Israeliten kamen zu ihr hinauf, um sich Recht
-sprechen zu lassen. ^{[[#fn2][2]]}
+sprechen zu lassen. [fn:2]
 
 <<v6>>
 6 Sie schickte Boten zu Barak, dem Sohn Abinoams aus Kedesch-Naftali,
@@ -75,7 +67,7 @@ Mann folgten ihm (auf den Tabor) hinauf. Auch Debora ging mit ihm.
 <<v11>>
 11 Der Keniter Heber aber, der sich von Kain, von den Söhnen Hobabs, des
 Schwiegervaters des Mose, getrennt hatte, hatte sein Zelt an der Eiche
-von Zaanannim bei Kedesch aufgeschlagen. ^{[[#fn3][3]]}
+von Zaanannim bei Kedesch aufgeschlagen. [fn:3]
 
 <<v12>>
 12 Als man nun Sisera meldete, dass Barak, der Sohn Abinoams, auf den
@@ -84,7 +76,7 @@ Berg Tabor gezogen sei,
 <<v13>>
 13 beorderte Sisera alle seine Wagen - neunhundert eiserne Kampfwagen
 und das ganze Kriegsvolk, das er bei sich hatte, von Haroschet-Gojim an
-den Bach Kischon. ^{[[#fn4][4]]}
+den Bach Kischon. [fn:4]
 
 <<v14>>
 14 Da sagte Debora zu Barak: Auf! Denn das ist der Tag, an dem der Herr
@@ -95,8 +87,7 @@ folgten ihm.
 <<v15>>
 15 Und der Herr brachte Sisera, alle seine Wagen und seine ganze
 Streitmacht [mit scharfem Schwert] vor den Augen Baraks in große
-Verwirrung. Sisera sprang vom Wagen und floh zu Fuß.
-^{[[#fn5][5]][[#fn6][6]]}
+Verwirrung. Sisera sprang vom Wagen und floh zu Fuß. [fn:5] [fn:6]
 
 <<v16>>
 16 Barak verfolgte die Wagen und das Heer bis nach Haroschet-Gojim. Das
@@ -105,10 +96,8 @@ Mann blieb übrig.\\
 \\
 
 <<v17>>
-**** Siseras Tod: 4,17-24
-     :PROPERTIES:
-     :CUSTOM_ID: siseras-tod-417-24
-     :END:
+* Siseras Tod: 4,17-24
+
 17 Sisera war zu Fuß zum Zelt der Jaël, der Frau des Keniters Heber,
 geflohen; denn zwischen Jabin, dem König von Hazor, und der Familie des
 Keniters Heber herrschte Frieden.
@@ -121,7 +110,7 @@ deckte ihn mit einem Teppich zu.
 <<v19>>
 19 Er sagte zu ihr: Gib mir doch etwas Wasser zu trinken, ich habe
 Durst. Sie öffnete einen Schlauch mit Milch und gab ihm zu trinken; dann
-deckte sie ihn wieder zu. ^{[[#fn7][7]]}
+deckte sie ihn wieder zu. [fn:7]
 
 <<v20>>
 20 Er sagte zu ihr: Stell dich an den Zelteingang, und wenn einer kommt
@@ -149,17 +138,19 @@ von Kanaan, bis sie Jabin, den König von Kanaan, ganz vernichtet
 hatten.\\
 \\
 
-^{[[#fnm1][1]]} ℘ Jos 11,1
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ Gen 35,8
+[fn:1] [[file:Jos_11.org::v1][Jos 11,1]]
 
-^{[[#fnm3][3]]} ℘ 1,16
+[fn:2] [[file:Gen_35.org::v8][Gen 35,8]]
 
-^{[[#fnm4][4]]} Der Bach Kischon durchfließt den Westteil der
+[fn:3] [[file:Ri_1.org::v16][1,16]]
+
+[fn:4] Der Bach Kischon durchfließt den Westteil der
 Jesreelebene.
 
-^{[[#fnm5][5]]} ℘ 5,20; Ex 23,27; Jos 10,10; 1 Sam 7,10
+[fn:5] [[file:Ri_5.org::v20][5,20]]; [[file:Ex_23.org::v27][Ex 23,27]]; [[file:Jos_10.org::v10][Jos 10,10]]; [[file:1.Sam_7.org::v10][1 Sam 7,10]]
 
-^{[[#fnm6][6]]} Zusatz aus V. 16.
+[fn:6] Zusatz aus V. 16.
 
-^{[[#fnm7][7]]} ℘ 5,25
+[fn:7] [[file:Ri_5.org::v25][5,25]]

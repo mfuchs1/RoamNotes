@@ -1,29 +1,23 @@
-:PROPERTIES:
-:ID:       4cd73ab4-82ce-44a2-8007-add1e497bbc6
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch der Richter* -- [[file:Ri_1.html][1]]
-[[file:Ri_2.html][2]] *3* [[file:Ri_4.html][4]] [[file:Ri_5.html][5]]
-... [[file:Ri_21.html][21]]
-
---------------
-
-* Ri 3
-  :PROPERTIES:
-  :CUSTOM_ID: ri-3
-  :END:
+#+TITLE: Ri 3 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-03 Fr 16:45]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ri 3.html
 
 <<verses>>
 
 <<v1>>
-**** Fremde Völker unter den Israeliten: 3,1-6
-     :PROPERTIES:
-     :CUSTOM_ID: fremde-völker-unter-den-israeliten-31-6
-     :END:
+* Fremde Völker unter den Israeliten: 3,1-6
+
 1 Das sind die Völker, die der Herr (im Land) ließ, um durch sie die
 Israeliten, alle, die von all den Kämpfen um Kanaan nichts mehr wussten,
-auf die Probe zu stellen ^{[[#fn1][1]]}
+auf die Probe zu stellen [fn:1]
 
 <<v2>>
 2 - (er tat das) nur, um die Generationen der Israeliten, die das
@@ -33,7 +27,7 @@ von den Kriegen, die früher waren, nichts mehr -:
 <<v3>>
 3 die fünf Fürsten der Philister und alle Kanaaniter und Sidonier und
 Hiwiter, die auf dem Libanongebirge wohnen, vom Berg Baal-Hermon bis
-nach Lebo-Hamat. ^{[[#fn2][2]][[#fn3][3]]}
+nach Lebo-Hamat. [fn:2] [fn:3]
 
 <<v4>>
 4 Sie waren dazu da, dass die Israeliten durch sie auf die Probe
@@ -51,14 +45,10 @@ deren Söhnen und sie dienten deren Göttern.\\
 \\
 
 <<v7>>
-** Die einzelnen Richter: 3,7 - 16,31
-   :PROPERTIES:
-   :CUSTOM_ID: die-einzelnen-richter-37---1631
-   :END:
-**** Otniël: 3,7-11
-     :PROPERTIES:
-     :CUSTOM_ID: otniël-37-11
-     :END:
+* Die einzelnen Richter: 3,7 - 16,31
+
+* Otniël: 3,7-11
+
 7 Die Israeliten taten, was dem Herrn missfiel. Sie vergaßen den Herrn,
 ihren Gott, und dienten den Baalen und den Kultpfählen.
 
@@ -71,13 +61,12 @@ Kuschan-Rischatajim dienen.
 <<v9>>
 9 Als die Israeliten zum Herrn schrien, gab der Herr den Israeliten
 einen Retter, der sie befreite: Otniël, den Sohn des Kenas, den jüngeren
-Bruder Kalebs. ^{[[#fn4][4]][[#fn5][5]]}
+Bruder Kalebs. [fn:4] [fn:5]
 
 <<v10>>
 10 Der Geist des Herrn kam über ihn und er wurde Richter in Israel. Er
 zog in den Kampf und der Herr gab Kuschan-Rischatajim, den König von
-Aram, in seine Gewalt und Otniël unterwarf Kuschan-Rischatajim.
-^{[[#fn6][6]]}
+Aram, in seine Gewalt und Otniël unterwarf Kuschan-Rischatajim. [fn:6]
 
 <<v11>>
 11 Darauf hatte das Land vierzig Jahre lang Ruhe; dann starb Otniël, der
@@ -85,17 +74,15 @@ Sohn des Kenas.\\
 \\
 
 <<v12>>
-**** Ehud und Schamgar: 3,12-31
-     :PROPERTIES:
-     :CUSTOM_ID: ehud-und-schamgar-312-31
-     :END:
+* Ehud und Schamgar: 3,12-31
+
 12 Und wiederum taten die Israeliten, was dem Herrn missfiel. Der Herr
 aber gab Eglon, dem König von Moab, Macht über Israel, weil sie taten,
 was dem Herrn missfiel.
 
 <<v13>>
 13 Eglon verbündete sich mit den Ammonitern und Amalekitern, zog in den
-Kampf, schlug Israel und eroberte die Palmenstadt. ^{[[#fn7][7]]}
+Kampf, schlug Israel und eroberte die Palmenstadt. [fn:7]
 
 <<v14>>
 14 Darauf mussten die Israeliten achtzehn Jahre lang Eglon, dem König
@@ -136,7 +123,7 @@ rechten Hüfte und stieß ihn Eglon in den Leib.
 <<v22>>
 22 Die Klinge drang samt dem Heft hinein und das Fett umschloss die
 Klinge. Ehud zog den Dolch nicht aus dem Leib Eglons heraus [er ging zum
-Seiteneingang hinaus], ^{[[#fn8][8]]}
+Seiteneingang hinaus], [fn:8]
 
 <<v23>>
 23 sondern schloss die Tür des Obergemachs hinter sich, schob den Riegel
@@ -178,26 +165,28 @@ das Land hatte achtzig Jahre lang Ruhe.
 <<v31>>
 31 Auf Ehud folgte Schamgar, der Sohn des Anat. Er erschlug sechshundert
 Philister mit einem Ochsenstecken. Auf diese Weise trug auch er zur
-Rettung Israels bei. ^{[[#fn9][9]]}\\
+Rettung Israels bei. [fn:9]\\
 \\
 
-^{[[#fnm1][1]]} ℘ 2,21f
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ Jos 13,3
+[fn:1] [[file:Ri_2.org::v21][2,21f]]
 
-^{[[#fnm3][3]]} Die fünf Philisterfürsten herrschten in den Städten
+[fn:2] [[file:Jos_13.org::v3][Jos 13,3]]
+
+[fn:3] Die fünf Philisterfürsten herrschten in den Städten
 Gaza, Gat, Aschdod, Aschkelon und Ekron.
 
-^{[[#fnm4][4]]} ℘ 1,13; Jos 15,17
+[fn:4] [[file:Ri_1.org::v13][1,13]]; [[file:Jos_15.org::v17][Jos 15,17]]
 
-^{[[#fnm5][5]]} Andere Lesart: des jüngeren Bruders. - Anscheinend waren
+[fn:5] Andere Lesart: des jüngeren Bruders. - Anscheinend waren
 die Südstämme von dem feindlichen Einfall betroffen.
 
-^{[[#fnm6][6]]} ℘ 6,34; 11,29; 13,25; 14,6.19; 15,14
+[fn:6] [[file:Ri_6.org::v34][6,34]]; [[file:Ri_11.org::v29][11,29]]; [[file:Ri_13.org::v25][13,25]]; [[file:Ri_14.org::v6][14,6]].[[file:Ri_14.org::v19][19]]; [[file:Ri_15.org::v14][15,14]]
 
-^{[[#fnm7][7]]} Die Palmenstadt ist Jericho. Der Angriff richtet sich
+[fn:7] Die Palmenstadt ist Jericho. Der Angriff richtet sich
 vor allem gegen Benjamin.
 
-^{[[#fnm8][8]]} Die Übersetzung des Zusatzes ist unsicher.
+[fn:8] Die Übersetzung des Zusatzes ist unsicher.
 
-^{[[#fnm9][9]]} ℘ 5,6
+[fn:9] [[file:Ri_5.org::v6][5,6]]

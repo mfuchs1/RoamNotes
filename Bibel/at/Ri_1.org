@@ -83,7 +83,7 @@ ziehen. Da ging Simeon mit ihm.
 <<v4>>
 4 Juda zog hinauf und der Herr gab die Kanaaniter und die Perisiter in
 ihre Gewalt. Sie schlugen sie bei Besek - (ein Heer von) zehntausend
-Mann. ^{[[#fn1][1]]}
+Mann. [fn:1]
 
 <<v5>>
 5 Sie stießen bei Besek auf Adoni-Besek, kämpften mit ihm und schlugen
@@ -91,7 +91,7 @@ die Kanaaniter und die Perisiter.
 
 <<v6>>
 6 Adoni-Besek floh, aber sie verfolgten ihn, ergriffen ihn und hackten
-ihm die Daumen und die großen Zehen ab. ^{[[#fn2][2]]}
+ihm die Daumen und die großen Zehen ab. [fn:2]
 
 <<v7>>
 7 Da sagte Adoni-Besek: Siebzig Könige mit abgehackten Daumen und
@@ -105,12 +105,12 @@ Stadt mit scharfem Schwert und steckten sie in Brand.
 
 <<v9>>
 9 Danach zogen die Judäer weiter, um gegen die Kanaaniter zu kämpfen,
-die im Gebirge, im Negeb und in der Schefela wohnten. ^{[[#fn3][3]]}
+die im Gebirge, im Negeb und in der Schefela wohnten. [fn:3]
 
 <<v10>>
 10 Juda zog auch gegen die Kanaaniter, die in Hebron wohnten - Hebron
 hieß früher Kirjat-Arba -, und sie schlugen Scheschai, Ahiman und
-Talmai. ^{[[#fn4][4]]}
+Talmai. [fn:4]
 
 <<v11>>
 11 Von dort zogen sie weiter gegen die Einwohner von Debir. Debir hieß
@@ -122,32 +122,32 @@ meine Tochter Achsa zur Frau.
 
 <<v13>>
 13 Otniël, der Sohn des Kenas, des jüngeren Bruders Kalebs, nahm die
-Stadt ein. Da gab ihm Kaleb seine Tochter Achsa zur Frau. ^{[[#fn5][5]]}
+Stadt ein. Da gab ihm Kaleb seine Tochter Achsa zur Frau. [fn:5]
 
 <<v14>>
 14 Als sie nun ankam, drängte er sie, von ihrem Vater ein Stück Land zu
 verlangen. Da ließ sie sich vom Esel herabgleiten und Kaleb fragte sie:
-Was hast du? ^{[[#fn6][6]]}
+Was hast du? [fn:6]
 
 <<v15>>
 15 Sie antwortete: Gib mir ein Geschenk als Zeichen des Segens! Wenn du
 mich schon ins Trockenland schickst, dann gib mir auch Wasserstellen! Da
-gab Kaleb ihr die Obere und die Untere Quelle. ^{[[#fn7][7]]}
+gab Kaleb ihr die Obere und die Untere Quelle. [fn:7]
 
 <<v16>>
 16 Die Söhne des Keniters (Hobab), des Schwiegervaters des Mose, waren
 mit den Judäern von der Palmenstadt zur Wüste Juda südlich von Arad
 hinaufgezogen; nun zogen sie weiter und ließen sich bei den Amalekitern
-nieder. ^{[[#fn8][8]][[#fn9][9]]}
+nieder. [fn:8] [fn:9]
 
 <<v17>>
 17 Juda aber zog mit seinem Bruder Simeon weiter. Sie schlugen die
 Kanaaniter, die in Zefat wohnten, weihten die Stadt dem Untergang und
-nannten sie Horma (Untergangsweihe). ^{[[#fn10][10]]}
+nannten sie Horma (Untergangsweihe). [fn:10]
 
 <<v18>>
 18 Doch Gaza und sein Gebiet, Aschkelon und sein Gebiet, Ekron und sein
-Gebiet konnte Juda nicht erobern. ^{[[#fn11][11]]}
+Gebiet konnte Juda nicht erobern. [fn:11]
 
 <<v19>>
 19 Der Herr war mit Juda, sodass es das Bergland in Besitz nehmen
@@ -156,20 +156,19 @@ sie eiserne Kampfwagen hatten.
 
 <<v20>>
 20 Dem Kaleb gab man Hebron, wie Mose es angeordnet hatte; er vertrieb
-von dort die drei Söhne Anaks. ^{[[#fn12][12]]}
+von dort die drei Söhne Anaks. [fn:12]
 
 <<v21>>
 21 Die Benjaminiter konnten die Jebusiter, die in Jerusalem wohnten,
 nicht vertreiben und so blieben die Jebusiter bei den Benjaminitern in
-Jerusalem wohnen bis auf den heutigen Tag.
-^{[[#fn13][13]][[#fn14][14]]}\\
+Jerusalem wohnen bis auf den heutigen Tag. [fn:13] [fn:14]\\
 \\
 
 <<v22>>
 * Die Eroberung des Gebiets der Nachkommen Josefs: 1,22-36
 
 22 Auch die Nachkommen Josefs zogen hinauf, und zwar nach Bet-El. Und
-der Herr war mit ihnen. ^{[[#fn15][15]]}
+der Herr war mit ihnen. [fn:15]
 
 <<v23>>
 23 Die Nachkommen Josefs ließen Bet-El beobachten. Die Stadt hieß früher
@@ -195,7 +194,7 @@ Tochterstädten sowie von Taanach und seinen Tochterstädten, die
 Einwohner von Dor und seinen Tochterstädten, die Einwohner von Jibleam
 und seinen Tochterstädten und die Einwohner von Megiddo und seinen
 Tochterstädten nicht vertreiben. So gelang es den Kanaanitern, in dieser
-Gegend zu verbleiben. ^{[[#fn16][16]]}
+Gegend zu verbleiben. [fn:16]
 
 <<v28>>
 28 Als die Israeliten stark geworden waren, zwangen sie die Kanaaniter
@@ -203,8 +202,7 @@ zur Fron, aber vertreiben konnten sie sie nicht.
 
 <<v29>>
 29 Efraim konnte die Kanaaniter nicht vertreiben, die in Geser wohnten.
-Darum blieben die Kanaaniter mitten unter ihnen in Geser wohnen.
-^{[[#fn17][17]]}
+Darum blieben die Kanaaniter mitten unter ihnen in Geser wohnen. [fn:17]
 
 <<v30>>
 30 Sebulon konnte die Einwohner von Kitron und die Einwohner von Nahalol
@@ -214,7 +212,7 @@ wohnen, aber sie wurden Fronarbeiter.
 <<v31>>
 31 Ascher konnte die Einwohner von Akko und die Einwohner von Sidon
 nicht vertreiben, auch nicht (die Einwohner) von Mahaleb, Achsib, Helba,
-Afek und Roheb. ^{[[#fn18][18]]}
+Afek und Roheb. [fn:18]
 
 <<v32>>
 32 Darum leben die Ascheriter mitten unter den Kanaanitern, die in der
@@ -228,7 +226,7 @@ Bet-Schemesch und Bet-Anat aber wurden Fronarbeiter.
 
 <<v34>>
 34 Die Amoriter drängten die Daniter ins Bergland ab und ließen sie
-nicht in die Ebene herabkommen. ^{[[#fn19][19]]}
+nicht in die Ebene herabkommen. [fn:19]
 
 <<v35>>
 35 Es gelang den Amoritern, in Har-Heres, Ajalon und Schaalbim zu
@@ -240,46 +238,47 @@ Fronarbeiter.
 und darüber hinaus.\\
 \\
 
-^{[[#fnm1][1]]} 4f: Besek liegt nördlich von Samaria. Anscheinend wird
-Adoni-Besek mit Adoni-Zedek von Jerusalem in Verbindung gebracht (vgl.
-Jos 10).
+* Footnotes
 
-^{[[#fnm2][2]]} 6f: Die grausame Sitte soll den Feind kampfunfähig
+[fn:1] 4f: Besek liegt nördlich von Samaria. Anscheinend wird
+Adoni-Besek mit Adoni-Zedek von Jerusalem in Verbindung gebracht (vgl. [[file:Jos_10.org::v1][Jos 10]]).
+
+[fn:2] 6f: Die grausame Sitte soll den Feind kampfunfähig
 machen.
 
-^{[[#fnm3][3]]} ℘ Jos 10,40; 11,16-20
+[fn:3] [[file:Jos_10.org::v40][Jos 10,40]]; [[file:Jos_11.org::v16][11,16-20]]
 
-^{[[#fnm4][4]]} ℘ (10-15) Jos 15,13-19
+[fn:4] (10-15) [[file:Jos_15.org::v13][Jos 15,13-19]]
 
-^{[[#fnm5][5]]} ℘ 3,9
+[fn:5] [[file:Ri_3.org::v9][3,9]]
 
-^{[[#fnm6][6]]} drängte er sie: Text korr. nach G (vgl. Jos 15,18).
+[fn:6] drängte er sie: Text korr. nach G (vgl. [[file:Jos_15.org::v18][Jos 15,18]]).
 
-^{[[#fnm7][7]]} ein Geschenk als Zeichen des Segens, wörtlich: einen
-Segen (vgl. Jos 15,19).
+[fn:7] ein Geschenk als Zeichen des Segens, wörtlich: einen
+Segen (vgl. [[file:Jos_15.org::v19][Jos 15,19]]).
 
-^{[[#fnm8][8]]} ℘ 4,11; 1 Sam 15,6
+[fn:8] [[file:Ri_4.org::v11][4,11]]; [[file:1.Sam_15.org::v6][1 Sam 15,6]]
 
-^{[[#fnm9][9]]} nun zogen sie weiter und ließen sich . . . nieder: Text
+[fn:9] nun zogen sie weiter und ließen sich . . . nieder: Text
 korr. vgl. G; H: Er ging hin und wohnte beim Volk.
 
-^{[[#fnm10][10]]} ℘ Dtn 20,13-17
+[fn:10] [[file:Dtn_20.org::v13][Dtn 20,13-17]]
 
-^{[[#fnm11][11]]} nicht: Text korr. nach G und V. 19.
+[fn:11] nicht: Text korr. nach G und V. 19.
 
-^{[[#fnm12][12]]} ℘ Jos 14,6-15; Jos 11,21
+[fn:12] [[file:Jos_14.org::v6][Jos 14,6-15]]; [[file:Jos_11.org::v21][Jos 11,21]]
 
-^{[[#fnm13][13]]} ℘ Jos 15,63
+[fn:13] [[file:Jos_15.org::v63][Jos 15,63]]
 
-^{[[#fnm14][14]]} Jerusalem lag zwischen dem Gebiet Judas und dem
-Benjamins (vgl. Jos 18,16).
+[fn:14] Jerusalem lag zwischen dem Gebiet Judas und dem
+Benjamins (vgl. [[file:Jos_18.org::v16][Jos 18,16]]).
 
-^{[[#fnm15][15]]} die Nachkommen: so G; H: das Haus.
+[fn:15] die Nachkommen: so G; H: das Haus.
 
-^{[[#fnm16][16]]} ℘ Jos 17,11-13
+[fn:16] [[file:Jos_17.org::v11][Jos 17,11-13]]
 
-^{[[#fnm17][17]]} ℘ Jos 16,10
+[fn:17] [[file:Jos_16.org::v10][Jos 16,10]]
 
-^{[[#fnm18][18]]} Mahaleb: Text korr. (vgl. Jos 19,29).
+[fn:18] Mahaleb: Text korr. (vgl. [[file:Jos_19.org::v29][Jos 19,29]]).
 
-^{[[#fnm19][19]]} ℘ 18,1
+[fn:19] [[file:Ri_18.org::v1][18,1]]
