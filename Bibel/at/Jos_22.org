@@ -1,24 +1,23 @@
-:PROPERTIES:
-:ID:       5d52eb59-087a-466c-848e-e8872c84b195
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Josua* -- [[file:Jos_1.html][1]] ...
-[[file:Jos_20.html][20]] [[file:Jos_21.html][21]] *22*
-[[file:Jos_23.html][23]] [[file:Jos_24.html][24]]
+#+TITLE: Jos 22 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-03 Fr 14:15]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Jos 22.html
 
---------------
 
 * Jos 22
-  :PROPERTIES:
-  :CUSTOM_ID: jos-22
-  :END:
 
 <<verses>>
 
 <<v1>>
 1 Damals rief Josua die Rubeniter, die Gaditer und den halben Stamm
-Manasse zu sich ^{[[#fn1][1]]}
+Manasse zu sich [fn:1]
 
 <<v2>>
 2 und sagte zu ihnen: Ihr habt alles befolgt, was euch Mose, der Knecht
@@ -66,14 +65,11 @@ des Herrn hin in Besitz genommen hatten.\\
 \\
 
 <<v10>>
-**** Der Altar am Jordan: 22,10-34
-     :PROPERTIES:
-     :CUSTOM_ID: der-altar-am-jordan-2210-34
-     :END:
+* Der Altar am Jordan: 22,10-34
+
 10 Als sie zu den Steinkreisen am Jordan kamen, die noch im Land Kanaan
 liegen, errichteten die Rubeniter, die Gaditer und der halbe Stamm
-Manasse dort am Jordan einen Altar von stattlichem Aussehen.
-^{[[#fn2][2]]}
+Manasse dort am Jordan einen Altar von stattlichem Aussehen. [fn:2]
 
 <<v11>>
 11 Da erhielten die Israeliten folgende Nachricht: Schaut, die
@@ -107,7 +103,7 @@ euch heute dadurch gegen den Herrn auflehnt?
 <<v17>>
 17 Ist uns der Frevel von Pegor zu wenig? Von ihm haben wir uns bis
 heute noch nicht gereinigt und seinetwegen ist die Plage über die
-Gemeinde des Herrn gekommen. ^{[[#fn3][3]]}
+Gemeinde des Herrn gekommen. [fn:3]
 
 <<v18>>
 18 Ihr aber wendet euch heute vom Herrn ab. Wenn ihr euch heute gegen
@@ -120,13 +116,13 @@ das Land, das dem Herrn gehört und wo die Wohnstätte des Herrn ist, und
 siedelt euch bei uns an! Aber lehnt euch nicht gegen den Herrn auf und
 zieht uns nicht dadurch in euren Aufruhr hinein, dass ihr für euch
 selber einen zweiten Altar, neben dem Altar des Herrn, unseres Gottes,
-baut. ^{[[#fn4][4]]}
+baut. [fn:4]
 
 <<v20>>
 20 Ist nicht sein Zorn über die ganze Gemeinde Israels gekommen, als
 sich Achan, der Sohn Serachs, treulos an dem Gut vergriffen hatte, das
 dem Untergang geweiht war? Und er war nur ein einzelner Mann. Musste er
-nicht für seinen Frevel sterben? ^{[[#fn5][5]]}
+nicht für seinen Frevel sterben? [fn:5]
 
 <<v21>>
 21 Darauf antworteten die Rubeniter, die Gaditer und der halbe Stamm
@@ -135,7 +131,7 @@ Manasse den Befehlshabern der Tausendschaften Israels:
 <<v22>>
 22 Gott, ja Gott, der Herr - Gott, ja Gott, der Herr, er weiß es und
 Israel soll es wissen: Wenn das Untreue, wenn das Auflehnung gegen den
-Herrn war, dann soll er uns heute nicht helfen. ^{[[#fn6][6]]}
+Herrn war, dann soll er uns heute nicht helfen. [fn:6]
 
 <<v23>>
 23 Ob wir uns einen Altar errichtet haben, um uns vom Herrn abzuwenden,
@@ -201,26 +197,26 @@ ziehen und das Land zu verwüsten, in dem sie wohnten.
 
 <<v34>>
 34 Die Rubeniter und Gaditer nannten den Altar Zeuge, denn (sie sagten):
-Er steht mitten unter uns als Zeuge dafür, dass Jahwe Gott ist.
-^{[[#fn7][7]]}\\
+Er steht mitten unter uns als Zeuge dafür, dass Jahwe Gott ist. [fn:7]\\
 \\
 
-^{[[#fnm1][1]]} ℘ Num 32,20-22; Dtn 3,18-20
+* Footnotes
 
-^{[[#fnm2][2]]} 10-34: Die Kritik an dem Altar geht von dem Grundsatz
-aus, dass es nur ein einziges Heiligtum in Israel geben darf (vgl. Dtn
-12,4-7).
+[fn:1] [[file:Num_32.org::v20][Num 32,20-22]]; [[file:Dtn_3.org::v18][Dtn 3,18-20]]
 
-^{[[#fnm3][3]]} ℘ Num 25
+[fn:2] 10-34: Die Kritik an dem Altar geht von dem Grundsatz
+aus, dass es nur ein einziges Heiligtum in Israel geben darf (vgl. [[file:Dtn_12.org::v4][Dtn 12,4-7]]).
 
-^{[[#fnm4][4]]} Gott hat sein Heiligtum im Westjordanland. Wenn das Land
+[fn:3] [[file:Num_25.org::v1][Num 25]]
+
+[fn:4] Gott hat sein Heiligtum im Westjordanland. Wenn das Land
 östlich des Jordan als unrein betrachtet wird, ist die Verehrung Gottes
 dort nicht möglich. - zieht uns . . . hinein: Text korr.
 
-^{[[#fnm5][5]]} ℘ 7,1-26
+[fn:5] ℘ [[file:Jos_7.org::v1][7,1-26]]
 
-^{[[#fnm6][6]]} soll er uns nicht helfen: Text korr., mit den alten
+[fn:6] soll er uns nicht helfen: Text korr., mit den alten
 Übersetzungen; H: hilf du uns nicht!
 
-^{[[#fnm7][7]]} Zeuge: Text korr., eingefügt mit einigen H-Handschriften
-und S (vgl. V. 27).
+[fn:7] Zeuge: Text korr., eingefügt mit einigen H-Handschriften
+und S (vgl. [[v7][V. 27]]).

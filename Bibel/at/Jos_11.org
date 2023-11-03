@@ -1,30 +1,22 @@
-:PROPERTIES:
-:ID:       d9e05e1d-824d-4a01-bd31-c72c81aaaf80
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Josua* -- [[file:Jos_1.html][1]] ...
-[[file:Jos_9.html][9]] [[file:Jos_10.html][10]] *11*
-[[file:Jos_12.html][12]] [[file:Jos_13.html][13]] ...
-[[file:Jos_24.html][24]]
-
---------------
-
-* Jos 11
-  :PROPERTIES:
-  :CUSTOM_ID: jos-11
-  :END:
+#+TITLE: Jos 11 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-02 Do 10:33]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Jos 11.html
 
 <<verses>>
 
 <<v1>>
-**** Der Sieg über die Könige im Norden: 11,1-14
-     :PROPERTIES:
-     :CUSTOM_ID: der-sieg-über-die-könige-im-norden-111-14
-     :END:
+* Der Sieg über die Könige im Norden: 11,1-14
+
 1 Als Jabin, der König von Hazor, das hörte, schickte er Boten zu Jobab,
-dem König von Madon, zum König von Schimron, zum König von Achschaf
-^{[[#fn1][1]][[#fn2][2]]}
+dem König von Madon, zum König von Schimron, zum König von Achschaf [fn:1] [fn:2]
 
 <<v2>>
 2 und zu den Königen im Norden auf dem Gebirge und in der Araba südlich
@@ -90,13 +82,11 @@ Schwert und rotteten sie völlig aus. Niemand ließen sie am Leben.\\
 \\
 
 <<v15>>
-**** Das eroberte Land: 11,15 - 12,24
-     :PROPERTIES:
-     :CUSTOM_ID: das-eroberte-land-1115---1224
-     :END:
+* Das eroberte Land: 11,15 - 12,24
+
 15 Wie der Herr es seinem Knecht Mose befohlen hatte, so hatte es Mose
 Josua befohlen und so führte Josua es aus: Er unterließ nichts von all
-dem, was der Herr dem Mose befohlen hatte. ^{[[#fn3][3]]}
+dem, was der Herr dem Mose befohlen hatte. [fn:3]
 
 <<v16>>
 16 So nahm Josua dieses ganze Land ein, das Gebirge und den ganzen
@@ -114,19 +104,19 @@ ihre Könige nahm Josua gefangen und schlug sie tot.
 <<v19>>
 19 Es gab keine Stadt, die mit den Israeliten Frieden geschlossen hätte,
 außer den Hiwitern, die Gibeon bewohnten. Alle musste man im Kampf
-nehmen. ^{[[#fn4][4]]}
+nehmen. [fn:4]
 
 <<v20>>
 20 Denn vom Herrn war beschlossen worden, ihr Herz angesichts des
 Kampfes mit Israel zu verhärten, um sie dem Untergang zu weihen; Israel
 sollte keine Gnade bei ihnen walten lassen, sondern sie ausrotten, wie
-es der Herr dem Mose befohlen hatte. ^{[[#fn5][5]]}
+es der Herr dem Mose befohlen hatte. [fn:5]
 
 <<v21>>
 21 Damals zog Josua auch gegen die Anakiter, die im Gebirge, in Hebron,
 in Debir, in Anab, im Bergland von Juda und im Bergland von Israel
 wohnten; er rottete sie überall aus und weihte sie samt ihren Städten
-dem Untergang. ^{[[#fn6][6]]}
+dem Untergang. [fn:6]
 
 <<v22>>
 22 Im Land der Israeliten blieben keine Anakiter übrig; nur in Gaza, Gat
@@ -138,17 +128,19 @@ gesagt hatte, und Josua verteilte es als Erbbesitz an Israel
 entsprechend seiner Stammeseinteilung. Dann war der Krieg zu Ende und
 das Land hatte Ruhe.
 
-^{[[#fnm1][1]]} ℘ Ri 4,2
+* Footnotes
 
-^{[[#fnm2][2]]} 1f: Nach der Eroberung des Südens (10,1-11) wird die
-Unterwerfung des nördlichen Palästina (11,1-14) berichtet. Hauptgegner
+[fn:1] [[file:Ri_4.org::v2][Ri 4,2]]
+
+[fn:2] 1f: Nach der Eroberung des Südens ([[file:Jos_10.org::v1][10,1-11]]) wird die
+Unterwerfung des nördlichen Palästina ([[v1][11,1-14]]) berichtet. Hauptgegner
 ist der König von Hazor, einer bedeutenden, alten Stadt. «Kinneret» wird
 der See Gennesaret und sein Umland genannt.
 
-^{[[#fnm3][3]]} ℘ Dtn 20,10-15
+[fn:3] [[file:Dtn_20.org::v10][Dtn 20,10-15]]
 
-^{[[#fnm4][4]]} ℘ 9,15
+[fn:4] [[file:Jos_9.org::v15][9,15]]
 
-^{[[#fnm5][5]]} ℘ Dtn 7,2
+[fn:5] [[file:Dtn_7.org::v2][Dtn 7,2]]
 
-^{[[#fnm6][6]]} ℘ 14,12-15; Dtn 9,2
+[fn:6] [[file:Jos_14.org::v12][14,12-15]]; [[file:Dtn_9.org::v2][Dtn 9,2]]

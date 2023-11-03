@@ -1,26 +1,20 @@
-:PROPERTIES:
-:ID:       a7764b76-ba50-42a5-921a-769d8de5cdd8
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Josua* -- [[file:Jos_1.html][1]] ...
-[[file:Jos_6.html][6]] [[file:Jos_7.html][7]] *8* [[file:Jos_9.html][9]]
-[[file:Jos_10.html][10]] ... [[file:Jos_24.html][24]]
-
---------------
-
-* Jos 8
-  :PROPERTIES:
-  :CUSTOM_ID: jos-8
-  :END:
+#+TITLE: Jos 8 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-02 Do 10:11]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Jos 8.html
 
 <<verses>>
 
 <<v1>>
-**** Die Vernichtung von Ai: 8,1-29
-     :PROPERTIES:
-     :CUSTOM_ID: die-vernichtung-von-ai-81-29
-     :END:
+* Die Vernichtung von Ai: 8,1-29
+
 1 Dann sagte der Herr zu Josua: Fürchte dich nicht und hab keine Angst!
 Nimm alle kriegstüchtigen Männer, brich auf und zieh nach Ai! Siehe, ich
 habe den König von Ai und sein Volk, seine Stadt und sein Land in deine
@@ -48,7 +42,7 @@ werden wir vor ihnen fliehen.
 <<v6>>
 6 Sie werden uns verfolgen, bis wir sie von der Stadt weggelockt haben,
 denn sie werden denken: Sie fliehen vor uns wie beim ersten Mal. Wenn
-wir vor ihnen geflohen sind, ^{[[#fn1][1]]}
+wir vor ihnen geflohen sind, [fn:1]
 
 <<v7>>
 7 dann könnt ihr aus dem Hinterhalt hervorbrechen und die Stadt
@@ -75,7 +69,7 @@ und Ai lag ein Tal.
 
 <<v12>>
 12 Dann nahm er etwa fünftausend Mann und legte sie westlich der Stadt,
-zwischen Bet-El und Ai, in einen Hinterhalt. ^{[[#fn2][2]]}
+zwischen Bet-El und Ai, in einen Hinterhalt. [fn:2]
 
 <<v13>>
 13 So stellten sie das Volk auf: Das Lager war im Norden der Stadt und
@@ -141,7 +135,7 @@ Ai zurück und machte auch dort alles mit scharfem Schwert nieder.
 
 <<v25>>
 25 Es gab an jenem Tag insgesamt zwölftausend Gefallene, Männer und
-Frauen, alle Einwohner von Ai. ^{[[#fn3][3]]}
+Frauen, alle Einwohner von Ai. [fn:3]
 
 <<v26>>
 26 Josua aber ließ seine Hand mit dem Sichelschwert nicht sinken, bis er
@@ -160,17 +154,14 @@ heutigen Tag.
 29 Den König von Ai aber ließ er an einem Baum aufhängen; dort hing er
 bis zum Abend. Als die Sonne unterging, nahm man die Leiche auf Befehl
 Josuas von dem Baum ab und warf sie vor das Tor der Stadt. Man
-errichtete über ihr einen großen Steinhaufen, der noch heute da ist.
-^{[[#fn4][4]]}\\
+errichtete über ihr einen großen Steinhaufen, der noch heute da ist. [fn:4]\\
 \\
 
 <<v30>>
-**** Der Bau des Altars und die Verkündigung des Gesetzes: 8,30-35
-     :PROPERTIES:
-     :CUSTOM_ID: der-bau-des-altars-und-die-verkündigung-des-gesetzes-830-35
-     :END:
+* Der Bau des Altars und die Verkündigung des Gesetzes: 8,30-35
+
 30 Damals errichtete Josua auf dem Berg Ebal für den Herrn, den Gott
-Israels, einen Altar ^{[[#fn5][5]]}
+Israels, einen Altar [fn:5]
 
 <<v31>>
 31 aus unbehauenen Steinen, die noch kein eisernes Werkzeug berührt
@@ -180,8 +171,7 @@ Altar brachte man dem Herrn Brandopfer dar und schlachtete Heilsopfer.
 
 <<v32>>
 32 Und Josua brachte dort auf den Steinen eine Abschrift des Gesetzes
-des Mose an; er schrieb vor den Augen der Israeliten darauf.
-^{[[#fn6][6]]}
+des Mose an; er schrieb vor den Augen der Israeliten darauf. [fn:6]
 
 <<v33>>
 33 Ganz Israel und die Ältesten, die Listenführer und die Richter,
@@ -189,7 +179,7 @@ standen zu beiden Seiten der Lade neben den levitischen Priestern, den
 Trägern der Bundeslade des Herrn, dazu Fremde und Einheimische. Die eine
 Hälfte von ihnen war dem Berg Garizim zugewandt, die andere dem Berg
 Ebal, wie es Mose, der Knecht Jahwes, für die Segnung des Volkes Israel
-früher angeordnet hatte. ^{[[#fn7][7]]}
+früher angeordnet hatte. [fn:7]
 
 <<v34>>
 34 Danach verlas Josua das Gesetz im vollen Wortlaut, Segen und Fluch,
@@ -202,17 +192,19 @@ die Frauen und Kinder und die Fremden, die mit ihnen zogen, waren
 dabei.\\
 \\
 
-^{[[#fnm1][1]]} ℘ 7,4
+* Footnotes
 
-^{[[#fnm2][2]]} 12f: V. 12 fehlt größtenteils, V. 13 ganz in G; wohl ein
+[fn:1] [[file:Jos_7.org::v4][7,4]]
+
+[fn:2] 12f: V. 12 fehlt größtenteils, V. 13 ganz in G; wohl ein
 Nachtrag.
 
-^{[[#fnm3][3]]} Einwohner: Text korr. nach G.
+[fn:3] Einwohner: Text korr. nach G.
 
-^{[[#fnm4][4]]} ℘ Dtn 21,23
+[fn:4] [[file:Dtn_21.org::v23][Dtn 21,23]]
 
-^{[[#fnm5][5]]} ℘ Dtn 27,2-8; Ex 20,25
+[fn:5] [[file:Dtn_27.org::v2][Dtn 27,2-8]]; [[file:Ex_20.org::v25][Ex 20,25]]
 
-^{[[#fnm6][6]]} ℘ Ex 24,1-8
+[fn:6] [[file:Ex_24.org::v1][Ex 24,1-8]]
 
-^{[[#fnm7][7]]} ℘ Dtn 11,29; 27,12f
+[fn:7] [[file:Dtn_11.org::v29][Dtn 11,29]]; [[file:Dtn_27.org::v12][27,12f]]

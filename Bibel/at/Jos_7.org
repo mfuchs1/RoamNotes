@@ -1,26 +1,20 @@
-:PROPERTIES:
-:ID:       77eb4de6-1438-4a77-a816-cf8002fd3b36
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Josua* -- [[file:Jos_1.html][1]] ...
-[[file:Jos_5.html][5]] [[file:Jos_6.html][6]] *7* [[file:Jos_8.html][8]]
-[[file:Jos_9.html][9]] ... [[file:Jos_24.html][24]]
-
---------------
-
-* Jos 7
-  :PROPERTIES:
-  :CUSTOM_ID: jos-7
-  :END:
+#+TITLE: Jos 7 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-02 Do 00:09]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Jos 7.html
 
 <<verses>>
 
 <<v1>>
-**** Der Kampf um Ai. Achans Diebstahl: 7,1-26
-     :PROPERTIES:
-     :CUSTOM_ID: der-kampf-um-ai.-achans-diebstahl-71-26
-     :END:
+* Der Kampf um Ai. Achans Diebstahl: 7,1-26
+
 1 Die Israeliten aber veruntreuten etwas von dem, was dem Untergang
 geweiht war. Denn Achan, der Sohn Karmis, des Sohnes Sabdis, des Sohnes
 Serachs, vom Stamm Juda, nahm etwas von dem, was dem Untergang geweiht
@@ -29,8 +23,7 @@ war. Da entbrannte der Zorn des Herrn über die Israeliten.
 <<v2>>
 2 Josua schickte von Jericho aus einige Männer nach Ai, das bei
 Bet-Awen, östlich von Bet-El liegt, und sagte zu ihnen: Geht hinauf, und
-erkundet das Land! Die Männer gingen hinauf und erkundeten Ai.
-^{[[#fn1][1]]}
+erkundet das Land! Die Männer gingen hinauf und erkundeten Ai. [fn:1]
 
 <<v3>>
 3 Als sie zu Josua zurückkamen, sagten sie zu ihm: Es braucht nicht das
@@ -50,7 +43,7 @@ der Steige. Da zerschmolz das Herz des Volkes und wurde zu Wasser.
 <<v6>>
 6 Josua zerriss seine Kleider und warf sich zusammen mit den Ältesten
 vor der Lade des Herrn mit dem Gesicht zu Boden und blieb dort bis zum
-Abend liegen. Sie streuten sich Asche auf das Haupt ^{[[#fn2][2]]}
+Abend liegen. Sie streuten sich Asche auf das Haupt [fn:2]
 
 <<v7>>
 7 und Josua sagte: Ach Herr, mein Gott! Warum hast du dieses Volk über
@@ -104,12 +97,12 @@ Herrn vergangen und in Israel eine Schandtat verübt hat.
 
 <<v16>>
 16 Josua ließ also früh am Morgen Israel Stamm für Stamm antreten; da
-wurde der Stamm Juda bezeichnet. ^{[[#fn3][3]]}
+wurde der Stamm Juda bezeichnet. [fn:3]
 
 <<v17>>
 17 Dann ließ er die Sippen Judas antreten; da wurde die Sippe der
 Serachiter bezeichnet. Dann ließ er die Sippe der Serachiter nach
-Großfamilien antreten; da wurde Sabdi bezeichnet. ^{[[#fn4][4]]}
+Großfamilien antreten; da wurde Sabdi bezeichnet. [fn:4]
 
 <<v18>>
 18 Dann ließ er dessen Familie Mann für Mann antreten; da wurde Achan,
@@ -153,26 +146,26 @@ stürzt dich der Herr heute ins Unglück. Und ganz Israel steinigte Achan.
 <<v26>>
 26 Man errichtete über ihm einen großen Steinhaufen, der bis zum
 heutigen Tag zu sehen ist, und der Herr ließ ab von seinem glühenden
-Zorn. Deshalb nennt man diesen Ort bis heute Achortal (Unglückstal).
-^{[[#fn5][5]][[#fn6][6]]}\\
+Zorn. Deshalb nennt man diesen Ort bis heute Achortal (Unglückstal). [fn:5] [fn:6]\\
 \\
 
-^{[[#fnm1][1]]} Auch die Zerstörung von Ai (Trümmerhaufen) ist wie die
+* Footnotes
+
+[fn:1] Auch die Zerstörung von Ai (Trümmerhaufen) ist wie die
 von Jericho archäologisch nicht nachgewiesen. - Bet-Awen (Haus des
-Unheils) ist wohl ein herabwürdigender Name für Bet-El (vgl. Hos 4,15;
-Am 5,5).
+Unheils) ist wohl ein herabwürdigender Name für Bet-El (vgl. [[file:Hos_4.org::v15][Hos 4,15]];
+[[file:Am_5.org::v5][Am 5,5]]).
 
-^{[[#fnm2][2]]} Das Zerreißen der Kleider und das Bestreuen des Kopfes
-mit Staub oder Asche waren Zeichen der Trauer und des Schmerzes (vgl. 1
-Sam 4,12; 2 Sam 1,2).
+[fn:2] Das Zerreißen der Kleider und das Bestreuen des Kopfes
+mit Staub oder Asche waren Zeichen der Trauer und des Schmerzes
+(vgl. [[file:1.Sam_4.org::v12][1 Sam 4,12]]; [[file:2.Sam_1.org::v2][2 Sam 1,2]]).
 
-^{[[#fnm3][3]]} ℘ 1 Sam 10,20
+[fn:3] [[file:1.Sam_10.org::v20][1 Sam 10,20]]
 
-^{[[#fnm4][4]]} Großfamilien: Text korr. mit S und einigen
-H-Handschriften. - Zum Ausdruck Großfamilie vgl. die Anmerkung zu Num
-1,2.
+[fn:4] Großfamilien: Text korr. mit S und einigen H-Handschriften. -
+Zum Ausdruck Großfamilie vgl. die Anmerkung zu [[file:Num_1.org::v2][Num 1,2]].
 
-^{[[#fnm5][5]]} ℘ Jes 65,10; Hos 2,17
+[fn:5] [[file:Jes_65.org::v10][Jes 65,10]]; [[file:Hos_2.org::v17][Hos 2,17]]
 
-^{[[#fnm6][6]]} Achor klingt an «Achan» an. Mit der Erzählung wird der
+[fn:6] Achor klingt an «Achan» an. Mit der Erzählung wird der
 Name des Achortals gedeutet.

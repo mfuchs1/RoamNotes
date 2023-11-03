@@ -1,30 +1,24 @@
-:PROPERTIES:
-:ID:       912bcd9e-c021-4260-84cd-6af5ada7685a
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Josua* -- [[file:Jos_1.html][1]] ...
-[[file:Jos_16.html][16]] [[file:Jos_17.html][17]] *18*
-[[file:Jos_19.html][19]] [[file:Jos_20.html][20]] ...
-[[file:Jos_24.html][24]]
+#+TITLE: Jos 18 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-03 Fr 11:46]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Jos 18.html
 
---------------
-
-* Jos 18
-  :PROPERTIES:
-  :CUSTOM_ID: jos-18
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Das Gebiet der übrigen Stämme: 18,1 - 19,51
-     :PROPERTIES:
-     :CUSTOM_ID: das-gebiet-der-übrigen-stämme-181---1951
-     :END:
+* Das Gebiet der übrigen Stämme: 18,1 - 19,51
+
 1 Die ganze Gemeinde der Israeliten versammelte sich in Schilo. Dort
 schlugen sie das Offenbarungszelt auf; das ganze Land lag unterworfen
-vor ihnen. ^{[[#fn1][1]]}
+vor ihnen. [fn:1]
 
 <<v2>>
 2 Aber noch waren von den Israeliten sieben Stämme übrig, die ihren
@@ -55,8 +49,7 @@ Herrn, unserem Gott, das Los für euch werfen.
 7 Doch Levi bekommt keinen Anteil unter euch, denn sein Erbbesitz ist
 das Priestertum des Herrn. Und Gad, Ruben und der halbe Stamm Manasse
 haben bereits ihren Erbbesitz erhalten; ihn hat Mose, der Knecht des
-Herrn, ihnen gegeben, jenseits des Jordan im Osten.
-^{[[#fn2][2]][[#fn3][3]]}
+Herrn, ihnen gegeben, jenseits des Jordan im Osten. [fn:2] [fn:3]
 
 <<v8>>
 8 Da machten sich die Männer auf den Weg und zogen fort. Josua hatte
@@ -113,7 +106,7 @@ Bohan, des Sohnes Rubens, hinab.
 
 <<v18>>
 18 Sie geht nördlich am Bergrücken von Bet-Araba vorbei und führt weiter
-in die Araba hinunter. ^{[[#fn4][4]]}
+in die Araba hinunter. [fn:4]
 
 <<v19>>
 19 Dann führt die Grenze nördlich am Bergrücken von Bet-Hogla vorbei und
@@ -152,12 +145,14 @@ Gehöften;
 Städte mit den dazugehörenden Gehöften. Das ist der Erbbesitz der
 Benjaminiter, entsprechend ihren Sippen.
 
-^{[[#fnm1][1]]} Nicht mehr Gilgal (14,6), sondern Schilo, ein zentrales
-Heiligtum nach 1 Sam 1 - 4 und Jer 7,12, ist jetzt Mittelpunkt aller
+* Footnotes
+
+[fn:1] Nicht mehr Gilgal ([[file:Jos_14.org::v6][14,6]]), sondern Schilo, ein zentrales
+Heiligtum nach [[file:1.Sam_1.org::v1][1 Sam 1]] - [[file:1.Sam_4.org::v1][4]] und [[file:Jer_7.org::v12][Jer 7,12]], ist jetzt Mittelpunkt aller
 Stämme Israels.
 
-^{[[#fnm2][2]]} ℘ 13,14.33
+[fn:2] [[file:Jos_13.org::v14][13,14]].[[file:Jos_13.org::v33][33]]
 
-^{[[#fnm3][3]]} Levi: Text korr.; H: die Leviten.
+[fn:3] Levi: Text korr.; H: die Leviten.
 
-^{[[#fnm4][4]]} Bet-Araba: Text korr. (vgl. V. 22; 15,6.61); H: Araba.
+[fn:4] Bet-Araba: Text korr. (vgl. [[v22][V. 22]]; [[file:Jos_15.org::v6][15,6]].[[file:Jos_15.org::v61][61]]); H: Araba.

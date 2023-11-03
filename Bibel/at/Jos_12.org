@@ -1,19 +1,17 @@
-:PROPERTIES:
-:ID:       95db6caa-84ea-4672-aeeb-f2306a28b39d
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Josua* -- [[file:Jos_1.html][1]] ...
-[[file:Jos_10.html][10]] [[file:Jos_11.html][11]] *12*
-[[file:Jos_13.html][13]] [[file:Jos_14.html][14]] ...
-[[file:Jos_24.html][24]]
+#+TITLE: Jos 12 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-02 Do 10:38]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Jos 12.html
 
---------------
 
 * Jos 12
-  :PROPERTIES:
-  :CUSTOM_ID: jos-12
-  :END:
 
 <<verses>>
 
@@ -25,8 +23,7 @@ Osten vom Arnontal bis zum Hermongebirge mit der ganzen Araba im Osten:
 <<v2>>
 2 Sihon, der Amoriterkönig, der in Heschbon wohnte; er herrschte von
 Aroër am Rand des Arnontales und von der Mitte des Tals an über das
-halbe Gilead bis zum Jabboktal, das die Grenze zu den Ammonitern bildet,
-^{[[#fn1][1]]}
+halbe Gilead bis zum Jabboktal, das die Grenze zu den Ammonitern bildet, [fn:1]
 
 <<v3>>
 3 ferner über die Araba bis zum See Kinneret im Osten und bis zum Meer
@@ -35,8 +32,7 @@ Süden über das Gebiet am Fuß des Berges Pisga,
 
 <<v4>>
 4 dann das Gebiet des Og, des Königs von Baschan, der von den Rafaïtern
-übrig geblieben war und in Aschtarot und in Edreï wohnte;
-^{[[#fn2][2]][[#fn3][3]]}
+übrig geblieben war und in Aschtarot und in Edreï wohnte; [fn:2] [fn:3]
 
 <<v5>>
 5 er herrschte über das Hermongebirge und Salcha und den ganzen Baschan
@@ -46,7 +42,7 @@ Gilead bis zum Gebiet Sihons, des Königs von Heschbon.
 <<v6>>
 6 Mose, der Knecht des Herrn, und die Israeliten hatten sie geschlagen
 und Mose, der Knecht des Herrn, hatte das Land den Rubenitern, den
-Gaditern und dem halben Stamm Manasse zum Besitz gegeben. ^{[[#fn4][4]]}
+Gaditern und dem halben Stamm Manasse zum Besitz gegeben. [fn:4]
 
 <<v7>>
 7 Das sind die Könige des Landes, die Josua und die Israeliten jenseits
@@ -110,11 +106,13 @@ Galiläa: einer;
 24 der König von Tirza: einer; zusammen: einunddreißig Könige.\\
 \\
 
-^{[[#fnm1][1]]} ℘ 9,10; Num 21,23f
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 9,10; Num 21,33; Dtn 3
+[fn:1] [[file:Jos_9.org::v10][9,10]]; [[file:Num_21.org::v23][Num 21,23f]]
 
-^{[[#fnm3][3]]} Der Zusatz «das Gebiet des» fehlt in G und nimmt auf
+[fn:2] [[file:Jos_9.org::v10][9,10]]; [[file:Num_21.org::v33][Num 21,33]]; [[file:Dtn_3.org::v1][Dtn 3]]
+
+[fn:3] Der Zusatz «das Gebiet des» fehlt in G und nimmt auf
 12,1 keine Rücksicht.
 
-^{[[#fnm4][4]]} ℘ Num 32,33
+[fn:4] [[file:Num_32.org::v33][Num 32,33]]

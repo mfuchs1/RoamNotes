@@ -19,13 +19,18 @@
 * 3c 11:35-12:25
 <%%(org-class 2023 9 14 2024 7 8 4 44)>
 
-[[denote:20230623T230549][[SW06] Zukunftswerkstatt]]
+[[denote:20230624T193417][[SW09] Ein großes Versprechen]]
+
+[[denote:20230624T193503][[SW10] Genuss und Sucht]]
+
 
 * 3c 10:40-11:30
 <%%(org-class 2023 9 15 2024 7 9 5 44)>
 
-[[denote:20230623T230549][[SW06] Zukunftswerkstatt]]
-Neues Kapitel 3...
+[[denote:20230624T193417][[SW09] Ein großes Versprechen]]
+
+[[denote:20230624T193503][[SW10] Genuss und Sucht]]
+
 
 * 3C [KV Daniela Schwaighofer]
 

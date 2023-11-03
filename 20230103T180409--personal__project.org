@@ -310,3 +310,14 @@ Gabriel hat Kochen. Ich werde ihn wohl nicht abholen müssen.
 ** Org-mode, ...
 <2023-10-21 Sa 21:00>--<2023-10-21 Sa 22:00>
 
+** Treffen Raika Anif (Grödig) - Hr. Peter Kaspar
+<2023-11-03 Fr 09:30>--<2023-11-03 Fr 10:30>
+Kredit / Wohnung
+
+** TODO Avorion: Hologramm als Motor?
+<2023-11-02 Do 21:00>--<2023-11-02 Do 22:00>
+Kann man Hologramm wegnehmen und dahinter ist der Motor? Oder ist das Hologramm der Motor? Ist geklärt: hinter dem Hologramm verbirgt sich das Triebwerk (aus Xanion, ...).
+
+Ich hab mein Schiff (auf KDE) angepasst: vorne 4 Bolter Geschütztürme; hinten oben 2x Abwrack Geschütze und unten 2x Point Defense Kanonen. 
+
+

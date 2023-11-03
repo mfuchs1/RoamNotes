@@ -19,24 +19,21 @@
 * 4b 07:45-08:35
 <%%(org-class 2023 9 12 2024 7 6 2 44)>
 
-Die Kinder haben in der letzten Stunde eine Doppelseite zum Thema "Konfuzius" gestaltet. Diese werde ich mir anschauen und benoten.
-
-Da in den Herbstferien das Thema "Allerheiligen / Allerseelen" fällt, bieten sich folgende Themen, Fragen an:
-- Leben nach dem Tod
-- Vollendung
-- Buch der Offenbarung
-- Hoffnungsperspektiven
-- Himmel
-- ...
-
-Doku über "Hinduismus"
 [[denote:20230711T003559][[SW09] Hinduismus]]
+
+[[denote:20230711T003636][[SW10] Buddhismus]]
+
+Hefteintrag
 
 
 * 4b 07:45-08:35
 <%%(org-class 2023 9 13 2024 7 7 3 44)>
 
-Wir werden wohl heute mit dem Hinduismus beginnen - Doku "Faszination Glaube - Hinduismus". 
+[[denote:20230711T003559][[SW09] Hinduismus]]
+
+[[denote:20230711T003636][[SW10] Buddhismus]]
+
+Hefteintrag
 
 
 * 4B [KV Erwin Essl]

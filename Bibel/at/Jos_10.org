@@ -1,44 +1,36 @@
-:PROPERTIES:
-:ID:       d8650024-1483-48d3-8beb-2e72f8e675d4
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Josua* -- [[file:Jos_1.html][1]] ...
-[[file:Jos_8.html][8]] [[file:Jos_9.html][9]] *10*
-[[file:Jos_11.html][11]] [[file:Jos_12.html][12]] ...
-[[file:Jos_24.html][24]]
+#+TITLE: Jos 10 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-02 Do 10:24]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Jos 10.html
 
---------------
-
-* Jos 10
-  :PROPERTIES:
-  :CUSTOM_ID: jos-10
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Der Krieg mit den fünf Kanaaniter-Königen: 10,1-27
-     :PROPERTIES:
-     :CUSTOM_ID: der-krieg-mit-den-fünf-kanaaniter-königen-101-27
-     :END:
+* Der Krieg mit den fünf Kanaaniter-Königen: 10,1-27
+
 1 Adoni-Zedek, der König von Jerusalem, hörte, dass Josua Ai erobert und
 dem Untergang geweiht hatte - wie er es mit Jericho und seinem König
 gemacht hatte, so hatte er es auch mit Ai und seinem König gemacht - und
 dass die Einwohner von Gibeon mit den Israeliten Frieden geschlossen
-hatten und weiterhin mitten unter ihnen leben durften.
-^{[[#fn1][1]][[#fn2][2]]}
+hatten und weiterhin mitten unter ihnen leben durften. [fn:1] [fn:2]
 
 <<v2>>
 2 Da bekam er große Angst; denn die Stadt Gibeon war ebenso groß wie die
 Städte mit Königssitz; sie war größer als Ai und alle ihre Männer waren
-kampferprobte Krieger. ^{[[#fn3][3]]}
+kampferprobte Krieger. [fn:3]
 
 <<v3>>
 3 Darum sandte Adoni-Zedek, der König von Jerusalem, Boten an Hoham, den
 König von Hebron, an Piram, den König von Jarmut, an Jafia, den König
-von Lachisch, und an Debir, den König von Eglon, und ließ ihnen sagen:
-^{[[#fn4][4]]}
+von Lachisch, und an Debir, den König von Eglon, und ließ ihnen sagen: [fn:4]
 
 <<v4>>
 4 Zieht herauf zu mir und helft mir! Wir wollen Gibeon schlagen, weil es
@@ -73,7 +65,7 @@ war, stieß er plötzlich auf sie.
 10 Der Herr versetzte sie beim Anblick der Israeliten in Verwirrung,
 sodass Josua ihnen bei Gibeon eine schwere Niederlage beibringen konnte.
 Er verfolgte sie in Richtung auf die Steige von Bet-Horon und schlug sie
-bis nach Aseka und Makkeda zurück. ^{[[#fn5][5]]}
+bis nach Aseka und Makkeda zurück. [fn:5]
 
 <<v11>>
 11 Als sie auf der Flucht vor Israel an den Abhang von Bet-Horon kamen,
@@ -86,7 +78,7 @@ Israeliten mit dem Schwert töteten.\\
 12 Damals, als der Herr die Amoriter den Israeliten preisgab, redete
 Josua mit dem Herrn; dann sagte er in Gegenwart der Israeliten: Sonne,
 bleib stehen über Gibeon /\\
- und du, Mond, über dem Tal von Ajalon! - ^{[[#fn6][6]][[#fn7][7]]}\\
+ und du, Mond, über dem Tal von Ajalon! - [fn:6] [fn:7]\\
 \\
 
 <<v13>>
@@ -94,8 +86,7 @@ bleib stehen über Gibeon /\\
  und der Mond stand still, /\\
  bis das Volk an seinen Feinden Rache genommen hatte. Das steht im «Buch
 des Aufrechten». Die Sonne blieb also mitten am Himmel stehen und ihr
-Untergang verzögerte sich, ungefähr einen ganzen Tag lang.
-^{[[#fn8][8]]}\\
+Untergang verzögerte sich, ungefähr einen ganzen Tag lang. [fn:8]\\
 \\
 
 <<v14>>
@@ -156,7 +147,7 @@ machen, mit denen ihr kämpfen werdet.
 
 <<v26>>
 26 Danach erschlug Josua die Könige und ließ die Leichen an fünf Bäumen
-aufhängen. Dort blieben sie bis zum Abend hängen. ^{[[#fn9][9]]}
+aufhängen. Dort blieben sie bis zum Abend hängen. [fn:9]
 
 <<v27>>
 27 Bei Sonnenuntergang befahl Josua, sie von den Bäumen abzunehmen und
@@ -166,10 +157,8 @@ zum heutigen Tag.\\
 \\
 
 <<v28>>
-**** Die Eroberung von sechs Städten: 10,28-43
-     :PROPERTIES:
-     :CUSTOM_ID: die-eroberung-von-sechs-städten-1028-43
-     :END:
+* Die Eroberung von sechs Städten: 10,28-43
+
 28 Am gleichen Tag nahm Josua Makkeda ein und erschlug seine Einwohner
 und seinen König mit scharfem Schwert. Er weihte sie und alles, was in
 der Stadt lebte, dem Untergang; niemand ließ er entkommen. Mit dem König
@@ -219,7 +208,7 @@ an.
 in ihr lebte, ebenso die Einwohner aller ihrer Tochterstädte, mit
 scharfem Schwert; niemand ließ er entkommen, genau so, wie er es mit
 Eglon gemacht hatte. Er weihte die Stadt und alles, was in ihr lebte,
-dem Untergang. ^{[[#fn10][10]]}
+dem Untergang. [fn:10]
 
 <<v38>>
 38 Dann wandte sich Josua mit ganz Israel gegen Debir und griff die
@@ -250,25 +239,26 @@ Schlag; denn der Herr, der Gott Israels, kämpfte für Israel.
 43 Dann kehrte Josua mit ganz Israel in das Lager nach Gilgal zurück.\\
 \\
 
-^{[[#fnm1][1]]} ℘ 6; 8; 9
+* Footnotes
 
-^{[[#fnm2][2]]} Jerusalem wurde erst durch David erobert (vgl. 2 Sam
-5,6-9).
+[fn:1] [[file:Jos_6.org::v1][6]]; [[file:Jos_8.org::v1][8]]; [[file:Jos_9.org::v1][9]]
 
-^{[[#fnm3][3]]} er: Text korr. nach S und Vg.
+[fn:2] Jerusalem wurde erst durch David erobert (vgl. [[file:2.Sam_5.org::v6][2 Sam 5,6-9]]).
 
-^{[[#fnm4][4]]} Städte südlich und südwestlich von Jerusalem.
+[fn:3] er: Text korr. nach S und Vg.
 
-^{[[#fnm5][5]]} ℘ Ex 23,27; Ri 4,15; 1 Sam 7,10
+[fn:4] Städte südlich und südwestlich von Jerusalem.
 
-^{[[#fnm6][6]]} ℘ Hab 3,11
+[fn:5] [[file:Ex_23.org::v27][Ex 23,27]]; [[file:Ri_4.org::v15][Ri 4,15]]; [[file:1.Sam_7.org::v10][1 Sam 7,10]]
 
-^{[[#fnm7][7]]} 12f: Der Sieg, in dem Gott durch ein schweres Unwetter
+[fn:6] [[file:Hab_3.org::v11][Hab 3,11]]
+
+[fn:7] 12f: Der Sieg, in dem Gott durch ein schweres Unwetter
 Israel half, wird mit einem Stück aus einem uns nicht bekannten
 Liederbuch gefeiert und dichterisch ausgemalt.
 
-^{[[#fnm8][8]]} ℘ 2 Sam 1,18
+[fn:8] [[file:2.Sam_1.org::v18][2 Sam 1,18]]
 
-^{[[#fnm9][9]]} ℘ Dtn 21,23
+[fn:9] [[file:Dtn_21.org::v23][Dtn 21,23]]
 
-^{[[#fnm10][10]]} Nach VV. 23-26 ist der König schon tot.
+[fn:10] Nach VV. [[v23][23]]-[[v26][26]] ist der König schon tot.

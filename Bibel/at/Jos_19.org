@@ -1,25 +1,23 @@
-:PROPERTIES:
-:ID:       e5db1c5e-3b37-496c-9fac-af78de5ed2b1
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Josua* -- [[file:Jos_1.html][1]] ...
-[[file:Jos_17.html][17]] [[file:Jos_18.html][18]] *19*
-[[file:Jos_20.html][20]] [[file:Jos_21.html][21]] ...
-[[file:Jos_24.html][24]]
+#+TITLE: Jos 19 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-03 Fr 11:51]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Jos 19.html
 
---------------
 
 * Jos 19
-  :PROPERTIES:
-  :CUSTOM_ID: jos-19
-  :END:
 
 <<verses>>
 
 <<v1>>
 1 Das zweite Los fiel [auf Simeon] auf den Stamm der Simeoniter und ihre
-Sippen. Ihr Erbbesitz lag mitten im Erbbesitz der Judäer. ^{[[#fn1][1]]}
+Sippen. Ihr Erbbesitz lag mitten im Erbbesitz der Judäer. [fn:1]
 
 <<v2>>
 2 Sie erhielten als Erbbesitz: Beerscheba, Scheba, Molada,
@@ -66,8 +64,7 @@ Jafia.
 
 <<v13>>
 13 Von dort geht sie wieder ostwärts dem Sonnenaufgang zu nach Gat-Hefer
-und Et-Kazin und weiter nach Rimmon und biegt dann ab nach Nea.
-^{[[#fn2][2]]}
+und Et-Kazin und weiter nach Rimmon und biegt dann ab nach Nea. [fn:2]
 
 <<v14>>
 14 Sie zieht sich um Nea herum, geht dann in nördlicher Richtung nach
@@ -75,7 +72,7 @@ Hannaton und läuft im Tal Jiftach-El aus.
 
 <<v15>>
 15 (Dazu kommen) . . . Kattat, Nahalal, Schimron, Jidala und Betlehem:
-zwölf Städte mit den dazugehörenden Gehöften. ^{[[#fn3][3]]}
+zwölf Städte mit den dazugehörenden Gehöften. [fn:3]
 
 <<v16>>
 16 Das ist der Erbbesitz der Sebuloniter, entsprechend ihren Sippen: die
@@ -83,7 +80,7 @@ Städte mit den dazugehörenden Gehöften.
 
 <<v17>>
 17 Das vierte Los fiel [auf Issachar,] auf die Issachariter und ihre
-Sippen. ^{[[#fn4][4]]}
+Sippen. [fn:4]
 
 <<v18>>
 18 Ihr Gebiet erstreckt sich bis Jesreel und (umfasst) Kesullot,
@@ -108,8 +105,7 @@ dazugehörenden Gehöften.
 die Städte mit den dazugehörenden Gehöften.
 
 <<v24>>
-24 Das fünfte Los fiel auf den Stamm der Ascheriter und ihre Sippen.
-^{[[#fn5][5]]}
+24 Das fünfte Los fiel auf den Stamm der Ascheriter und ihre Sippen. [fn:5]
 
 <<v25>>
 25 Ihr Gebiet umfasst Helkat, Hali, Beten, Achschaf,
@@ -141,8 +137,7 @@ dazugehörenden Gehöften.
 Sippen: die Städte mit den dazugehörenden Gehöften.
 
 <<v32>>
-32 Das sechste Los fiel auf die Naftaliter und ihre Sippen.
-^{[[#fn6][6]]}
+32 Das sechste Los fiel auf die Naftaliter und ihre Sippen. [fn:6]
 
 <<v33>>
 33 Ihre Grenze geht von Helef, von der Eiche bei Zaanannim, aus über
@@ -151,7 +146,7 @@ Adami-Nekeb und Jabneel bis nach Lakkum und läuft am Jordan aus.
 <<v34>>
 34 Umgekehrt geht die Grenze westwärts nach Asnot-Tabor und von dort
 hinaus nach Hukkok. Sie stößt im Süden an Sebulon; im Westen stößt sie
-an Ascher und im Osten [an Juda und] an den Jordan. ^{[[#fn7][7]]}
+an Ascher und im Osten [an Juda und] an den Jordan. [fn:7]
 
 <<v35>>
 35 (Dazu kommen) die befestigten Städte Ziddim, Zer, Hammat-Rakkat,
@@ -172,8 +167,7 @@ mit den dazugehörenden Gehöften.
 Städte mit den dazugehörenden Gehöften.
 
 <<v40>>
-40 Das siebte Los fiel auf den Stamm der Daniter und ihre Sippen.
-^{[[#fn8][8]]}
+40 Das siebte Los fiel auf den Stamm der Daniter und ihre Sippen. [fn:8]
 
 <<v41>>
 41 Das Gebiet ihres Erbbesitzes umfasste Zora, Eschtaol, Ir-Schemesch,
@@ -198,7 +192,7 @@ Städte mit den dazugehörenden Gehöften.
 Leschem hinauf, eröffneten den Kampf gegen Leschem, nahmen es ein und
 erschlugen seine Einwohner mit scharfem Schwert. Sie nahmen die Stadt in
 Besitz und blieben dort. Sie nannten Leschem von nun an Dan, nach dem
-Namen ihres Stammvaters Dan. ^{[[#fn9][9]][[#fn10][10]]}
+Namen ihres Stammvaters Dan. [fn:9] [fn:10]
 
 <<v48>>
 48 Das ist der Erbbesitz des Stammes der Daniter, entsprechend ihren
@@ -222,32 +216,37 @@ der Israeliten durch das Los zuteilten. Dann waren sie mit der
 Verteilung des Landes fertig.\\
 \\
 
-^{[[#fnm1][1]]} 1-7: Grenzen des Stammesgebiets von Simeon werden nicht
+* Footnotes
+:PROPERTIES:
+:ID:       a0df61bd-dc15-4f1f-be8a-83a58f61fe39
+:END:
+
+[fn:1] 1-7: Grenzen des Stammesgebiets von Simeon werden nicht
 angegeben, weil der Stamm in Juda aufgegangen ist.
 
-^{[[#fnm2][2]]} und biegt dann ab: Text korr.; H ist verderbt.
+[fn:2] und biegt dann ab: Text korr.; H ist verderbt.
 
-^{[[#fnm3][3]]} Der Text ist unvollständig überliefert.
+[fn:3] Der Text ist unvollständig überliefert.
 
-^{[[#fnm4][4]]} 17-23: Issachars Gebiet erstreckt sich östlich des Tabor
+[fn:4] 17-23: Issachars Gebiet erstreckt sich östlich des Tabor
 bis zum Jordan und umfasst auch den Ortsteil der Jesreelebene.
 
-^{[[#fnm5][5]]} 24-31: Ascher erhält das Land am Meer von Tyrus bis
+[fn:5] 24-31: Ascher erhält das Land am Meer von Tyrus bis
 südlich des Karmel.
 
-^{[[#fnm6][6]]} 32-39: Naftalis Gebiet liegt westlich des oberen Jordan
+[fn:6] 32-39: Naftalis Gebiet liegt westlich des oberen Jordan
 und des Sees Gennesaret, östlich von Ascher und Sebulon, nördlich von
 Issachar.
 
-^{[[#fnm7][7]]} Der Zusatz trifft sachlich nicht zu; er fehlt zu Recht
+[fn:7] Der Zusatz trifft sachlich nicht zu; er fehlt zu Recht
 in G.
 
-^{[[#fnm8][8]]} 40-48: Zunächst siedelte der Stamm Dan im Nordwesten des
-Stammes Juda (vgl. 15,33.45.57). Später wird der Stamm Dan zur
+[fn:8] 40-48: Zunächst siedelte der Stamm Dan im Nordwesten des
+Stammes Juda (vgl. [[file:Jos_15.org::v33][15,33]].[[file:Jos_15.org::v45][45]].[[file:Jos_15.org::v57][57]]). Später wird der Stamm Dan zur
 Auswanderung in das Gebiet nördlich des Sees Gennesaret gezwungen (vgl.
-Ri 1,34; 18,1-29).
+[[file:Ri_1.org::v34][Ri 1,34]]; [[file:Ri_18.org::v1][18,1-29]]).
 
-^{[[#fnm9][9]]} ℘ Ri 18,27-29
+[fn:9] [[file:Ri_18.org::v27][Ri 18,27-29]]
 
-^{[[#fnm10][10]]} Text korr. (vgl. Ri 1,34); H: Das Gebiet . . . ging
+[fn:10] Text korr. (vgl. Ri 1,34); H: Das Gebiet . . . ging
 hinaus (ging verloren?).

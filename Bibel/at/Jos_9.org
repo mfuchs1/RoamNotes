@@ -1,31 +1,24 @@
-:PROPERTIES:
-:ID:       649f9a89-aa7b-4ba4-ba6d-8f74e93cd776
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Josua* -- [[file:Jos_1.html][1]] ...
-[[file:Jos_7.html][7]] [[file:Jos_8.html][8]] *9*
-[[file:Jos_10.html][10]] [[file:Jos_11.html][11]] ...
-[[file:Jos_24.html][24]]
-
---------------
-
-* Jos 9
-  :PROPERTIES:
-  :CUSTOM_ID: jos-9
-  :END:
+#+TITLE: Jos 9 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-02 Do 10:16]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Jos 9.html
 
 <<verses>>
 
 <<v1>>
-**** Die List der Gibeoniter: 9,1-27
-     :PROPERTIES:
-     :CUSTOM_ID: die-list-der-gibeoniter-91-27
-     :END:
+* Die List der Gibeoniter: 9,1-27
+
 1 Davon hörten alle Könige jenseits des Jordan, auf dem Gebirge, in der
 Schefela und an der ganzen Küste des großen Meeres bis hin zum Libanon:
 die Hetiter, die Amoriter, die Kanaaniter, die Perisiter, die Hiwiter
-und die Jebusiter. ^{[[#fn1][1]]}
+und die Jebusiter. [fn:1]
 
 <<v2>>
 2 Sie taten sich zusammen, um gemeinsam gegen Josua und Israel den Kampf
@@ -33,7 +26,7 @@ aufzunehmen.
 
 <<v3>>
 3 Als die Einwohner von Gibeon erfuhren, was Josua mit Jericho und Ai
-gemacht hatte, ^{[[#fn2][2]]}
+gemacht hatte, [fn:2]
 
 <<v4>>
 4 griffen sie zu einer List. Sie versahen sich mit Verpflegung, packten
@@ -52,7 +45,7 @@ Vertrag mit uns!
 <<v7>>
 7 Da antworteten die Israeliten den Hiwitern: Vielleicht wohnt ihr
 mitten in unserem Gebiet. Wie können wir da einen Vertrag mit euch
-schließen? ^{[[#fn3][3]]}
+schließen? [fn:3]
 
 <<v8>>
 8 Sie aber sagten zu Josua: Wir sind deine Knechte. Josua fragte sie:
@@ -66,7 +59,7 @@ Ruhm und von allem gehört, was er in Ägypten getan hat,
 <<v10>>
 10 und auch von allem, was er mit den beiden Königen der Amoriter
 jenseits des Jordan gemacht hat, mit Sihon, dem König von Heschbon, und
-mit Og, dem König des Baschan in Aschtarot. ^{[[#fn4][4]]}
+mit Og, dem König des Baschan in Aschtarot. [fn:4]
 
 <<v11>>
 11 Da sagten unsere Ältesten und alle Bewohner des Landes zu uns: Nehmt
@@ -85,12 +78,12 @@ sie sind durch den weiten Weg ganz abgenützt.
 
 <<v14>>
 14 Da nahmen die Israeliten etwas von der Verpflegung; aber den Mund des
-Herrn befragten sie nicht. ^{[[#fn5][5]]}
+Herrn befragten sie nicht. [fn:5]
 
 <<v15>>
 15 So gewährte ihnen Josua Frieden und schloss mit ihnen einen Vertrag,
 sie am Leben zu lassen. Auch die Vorsteher der Gemeinde leisteten ihnen
-einen Eid. ^{[[#fn6][6]]}
+einen Eid. [fn:6]
 
 <<v16>>
 16 Drei Tage aber, nachdem sie mit ihnen den Vertrag geschlossen hatten,
@@ -119,7 +112,7 @@ Zorngericht über uns kommt.
 <<v21>>
 21 Die Vorsteher sagten also zu ihnen: Sie sollen am Leben bleiben. So
 wurden sie Holzfäller und Wasserträger für die ganze Gemeinde, wie es
-ihnen die Vorsteher sagten. ^{[[#fn7][7]]}
+ihnen die Vorsteher sagten. [fn:7]
 
 <<v22>>
 22 Darauf rief Josua die Gibeoniter und sagte zu ihnen: Warum habt ihr
@@ -151,21 +144,23 @@ die Gemeinde und für den Altar des Herrn an dem Ort, den er erwählen
 würde. Das sind sie bis zum heutigen Tag geblieben.\\
 \\
 
-^{[[#fnm1][1]]} Gibeon, nördlich von Jerusalem, blieb wie die in V. 17
+* Footnotes
+
+[fn:1] Gibeon, nördlich von Jerusalem, blieb wie die in V. 17
 genannten Städte lange Zeit kanaanäisch.
 
-^{[[#fnm2][2]]} ℘ 6,20f; 8,26.29
+[fn:2] [[file:Jos_6.org::v20][6,20f]]; [[file:Jos_8.org::v26][8,26]].[[file:Jos_8.org::v29][29]]
 
-^{[[#fnm3][3]]} 7-9: Weit entfernte Völker konnten milder behandelt
-werden (Dtn 20,10-15) als die Völker Kanaans (Dtn 7,1-11; 20,16-18), mit
+[fn:3] 7-9: Weit entfernte Völker konnten milder behandelt
+werden (Dtn 20,10-15) als die Völker Kanaans ([[file:Dtn_7.org::v1][Dtn 7,1-11]]; [[file:Dtn_20.org::v16][20,16-18]]), mit
 denen Israel kein Abkommen schließen durfte.
 
-^{[[#fnm4][4]]} ℘ 12,2.4; Num 21,21-35
+[fn:4] [[file:Jos_12.org::v2][12,2]].[[file:Jos_12.org::v4][4]]; [[file:Num_21.org::v21][Num 21,21-35]]
 
-^{[[#fnm5][5]]} Mund des Herrn: Gemeint ist eine Entscheidung,
-vermittelt vielleicht durch einen Seher oder Propheten (vgl. Jer 15,19).
+[fn:5] Mund des Herrn: Gemeint ist eine Entscheidung,
+vermittelt vielleicht durch einen Seher oder Propheten (vgl. [[file:Jer_15.org::v19][Jer 15,19]]).
 
-^{[[#fnm6][6]]} ℘ 11,19
+[fn:6] [[file:Jos_11.org::v19][11,19]]
 
-^{[[#fnm7][7]]} Holzfällen und Wassertragen waren Sklavendienste. Nach
+[fn:7] Holzfällen und Wassertragen waren Sklavendienste. Nach
 VV. 23.27 waren Gibeoniter Tempelsklaven.

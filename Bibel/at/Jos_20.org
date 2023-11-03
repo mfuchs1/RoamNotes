@@ -1,28 +1,22 @@
-:PROPERTIES:
-:ID:       faa678ab-6751-42ef-aa50-e2d06ba1f9ec
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Josua* -- [[file:Jos_1.html][1]] ...
-[[file:Jos_18.html][18]] [[file:Jos_19.html][19]] *20*
-[[file:Jos_21.html][21]] [[file:Jos_22.html][22]] ...
-[[file:Jos_24.html][24]]
+#+TITLE: Jos 20 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-03 Fr 12:02]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Jos 20.html
 
---------------
-
-* Jos 20
-  :PROPERTIES:
-  :CUSTOM_ID: jos-20
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Die Asylstädte: 20,1-9
-     :PROPERTIES:
-     :CUSTOM_ID: die-asylstädte-201-9
-     :END:
-1 Damals sagte der Herr zu Josua: ^{[[#fn1][1]]}
+* Die Asylstädte: 20,1-9
+
+1 Damals sagte der Herr zu Josua: [fn:1]
 
 <<v2>>
 2 Sag den Israeliten: Bestimmt die Asylstädte bei euch, von denen ich zu
@@ -54,7 +48,7 @@ ist.
 <<v7>>
 7 Man wählte also Kedesch in Galiläa, im Gebirge Naftali, aus, ferner
 Sichem im Gebirge Efraim und Kirjat-Arba, das ist Hebron, im Gebirge
-Juda. ^{[[#fn2][2]]}
+Juda. [fn:2]
 
 <<v8>>
 8 Jenseits des Jordan [östlich von Jericho] bestimmte man Bezer in der
@@ -68,7 +62,9 @@ Menschen erschlagen hatte, fliehen, um nicht durch die Hand des
 Bluträchers zu sterben, bevor er vor der Gemeinde gestanden hätte.\\
 \\
 
-^{[[#fnm1][1]]} ℘ (1-9) Num 35,9-29; Dtn 19,1-10
+* Footnotes
 
-^{[[#fnm2][2]]} Man wählte: Text korr. (vgl. Num 35,11); H: Sie
-heiligten; wohl unter Einfluss des folgenden Namens Kedesch (Heiligtum).
+[fn:1] (1-9) [[file:Num_35.org::v9][Num 35,9-29]]; [[file:Dtn_19.org::v1][Dtn 19,1-10]]
+
+[fn:2] Man wählte: Text korr. (vgl. Num 35,11); H: Sie heiligten;
+wohl unter Einfluss des folgenden Namens Kedesch (Heiligtum).

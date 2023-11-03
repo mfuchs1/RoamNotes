@@ -1,27 +1,20 @@
-:PROPERTIES:
-:ID:       bf39f010-baba-49b9-b0ca-f98a7a20f256
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Josua* -- [[file:Jos_1.html][1]] ...
-[[file:Jos_13.html][13]] [[file:Jos_14.html][14]] *15*
-[[file:Jos_16.html][16]] [[file:Jos_17.html][17]] ...
-[[file:Jos_24.html][24]]
-
---------------
-
-* Jos 15
-  :PROPERTIES:
-  :CUSTOM_ID: jos-15
-  :END:
+#+TITLE: Jos 15 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-03 Fr 10:49]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Jos 15.html
 
 <<verses>>
 
 <<v1>>
-**** Das Gebiet des Stammes Juda: 15,1-63
-     :PROPERTIES:
-     :CUSTOM_ID: das-gebiet-des-stammes-juda-151-63
-     :END:
+* Das Gebiet des Stammes Juda: 15,1-63
+
 1 An den Stamm der Judäer fiel durch das Los, entsprechend seinen
 Sippen, der Anteil gegen die Grenze Edoms hin, südwärts der Wüste Zin zu
 gelegen, die im äußersten Süden ist.
@@ -37,8 +30,7 @@ Hezron, steigt hinauf nach Addar und wendet sich nach Karka;
 
 <<v4>>
 4 dann führt sie hinüber nach Azmon, geht hinaus zum Grenzbach Ägyptens
-und läuft am Meer aus. Das ist die Südgrenze des Stammes Juda.
-^{[[#fn1][1]]}
+und läuft am Meer aus. Das ist die Südgrenze des Stammes Juda. [fn:1]
 
 <<v5>>
 5 Die Ostgrenze bildet das Salzmeer bis zur Jordanmündung. Für die
@@ -53,7 +45,7 @@ Sohnes Rubens.
 7 Vom Achortal steigt sie empor nach Debir und wendet sich nordwärts
 nach Gelilot gegenüber der Steige von Adummim, die südlich des Bachtals
 liegt; dann führt sie hinüber zum Wasser von En-Schemesch und läuft
-hinaus zur Rogel-Quelle. ^{[[#fn2][2]]}
+hinaus zur Rogel-Quelle. [fn:2]
 
 <<v8>>
 8 Von da an steigt die Grenze hinauf in das Ben-Hinnom-Tal südlich des
@@ -64,7 +56,7 @@ Rafaïter-Ebene liegt.
 <<v9>>
 9 Vom Gipfel des Berges biegt die Grenze ab zur Neftoach-Quelle und
 führt hinaus zum Berg Efron. Dann biegt sie ab nach Baala, das ist
-Kirjat-Jearim. ^{[[#fn3][3]]}
+Kirjat-Jearim. [fn:3]
 
 <<v10>>
 10 Von Baala wendet sich die Grenze nach Westen zum Berg Seïr, führt
@@ -83,8 +75,7 @@ das Gebiet der Judäer ringsum, entsprechend ihren Sippen.
 <<v13>>
 13 Kaleb aber, dem Sohn Jefunnes, gab Josua einen Anteil mitten unter
 den Judäern, nach der Anweisung des Herrn an Josua (und zwar)
-Kirjat-Arba - Arba war der Vater Anaks -, das heißt Hebron.
-^{[[#fn4][4]]}
+Kirjat-Arba - Arba war der Vater Anaks -, das heißt Hebron. [fn:4]
 
 <<v14>>
 14 Kaleb vertrieb von dort die drei Anakiter Scheschai, Ahiman und
@@ -100,21 +91,21 @@ meine Tochter Achsa zur Frau.
 
 <<v17>>
 17 Otniël, der Sohn des Kenas, eines Bruders Kalebs, nahm die Stadt ein
-und Kaleb gab ihm seine Tochter Achsa zur Frau. ^{[[#fn5][5]]}
+und Kaleb gab ihm seine Tochter Achsa zur Frau. [fn:5]
 
 <<v18>>
 18 Als sie bei Otniël ankam, drängte er sie, von ihrem Vater ein Stück
 Land zu verlangen. Da ließ sie sich vom Esel herabgleiten und Kaleb
-fragte sie: Was hast du? ^{[[#fn6][6]]}
+fragte sie: Was hast du? [fn:6]
 
 <<v19>>
 19 Sie antwortete: Gib mir ein Geschenk als Zeichen des Segens! Wenn du
 mich schon ins Trockenland schickst, dann gib mir auch Wasserstellen! Da
-gab er ihr die obere und die untere Wasserquelle. ^{[[#fn7][7]]}
+gab er ihr die obere und die untere Wasserquelle. [fn:7]
 
 <<v20>>
 20 Das ist der Erbbesitz des Stammes der Judäer, entsprechend ihren
-Sippen: ^{[[#fn8][8]]}
+Sippen: [fn:8]
 
 <<v21>>
 21 Die Städte im Bereich des Stammes der Judäer waren folgende: an der
@@ -139,7 +130,7 @@ Grenze zu Edom im Negeb: Kabzeel, Eder, Jagur,
 27 Hazar-Gadda, Heschmon, Bet-Pelet,
 
 <<v28>>
-28 Hazar-Schual, Beerscheba und seine Tochterstädte, ^{[[#fn9][9]]}
+28 Hazar-Schual, Beerscheba und seine Tochterstädte, [fn:9]
 
 <<v29>>
 29 Baala, Ijim, Ezem,
@@ -152,7 +143,7 @@ Grenze zu Edom im Negeb: Kabzeel, Eder, Jagur,
 
 <<v32>>
 32 Lebaot, Schilhim und En-Rimmon: im ganzen neunundzwanzig Städte mit
-den dazugehörenden Gehöften; ^{[[#fn10][10]]}
+den dazugehörenden Gehöften; [fn:10]
 
 <<v33>>
 33 in der Schefela: Eschtaol, Zora, Aschna,
@@ -243,7 +234,7 @@ dazugehörenden Gehöfte;
 59 Maarat, Bet-Anot und Eltekon: sechs Städte mit den dazugehörenden
 Gehöften; Tekoa, Efrata, das ist Betlehem, Pegor, Etam, Kulon, Tatam,
 Schoresch, Kerem, Gallim, Bet-Ter und Manocho: elf Städte mit den
-dazugehörenden Gehöften: ^{[[#fn11][11]]}
+dazugehörenden Gehöften: [fn:11]
 
 <<v60>>
 60 Kirjat-Baal, das ist Kirjat-Jearim, und Rabba: zwei Städte mit den
@@ -262,29 +253,28 @@ vertreiben und so wohnen die Jebusiter bis zum heutigen Tag mit den
 Judäern zusammen in Jerusalem.\\
 \\
 
-^{[[#fnm1][1]]} des Stammes Juda: Text korr. nach G (wörtlich: für sie);
+* Footnotes
+
+[fn:1] des Stammes Juda: Text korr. nach G (wörtlich: für sie);
 H: für euch.
 
-^{[[#fnm2][2]]} nach Gelilot: Text korr. (vgl. 18,7); H: Gilgal.
+[fn:2] nach Gelilot: Text korr. (vgl. 18,7); H: Gilgal.
 
-^{[[#fnm3][3]]} zum Berg Efron: Text korr. nach G; H: zu den Städten des
-Berges Efron.
+[fn:3] zum Berg Efron: Text korr. nach G; H: zu den Städten des Berges Efron.
 
-^{[[#fnm4][4]]} ℘ (13-19) 14,13-15; Ri 1,10-15
+[fn:4] (13-19) [[file:Jos_14.org::v13][14,13-15]]; [[file:Ri_1.org::v10][Ri 1,10-15]]
 
-^{[[#fnm5][5]]} ℘ Ri 3,9
+[fn:5] [[file:Ri_3.org::v9][Ri 3,9]]
 
-^{[[#fnm6][6]]} Übersetzung unsicher.
+[fn:6] Übersetzung unsicher.
 
-^{[[#fnm7][7]]} ein Geschenk als Zeichen des Segens, wörtlich: einen
-Segen.
+[fn:7] ein Geschenk als Zeichen des Segens, wörtlich: einen Segen.
 
-^{[[#fnm8][8]]} 20-63: Die Aufstellung geht auf alte Ortslisten zurück,
+[fn:8] 20-63: Die Aufstellung geht auf alte Ortslisten zurück,
 in denen die Bezirke Judas umschrieben waren.
 
-^{[[#fnm9][9]]} und seine Tochterstädte: Text korr., H ist verderbt,
-vgl. G.
+[fn:9] und seine Tochterstädte: Text korr., H ist verderbt, vgl. G.
 
-^{[[#fnm10][10]]} En-Rimmon: Text korr. nach Neh 11,29 (vgl. Jos 19,7).
+[fn:10] En-Rimmon: Text korr. nach [[file:Neh_11.org::v29][Neh 11,29]] (vgl. [[file:Jos_19.org::v7][Jos 19,7]]).
 
-^{[[#fnm11][11]]} Dieser Versteil ist nur in G erhalten.
+[fn:11] Dieser Versteil ist nur in G erhalten.

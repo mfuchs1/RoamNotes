@@ -1,28 +1,22 @@
-:PROPERTIES:
-:ID:       f95aa28a-53bd-40c6-b588-a2e081c9c1e9
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Josua* -- [[file:Jos_1.html][1]] ...
-[[file:Jos_4.html][4]] [[file:Jos_5.html][5]] *6* [[file:Jos_7.html][7]]
-[[file:Jos_8.html][8]] ... [[file:Jos_24.html][24]]
-
---------------
-
-* Jos 6
-  :PROPERTIES:
-  :CUSTOM_ID: jos-6
-  :END:
+#+TITLE: Jos 6 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-02 Do 00:03]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Jos 6.html
 
 <<verses>>
 
 <<v1>>
-**** Die Eroberung Jerichos: 6,1-27
-     :PROPERTIES:
-     :CUSTOM_ID: die-eroberung-jerichos-61-27
-     :END:
+* Die Eroberung Jerichos: 6,1-27
+
 1 Jericho hielt wegen der Israeliten die Tore fest verschlossen. Niemand
-konnte heraus und niemand konnte hinein. ^{[[#fn1][1]]}
+konnte heraus und niemand konnte hinein. [fn:1]
 
 <<v2>>
 2 Da sagte der Herr zu Josua: Sieh her, ich gebe Jericho und seinen
@@ -105,7 +99,7 @@ die wir ausgeschickt hatten.
 <<v18>>
 18 Hütet euch aber davor, von dem, was dem Untergang geweiht ist, etwas
 zu begehren und wegzunehmen; sonst weiht ihr das Lager Israels dem
-Untergang und stürzt es ins Unglück. ^{[[#fn2][2]][[#fn3][3]]}
+Untergang und stürzt es ins Unglück. [fn:2] [fn:3]
 
 <<v19>>
 19 Alles Gold und Silber und die Geräte aus Bronze und Eisen sollen dem
@@ -116,17 +110,17 @@ Herrn geweiht sein und in den Schatz des Herrn kommen.
 geblasen. Als das Volk den Hörnerschall hörte, brach es in lautes
 Kriegsgeschrei aus. Die Stadtmauer stürzte in sich zusammen, und das
 Volk stieg in die Stadt hinein, jeder an der nächstbesten Stelle. So
-eroberten sie die Stadt. ^{[[#fn4][4]]}
+eroberten sie die Stadt. [fn:4]
 
 <<v21>>
 21 Mit scharfem Schwert weihten sie alles, was in der Stadt war, dem
 Untergang, Männer und Frauen, Kinder und Greise, Rinder, Schafe und
-Esel. ^{[[#fn5][5]]}
+Esel. [fn:5]
 
 <<v22>>
 22 Zu den beiden Männern, die das Land erkundet hatten, sagte Josua:
 Geht zu dem Haus der Dirne und holt von dort die Frau und alles, was ihr
-gehört, wie ihr es ihr geschworen habt. ^{[[#fn6][6]]}
+gehört, wie ihr es ihr geschworen habt. [fn:6]
 
 <<v23>>
 23 Da gingen die jungen Männer, die Kundschafter, und holten Rahab,
@@ -143,36 +137,38 @@ Schatz im Haus des Herrn.
 25 Die Dirne Rahab und die Familie ihres Vaters und alles, was ihr
 gehörte, ließ Josua am Leben. So wohnt ihre Familie bis heute mitten in
 Israel; denn Rahab hatte die Boten versteckt, die Josua ausgesandt
-hatte, um Jericho auskundschaften zu lassen. ^{[[#fn7][7]]}
+hatte, um Jericho auskundschaften zu lassen. [fn:7]
 
 <<v26>>
 26 Damals schwor Josua: Verflucht beim Herrn sei der Mann, der es
 unternimmt, diese Stadt Jericho wieder aufzubauen. Seinen Erstgeborenen
 soll es ihn kosten, wenn er sie neu gründet, und seinen Jüngsten, wenn
-er ihre Tore wieder aufrichtet. ^{[[#fn8][8]]}
+er ihre Tore wieder aufrichtet. [fn:8]
 
 <<v27>>
 27 Der Herr war mit Josua und sein Ruhm verbreitete sich im ganzen
 Land.\\
 \\
 
-^{[[#fnm1][1]]} Jericho ist eine bis ins 7. Jahrtausend v. Chr.
+* Footnotes
+
+[fn:1] Jericho ist eine bis ins 7. Jahrtausend v. Chr.
 zurückreichende Stadt; die Eroberung durch Josua ist bisher
 archäologisch nicht nachgewiesen. Ihre Einnahme wird nach Art einer
 Prozession mit der Bundeslade geschildert.
 
-^{[[#fnm2][2]]} ℘ Lev 27,28
+[fn:2] [[file:Lev_27.org::v28][Lev 27,28]]
 
-^{[[#fnm3][3]]} begehren: Text korr. nach G. - Von der Beute, die Gott
+[fn:3] begehren: Text korr. nach G. - Von der Beute, die Gott
 geweiht war und vernichtet werden musste, durfte nichts weggenommen
 werden.
 
-^{[[#fnm4][4]]} ℘ Hebr 11,30
+[fn:4] [[file:~/RoamNotes/notes/Bibel/nt/Hebr_11.org::v30][Hebr 11,30]]
 
-^{[[#fnm5][5]]} ℘ 8,2
+[fn:5] [[file:Jos_8.org::v2][8,2]]
 
-^{[[#fnm6][6]]} ℘ 2,14
+[fn:6] [[file:Jos_2.org::v14][2,14]]
 
-^{[[#fnm7][7]]} ℘ 2,13
+[fn:7] [[file:Jos_2.org::v13][2,13]]
 
-^{[[#fnm8][8]]} Der Fluch deutet auf 1 Kön 16,34 hin.
+[fn:8] Der Fluch deutet auf [[file:1.Kön_16.org::v34][1 Kön 16,34]] hin.

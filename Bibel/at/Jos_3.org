@@ -1,26 +1,20 @@
-:PROPERTIES:
-:ID:       a455916f-6eac-4282-b9d8-2408778e56be
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Josua* -- [[file:Jos_1.html][1]]
-[[file:Jos_2.html][2]] *3* [[file:Jos_4.html][4]] [[file:Jos_5.html][5]]
-... [[file:Jos_24.html][24]]
-
---------------
-
-* Jos 3
-  :PROPERTIES:
-  :CUSTOM_ID: jos-3
-  :END:
+#+TITLE: Jos 3 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-01 Mi 23:40]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Jos 3.html
 
 <<verses>>
 
 <<v1>>
-**** Der Übergang über den Jordan: 3,1-17
-     :PROPERTIES:
-     :CUSTOM_ID: der-übergang-über-den-jordan-31-17
-     :END:
+* Der Übergang über den Jordan: 3,1-17
+
 1 Am frühen Morgen brach Josua mit allen Israeliten von Schittim auf.
 Als sie an den Jordan kamen, übernachteten sie dort, bevor sie ihn
 überschritten.
@@ -41,7 +35,7 @@ noch nie gegangen.
 
 <<v5>>
 5 Und Josua sagte zum Volk: Heiligt euch; denn morgen wird der Herr
-mitten unter euch Wunder tun. ^{[[#fn1][1]]}
+mitten unter euch Wunder tun. [fn:1]
 
 <<v6>>
 6 Und zu den Priestern sagte Josua: Nehmt die Bundeslade auf und zieht
@@ -51,7 +45,7 @@ voraus.
 <<v7>>
 7 Da sagte der Herr zu Josua: Heute fange ich an, dich vor den Augen
 ganz Israels groß zu machen, damit alle erkennen, dass ich mit dir sein
-werde, wie ich mit Mose gewesen bin. ^{[[#fn2][2]]}
+werde, wie ich mit Mose gewesen bin. [fn:2]
 
 <<v8>>
 8 Du aber sollst den Priestern, die die Bundeslade tragen, befehlen:
@@ -74,13 +68,13 @@ durch den Jordan.
 
 <<v12>>
 12 Wählt nun zwölf Männer aus den Stämmen Israels aus, aus jedem Stamm
-einen! ^{[[#fn3][3]]}
+einen! [fn:3]
 
 <<v13>>
 13 Sobald die Füße der Priester, die die Lade des Herrn tragen, des
 Herrn der ganzen Erde, im Wasser des Jordan stehen, wird das Wasser des
 Jordan, das von oben herabkommt, wie abgeschnitten sein und wie ein Wall
-dastehen. ^{[[#fn4][4]]}
+dastehen. [fn:4]
 
 <<v14>>
 14 Als dann das Volk seine Zelte verließ und aufbrach, um den Jordan zu
@@ -97,7 +91,7 @@ aber während der ganzen Erntezeit über alle Ufer getreten -,
 Wasser stand wie ein Wall in weiter Entfernung, bei der Stadt Adam, die
 in der Nähe von Zaretan liegt. Die zum Meer der Araba, zum Salzmeer,
 hinabfließenden Fluten dagegen liefen vollständig ab und das Volk zog
-Jericho gegenüber durch den Jordan. ^{[[#fn5][5]][[#fn6][6]]}
+Jericho gegenüber durch den Jordan. [fn:5] [fn:6]
 
 <<v17>>
 17 Die Priester, die die Bundeslade des Herrn trugen, standen, während
@@ -106,16 +100,18 @@ Jordan auf trockenem Boden, bis das ganze Volk den Jordan durchschritten
 hatte.\\
 \\
 
-^{[[#fnm1][1]]} Wie für eine kultische Handlung muss sich das Volk durch
+* Footnotes
+
+[fn:1] Wie für eine kultische Handlung muss sich das Volk durch
 sexuelle Enthaltung und Reinigen der Kleider bereit machen.
 
-^{[[#fnm2][2]]} ℘ 4,14; 1,5.17
+[fn:2] [[file:Jos_4.org::v14][4,14]]; [[file:Jos_1.org::v5][1,5]].[[file:Jos_1.org::v17][17]]
 
-^{[[#fnm3][3]]} Die Aufgabe der zwölf Männer wird in 4,2-5 mitgeteilt.
+[fn:3] Die Aufgabe der zwölf Männer wird in [[file:Jos_4.org::v2][4,2-5]] mitgeteilt.
 
-^{[[#fnm4][4]]} ℘ 4,7
+[fn:4] [[file:Jos_4.org::v7][4,7]]
 
-^{[[#fnm5][5]]} ℘ Ex 14,21; Ps 114,3
+[fn:5] [[file:Ex_14.org::v21][Ex 14,21]]; [[file:Ps_114.org::v3][Ps 114,3]]
 
-^{[[#fnm6][6]]} Die Stadt Adam sucht man in der Nähe der Einmündung des
+[fn:6] Die Stadt Adam sucht man in der Nähe der Einmündung des
 Jabbok in den Jordan. Das «Meer der Araba» ist das Tote Meer.

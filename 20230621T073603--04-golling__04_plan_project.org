@@ -50,11 +50,17 @@ CLOSED: [2023-10-21 Sa 10:58] SCHEDULED: <2023-10-16 Mo>
 - State "DONE"       from              [2023-10-21 Sa 10:58]
 :END:
 
-** [[denote:20230711T003503][[SW07] Herbstferien4]]
-SCHEDULED: <2023-10-23 Mo>
+** DONE [[denote:20230711T003503][[SW07] Herbstferien4]]
+CLOSED: [2023-11-02 Do 10:49] SCHEDULED: <2023-10-23 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2023-11-02 Do 10:49]
+:END:
 
-** [[denote:20230711T003525][[SW08] Geschaffen für das ewige Leben]]
-SCHEDULED: <2023-10-30 Mo>
+** DONE [[denote:20230711T003525][[SW08] Geschaffen für das ewige Leben]]
+CLOSED: [2023-11-02 Do 10:50] SCHEDULED: <2023-10-30 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2023-11-02 Do 10:50]
+:END:
 
 ** [[denote:20230711T003559][[SW09] Hinduismus]]
 SCHEDULED: <2023-11-06 Mo>

@@ -19,24 +19,16 @@
 * 3a 11:35-12:25
 <%%(org-class 2023 9 11 2024 7 5 1 44)>
 
-Da in den Herbstferien das Thema "Allerheiligen / Allerseelen" fällt, bieten sich folgende Themen, Fragen an:
-- Leben nach dem Tod
-- Vollendung
-- Buch der Offenbarung
-- Hoffnungsperspektiven
-- Himmel
-- ...
+[[denote:20230624T193417][[SW09] Ein großes Versprechen]]
 
-Oder eben im 3. Kapitel weiterarbeiten:
-
-Nicht vollkommen sein (2 min):
-[[https://www.youtube.com/watch?v=1NtEJaMrZGg]]
-
-TikTok (23 min):
-[[https://www.youtube.com/watch?v=PZPfO7vozVs]]
+[[denote:20230624T193503][[SW10] Genuss und Sucht]]
   
 * 3a 11:35-12:25
 <%%(org-class 2023 9 15 2024 7 9 5 44)>
+
+[[denote:20230624T193417][[SW09] Ein großes Versprechen]]
+
+[[denote:20230624T193503][[SW10] Genuss und Sucht]]
 
 
 * 3A [KV Bernhard Moser]

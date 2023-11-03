@@ -1,19 +1,17 @@
-:PROPERTIES:
-:ID:       ce5d6720-b3fa-4891-99f9-36adb6a26608
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Josua* -- [[file:Jos_1.html][1]] ...
-[[file:Jos_15.html][15]] [[file:Jos_16.html][16]] *17*
-[[file:Jos_18.html][18]] [[file:Jos_19.html][19]] ...
-[[file:Jos_24.html][24]]
+#+TITLE: Jos 17 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-03 Fr 11:40]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Jos 17.html
 
---------------
 
 * Jos 17
-  :PROPERTIES:
-  :CUSTOM_ID: jos-17
-  :END:
 
 <<verses>>
 
@@ -21,7 +19,7 @@
 1 Dem Stamm des Manasse - er war der Erstgeborene Josefs - fiel durch
 das Los folgender Anteil zu: Machir, der Erstgeborene Manasses, der
 Vater Gileads, - er war ein kampferprobter Mann - erhielt Gilead und den
-Baschan. ^{[[#fn1][1]]}
+Baschan. [fn:1]
 
 <<v2>>
 2 Auch die übrigen Söhne Manasses erhielten einen (Anteil) entsprechend
@@ -33,7 +31,7 @@ die männlichen Nachkommen Manasses, des Sohnes Josefs, mit ihren Sippen.
 3 Zelofhad aber, der Sohn Hefers, des Sohnes Gileads, des Sohnes
 Machirs, des Sohnes Manasses, hatte keine Söhne, sondern nur Töchter.
 Seine Töchter hatten folgende Namen: Machla, Noa, Hogla, Milka und
-Tirza. ^{[[#fn2][2]]}
+Tirza. [fn:2]
 
 <<v4>>
 4 Sie erschienen vor dem Priester Eleasar und vor Josua, dem Sohn Nuns,
@@ -61,8 +59,7 @@ der Grenze Manasses, den Efraimitern.
 <<v9>>
 9 Dann zieht sich die Grenze hinab zum Bach Kana; südlich des Bachs
 gehören einzelne Städte mitten unter den Städten Manasses zu Efraim.
-Nördlich des Bachs ist die Grenze Manasses; sie läuft am Meer aus.
-^{[[#fn3][3]]}
+Nördlich des Bachs ist die Grenze Manasses; sie läuft am Meer aus. [fn:3]
 
 <<v10>>
 10 Das Gebiet im Süden gehört Efraim und das Gebiet im Norden Manasse,
@@ -74,8 +71,7 @@ an Issachar.
 Tochterstädte, Jibleam und seine Tochterstädte, die Einwohner von Dor
 und seinen Tochterstädten, die Einwohner von En-Dor und seinen
 Tochterstädten, die Einwohner von Taanach und seinen Tochterstädten, die
-Einwohner von Megiddo und seinen Tochterstädten [drei Anhöhen].
-^{[[#fn4][4]][[#fn5][5]]}
+Einwohner von Megiddo und seinen Tochterstädten [drei Anhöhen]. [fn:4] [fn:5]
 
 <<v12>>
 12 Doch die Manassiter konnten diese Städte nicht in Besitz nehmen; es
@@ -100,7 +96,7 @@ Perisiter und Rafaïter, wenn euch das Gebirge Efraim zu eng ist.
 16 Da sagten die Nachkommen Josefs: Das Bergland reicht für uns nicht
 aus. Im ebenen Land aber wohnen die Kanaaniter, die alle eiserne
 Kampfwagen haben, wie etwa die Leute in Bet-Schean und seinen
-Tochterstädten und die Leute in der Ebene Jesreel. ^{[[#fn6][6]]}
+Tochterstädten und die Leute in der Ebene Jesreel. [fn:6]
 
 <<v17>>
 17 Josua erwiderte dem Haus Josef, Efraim und Manasse: Ihr seid ein
@@ -111,20 +107,23 @@ einzigen Anteil;
 18 denn auch das Bergland soll euch gehören. Es ist bewaldet; ihr könnt
 es roden. Das so gewonnene Land soll euch gehören, wenn ihr auch die
 Kanaaniter nicht vertreiben könnt, weil sie eiserne Kampfwagen haben und
-weil sie stark sind. ^{[[#fn7][7]]}\\
+weil sie stark sind. [fn:7]\\
 \\
 
-^{[[#fnm1][1]]} ℘ 13,29f; Num 26,29; Ri 5,14
 
-^{[[#fnm2][2]]} ℘ Num 26,33; 27,1-8; 36,2
+* Footnotes
 
-^{[[#fnm3][3]]} ℘ 16,8f
+[fn:1] [[file:Jos_13.org::v29][13,29f]]; [[file:Num_26.org::v29][Num 26,29]]; [[file:Ri_5.org::v14][Ri 5,14]]
 
-^{[[#fnm4][4]]} ℘ Ri 1,27f
+[fn:2] [[file:Num_26.org::v33][Num 26,33]]; [[file:Num_27.org::v1][27,1-8]]; [[file:Num_36.org::v2][36,2]]
 
-^{[[#fnm5][5]]} Sinn und Bedeutung des Zusatzes unsicher.
+[fn:3] [[file:Jos_16.org::v8][16,8f]]
 
-^{[[#fnm6][6]]} Die Wagen hatten eiserne Beschläge. In Israel wurden
-solche Wagen erst unter Salomo eingeführt (vgl. 1 Kön 10,28f).
+[fn:4] [[file:Ri_1.org::v27][Ri 1,27f]]
 
-^{[[#fnm7][7]]} nicht: Text korr. (vgl. V. 13; 16,10).
+[fn:5] Sinn und Bedeutung des Zusatzes unsicher.
+
+[fn:6] Die Wagen hatten eiserne Beschläge. In Israel wurden
+solche Wagen erst unter Salomo eingeführt (vgl. [[file:1.Kön_10.org::v28][1 Kön 10,28f]]).
+
+[fn:7] nicht: Text korr. (vgl. [[v13][V. 13]]; [[file:Jos_16.org::v10][16,10]]).

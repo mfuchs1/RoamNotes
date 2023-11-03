@@ -1,30 +1,24 @@
-:PROPERTIES:
-:ID:       9f34df75-0e75-4635-a89e-2ec3da5e2037
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Josua* -- [[file:Jos_1.html][1]] *2*
-[[file:Jos_3.html][3]] [[file:Jos_4.html][4]] ...
-[[file:Jos_24.html][24]]
-
---------------
-
-* Jos 2
-  :PROPERTIES:
-  :CUSTOM_ID: jos-2
-  :END:
+#+TITLE: Jos 2 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-01 Mi 23:32]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Jos 2.html
 
 <<verses>>
 
 <<v1>>
-**** Die Kundschafter in Jericho: 2,1-24
-     :PROPERTIES:
-     :CUSTOM_ID: die-kundschafter-in-jericho-21-24
-     :END:
+* Die Kundschafter in Jericho: 2,1-24
+
 1 Josua, der Sohn Nuns, schickte von Schittim heimlich zwei Kundschafter
 aus und befahl ihnen: Geht, erkundet das Land, besonders die Stadt
 Jericho! Sie brachen auf und kamen zu dem Haus einer Dirne namens Rahab;
-dort wollten sie übernachten. ^{[[#fn1][1]][[#fn2][2]]}
+dort wollten sie übernachten. [fn:1] [fn:2]
 
 <<v2>>
 2 Man meldete dem König von Jericho: Heute Nacht sind ein paar Männer
@@ -69,7 +63,7 @@ aus Angst vor euch vergehen.
 euretwegen austrocknen ließ, als ihr aus Ägypten ausgezogen seid. Wir
 haben auch gehört, was ihr mit Sihon und Og, den beiden Königen der
 Amoriter jenseits des Jordan, gemacht habt: Ihr habt sie dem Untergang
-geweiht. ^{[[#fn3][3]][[#fn4][4]]}
+geweiht. [fn:3] [fn:4]
 
 <<v11>>
 11 Als wir das hörten, zerschmolz unser Herz und jedem stockte
@@ -79,7 +73,7 @@ und hier unten auf der Erde.
 <<v12>>
 12 Nun schwört mir beim Herrn, dass ihr der Familie meines Vaters euer
 Wohlwollen erweist, wie ich es euch erwiesen habe, und gebt mir ein
-sicheres Zeichen dafür, ^{[[#fn5][5]]}
+sicheres Zeichen dafür, [fn:5]
 
 <<v13>>
 13 dass ihr meinen Vater und meine Mutter, meine Brüder und meine
@@ -89,8 +83,7 @@ vor dem Tod bewahrt.
 <<v14>>
 14 Die Männer antworteten ihr: Wir bürgen mit unserem Leben für euch,
 wenn ihr nur unsere Sache nicht verratet. Wenn uns der Herr das Land
-gibt, werden wir dir unser Wohlwollen und unsere Treue zeigen.
-^{[[#fn6][6]]}
+gibt, werden wir dir unser Wohlwollen und unsere Treue zeigen. [fn:6]
 
 <<v15>>
 15 Darauf ließ die Frau sie mit einem Seil durch das Fenster die
@@ -116,7 +109,7 @@ ganze Familie deines Vaters bei dir in deinem Haus versammeln.
 19 Jeder aber, der aus der Tür deines Hauses heraustritt, ist selbst
 schuld, wenn sein Blut vergossen wird. Wir sind dann ohne Schuld. Doch
 bei jedem, der mit dir in deinem Haus bleibt, tragen wir die Schuld,
-wenn Hand an ihn gelegt wird. ^{[[#fn7][7]]}
+wenn Hand an ihn gelegt wird. [fn:7]
 
 <<v20>>
 20 Auch wenn du unsere Sache verrätst, brauchen wir uns nicht an den Eid
@@ -141,23 +134,25 @@ Nuns. Sie erzählten ihm alles, was sie erfahren hatten,
 Bewohner des Landes vergehen aus Angst vor uns.\\
 \\
 
-^{[[#fnm1][1]]} ℘ 6,22
+* Footnotes
 
-^{[[#fnm2][2]]} Schittim lag am Ostrand der Jordansenke, Jericho
+[fn:1] [[file:Jos_6.org::v22][6,22]]
+
+[fn:2] Schittim lag am Ostrand der Jordansenke, Jericho
 gegenüber. Das Haus der Rahab scheint eine an der Stadtmauer gelegene
-(V. 15) Herberge zu sein. Rahab, im Stammbaum Jesu Mt 1,5 als Mutter des
-Boas genannt, wird Hebr 11,31 wegen ihres Glaubens, Jak 2,25 wegen ihrer
+(V. 15) Herberge zu sein. Rahab, im Stammbaum Jesu [[file:~/RoamNotes/notes/Bibel/nt/Mt_1.org::v5][Mt 1,5]] als Mutter des
+Boas genannt, wird [[file:~/RoamNotes/notes/Bibel/nt/Hebr_11.org::v31][Hebr 11,31]] wegen ihres Glaubens, [[file:~/RoamNotes/notes/Bibel/nt/Jak_2.org::v25][Jak 2,25]] wegen ihrer
 guten Werke gerühmt.
 
-^{[[#fnm3][3]]} ℘ Ex 14,21; Num 21,21-26
+[fn:3] [[file:Ex_14.org::v21][Ex 14,21]]; [[file:Num_21.org::v21][Num 21,21-26]]
 
-^{[[#fnm4][4]]} Dem Untergang weihen: eine alte Kriegssitte, die auf
-Gottes Befehl bei der Eroberung des Landes anzuwenden war (vgl. 6,18-24;
-10,22-27 und die Anmerkung zu Dtn 2,34).
+[fn:4] Dem Untergang weihen: eine alte Kriegssitte, die auf
+Gottes Befehl bei der Eroberung des Landes anzuwenden war (vgl. [[file:Jos_6.org::v18][6,18-24]];
+[[file:Jos_10.org::v22][10,22-27]] und die Anmerkung zu [[file:Dtn_2.org::v34][Dtn 2,34]]).
 
-^{[[#fnm5][5]]} ℘ 6,25
+[fn:5] [[file:Jos_6.org::v25][6,25]]
 
-^{[[#fnm6][6]]} ℘ 6,22
+[fn:6] [[file:Jos_6.org::v22][6,22]]
 
-^{[[#fnm7][7]]} ist selbst schuld, wenn sein Blut vergossen wird:
+[fn:7] ist selbst schuld, wenn sein Blut vergossen wird:
 wörtlich: sein Blut ist auf seinem Haupt.

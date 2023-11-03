@@ -170,30 +170,30 @@ und stark!\\
 
 * Footnotes
 
-[fn:1] Dtn 34,5
+[fn:1] [[file:Dtn_34.org::v5][Dtn 34,5]]
 
-[fn:2] Dtn 11,24
+[fn:2] [[file:Dtn_11.org::v24][Dtn 11,24]]
 
 [fn:3] Umschreibung des verheißenen Landes in seiner idealen
 größten Ausdehnung. Syrien-Palästina ist nach den assyrischen
 Königsinschriften das Hetiterland.
 
-[fn:4] Dtn 31,6.8
+[fn:4] [[file:Dtn_31.org::v6][Dtn 31,6]].[[file:Dtn_31.org::v8][8]]
 
-[fn:5] Dtn 3,28
+[fn:5] [[file:Dtn_3.org::v28][Dtn 3,28]]
 
-[fn:6] Vgl. die Anmerkung zu Dtn 1,8.
+[fn:6] Vgl. die Anmerkung zu [[file:Dtn_1.org::v8][Dtn 1,8]].
 
-[fn:7] Dtn 5,32; 29,8
+[fn:7] [[file:Dtn_5.org::v32][Dtn 5,32]]; [[file:Dtn_29.org::v8][29,8]]
 
-[fn:8] Dtn 3,12-29
+[fn:8] [[file:Dtn_3.org::v12][Dtn 3,12-29]]
 
-[fn:9] (12-18) 4,12
+[fn:9] (12-18) [[file:Jos_4.org::v12][4,12]]
 
 [fn:10] Diese Stämme hatten ihren Landanteil bereits im
-Ostjordanland erhalten (vgl. Num 32).
+Ostjordanland erhalten (vgl. [[file:Num_32.org::v1][Num 32]]).
 
-[fn:11] Num 32,20-29
+[fn:11] [[file:Num_32.org::v20][Num 32,20-29]]
 
 [fn:12] 14f: östlich, wörtlich: jenseits; vom Standpunkt des
 Autors aus betrachtet, der in Palästina lebt.

@@ -119,10 +119,13 @@ Da würde ich, auch wenn es noch rudimentärer aussieht, eher noch bei =org-pres
 
 Jemand wie prot präsentiert mit org-mode - ebenso wie David Wilson von system crafters.
 
-* TODO footnotes links
-DEADLINE: <2023-10-31 Di 22:00>
+* DONE footnotes links
+CLOSED: [2023-11-02 Do 10:53] DEADLINE: <2023-10-31 Di 22:00>
 :PROPERTIES:
 :CAPTURED: [2023-10-30 Mo 22:57]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-11-02 Do 10:53]
 :END:
 
 [[file:~/RoamNotes/notes/Bibel/at/Dtn_32.org::+TITLE: Dtn 32]]

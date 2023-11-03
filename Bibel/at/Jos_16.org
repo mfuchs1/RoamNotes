@@ -1,27 +1,21 @@
-:PROPERTIES:
-:ID:       751e8396-45b4-4cd1-8d0e-4bf7357c5603
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Josua* -- [[file:Jos_1.html][1]] ...
-[[file:Jos_14.html][14]] [[file:Jos_15.html][15]] *16*
-[[file:Jos_17.html][17]] [[file:Jos_18.html][18]] ...
-[[file:Jos_24.html][24]]
+#+TITLE: Jos 16 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-03 Fr 11:39]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Jos 16.html
 
---------------
-
-* Jos 16
-  :PROPERTIES:
-  :CUSTOM_ID: jos-16
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Das Gebiet der Nachkommen Josefs: 16,1 - 17,18
-     :PROPERTIES:
-     :CUSTOM_ID: das-gebiet-der-nachkommen-josefs-161---1718
-     :END:
+* Das Gebiet der Nachkommen Josefs: 16,1 - 17,18
+
 1 Das war der Anteil, der den Nachkommen Josefs durch das Los zufiel:
 (Seine Grenze verläuft) vom Jordan bei Jericho zu den Quellen von
 Jericho im Osten, dann von Jericho aus in die Wüste aufsteigend und ins

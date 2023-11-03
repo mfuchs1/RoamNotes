@@ -1,28 +1,22 @@
-:PROPERTIES:
-:ID:       b5d4626b-46ed-4d4b-ac63-f9fb4a5ac9db
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Josua* -- [[file:Jos_1.html][1]]
-[[file:Jos_2.html][2]] [[file:Jos_3.html][3]] *4* [[file:Jos_5.html][5]]
-[[file:Jos_6.html][6]] ... [[file:Jos_24.html][24]]
-
---------------
-
-* Jos 4
-  :PROPERTIES:
-  :CUSTOM_ID: jos-4
-  :END:
+#+TITLE: Jos 4 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-01 Mi 23:49]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Jos 4.html
 
 <<verses>>
 
 <<v1>>
-**** Die zwölf Gedenksteine: 4,1 - 5,1
-     :PROPERTIES:
-     :CUSTOM_ID: die-zwölf-gedenksteine-41---51
-     :END:
+* Die zwölf Gedenksteine: 4,1 - 5,1
+
 1 Als das ganze Volk den Jordan durchschritten hatte, sagte der Herr zu
-Josua: ^{[[#fn1][1]]}
+Josua: [fn:1]
 
 <<v2>>
 2 Wählt aus dem Volk zwölf Männer aus, aus jedem Stamm einen,
@@ -75,8 +69,7 @@ des Herrn hinüber und die Priester (gingen wieder) dem Volk voraus.
 
 <<v12>>
 12 Die Rubeniter, die Gaditer und der halbe Stamm Manasse zogen
-kampfbereit vor den Israeliten her, wie es ihnen Mose befohlen hatte.
-^{[[#fn2][2]]}
+kampfbereit vor den Israeliten her, wie es ihnen Mose befohlen hatte. [fn:2]
 
 <<v13>>
 13 Es waren etwa vierzigtausend bewaffnete Männer, die vor den Augen des
@@ -123,15 +116,17 @@ Jordan durchschritten;
 23 denn der Herr, euer Gott, hat das Wasser des Jordan vor euren Augen
 austrocknen lassen, bis ihr hindurchgezogen wart, genau so wie es Jahwe,
 euer Gott, mit dem Schilfmeer machte, das er vor unseren Augen
-austrocknen ließ, bis wir hindurchgezogen waren. ^{[[#fn3][3]]}
+austrocknen ließ, bis wir hindurchgezogen waren. [fn:3]
 
 <<v24>>
 24 Daran sollen alle Völker der Erde erkennen, dass die Hand des Herrn
 stark ist, und ihr sollt allezeit Jahwe, euren Gott, fürchten.
 
-^{[[#fnm1][1]]} 1-9.20-24: Hier werden Herkunft und Bedeutung der zwölf
+* Footnotes
+
+[fn:1] [[v1][1]]-[[v9][9]].[[v20][20]]-[[v24][24]]: Hier werden Herkunft und Bedeutung der zwölf
 Steine im Jordan bzw. in Gilgal erklärt.
 
-^{[[#fnm2][2]]} ℘ 1,12-16
+[fn:2] [[file:Jos_1.org::v12][1,12-16]]
 
-^{[[#fnm3][3]]} ℘ Ex 14,21f
+[fn:3] [[file:Ex_14.org::v21][Ex 14,21f]]
