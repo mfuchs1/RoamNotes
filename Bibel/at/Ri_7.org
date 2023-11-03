@@ -1,30 +1,25 @@
-:PROPERTIES:
-:ID:       91a7a2ca-25ea-48c2-a63a-4c11bc7c375e
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch der Richter* -- [[file:Ri_1.html][1]]
-... [[file:Ri_5.html][5]] [[file:Ri_6.html][6]] *7*
-[[file:Ri_8.html][8]] [[file:Ri_9.html][9]] ... [[file:Ri_21.html][21]]
+#+TITLE: Ri 7 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-03 Fr 22:23]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ri 7.html
 
---------------
-
-* Ri 7
-  :PROPERTIES:
-  :CUSTOM_ID: ri-7
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Der Kampf gegen die Midianiter: 7,1 - 8,3
-     :PROPERTIES:
-     :CUSTOM_ID: der-kampf-gegen-die-midianiter-71---83
-     :END:
+* Der Kampf gegen die Midianiter: 7,1 - 8,3
+
 1 Am frühen Morgen brach Jerubbaal - das ist Gideon - mit allen Leuten,
 die er bei sich hatte, auf und sie errichteten bei der Harod-Quelle ihr
 Lager; das Lager Midians war nördlich davon beim Hügel More in der
-Ebene. ^{[[#fn1][1]][[#fn2][2]]}
+Ebene. [fn:1] [fn:2]
 
 <<v2>>
 2 Der Herr sagte zu Gideon: Die Leute, die du bei dir hast, sind zu
@@ -35,8 +30,7 @@ mich gerettet.
 <<v3>>
 3 Ruf daher so laut, dass die Leute es hören: Wer sich fürchtet und
 Angst hat, soll umkehren. Gideon musterte sie und darauf kehrten von den
-Leuten zweiundzwanzigtausend um, während zehntausend bei ihm blieben.
-^{[[#fn3][3]][[#fn4][4]]}
+Leuten zweiundzwanzigtausend um, während zehntausend bei ihm blieben. [fn:3] [fn:4]
 
 <<v4>>
 4 Doch der Herr sagte zu Gideon: Die Leute sind immer noch zu zahlreich.
@@ -54,7 +48,7 @@ hinknien.
 <<v6>>
 6 Die Zahl derer, die das Wasser aufleckten, betrug dreihundert Mann.
 Alle übrigen Leute aber knieten sich hin, um das Wasser zu trinken,
-indem sie es mit der Hand zum Mund führten. ^{[[#fn5][5]]}
+indem sie es mit der Hand zum Mund führten. [fn:5]
 
 <<v7>>
 7 Der Herr sagte zu Gideon: Durch die dreihundert Mann, die (das Wasser)
@@ -65,7 +59,7 @@ geben. Alle übrigen Leute sollen nach Hause gehen.
 8 Gideon entließ also alle Israeliten, jeden zu seinem Zelt, und sie
 nahmen die Verpflegung der Leute und ihre Widderhörner mit. Nur die
 dreihundert Mann behielt er bei sich. Das Lager Midians lag unterhalb
-von ihm in der Ebene. ^{[[#fn6][6]]}
+von ihm in der Ebene. [fn:6]
 
 <<v9>>
 9 In jener Nacht geschah es, dass Jahwe zu ihm sagte: Steh auf, geh zum
@@ -126,7 +120,7 @@ zerschlugen die Krüge, die sie in der Hand hatten.
 20 Nun bliesen auch die beiden anderen Abteilungen ihre Hörner,
 zerschlugen die Krüge, ergriffen mit der linken Hand die Fackeln,
 während sie in der rechten Hand die Widderhörner hielten, um zu blasen,
-und schrien: Das Schwert für den Herrn und Gideon! ^{[[#fn7][7]]}
+und schrien: Das Schwert für den Herrn und Gideon! [fn:7]
 
 <<v21>>
 21 Dabei blieben sie rings um das Lager stehen, jeder an dem Platz, wo
@@ -152,26 +146,27 @@ Bet-Bara und den Jordanübergang.
 25 Sie nahmen auch die zwei Midianiterfürsten Oreb (Rabe) und Seeb
 (Wolf) gefangen. Oreb töteten sie am Rabenfelsen und Seeb töteten sie an
 der Wolfskelter; dann setzten sie die Verfolgung Midians fort. Die Köpfe
-Orebs und Seebs aber brachten sie zu Gideon über den Jordan.
-^{[[#fn8][8]][[#fn9][9]]}
+Orebs und Seebs aber brachten sie zu Gideon über den Jordan. [fn:8] [fn:9]
 
-^{[[#fnm1][1]]} ℘ 6,32
+* Footnotes
 
-^{[[#fnm2][2]]} Die Harod-Quelle liegt in der Jesreelebene am Fuß der
+[fn:1] [[file:Ri_6.org::v32][6,32]]
+
+[fn:2] Die Harod-Quelle liegt in der Jesreelebene am Fuß der
 Gilboa-Berge.
 
-^{[[#fnm3][3]]} ℘ Dtn 20,8
+[fn:3] [[file:Dtn_20.org::v8][Dtn 20,8]]
 
-^{[[#fnm4][4]]} musterte sie: Text korr. (vgl. V. 4).
+[fn:4] musterte sie: Text korr. (vgl. V. 4).
 
-^{[[#fnm5][5]]} Text durch Umstellung korr., vgl. G.
+[fn:5] Text durch Umstellung korr., vgl. G.
 
-^{[[#fnm6][6]]} Text und Übersetzung unsicher.
+[fn:6] Text und Übersetzung unsicher.
 
-^{[[#fnm7][7]]} auch die beiden anderen, wörtlich: die drei (dabei ist
+[fn:7] auch die beiden anderen, wörtlich: die drei (dabei ist
 die Abteilung von V. 19 einbezogen).
 
-^{[[#fnm8][8]]} ℘ Ps 83,12
+[fn:8] [[file:Ps_83.org::v12][Ps 83,12]]
 
-^{[[#fnm9][9]]} Der Vers erklärt, warum die beiden Orte so genannt
+[fn:9] Der Vers erklärt, warum die beiden Orte so genannt
 werden.

@@ -1,29 +1,23 @@
-:PROPERTIES:
-:ID:       42cd01d1-1494-4253-8f3b-57d4b5d2d247
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch der Richter* -- [[file:Ri_1.html][1]]
-... [[file:Ri_4.html][4]] [[file:Ri_5.html][5]] *6*
-[[file:Ri_7.html][7]] [[file:Ri_8.html][8]] ... [[file:Ri_21.html][21]]
-
---------------
-
-* Ri 6
-  :PROPERTIES:
-  :CUSTOM_ID: ri-6
-  :END:
+#+TITLE: Ri 6 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-03 Fr 22:10]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ri 6.html
 
 <<verses>>
 
 <<v1>>
-1 ¥
-**** Die Berufung Gideons: 6,1-24
-     :PROPERTIES:
-     :CUSTOM_ID: die-berufung-gideons-61-24
-     :END:
+
+* Die Berufung Gideons: 6,1-24
+
 Die Israeliten taten, was dem Herrn missfiel. Da gab sie der Herr in die
-Gewalt Midians, sieben Jahre lang. ^{[[#fn1][1]]}
+Gewalt Midians, sieben Jahre lang. [fn:1]
 
 <<v2>>
 2 Als Midian die Oberhand gewann, machten sich die Israeliten die
@@ -69,8 +63,7 @@ auf meine Stimme gehört.
 <<v11>>
 11 Der Engel des Herrn kam und setzte sich unter die Eiche bei Ofra, die
 dem Abiësriter Joasch gehörte. Sein Sohn Gideon war gerade dabei, in der
-Kelter Weizen zu dreschen, um ihn vor Midian in Sicherheit zu bringen.
-^{[[#fn2][2]][[#fn3][3]]}
+Kelter Weizen zu dreschen, um ihn vor Midian in Sicherheit zu bringen. [fn:2] [fn:3]
 
 <<v12>>
 12 Da erschien ihm der Engel des Herrn und sagte zu ihm: Der Herr sei
@@ -85,8 +78,7 @@ hat uns der Herr verstoßen und uns der Faust Midians preisgegeben.
 
 <<v14>>
 14 Da wandte sich der Herr ihm zu und sagte: Geh und befrei mit der
-Kraft, die du hast, Israel aus der Faust Midians! Ja, ich sende dich.
-^{[[#fn4][4]]}
+Kraft, die du hast, Israel aus der Faust Midians! Ja, ich sende dich. [fn:4]
 
 <<v15>>
 15 Er entgegnete ihm: Ach, mein Herr, womit soll ich Israel befreien?
@@ -95,7 +87,7 @@ Jüngste im Haus meines Vaters.
 
 <<v16>>
 16 Doch der Herr sagte zu ihm: Weil ich mit dir bin, wirst du Midian
-schlagen, als wäre es nur ein Mann. ^{[[#fn5][5]]}
+schlagen, als wäre es nur ein Mann. [fn:5]
 
 <<v17>>
 17 Gideon erwiderte ihm: Wenn ich dein Wohlwollen gefunden habe, dann
@@ -120,12 +112,12 @@ leg sie hier auf den Felsen, die Brühe aber gieß weg! Gideon tat es.
 21 Der Engel des Herrn streckte den Stab aus, den er in der Hand hatte,
 und berührte mit seiner Spitze das Fleisch und die Brote. Da stieg Feuer
 von dem Felsblock auf und verzehrte das Fleisch und die Brote. Der Engel
-des Herrn aber war Gideons Augen entschwunden. ^{[[#fn6][6]]}
+des Herrn aber war Gideons Augen entschwunden. [fn:6]
 
 <<v22>>
 22 Als nun Gideon sah, dass es der Engel des Herrn gewesen war, sagte
 er: Weh mir, Herr und Gott, ich habe den Engel des Herrn von Angesicht
-zu Angesicht gesehen. ^{[[#fn7][7]]}
+zu Angesicht gesehen. [fn:7]
 
 <<v23>>
 23 Der Herr erwiderte ihm: Friede sei mit dir! Fürchte dich nicht, du
@@ -138,13 +130,11 @@ Ofra, (der Stadt) der Abiësriter.\\
 \\
 
 <<v25>>
-**** Die Zerstörung des Baal-Altars: 6,25-32
-     :PROPERTIES:
-     :CUSTOM_ID: die-zerstörung-des-baal-altars-625-32
-     :END:
+* Die Zerstörung des Baal-Altars: 6,25-32
+
 25 In jener Nacht sagte der Herr zu Gideon: Nimm das Rind deines Vaters,
 den siebenjährigen fetten Farren, reiß den Altar des Baal nieder, der
-deinem Vater gehört, und den Kultpfahl daneben hau um! ^{[[#fn8][8]]}
+deinem Vater gehört, und den Kultpfahl daneben hau um! [fn:8]
 
 <<v26>>
 26 Bau einen Altar für den Herrn, deinen Gott, auf der Höhe der Burg
@@ -180,22 +170,18 @@ streiten, weil man seinen Altar niedergerissen hat.
 
 <<v32>>
 32 Darum nannte man Gideon seit jenem Tag Jerubbaal - das heißt: Baal
-möge gegen ihn streiten -; denn er hat seinen Altar niedergerissen.
-^{[[#fn9][9]][[#fn10][10]]}\\
+möge gegen ihn streiten -; denn er hat seinen Altar niedergerissen. [fn:9] [fn:10]\\
 \\
 
 <<v33>>
-**** Das göttliche Zeichen vor der Schlacht gegen die Midianiter:
-6,33-40
-     :PROPERTIES:
-     :CUSTOM_ID: das-göttliche-zeichen-vor-der-schlacht-gegen-die-midianiter-633-40
-     :END:
+* Das göttliche Zeichen vor der Schlacht gegen die Midianiter: 6,33-40
+
 33 Ganz Midian, Amalek und die Leute aus dem Osten taten sich zusammen,
 zogen herüber und schlugen in der Ebene Jesreel ihr Lager auf.
 
 <<v34>>
 34 Da kam der Geist des Herrn über Gideon. Gideon blies ins Widderhorn
-und rief die Abiësriter, ihm (in den Kampf) zu folgen. ^{[[#fn11][11]]}
+und rief die Abiësriter, ihm (in den Kampf) zu folgen. [fn:11]
 
 <<v35>>
 35 Auch schickte er Boten in ganz Manasse umher und rief Manasse, ihm
@@ -228,31 +214,33 @@ trocken bleiben und auf dem ganzen (übrigen) Boden soll Tau liegen.
 trocken und auf dem ganzen übrigen Boden lag Tau.\\
 \\
 
-^{[[#fnm1][1]]} Die Midianiter waren Kamelnomaden (V. 5); sie fielen
+* Footnotes
+
+[fn:1] Die Midianiter waren Kamelnomaden (V. 5); sie fielen
 wiederholt mit verbündeten Stämmen in Palästina ein.
 
-^{[[#fnm2][2]]} ℘ 8,22
+[fn:2] [[file:Ri_8.org::v22][8,22]]
 
-^{[[#fnm3][3]]} Ofra lag nördlich von Sichem. Der Weizen muss heimlich
+[fn:3] Ofra lag nördlich von Sichem. Der Weizen muss heimlich
 in der Kelter ausgeklopft werden, um eine Beschlagnahme durch die
 Philister zu vermeiden. Der Engel des Herrn und Gott wechseln im Text.
 
-^{[[#fnm4][4]]} ℘ 1 Sam 12,11; Hebr 11,32
+[fn:4] [[file:1.Sam_12.org::v11][1 Sam 12,11]]; [[file:~/RoamNotes/notes/Bibel/nt/Hebr_11.org::v32][Hebr 11,32]]
 
-^{[[#fnm5][5]]} ℘ Ex 3,12
+[fn:5] [[file:Ex_3.org::v12][Ex 3,12]]
 
-^{[[#fnm6][6]]} Durch das wunderbare, durch den Engel des Herrn
+[fn:6] Durch das wunderbare, durch den Engel des Herrn
 entzündete Feuer wird die Stelle als heiliger Ort bezeichnet und
 folglich nach V. 24 zur Kultstätte.
 
-^{[[#fnm7][7]]} ℘ Ex 33,20; Jes 6,5
+[fn:7] [[file:Ex_33.org::v20][Ex 33,20]]; [[file:Jes_6.org::v5][Jes 6,5]]
 
-^{[[#fnm8][8]]} 25.28: fetten (Farren): Text korr.; H: zweiten.
+[fn:8] [[v25][25]].[[v28][28]]: fetten (Farren): Text korr.; H: zweiten.
 
-^{[[#fnm9][9]]} ℘ 7,1
+[fn:9] [[file:Ri_7.org::v1][7,1]]
 
-^{[[#fnm10][10]]} Jerubbaal erscheint in 7,1 als zweiter Name Gideons
+[fn:10] Jerubbaal erscheint in 7,1 als zweiter Name Gideons
 und bedeutet «Baal möge (für ihn) streiten» oder «Baal möge sich groß
 erweisen».
 
-^{[[#fnm11][11]]} ℘ 3,10; 11,29; 13,25
+[fn:11] [[file:Ri_3.org::v10][3,10]]; [[file:Ri_11.org::v29][11,29]]; [[file:Ri_13.org::v25][13,25]]

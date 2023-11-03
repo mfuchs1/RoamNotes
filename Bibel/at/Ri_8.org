@@ -1,31 +1,28 @@
-:PROPERTIES:
-:ID:       bda9521f-c76e-446d-9110-11b7b456e7b9
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch der Richter* -- [[file:Ri_1.html][1]]
-... [[file:Ri_6.html][6]] [[file:Ri_7.html][7]] *8*
-[[file:Ri_9.html][9]] [[file:Ri_10.html][10]] ...
-[[file:Ri_21.html][21]]
+#+TITLE: Ri 8 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-03 Fr 22:48]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ri 8.html
 
---------------
 
 * Ri 8
-  :PROPERTIES:
-  :CUSTOM_ID: ri-8
-  :END:
 
 <<verses>>
 
 <<v1>>
 1 Die Efraimiter aber sagten zu Gideon: Was hast du uns da angetan, dass
 du uns nicht hast rufen lassen, als du ausgezogen bist, um gegen Midian
-zu kämpfen? Und sie stritten heftig mit ihm. ^{[[#fn1][1]]}
+zu kämpfen? Und sie stritten heftig mit ihm. [fn:1]
 
 <<v2>>
 2 Er antwortete ihnen: Was habe ich schon getan im Vergleich zu euch?
-Ist nicht die Nachlese Efraims besser als die Weinlese Abiësers?
-^{[[#fn2][2]]}
+Ist nicht die Nachlese Efraims besser als die Weinlese Abiësers? [fn:2]
 
 <<v3>>
 3 In eure Gewalt hat Gott Oreb und Seeb, die Fürsten Midians, gegeben.
@@ -34,10 +31,8 @@ sich ihr Zorn gegen ihn.\\
 \\
 
 <<v4>>
-**** Der Feldzug im Ostjordanland: 8,4-21
-     :PROPERTIES:
-     :CUSTOM_ID: der-feldzug-im-ostjordanland-84-21
-     :END:
+* Der Feldzug im Ostjordanland: 8,4-21
+
 4 Als Gideon an den Jordan gekommen und mit den dreihundert Männern, die
 bei ihm waren, hinübergegangen war, erschöpft von der Verfolgung,
 
@@ -49,7 +44,7 @@ Sebach und Zalmunna, die Könige von Midian, zu verfolgen.
 <<v6>>
 6 Doch die Oberen von Sukkot entgegneten: Hast du denn Sebach und
 Zalmunna schon in deiner Gewalt? Warum sollten wir deinem Heer Brot
-geben? ^{[[#fn3][3]]}
+geben? [fn:3]
 
 <<v7>>
 7 Darauf sagte Gideon: Wahrhaftig, wenn der Herr Sebach und Zalmunna in
@@ -121,14 +116,12 @@ Junge zog sein Schwert nicht; er hatte Angst, weil er noch so jung war.
 21 Da sagten Sebach und Zalmunna: Steh selber auf und schlag uns nieder!
 Denn wie der Mann, so seine Kraft. Da stand Gideon auf und tötete Sebach
 und Zalmunna. Dann nahm er ihren Kamelen die kleinen Monde ab, die sie
-am Hals trugen. ^{[[#fn4][4]]}\\
+am Hals trugen. [fn:4]\\
 \\
 
 <<v22>>
-**** Die Ablehnung der Königswürde: 8,22-35
-     :PROPERTIES:
-     :CUSTOM_ID: die-ablehnung-der-königswürde-822-35
-     :END:
+* Die Ablehnung der Königswürde: 8,22-35
+
 22 Die Israeliten sagten zu Gideon: Werde unser Herrscher, du und auch
 dein Sohn und dein Enkel; denn du hast uns aus der Gewalt Midians
 befreit.
@@ -141,7 +134,7 @@ herrschen.
 <<v24>>
 24 Weiter sagte Gideon zu ihnen: Ich möchte euch um etwas bitten: Jeder
 von euch gebe mir einen Ring aus seiner Beute. Die Feinde hatten nämlich
-goldene Ringe, denn sie waren Ismaeliter. ^{[[#fn5][5]]}
+goldene Ringe, denn sie waren Ismaeliter. [fn:5]
 
 <<v25>>
 25 Sie antworteten: Wir geben sie dir gern. Sie breiteten einen Mantel
@@ -156,7 +149,7 @@ hatten, und ohne die Halsketten ihrer Kamele.
 <<v27>>
 27 Gideon machte daraus ein Efod und stellte es in seiner Stadt Ofra
 auf. Und ganz Israel trieb dort damit Abgötterei. Das brachte Gideon und
-sein Haus zu Fall. ^{[[#fn6][6]]}
+sein Haus zu Fall. [fn:6]
 
 <<v28>>
 28 Midian aber war von den Israeliten gedemütigt, sodass es sein Haupt
@@ -172,7 +165,7 @@ Familie.
 
 <<v31>>
 31 Auch seine Nebenfrau, die in Sichem war, gebar ihm einen Sohn; dem
-gab er den Namen Abimelech. ^{[[#fn7][7]]}
+gab er den Namen Abimelech. [fn:7]
 
 <<v32>>
 32 Gideon, der Sohn des Joasch, starb in hohem Alter und wurde im Grab
@@ -180,7 +173,7 @@ seines Vaters Joasch in Ofra, der Stadt der Abiësriter, begraben.
 
 <<v33>>
 33 Als Gideon tot war, trieben die Israeliten wieder Abgötterei mit den
-Baalen und machten den «Baal des Bundes» zu ihrem Gott. ^{[[#fn8][8]]}
+Baalen und machten den «Baal des Bundes» zu ihrem Gott. [fn:8]
 
 <<v34>>
 34 Die Israeliten dachten nicht mehr an den Herrn, ihren Gott, der sie
@@ -191,21 +184,22 @@ aus der Gewalt all ihrer Feinde ringsum befreit hatte.
 all dem Guten entsprochen hätte, das es für Israel getan hatte.\\
 \\
 
-^{[[#fnm1][1]]} ℘ 12,1
+* Footnotes
 
-^{[[#fnm2][2]]} Gideon verwendet ein Wortspiel.
+[fn:1] [[file:Ri_12.org::v1][12,1]]
 
-^{[[#fnm3][3]]} 6.15: Wörtlich: Hast du denn die Faust Sebachs und
+[fn:2] Gideon verwendet ein Wortspiel.
+
+[fn:3] [[v6][6]].[[v15][15]]: Wörtlich: Hast du denn die Faust Sebachs und
 Zalmunnas schon in deiner Hand? - Sukkot und Penuël liegen am Jabbok.
 
-^{[[#fnm4][4]]} Gideon vollstreckt die Blutrache.
+[fn:4] Gideon vollstreckt die Blutrache.
 
-^{[[#fnm5][5]]} Die Ismaeliter gelten als Händler (vgl. Gen 37,24-27).
+[fn:5] Die Ismaeliter gelten als Händler (vgl. [[file:Gen_37.org::v24][Gen 37,24-27]]).
 
-^{[[#fnm6][6]]} Efod ist hier ein Kultgegenstand, vielleicht ein
+[fn:6] Efod ist hier ein Kultgegenstand, vielleicht ein
 Gottesbild.
 
-^{[[#fnm7][7]]} ℘ 9,1
+[fn:7] [[file:Ri_9.org::v1][9,1]]
 
-^{[[#fnm8][8]]} Der Baal des Bundes ist der Stadtgott von Sichem (vgl.
-9,4).
+[fn:8] Der Baal des Bundes ist der Stadtgott von Sichem (vgl. [[file:Ri_9.org::v4][9,4]]).

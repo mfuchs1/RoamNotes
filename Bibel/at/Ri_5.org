@@ -16,8 +16,7 @@
 <<v1>>
 * Das Debora-Lied: 5,1-31
 
-1 Debora und Barak, der Sohn Abinoams, sangen an jenem Tag dieses Lied:
-^{[[#fn1][1]]}\\
+1 Debora und Barak, der Sohn Abinoams, sangen an jenem Tag dieses Lied: [fn:1]\\
 \\
 
 <<v2>>
@@ -37,7 +36,7 @@
 4 Herr, als du auszogst aus Seïr, /\\
  als du vom Grünland Edoms heranschrittest, /\\
  da bebte die Erde, die Himmel ergossen sich, /\\
- ja, aus den Wolken ergoss sich das Wasser. ^{[[#fn2][2]]}\\
+ ja, aus den Wolken ergoss sich das Wasser [fn:2]\\
 \\
 
 <<v5>>
@@ -48,7 +47,7 @@
 <<v6>>
 6 In den Tagen Schamgars, des Sohnes des Anat, /\\
  in den Tagen Jaëls lagen die Wege verlassen da; /\\
- wer unterwegs war, musste Umwege machen. ^{[[#fn3][3]]}\\
+ wer unterwegs war, musste Umwege machen. [fn:3]\\
 \\
 
 <<v7>>
@@ -62,7 +61,7 @@
 8 Man hatte sich neue Götter erwählt. /\\
  Es gab kein Brot an den Toren. /\\
  Schild und Speer waren nicht mehr zu sehen /\\
- bei den Vierzigtausend in Israel. ^{[[#fn4][4]]}\\
+ bei den Vierzigtausend in Israel. [fn:4]\\
 \\
 
 <<v9>>
@@ -102,7 +101,7 @@
 14 Aus Efraim zogen sie hinunter ins Tal, /\\
  hinter ihnen Benjamin mit seinen Scharen; /\\
  von Machir stiegen die Führer hinab, /\\
- von Sebulon die, die das Zepter tragen. ^{[[#fn5][5]]}\\
+ von Sebulon die, die das Zepter tragen. [fn:5]\\
 \\
 
 <<v15>>
@@ -110,7 +109,7 @@
  und wie Issachar so auch Barak, /\\
  ins Tal getragen von seinen Füßen. /\\
  In Rubens Bezirken /\\
- überlegte man lange. ^{[[#fn6][6]]}\\
+ überlegte man lange. [fn:6]\\
 \\
 
 <<v16>>
@@ -124,7 +123,7 @@
 17 Gilead bleibt jenseits des Jordan. /\\
  Warum verweilt Dan bei den Schiffen? /\\
  Ascher sitzt am Ufer des Meeres, /\\
- bleibt ruhig an seinen Buchten. ^{[[#fn7][7]]}\\
+ bleibt ruhig an seinen Buchten. [fn:7]\\
 \\
 
 <<v18>>
@@ -142,7 +141,7 @@
 
 <<v20>>
 20 Vom Himmel her kämpften die Sterne, /\\
- von ihren Bahnen aus kämpften sie gegen Sisera. ^{[[#fn8][8]]}\\
+ von ihren Bahnen aus kämpften sie gegen Sisera. [fn:8]\\
 \\
 
 <<v21>>
@@ -172,7 +171,7 @@
 
 <<v25>>
 25 Er hatte Wasser verlangt, sie gab ihm Milch, /\\
- in einer prächtigen Schale reichte sie Sahne. ^{[[#fn9][9]]}\\
+ in einer prächtigen Schale reichte sie Sahne. [fn:9]\\
 \\
 
 <<v26>>
@@ -197,7 +196,7 @@
 
 <<v29>>
 29 Eine Kluge aus ihren Fürstinnen antwortet ihr, /\\
- und sie selbst wiederholt deren Worte: ^{[[#fn10][10]]}\\
+ und sie selbst wiederholt deren Worte: [fn:10]\\
 \\
 
 <<v30>>
@@ -215,26 +214,27 @@
 Ruhe.\\
 \\
 
-^{[[#fnm1][1]]} Der Text des Lieds ist vielfach verderbt.
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ Dtn 33,2
+[fn:1] Der Text des Lieds ist vielfach verderbt.
 
-^{[[#fnm3][3]]} ℘ 3,31
+[fn:2] [[file:Dtn_33.org::v2][Dtn 33,2]]
 
-^{[[#fnm4][4]]} Text korr.
+[fn:3] [[file:Ri_3.org::v31][3,31]]
 
-^{[[#fnm5][5]]} Text korr. H fügt am Schluss, wohl als erklärenden
+[fn:4] Text korr.
+
+[fn:5] Text korr. H fügt am Schluss, wohl als erklärenden
 Zusatz im Sinn von «hoher Beamter», hinzu: Schreiber.
 
-^{[[#fnm6][6]]} Text korr. mit V. 16.
+[fn:6] Text korr. mit V. 16.
 
-^{[[#fnm7][7]]} Nicht alle Stämme beteiligten sich am Kampf (vgl. V.
-23).
+[fn:7] Nicht alle Stämme beteiligten sich am Kampf (vgl. V. 23).
 
-^{[[#fnm8][8]]} Gemeint ist ein Eingreifen Jahwes durch ein Unwetter
+[fn:8] Gemeint ist ein Eingreifen Jahwes durch ein Unwetter
 (vgl. V. 21).
 
-^{[[#fnm9][9]]} ℘ 4,19
+[fn:9] [[file:Ri_4.org::v19][4,19]]
 
-^{[[#fnm10][10]]} eine Kluge: Text (Einzahl statt Mehrzahl) korr., vgl.
+[fn:10] eine Kluge: Text (Einzahl statt Mehrzahl) korr., vgl.
 S und Vg.
