@@ -1,35 +1,29 @@
-:PROPERTIES:
-:ID:       6b9ad37b-8927-41f7-9fb7-902b94ffc678
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch der Richter* -- [[file:Ri_1.html][1]]
-... [[file:Ri_17.html][17]] [[file:Ri_18.html][18]] *19*
-[[file:Ri_20.html][20]] [[file:Ri_21.html][21]]
+#+TITLE: Ri 19 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-05 So 16:26]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ri 19.html
 
---------------
-
-* Ri 19
-  :PROPERTIES:
-  :CUSTOM_ID: ri-19
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Die Schandtat der Männer von Gibea: 19,1-30
-     :PROPERTIES:
-     :CUSTOM_ID: die-schandtat-der-männer-von-gibea-191-30
-     :END:
+* Die Schandtat der Männer von Gibea: 19,1-30
+
 1 In jenen Tagen, als es noch keinen König in Israel gab, lebte im
 entlegensten Teil des Gebirges Efraim ein Levit als Fremder. Er hatte
-sich eine Frau aus Betlehem in Juda zur Nebenfrau genommen.
-^{[[#fn1][1]]}
+sich eine Frau aus Betlehem in Juda zur Nebenfrau genommen. [fn:1]
 
 <<v2>>
 2 Aber seine Nebenfrau wurde zornig auf ihn und verließ ihn; sie ging in
 das Haus ihres Vaters nach Betlehem in Juda zurück. Dort war sie nun
-schon vier Monate lang. ^{[[#fn2][2]]}
+schon vier Monate lang. [fn:2]
 
 <<v3>>
 3 Da machte sich ihr Mann auf den Weg und zog ihr mit seinem Knecht und
@@ -74,7 +68,7 @@ machen.
 10 Aber der Mann wollte nicht mehr übernachten, sondern erhob sich und
 ging mit seinen zwei gesattelten Eseln, seiner Nebenfrau und seinem
 Knecht fort. Sie kamen zu einem Ort gegenüber von Jebus, das heißt
-Jerusalem. ^{[[#fn3][3]]}
+Jerusalem. [fn:3]
 
 <<v11>>
 11 Als sie dort waren, war der Tag schon fast zu Ende gegangen. Darum
@@ -88,7 +82,7 @@ Gibea weiterziehen.
 
 <<v13>>
 13 Und er sagte zu seinem Knecht: Lass uns lieber zu einem anderen Ort
-gehen; wir wollen in Gibea oder Rama übernachten. ^{[[#fn4][4]]}
+gehen; wir wollen in Gibea oder Rama übernachten. [fn:4]
 
 <<v14>>
 14 Sie zogen also weiter; als sie bei Gibea, das zu Benjamin gehört,
@@ -113,7 +107,7 @@ Stadt und fragte ihn: Woher kommst du und wohin gehst du?
 18 Er antwortete ihm: Wir sind auf der Durchreise von Betlehem in Juda
 zum entlegensten Teil des Gebirges Efraim. Von dort komme ich; ich war
 nach Betlehem in Juda gegangen und bin nun auf dem Weg nach Hause. Aber
-hier findet sich niemand, der mich in sein Haus aufnimmt, ^{[[#fn5][5]]}
+hier findet sich niemand, der mich in sein Haus aufnimmt, [fn:5]
 
 <<v19>>
 19 obwohl wir alles dabeihaben, Stroh und Futter für unsere Esel und
@@ -134,13 +128,13 @@ Sie wuschen sich die Füße und aßen und tranken.
 Männer aus der Stadt, übles Gesindel, das Haus, schlugen an die Tür und
 sagten zu dem alten Mann, dem Besitzer des Hauses: Bring den Mann
 heraus, der in dein Haus gekommen ist; wir wollen unseren Mutwillen mit
-ihm treiben. ^{[[#fn6][6]][[#fn7][7]]}
+ihm treiben. [fn:6] [fn:7]
 
 <<v23>>
 23 Der Besitzer des Hauses ging zu ihnen hinaus und sagte zu ihnen:
 Nein, meine Brüder, so etwas Schlimmes dürft ihr nicht tun. Dieser Mann
 ist als Gast in mein Haus gekommen; darum dürft ihr keine solche
-Schandtat begehen. ^{[[#fn8][8]]}
+Schandtat begehen. [fn:8]
 
 <<v24>>
 24 Da ist meine jungfräuliche Tochter und seine Nebenfrau. Sie will ich
@@ -172,39 +166,41 @@ nicht. Da legte er sie auf den Esel und machte sich auf die Heimreise.
 <<v29>>
 29 Als er nach Hause gekommen war, nahm er ein Messer, ergriff seine
 Nebenfrau, zerschnitt sie in zwölf Stücke, Glied für Glied, und schickte
-sie in das ganze Gebiet Israels. ^{[[#fn9][9]][[#fn10][10]]}
+sie in das ganze Gebiet Israels. [fn:9] [fn:10]
 
 <<v30>>
 30 Jeder, der das sah, sagte: So etwas ist noch nie geschehen, so etwas
 hat man nicht erlebt, seit die Söhne Israels aus Ägypten heraufgezogen
 sind, bis zum heutigen Tag. Denkt darüber nach, beratet und sagt (was
-ihr dazu meint)! ^{[[#fn11][11]]}\\
+ihr dazu meint)! [fn:11]\\
 \\
 
-^{[[#fnm1][1]]} ℘ 17,6
+* Footnotes
 
-^{[[#fnm2][2]]} wurde zornig: So versteht wohl zu Recht G den Text im
+[fn:1] [[file:Ri_17.org::v6][17,6]]
+
+[fn:2] wurde zornig: So versteht wohl zu Recht G den Text im
 Sinn eines Zerwürfnisses.
 
-^{[[#fnm3][3]]} und seinem Knecht: Text korr., vgl. G und V. 11f. -
+[fn:3] und seinem Knecht: Text korr., vgl. G und V. 11f. -
 Jebus wird Jerusalem wegen der dort wohnenden Jebusiter genannt.
 
-^{[[#fnm4][4]]} 13f: Gibea, nördlich von Jerusalem, ist die Stadt Sauls.
+[fn:4] 13f: Gibea, nördlich von Jerusalem, ist die Stadt Sauls.
 
-^{[[#fnm5][5]]} nach Hause: Text korr. nach G und V. 29; H: zum Haus des
+[fn:5] nach Hause: Text korr. nach G und V. 29; H: zum Haus des
 Herrn.
 
-^{[[#fnm6][6]]} ℘ (22-24) Gen 19,4-11
+[fn:6] (22-24) [[file:Gen_19.org::v4][Gen 19,4-11]]
 
-^{[[#fnm7][7]]} unseren Mutwillen mit ihm treiben, wörtlich: ihn
+[fn:7] unseren Mutwillen mit ihm treiben, wörtlich: ihn
 erkennen.
 
-^{[[#fnm8][8]]} 23f: Der Hausherr muss nach den Regeln der
+[fn:8] 23f: Der Hausherr muss nach den Regeln der
 Gastfreundschaft den Gast schützen (vgl. die Anmerkung zu Gen 19,8).
 
-^{[[#fnm9][9]]} ℘ 1 Sam 11,7
+[fn:9] [[file:1.Sam_11.org::v7][1 Sam 11,7]]
 
-^{[[#fnm10][10]]} So wird die schreckliche Tat auf drastische Weise
+[fn:10] So wird die schreckliche Tat auf drastische Weise
 mitgeteilt und alle werden aufgerufen, den Mord zu rächen.
 
-^{[[#fnm11][11]]} ℘ Hos 10,9
+[fn:11] [[file:Hos_10.org::v9][Hos 10,9]]

@@ -1,27 +1,20 @@
-:PROPERTIES:
-:ID:       33d8281d-92ea-4b27-aa80-88a079649eb1
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch der Richter* -- [[file:Ri_1.html][1]]
-... [[file:Ri_11.html][11]] [[file:Ri_12.html][12]] *13*
-[[file:Ri_14.html][14]] [[file:Ri_15.html][15]] ...
-[[file:Ri_21.html][21]]
-
---------------
-
-* Ri 13
-  :PROPERTIES:
-  :CUSTOM_ID: ri-13
-  :END:
+#+TITLE: Ri 13 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-05 So 00:26]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ri 13.html
 
 <<verses>>
 
 <<v1>>
-**** Die Ankündigung der Geburt Simsons: 13,1-25
-     :PROPERTIES:
-     :CUSTOM_ID: die-ankündigung-der-geburt-simsons-131-25
-     :END:
+* Die Ankündigung der Geburt Simsons: 13,1-25
+
 1 Die Israeliten taten wieder, was dem Herrn missfiel. Deshalb gab sie
 der Herr vierzig Jahre lang in die Gewalt der Philister.
 
@@ -36,13 +29,13 @@ und einen Sohn gebären.
 
 <<v4>>
 4 Nimm dich jedoch in Acht und trink weder Wein noch Bier und iss nichts
-Unreines! ^{[[#fn1][1]]}
+Unreines! [fn:1]
 
 <<v5>>
 5 Denn siehe, du wirst schwanger werden und einen Sohn gebären. Es darf
 kein Schermesser an seine Haare kommen; denn der Knabe wird von Geburt
 an ein Gott geweihter Nasiräer sein. Er wird damit beginnen, Israel aus
-der Gewalt der Philister zu befreien. ^{[[#fn2][2]][[#fn3][3]]}
+der Gewalt der Philister zu befreien. [fn:2] [fn:3]
 
 <<v6>>
 6 Die Frau ging und sagte zu ihrem Mann: Ein Gottesmann ist zu mir
@@ -101,8 +94,7 @@ nämlich nicht, dass es der Engel des Herrn war.
 
 <<v17>>
 17 Deshalb fragte Manoach den Engel des Herrn: Wie ist dein Name? Wenn
-eintrifft, was du gesagt hast, möchten wir dir gern Ehre erweisen.
-^{[[#fn4][4]]}
+eintrifft, was du gesagt hast, möchten wir dir gern Ehre erweisen. [fn:4]
 
 <<v18>>
 18 Der Engel des Herrn erwiderte: Warum fragst du mich nach meinem
@@ -111,7 +103,7 @@ Namen? Er ist wunderbar.
 <<v19>>
 19 Da nahm Manoach das Ziegenböckchen und brachte es zusammen mit einem
 Speiseopfer auf einem Felsblock dem Herrn dar, der Wunder tut. [Manoach
-und seine Frau sahen zu.] ^{[[#fn5][5]]}
+und seine Frau sahen zu.] [fn:5]
 
 <<v20>>
 20 Als die Flamme vom Altar zum Himmel aufstieg, stieg der Engel des
@@ -125,7 +117,7 @@ gewesen war,
 
 <<v22>>
 22 und sagte zu seiner Frau: Sicher müssen wir sterben, weil wir Gott
-gesehen haben. ^{[[#fn6][6]]}
+gesehen haben. [fn:6]
 
 <<v23>>
 23 Doch seine Frau entgegnete ihm: Wenn der Herr uns hätte töten wollen,
@@ -139,24 +131,26 @@ heran und der Herr segnete ihn.
 
 <<v25>>
 25 Dann aber begann der Geist des Herrn, ihn umherzutreiben im Lager
-Dans zwischen Zora und Eschtaol. ^{[[#fn7][7]]}\\
+Dans zwischen Zora und Eschtaol. [fn:7]\\
 \\
 
-^{[[#fnm1][1]]} ℘ Num 6,2-21
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ Jes 7,14
+[fn:1] [[file:Num_6.org::v2][Num 6,2-21]]
 
-^{[[#fnm3][3]]} Ein Nasiräer (= Ausgesonderter, Geweihter), wie es
+[fn:2] [[file:Jes_7.org::v14][Jes 7,14]]
+
+[fn:3] Ein Nasiräer (= Ausgesonderter, Geweihter), wie es
 Simson auf Weisung Gottes sein soll, muss verschiedene Arten von
 Enthaltsamkeit auf sich nehmen, die hier auch Simsons Mutter zu beachten
-hat (vgl. die Anmerkung zu Num 6,1-21).
+hat (vgl. die Anmerkung zu [[file:Num_6.org::v1][Num 6,1-21]]).
 
-^{[[#fnm4][4]]} ℘ Gen 32,30
+[fn:4] [[file:Gen_32.org::v30][Gen 32,30]]
 
-^{[[#fnm5][5]]} der Wunder tut: Text korr., vgl. G. Unter diesem Titel
+[fn:5] der Wunder tut: Text korr., vgl. G. Unter diesem Titel
 wird Gott anscheinend an diesem Heiligtum bei Zora verehrt (vgl. die VV.
 18 und 20). - Der Zusatz stammt aus V. 20.
 
-^{[[#fnm6][6]]} ℘ Ex 33,20; Jes 6,5
+[fn:6] [[file:Ex_33.org::v20][Ex 33,20]]; [[file:Jes_6.org::v5][Jes 6,5]]
 
-^{[[#fnm7][7]]} ℘ 3,10; 6,34; 11,29; 1 Sam 10,6
+[fn:7] [[file:Ri_3.org::v10][3,10]]; [[file:Ri_6.org::v34][6,34]]; [[file:Ri_11.org::v29][11,29]]; [[file:1.Sam_10.org::v6][1 Sam 10,6]]

@@ -1,27 +1,23 @@
-:PROPERTIES:
-:ID:       8d900e46-1f61-466d-9770-15d881d3fa06
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch der Richter* -- [[file:Ri_1.html][1]]
-... [[file:Ri_19.html][19]] [[file:Ri_20.html][20]] *21*
+#+TITLE: Ri 21 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-05 So 22:35]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ri 21.html
 
---------------
-
-* Ri 21
-  :PROPERTIES:
-  :CUSTOM_ID: ri-21
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Die Sorge um den Rest von Benjamin: 21,1-9
-     :PROPERTIES:
-     :CUSTOM_ID: die-sorge-um-den-rest-von-benjamin-211-9
-     :END:
+* Die Sorge um den Rest von Benjamin: 21,1-9
+
 1 Die Israeliten hatten in Mizpa geschworen: Keiner von uns darf seine
-Tochter einem Benjaminiter zur Frau geben. ^{[[#fn1][1]]}
+Tochter einem Benjaminiter zur Frau geben. [fn:1]
 
 <<v2>>
 2 Nun kam das Volk nach Bet-El; sie saßen dort bis zum Abend vor Gott,
@@ -61,10 +57,8 @@ Einwohner von Jabesch-Gilead da war.\\
 \\
 
 <<v10>>
-**** Der Feldzug gegen Jabesch-Gilead: 21,10-14
-     :PROPERTIES:
-     :CUSTOM_ID: der-feldzug-gegen-jabesch-gilead-2110-14
-     :END:
+* Der Feldzug gegen Jabesch-Gilead: 21,10-14
+
 10 Die Gemeinde schickte deshalb zwölftausend Mann von den Kriegsleuten
 nach Jabesch-Gilead mit dem Befehl: Geht hin und erschlagt die Einwohner
 von Jabesch-Gilead mit scharfem Schwert, auch Frauen und Kinder.
@@ -80,8 +74,7 @@ Diese brachten sie ins Lager nach Schilo im Land Kanaan.
 
 <<v13>>
 13 Darauf schickte die ganze Gemeinde Boten und verhandelte mit den
-Benjaminitern, die in Sela-Rimmon waren, und bot ihnen Frieden an.
-^{[[#fn2][2]]}
+Benjaminitern, die in Sela-Rimmon waren, und bot ihnen Frieden an. [fn:2]
 
 <<v14>>
 14 So kehrten die Benjaminiter damals zurück und die Israeliten gaben
@@ -90,10 +83,8 @@ hatten. Aber diese reichten für sie nicht aus.\\
 \\
 
 <<v15>>
-**** Der Frauenraub in Schilo: 21,15-25
-     :PROPERTIES:
-     :CUSTOM_ID: der-frauenraub-in-schilo-2115-25
-     :END:
+* Der Frauenraub in Schilo: 21,15-25
+
 15 Das Volk hatte Mitleid mit Benjamin; denn der Herr hatte eine Lücke
 in die Stämme Israels gerissen.
 
@@ -113,7 +104,7 @@ Benjaminitern eine Frau gibt.
 <<v19>>
 19 Sie sagten also: Da ist doch Jahr für Jahr ein Fest des Herrn in
 Schilo nördlich von Bet-El, östlich der Straße, die von Bet-El nach
-Sichem führt, südlich von Lebona. ^{[[#fn3][3]]}
+Sichem führt, südlich von Lebona. [fn:3]
 
 <<v20>>
 20 Und sie forderten die Benjaminiter auf: Geht hin und legt euch in den
@@ -129,8 +120,7 @@ ins Land Benjamin!
 22 Wenn dann ihre Väter oder Brüder kommen und bei uns Klage erheben,
 werden wir zu ihnen sagen: Vergebt ihnen; denn wir konnten im Kampf
 (gegen Jabesch) nicht für jeden eine Frau gewinnen und ihr selbst
-konntet sie ihnen nicht geben; sonst hättet ihr euch schuldig gemacht.
-^{[[#fn4][4]]}
+konntet sie ihnen nicht geben; sonst hättet ihr euch schuldig gemacht. [fn:4]
 
 <<v23>>
 23 Die Benjaminiter machten es so und jeder nahm sich eines von den
@@ -143,15 +133,17 @@ zu seinem Stamm und zu seiner Sippe. Jeder zog heim in seinen Erbbesitz.
 
 <<v25>>
 25 In jenen Tagen gab es noch keinen König in Israel; jeder tat, was ihm
-gefiel. ^{[[#fn5][5]]}\\
+gefiel. [fn:5]\\
 \\
 
-^{[[#fnm1][1]]} ℘ 20,1
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 20,47
+[fn:1] [[file:Ri_20.org::v1][20,1]]
 
-^{[[#fnm3][3]]} Wahrscheinlich ist an das Laubhüttenfest gedacht.
+[fn:2] [[file:Ri_20.org::v47][20,47]]
 
-^{[[#fnm4][4]]} Vergebt: Text korr.; H: Vergebt uns.
+[fn:3] Wahrscheinlich ist an das Laubhüttenfest gedacht.
 
-^{[[#fnm5][5]]} ℘ 17,6
+[fn:4] Vergebt: Text korr.; H: Vergebt uns.
+
+[fn:5] [[file:Ri_17.org::v6][17,6]]

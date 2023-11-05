@@ -1,36 +1,30 @@
-:PROPERTIES:
-:ID:       a06d6e2c-ba6a-4b33-856c-088909ef12f1
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch der Richter* -- [[file:Ri_1.html][1]]
-... [[file:Ri_16.html][16]] [[file:Ri_17.html][17]] *18*
-[[file:Ri_19.html][19]] [[file:Ri_20.html][20]] [[file:Ri_21.html][21]]
-
---------------
-
-* Ri 18
-  :PROPERTIES:
-  :CUSTOM_ID: ri-18
-  :END:
+#+TITLE: Ri 18 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-05 So 16:19]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ri 18.html
 
 <<verses>>
 
 <<v1>>
-**** Die Kundschafter aus Dan: 18,1-10
-     :PROPERTIES:
-     :CUSTOM_ID: die-kundschafter-aus-dan-181-10
-     :END:
+* Die Kundschafter aus Dan: 18,1-10
+
 1 Damals gab es noch keinen König in Israel. Der Stamm der Daniter war
 zu jener Zeit dabei, sich einen Erbbesitz zu suchen, um sich
 niederzulassen; denn es war ihm inmitten der Stämme Israels bis zu jener
-Zeit noch kein Erbbesitz zugefallen. ^{[[#fn1][1]]}
+Zeit noch kein Erbbesitz zugefallen. [fn:1]
 
 <<v2>>
 2 Daher schickten die Daniter von ihrer Sippe fünf kampferprobte Männer
 aus Zora und Eschtaol aus, um das Land zu durchstreifen und zu erkunden.
 Sie sagten zu ihnen: Geht, erkundet das Land! Die Männer kamen ins
-Gebirge Efraim zum Haus Michas und übernachteten dort. ^{[[#fn2][2]]}
+Gebirge Efraim zum Haus Michas und übernachteten dort. [fn:2]
 
 <<v3>>
 3 Als sie beim Haus Michas waren, fiel ihnen die Mundart des jungen
@@ -54,7 +48,7 @@ ihr gehen wollt, liegt vor den Augen des Herrn.
 das Volk dort ungestört nach Art der Sidonier lebte, ruhig und sicher.
 Es gab niemand, der Schaden anrichtete im Land, keinen Eroberer und
 keine Unterdrückung. Sie waren weit entfernt von den Sidoniern und
-hatten auch mit den Aramäern nichts zu tun. ^{[[#fn3][3]]}
+hatten auch mit den Aramäern nichts zu tun. [fn:3]
 
 <<v8>>
 8 Als die Männer zu ihren Brüdern nach Zora und Eschtaol kamen, sagten
@@ -73,10 +67,8 @@ gegeben. Es ist ein Ort, wo es an nichts fehlt, was es auf Erden gibt.\\
 \\
 
 <<v11>>
-**** Der Zug der Daniter nach Lajisch: 18,11-31
-     :PROPERTIES:
-     :CUSTOM_ID: der-zug-der-daniter-nach-lajisch-1811-31
-     :END:
+* Der Zug der Daniter nach Lajisch: 18,11-31
+
 11 Darauf brachen von dort, also von Zora und Eschtaol aus, sechshundert
 mit Waffen ausgerüstete Männer aus der Sippe der Daniter auf.
 
@@ -155,13 +147,12 @@ sie stärker waren als er, kehrte um und ging nach Hause zurück.
 27 Sie aber nahmen das Bild, das Micha angefertigt hatte, samt dem
 Priester, den er hatte, und überfielen Lajisch, ein ruhiges und
 friedliches Volk. Sie erschlugen die Leute mit scharfem Schwert und
-steckten die Stadt in Brand. ^{[[#fn4][4]]}
+steckten die Stadt in Brand. [fn:4]
 
 <<v28>>
 28 Niemand konnte zu Hilfe kommen; denn die Stadt lag weit entfernt von
 Sidon und hatte auch mit den Aramäern nichts zu tun; sie lag im Tal von
-Bet-Rehob. Die Daniter bauten die Stadt wieder auf und wohnten in ihr.
-^{[[#fn5][5]]}
+Bet-Rehob. Die Daniter bauten die Stadt wieder auf und wohnten in ihr. [fn:5]
 
 <<v29>>
 29 Sie nannten sie Dan, nach dem Namen ihres Stammvaters Dan, der einst
@@ -172,7 +163,7 @@ Lajisch.
 30 Die Daniter stellten das Gottesbild bei sich auf und Jonatan, der
 Sohn Gerschoms, des Sohnes des Mose, und seine Nachkommen dienten dem
 Stamm der Daniter als Priester bis zu dem Tag, an dem die Bewohner des
-Landes in die Gefangenschaft geführt wurden. ^{[[#fn6][6]][[#fn7][7]]}
+Landes in die Gefangenschaft geführt wurden. [fn:6] [fn:7]
 
 <<v31>>
 31 Sie hatten also das Gottesbild, das Micha gemacht hatte, bei sich
@@ -180,19 +171,20 @@ aufgestellt und (es stand dort) die ganze Zeit über, solange es das
 Gotteshaus in Schilo gab.\\
 \\
 
-^{[[#fnm1][1]]} ℘ 17,6; 1,34; Jos 19,47
+* Footnotes
 
-^{[[#fnm2][2]]} fünf kampferprobte Männer: Text korr. nach G.
+[fn:1] [[file:Ri_17.org::v6][17,6]]; [[file:Ri_1.org::v34][1,34;]] [[file:Ri_19.org::v47][Jos 19,47]]
 
-^{[[#fnm3][3]]} mit den Aramäern: Text korr. nach G; H: mit den
+[fn:2] fünf kampferprobte Männer: Text korr. nach G.
+
+[fn:3] mit den Aramäern: Text korr. nach G; H: mit den
 Menschen. - Lajisch (Dan) liegt im Quellgebiet des Jordan (vgl. V. 29).
 
-^{[[#fnm4][4]]} ℘ Jos 19,47
+[fn:4] [[file:Jos_19.org::v47][Jos 19,47]]
 
-^{[[#fnm5][5]]} mit den Aramäern: Text korr. (vgl. die Anmerkung zu V.
-7).
+[fn:5] mit den Aramäern: Text korr. (vgl. die Anmerkung zu V. 7).
 
-^{[[#fnm6][6]]} ℘ 2 Kön 15,29
+[fn:6] [[file:2.Kön_15.org::v29][2 Kön 15,29]]
 
-^{[[#fnm7][7]]} des Mose: Text korr., vgl. G, Vg; H: Manasses, wohl
+[fn:7] des Mose: Text korr., vgl. G, Vg; H: Manasses, wohl
 nachträgliche Korrektur.

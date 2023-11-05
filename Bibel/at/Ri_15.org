@@ -1,27 +1,20 @@
-:PROPERTIES:
-:ID:       3c255513-d885-40f3-886b-833f00708b88
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch der Richter* -- [[file:Ri_1.html][1]]
-... [[file:Ri_13.html][13]] [[file:Ri_14.html][14]] *15*
-[[file:Ri_16.html][16]] [[file:Ri_17.html][17]] ...
-[[file:Ri_21.html][21]]
-
---------------
-
-* Ri 15
-  :PROPERTIES:
-  :CUSTOM_ID: ri-15
-  :END:
+#+TITLE: Ri 15 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-05 So 13:58]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ri 15.html
 
 <<verses>>
 
 <<v1>>
-**** Die Vernichtung der Ernte: 15,1-8
-     :PROPERTIES:
-     :CUSTOM_ID: die-vernichtung-der-ernte-151-8
-     :END:
+* Die Vernichtung der Ernte: 15,1-8
+
 1 Einige Zeit danach, zur Zeit der Weizenernte, besuchte Simson seine
 Frau. Er brachte ein Ziegenböckchen mit und sagte (zu ihrem Vater): Ich
 will zu meiner Frau in die Kammer. Aber ihr Vater ließ ihn nicht hinein,
@@ -38,7 +31,7 @@ Philistern etwas Böses antue.
 <<v4>>
 4 Simson ging weg und fing dreihundert Füchse. Dann nahm er Fackeln,
 band je zwei Füchse an den Schwänzen zusammen und befestigte eine Fackel
-in der Mitte zwischen zwei Schwänzen. ^{[[#fn1][1]]}
+in der Mitte zwischen zwei Schwänzen. [fn:1]
 
 <<v5>>
 5 Er zündete die Fackeln an und ließ die Füchse in die Getreidefelder
@@ -57,14 +50,12 @@ mehr aufhören, bis ich an euch Rache genommen habe.
 
 <<v8>>
 8 Und er schlug ihnen mit gewaltigen Schlägen die Knochen entzwei. Dann
-ging er weg und hauste in der Felsenhöhle von Etam. ^{[[#fn2][2]]}\\
+ging er weg und hauste in der Felsenhöhle von Etam. [fn:2]\\
 \\
 
 <<v9>>
-**** Simsons Sieg bei Lehi: 15,9-20
-     :PROPERTIES:
-     :CUSTOM_ID: simsons-sieg-bei-lehi-159-20
-     :END:
+* Simsons Sieg bei Lehi: 15,9-20
+
 9 Die Philister zogen nach Juda herauf, schlugen dort ihr Lager auf und
 besetzten die Gegend von Lehi.
 
@@ -93,7 +84,7 @@ mit zwei neuen Stricken und führten ihn aus der Felsenhöhle weg.
 14 Als er nach Lehi hinaufkam und die Philister ihm mit Triumphgeschrei
 entgegenliefen, kam der Geist des Herrn über ihn. Die Stricke an seinen
 Armen wurden wie Fäden, die vom Feuer versengt werden, und die Fesseln
-fielen von seinen Händen. ^{[[#fn3][3]]}
+fielen von seinen Händen. [fn:3]
 
 <<v15>>
 15 Er fand den noch blutigen Kinnbacken eines Esels, ergriff ihn mit der
@@ -102,7 +93,7 @@ Hand und erschlug damit tausend Männer.
 <<v16>>
 16 Damals sagte Simson: Mit dem Kinnbacken eines Esels habe ich sie
 gründlich verprügelt; mit einem Eselskinnbacken habe ich tausend Männer
-erschlagen. ^{[[#fn4][4]]}
+erschlagen. [fn:4]
 
 <<v17>>
 17 Als er das gesagt hatte, warf er den Kinnbacken weg; daher nannte man
@@ -121,19 +112,21 @@ Tag «Quelle des Rufers».
 
 <<v20>>
 20 Simson war zur Zeit der Philister zwanzig Jahre lang Richter in
-Israel. ^{[[#fn5][5]]}\\
+Israel. [fn:5]\\
 \\
 
-^{[[#fnm1][1]]} band . . . zusammen, wörtlich: wendete Schwanz gegen
+* Footnotes
+
+[fn:1] band . . . zusammen, wörtlich: wendete Schwanz gegen
 Schwanz.
 
-^{[[#fnm2][2]]} Die Knochen entzwei, wörtlich: Wade auf Schenkel; wohl
+[fn:2] Die Knochen entzwei, wörtlich: Wade auf Schenkel; wohl
 eine sprichwörtliche Redensart.
 
-^{[[#fnm3][3]]} ℘ 3,10
+[fn:3] [[file:Ri_3.org::v10][3,10]]
 
-^{[[#fnm4][4]]} habe ich sie verprügelt: Text korr. mit G. Das
+[fn:4] habe ich sie verprügelt: Text korr. mit G. Das
 hebräische Wort für Esel und das für gründlich verprügeln bilden ein
 Wortbild.
 
-^{[[#fnm5][5]]} ℘ 16,31
+[fn:5] [[file:Ri_16.org::v31][16,31]]

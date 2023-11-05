@@ -1,30 +1,24 @@
-:PROPERTIES:
-:ID:       d70af296-546f-4d4b-88fb-68c158f4a11a
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch der Richter* -- [[file:Ri_1.html][1]]
-... [[file:Ri_8.html][8]] [[file:Ri_9.html][9]] *10*
-[[file:Ri_11.html][11]] [[file:Ri_12.html][12]] ...
-[[file:Ri_21.html][21]]
+#+TITLE: Ri 10 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-04 Sa 23:08]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ri 10.html
 
---------------
-
-* Ri 10
-  :PROPERTIES:
-  :CUSTOM_ID: ri-10
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Tola und Jaïr: 10,1-5
-     :PROPERTIES:
-     :CUSTOM_ID: tola-und-jaïr-101-5
-     :END:
+* Tola und Jaïr: 10,1-5
+
 1 Nach Abimelech trat Tola auf, der Sohn Puwas, des Sohnes Dodos, um
 Israel zu retten, ein Mann aus Issachar. Er wohnte in Schamir auf dem
-Gebirge Efraim. ^{[[#fn1][1]]}
+Gebirge Efraim. [fn:1]
 
 <<v2>>
 2 Er war dreiundzwanzig Jahre lang Richter über Israel. Dann starb er
@@ -32,22 +26,20 @@ und wurde in Schamir begraben.
 
 <<v3>>
 3 Nach ihm trat Jaïr aus Gilead auf; er war zweiundzwanzig Jahre lang
-Richter über Israel. ^{[[#fn2][2]]}
+Richter über Israel. [fn:2]
 
 <<v4>>
 4 Er hatte dreißig Söhne, die auf dreißig Eseln ritten und dreißig
 Städte besaßen. Man nennt sie bis auf den heutigen Tag «die Zeltdörfer
-Jaïrs»; sie liegen im Land Gilead. ^{[[#fn3][3]]}
+Jaïrs»; sie liegen im Land Gilead. [fn:3]
 
 <<v5>>
 5 Als Jaïr starb, wurde er in Kamon begraben.\\
 \\
 
 <<v6>>
-**** Erneute Unterdrückung der Israeliten: 10,6-16
-     :PROPERTIES:
-     :CUSTOM_ID: erneute-unterdrückung-der-israeliten-106-16
-     :END:
+* Erneute Unterdrückung der Israeliten: 10,6-16
+
 6 Die Israeliten taten wieder, was dem Herrn missfiel. Sie dienten den
 Baalen und Astarten, den Göttern Arams, den Göttern Sidons, den Göttern
 Moabs, den Göttern der Ammoniter und den Göttern der Philister. Sie
@@ -77,7 +69,7 @@ von den Amoritern, Ammonitern und Philistern her,
 <<v12>>
 12 ebenso die Sidonier, Amalek und Midian] haben sie euch unterdrückt.
 Als ihr aber zu mir geschrien habt, habe ich euch aus ihrer Gewalt
-befreit. ^{[[#fn4][4]]}
+befreit. [fn:4]
 
 <<v13>>
 13 Ihr aber habt mich verlassen und anderen Göttern gedient. Darum werde
@@ -97,24 +89,24 @@ Herrn. Da konnte er das Elend Israels nicht länger ertragen.\\
 \\
 
 <<v17>>
-**** Die Wahl Jiftachs zum Richter: 10,17 - 11,11
-     :PROPERTIES:
-     :CUSTOM_ID: die-wahl-jiftachs-zum-richter-1017---1111
-     :END:
+* Die Wahl Jiftachs zum Richter: 10,17 - 11,11
+
 17 Die Ammoniter wurden aufgeboten und schlugen ihr Lager in Gilead auf.
 Auch die Israeliten versammelten sich; sie bezogen ihr Lager in Mizpa.
 
 <<v18>>
 18 Da sagten die Leute [die führenden Männer Gileads] zueinander: Wer
 ist der Mann, der den Kampf gegen die Ammoniter aufnimmt? Er soll das
-Oberhaupt aller Bewohner Gileads werden. ^{[[#fn5][5]]}
+Oberhaupt aller Bewohner Gileads werden. [fn:5]
 
-^{[[#fnm1][1]]} ℘ Gen 46,13; Num 26,23
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ Num 32,41; Dtn 3,14; Jos 13,30
+[fn:1] [[file:Gen_46.org::v13][Gen 46,13]]; [[file:Num_26.org::v23][Num 26,23]]
 
-^{[[#fnm3][3]]} Städte: Text korr. nach den alten Übersetzungen.
+[fn:2] [[file:Num_32.org::v41][Num 32,41]]; [[file:Dtn_3.org::v14][Dtn 3,14]]; [[file:Jos_13.org::v30][Jos 13,30]]
 
-^{[[#fnm4][4]]} Midian: Text korr. nach G.
+[fn:3] Städte: Text korr. nach den alten Übersetzungen.
 
-^{[[#fnm5][5]]} Der Zusatz ist eine Erläuterung im Sinn von 11,5.
+[fn:4] Midian: Text korr. nach G.
+
+[fn:5] Der Zusatz ist eine Erläuterung im Sinn von 11,5.

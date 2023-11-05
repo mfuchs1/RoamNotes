@@ -1,19 +1,16 @@
-:PROPERTIES:
-:ID:       da3b1073-d939-42ac-99bc-b3aee75fab2a
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch der Richter* -- [[file:Ri_1.html][1]]
-... [[file:Ri_9.html][9]] [[file:Ri_10.html][10]] *11*
-[[file:Ri_12.html][12]] [[file:Ri_13.html][13]] ...
-[[file:Ri_21.html][21]]
-
---------------
+#+TITLE: Ri 11 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-04 Sa 23:18]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ri 11.html
 
 * Ri 11
-  :PROPERTIES:
-  :CUSTOM_ID: ri-11
-  :END:
 
 <<verses>>
 
@@ -70,10 +67,8 @@ seine Angelegenheiten vor den Herrn.\\
 \\
 
 <<v12>>
-**** Die Verhandlung mit den Ammonitern: 11,12-28
-     :PROPERTIES:
-     :CUSTOM_ID: die-verhandlung-mit-den-ammonitern-1112-28
-     :END:
+* Die Verhandlung mit den Ammonitern: 11,12-28
+
 12 Danach schickte Jiftach Boten zum König der Ammoniter und ließ ihn
 fragen: Was haben wir gegeneinander, dass du herangerückt bist, um in
 meinem Land Krieg zu führen?
@@ -105,12 +100,12 @@ darauf. Auch zum König von Moab schickten sie, aber auch er wollte nicht
 18 Es zog dann durch die Wüste, umging das Land Edoms und das Land Moabs
 und kam so in das Gebiet östlich vom Land Moabs. Sie schlugen jenseits
 des Arnon ihr Lager auf, kamen also gar nicht in das Gebiet Moabs; denn
-der Arnon ist die Grenze Moabs. ^{[[#fn1][1]]}
+der Arnon ist die Grenze Moabs. [fn:1]
 
 <<v19>>
 19 Dann sandte Israel Boten zu Sihon, dem König der Amoriter, dem König
 von Heschbon, und ließ ihm sagen: Wir möchten durch dein Gebiet in unser
-Land ziehen. ^{[[#fn2][2]]}
+Land ziehen. [fn:2]
 
 <<v20>>
 20 Sihon aber glaubte nicht, dass Israel nur durch sein Gebiet
@@ -139,7 +134,7 @@ vertreibt, dessen Besitz nehmen wir.
 <<v25>>
 25 Bist du denn wirklich besser als der Moabiterkönig Balak, der Sohn
 Zippors? Hat er denn mit Israel einen Streit oder einen Krieg
-angefangen? ^{[[#fn3][3]]}
+angefangen? [fn:3]
 
 <<v26>>
 26 Israel saß dreihundert Jahre lang in Heschbon und seinen
@@ -159,13 +154,11 @@ Jiftach schickte.\\
 \\
 
 <<v29>>
-**** Jiftachs Sieg: 11,29-40
-     :PROPERTIES:
-     :CUSTOM_ID: jiftachs-sieg-1129-40
-     :END:
+* Jiftachs Sieg: 11,29-40
+
 29 Da kam der Geist des Herrn über Jiftach und Jiftach zog durch Gilead
 und Manasse nach Mizpa in Gilead und von Mizpa in Gilead zog er gegen
-die Ammoniter. ^{[[#fn4][4]]}
+die Ammoniter. [fn:4]
 
 <<v30>>
 30 Jiftach legte dem Herrn ein Gelübde ab und sagte: Wenn du die
@@ -205,7 +198,7 @@ hat.
 <<v37>>
 37 Und sie sagte zu ihrem Vater: Nur das eine möge mir gewährt werden:
 Lass mir noch zwei Monate Zeit, damit ich in die Berge gehe und zusammen
-mit meinen Freundinnen meine Jugend beweine. ^{[[#fn5][5]]}
+mit meinen Freundinnen meine Jugend beweine. [fn:5]
 
 <<v38>>
 38 Er entgegnete: Geh nur!, und ließ sie für zwei Monate fort. Sie aber
@@ -218,21 +211,22 @@ Verkehr gehabt. So wurde es Brauch in Israel,
 
 <<v40>>
 40 dass Jahr für Jahr die Töchter Israels (in die Berge) gehen und die
-Tochter des Gileaditers Jiftach beklagen, vier Tage lang, jedes Jahr.
-^{[[#fn6][6]]}\\
+Tochter des Gileaditers Jiftach beklagen, vier Tage lang, jedes Jahr. [fn:6]\\
 \\
 
-^{[[#fnm1][1]]} ℘ Num 21,13
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ Num 21,21-31
+[fn:1] [[file:Num_21.org::v13][Num 21,13]]
 
-^{[[#fnm3][3]]} ℘ Num 22,2; Jos 24,9
+[fn:2] [[file:Num_21.org::v21][Num 21,21-31]]
 
-^{[[#fnm4][4]]} ℘ 3,10; 6,34; 13,25
+[fn:3] [[file:Num_22.org::v22][Num 22,2]]; [[file:Jos_24.org::v9][Jos 24,9]]
 
-^{[[#fnm5][5]]} meine Jugend, wörtlich: meine Jungfrauschaft. - Jiftachs
+[fn:4] [[file:Ri_3.org::v10][3,10]]; [[file:Ri_6.org::v34][6,34]]; [[file:Ri_13.org::v25][13,25]]
+
+[fn:5] meine Jugend, wörtlich: meine Jungfrauschaft. - Jiftachs
 Tochter klagt, dass sie sterben muss, noch ehe sie Frau und Mutter
 werden konnte.
 
-^{[[#fnm6][6]]} Der Brauch wird mit der Vollstreckung des Gelübdes
+[fn:6] Der Brauch wird mit der Vollstreckung des Gelübdes
 Jiftachs erklärt.

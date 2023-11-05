@@ -1,29 +1,24 @@
-:PROPERTIES:
-:ID:       0deced1f-761b-441a-bdf3-5a329d07be17
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch der Richter* -- [[file:Ri_1.html][1]]
-... [[file:Ri_18.html][18]] [[file:Ri_19.html][19]] *20*
-[[file:Ri_21.html][21]]
+#+TITLE: Ri 20 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-05 So 16:35]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ri 20.html
 
---------------
-
-* Ri 20
-  :PROPERTIES:
-  :CUSTOM_ID: ri-20
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Die Beratung in Mizpa: 20,1-10
-     :PROPERTIES:
-     :CUSTOM_ID: die-beratung-in-mizpa-201-10
-     :END:
+* Die Beratung in Mizpa: 20,1-10
+
 1 Alle Israeliten von Dan bis Beerscheba und auch die Bewohner von
 Gilead kamen herbei und die Gemeinde versammelte sich einmütig beim
-Herrn in Mizpa. ^{[[#fn1][1]][[#fn2][2]]}
+Herrn in Mizpa. [fn:1] [fn:2]
 
 <<v2>>
 2 Die Häupter des ganzen Volkes, alle Stämme Israels, traten zu einer
@@ -62,7 +57,7 @@ zurückkehren.
 
 <<v9>>
 9 Wir wollen Folgendes mit Gibea machen: Wir wollen gegen die Stadt (in
-den Kampf) ziehen. ^{[[#fn3][3]]}
+den Kampf) ziehen. [fn:3]
 
 <<v10>>
 10 Und zwar wählen wir aus allen Stämmen Israels jeweils zehn Männer von
@@ -73,17 +68,15 @@ die es mitten in Israel begangen hat.\\
 \\
 
 <<v11>>
-**** Der Aufmarsch vor Gibea: 20,11-18
-     :PROPERTIES:
-     :CUSTOM_ID: der-aufmarsch-vor-gibea-2011-18
-     :END:
+* Der Aufmarsch vor Gibea: 20,11-18
+
 11 So versammelten sich alle Israeliten, geschlossen wie ein Mann, bei
 der Stadt.
 
 <<v12>>
 12 Und die Stämme Israels schickten Boten durch das ganze Gebiet des
 Stammes Benjamin und ließen sagen: Was ist das für eine üble Tat, die
-bei euch geschehen ist? ^{[[#fn4][4]]}
+bei euch geschehen ist? [fn:4]
 
 <<v13>>
 13 Gebt uns also das üble Gesindel von Gibea heraus, wir wollen es töten
@@ -117,10 +110,8 @@ Kampf ziehen? Der Herr antwortete: Zuerst Juda.\\
 \\
 
 <<v19>>
-**** Die Niederlage der Israeliten: 20,19-28
-     :PROPERTIES:
-     :CUSTOM_ID: die-niederlage-der-israeliten-2019-28
-     :END:
+* Die Niederlage der Israeliten: 20,19-28
+
 19 Die Israeliten brachen am Morgen auf und bezogen ihr Lager gegenüber
 Gibea.
 
@@ -166,14 +157,12 @@ nämlich in jenen Tagen die Bundeslade Gottes
 Dienst vor dem Angesicht des Herrn. Die Israeliten sagten: Sollen wir
 noch einmal ausrücken zum Kampf mit unserem Bruder Benjamin oder sollen
 wir es aufgeben? Der Herr antwortete: Zieht hinauf! Denn morgen gebe ich
-ihn in eure Gewalt. ^{[[#fn5][5]]}\\
+ihn in eure Gewalt. [fn:5]\\
 \\
 
 <<v29>>
-**** Die Vernichtung der Benjaminiter: 20,29-48
-     :PROPERTIES:
-     :CUSTOM_ID: die-vernichtung-der-benjaminiter-2029-48
-     :END:
+* Die Vernichtung der Benjaminiter: 20,29-48
+
 29 Darauf legten die Israeliten rings um Gibea Leute in den Hinterhalt.
 
 <<v30>>
@@ -185,7 +174,7 @@ hinauf und stellten sich, wie die beiden vorigen Male, bei Gibea auf.
 sich von der Stadt weglocken; sie begannen, wie die beiden vorigen Male,
 auf freiem Feld einzelne Israeliten zu erschlagen, und zwar an den
 Straßen, von denen die eine nach Bet-El, die andere nach Gibeon
-hinaufführt, im Ganzen etwa dreißig Mann. ^{[[#fn6][6]]}
+hinaufführt, im Ganzen etwa dreißig Mann. [fn:6]
 
 <<v32>>
 32 Die Benjaminiter dachten: Sie werden von uns geschlagen wie beim
@@ -240,11 +229,11 @@ ereilt hatte.
 42 Sie zogen sich vor den Israeliten in Richtung auf die Wüste zurück,
 konnten aber dem Kampf nicht entrinnen. Denn nun kamen auch die Männer
 (Israels) aus der Stadt, nahmen die Benjaminiter in die Zange und
-vernichteten sie. ^{[[#fn7][7]]}
+vernichteten sie. [fn:7]
 
 <<v43>>
 43 Sie umzingelten die Benjaminiter und verfolgten sie von Noha
-[zertraten sie] bis in die Gegend östlich von Gibea. ^{[[#fn8][8]]}
+[zertraten sie] bis in die Gegend östlich von Gibea. [fn:8]
 
 <<v44>>
 44 Achtzehntausend Mann aus Benjamin fielen, alles kampferprobte Männer.
@@ -261,35 +250,36 @@ fünfundzwanzigtausend, lauter mit dem Schwert bewaffnete Krieger.
 
 <<v47>>
 47 Nur sechshundert Mann konnten sich absetzen und in die Wüste nach
-Sela-Rimmon fliehen; sie blieben vier Monate in Sela-Rimmon.
-^{[[#fn9][9]]}
+Sela-Rimmon fliehen; sie blieben vier Monate in Sela-Rimmon. [fn:9]
 
 <<v48>>
 48 Die Israeliten aber kehrten zu den Benjaminitern zurück und
 erschlugen alles, was zu finden war, mit scharfem Schwert, die Stadt
 samt Menschen und Vieh. Ebenso steckten sie alle Städte, die sie finden
-konnten, in Brand. ^{[[#fn10][10]]}\\
+konnten, in Brand. [fn:10]\\
 \\
 
-^{[[#fnm1][1]]} ℘ 21,1; 1 Sam 7,5; 10,17
+* Footnotes
 
-^{[[#fnm2][2]]} Mizpa in Benjamin (Jos 18,26) lag nördlich von
+[fn:1] [[file:Ri_21.org::v1][21,1]]; [[file:1.Sam_7.org::v5][1 Sam 7,5;]] [[file:1.Sam_10.org::v17][10,17]]
+
+[fn:2] Mizpa in Benjamin ([[file:Jos_18.org::v26][Jos 18,26]]) lag nördlich von
 Jerusalem, auf der Straße nach Sichem.
 
-^{[[#fnm3][3]]} Wir wollen (in den Kampf) ziehen: Text korr. nach G. -
+[fn:3] Wir wollen (in den Kampf) ziehen: Text korr. nach G. -
 «durch das Los» ist in der Übersetzung zu V. 10 gezogen.
 
-^{[[#fnm4][4]]} des Stammes: Text korr. nach G und Vg.
+[fn:4] des Stammes: Text korr. nach G und Vg.
 
-^{[[#fnm5][5]]} ℘ Num 25,7
+[fn:5] [[file:Num_25.org::v7][Num 25,7]]
 
-^{[[#fnm6][6]]} nach Gibeon: Text korr., H: nach Gibea.
+[fn:6] nach Gibeon: Text korr., H: nach Gibea.
 
-^{[[#fnm7][7]]} aus der Stadt: Text korr., vgl. G.
+[fn:7] aus der Stadt: Text korr., vgl. G.
 
-^{[[#fnm8][8]]} von Noha: Text korr. nach G.
+[fn:8] von Noha: Text korr. nach G.
 
-^{[[#fnm9][9]]} ℘ 21,13
+[fn:9] [[file:Ri_21.org::v13][21,13]]
 
-^{[[#fnm10][10]]} samt Menschen: Text korr., vgl. Vg, S und einige
+[fn:10] samt Menschen: Text korr., vgl. Vg, S und einige
 H-Handschriften.

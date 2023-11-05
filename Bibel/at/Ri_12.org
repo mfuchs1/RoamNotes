@@ -1,31 +1,24 @@
-:PROPERTIES:
-:ID:       1b7e2af8-df30-4609-8293-4c64058e29ca
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch der Richter* -- [[file:Ri_1.html][1]]
-... [[file:Ri_10.html][10]] [[file:Ri_11.html][11]] *12*
-[[file:Ri_13.html][13]] [[file:Ri_14.html][14]] ...
-[[file:Ri_21.html][21]]
-
---------------
-
-* Ri 12
-  :PROPERTIES:
-  :CUSTOM_ID: ri-12
-  :END:
+#+TITLE: Ri 12 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-04 Sa 23:26]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ri 12.html
 
 <<verses>>
 
 <<v1>>
-**** Der Krieg der Efraimiter gegen Jiftach: 12,1-7
-     :PROPERTIES:
-     :CUSTOM_ID: der-krieg-der-efraimiter-gegen-jiftach-121-7
-     :END:
+* Der Krieg der Efraimiter gegen Jiftach: 12,1-7
+
 1 Die Männer aus Efraim wurden (zum Kampf) aufgeboten; sie zogen nach
 Zafon und sagten zu Jiftach: Warum bist du gegen die Ammoniter in den
 Kampf gezogen und hast uns nicht aufgefordert, mit dir zu ziehen? Wir
-werden dir dein Haus über dem Kopf anzünden. ^{[[#fn1][1]]}
+werden dir dein Haus über dem Kopf anzünden. [fn:1]
 
 <<v2>>
 2 Jiftach sagte zu ihnen: Ich selbst und mein Volk lagen mit den
@@ -54,19 +47,16 @@ Wenn er Nein sagte,
 6 forderten sie ihn auf: Sag doch einmal «Schibbolet». Sagte er dann
 «Sibbolet», weil er es nicht richtig aussprechen konnte, ergriffen sie
 ihn und machten ihn dort an den Furten des Jordan nieder. So fielen
-damals zweiundvierzigtausend Mann aus Efraim. ^{[[#fn2][2]]}
+damals zweiundvierzigtausend Mann aus Efraim. [fn:2]
 
 <<v7>>
 7 Jiftach war sechs Jahre lang Richter in Israel. Dann starb Jiftach,
-der Gileaditer, und wurde in seiner Stadt in Gilead begraben.
-^{[[#fn3][3]]}\\
+der Gileaditer, und wurde in seiner Stadt in Gilead begraben. [fn:3]\\
 \\
 
 <<v8>>
-**** Die Richter Ibzan, Elon und Abdon: 12,8-15
-     :PROPERTIES:
-     :CUSTOM_ID: die-richter-ibzan-elon-und-abdon-128-15
-     :END:
+* Die Richter Ibzan, Elon und Abdon: 12,8-15
+
 8 Nach ihm war Ibzan aus Betlehem Richter in Israel.
 
 <<v9>>
@@ -97,9 +87,11 @@ ritten. Er war acht Jahre lang Richter in Israel.
 im Land Efraim, auf dem Amalekiterberg begraben.\\
 \\
 
-^{[[#fnm1][1]]} ℘ 8,1
+* Footnotes
 
-^{[[#fnm2][2]]} An der besonderen Aussprache dieses Wortes werden die
+[fn:1] [[file:Ri_8.org::v1][8,1]]
+
+[fn:2] An der besonderen Aussprache dieses Wortes werden die
 efraimitischen Flüchtlinge erkannt.
 
-^{[[#fnm3][3]]} in seiner Stadt: Text korr. nach G.
+[fn:3] in seiner Stadt: Text korr. nach G.
