@@ -1,26 +1,24 @@
-:PROPERTIES:
-:ID:       c3749b68-e8d8-40d8-968b-e847154b644c
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das erste Buch Samuel* --
-[[file:1.Sam_1.html][1]] ... [[file:1.Sam_8.html][8]]
-[[file:1.Sam_9.html][9]] *10* [[file:1.Sam_11.html][11]]
-[[file:1.Sam_12.html][12]] ... [[file:1.Sam_31.html][31]]
+#+TITLE: 1 Sam 10 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-06 Mo 12:44]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Sam 10.html
 
---------------
 
 * 1.Sam 10
-  :PROPERTIES:
-  :CUSTOM_ID: sam-10
-  :END:
 
 <<verses>>
 
 <<v1>>
 1 Da nahm Samuel den Ölkrug und goss Saul das Öl auf das Haupt, küsste
 ihn und sagte: Hiermit hat der Herr dich zum Fürsten über sein Erbe
-gesalbt. ^{[[#fn1][1]]}
+gesalbt. [fn:1]
 
 <<v2>>
 2 Wenn du jetzt von mir weggehst, wirst du beim Grab der Rahel in
@@ -28,7 +26,7 @@ Zelzach im Gebiet von Benjamin zwei Männer treffen und sie werden zu dir
 sagen: Die Eselinnen, nach denen du auf der Suche bist, sind gefunden
 worden. Doch denkt dein Vater nicht mehr an die Sache mit den Eselinnen,
 sondern macht sich Sorgen um euch und sagt: Was kann ich nur wegen
-meines Sohnes unternehmen? ^{[[#fn2][2]]}
+meines Sohnes unternehmen? [fn:2]
 
 <<v3>>
 3 Wenn du dann von dort weiterziehst und zur Tabor-Eiche kommst, werden
@@ -49,8 +47,7 @@ prophetischer Verzückung.
 
 <<v6>>
 6 Dann wird der Geist des Herrn über dich kommen und du wirst wie sie in
-Verzückung geraten und in einen anderen Menschen verwandelt werden.
-^{[[#fn3][3]]}
+Verzückung geraten und in einen anderen Menschen verwandelt werden. [fn:3]
 
 <<v7>>
 7 Wenn du aber all diese Zeichen erlebst, dann tu, was sich gerade
@@ -60,7 +57,7 @@ ergibt; denn Gott ist mit dir.
 8 Hernach geh mir voraus nach Gilgal hinab! Ich werde dann bereits auf
 dem Weg zu dir sein, um Brandopfer darzubringen und Heilsopfer zu
 schlachten. Sieben Tage musst du warten, bis ich zu dir komme. Dann
-werde ich dir verkünden, was du tun sollst. ^{[[#fn4][4]]}
+werde ich dir verkünden, was du tun sollst. [fn:4]
 
 <<v9>>
 9 Als sich Saul nun umwandte, um von Samuel wegzugehen, verwandelte Gott
@@ -69,8 +66,7 @@ sein Herz. Und noch am gleichen Tag trafen alle diese Zeichen ein.
 <<v10>>
 10 Als sie, Saul und sein Knecht, nach Gibea gelangten, kam ihnen
 tatsächlich eine Schar von Propheten entgegen. Der Geist Gottes kam über
-Saul und Saul geriet mitten unter ihnen in prophetische Verzückung.
-^{[[#fn5][5]]}
+Saul und Saul geriet mitten unter ihnen in prophetische Verzückung. [fn:5]
 
 <<v11>>
 11 Alle, die ihn von früher kannten, sahen, wie er zusammen mit den
@@ -79,12 +75,10 @@ nur mit dem Sohn des Kisch geschehen? Ist auch Saul unter den Propheten?
 
 <<v12>>
 12 Einer von dort erwiderte: Wer ist denn schon deren Vater? So ist das
-Sprichwort entstanden: Ist denn auch Saul unter den Propheten?
-^{[[#fn6][6]]}
+Sprichwort entstanden: Ist denn auch Saul unter den Propheten? [fn:6]
 
 <<v13>>
-13 Als die Verzückung zu Ende war, ging Saul nach Gibea hinein.
-^{[[#fn7][7]]}
+13 Als die Verzückung zu Ende war, ging Saul nach Gibea hinein. [fn:7]
 
 <<v14>>
 14 Der Onkel Sauls fragte ihn und seinen Knecht: Wo seid ihr denn
@@ -102,11 +96,9 @@ aber, von der Samuel gesprochen hatte, erzählte er ihm nicht.\\
 \\
 
 <<v17>>
-**** Die Wahl Sauls zum König: 10,17-27
-     :PROPERTIES:
-     :CUSTOM_ID: die-wahl-sauls-zum-könig-1017-27
-     :END:
-17 Samuel rief das Volk zum Herrn nach Mizpa zusammen. ^{[[#fn8][8]]}
+* Die Wahl Sauls zum König: 10,17-27
+
+17 Samuel rief das Volk zum Herrn nach Mizpa zusammen. [fn:8]
 
 <<v18>>
 18 Er sagte zu den Israeliten: So spricht der Herr, der Gott Israels:
@@ -118,12 +110,11 @@ bedrängt haben.
 19 Ihr aber habt heute euren Gott verworfen, der euer Retter in allen
 Nöten und Bedrängnissen war, und ihr habt gesagt: Nein, du sollst einen
 König bei uns einsetzen. Stellt euch jetzt also vor dem Herrn auf,
-(geordnet) nach euren Stämmen und Tausendschaften.
-^{[[#fn9][9]][[#fn10][10]]}
+(geordnet) nach euren Stämmen und Tausendschaften. [fn:9] [fn:10]
 
 <<v20>>
 20 Und Samuel ließ alle Stämme Israels antreten (um das Los zu werfen).
-Das Los fiel auf den Stamm Benjamin. ^{[[#fn11][11]]}
+Das Los fiel auf den Stamm Benjamin. [fn:11]
 
 <<v21>>
 21 Darauf ließ er den Stamm Benjamin (geordnet) nach seinen Sippen
@@ -148,7 +139,7 @@ Volk und sagte: Es lebe der König!
 <<v25>>
 25 Samuel machte dem Volk das Königsrecht bekannt, schrieb es in ein
 Buch und legte das Buch vor dem Herrn nieder. Dann entließ Samuel das
-ganze Volk, jeden in sein Haus. ^{[[#fn12][12]][[#fn13][13]]}
+ganze Volk, jeden in sein Haus. [fn:12] [fn:13]
 
 <<v26>>
 26 Auch Saul ging in sein Haus nach Gibea. Und mit ihm zog eine Schar
@@ -157,34 +148,36 @@ von Männern, deren Herz Gott berührt hatte.
 <<v27>>
 27 Niederträchtige Menschen aber sagten: Was kann uns der schon helfen?
 Sie verachteten ihn und brachten ihm kein Geschenk. Er aber tat, als
-merkte er es nicht. ^{[[#fn14][14]]}\\
+merkte er es nicht. [fn:14]\\
 \\
 
-^{[[#fnm1][1]]} ℘ 15,1
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ Gen 35,19f
+[fn:1] [[file:1.Sam_15.org::v1][15,1]]
 
-^{[[#fnm3][3]]} ℘ Ri 13,25
+[fn:2] [[file:Gen_35.org::v19][Gen 35,19f]]
 
-^{[[#fnm4][4]]} ℘ 11,14; 13,8
+[fn:3] [[file:Ri_13.org::v25][Ri 13,25]]
 
-^{[[#fnm5][5]]} ℘ 19,20-24
+[fn:4] [[file:1.Sam_11.org::v14][11,14]]; [[file:1.Sam_13.org::v8][13,8]]
 
-^{[[#fnm6][6]]} ℘ 19,24
+[fn:5] [[file:1.Sam_19.org::v20][19,20-24]]
 
-^{[[#fnm7][7]]} nach Gibea hinein: Text korr., vgl. G; H: auf die Höhe.
+[fn:6] [[file:1.Sam_19.org::v24][19,24]]
 
-^{[[#fnm8][8]]} ℘ 7,5
+[fn:7] nach Gibea hinein: Text korr., vgl. G; H: auf die Höhe.
 
-^{[[#fnm9][9]]} ℘ 8,7
+[fn:8] [[file:1.Sam_7.org::v5][7,5]]
 
-^{[[#fnm10][10]]} Nein: Text korr. nach mehreren Textzeugen.
+[fn:9] [[file:1.Sam_8.org::v7][8,7]]
 
-^{[[#fnm11][11]]} ℘ Jos 7,16
+[fn:10] Nein: Text korr. nach mehreren Textzeugen.
 
-^{[[#fnm12][12]]} ℘ Dtn 17,14-20
+[fn:11] [[file:Jos_7.org::v16][Jos 7,16]]
 
-^{[[#fnm13][13]]} Das Königsgesetz bezieht sich nicht auf 8,10-18,
-sondern eher auf das Königsgesetz von Dtn 17,14-20.
+[fn:12] [[file:Dtn_17.org::v14][Dtn 17,14-20]]
 
-^{[[#fnm14][14]]} ℘ 11,12
+[fn:13] Das Königsgesetz bezieht sich nicht auf [[file:1.Sam_8.org::v10][8,10-18]],
+sondern eher auf das Königsgesetz von [[file:Dtn_17.org::v14][Dtn 17,14-20]].
+
+[fn:14] [[file:1.Sam_11.org::v12][11,12]]
