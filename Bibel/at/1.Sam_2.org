@@ -1,30 +1,25 @@
-:PROPERTIES:
-:ID:       36248098-33f6-47a9-b6a9-6e4d562d2770
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das erste Buch Samuel* --
-[[file:1.Sam_1.html][1]] *2* [[file:1.Sam_3.html][3]]
-[[file:1.Sam_4.html][4]] ... [[file:1.Sam_31.html][31]]
+#+TITLE: 1 Sam 2 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-06 Mo 09:43]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Sam 2.html
 
---------------
-
-* 1.Sam 2
-  :PROPERTIES:
-  :CUSTOM_ID: sam-2
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Danklied der Hanna: 2,1-11
-     :PROPERTIES:
-     :CUSTOM_ID: danklied-der-hanna-21-11
-     :END:
+* Danklied der Hanna: 2,1-11
+
 1 Hanna betete. Sie sagte: Mein Herz ist voll Freude über den Herrn, /\\
  große Kraft gibt mir der Herr. /\\
  Weit öffnet sich mein Mund gegen meine Feinde; /\\
- denn ich freue mich über deine Hilfe. ^{[[#fn1][1]]}\\
+ denn ich freue mich über deine Hilfe. [fn:1]\\
 \\
 
 <<v2>>
@@ -37,7 +32,7 @@
 3 Redet nicht immer so vermessen, /\\
  kein freches Wort komme aus eurem Mund; /\\
  denn der Herr ist ein wissender Gott /\\
- und bei ihm werden die Taten geprüft. ^{[[#fn2][2]]}\\
+ und bei ihm werden die Taten geprüft. [fn:2]\\
 \\
 
 <<v4>>
@@ -49,7 +44,7 @@
 5 Die Satten verdingen sich um Brot, /\\
  doch die Hungrigen können feiern für immer. /\\
  Die Unfruchtbare bekommt sieben Kinder, /\\
- doch die Kinderreiche welkt dahin. ^{[[#fn3][3]]}\\
+ doch die Kinderreiche welkt dahin. [fn:3]\\
 \\
 
 <<v6>>
@@ -82,7 +77,7 @@
  der Höchste lässt es donnern am Himmel. /\\
  Der Herr hält Gericht bis an die Grenzen der Erde. /\\
  Seinem König gebe er Kraft /\\
- und erhöhe die Macht seines Gesalbten. ^{[[#fn4][4]]}\\
+ und erhöhe die Macht seines Gesalbten. [fn:4]\\
 \\
 
 <<v11>>
@@ -92,18 +87,15 @@ Eli.\\
 \\
 
 <<v12>>
-**** Die Schuld des Hauses Eli: 2,12-36
-     :PROPERTIES:
-     :CUSTOM_ID: die-schuld-des-hauses-eli-212-36
-     :END:
+* Die Schuld des Hauses Eli: 2,12-36
+
 12 Die Söhne Elis waren nichtsnutzige Menschen. Sie kümmerten sich nicht
 um den Herrn
 
 <<v13>>
 13 und sie pflegten sich gegenüber dem Volk so zu verhalten: Sooft
 jemand ein Schlachtopfer darbrachte und das Fleisch kochte, kam ein
-Diener des Priesters mit einer dreizinkigen Gabel in der Hand.
-^{[[#fn5][5]]}
+Diener des Priesters mit einer dreizinkigen Gabel in der Hand. [fn:5]
 
 <<v14>>
 14 Er stach in den Kessel oder den Topf, in das Becken oder die
@@ -115,7 +107,7 @@ kamen.
 15 Noch bevor man das Fett in Rauch aufgehen ließ, kam der Diener des
 Priesters und sagte zu dem Mann, der opferte: Gib mir Fleisch zum Braten
 für den Priester; er nimmt von dir aber kein gekochtes Fleisch an,
-sondern nur rohes. ^{[[#fn6][6]]}
+sondern nur rohes. [fn:6]
 
 <<v16>>
 16 Wenn ihm der Mann erwiderte: Zuerst muss man doch das Fett in Rauch
@@ -166,42 +158,40 @@ Vaters; denn der Herr war entschlossen, sie umkommen zu lassen.
 
 <<v26>>
 26 Der Knabe Samuel aber wuchs heran und gewann immer mehr an Gunst beim
-Herrn und auch bei den Menschen. ^{[[#fn7][7]]}
+Herrn und auch bei den Menschen. [fn:7]
 
 <<v27>>
 27 Da kam ein Gottesmann zu Eli und sagte zu ihm: So spricht der Herr:
 Habe ich mich dem Haus deines Vaters nicht deutlich offenbart, als deine
-Vorfahren in Ägypten dem Haus des Pharao gehörten? ^{[[#fn8][8]]}
+Vorfahren in Ägypten dem Haus des Pharao gehörten? [fn:8]
 
 <<v28>>
 28 Ich habe sie aus allen Stämmen Israels für mich als Priester erwählt,
 damit sie zu meinem Altar hinaufgehen, das Rauchopfer darbringen und vor
 meinen Augen das Efod tragen. Auch habe ich dem Haus deines Vaters alle
-Feueropfer der Israeliten überlassen. ^{[[#fn9][9]]}
+Feueropfer der Israeliten überlassen. [fn:9]
 
 <<v29>>
 29 Warum missachtet ihr also aus Missgunst Schlachtopfer und
 Speiseopfer, die ich angeordnet habe? Warum ehrst du deine Söhne mehr
 als mich und warum mästet ihr euch mit dem Besten aller Gaben meines
-Volkes Israel? ^{[[#fn10][10]]}
+Volkes Israel? [fn:10]
 
 <<v30>>
 30 Darum - Spruch des Herrn, des Gottes Israels: Ich hatte fest
 zugesagt: Dein Haus und das Haus deines Vaters sollen für ewig vor
 meinem Angesicht ihren Dienst versehen. Nun aber - Spruch des Herrn: Das
 sei fern von mir; denn nur die, die mich ehren, werde ich ehren, die
-aber, die mich verachten, geraten in Schande.
-^{[[#fn11][11]][[#fn12][12]]}
+aber, die mich verachten, geraten in Schande. [fn:11] [fn:12]
 
 <<v31>>
 31 Es werden Tage kommen, da werde ich deinen Arm abhauen und die Macht
 deines Vaterhauses vernichten; in deinem Haus wird es keinen alten Mann
-mehr geben. ^{[[#fn13][13]]}
+mehr geben. [fn:13]
 
 <<v32>>
 32 Du wirst voll Neid auf all das Gute blicken, das der Herr für Israel
-tun wird. Nie mehr wird es in deinem Haus einen alten Mann geben.
-^{[[#fn14][14]]}
+tun wird. Nie mehr wird es in deinem Haus einen alten Mann geben. [fn:14]
 
 <<v33>>
 33 Nur einen werde ich nicht wegreißen von meinem Altar, wenn ich deine
@@ -210,14 +200,13 @@ Nachwuchs deines Hauses wird im besten Mannesalter sterben.
 
 <<v34>>
 34 Und das soll das Zeichen sein, das sich an deinen beiden Söhnen Hofni
-und Pinhas verwirklichen wird: Beide werden an einem Tag sterben.
-^{[[#fn15][15]]}
+und Pinhas verwirklichen wird: Beide werden an einem Tag sterben. [fn:15]
 
 <<v35>>
 35 Ich aber werde mir einen zuverlässigen Priester einsetzen, der nach
 meinem Herzen und nach meinem Sinn handeln wird. Ich will ihm ein Haus
 bauen, das Bestand hat, und er wird allezeit vor den Augen meines
-Gesalbten seinen Dienst versehen. ^{[[#fn16][16]]}
+Gesalbten seinen Dienst versehen. [fn:16]
 
 <<v36>>
 36 Wer dann von deinem Haus noch übrig ist, wird kommen und sich um ein
@@ -226,38 +215,40 @@ doch in eine der Priestergruppen auf, damit ich ein Stück Brot zu essen
 habe.\\
 \\
 
-^{[[#fnm1][1]]} Wörtlich: Mein Horn ist durch Jahwe erhöht. Das Horn ist
+* Footnotes
+
+[fn:1] Wörtlich: Mein Horn ist durch Jahwe erhöht. Das Horn ist
 Symbol der Kraft. Das Lied der Hanna ist Vorbild für das Magnificat Lk
 1,46-55.
 
-^{[[#fnm2][2]]} so vermessen: Text korr., vgl. G.
+[fn:2] so vermessen: Text korr., vgl. G.
 
-^{[[#fnm3][3]]} können feiern für immer, wörtlich: hören auf für immer.
+[fn:3] können feiern für immer, wörtlich: hören auf für immer.
 
-^{[[#fnm4][4]]} der Höchste: Text korr. (vgl. Ps 18,14). - die Macht,
+[fn:4] der Höchste: Text korr. (vgl. [[file:Ps_18.org::v14][Ps 18,14]]). - die Macht,
 wörtlich: das Horn, vgl. die Anmerkung zu V. 1c.
 
-^{[[#fnm5][5]]} 13-15: Die Söhne Elis begnügten sich nicht mit den ihnen
-zustehenden Opferanteilen (vgl. Lev 7,33f; Dtn 18,3).
+[fn:5] 13-15: Die Söhne Elis begnügten sich nicht mit den ihnen
+zustehenden Opferanteilen (vgl. [[file:Lev_7.org::v33][Lev 7,33f]]; [[file:Dtn_18.org::v3][Dtn 18,3]]).
 
-^{[[#fnm6][6]]} ℘ Lev 7,11-17.28-34
+[fn:6] [[file:Lev_7.org::v11][Lev 7,11]]-[[file:Lev_7.org::v17][17]].[[file:Lev_7.org::v28][28]]-[[file:Lev_7.org::v34][34]]
 
-^{[[#fnm7][7]]} ℘ Lk 2,52
+[fn:7] [[file:~/RoamNotes/notes/Bibel/nt/Lk_2.org::v52][Lk 2,52]]
 
-^{[[#fnm8][8]]} deine Vorfahren, wörtlich: sie.
+[fn:8] deine Vorfahren, wörtlich: sie.
 
-^{[[#fnm9][9]]} ℘ Dtn 18,1
+[fn:9] [[file:Dtn_18.org::v1][Dtn 18,1]]
 
-^{[[#fnm10][10]]} aus Missgunst: Text korr., vgl. G.
+[fn:10] aus Missgunst: Text korr., vgl. G.
 
-^{[[#fnm11][11]]} ℘ Ex 28,1
+[fn:11] [[file:Ex_28.org::v1][Ex 28,1]]
 
-^{[[#fnm12][12]]} ihren Dienst versehen, wörtlich: ein und aus gehen.
+[fn:12] ihren Dienst versehen, wörtlich: ein und aus gehen.
 
-^{[[#fnm13][13]]} ℘ 1 Kön 2,27
+[fn:13] [[file:1.Kön_2.org::v27][1 Kön 2,27]]
 
-^{[[#fnm14][14]]} voll Neid: Text korr., vgl. V. 29.
+[fn:14] voll Neid: Text korr., vgl. [[v29][V. 29]].
 
-^{[[#fnm15][15]]} ℘ 4,11
+[fn:15] [[file:1.Sam_4.org::v11][4,11]]
 
-^{[[#fnm16][16]]} Vgl. die Anmerkung zu V. 30.
+[fn:16] Vgl. die Anmerkung zu [[v30][V. 30]]. 

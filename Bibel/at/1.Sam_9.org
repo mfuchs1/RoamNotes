@@ -1,30 +1,24 @@
-:PROPERTIES:
-:ID:       edd6578c-915a-4e0c-a48e-68b114014605
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das erste Buch Samuel* --
-[[file:1.Sam_1.html][1]] ... [[file:1.Sam_7.html][7]]
-[[file:1.Sam_8.html][8]] *9* [[file:1.Sam_10.html][10]]
-[[file:1.Sam_11.html][11]] ... [[file:1.Sam_31.html][31]]
+#+TITLE: 1 Sam 9 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-06 Mo 10:16]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Sam 9.html
 
---------------
-
-* 1.Sam 9
-  :PROPERTIES:
-  :CUSTOM_ID: sam-9
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Die Salbung Sauls zum König: 9,1 - 10,16
-     :PROPERTIES:
-     :CUSTOM_ID: die-salbung-sauls-zum-könig-91---1016
-     :END:
+* Die Salbung Sauls zum König: 9,1 - 10,16
+
 1 Damals lebte in Benjamin ein Mann namens Kisch, ein Sohn Abiëls, des
 Sohnes Zerors, des Sohnes Bechorats, des Sohnes Afiachs, ein
-wohlhabender Benjaminiter. ^{[[#fn1][1]]}
+wohlhabender Benjaminiter. [fn:1]
 
 <<v2>>
 2 Er hatte einen Sohn namens Saul, der jung und schön war; kein anderer
@@ -51,7 +45,7 @@ mein Vater um uns noch mehr Sorgen als um die Eselinnen.
 6 Der Knecht erwiderte ihm: In dieser Stadt wohnt doch ein Gottesmann.
 Er ist sehr angesehen; alles, was er sagt, trifft mit Sicherheit ein.
 Lasst uns jetzt zu ihm gehen; vielleicht kann er uns sagen, welchen Weg
-wir hätten gehen sollen. ^{[[#fn2][2]]}
+wir hätten gehen sollen. [fn:2]
 
 <<v7>>
 7 Saul antwortete dem Knecht: Was sollen wir dem Mann mitbringen, wenn
@@ -93,7 +87,7 @@ treffen.
 <<v14>>
 14 Da gingen sie weiter zur Stadt hinauf. Und als sie zur Mitte der
 Stadt gekommen waren, kam ihnen gerade Samuel entgegen, der zur Kulthöhe
-hinaufgehen wollte. ^{[[#fn3][3]]}
+hinaufgehen wollte. [fn:3]
 
 <<v15>>
 15 Der Herr aber hatte Samuel, einen Tag bevor Saul kam, das Ohr für
@@ -103,8 +97,7 @@ eine Offenbarung geöffnet und gesagt:
 16 Morgen um diese Zeit schicke ich einen Mann aus dem Gebiet Benjamins
 zu dir. Ihn sollst du zum Fürsten meines Volkes Israel salben. Er wird
 mein Volk aus der Gewalt der Philister befreien; denn ich habe die Not
-meines Volkes Israel gesehen und sein Hilfeschrei ist zu mir gedrungen.
-^{[[#fn4][4]]}
+meines Volkes Israel gesehen und sein Hilfeschrei ist zu mir gedrungen. [fn:4]
 
 <<v17>>
 17 Als Samuel Saul sah, sagte der Herr zu ihm: Das ist der Mann, von dem
@@ -129,8 +122,7 @@ dem ganzen Haus deines Vaters?
 <<v21>>
 21 Da antwortete Saul: Bin ich nicht ein Benjaminiter, also aus dem
 kleinsten Stamm Israels? Ist meine Sippe nicht die geringste von allen
-Sippen des Stammes Benjamin? Warum sagst du so etwas zu mir?
-^{[[#fn5][5]]}
+Sippen des Stammes Benjamin? Warum sagst du so etwas zu mir? [fn:5]
 
 <<v22>>
 22 Samuel nahm Saul und seinen Knecht mit, führte sie in das Haus und
@@ -162,19 +154,21 @@ Saul: Sag dem Knecht, er soll vorausgehen; du aber bleib nun hier
 stehen! Ich will dir ein Gotteswort verkünden. Da ging der Knecht
 voraus.
 
-^{[[#fnm1][1]]} 1-11,15: Die verschiedenen, teilweise widersprüchlichen
+* Footnotes
+
+[fn:1] 1-11,15: Die verschiedenen, teilweise widersprüchlichen
 Überlieferungen darüber, wie Saul König wurde, sind hier aneinander
-gereiht: Der Prophet Samuel benennt und salbt ihn (9,1 - 10,16); er wird
-durch Losentscheid König (10,17-27); er weist sich selbst durch einen
-Sieg als Führer des Volkes aus (11,1-15).
+gereiht: Der Prophet Samuel benennt und salbt ihn ([[v1][9,1]] - [[file:1.Sam_10.org::v16][10,16]]); er wird
+durch Losentscheid König ([[file:1.Sam_10.org::v17][10,17-27]]); er weist sich selbst durch einen
+Sieg als Führer des Volkes aus ([[file:1.Sam_11.org::v1][11,1-15]]).
 
-^{[[#fnm2][2]]} »Gottesmann« ist ein Titel für Männer, die von Gott zu
-einer besonderen Aufgabe erwählt werden, wie Mose (Dtn 33,1) oder die
-Propheten (1 Kön 13,4-20; 17,18; 2 Kön 1,9f).
+[fn:2] »Gottesmann« ist ein Titel für Männer, die von Gott zu
+einer besonderen Aufgabe erwählt werden, wie Mose ([[file:Dtn_33.org::v1][Dtn 33,1]]) oder die
+Propheten ([[file:1.Kön_13.org::v4][1 Kön 13,4-20]]; [[file:1.Kön_17.org::v18][17,18]]; [[file:2.Kön_1.org::v9][2 Kön 1,9f]]).
 
-^{[[#fnm3][3]]} 14.18: Über Ort und Art des Zusammentreffens gab es
+[fn:3] 14.18: Über Ort und Art des Zusammentreffens gab es
 anscheinend verschiedene Überlieferungen.
 
-^{[[#fnm4][4]]} die Not: Text nach G ergänzt.
+[fn:4] die Not: Text nach G ergänzt.
 
-^{[[#fnm5][5]]} ℘ 15,17
+[fn:5] [[file:1.Sam_15.org::v17][15,17]]

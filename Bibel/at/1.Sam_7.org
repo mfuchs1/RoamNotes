@@ -1,19 +1,17 @@
-:PROPERTIES:
-:ID:       2ec34288-8617-4f97-b32e-756f7e88c3b3
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das erste Buch Samuel* --
-[[file:1.Sam_1.html][1]] ... [[file:1.Sam_5.html][5]]
-[[file:1.Sam_6.html][6]] *7* [[file:1.Sam_8.html][8]]
-[[file:1.Sam_9.html][9]] ... [[file:1.Sam_31.html][31]]
+#+TITLE: 1 Sam 7 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-06 Mo 10:09]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Sam 7.html
 
---------------
 
 * 1.Sam 7
-  :PROPERTIES:
-  :CUSTOM_ID: sam-7
-  :END:
 
 <<verses>>
 
@@ -24,14 +22,10 @@ seinen Sohn Eleasar weihten sie, dass er die Lade des Herrn bewache.\\
 \\
 
 <<v2>>
-** Samuel und Saul: 7,2 - 15,35
-   :PROPERTIES:
-   :CUSTOM_ID: samuel-und-saul-72---1535
-   :END:
-**** Samuel als Richter: 7,2-17
-     :PROPERTIES:
-     :CUSTOM_ID: samuel-als-richter-72-17
-     :END:
+* Samuel und Saul: 7,2 - 15,35
+
+* Samuel als Richter: 7,2-17
+
 2 Seit dem Tag, an dem die Lade in Kirjat-Jearim ihre Wohnung nahm, war
 eine lange Zeit vergangen, zwanzig Jahre. Als sich das ganze Haus Israel
 klagend an den Herrn wandte,
@@ -49,13 +43,13 @@ noch dem Herrn.
 
 <<v5>>
 5 Darauf sagte Samuel: Versammelt ganz Israel in Mizpa; ich will für
-euch zum Herrn beten. ^{[[#fn1][1]]}
+euch zum Herrn beten. [fn:1]
 
 <<v6>>
 6 Da versammelten sie sich in Mizpa, sie schöpften Wasser und gossen es
 vor dem Herrn aus. Dort fasteten sie an diesem Tag und sagten: Wir haben
 uns gegen den Herrn versündigt. Samuel sprach den Israeliten Recht in
-Mizpa. ^{[[#fn2][2]]}
+Mizpa. [fn:2]
 
 <<v7>>
 7 Die Philister erfuhren, dass sich die Israeliten in Mizpa versammelt
@@ -75,8 +69,7 @@ dar. Er rief zum Herrn für Israel und der Herr erhörte ihn.
 10 Als Samuel das Brandopfer darbrachte, rückten die Philister schon zum
 Kampf gegen Israel heran. Da ließ der Herr mit gewaltigem Krachen noch
 am gleichen Tag einen Donner gegen die Philister erschallen und brachte
-sie so in Verwirrung, dass sie von den Israeliten geschlagen wurden.
-^{[[#fn3][3]]}
+sie so in Verwirrung, dass sie von den Israeliten geschlagen wurden. [fn:3]
 
 <<v11>>
 11 Nun zogen die Israeliten von Mizpa aus, verfolgten die Philister bis
@@ -85,7 +78,7 @@ unterhalb von Bet-Kar und schlugen sie.
 <<v12>>
 12 Samuel nahm einen Stein und stellte ihn zwischen Mizpa und Jeschana
 auf. Er nannte ihn Eben-Eser (Stein der Hilfe) und sagte: Bis hierher
-hat uns der Herr geholfen. ^{[[#fn4][4]]}
+hat uns der Herr geholfen. [fn:4]
 
 <<v13>>
 13 So wurden die Philister gedemütigt und drangen nicht mehr in das
@@ -111,10 +104,12 @@ Haus. Auch dort sprach er Israel Recht und er baute dort einen Altar für
 den Herrn.\\
 \\
 
-^{[[#fnm1][1]]} ℘ 10,17; Ri 20,1
+* Footnotes
 
-^{[[#fnm2][2]]} Der Wasser-Ritus ist wohl ein Bußakt.
+[fn:1] [[file:1.Sam_10.org::v17][10,17]]; [[file:Ri_20.org::v1][Ri 20,1]]
 
-^{[[#fnm3][3]]} ℘ 14,15; Ex 14,24; 23,27; Jos 10,10; Ri 4,15
+[fn:2] Der Wasser-Ritus ist wohl ein Bußakt.
 
-^{[[#fnm4][4]]} Jeschana: Text korr., vgl. G.
+[fn:3] [[file:1.Sam_14.org::v15][14,15]]; [[file:Ex_14.org::v24][Ex 14,24]]; [[file:Ex_23.org::v27][23,27]]; [[file:Jos_10.org::v10][Jos 10,10]]; [[file:Ri_4.org::v15][Ri 4,15]]
+
+[fn:4] Jeschana: Text korr., vgl. G.

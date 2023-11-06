@@ -1,24 +1,20 @@
-:PROPERTIES:
-:ID:       0cdd926e-2fbe-4295-b31c-ded29f9dc173
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das erste Buch Samuel* -- *1*
-[[file:1.Sam_2.html][2]] [[file:1.Sam_3.html][3]] ...
-[[file:1.Sam_31.html][31]]
+#+TITLE: 1 Sam 1 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-06 Mo 09:28]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Sam 1.html
 
---------------
 
 * 1.Sam 1
-  :PROPERTIES:
-  :CUSTOM_ID: sam-1
-  :END:
 
-B+1
-** Die Samuelbücher
-   :PROPERTIES:
-   :CUSTOM_ID: die-samuelbücher
-   :END:
+* Die Samuelbücher
+
 Die Epoche, die mit dem Namen Samuel verbunden ist, ist eine Zeit des
 Übergangs. Samuel handelt noch wie einer der Richter, er tritt aber auch
 wie ein Prophet auf. Unter seiner maßgeblichen Mitwirkung entsteht in
@@ -87,18 +83,14 @@ weiterwirken sollte.\\
 <<verses>>
 
 <<v1>>
-1 B+0
-** Eli und Samuel: 1,1 - 3,21
-   :PROPERTIES:
-   :CUSTOM_ID: eli-und-samuel-11---321
-   :END:
-**** Die Geburt Samuels: 1,1-20
-     :PROPERTIES:
-     :CUSTOM_ID: die-geburt-samuels-11-20
-     :END:
+
+* Eli und Samuel: 1,1 - 3,21
+
+* Die Geburt Samuels: 1,1-20
+
 Einst lebte ein Mann aus Ramatajim, ein Zufiter vom Gebirge Efraim. Er
 hieß Elkana und war ein Sohn Jerohams, des Sohnes Elihus, des Sohnes
-Tohus, des Sohnes Zufs, ein Efraimiter. ^{[[#fn1][1]][[#fn2][2]]}
+Tohus, des Sohnes Zufs, ein Efraimiter. [fn:1] [fn:2]
 
 <<v2>>
 2 Er hatte zwei Frauen. Die eine hieß Hanna, die andere Peninna. Peninna
@@ -107,7 +99,7 @@ hatte Kinder, Hanna aber hatte keine Kinder.
 <<v3>>
 3 Dieser Mann zog Jahr für Jahr von seiner Stadt nach Schilo hinauf, um
 den Herrn der Heere anzubeten und ihm zu opfern. Dort waren Hofni und
-Pinhas, die beiden Söhne Elis, Priester des Herrn. ^{[[#fn3][3]]}
+Pinhas, die beiden Söhne Elis, Priester des Herrn. [fn:3]
 
 <<v4>>
 4 An dem Tag, an dem Elkana das Opfer darbrachte, gab er seiner Frau
@@ -115,7 +107,7 @@ Peninna und all ihren Söhnen und Töchtern ihre Anteile.
 
 <<v5>>
 5 Hanna aber gab er einen doppelten Anteil; denn er hatte Hanna lieb,
-obwohl der Herr ihren Schoß verschlossen hatte. ^{[[#fn4][4]]}
+obwohl der Herr ihren Schoß verschlossen hatte. [fn:4]
 
 <<v6>>
 6 Ihre Rivalin aber kränkte und demütigte sie sehr, weil der Herr ihren
@@ -133,7 +125,7 @@ als zehn Söhne?
 <<v9>>
 9 Nachdem man in Schilo gegessen und getrunken hatte, stand Hanna auf
 und trat vor den Herrn. Der Priester Eli saß an den Türpfosten des
-Tempels des Herrn auf seinem Stuhl. ^{[[#fn5][5]]}
+Tempels des Herrn auf seinem Stuhl. [fn:5]
 
 <<v10>>
 10 Hanna war verzweifelt, betete zum Herrn und weinte sehr.
@@ -143,7 +135,7 @@ Tempels des Herrn auf seinem Stuhl. ^{[[#fn5][5]]}
 deiner Magd wirklich ansiehst, wenn du an mich denkst und deine Magd
 nicht vergisst und deiner Magd einen männlichen Nachkommen schenkst,
 dann will ich ihn für sein ganzes Leben dem Herrn überlassen; kein
-Schermesser soll an sein Haupt kommen. ^{[[#fn6][6]]}
+Schermesser soll an sein Haupt kommen. [fn:6]
 
 <<v12>>
 12 So betete sie lange vor dem Herrn. Eli beobachtete ihren Mund;
@@ -181,14 +173,12 @@ zurück. Elkana erkannte seine Frau Hanna; der Herr dachte an sie,
 <<v20>>
 20 und Hanna wurde schwanger. Als die Zeit abgelaufen war, gebar sie
 einen Sohn und nannte ihn Samuel, denn (sie sagte): Ich habe ihn vom
-Herrn erbeten. ^{[[#fn7][7]]}\\
+Herrn erbeten. [fn:7]\\
 \\
 
 <<v21>>
-**** Samuel wird dem Herrn geweiht: 1,21-28
-     :PROPERTIES:
-     :CUSTOM_ID: samuel-wird-dem-herrn-geweiht-121-28
-     :END:
+* Samuel wird dem Herrn geweiht: 1,21-28
+
 21 Als dann Elkana mit seiner ganzen Familie wieder hinaufzog, um dem
 Herrn das jährliche Opfer und die Gaben, die er gelobt hatte,
 darzubringen,
@@ -207,7 +197,7 @@ also daheim und stillte ihren Sohn, bis sie ihn entwöhnte.
 24 Als sie ihn entwöhnt hatte, nahm sie ihn mit hinauf, dazu einen
 dreijährigen Stier, ein Efa Mehl und einen Schlauch Wein. So brachte sie
 ihn zum Haus des Herrn in Schilo; der Knabe aber war damals noch sehr
-jung. ^{[[#fn8][8]]}
+jung. [fn:8]
 
 <<v25>>
 25 Als sie den Stier geschlachtet hatten, brachten sie den Knaben zu
@@ -227,24 +217,26 @@ ganzes Leben ein vom Herrn Zurückgeforderter sein. Und sie beteten dort
 den Herrn an.\\
 \\
 
-^{[[#fnm1][1]]} ℘ 1 Chr 6,11f.19f
+* Footnotes
 
-^{[[#fnm2][2]]} Rama - H hat die spätere Namensform Ramatajim - ist auch
+[fn:1] [[file:1.Chr_6.org::v11][1 Chr 6,11f]].[[file:1.Chr_6.org::v19][19f]]
+
+[fn:2] Rama - H hat die spätere Namensform Ramatajim - ist auch
 die Wirkungsstätte Samuels. - ein Zufiter: Text korr., vgl. G und 9,5.
 
-^{[[#fnm3][3]]} Herr der Heere: H: Jahwe Zebaot, von G oft mit
+[fn:3] Herr der Heere: H: Jahwe Zebaot, von G oft mit
 Pantokrator (Allherrscher) übersetzt. Mit den Heeren sind die
 himmlischen Heere, nämlich die Gestirne und die Engel, aber auch die
-Heere Israels gemeint. - Zu Schilo vgl. die Anmerkung zu Jos 18,1.
+Heere Israels gemeint. - Zu Schilo vgl. die Anmerkung zu [[file:Jos_18.org::v1][Jos 18,1]].
 
-^{[[#fnm4][4]]} doppelten: Übersetzung unsicher.
+[fn:4] doppelten: Übersetzung unsicher.
 
-^{[[#fnm5][5]]} und trat vor den Herrn: ergänzt nach G.
+[fn:5] und trat vor den Herrn: ergänzt nach G.
 
-^{[[#fnm6][6]]} Samuel wird ähnlich wie ein Nasiräer Gott geweiht (vgl.
-die Anmerkungen zu Num 6,1-21 und Ri 13,5).
+[fn:6] Samuel wird ähnlich wie ein Nasiräer Gott geweiht (vgl.
+die Anmerkungen zu [[file:Num_6.org::v1][Num 6,1-21]] und [[file:Ri_13.org::v5][Ri 13,5]]).
 
-^{[[#fnm7][7]]} Der Name wird nur nach dem Klang des Wortes gedeutet.
+[fn:7] Der Name wird nur nach dem Klang des Wortes gedeutet.
 
-^{[[#fnm8][8]]} einen dreijährigen Stier: Text korr. nach G, vgl. V. 25;
+[fn:8] einen dreijährigen Stier: Text korr. nach G, vgl. V. 25;
 H: drei Stiere.

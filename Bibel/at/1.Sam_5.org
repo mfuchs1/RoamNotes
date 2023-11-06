@@ -1,19 +1,17 @@
-:PROPERTIES:
-:ID:       35777682-2271-4530-a4a4-783865423c36
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das erste Buch Samuel* --
-[[file:1.Sam_1.html][1]] ... [[file:1.Sam_3.html][3]]
-[[file:1.Sam_4.html][4]] *5* [[file:1.Sam_6.html][6]]
-[[file:1.Sam_7.html][7]] ... [[file:1.Sam_31.html][31]]
+#+TITLE: 1 Sam 5 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-06 Mo 10:02]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Sam 5.html
 
---------------
 
 * 1.Sam 5
-  :PROPERTIES:
-  :CUSTOM_ID: sam-5
-  :END:
 
 <<verses>>
 
@@ -23,7 +21,7 @@ Eben-Eser nach Aschdod.
 
 <<v2>>
 2 Dann nahmen sie die Lade Gottes, brachten sie in den Tempel Dagons und
-stellten sie neben Dagon auf. ^{[[#fn1][1]]}
+stellten sie neben Dagon auf. [fn:1]
 
 <<v3>>
 3 Als die Einwohner von Aschdod aber am nächsten Morgen aufstanden, war
@@ -39,7 +37,7 @@ abgeschlagen auf der Schwelle. Nur der Rumpf war Dagon geblieben.
 <<v5>>
 5 Deshalb treten die Priester Dagons und alle, die in den Tempel Dagons
 kommen, bis zum heutigen Tag nicht auf die Schwelle des Dagon von
-Aschdod. ^{[[#fn2][2]]}
+Aschdod. [fn:2]
 
 <<v6>>
 6 Die Hand des Herrn lastete schwer auf den Einwohnern von Aschdod, und
@@ -82,10 +80,12 @@ Gottes lastete schwer auf ihr.
 der Hilfeschrei der Stadt stieg zum Himmel empor.\\
 \\
 
-^{[[#fnm1][1]]} Dagon war eine bei den Semiten weit verbreitete, auch
+* Footnotes
+
+[fn:1] Dagon war eine bei den Semiten weit verbreitete, auch
 von den Philistern verehrte Gottheit, vielleicht ein Getreidegott (dagan
 = Getreide).
 
-^{[[#fnm2][2]]} Die Sitte, nicht auf die Schwelle zu treten, wird hier
+[fn:2] Die Sitte, nicht auf die Schwelle zu treten, wird hier
 mit der Niederlage Dagons erklärt. Sie entstand aber wohl aus der Scheu,
 auf die Schwellendämonen zu treten.
