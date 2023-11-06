@@ -1,25 +1,21 @@
-:PROPERTIES:
-:ID:       89175a69-dcc2-4281-9299-90326d8a203c
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Rut* -- [[file:Rut_1.html][1]] *2*
-[[file:Rut_3.html][3]] [[file:Rut_4.html][4]]
+#+TITLE: Rut 2 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-06 Mo 09:15]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Rut 2.html
 
---------------
-
-* Rut 2
-  :PROPERTIES:
-  :CUSTOM_ID: rut-2
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Rut auf dem Acker des Boas: 2,1-23
-     :PROPERTIES:
-     :CUSTOM_ID: rut-auf-dem-acker-des-boas-21-23
-     :END:
+* Rut auf dem Acker des Boas: 2,1-23
+
 1 Noomi hatte einen Verwandten von ihrem Mann her, einen Grundbesitzer;
 er war aus dem Geschlecht Elimelechs und hieß Boas.
 
@@ -112,8 +108,7 @@ dem ich heute gearbeitet habe, heißt Boas.
 <<v20>>
 20 Da sagte Noomi zu ihrer Schwiegertochter: Gesegnet sei er vom Herrn,
 der seine Gunst den Lebenden und Toten nicht entzogen hat. Und sie
-erzählte ihr: Der Mann ist mit uns verwandt, er ist einer unserer Löser.
-^{[[#fn1][1]]}
+erzählte ihr: Der Mann ist mit uns verwandt, er ist einer unserer Löser. [fn:1]
 
 <<v21>>
 21 Die Moabiterin Rut sagte: Er hat noch zu mir gesagt: Halte dich an
@@ -129,4 +124,6 @@ Gersten- und Weizenernte beendet war. Danach blieb sie bei ihrer
 Schwiegermutter.\\
 \\
 
-^{[[#fnm1][1]]} Zum «Löser» vgl. die Anmerkung zu 1,5f und zu Lev 25,25.
+* Footnotes
+
+[fn:1] Zum «Löser» vgl. die Anmerkung zu [[file:Rut_1.org::v5][1,5f]] und zu [[file:Lev_25.org::v25][Lev 25,25]]. 

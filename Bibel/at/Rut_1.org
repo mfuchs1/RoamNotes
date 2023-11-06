@@ -1,17 +1,16 @@
-:PROPERTIES:
-:ID:       3da8cca5-8f2f-4ab6-9da7-9ccf364846ca
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Rut* -- *1* [[file:Rut_2.html][2]]
-[[file:Rut_3.html][3]] [[file:Rut_4.html][4]]
-
---------------
+#+TITLE: Rut 1 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-06 Mo 09:02]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Rut 1.html
 
 * Rut 1
-  :PROPERTIES:
-  :CUSTOM_ID: rut-1
-  :END:
 
 Das Büchlein Rut, eine novellenartige Erzählung, trägt seinen Namen nach
 der Hauptperson, einer moabitischen Frau, die die Ahnfrau Davids werden
@@ -61,14 +60,12 @@ Nachkommen, zum Volk Israel, bekennen, Segen und Heil schenkt (vgl. Gen
 <<verses>>
 
 <<v1>>
-**** Die Vorgeschichte: 1,1-5
-     :PROPERTIES:
-     :CUSTOM_ID: die-vorgeschichte-11-5
-     :END:
+* Die Vorgeschichte: 1,1-5
+
 1 Zu der Zeit, als die Richter regierten, kam eine Hungersnot über das
 Land. Da zog ein Mann mit seiner Frau und seinen beiden Söhnen aus
 Betlehem in Juda fort, um sich als Fremder im Grünland Moabs
-niederzulassen. ^{[[#fn1][1]]}
+niederzulassen.[fn:1]
 
 <<v2>>
 2 Der Mann hieß Elimelech, seine Frau Noomi, und seine Söhne hießen
@@ -77,7 +74,7 @@ Grünland Moabs ankamen, blieben sie dort.
 
 <<v3>>
 3 Elimelech, der Mann Noomis, starb und sie blieb mit ihren beiden
-Söhnen zurück. ^{[[#fn2][2]]}
+Söhnen zurück.[fn:2]
 
 <<v4>>
 4 Diese nahmen sich moabitische Frauen, Orpa und Rut, und so wohnten sie
@@ -85,14 +82,12 @@ dort etwa zehn Jahre lang.
 
 <<v5>>
 5 Dann starben auch Machlon und Kiljon und Noomi blieb allein, ohne
-ihren Mann und ohne ihre beiden Söhne. ^{[[#fn3][3]]}\\
+ihren Mann und ohne ihre beiden Söhne. [fn:3]\\
 \\
 
 <<v6>>
-**** Die Heimkehr: 1,6-22
-     :PROPERTIES:
-     :CUSTOM_ID: die-heimkehr-16-22
-     :END:
+* Die Heimkehr: 1,6-22
+
 6 Da brach sie mit ihren Schwiegertöchtern auf, um aus dem Grünland
 Moabs heimzukehren; denn sie hatte dort gehört, der Herr habe sich
 seines Volkes angenommen und ihm Brot gegeben.
@@ -172,9 +167,11 @@ Grünland Moabs heim. Zu Beginn der Gerstenernte kamen sie in Betlehem
 an.\\
 \\
 
-^{[[#fnm1][1]]} ℘ Ri 10,1-5; 12,7-15; 1 Sam 7,15-17
+* Footnotes
 
-^{[[#fnm2][2]]} 3f: Nach Dtn 23,4-6 und Neh 13,1-3 dürfen Ammoniter und
+[fn:1] [[file:Ri_10.org::v1][Ri 10,1-5]]; [[file:Ri_12.org::v7][12,7-15]]; [[file:1.Sam_7.org::v15][1 Sam 7,15-17]]
+
+[fn:2] 3f: Nach [[file:Dtn_23.org::v4][Dtn 23,4-6]] und [[file:Neh_13.org::v1][Neh 13,1-3]] dürfen Ammoniter und
 Moabiter nicht in die Glaubensgemeinschaft Israels aufgenommen werden
 und darum waren auch Ehen mit Moabiterinnen verboten. Entweder galt
 dieses Gesetz bei der Abfassung des Buches noch nicht; dann müsste es
@@ -182,8 +179,8 @@ noch vor Joschija (641-609 v. Chr.) entstanden sein. Oder der Verfasser
 schrieb in bewusstem Gegensatz zu den rigorosen Ehegesetzen Esras (um
 400 v. Chr.), die sich nie voll durchsetzen konnten.
 
-^{[[#fnm3][3]]} 5f: Nach 4,3f besitzt die Familie Elimelechs einen Acker
-bei Betlehem. Nach Lev 25,23-28 soll der Grundbesitz bei der Sippe
+[fn:3] 5f: Nach [[file:Rut_4.org::v3][4,3f]] besitzt die Familie Elimelechs einen Acker
+bei Betlehem. Nach [[file:Lev_25.org::v23][Lev 25,23-28]] soll der Grundbesitz bei der Sippe
 bleiben; darum ist der nächste Verwandte eines in Not geratenen
 Israeliten verpflichtet, den aus Not veräußerten Acker auszulösen. Da
 die Familie ihres Mannes ausgestorben war, konnte Noomi hoffen, mit dem

@@ -1,31 +1,26 @@
-:PROPERTIES:
-:ID:       4127d4c8-0ece-4a2e-98eb-89bdf5fcff41
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Rut* -- [[file:Rut_1.html][1]]
-[[file:Rut_2.html][2]] *3* [[file:Rut_4.html][4]]
-
---------------
-
-* Rut 3
-  :PROPERTIES:
-  :CUSTOM_ID: rut-3
-  :END:
+#+TITLE: Rut 3 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-06 Mo 09:19]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Rut 3.html
 
 <<verses>>
 
 <<v1>>
-**** Rut auf der Tenne des Boas: 3,1-15
-     :PROPERTIES:
-     :CUSTOM_ID: rut-auf-der-tenne-des-boas-31-15
-     :END:
+* Rut auf der Tenne des Boas: 3,1-15
+
 1 Ihre Schwiegermutter Noomi sagte zu ihr: Meine Tochter, ich möchte dir
 ein Heim verschaffen, in dem es dir gut geht.
 
 <<v2>>
 2 Nun ist ja Boas, bei dessen Mägden du warst, ein Verwandter von uns.
-Heute Abend worfelt er die Gerste auf der Tenne. ^{[[#fn1][1]]}
+Heute Abend worfelt er die Gerste auf der Tenne. [fn:1]
 
 <<v3>>
 3 Wasch dich, salbe dich und zieh dein Obergewand an, dann geh zur
@@ -57,7 +52,7 @@ zu seinen Füßen liegen.
 <<v9>>
 9 Er fragte: Wer bist du? Sie antwortete: Ich bin Rut, deine Magd.
 Breite doch den Saum deines Gewandes über deine Magd, denn du bist
-Löser. ^{[[#fn2][2]]}
+Löser. [fn:2]
 
 <<v10>>
 10 Da sagte er: Gesegnet bist du vom Herrn, meine Tochter. So zeigst du
@@ -70,7 +65,7 @@ tun; denn jeder in diesen Mauern weiß, dass du eine tüchtige Frau bist.
 
 <<v12>>
 12 Gewiss, ich bin Löser, aber es gibt noch einen Löser, der näher
-verwandt ist als ich. ^{[[#fn3][3]]}
+verwandt ist als ich. [fn:3]
 
 <<v13>>
 13 Bleib über Nacht, und wenn er dich dann am Morgen lösen will, gut, so
@@ -89,10 +84,8 @@ ging er zur Stadt.\\
 \\
 
 <<v16>>
-**** Der Rat der Schwiegermutter: 3,16-18
-     :PROPERTIES:
-     :CUSTOM_ID: der-rat-der-schwiegermutter-316-18
-     :END:
+* Der Rat der Schwiegermutter: 3,16-18
+
 16 Rut kam nun zu ihrer Schwiegermutter und diese fragte: Wie steht es,
 meine Tochter? Sie erzählte ihr, wie viel Gutes ihr der Mann erwiesen
 hatte,
@@ -107,7 +100,9 @@ die Sache ausgeht; denn der Mann wird nicht ruhen, ehe er noch heute die
 Sache erledigt hat.\\
 \\
 
-^{[[#fnm1][1]]} 2-4: Auf der Tenne, die sich im Freien vor der Stadt
+* Footnotes
+
+[fn:1] 2-4: Auf der Tenne, die sich im Freien vor der Stadt
 befindet, wird zunächst das Getreide gedroschen, indem man mit Ochsen
 ein schlittenartiges, unten mit spitzen Haken versehenes Gerät über das
 Getreide führt und so die Ähren zerkleinert, wobei die Körner
@@ -118,8 +113,8 @@ Worfeln. Das durch Worfeln gereinigte Getreide wird in Haufen am Rand
 der Tenne gesammelt. Um Diebstahl zu verhindern, schläft man über Nacht
 beim Getreide.
 
-^{[[#fnm2][2]]} «Das Gewand über jemand breiten» bedeutet so viel wie
+[fn:2] «Das Gewand über jemand breiten» bedeutet so viel wie
 «jemand beschützen». Hier ist an den Schutz der kinderlosen Witwe durch
 den Vollzug der Leviratsehe gedacht.
 
-^{[[#fnm3][3]]} ℘ Dtn 25,5f
+[fn:3] [[file:Dtn_25.org::v5][Dtn 25,5f]]
