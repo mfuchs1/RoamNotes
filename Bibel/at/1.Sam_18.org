@@ -1,41 +1,35 @@
-:PROPERTIES:
-:ID:       e8c9982e-4aa9-47d6-94dd-02c35179521b
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das erste Buch Samuel* --
-[[file:1.Sam_1.html][1]] ... [[file:1.Sam_16.html][16]]
-[[file:1.Sam_17.html][17]] *18* [[file:1.Sam_19.html][19]]
-[[file:1.Sam_20.html][20]] ... [[file:1.Sam_31.html][31]]
+#+TITLE: 1 Sam 18 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-06 Mo 22:34]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Sam 18.html
 
---------------
-
-* 1.Sam 18
-  :PROPERTIES:
-  :CUSTOM_ID: sam-18
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Jonatans Freundschaft mit David: 18,1-9
-     :PROPERTIES:
-     :CUSTOM_ID: jonatans-freundschaft-mit-david-181-9
-     :END:
+* Jonatans Freundschaft mit David: 18,1-9
+
 1 Nach dem Gespräch Davids mit Saul schloss Jonatan David in sein Herz.
 Und Jonatan liebte David wie sein eigenes Leben.
 
 <<v2>>
 2 Saul behielt David von jenem Tag an bei sich und ließ ihn nicht mehr
-in das Haus seines Vaters zurückkehren. ^{[[#fn1][1]]}
+in das Haus seines Vaters zurückkehren. [fn:1]
 
 <<v3>>
 3 Jonatan schloss mit David einen Bund, weil er ihn wie sein eigenes
-Leben liebte. ^{[[#fn2][2]]}
+Leben liebte. [fn:2]
 
 <<v4>>
 4 Er zog den Mantel, den er anhatte, aus und gab ihn David, ebenso seine
-Rüstung, sein Schwert, seinen Bogen und seinen Gürtel. ^{[[#fn3][3]]}
+Rüstung, sein Schwert, seinen Bogen und seinen Gürtel. [fn:3]
 
 <<v5>>
 5 David zog ins Feld und überall, wohin Saul ihn schickte, hatte er
@@ -45,7 +39,7 @@ beim ganzen Volk und bei den Dienern Sauls beliebt.
 <<v6>>
 6 Als sie nach Davids Sieg über den Philister heimkehrten, zogen die
 Frauen aus allen Städten Israels König Saul singend und tanzend mit
-Handpauken, Freudenrufen und Zimbeln entgegen. ^{[[#fn4][4]]}\\
+Handpauken, Freudenrufen und Zimbeln entgegen. [fn:4]\\
 \\
 
 <<v7>>
@@ -64,17 +58,15 @@ ihm nur noch die Königswürde.
 \\
 
 <<v10>>
-**** Sauls Feindschaft gegen David: 18,10-30
-     :PROPERTIES:
-     :CUSTOM_ID: sauls-feindschaft-gegen-david-1810-30
-     :END:
+* Sauls Feindschaft gegen David: 18,10-30
+
 10 Am folgenden Tag kam über Saul wieder ein böser Gottesgeist, sodass
 er in seinem Haus in Raserei geriet. David aber spielte wie jeden Tag.
-Saul hatte den Speer in der Hand. ^{[[#fn5][5]]}
+Saul hatte den Speer in der Hand. [fn:5]
 
 <<v11>>
 11 Saul dachte: Ich will David an die Wand spießen!, und schleuderte den
-Speer, aber David wich ihm zweimal aus. ^{[[#fn6][6]]}
+Speer, aber David wich ihm zweimal aus. [fn:6]
 
 <<v12>>
 12 Und Saul begann sich vor David zu fürchten, weil der Herr mit David
@@ -110,8 +102,7 @@ Schwiegersohn des Königs werden sollte?
 
 <<v19>>
 19 Als aber dann die Zeit kam, in der Sauls Tochter Merab David zur Frau
-gegeben werden sollte, wurde sie Adriël aus Mehola zur Frau gegeben.
-^{[[#fn7][7]]}
+gegeben werden sollte, wurde sie Adriël aus Mehola zur Frau gegeben. [fn:7]
 
 <<v20>>
 20 Sauls Tochter Michal liebte David; dies teilte man Saul mit. Es war
@@ -121,7 +112,7 @@ ihm recht;
 21 denn er sagte sich: Ich will sie ihm geben; sie soll ihm zum
 Verhängnis werden, sodass er den Philistern in die Hände fällt. Saul
 sagte zu David: Heute in zwei Jahren kannst du mein Schwiegersohn
-werden. ^{[[#fn8][8]]}
+werden. [fn:8]
 
 <<v22>>
 22 Seinen Dienern aber befahl Saul: Redet heimlich mit David und sagt:
@@ -151,7 +142,7 @@ gesetzte Frist war noch nicht um,
 27 als David sich auf den Weg machte und mit seinen Leuten zog; er
 erschlug zweihundert von den Philistern, brachte ihre Vorhäute zum König
 und legte sie vollzählig vor ihn hin, um sein Schwiegersohn zu werden.
-Und Saul gab ihm seine Tochter Michal zur Frau. ^{[[#fn9][9]]}
+Und Saul gab ihm seine Tochter Michal zur Frau. [fn:9]
 
 <<v28>>
 28 Als Saul immer deutlicher erkannte, dass der Herr mit David war und
@@ -167,21 +158,23 @@ sie aber ausrückten, hatte David mehr Erfolg als alle anderen Diener
 Sauls, sodass sein Name immer mehr galt.\\
 \\
 
-^{[[#fnm1][1]]} ℘ 16,22; 17,15
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 19,1; 20,8.17; 23,18; 2 Sam 1,26; 21,7
+[fn:1] [[file:1.Sam_16.org::v22][16,22]]; [[file:1.Sam_17.org::v15][17,15]]
 
-^{[[#fnm3][3]]} Jonatan gibt symbolisch einen Teil seiner selbst als
+[fn:2] [[file:1.Sam_19.org::v1][19,1]]; [[file:1.Sam_20.org::v8][20,8]].[[file:1.Sam_20.org::v17][17]]; [[file:1.Sam_23.org::v18][23,18]]; [[file:2.Sam_1.org::v26][2 Sam 1,26]]; [[file:2.Sam_21.org::v7][21,7]]
+
+[fn:3] Jonatan gibt symbolisch einen Teil seiner selbst als
 Zeichen der Verbundenheit.
 
-^{[[#fnm4][4]]} ℘ (6-7) 21,12; 29,5
+[fn:4] (6-7) [[file:1.Sam_21.org::v12][21,12]]; [[file:1.Sam_29.org::v5][29,5]]
 
-^{[[#fnm5][5]]} ℘ 16,14
+[fn:5] [[file:1.Sam_16.org::v14][16,14]]
 
-^{[[#fnm6][6]]} ℘ 20,33
+[fn:6] [[file:1.Sam_20.org::v33][20,33]]
 
-^{[[#fnm7][7]]} ℘ 2 Sam 21,8
+[fn:7] [[file:2.Sam_21.org::v8][2 Sam 21,8]]
 
-^{[[#fnm8][8]]} in zwei Jahren: Text korr., vgl. V. 26
+[fn:8] in zwei Jahren: Text korr., vgl. V. 26
 
-^{[[#fnm9][9]]} ℘ 2 Sam 3,14
+[fn:9] [[file:2.Sam_3.org::v14][2 Sam 3,14]]

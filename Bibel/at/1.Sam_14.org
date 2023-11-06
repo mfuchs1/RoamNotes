@@ -1,19 +1,17 @@
-:PROPERTIES:
-:ID:       d08f4bd0-d132-42a6-81b0-9d7afcf8dde0
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das erste Buch Samuel* --
-[[file:1.Sam_1.html][1]] ... [[file:1.Sam_12.html][12]]
-[[file:1.Sam_13.html][13]] *14* [[file:1.Sam_15.html][15]]
-[[file:1.Sam_16.html][16]] ... [[file:1.Sam_31.html][31]]
+#+TITLE: 1 Sam 14 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-06 Mo 14:58]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Sam 14.html
 
---------------
 
 * 1.Sam 14
-  :PROPERTIES:
-  :CUSTOM_ID: sam-14
-  :END:
 
 <<verses>>
 
@@ -79,7 +77,7 @@ Herr hat sie in die Gewalt Israels gegeben.
 <<v13>>
 13 Jonatan kletterte auf Händen und Füßen hinauf und sein Waffenträger
 folgte ihm. Da ergriffen sie vor Jonatan die Flucht, aber sein
-Waffenträger, der hinter ihm war, tötete sie. ^{[[#fn1][1]]}
+Waffenträger, der hinter ihm war, tötete sie. [fn:1]
 
 <<v14>>
 14 Das war der erste Schlag, den Jonatan und sein Waffenträger führten.
@@ -89,15 +87,12 @@ halben Morgen groß war.
 <<v15>>
 15 Großer Schrecken entstand im Lager (der Philister) und auf dem Feld
 und im ganzen Volk; auch der Vorposten und die plündernden Abteilungen
-erschraken. Dazu bebte die Erde und es entstand ein Gottesschrecken.
-^{[[#fn2][2]]}\\
+erschraken. Dazu bebte die Erde und es entstand ein Gottesschrecken. [fn:2]\\
 \\
 
 <<v16>>
-**** Der Sieg über die Philister: 14,16-23
-     :PROPERTIES:
-     :CUSTOM_ID: der-sieg-über-die-philister-1416-23
-     :END:
+* Der Sieg über die Philister: 14,16-23
+
 16 Die Späher Sauls in Gibea-Benjamin sahen ein Getümmel, das wogte und
 hin und her lief.
 
@@ -108,7 +103,7 @@ tatsächlich fehlten Jonatan und sein Waffenträger.
 
 <<v18>>
 18 Saul sagte zu Ahija: Bring die Lade Gottes her! Denn die Lade war an
-jenem Tag bei den Israeliten (im Lager). ^{[[#fn3][3]]}
+jenem Tag bei den Israeliten (im Lager). [fn:3]
 
 <<v19>>
 19 Während Saul mit dem Priester redete, wurde das Getümmel im Lager der
@@ -137,10 +132,8 @@ jenem Tag Israel.\\
 \\
 
 <<v24>>
-**** Sauls Schwur: 14,24-46
-     :PROPERTIES:
-     :CUSTOM_ID: sauls-schwur-1424-46
-     :END:
+* Sauls Schwur: 14,24-46
+
 24 Die Israeliten aber waren an jenem Tag in Bedrängnis geraten. Darum
 stellte Saul das Volk unter einen Fluch und sagte: Verflucht sei jeder,
 der vor dem Abend etwas isst, bevor ich mich an meinen Feinden gerächt
@@ -148,7 +141,7 @@ habe. Das Volk nahm also bis zum Abend keine Nahrung zu sich.
 
 <<v25>>
 25 Nun gab es in jener ganzen Gegend viele Bienennester, sodass Honig
-auf freiem Feld zu finden war. ^{[[#fn4][4]]}
+auf freiem Feld zu finden war. [fn:4]
 
 <<v26>>
 26 Als das Volk zu den Waben kam und sah, dass Honig aus ihnen
@@ -183,7 +176,7 @@ Gebiet) zwischen Michmas und Ajalon, das Volk aber war sehr erschöpft.
 <<v32>>
 32 Deshalb stürzte sich das Volk auf die Beute, nahm Schafe, Rinder und
 Kälber, schlachtete sie, sodass das Blut einfach auf die Erde floss. Und
-das Volk aß (das Fleisch) samt dem Blut. ^{[[#fn5][5]][[#fn6][6]]}
+das Volk aß (das Fleisch) samt dem Blut. [fn:5] [fn:6]
 
 <<v33>>
 33 Da meldete man Saul: Sieh nur, das Volk versündigt sich gegen den
@@ -195,7 +188,7 @@ Unrecht begangen. Wälzt sofort einen großen Stein her!
 Rind und sein Lamm zu mir bringen und es hier schlachten und essen.
 Versündigt euch nicht gegen den Herrn, indem ihr es samt dem Blut esst.
 Da brachten die Leute noch in der Nacht alles, was sie in der Hand
-hatten, herbei und schlachteten es dort. ^{[[#fn7][7]]}
+hatten, herbei und schlachteten es dort. [fn:7]
 
 <<v35>>
 35 Und Saul erbaute dem Herrn einen Altar. Es war der erste Altar, den
@@ -250,7 +243,7 @@ sterben.
 die Rettung Israels getan hat? Das darf nicht sein! So wahr der Herr
 lebt: Ihm soll kein Haar gekrümmt werden. Denn nur mit Gottes Hilfe hat
 er heute diese Tat vollbracht. So befreite das Volk Jonatan und er
-brauchte nicht zu sterben. ^{[[#fn8][8]]}
+brauchte nicht zu sterben. [fn:8]
 
 <<v46>>
 46 Saul aber gab die Verfolgung der Philister auf und zog wieder hinauf
@@ -258,14 +251,12 @@ und die Philister kehrten in ihre Städte zurück.\\
 \\
 
 <<v47>>
-**** Die Kriege Sauls: 14,47-48
-     :PROPERTIES:
-     :CUSTOM_ID: die-kriege-sauls-1447-48
-     :END:
+* Die Kriege Sauls: 14,47-48
+
 47 Als Saul die Königswürde über Israel erlangt hatte, führte er ringsum
 mit all seinen Feinden Krieg: mit Moab und den Ammonitern, mit Edom und
 den Königen von Zoba und mit den Philistern. Wohin er sich auch wandte,
-war er siegreich. ^{[[#fn9][9]]}
+war er siegreich. [fn:9]
 
 <<v48>>
 48 Er vollbrachte tapfere Taten, schlug Amalek und befreite Israel aus
@@ -273,17 +264,14 @@ der Gewalt derer, die es ausraubten.\\
 \\
 
 <<v49>>
-**** Sauls Familie: 14,49-52
-     :PROPERTIES:
-     :CUSTOM_ID: sauls-familie-1449-52
-     :END:
+* Sauls Familie: 14,49-52
+
 49 Die Söhne Sauls waren Jonatan, Jischwi und Malkischua. Die ältere
 seiner beiden Töchter hieß Merab, die jüngere Michal.
 
 <<v50>>
 50 Sauls Frau hieß Ahinoam; sie war eine Tochter des Ahimaaz. Sein
-Heerführer hieß Abner; er war ein Sohn Ners, des Onkels Sauls;
-^{[[#fn10][10]]}
+Heerführer hieß Abner; er war ein Sohn Ners, des Onkels Sauls; [fn:10]
 
 <<v51>>
 51 Kisch, der Vater Sauls, und Ner, der Vater Abners, waren Söhne
@@ -295,29 +283,29 @@ lebte. Jeden starken und kriegstüchtigen Mann, den Saul sah, nahm er in
 seinen Dienst.\\
 \\
 
-^{[[#fnm1][1]]} Da ergriffen sie die Flucht: Text korr.; H: Da fielen
-sie um.
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 7,10
+[fn:1] Da ergriffen sie die Flucht: Text korr.; H: Da fielen sie um.
 
-^{[[#fnm3][3]]} 18f: Saul wollte vermutlich Gott befragen, was zu tun
-sei.
+[fn:2] [[file:1.Sam_7.org::v10][7,10]]
 
-^{[[#fnm4][4]]} Der erste Teil des Verses ist verderbt, die Übersetzung
+[fn:3] 18f: Saul wollte vermutlich Gott befragen, was zu tun sei.
+
+[fn:4] Der erste Teil des Verses ist verderbt, die Übersetzung
 ein Versuch.
 
-^{[[#fnm5][5]]} ℘ Lev 3,17
+[fn:5] [[file:Lev_3.org::v17][Lev 3,17]]
 
-^{[[#fnm6][6]]} So die vielfach angenommene Deutung von H. Andere
+[fn:6] So die vielfach angenommene Deutung von H. Andere
 Übersetzungsmöglichkeit: Und das Volk aß über dem Blut, d. h. auf der
 Stelle, auf die das Blut geflossen war; dadurch wurde sie heiliger
 Bereich.
 
-^{[[#fnm7][7]]} alles, was: Text korr. nach G. - Der große Stein (V. 32)
+[fn:7] alles, was: Text korr. nach G. - Der große Stein (V. 32)
 dient als Altar; das Blut als Sitz des Lebens gehört Gott.
 
-^{[[#fnm8][8]]} ℘ 11,13
+[fn:8] [[file:1.Sam_11.org::v13][11,13]]
 
-^{[[#fnm9][9]]} war er siegreich: Text korr. nach G; H: frevelte er.
+[fn:9] war er siegreich: Text korr. nach G; H: frevelte er.
 
-^{[[#fnm10][10]]} ℘ 2 Sam 2,8
+[fn:10] [[file:2.Sam_2.org::v8][2 Sam 2,8]]

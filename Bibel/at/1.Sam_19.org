@@ -1,30 +1,24 @@
-:PROPERTIES:
-:ID:       8ae610b6-1e17-4197-b2a1-6e7622b712ad
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das erste Buch Samuel* --
-[[file:1.Sam_1.html][1]] ... [[file:1.Sam_17.html][17]]
-[[file:1.Sam_18.html][18]] *19* [[file:1.Sam_20.html][20]]
-[[file:1.Sam_21.html][21]] ... [[file:1.Sam_31.html][31]]
+#+TITLE: 1 Sam 19 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-06 Mo 22:42]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Sam 19.html
 
---------------
-
-* 1.Sam 19
-  :PROPERTIES:
-  :CUSTOM_ID: sam-19
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Jonatans Vermittlung: 19,1-7
-     :PROPERTIES:
-     :CUSTOM_ID: jonatans-vermittlung-191-7
-     :END:
+* Jonatans Vermittlung: 19,1-7
+
 1 Saul redete vor seinem Sohn Jonatan und vor allen seinen Dienern
 davon, dass er David töten wolle. Sauls Sohn Jonatan aber hatte David
-sehr gern; ^{[[#fn1][1]]}
+sehr gern; [fn:1]
 
 <<v2>>
 2 deshalb berichtete er David davon und sagte: Mein Vater Saul will dich
@@ -47,8 +41,7 @@ für dich sehr nützlich gewesen.
 5 Er hat sein Leben aufs Spiel gesetzt und den Philister erschlagen. Der
 Herr hat (durch ihn) ganz Israel viel Hilfe gebracht. Du hast es selbst
 gesehen und dich darüber gefreut. Warum willst du dich nun versündigen
-und unschuldiges Blut vergießen, indem du David ohne jeden Grund tötest?
-^{[[#fn2][2]]}
+und unschuldiges Blut vergießen, indem du David ohne jeden Grund tötest? [fn:2]
 
 <<v6>>
 6 Saul hörte auf Jonatan und schwor: So wahr der Herr lebt: David soll
@@ -60,10 +53,8 @@ zu Saul und David war wieder in Sauls Dienst wie vorher.\\
 \\
 
 <<v8>>
-**** Davids Flucht: 19,8-24
-     :PROPERTIES:
-     :CUSTOM_ID: davids-flucht-198-24
-     :END:
+* Davids Flucht: 19,8-24
+
 8 Der Krieg ging weiter und David zog wieder gegen die Philister in den
 Kampf. Er brachte ihnen eine schwere Niederlage bei und sie ergriffen
 die Flucht.
@@ -71,7 +62,7 @@ die Flucht.
 <<v9>>
 9 Doch wieder kam vom Herrn ein böser Geist über Saul, während er in
 seinem Haus saß und den Speer in der Hand hielt und David auf der Zither
-spielte. ^{[[#fn3][3]]}
+spielte. [fn:3]
 
 <<v10>>
 10 Da versuchte Saul, David mit dem Speer an die Wand zu spießen; aber
@@ -91,7 +82,7 @@ in Sicherheit bringen konnte.
 <<v13>>
 13 Dann nahm Michal das Götterbild, legte es in Davids Bett, umgab
 seinen Kopf mit einem Geflecht von Ziegenhaaren und deckte es mit einem
-Kleidungsstück zu. ^{[[#fn4][4]]}
+Kleidungsstück zu. [fn:4]
 
 <<v14>>
 14 Als nun Saul die Boten schickte, die David holen sollten, sagte sie:
@@ -114,8 +105,7 @@ bringe ich dich um.
 <<v18>>
 18 David floh also und brachte sich in Sicherheit. Er kam zu Samuel nach
 Rama und erzählte ihm alles, was Saul ihm angetan hatte. Dann ging er
-zusammen mit Samuel ins Prophetenhaus und beide blieben dort.
-^{[[#fn5][5]]}
+zusammen mit Samuel ins Prophetenhaus und beide blieben dort. [fn:5]
 
 <<v19>>
 19 Als man nun Saul berichtete: David ist in Rama, und zwar im
@@ -125,7 +115,7 @@ Prophetenhaus!,
 20 da schickte Saul Boten, um David holen zu lassen. Sobald sie die
 Schar der Propheten mit Samuel an ihrer Spitze in prophetischer
 Verzückung sahen, kam der Geist Gottes auch über die Boten Sauls und
-auch sie gerieten in Verzückung. ^{[[#fn6][6]]}
+auch sie gerieten in Verzückung. [fn:6]
 
 <<v21>>
 21 Als man Saul das meldete, schickte er andere Boten; aber auch sie
@@ -145,22 +135,22 @@ bis er zum Prophetenhaus in Rama kam.
 <<v24>>
 24 Er zog sogar seine Kleider aus und blieb auch in Samuels Gegenwart in
 Verzückung. Den ganzen Tag und die ganze Nacht über lag er nackt da.
-Deshalb sagt man: Ist denn auch Saul unter den Propheten?
-^{[[#fn7][7]]}\\
+Deshalb sagt man: Ist denn auch Saul unter den Propheten? [fn:7]\\
 \\
 
-^{[[#fnm1][1]]} ℘ 18,3
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 17,50
+[fn:1] [[file:1.Sam_18.org::v3][18,3]]
 
-^{[[#fnm3][3]]} ℘ 16,14
+[fn:2] [[file:1.Sam_17.org::v50][17,50]]
 
-^{[[#fnm4][4]]} Götterbild: H: Terafim (ein Kultobjekt unbekannter
-Form).
+[fn:3] [[file:1.Sam_16.org::v14][16,14]]
 
-^{[[#fnm5][5]]} 18f: Prophetenhaus: in H ein Wort unsicherer Bedeutung;
+[fn:4] Götterbild: H: Terafim (ein Kultobjekt unbekannter Form).
+
+[fn:5] 18f: Prophetenhaus: in H ein Wort unsicherer Bedeutung;
 es dürfte sich um eine Prophetenniederlassung handeln (vgl. 2 Kön 6,1f).
 
-^{[[#fnm6][6]]} ℘ (20-24) 10,10-12
+[fn:6] (20-24) [[file:1.Sam_10.org::v10][10,10-12]]
 
-^{[[#fnm7][7]]} ℘ 10,12
+[fn:7] [[file:1.Sam_10.org::v12][10,12]]

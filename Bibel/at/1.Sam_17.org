@@ -1,30 +1,23 @@
-:PROPERTIES:
-:ID:       2bd8b3ec-196b-43d3-b44c-604eaa4ad188
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das erste Buch Samuel* --
-[[file:1.Sam_1.html][1]] ... [[file:1.Sam_15.html][15]]
-[[file:1.Sam_16.html][16]] *17* [[file:1.Sam_18.html][18]]
-[[file:1.Sam_19.html][19]] ... [[file:1.Sam_31.html][31]]
-
---------------
-
-* 1.Sam 17
-  :PROPERTIES:
-  :CUSTOM_ID: sam-17
-  :END:
+#+TITLE: 1 Sam 17 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-06 Mo 22:07]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Sam 17.html
 
 <<verses>>
 
 <<v1>>
-**** David und Goliat: 17,1-58
-     :PROPERTIES:
-     :CUSTOM_ID: david-und-goliat-171-58
-     :END:
+* David und Goliat: 17,1-58
+
 1 Die Philister zogen ihre Truppen zum Kampf zusammen. Sie versammelten
 sich bei Socho, das zu Juda gehört, und schlugen zwischen Socho und
-Aseka in Efes-Dammim ihr Lager auf. ^{[[#fn1][1]]}
+Aseka in Efes-Dammim ihr Lager auf. [fn:1]
 
 <<v2>>
 2 Auch Saul und die Männer Israels sammelten sich; sie schlugen ihr
@@ -73,8 +66,7 @@ erschraken sie und hatten große Angst.
 
 <<v12>>
 12 David war der Sohn eines Efratiters namens Isai aus Betlehem in Juda,
-der acht Söhne hatte. Zur Zeit Sauls war Isai bereits alt und betagt.
-^{[[#fn2][2]]}
+der acht Söhne hatte. Zur Zeit Sauls war Isai bereits alt und betagt. [fn:2]
 
 <<v13>>
 13 Die drei ältesten Söhne Isais waren zusammen mit Saul in den Krieg
@@ -87,7 +79,7 @@ Schima.
 
 <<v15>>
 15 David kehrte öfters vom Hof Sauls nach Betlehem zurück, um die Schafe
-seines Vaters zu hüten. ^{[[#fn3][3]]}
+seines Vaters zu hüten. [fn:3]
 
 <<v16>>
 16 Der Philister kam jeden Morgen und Abend und stellte sich kampfbereit
@@ -217,8 +209,7 @@ schritt vor ihm her.
 
 <<v42>>
 42 Voll Verachtung blickte der Philister David an, als er ihn sah; denn
-David war noch sehr jung, er war blond und von schöner Gestalt.
-^{[[#fn4][4]]}
+David war noch sehr jung, er war blond und von schöner Gestalt. [fn:4]
 
 <<v43>>
 43 Der Philister sagte zu David: Bin ich denn ein Hund, dass du mit
@@ -268,7 +259,7 @@ Als die Philister sahen, dass ihr starker Mann tot war, flohen sie.
 52 Die Männer von Israel und Juda aber griffen an, erhoben das
 Kriegsgeschrei und verfolgten die Philister bis nach Gat und bis vor die
 Tore von Ekron. Von Schaarajim bis nach Gat und Ekron lagen die
-erschlagenen Philister am Weg. ^{[[#fn5][5]]}
+erschlagenen Philister am Weg. [fn:5]
 
 <<v53>>
 53 Nach der Verfolgung kehrten die Israeliten zurück und plünderten das
@@ -276,7 +267,7 @@ Lager der Philister.
 
 <<v54>>
 54 David nahm den Kopf des Philisters und brachte ihn nach Jerusalem.
-Goliats Waffen aber legte er in sein Zelt. ^{[[#fn6][6]]}
+Goliats Waffen aber legte er in sein Zelt. [fn:6]
 
 <<v55>>
 55 Als Saul David dem Philister entgegengehen sah, sagte er zu Abner,
@@ -296,17 +287,19 @@ Philisters noch in der Hand.
 Der Sohn deines Knechtes Isai aus Betlehem.\\
 \\
 
-^{[[#fnm1][1]]} Socho: westlich von Betlehem. - Der Text des Kapitels
+* Footnotes
+
+[fn:1] Socho: westlich von Betlehem. - Der Text des Kapitels
 lässt erkennen, dass verschiedene Überlieferungen über David miteinander
 verbunden wurden.
 
-^{[[#fnm2][2]]} ℘ 16,10
+[fn:2] [[file:1.Sam_16.org::v10][16,10]]
 
-^{[[#fnm3][3]]} ℘ 18,2
+[fn:3] [[file:1.Sam_18.org::v2][18,2]]
 
-^{[[#fnm4][4]]} ℘ 16,12
+[fn:4] [[file:1 Sam 16::v12][16,12]]
 
-^{[[#fnm5][5]]} nach Gat: Text korr., vgl. G und die zweite Vershälfte;
+[fn:5] nach Gat: Text korr., vgl. G und die zweite Vershälfte;
 H: bis zu einem Tal.
 
-^{[[#fnm6][6]]} ℘ 21,10
+[fn:6] [[file:1.Sam_21.org::v10][21,10]]

@@ -1,35 +1,29 @@
-:PROPERTIES:
-:ID:       27ec1b09-ff74-4dcf-b014-9231846a6ec7
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das erste Buch Samuel* --
-[[file:1.Sam_1.html][1]] ... [[file:1.Sam_13.html][13]]
-[[file:1.Sam_14.html][14]] *15* [[file:1.Sam_16.html][16]]
-[[file:1.Sam_17.html][17]] ... [[file:1.Sam_31.html][31]]
+#+TITLE: 1 Sam 15 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-06 Mo 21:44]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Sam 15.html
 
---------------
-
-* 1.Sam 15
-  :PROPERTIES:
-  :CUSTOM_ID: sam-15
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Der Krieg gegen die Amalekiter. Sauls Verstoßung: 15,1-35
-     :PROPERTIES:
-     :CUSTOM_ID: der-krieg-gegen-die-amalekiter.-sauls-verstoßung-151-35
-     :END:
+* Der Krieg gegen die Amalekiter. Sauls Verstoßung: 15,1-35
+
 1 Samuel sagte zu Saul: Der Herr hatte mich gesandt, um dich zum König
 seines Volkes Israel zu salben. Darum gehorche jetzt den Worten des
-Herrn! ^{[[#fn1][1]]}
+Herrn! [fn:1]
 
 <<v2>>
 2 So spricht der Herr der Heere: Ich habe beobachtet, was Amalek Israel
 angetan hat: Es hat sich ihm in den Weg gestellt, als Israel aus Ägypten
-heraufzog. ^{[[#fn2][2]]}
+heraufzog. [fn:2]
 
 <<v3>>
 3 Darum zieh jetzt in den Kampf und schlag Amalek! Weihe alles, was ihm
@@ -49,11 +43,11 @@ einen Hinterhalt.
 der Amalekiter, damit ich euch nicht zusammen mit ihnen vernichte; denn
 ihr habt euch gegenüber allen Israeliten freundlich verhalten, als sie
 aus Ägypten heraufzogen. Da verließen die Keniter das Gebiet der
-Amalekiter. ^{[[#fn3][3]]}
+Amalekiter. [fn:3]
 
 <<v7>>
 7 Saul aber schlug die Amalekiter (im ganzen Gebiet) zwischen Hawila und
-der Gegend von Schur, das Ägypten gegenüberliegt. ^{[[#fn4][4]]}
+der Gegend von Schur, das Ägypten gegenüberliegt. [fn:4]
 
 <<v8>>
 8 Agag, den König von Amalek, brachte er lebend in seine Gewalt; das
@@ -63,8 +57,7 @@ ganze Volk aber weihte er mit scharfem Schwert dem Untergang.
 9 Saul und das Volk schonten Agag, ebenso auch die besten von den
 Schafen und Rindern, nämlich das Mastvieh und die Lämmer, sowie alles,
 was sonst noch wertvoll war. Das wollten sie nicht dem Untergang weihen.
-Nur alles Minderwertige und Wertlose weihten sie dem Untergang.
-^{[[#fn5][5]]}
+Nur alles Minderwertige und Wertlose weihten sie dem Untergang. [fn:5]
 
 <<v10>>
 10 Deshalb erging das Wort des Herrn an Samuel:
@@ -78,7 +71,7 @@ Samuel sehr und er schrie die ganze Nacht zum Herrn.
 12 Am nächsten Morgen machte sich Samuel auf den Weg und ging Saul
 entgegen. Man hatte Samuel mitgeteilt: Saul ist nach Karmel gekommen und
 hat sich (dort) ein Denkmal errichtet; dann ist er umgekehrt und nach
-Gilgal hinab weitergezogen. ^{[[#fn6][6]]}
+Gilgal hinab weitergezogen. [fn:6]
 
 <<v13>>
 13 Als Samuel nun zu Saul kam, sagte Saul zu ihm: Gesegnet seist du vom
@@ -100,7 +93,7 @@ Herr mir heute Nacht gesagt hat. Saul antwortete: Sprich!
 <<v17>>
 17 Samuel sagte: Bist du nicht, obwohl du dir gering vorkommst, das
 Haupt der Stämme Israels? Der Herr hat dich zum König von Israel
-gesalbt. ^{[[#fn7][7]]}
+gesalbt. [fn:7]
 
 <<v18>>
 18 Dann hat dich der Herr auf den Weg geschickt und gesagt: Geh und
@@ -109,8 +102,7 @@ bis du sie vernichtet hast.
 
 <<v19>>
 19 Warum hast du nicht auf die Stimme des Herrn gehört, sondern hast
-dich auf die Beute gestürzt und getan, was dem Herrn missfällt?
-^{[[#fn8][8]]}
+dich auf die Beute gestürzt und getan, was dem Herrn missfällt? [fn:8]
 
 <<v20>>
 20 Saul erwiderte Samuel: Ich habe doch auf die Stimme des Herrn gehört;
@@ -138,7 +130,7 @@ gleiche Gefallen /\\
  Widerspenstigkeit ist ebenso (schlimm) /\\
  wie Frevel und Götzendienst. /\\
  Weil du das Wort des Herrn verworfen hast, /\\
- verwirft er dich als König. ^{[[#fn9][9]]}\\
+ verwirft er dich als König. [fn:9]\\
 \\
 
 <<v24>>
@@ -161,12 +153,11 @@ seines Mantels, doch der riss ab.
 
 <<v28>>
 28 Da sagte Samuel zu ihm: So entreißt dir heute der Herr die Herrschaft
-über Israel und gibt sie einem anderen, der besser ist als du.
-^{[[#fn10][10]]}
+über Israel und gibt sie einem anderen, der besser ist als du. [fn:10]
 
 <<v29>>
 29 Er, der ewige Ruhm Israels, kann weder lügen noch bereuen. Er ist
-doch kein Mensch, sodass er etwas bereuen müsste. ^{[[#fn11][11]]}
+doch kein Mensch, sodass er etwas bereuen müsste. [fn:11]
 
 <<v30>>
 30 Saul erwiderte: Ich habe gesündigt; erweise mir aber jetzt vor den
@@ -196,30 +187,32 @@ Gibea-Saul.
 <<v35>>
 35 Samuel sah Saul vor dem Tag seines Todes nicht mehr. Samuel trauerte
 um Saul, weil es den Herrn reute, dass er Saul zum König über Israel
-gemacht hatte. ^{[[#fn12][12]]}\\
+gemacht hatte. [fn:12]\\
 \\
 
-^{[[#fnm1][1]]} ℘ 10,1
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ Ex 17,8-16; Dtn 25,17-19
+[fn:1] [[file:1.Sam_10.org::v1][10,1]]
 
-^{[[#fnm3][3]]} ℘ Ri 1,16
+[fn:2] [[file:Ex_17.org::v8][Ex 17,8-16]]; [[file:Dtn_25.org::v17][Dtn 25,17-19]]
 
-^{[[#fnm4][4]]} ℘ Gen 20,1; 25,18
+[fn:3] [[file:Ri_1.org::v16][Ri 1,16]]
 
-^{[[#fnm5][5]]} das Mastvieh: Text korr. nach der aramäischen
+[fn:4] [[file:Gen_20.org::v1][Gen 20,1]]; [[file:Gen_25.org::v18][25,18]]
+
+[fn:5] das Mastvieh: Text korr. nach der aramäischen
 Übersetzung; H: die zweiten.
 
-^{[[#fnm6][6]]} Karmel: südlich von Hebron.
+[fn:6] Karmel: südlich von Hebron.
 
-^{[[#fnm7][7]]} ℘ 9,21
+[fn:7] [[file:1.Sam_9.org::v21][9,21]]
 
-^{[[#fnm8][8]]} ℘ 28,18; 1 Chr 10,13
+[fn:8] [[file:1.Sam_28.org::v18][28,18]]; [[file:1.Chr_10.org::v13][1 Chr 10,13]]
 
-^{[[#fnm9][9]]} ℘ 16,1
+[fn:9] [[file:1.Sam_16.org::v1][16,1]]
 
-^{[[#fnm10][10]]} ℘ 28,17
+[fn:10] [[file:1.Sam_28.org::v17][28,17]]
 
-^{[[#fnm11][11]]} ℘ Num 23,19
+[fn:11] [[file:Num_23.org::v19][Num 23,19]]
 
-^{[[#fnm12][12]]} ℘ 19,18-24
+[fn:12] [[file:1.Sam_19.org::v18][19,18-24]]
