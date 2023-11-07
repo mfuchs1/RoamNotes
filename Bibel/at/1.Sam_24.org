@@ -1,29 +1,22 @@
-:PROPERTIES:
-:ID:       d51905f5-a071-4671-b1e1-edbd66feabf3
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das erste Buch Samuel* --
-[[file:1.Sam_1.html][1]] ... [[file:1.Sam_22.html][22]]
-[[file:1.Sam_23.html][23]] *24* [[file:1.Sam_25.html][25]]
-[[file:1.Sam_26.html][26]] ... [[file:1.Sam_31.html][31]]
-
---------------
-
-* 1.Sam 24
-  :PROPERTIES:
-  :CUSTOM_ID: sam-24
-  :END:
+#+TITLE: 1 Sam 24 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-07 Di 11:58]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Sam 24.html
 
 <<verses>>
 
 <<v1>>
-**** Davids Achtung vor Sauls Leben: 24,1-23
-     :PROPERTIES:
-     :CUSTOM_ID: davids-achtung-vor-sauls-leben-241-23
-     :END:
+* Davids Achtung vor Sauls Leben: 24,1-23
+
 1 Von dort zog David hinauf und setzte sich in den schwer zugänglichen
-Bergen bei En-Gedi fest. ^{[[#fn1][1]]}
+Bergen bei En-Gedi fest. [fn:1]
 
 <<v2>>
 2 Als Saul von der Verfolgung der Philister zurückkehrte, berichtete man
@@ -46,12 +39,12 @@ schnitt heimlich einen Zipfel von Sauls Mantel ab.
 
 <<v6>>
 6 Hinterher aber schlug David das Gewissen, weil er einen Zipfel vom
-Mantel Sauls abgeschnitten hatte. ^{[[#fn2][2]]}
+Mantel Sauls abgeschnitten hatte. [fn:2]
 
 <<v7>>
 7 Er sagte zu seinen Männern: Der Herr bewahre mich davor, meinem
 Gebieter, dem Gesalbten des Herrn, so etwas anzutun und Hand an ihn zu
-legen; denn er ist der Gesalbte des Herrn. ^{[[#fn3][3]]}
+legen; denn er ist der Gesalbte des Herrn. [fn:3]
 
 <<v8>>
 8 Und David fuhr seine Leute mit scharfen Worten an und ließ nicht zu,
@@ -71,8 +64,7 @@ die sagen: Gib acht, David will dein Verderben.
 11 Doch heute kannst du mit eigenen Augen sehen, dass der Herr dich
 heute in der Höhle in meine Gewalt gegeben hat. Man hat mir gesagt, ich
 solle dich töten; aber ich habe dich geschont. Ich sagte: Ich will nicht
-die Hand an meinen Herrn legen; denn er ist der Gesalbte des Herrn.
-^{[[#fn4][4]]}
+die Hand an meinen Herrn legen; denn er ist der Gesalbte des Herrn. [fn:4]
 
 <<v12>>
 12 Sieh her, mein Vater! Hier, der Zipfel deines Mantels ist in meiner
@@ -87,11 +79,11 @@ dir rächen; aber meine Hand wird dich nicht anrühren,
 
 <<v14>>
 14 wie das alte Sprichwort sagt: Von den Frevlern geht Frevel aus; aber
-meine Hand soll dich nicht anrühren. ^{[[#fn5][5]]}
+meine Hand soll dich nicht anrühren. [fn:5]
 
 <<v15>>
 15 Hinter wem zieht der König von Israel her? Wem jagst du nach? Einem
-toten Hund, einem einzigen Floh! ^{[[#fn6][6]]}
+toten Hund, einem einzigen Floh! [fn:6]
 
 <<v16>>
 16 Der Herr soll unser Richter sein und zwischen mir und dir
@@ -129,16 +121,18 @@ wirst.
 Männer stiegen wieder in die unzugänglichen Berge hinauf.\\
 \\
 
-^{[[#fnm1][1]]} En-Gedi: am Westufer des Toten Meeres.
+* Footnotes
 
-^{[[#fnm2][2]]} 6f: Die Tat konnte auch symbolisch als Wegreißen der
+[fn:1] En-Gedi: am Westufer des Toten Meeres.
+
+[fn:2] 6f: Die Tat konnte auch symbolisch als Wegreißen der
 Herrschaft oder Minderung der Lebenskraft verstanden werden.
 
-^{[[#fnm3][3]]} ℘ 26,9; 2 Sam 1,14
+[fn:3] [[file:1.Sam_26.org::v9][26,9]]; [[file:2.Sam_1.org::v14][2 Sam 1,14]]
 
-^{[[#fnm4][4]]} Ich habe dich geschont: Text korr., vgl. die alten
+[fn:4] Ich habe dich geschont: Text korr., vgl. die alten
 Übersetzungen.
 
-^{[[#fnm5][5]]} David will sagen: Ich bin kein Frevler.
+[fn:5] David will sagen: Ich bin kein Frevler.
 
-^{[[#fnm6][6]]} ℘ 26,20
+[fn:6] [[file:1.Sam_26.org::v20][26,20]] 

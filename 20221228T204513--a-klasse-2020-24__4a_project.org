@@ -170,6 +170,14 @@ Hefteintrag
 |         2 |           3 |   2 |         3 |        2.5 |
 #+TBLFM: $5=vmean($1..$4)
 
+*** [[denote:20230711T003636][[SW10] Buddhismus]]
+:PROPERTIES:
+:CAPTURED: [2023-11-07 Di 09:12]
+:CLASS: [2023-11-07 Di 08:40] 2. Stunde
+:END:
+
+Luis, Adrian und Niko machen so gut wie gar nichts. Niko schon - jetzt. Luis und Adrian machen weiterhin nix - kein Buch am Tisch, nix. SchoolFox Nachricht? Wird ein Dreier, max ein Zweier.
+
 
 ** Adrian Lamprecht
 :PROPERTIES:

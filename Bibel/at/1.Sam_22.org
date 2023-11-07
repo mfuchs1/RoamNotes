@@ -1,26 +1,23 @@
-:PROPERTIES:
-:ID:       88af4826-afbe-4fc0-b993-6c1aa0bbc8e0
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das erste Buch Samuel* --
-[[file:1.Sam_1.html][1]] ... [[file:1.Sam_20.html][20]]
-[[file:1.Sam_21.html][21]] *22* [[file:1.Sam_23.html][23]]
-[[file:1.Sam_24.html][24]] ... [[file:1.Sam_31.html][31]]
-
---------------
+#+TITLE: 1 Sam 22 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-07 Di 11:47]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Sam 22.html
 
 * 1.Sam 22
-  :PROPERTIES:
-  :CUSTOM_ID: sam-22
-  :END:
 
 <<verses>>
 
 <<v1>>
 1 Darum ging David von dort weg und brachte sich in der Höhle von
 Adullam in Sicherheit. Als seine Brüder und seine Familie davon hörten,
-kamen sie zu ihm hinab. ^{[[#fn1][1]]}
+kamen sie zu ihm hinab. [fn:1]
 
 <<v2>>
 2 Auch schlossen sich ihm viele Männer an, die unter Druck standen,
@@ -39,14 +36,12 @@ solange David sich in den unzugänglichen Bergen aufhielt.
 <<v5>>
 5 Der Prophet Gad aber sagte zu David: Bleib nicht in den Bergen,
 sondern zieh weg und geh wieder ins Land Juda! Und David zog weg und kam
-nach Jaar-Heret. ^{[[#fn2][2]]}\\
+nach Jaar-Heret. [fn:2]\\
 \\
 
 <<v6>>
-**** Sauls Rache an den Priestern von Nob: 22,6-23
-     :PROPERTIES:
-     :CUSTOM_ID: sauls-rache-an-den-priestern-von-nob-226-23
-     :END:
+* Sauls Rache an den Priestern von Nob: 22,6-23
+
 6 Saul hörte, David und die Männer, die er bei sich hatte, seien
 entdeckt worden. Er saß gerade in Gibea unter der Tamariske auf der
 Höhe. Er hatte den Speer in der Hand und alle seine Diener standen um
@@ -68,7 +63,7 @@ der Fall ist.
 <<v9>>
 9 Da antwortete der Edomiter Doëg, der bei den Dienern Sauls stand: Ich
 habe den Sohn Isais gesehen, wie er gerade nach Nob zu Ahimelech, dem
-Sohn Ahitubs, kam. ^{[[#fn3][3]]}
+Sohn Ahitubs, kam. [fn:3]
 
 <<v10>>
 10 Ahimelech befragte für ihn den Herrn und gab ihm Verpflegung; auch
@@ -124,7 +119,7 @@ und Frauen, die Kinder und Säuglinge, die Rinder, Esel und Schafe
 
 <<v20>>
 20 Nur ein einziger Sohn Ahimelechs, des Sohnes Ahitubs, namens Abjatar
-konnte sich in Sicherheit bringen und zu David fliehen. ^{[[#fn4][4]]}
+konnte sich in Sicherheit bringen und zu David fliehen. [fn:4]
 
 <<v21>>
 21 Abjatar berichtete David, dass Saul die Priester des Herrn umgebracht
@@ -133,23 +128,24 @@ hatte.
 <<v22>>
 22 Da sagte David zu Abjatar: Ich wusste schon an jenem Tag, als der
 Edomiter Doëg dort war, dass er Saul bestimmt alles berichten werde. Ich
-selbst bin schuld am Tod all der Leute aus dem Haus deines Vaters.
-^{[[#fn5][5]]}
+selbst bin schuld am Tod all der Leute aus dem Haus deines Vaters. [fn:5]
 
 <<v23>>
 23 Bleib bei mir, fürchte dich nicht; denn der, der mir nach dem Leben
 trachtet, trachtet auch dir nach dem Leben; bei mir bist du in
-Sicherheit. ^{[[#fn6][6]]}\\
+Sicherheit. [fn:6]\\
 \\
 
-^{[[#fnm1][1]]} Adullam: südwestlich von Jerusalem.
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 2 Sam 24,11; 1 Chr 29,29
+[fn:1] Adullam: südwestlich von Jerusalem.
 
-^{[[#fnm3][3]]} ℘ 21,8; Ps 52,2
+[fn:2] [[file:2.Sam_24.org::v11][2 Sam 24,11]]; [[file:1.Chr_29.org::v29][1 Chr 29,29]]
 
-^{[[#fnm4][4]]} ℘ 23,6; Mk 2,26
+[fn:3] [[file:1.Sam_21.org::v8][21,8]]; [[file:Ps_52.org::v2][Ps 52,2]]
 
-^{[[#fnm5][5]]} Ich selbst bin schuld: Text korr. nach G.
+[fn:4] [[file:1.Sam_23.org::v6][23,6]]; [[file:~/RoamNotes/notes/Bibel/nt/Mk_2.org::v26][Mk 2,26]]
 
-^{[[#fnm6][6]]} ℘ 1 Kön 2,26
+[fn:5] Ich selbst bin schuld: Text korr. nach G.
+
+[fn:6] [[file:1.Kön_2.org::v26][1 Kön 2,26]]

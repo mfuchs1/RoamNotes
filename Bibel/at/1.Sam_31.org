@@ -1,29 +1,23 @@
-:PROPERTIES:
-:ID:       23f8ad10-2ff4-4cf3-a7c0-3e1c17c929b6
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das erste Buch Samuel* --
-[[file:1.Sam_1.html][1]] ... [[file:1.Sam_29.html][29]]
-[[file:1.Sam_30.html][30]] *31*
-
---------------
-
-* 1.Sam 31
-  :PROPERTIES:
-  :CUSTOM_ID: sam-31
-  :END:
+#+TITLE: 1 Sam 31 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-07 Di 21:27]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Sam 31.html
 
 <<verses>>
 
 <<v1>>
-**** Sauls Ende: 31,1-13
-     :PROPERTIES:
-     :CUSTOM_ID: sauls-ende-311-13
-     :END:
+* Sauls Ende: 31,1-13
+
 1 Als die Philister gegen Israel kämpften, flohen die Israeliten vor
 ihnen; viele waren gefallen und lagen erschlagen auf dem Gebirge von
-Gilboa. ^{[[#fn1][1]]}
+Gilboa. [fn:1]
 
 <<v2>>
 2 Die Philister verfolgten Saul und seine Söhne und erschlugen Sauls
@@ -46,7 +40,7 @@ sein Schwert und starb zusammen mit Saul.
 
 <<v6>>
 6 So kamen Saul, seine drei Söhne, sein Waffenträger und alle seine
-Männer an jenem Tag gemeinsam ums Leben. ^{[[#fn2][2]]}
+Männer an jenem Tag gemeinsam ums Leben. [fn:2]
 
 <<v7>>
 7 Als die Israeliten auf der anderen Seite der Ebene und jenseits des
@@ -66,29 +60,31 @@ die Siegesnachricht zu übermitteln.
 
 <<v10>>
 10 Die Rüstung Sauls legten sie im Astartetempel nieder; seinen Leichnam
-aber hefteten sie an die Mauer von Bet-Schean. ^{[[#fn3][3]]}
+aber hefteten sie an die Mauer von Bet-Schean. [fn:3]
 
 <<v11>>
 11 Als die Einwohner von Jabesch-Gilead hörten, was die Philister mit
-Saul gemacht hatten, ^{[[#fn4][4]]}
+Saul gemacht hatten, [fn:4]
 
 <<v12>>
 12 brachen alle kriegstüchtigen Männer auf, marschierten die ganze Nacht
 hindurch und nahmen die Leiche Sauls und die Leichen seiner Söhne von
 der Mauer von Bet-Schean ab; sie brachten sie nach Jabesch und
-verbrannten sie dort. ^{[[#fn5][5]]}
+verbrannten sie dort. [fn:5]
 
 <<v13>>
 13 Dann nahmen sie die Gebeine, begruben sie unter der Tamariske von
 Jabesch und fasteten sieben Tage lang.\\
 \\
 
-^{[[#fnm1][1]]} ℘ (1-13) 1 Chr 10,1-12
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ (5-6) 28,19
+[fn:1] (1-13) [[file:1.Chr_10.org::v1][1 Chr 10,1-12]]
 
-^{[[#fnm3][3]]} Bet-Schean: südöstlich der Jesreelebene.
+[fn:2] (5-6) [[file:1.Sam_28.org::v19][28,19]]
 
-^{[[#fnm4][4]]} ℘ (11f) 11,1-11; 2 Sam 21,12
+[fn:3] Bet-Schean: südöstlich der Jesreelebene.
 
-^{[[#fnm5][5]]} sie brachten sie: Text korr. nach G; H: sie kamen.
+[fn:4] (11f) [[file:1.Sam_11.org::v1][11,1-11]]; [[file:2.Sam_21.org::v12][2 Sam 21,12]]
+
+[fn:5] sie brachten sie: Text korr. nach G; H: sie kamen.

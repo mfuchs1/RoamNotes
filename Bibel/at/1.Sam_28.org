@@ -1,19 +1,16 @@
-:PROPERTIES:
-:ID:       780c5e25-b3cd-417f-84e8-93c6633f1e7b
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das erste Buch Samuel* --
-[[file:1.Sam_1.html][1]] ... [[file:1.Sam_26.html][26]]
-[[file:1.Sam_27.html][27]] *28* [[file:1.Sam_29.html][29]]
-[[file:1.Sam_30.html][30]] [[file:1.Sam_31.html][31]]
-
---------------
+#+TITLE: 1 Sam 28 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-07 Di 21:19]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Sam 28.html
 
 * 1.Sam 28
-  :PROPERTIES:
-  :CUSTOM_ID: sam-28
-  :END:
 
 <<verses>>
 
@@ -29,19 +26,16 @@ für diese ganze Zeit zu meinem Leibwächter.\\
 \\
 
 <<v3>>
-**** Saul bei der Totenbeschwörerin von En-Dor: 28,3-25
-     :PROPERTIES:
-     :CUSTOM_ID: saul-bei-der-totenbeschwörerin-von-en-dor-283-25
-     :END:
+* Saul bei der Totenbeschwörerin von En-Dor: 28,3-25
+
 3 Samuel war gestorben und ganz Israel hatte die Totenklage für ihn
 gehalten und ihn in seiner Stadt Rama begraben. Saul aber hatte die
-Totenbeschwörer und die Wahrsager aus dem Land vertrieben.
-^{[[#fn1][1]]}
+Totenbeschwörer und die Wahrsager aus dem Land vertrieben. [fn:1]
 
 <<v4>>
 4 Als sich die Philister gesammelt hatten, rückten sie heran und
 schlugen bei Schunem ihr Lager auf. Saul versammelte ganz Israel und sie
-schlugen ihr Lager im (Bergland von) Gilboa auf. ^{[[#fn2][2]]}
+schlugen ihr Lager im (Bergland von) Gilboa auf. [fn:2]
 
 <<v5>>
 5 Als Saul das Lager der Philister sah, bekam er große Angst und sein
@@ -61,7 +55,7 @@ Totengeist Gewalt hat.
 8 Da machte sich Saul unkenntlich, zog andere Kleider an und ging mit
 zwei Männern zu der Frau. Sie kamen in der Nacht bei der Frau an und er
 sagte zu ihr: Wahrsage mir durch den Totengeist! Lass für mich den
-heraufsteigen, den ich dir nenne. ^{[[#fn3][3]]}
+heraufsteigen, den ich dir nenne. [fn:3]
 
 <<v9>>
 9 Die Frau antwortete ihm: Du weißt doch selbst, was Saul getan hat: Er
@@ -105,18 +99,18 @@ gewichen und ist dein Feind geworden.
 <<v17>>
 17 Er hat getan, was er durch mich angekündigt hatte: Der Herr hat dir
 das Königtum aus der Hand gerissen und hat es einem anderen, nämlich
-David, gegeben. ^{[[#fn4][4]]}
+David, gegeben. [fn:4]
 
 <<v18>>
 18 Weil du nicht auf die Stimme des Herrn gehört und seinen glühenden
 Zorn an Amalek nicht vollstreckt hast, darum hat dir der Herr heute das
-getan. ^{[[#fn5][5]]}
+getan. [fn:5]
 
 <<v19>>
 19 Der Herr wird auch Israel zusammen mit dir in die Gewalt der
 Philister geben und morgen wirst du samt deinen Söhnen bei mir sein;
 auch das Heerlager Israels wird der Herr in die Gewalt der Philister
-geben. ^{[[#fn6][6]]}
+geben. [fn:6]
 
 <<v20>>
 20 Da fiel Saul der Länge nach jäh zu Boden; so sehr war er über die
@@ -148,14 +142,16 @@ Eile, nahm Mehl, knetete Teig und backte ungesäuerte Brote.
 auf und gingen noch in der gleichen Nacht zurück.\\
 \\
 
-^{[[#fnm1][1]]} ℘ 25,1
+* Footnotes
 
-^{[[#fnm2][2]]} Gilboa: ein Bergzug im Südosten der Jesreelebene.
+[fn:1] [[file:1.Sam_25.org::v1][25,1]]
 
-^{[[#fnm3][3]]} ℘ 1 Chr 10,13
+[fn:2] Gilboa: ein Bergzug im Südosten der Jesreelebene.
 
-^{[[#fnm4][4]]} ℘ 15,28
+[fn:3] [[file:1.Chr_10.org::v13][1 Chr 10,13]]
 
-^{[[#fnm5][5]]} ℘ 15,18f; Ex 17,14-16
+[fn:4] [[file:1.Sam_15.org::v28][15,28]]
 
-^{[[#fnm6][6]]} ℘ 31,6
+[fn:5] [[file:1.Sam_15.org::v18][15,18f]]; [[file:Ex_17.org::v14][Ex 17,14-16]]
+
+[fn:6] [[file:1.Sam_31.org::v6][31,6]]

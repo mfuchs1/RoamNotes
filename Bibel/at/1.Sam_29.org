@@ -1,27 +1,20 @@
-:PROPERTIES:
-:ID:       633b1bbf-efbe-4aca-ac79-71b920ab85d1
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das erste Buch Samuel* --
-[[file:1.Sam_1.html][1]] ... [[file:1.Sam_27.html][27]]
-[[file:1.Sam_28.html][28]] *29* [[file:1.Sam_30.html][30]]
-[[file:1.Sam_31.html][31]]
-
---------------
-
-* 1.Sam 29
-  :PROPERTIES:
-  :CUSTOM_ID: sam-29
-  :END:
+#+TITLE: 1 Sam 29 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-07 Di 21:23]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Sam 29.html
 
 <<verses>>
 
 <<v1>>
-**** Davids Entlassung aus dem Heer der Philister: 29,1-11
-     :PROPERTIES:
-     :CUSTOM_ID: davids-entlassung-aus-dem-heer-der-philister-291-11
-     :END:
+* Davids Entlassung aus dem Heer der Philister: 29,1-11
+
 1 Die Philister versammelten ihr ganzes Heer bei Afek, während die
 Israeliten ihr Lager an der Quelle bei Jesreel aufgeschlagen hatten.
 
@@ -47,7 +40,7 @@ hier?
 
 <<v5>>
 5 Ist das nicht der gleiche David, von dem man beim Reigentanz gesungen
-hat: Saul hat Tausend erschlagen, David aber Zehntausend? ^{[[#fn1][1]]}
+hat: Saul hat Tausend erschlagen, David aber Zehntausend? [fn:1]
 
 <<v6>>
 6 Da rief Achisch David zu sich und sagte zu ihm: So wahr Jahwe lebt, du
@@ -82,4 +75,6 @@ er zog noch am Morgen weg und kehrte ins Land der Philister zurück; die
 Philister aber zogen nach Jesreel hinauf.\\
 \\
 
-^{[[#fnm1][1]]} ℘ 18,7
+* Footnotes
+
+[fn:1] [[file:1.Sam_18.org::v7][18,7]] 

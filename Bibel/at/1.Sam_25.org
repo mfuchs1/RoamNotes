@@ -1,35 +1,28 @@
-:PROPERTIES:
-:ID:       f7dc797f-f8e1-458d-81b2-845a93950153
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das erste Buch Samuel* --
-[[file:1.Sam_1.html][1]] ... [[file:1.Sam_23.html][23]]
-[[file:1.Sam_24.html][24]] *25* [[file:1.Sam_26.html][26]]
-[[file:1.Sam_27.html][27]] ... [[file:1.Sam_31.html][31]]
-
---------------
-
-* 1.Sam 25
-  :PROPERTIES:
-  :CUSTOM_ID: sam-25
-  :END:
+#+TITLE: 1 Sam 25 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-07 Di 12:02]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Sam 25.html
 
 <<verses>>
 
 <<v1>>
-**** David und Abigajil: 25,1-44
-     :PROPERTIES:
-     :CUSTOM_ID: david-und-abigajil-251-44
-     :END:
+* David und Abigajil: 25,1-44
+
 1 Samuel starb und ganz Israel versammelte sich und hielt für ihn die
 Totenklage. Man begrub ihn in seinem Haus in Rama. Danach brach David
-auf und zog in die Steppe Paran hinab. ^{[[#fn1][1]]}
+auf und zog in die Steppe Paran hinab. [fn:1]
 
 <<v2>>
 2 Damals lebte in Maon ein Mann, der sein Gut in Karmel hatte. Der Mann
 war sehr reich; er besaß dreitausend Schafe und tausend Ziegen. Er war
-eben dabei, in Karmel seine Schafe zu scheren. ^{[[#fn2][2]]}
+eben dabei, in Karmel seine Schafe zu scheren. [fn:2]
 
 <<v3>>
 3 Der Mann hieß Nabal und seine Frau Abigajil. Die Frau war klug und von
@@ -47,7 +40,7 @@ Friedensgruß
 
 <<v6>>
 6 und sagt so zu meinem Bruder: Friede sei mit dir, Friede mit deinem
-Haus, Friede mit allem, was dir gehört. ^{[[#fn3][3]]}
+Haus, Friede mit allem, was dir gehört. [fn:3]
 
 <<v7>>
 7 Ich habe soeben gehört, dass du bei der Schafschur bist. Nun sind
@@ -59,7 +52,7 @@ waren.
 8 Frag deine jungen Leute, sie werden es dir bestätigen. Mögen also
 meine jungen Männer dein Wohlwollen finden; wir sind ja an deinem
 Festtag gekommen. Darum gib deinen Knechten und deinem Sohn David, was
-du gerade zur Hand hast. ^{[[#fn4][4]]}
+du gerade zur Hand hast. [fn:4]
 
 <<v9>>
 9 Davids junge Leute kamen zu Nabal und redeten im Auftrag Davids, wie
@@ -127,7 +120,7 @@ wurde nichts vermisst, doch er hat mir Gutes mit Bösem vergolten.
 
 <<v22>>
 22 Gott möge mir dies und das antun, wenn ich von allem, was ihm gehört,
-bis zum Morgen auch nur einen Mann übriglasse. ^{[[#fn5][5]]}
+bis zum Morgen auch nur einen Mann übriglasse. [fn:5]
 
 <<v23>>
 23 Als Abigajil David sah, stieg sie schnell von ihrem Esel, warf sich
@@ -164,12 +157,11 @@ du lebst.
 29 Wenn sich aber ein Mensch erhebt, um dich zu verfolgen und dir nach
 dem Leben zu trachten, dann sei das Leben meines Herrn beim Herrn,
 deinem Gott, eingebunden in den Beutel des Lebens; das Leben deiner
-Feinde aber möge der Herr mit einer Schleuder fortschleudern.
-^{[[#fn6][6]]}
+Feinde aber möge der Herr mit einer Schleuder fortschleudern. [fn:6]
 
 <<v30>>
 30 Wenn dann der Herr meinem Herrn all das Gute erweist, das er dir
-versprochen hat, und dich zum Fürsten über Israel macht, ^{[[#fn7][7]]}
+versprochen hat, und dich zum Fürsten über Israel macht, [fn:7]
 
 <<v31>>
 31 dann sollst du nicht darüber stolpern und dein Gewissen soll meinem
@@ -201,7 +193,7 @@ habe auf dich gehört und dich gnädig aufgenommen.
 36 Als Abigajil zu Nabal kam, veranstaltete er in seinem Haus gerade ein
 Trinkgelage wie ein König. Nabal war in fröhlicher Stimmung, aber völlig
 betrunken. Darum erzählte sie ihm mit keinem Wort, was geschehen war,
-bis zum anderen Morgen. ^{[[#fn8][8]]}
+bis zum anderen Morgen. [fn:8]
 
 <<v37>>
 37 Als dann am Morgen der Rausch Nabals vorüber war, berichtete ihm
@@ -231,7 +223,7 @@ waschen.
 <<v42>>
 42 Dann machte sich Abigajil in aller Eile auf, setzte sich auf ihren
 Esel und ihre fünf Mägde folgten ihr. Sie zog den Boten Davids nach und
-wurde seine Frau. ^{[[#fn9][9]]}
+wurde seine Frau. [fn:9]
 
 <<v43>>
 43 Aus Jesreel hatte sich David zuvor schon Ahinoam zur Frau genommen.
@@ -239,30 +231,32 @@ So hatte er zwei Frauen.
 
 <<v44>>
 44 Saul aber hatte seine Tochter Michal, die Frau Davids, Palti, dem
-Sohn des Lajisch aus Gallim, gegeben. ^{[[#fn10][10]]}\\
+Sohn des Lajisch aus Gallim, gegeben. [fn:10]\\
 \\
 
-^{[[#fnm1][1]]} Paran ist ein Steppengebiet im Norden der
+* Footnotes
+
+[fn:1] Paran ist ein Steppengebiet im Norden der
 Sinaihalbinsel.
 
-^{[[#fnm2][2]]} Karmel: vgl. die Anmerkung zu 15,12.
+[fn:2] Karmel: vgl. die Anmerkung zu [[file:1.Sam_15.org::v12][15,12]].
 
-^{[[#fnm3][3]]} zu meinem Bruder: Text korr., vgl. Vg.
+[fn:3] zu meinem Bruder: Text korr., vgl. Vg.
 
-^{[[#fnm4][4]]} Die Schafschur wird mit einem Fest abgeschlossen (vgl.
+[fn:4] Die Schafschur wird mit einem Fest abgeschlossen (vgl.
 Sam 13,23).
 
-^{[[#fnm5][5]]} mir: Text korr., vgl. G; H: den Feinden Davids.
+[fn:5] mir: Text korr., vgl. G; H: den Feinden Davids.
 
-^{[[#fnm6][6]]} Die Wendung «Beutel des Lebens» hängt damit zusammen,
+[fn:6] Die Wendung «Beutel des Lebens» hängt damit zusammen,
 dass man kostbare Dinge (Münzen, Gold) in einem versiegelten Beutel
 aufbewahrt. So sorgfältig soll Davids Leben verwahrt werden.
 
-^{[[#fnm7][7]]} ℘ 2 Sam 5,2
+[fn:7] [[file:2.Sam_5.org::v2][2 Sam 5,2]]
 
-^{[[#fnm8][8]]} Der Versschluß lautet wörtlich: erzählte sie ihm weder
+[fn:8] Der Versschluß lautet wörtlich: erzählte sie ihm weder
 Kleines noch Großes bis zum Morgenlicht.
 
-^{[[#fnm9][9]]} ℘ 2 Sam 2,2
+[fn:9] [[file:2.Sam_2.org::v2][2 Sam 2,2]]
 
-^{[[#fnm10][10]]} ℘ 2 Sam 3,14f
+[fn:10] [[file:2.Sam_3.org::v14][2 Sam 3,14f]]
