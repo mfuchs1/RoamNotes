@@ -1,30 +1,22 @@
-:PROPERTIES:
-:ID:       4bebdb8d-7bc7-49e3-a410-67efa7abffe6
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch Samuel* --
-[[file:2.Sam_1.html][1]] [[file:2.Sam_2.html][2]]
-[[file:2.Sam_3.html][3]] *4* [[file:2.Sam_5.html][5]]
-[[file:2.Sam_6.html][6]] ... [[file:2.Sam_24.html][24]]
-
---------------
-
-* 2.Sam 4
-  :PROPERTIES:
-  :CUSTOM_ID: sam-4
-  :END:
+#+TITLE: 2 Sam 4 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-08 Mi 07:36]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Sam 4.html
 
 <<verses>>
 
 <<v1>>
-**** Ischbaals Tod: 4,1-12
-     :PROPERTIES:
-     :CUSTOM_ID: ischbaals-tod-41-12
-     :END:
+* Ischbaals Tod: 4,1-12
+
 1 Als Ischbaal, der Sohn Sauls, hörte, dass Abner in Hebron ums Leben
-gekommen war, verlor er allen Mut und ganz Israel war bestürzt.
-^{[[#fn1][1]]}
+gekommen war, verlor er allen Mut und ganz Israel war bestürzt. [fn:1]
 
 <<v2>>
 2 Der Sohn Sauls hatte zwei Männer als Truppenführer; der eine hieß
@@ -40,17 +32,16 @@ dort bis zum heutigen Tag als Fremde.
 war. Er war fünf Jahre alt gewesen, als die Nachricht vom Tod Sauls und
 Jonatans aus Jesreel eintraf; seine Amme hatte ihn aufgehoben, um mit
 ihm zu fliehen, aber in der Eile der Flucht war er ihr vom Arm gefallen;
-seitdem war er gelähmt. Sein Name war Merib-Baal.
-^{[[#fn2][2]][[#fn3][3]]}
+seitdem war er gelähmt. Sein Name war Merib-Baal. [fn:2] [fn:3]
 
 <<v5>>
 5 Rechab und Baana, die Söhne Rimmons aus Beerot, machten sich auf den
 Weg und kamen um die heißeste Zeit des Tages zum Haus Ischbaals, der
-eben seine Mittagsruhe hielt. ^{[[#fn4][4]]}
+eben seine Mittagsruhe hielt. [fn:4]
 
 <<v6>>
 6 Die Türhüterin des Hauses war beim Weizenreinigen schläfrig geworden
-und eingeschlafen; ^{[[#fn5][5]]}
+und eingeschlafen; [fn:5]
 
 <<v7>>
 7 so konnten Rechab und sein Bruder Baana unbemerkt in das Haus
@@ -71,8 +62,7 @@ Beerot: So wahr der Herr lebt, der mich aus aller Not befreit hat:
 <<v10>>
 10 Den, der mir die Nachricht gebracht hat: Saul ist tot!, und der
 gemeint hat, ein Freudenbote zu sein, den habe ich in Ziklag ergreifen
-und umbringen lassen; so gab ich ihm den verdienten Botenlohn.
-^{[[#fn6][6]]}
+und umbringen lassen; so gab ich ihm den verdienten Botenlohn. [fn:6]
 
 <<v11>>
 11 Und wenn nun ruchlose Männer einen rechtschaffenen Mann in seinem
@@ -86,17 +76,19 @@ von Hebron auf. Den Kopf Ischbaals aber nahmen sie und begruben ihn im
 Grab Abners in Hebron.\\
 \\
 
-^{[[#fnm1][1]]} ℘ 3,27
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 9,3
+[fn:1] [[file:2.Sam_3.org::v27][3,27]]
 
-^{[[#fnm3][3]]} Merib-Baal: So lautet der Name richtig (vgl. 1 Chr 8,34;
-9,40); er wurde ähnlich wie der Name Ischbaal (vgl. Anm. zu 2,8) in H
+[fn:2] [[file:2.Sam_9.org::v3][9,3]]
+
+[fn:3] Merib-Baal: So lautet der Name richtig (vgl. [[file:1.Chr_8.org::v34][1 Chr 8,34]]; [[file:1.Chr_9.org::v40][9,40]]);
+er wurde ähnlich wie der Name Ischbaal (vgl. Anm. zu [[file:2.Sam_2.org::v8][2,8]]) in H
 verunstaltet zu Mefiboschet.
 
-^{[[#fnm4][4]]} ℘ 2,8
+[fn:4] [[file:2.Sam_2.org::v8][2,8]]
 
-^{[[#fnm5][5]]} Text korr. nach G; in H nimmt V. 6, teilweise mit
+[fn:5] Text korr. nach G; in H nimmt V. 6, teilweise mit
 anderem Inhalt, V. 7 vorweg.
 
-^{[[#fnm6][6]]} ℘ 1,15
+[fn:6] [[file:2.Sam_1.org::v15][1,15]]

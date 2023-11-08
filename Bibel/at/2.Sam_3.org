@@ -1,35 +1,31 @@
-:PROPERTIES:
-:ID:       4fa07409-a080-4c27-9c7b-4f5d33edfa3c
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch Samuel* --
-[[file:2.Sam_1.html][1]] [[file:2.Sam_2.html][2]] *3*
-[[file:2.Sam_4.html][4]] [[file:2.Sam_5.html][5]] ...
-[[file:2.Sam_24.html][24]]
+#+TITLE: 2 Sam 3 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-08 Mi 07:30]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Sam 3.html
 
---------------
 
 * 2.Sam 3
-  :PROPERTIES:
-  :CUSTOM_ID: sam-3
-  :END:
 
 <<verses>>
 
 <<v1>>
 1 Der Krieg zwischen dem Haus Saul und dem Haus David zog sich lange
 hin. David wurde immer stärker, während das Haus Saul immer schwächer
-wurde. ^{[[#fn1][1]]}\\
+wurde. [fn:1]\\
 \\
 
 <<v2>>
-**** Die in Hebron geborenen Söhne Davids: 3,2-5
-     :PROPERTIES:
-     :CUSTOM_ID: die-in-hebron-geborenen-söhne-davids-32-5
-     :END:
+* Die in Hebron geborenen Söhne Davids: 3,2-5
+
 2 In Hebron wurden David folgende Söhne geboren: Sein Erstgeborener
-Amnon stammte von Ahinoam aus Jesreel, ^{[[#fn2][2]]}
+Amnon stammte von Ahinoam aus Jesreel, [fn:2]
 
 <<v3>>
 3 sein zweiter, Kilab, von Abigajil, der (früheren) Frau Nabals aus
@@ -46,17 +42,15 @@ Hebron geboren.\\
 \\
 
 <<v6>>
-**** David und Abner: 3,6-21
-     :PROPERTIES:
-     :CUSTOM_ID: david-und-abner-36-21
-     :END:
+* David und Abner: 3,6-21
+
 6 Solange zwischen dem Haus Saul und dem Haus David Krieg herrschte,
 hielt Abner entschieden zum Haus Saul.
 
 <<v7>>
 7 Saul hatte eine Nebenfrau namens Rizpa gehabt; sie war eine Tochter
 Ajas. Da sagte Ischbaal zu Abner: Warum bist du zu der Nebenfrau meines
-Vaters gegangen? ^{[[#fn3][3]]}
+Vaters gegangen? [fn:3]
 
 <<v8>>
 8 Da wurde Abner sehr zornig über die Frage Ischbaals und sagte: Bin ich
@@ -80,7 +74,7 @@ ihm.
 <<v12>>
 12 Abner schickte in eigener Sache Boten zu David und ließ ihm sagen:
 Wem gehört das Land? Schließ also einen Vertrag mit mir; dann werde ich
-dir helfen, um ganz Israel auf deine Seite zu bringen. ^{[[#fn4][4]]}
+dir helfen, um ganz Israel auf deine Seite zu bringen. [fn:4]
 
 <<v13>>
 13 David antwortete: Gut, ich will einen Vertrag mit dir schließen; nur
@@ -91,7 +85,7 @@ kommst und vor mir erscheinst.
 <<v14>>
 14 Dann schickte David Boten zu Ischbaal, dem Sohn Sauls, und ließ ihm
 sagen: Gib meine Frau Michal heraus, für die ich die hundert Vorhäute
-der Philister als Brautpreis bezahlt habe. ^{[[#fn5][5]]}
+der Philister als Brautpreis bezahlt habe. [fn:5]
 
 <<v15>>
 15 Ischbaal schickte (einen Boten) zu ihrem Mann Paltiël, dem Sohn des
@@ -127,10 +121,8 @@ Damit ließ David Abner in Frieden ziehen.\\
 \\
 
 <<v22>>
-**** Abners Tod: 3,22-39
-     :PROPERTIES:
-     :CUSTOM_ID: abners-tod-322-39
-     :END:
+* Abners Tod: 3,22-39
+
 22 Inzwischen kamen die Leute Davids und Joab von einem Streifzug; sie
 brachten reiche Beute mit. Abner war nicht mehr bei David in Hebron;
 denn David hatte ihn in Frieden ziehen lassen.
@@ -157,22 +149,21 @@ die ihn von Bor-Sira zurückholten. David aber wusste nichts davon.
 27 Als Abner nach Hebron zurückkehrte, führte ihn Joab beiseite in das
 Innere des Tores, als wolle er ungestört mit ihm reden. Dort stach er
 ihn, um Blutrache für seinen Bruder Asaël zu nehmen, in den Bauch,
-sodass er starb. ^{[[#fn6][6]]}
+sodass er starb. [fn:6]
 
 <<v28>>
 28 Als David später davon hörte, sagte er: Ich und mein Königtum sind
-vor dem Herrn für alle Zeit ohne Schuld am Blut Abners, des Sohnes Ners.
-^{[[#fn7][7]]}
+vor dem Herrn für alle Zeit ohne Schuld am Blut Abners, des Sohnes Ners. [fn:7]
 
 <<v29>>
 29 Sie falle auf Joab und seine ganze Familie zurück. Immer soll es in
 Joabs Familie Menschen geben, die an Blutungen und Aussatz leiden, die
 an Krücken gehen, durch das Schwert umkommen und denen es an Brot
-mangelt. ^{[[#fn8][8]]}
+mangelt. [fn:8]
 
 <<v30>>
 30 Joab und sein Bruder Abischai brachten Abner um, weil er ihren Bruder
-Asaël bei Gibeon im Kampf getötet hatte. ^{[[#fn9][9]]}
+Asaël bei Gibeon im Kampf getötet hatte. [fn:9]
 
 <<v31>>
 31 David aber sagte zu Joab und allen Leuten, die bei ihm waren:
@@ -219,27 +210,29 @@ ein Fürst gefallen ist und ein großer Mann in Israel?
 39 Obwohl ich zum König gesalbt worden bin, bin ich heute noch zu
 schwach und diese Männer, die Söhne der Zeruja, sind stärker als ich.
 Dem, der das Verbrechen begangen hat, vergelte der Herr so, wie es
-seiner bösen Tat entspricht. ^{[[#fn10][10]]}\\
+seiner bösen Tat entspricht. [fn:10]\\
 \\
 
-^{[[#fnm1][1]]} ℘ 5,10
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ (2-5) 5,13-16; 1 Chr 3,1-4
+[fn:1] [[file:2.Sam_5.org::v10][5,10]]
 
-^{[[#fnm3][3]]} ℘ 21,8
+[fn:2] (2-5) [[file:2.Sam_5.org::v13][5,13-16]]; [[file:1.Chr_3.org::v1][1 Chr 3,1-4]]
 
-^{[[#fnm4][4]]} in eigener Sache: Bedeutung des betreffenden hebräischen
+[fn:3] [[file:2.Sam_21.org::v8][21,8]]
+
+[fn:4] in eigener Sache: Bedeutung des betreffenden hebräischen
 Wortes unsicher.
 
-^{[[#fnm5][5]]} ℘ (14-15) 1 Sam 18,27; 25,44
+[fn:5] (14-15) [[file:1.Sam_18.org::v27][1 Sam 18,27]]; [[file:1.Sam_25.org::v44][25,44]]
 
-^{[[#fnm6][6]]} ℘ 2,23
+[fn:6] [[file:2.Sam_2.org::v23][2,23]]
 
-^{[[#fnm7][7]]} ℘ 1 Kön 2,5
+[fn:7] [[file:1.Kön_2.org::v5][1 Kön 2,5]]
 
-^{[[#fnm8][8]]} David, der zu schwach ist, um gegen den Mörder Joab
+[fn:8] David, der zu schwach ist, um gegen den Mörder Joab
 vorzugehen (V. 39), begnügt sich mit einem Fluch.
 
-^{[[#fnm9][9]]} ℘ 2,23
+[fn:9] [[file:2.Sam_2.org::v23][2,23]]
 
-^{[[#fnm10][10]]} ℘ 2,18
+[fn:10] [[file:2.Sam_2.org::v18][2,18]]

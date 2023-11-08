@@ -1,34 +1,27 @@
-:PROPERTIES:
-:ID:       75e5cee4-4d7c-4015-9b9e-a689b56d9acf
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch Samuel* --
-[[file:2.Sam_1.html][1]] *2* [[file:2.Sam_3.html][3]]
-[[file:2.Sam_4.html][4]] ... [[file:2.Sam_24.html][24]]
-
---------------
-
-* 2.Sam 2
-  :PROPERTIES:
-  :CUSTOM_ID: sam-2
-  :END:
+#+TITLE: 2 Sam 2 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-07 Di 23:33]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Sam 2.html
 
 <<verses>>
 
 <<v1>>
-**** David wird König von Juda: 2,1-11
-     :PROPERTIES:
-     :CUSTOM_ID: david-wird-könig-von-juda-21-11
-     :END:
+* David wird König von Juda: 2,1-11
+
 1 Danach befragte David den Herrn: Soll ich in eine der Städte Judas
 hinaufziehen? Der Herr antwortete ihm: Zieh hinauf! David fragte: Wohin
 soll ich ziehen? Er antwortete: Nach Hebron.
 
 <<v2>>
 2 David zog also nach Hebron mit seinen beiden Frauen, Ahinoam aus
-Jesreel und Abigajil, der (früheren) Frau Nabals aus Karmel.
-^{[[#fn1][1]]}
+Jesreel und Abigajil, der (früheren) Frau Nabals aus Karmel. [fn:1]
 
 <<v3>>
 3 Auch die Männer, die bei ihm waren, führte David hinauf, jeden mit
@@ -37,7 +30,7 @@ seiner Familie, und sie ließen sich in den Städten um Hebron nieder.
 <<v4>>
 4 Dann kamen die Männer Judas (nach Hebron) und salbten David dort zum
 König über das Haus Juda. Als man David berichtete, dass die Einwohner
-von Jabesch-Gilead Saul begraben hatten, ^{[[#fn2][2]]}
+von Jabesch-Gilead Saul begraben hatten, [fn:2]
 
 <<v5>>
 5 schickte er Boten zu den Männern von Jabesch-Gilead und ließ ihnen
@@ -54,7 +47,7 @@ tot, mich aber hat das Haus Juda zu seinem König gesalbt.
 
 <<v8>>
 8 Doch Abner, der Sohn Ners, der Heerführer Sauls, hatte Ischbaal, den
-Sohn Sauls, mit sich nach Mahanajim genommen ^{[[#fn3][3]][[#fn4][4]]}
+Sohn Sauls, mit sich nach Mahanajim genommen [fn:3] [fn:4]
 
 <<v9>>
 9 und ihn (dort) zum König über Gilead, Ascher, Jesreel, Efraim und
@@ -63,7 +56,7 @@ Benjamin und über ganz Israel gemacht.
 <<v10>>
 10 Sauls Sohn Ischbaal war vierzig Jahre alt, als er König von Israel
 wurde, und er war zwei Jahre König; nur das Haus Juda stand hinter
-David. ^{[[#fn5][5]]}
+David. [fn:5]
 
 <<v11>>
 11 Die Zeit, die David in Hebron König über das Haus Juda war, betrug
@@ -71,17 +64,15 @@ sieben Jahre und sechs Monate.\\
 \\
 
 <<v12>>
-**** Der Krieg zwischen David und Ischbaal: 2,12 - 3,1
-     :PROPERTIES:
-     :CUSTOM_ID: der-krieg-zwischen-david-und-ischbaal-212---31
-     :END:
+* Der Krieg zwischen David und Ischbaal: 2,12 - 3,1
+
 12 Abner, der Sohn Ners, zog mit den Knechten Ischbaals, des Sohnes
 Sauls, von Mahanajim nach Gibeon.
 
 <<v13>>
 13 Auch Joab, der Sohn der Zeruja, und die Knechte Davids waren
 ausgezogen; sie trafen mit ihnen am Teich von Gibeon zusammen. Die einen
-blieben diesseits, die anderen jenseits des Teiches. ^{[[#fn6][6]]}
+blieben diesseits, die anderen jenseits des Teiches. [fn:6]
 
 <<v14>>
 14 Da sagte Abner zu Joab: Die jungen Männer könnten doch zu einem
@@ -172,18 +163,20 @@ Abners dreihundertsechzig Mann erschlagen [die waren tot].
 Betlehem. Dann marschierte Joab mit seinen Männern die ganze Nacht
 hindurch in Richtung Hebron, das sie bei Tagesanbruch erreichten.
 
-^{[[#fnm1][1]]} ℘ 1 Sam 25,42f
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 5,3; 1 Sam 16,13; 1 Sam 31,12f
+[fn:1] [[file:1.Sam_25.org::v42][1 Sam 25,42f]]
 
-^{[[#fnm3][3]]} ℘ 1 Sam 14,50
+[fn:2] [[file:2.Sam_5.org::v3][5,3]]; [[file:1.Sam_16.org::v13][1 Sam 16,13]]; [[file:1.Sam_31.org::v12][1 Sam 31,12f]]
 
-^{[[#fnm4][4]]} Ischbaal: so lautet der Name richtig (vgl. 1 Chr 8,39;
-9,33); H verändert den Namen, um den darin enthaltenen Gottesnamen Baal
-verächtlich zu machen, in Isch-Boschet (Mann der Schande); vgl. auch
-4,4.
+[fn:3] [[file:1.Sam_14.org::v50][1 Sam 14,50]]
 
-^{[[#fnm5][5]]} ℘ 4,5
+[fn:4] Ischbaal: so lautet der Name richtig (vgl. [[file:1.Chr_8.org::v39][1 Chr 8,39]]; [[file:1.Chr_9.org::v33][9,33]]);
+H verändert den Namen, um den darin enthaltenen Gottesnamen Baal
+verächtlich zu machen, in Isch-Boschet (Mann der Schande);
+vgl. auch [[file:2.Sam_4.org::v4][4,4]].
 
-^{[[#fnm6][6]]} Joab, der Sohn Zerujas, der Schwester Davids (1 Chr
-2,16), war der Heerführer Davids (vgl. 8,16).
+[fn:5] [[file:2.Sam_4.org::v5][4,5]]
+
+[fn:6] Joab, der Sohn Zerujas, der Schwester Davids ([[file:1.Chr_2.org::v16][1 Chr 2,16]]),
+war der Heerführer Davids (vgl. [[file:2.Sam_8.org::v16][8,16]]).

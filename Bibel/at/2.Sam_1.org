@@ -1,30 +1,23 @@
-:PROPERTIES:
-:ID:       e8e04527-90ee-45ab-8db3-b80ef4c43771
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch Samuel* -- *1*
-[[file:2.Sam_2.html][2]] [[file:2.Sam_3.html][3]] ...
-[[file:2.Sam_24.html][24]]
+#+TITLE: 2 Sam 1 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-07 Di 23:32]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Sam 1.html
 
---------------
-
-* 2.Sam 1
-  :PROPERTIES:
-  :CUSTOM_ID: sam-1
-  :END:
 
 <<verses>>
 
 <<v1>>
-** König David: 1,1 - 9,13
-   :PROPERTIES:
-   :CUSTOM_ID: könig-david-11---913
-   :END:
-**** Sauls Tod und Davids Klage: 1,1-27
-     :PROPERTIES:
-     :CUSTOM_ID: sauls-tod-und-davids-klage-11-27
-     :END:
+* König David: 1,1 - 9,13
+
+* Sauls Tod und Davids Klage: 1,1-27
+
 1 Als David nach dem Tod Sauls von seinem Sieg über die Amalekiter
 zurückgekehrt war und sich zwei Tage lang in Ziklag aufgehalten hatte,
 
@@ -40,7 +33,7 @@ aus dem Lager Israels gerettet.
 <<v4>>
 4 David sagte zu ihm: Wie stehen die Dinge? Berichte mir! Er erwiderte:
 Das Volk ist aus dem Kampf geflohen, viele von den Männern sind gefallen
-und umgekommen; auch Saul und sein Sohn Jonatan sind tot. ^{[[#fn1][1]]}
+und umgekommen; auch Saul und sein Sohn Jonatan sind tot. [fn:1]
 
 <<v5>>
 5 David fragte den jungen Mann, der ihm die Nachricht brachte: Woher
@@ -85,12 +78,11 @@ aus Amalek.
 
 <<v14>>
 14 David fragte ihn: Wie kommt es, dass du dich nicht davor gefürchtet
-hast, deine Hand auszustrecken, um den Gesalbten des Herrn umzubringen?
-^{[[#fn2][2]]}
+hast, deine Hand auszustrecken, um den Gesalbten des Herrn umzubringen? [fn:2]
 
 <<v15>>
 15 Darauf rief David einen von seinen jungen Männern zu sich und sagte:
-Komm her, stoß ihn nieder! Und er schlug ihn tot. ^{[[#fn3][3]]}
+Komm her, stoß ihn nieder! Und er schlug ihn tot. [fn:3]
 
 <<v16>>
 16 David aber sagte zu ihm: Dein Blut über dein Haupt; denn dein Mund
@@ -103,7 +95,7 @@ Jonatan;
 
 <<v18>>
 18 er sagte, man solle es die Söhne Judas als Bogenlied lehren; es steht
-im «Buch des Aufrechten»: ^{[[#fn4][4]][[#fn5][5]]}\\
+im «Buch des Aufrechten»: [fn:4] [fn:5]\\
 \\
 
 <<v19>>
@@ -122,7 +114,7 @@ im «Buch des Aufrechten»: ^{[[#fn4][4]][[#fn5][5]]}\\
 21 Ihr Berge in Gilboa, kein Tau und kein Regen /\\
  falle auf euch, ihr trügerischen Gefilde. /\\
  Denn dort wurde der Schild der Helden befleckt, /\\
- der Schild des Saul, als wäre er nicht mit Öl gesalbt. ^{[[#fn6][6]]}\\
+ der Schild des Saul, als wäre er nicht mit Öl gesalbt. [fn:6]\\
 \\
 
 <<v22>>
@@ -155,7 +147,7 @@ im «Buch des Aufrechten»: ^{[[#fn4][4]][[#fn5][5]]}\\
 26 Weh ist mir um dich, mein Bruder Jonatan. /\\
  Du warst mir sehr lieb. /\\
  Wunderbarer war deine Liebe für mich /\\
- als die Liebe der Frauen. ^{[[#fn7][7]]}\\
+ als die Liebe der Frauen. [fn:7]\\
 \\
 
 <<v27>>
@@ -163,17 +155,19 @@ im «Buch des Aufrechten»: ^{[[#fn4][4]][[#fn5][5]]}\\
  die Waffen des Kampfes verloren.\\
 \\
 
-^{[[#fnm1][1]]} ℘ 1 Sam 31,1-4
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 1 Sam 24,7; 26,9
+[fn:1] [[file:1.Sam_31.org::v1][1 Sam 31,1-4]]
 
-^{[[#fnm3][3]]} ℘ (15-16) 4,10.22
+[fn:2] [[file:1.Sam_24.org::v7][1 Sam 24,7]]; [[file:1.Sam_26.org::v9][26,9]]
 
-^{[[#fnm4][4]]} ℘ Jos 10,13
+[fn:3] (15-16) [[file:2.Sam_4.org::v10][4,10]].[[file:2.Sam_4.org::v22][22]]
 
-^{[[#fnm5][5]]} Die Überschrift des Lieds ist schwer deutbar.
+[fn:4] [[file:Jos_10.org::v13][Jos 10,13]]
 
-^{[[#fnm6][6]]} ihr trügerischen Gefilde: Text korr.; H: ihr Gefilde der
+[fn:5] Die Überschrift des Lieds ist schwer deutbar.
+
+[fn:6] ihr trügerischen Gefilde: Text korr.; H: ihr Gefilde der
 Erstlingsgarben.
 
-^{[[#fnm7][7]]} ℘ 1 Sam 18,3
+[fn:7] [[file:1.Sam_18.org::v3][1 Sam 18,3]]
