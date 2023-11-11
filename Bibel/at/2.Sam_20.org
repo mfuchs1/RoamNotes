@@ -1,32 +1,25 @@
-:PROPERTIES:
-:ID:       a02669b0-9bfd-48dc-81b9-af475a6c36d3
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch Samuel* --
-[[file:2.Sam_1.html][1]] ... [[file:2.Sam_18.html][18]]
-[[file:2.Sam_19.html][19]] *20* [[file:2.Sam_21.html][21]]
-[[file:2.Sam_22.html][22]] ... [[file:2.Sam_24.html][24]]
-
---------------
-
-* 2.Sam 20
-  :PROPERTIES:
-  :CUSTOM_ID: sam-20
-  :END:
+#+TITLE: 2 Sam 20 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-11 Sa 22:20]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Sam 20.html
 
 <<verses>>
 
 <<v1>>
-**** Schebas Aufstand gegen David: 20,1-22
-     :PROPERTIES:
-     :CUSTOM_ID: schebas-aufstand-gegen-david-201-22
-     :END:
+* Schebas Aufstand gegen David: 20,1-22
+
 1 Damals lebte ein niederträchtiger Mensch namens Scheba, ein Sohn des
 Bichri, ein Benjaminiter. Er ließ das Widderhorn blasen und rief:
 Welchen Anteil haben wir an David? /\\
  Wir haben keinen Erbbesitz beim Sohn Isais. /\\
- In deine Zelte, Israel! ^{[[#fn1][1]]}\\
+ In deine Zelte, Israel! [fn:1]\\
 \\
 
 <<v2>>
@@ -39,7 +32,7 @@ König, vom Jordan bis nach Jerusalem.
 zehn Nebenfrauen, die er zurückgelassen hatte, um das Haus zu bewachen,
 und ließ sie in Gewahrsam bringen. Er versorgte sie, ging aber nicht
 mehr zu ihnen und sie blieben bis zu ihrem Tod eingesperrt - schon zu
-Lebzeiten des Mannes im Witwenstand. ^{[[#fn2][2]]}
+Lebzeiten des Mannes im Witwenstand. [fn:2]
 
 <<v4>>
 4 Der König befahl Amasa: Ruf mir in drei Tagen die Männer Judas
@@ -53,18 +46,18 @@ Frist, die der König ihm gesetzt hatte.
 6 Da sagte David zu Abischai: Nun wird uns Scheba, der Sohn Bichris,
 gefährlicher als Abschalom. Nimm darum die Knechte deines Herrn mit und
 verfolg Scheba, damit er nicht die befestigten Städte einnimmt und uns
-die Augen ausreißt. ^{[[#fn3][3]]}
+die Augen ausreißt. [fn:3]
 
 <<v7>>
 7 Da zog Abischai mit Joab und den Keretern und Peletern und allen
 Helden in den Kampf. Sie zogen von Jerusalem aus, um Scheba, den Sohn
-Bichris, zu verfolgen. ^{[[#fn4][4]]}
+Bichris, zu verfolgen. [fn:4]
 
 <<v8>>
 8 Als sie bei dem großen Stein von Gibeon waren, war Amasa gerade vor
 ihnen angekommen. Joab trug sein Gewand [seine Kleidung] und darüber
 einen Gurt für das Schwert. Dieses hing so in einer Scheide an seiner
-Hüfte, dass es herausglitt, wenn die Scheide hervorkam. ^{[[#fn5][5]]}
+Hüfte, dass es herausglitt, wenn die Scheide hervorkam. [fn:5]
 
 <<v9>>
 9 Joab sagte zu Amasa: Geht es dir gut, mein Bruder? und griff mit der
@@ -75,7 +68,7 @@ rechten Hand nach dem Bart Amasas, um ihn zu küssen.
 Hand hatte, und Joab stieß es ihm in den Bauch, sodass seine Eingeweide
 zu Boden quollen. Amasa starb, ohne dass Joab ein zweites Mal zustieß.
 Dann setzten Joab und sein Bruder Abischai die Verfolgung Schebas, des
-Sohnes Bichris, fort. ^{[[#fn6][6]]}
+Sohnes Bichris, fort. [fn:6]
 
 <<v11>>
 11 Einer von den Leuten Joabs aber blieb bei Amasa stehen und rief: Wer
@@ -93,7 +86,7 @@ Männer vorüber und Joab nach, um Scheba, den Sohn Bichris, zu verfolgen.
 
 <<v14>>
 14 Scheba zog in allen Stämmen Israels umher, bis nach Abel-Bet-Maacha.
-Alle Bichriter sammelten sich um ihn und folgten ihm. ^{[[#fn7][7]]}
+Alle Bichriter sammelten sich um ihn und folgten ihm. [fn:7]
 
 <<v15>>
 15 Als aber die Leute Joabs angekommen waren, schlossen sie ihn in
@@ -140,13 +133,10 @@ zurück.\\
 \\
 
 <<v23>>
-**** Die Beamten Davids: 20,23-26
-     :PROPERTIES:
-     :CUSTOM_ID: die-beamten-davids-2023-26
-     :END:
+* Die Beamten Davids: 20,23-26
+
 23 Joab war Befehlshaber des ganzen Heeres der Israeliten und Benaja,
-der Sohn Jojadas, war der Befehlshaber der Kereter und Peleter.
-^{[[#fn8][8]]}
+der Sohn Jojadas, war der Befehlshaber der Kereter und Peleter. [fn:8]
 
 <<v24>>
 24 Adoniram beaufsichtigte die Fronarbeiten und Joschafat, der Sohn
@@ -159,21 +149,22 @@ Ahiluds, war der Sprecher des Königs.
 26 Auch der Jaïriter Ira war Davids Priester.\\
 \\
 
-^{[[#fnm1][1]]} ℘ 1 Kön 12,16
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 12,11; 16,21f
+[fn:1] [[file:1.Kön_12.org::v16][1 Kön 12,16]]
 
-^{[[#fnm3][3]]} und uns die Augen ausreißt: Übersetzung und Bedeutung
-unsicher.
+[fn:2] [[file:2.Sam_12.org::v11][12,11]]; [[file:2.Sam_16.org::v21][16,21f]]
 
-^{[[#fnm4][4]]} zog Abischai mit Joab: Text korr., vgl. G; H: zogen mit
+[fn:3] und uns die Augen ausreißt: Übersetzung und Bedeutung unsicher.
+
+[fn:4] zog Abischai mit Joab: Text korr., vgl. G; H: zogen mit
 ihm die Männer Joabs und die . . .
 
-^{[[#fnm5][5]]} Text und Sinn unsicher.
+[fn:5] Text und Sinn unsicher.
 
-^{[[#fnm6][6]]} ℘ 1 Kön 2,5
+[fn:6] [[file:1.Kön_2.org::v5][1 Kön 2,5]]
 
-^{[[#fnm7][7]]} Alle Bichriter sammelten sich um ihn: Text korr.
+[fn:7] Alle Bichriter sammelten sich um ihn: Text korr.
 Abel-Bet-Maacha: in Nordgaliläa.
 
-^{[[#fnm8][8]]} ℘ 1 Kön 4,4.6; (23-26) 8,16-18; 1 Chr 18,14-17
+[fn:8] [[file:1.Kön_4.org::v4][1 Kön 4,4]].[[file:1.Kön_4.org::v6][6]]; (23-26) [[file:1.Kön_8.org::v16][8,16-18]]; [[file:1.Chr_18.org::v14][1 Chr 18,14-17]]

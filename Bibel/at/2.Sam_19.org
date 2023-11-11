@@ -1,27 +1,20 @@
-:PROPERTIES:
-:ID:       7b46341c-5ff5-4260-8285-a05caf3bbd3c
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch Samuel* --
-[[file:2.Sam_1.html][1]] ... [[file:2.Sam_17.html][17]]
-[[file:2.Sam_18.html][18]] *19* [[file:2.Sam_20.html][20]]
-[[file:2.Sam_21.html][21]] ... [[file:2.Sam_24.html][24]]
-
---------------
-
-* 2.Sam 19
-  :PROPERTIES:
-  :CUSTOM_ID: sam-19
-  :END:
+#+TITLE: 2 Sam 19 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-11 Sa 22:12]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Sam 19.html
 
 <<verses>>
 
 <<v1>>
-**** Davids Klage um Abschalom: 19,1-9a
-     :PROPERTIES:
-     :CUSTOM_ID: davids-klage-um-abschalom-191-9a
-     :END:
+* Davids Klage um Abschalom: 19,1-9a
+
 1 Da zuckte der König zusammen, stieg in den oberen Raum des Tores
 hinauf und weinte. Während er hinaufging, rief er (immer wieder): Mein
 Sohn Abschalom, mein Sohn, mein Sohn Abschalom! Wäre ich doch an deiner
@@ -69,10 +62,8 @@ bekannt: Der König sitzt im Tor. Da kamen alle Leute zum König.\\
 \\
 
 <<v10>>
-**** Davids Rückkehr nach Jerusalem: 19,9b-44
-     :PROPERTIES:
-     :CUSTOM_ID: davids-rückkehr-nach-jerusalem-199b-44
-     :END:
+* Davids Rückkehr nach Jerusalem: 19,9b-44
+
 10 Nachdem die Israeliten geflohen und in ihre Zelte zurückgekehrt
 waren, stritten sich alle Leute in allen Stämmen Israels und sagten: Der
 König hat uns aus der Gewalt unserer Feinde befreit, er hat uns aus der
@@ -88,11 +79,11 @@ gefallen. Warum zögert ihr jetzt, den König zurückzuholen?
 König vor [in sein Haus]. Da schickte König David (einen Boten) zu den
 Priestern Zadok und Abjatar und ließ ihnen sagen: Sagt zu den Ältesten
 Judas: Warum wollt ihr die letzten sein, die den König in sein Haus
-zurückholen? ^{[[#fn1][1]]}
+zurückholen? [fn:1]
 
 <<v13>>
 13 Ihr seid meine Brüder, ihr seid mein Fleisch und Bein. Warum wollt
-ihr die letzten sein, die den König zurückholen? ^{[[#fn2][2]]}
+ihr die letzten sein, die den König zurückholen? [fn:2]
 
 <<v14>>
 14 Und zu Amasa sollt ihr sagen: Bist du nicht mein Fleisch und Bein?
@@ -107,12 +98,11 @@ Kehr zurück, du selbst und alle deine Diener!
 <<v16>>
 16 Da machte sich der König auf den Rückweg und kam an den Jordan, die
 Judäer aber, die dem König entgegengezogen waren, um ihn über den Jordan
-zu geleiten, waren bis nach Gilgal gekommen. ^{[[#fn3][3]]}
+zu geleiten, waren bis nach Gilgal gekommen. [fn:3]
 
 <<v17>>
 17 Auch der Benjaminiter Schimi aus Bahurim, der Sohn Geras, eilte
-herbei und zog mit den Männern von Juda dem König David entgegen.
-^{[[#fn4][4]]}
+herbei und zog mit den Männern von Juda dem König David entgegen. [fn:4]
 
 <<v18>>
 18 Bei ihm waren tausend Mann aus Benjamin, darunter Ziba, der Diener
@@ -123,7 +113,7 @@ Sie waren schon vor dem König an den Jordan gelangt
 19 und durchschritten die Furt, um die Familie des Königs
 hinüberzugeleiten und alles zu tun, was dem König gut erschien. Als der
 König gerade den Jordan überschreiten wollte, fiel Schimi, der Sohn
-Geras, vor ihm nieder ^{[[#fn5][5]]}
+Geras, vor ihm nieder [fn:5]
 
 <<v20>>
 20 und sagte zu ihm: Mein Herr möge mir meine Schuld nicht anrechnen;
@@ -155,12 +145,11 @@ bekräftigte es ihm mit einem Schwur.
 25 Auch Merib-Baal, der Sohn Sauls, kam dem König entgegen. Er hatte
 seine Füße und seinen Bart nicht mehr gepflegt und seine Kleider nicht
 gewaschen seit dem Tag, an dem der König weggegangen war, bis zu dem
-Tag, an dem er wohlbehalten zurückkam. ^{[[#fn6][6]][[#fn7][7]]}
+Tag, an dem er wohlbehalten zurückkam. [fn:6] [fn:7]
 
 <<v26>>
 26 Als er von Jerusalem aus dem König entgegenkam, fragte ihn der König:
-Warum bist du damals nicht mit mir weggegangen, Merib-Baal?
-^{[[#fn8][8]]}
+Warum bist du damals nicht mit mir weggegangen, Merib-Baal? [fn:8]
 
 <<v27>>
 27 Er antwortete: Mein Herr und König, mein Diener hat mich
@@ -176,7 +165,7 @@ gefällt.
 29 Obwohl das ganze Haus meines Vaters von meinem Herrn, dem König,
 nichts anderes als den Tod zu erwarten hatte, hast du deinen Knecht
 unter die aufgenommen, die an deinem Tisch essen. Was habe ich noch für
-ein Recht, den König weiterhin anzurufen? ^{[[#fn9][9]]}
+ein Recht, den König weiterhin anzurufen? [fn:9]
 
 <<v30>>
 30 Der König antwortete ihm: Warum machst du so (viele) Worte? Ich habe
@@ -188,8 +177,7 @@ Herr, der König, wohlbehalten in sein Haus zurückgekehrt ist.
 
 <<v32>>
 32 Der Gileaditer Barsillai war aus Roglim herabgekommen und mit dem
-König an den Jordan gezogen, um ihn am Jordan zu verabschieden.
-^{[[#fn10][10]]}
+König an den Jordan gezogen, um ihn am Jordan zu verabschieden. [fn:10]
 
 <<v33>>
 33 Barsillai war sehr alt, ein Mann von achtzig Jahren. Er hatte den
@@ -221,7 +209,7 @@ zeigen?
 38 Dein Knecht möchte umkehren und in seiner Heimatstadt beim Grab
 seines Vaters und seiner Mutter sterben. Aber hier ist dein Knecht
 Kimham; er mag mit meinem Herrn, dem König, hinüberziehen. Tu für ihn,
-was dir gefällt. ^{[[#fn11][11]]}
+was dir gefällt. [fn:11]
 
 <<v39>>
 39 Der König erwiderte: Kimham soll mit mir hinüberziehen; ich werde für
@@ -240,8 +228,7 @@ ganze Volk von Juda zog mit dem König, dazu halb Israel.
 <<v42>>
 42 Da kamen alle Israeliten zum König und sagten zu ihm: Warum haben
 unsere Brüder, die Männer von Juda, dich uns geraubt und den König,
-seine Familie und alle seine Männer über den Jordan geführt?
-^{[[#fn12][12]]}
+seine Familie und alle seine Männer über den Jordan geführt? [fn:12]
 
 <<v43>>
 43 Alle Judäer antworteten den Israeliten: Weil der König uns näher
@@ -256,30 +243,30 @@ zurückzuholen? Die Antwort der Judäer hierauf war noch schärfer als die
 Rede der Israeliten.\\
 \\
 
-^{[[#fnm1][1]]} V. 12 a und b sind sinngemäß umgestellt.
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ Gen 2,23
+[fn:1] V. 12 a und b sind sinngemäß umgestellt.
 
-^{[[#fnm3][3]]} Gilgal: in der Nähe von Jericho (vgl. 1 Sam 7,16).
+[fn:2] [[file:Gen_2.org::v23][Gen 2,23]]
 
-^{[[#fnm4][4]]} ℘ (17-24) 16,5-12; 1 Kön 2,8
+[fn:3] Gilgal: in der Nähe von Jericho (vgl. [[file:1.Sam_7.org::v16][1 Sam 7,16]]).
 
-^{[[#fnm5][5]]} und durchschritten: Text korr.
+[fn:4] (17-24) [[file:2.Sam_16.org::v5][16,5-12]]; [[file:1.Kön_2.org::v8][1 Kön 2,8]]
 
-^{[[#fnm6][6]]} ℘ (25-31) 9,6; 16,3f
+[fn:5] und durchschritten: Text korr.
 
-^{[[#fnm7][7]]} Merib-Baal hat wegen des Unglücks, das David getroffen
-hat, getrauert.
+[fn:6] (25-31) [[file:2.Sam_9.org::v6][9,6]]; [[file:2.Sam_16.org::v3][16,3f]]
 
-^{[[#fnm8][8]]} von Jerusalem aus: Text korr. (vgl. 9,10f); H: nach
-Jerusalem.
+[fn:7] Merib-Baal hat wegen des Unglücks, das David getroffen hat, getrauert.
 
-^{[[#fnm9][9]]} ℘ (29-30) 9,7.9-11
+[fn:8] von Jerusalem aus: Text korr. (vgl. [[file:2.Sam_9.org::v10][9,10f]]); H: nach Jerusalem.
 
-^{[[#fnm10][10]]} ℘ 17,27
+[fn:9] (29-30) [[file:2.Sam_9.org::v7][9,7]].[[file:2.Sam_9.org::v9][9-11]]
 
-^{[[#fnm11][11]]} Kimham ist der Sohn Barsillais; als Untertan Davids
+[fn:10] [[file:2.Sam_17.org::v27][17,27]]
+
+[fn:11] Kimham ist der Sohn Barsillais; als Untertan Davids
 ist er dessen Knecht.
 
-^{[[#fnm12][12]]} Die Israeliten hatten früher als die Judäer die
+[fn:12] Die Israeliten hatten früher als die Judäer die
 Rückführung des Königs geplant; sie fühlen sich zurückgesetzt.

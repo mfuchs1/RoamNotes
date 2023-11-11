@@ -1,31 +1,22 @@
-:PROPERTIES:
-:ID:       e5bddf4f-d49e-4a2f-88d4-fd999cd24927
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch Samuel* --
-[[file:2.Sam_1.html][1]] ... [[file:2.Sam_19.html][19]]
-[[file:2.Sam_20.html][20]] *21* [[file:2.Sam_22.html][22]]
-[[file:2.Sam_23.html][23]] [[file:2.Sam_24.html][24]]
-
---------------
-
-* 2.Sam 21
-  :PROPERTIES:
-  :CUSTOM_ID: sam-21
-  :END:
+#+TITLE: 2 Sam 21 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-11 Sa 23:12]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Sam 21.html
 
 <<verses>>
 
 <<v1>>
-** Nachträge: 21,1 - 24,25
-   :PROPERTIES:
-   :CUSTOM_ID: nachträge-211---2425
-   :END:
-**** Die Rache der Gibeoniter und die Treue der Rizpa: 21,1-14
-     :PROPERTIES:
-     :CUSTOM_ID: die-rache-der-gibeoniter-und-die-treue-der-rizpa-211-14
-     :END:
+* Nachträge: 21,1 - 24,25
+
+* Die Rache der Gibeoniter und die Treue der Rizpa: 21,1-14
+
 1 Zur Zeit Davids herrschte drei Jahre hintereinander eine Hungersnot.
 Da suchte David den Herrn auf (um ihn zu befragen). Der Herr sagte: Auf
 Saul und seinem Haus lastet eine Blutschuld, weil er die Gibeoniter
@@ -36,7 +27,7 @@ getötet hat.
 Gibeoniter stammten nicht von den Söhnen Israels ab, sondern von einem
 Rest der Amoriter. Obwohl die Israeliten sich ihnen gegenüber mit einem
 Eid (zum Wohlwollen) verpflichtet hatten, versuchte Saul in seinem Eifer
-für die Söhne Israels und Judas, sie zu vernichten. ^{[[#fn1][1]]}
+für die Söhne Israels und Judas, sie zu vernichten. [fn:1]
 
 <<v3>>
 3 David sagte also zu den Gibeonitern: Was soll ich für euch tun? Womit
@@ -56,19 +47,18 @@ mehr hätten halten können,
 <<v6>>
 6 von dessen Söhnen soll man uns sieben Männer geben. Wir wollen sie vor
 dem Herrn im Gibea Sauls, des vom Herrn Erwählten, hinrichten. Der König
-antwortete: Ich will sie euch geben. ^{[[#fn2][2]]}
+antwortete: Ich will sie euch geben. [fn:2]
 
 <<v7>>
 7 Merib-Baal, den Sohn Jonatans, des Sohnes Sauls, aber verschonte der
 König wegen der Abmachung zwischen David und Jonatan, dem Sohn Sauls,
-die sie mit einem Eid beim Herrn bekräftigt hatten.
-^{[[#fn3][3]][[#fn4][4]]}
+die sie mit einem Eid beim Herrn bekräftigt hatten. [fn:3] [fn:4]
 
 <<v8>>
 8 Der König nahm Armoni und Mefi-Boschet, die beiden Söhne, die Rizpa,
 die Tochter Ajas, dem Saul geboren hatte, und die fünf Söhne, die
 Michal, die Tochter Sauls, dem Adriël, dem Sohn Barsillais aus Mehola,
-geboren hatte. ^{[[#fn5][5]]}
+geboren hatte. [fn:5]
 
 <<v9>>
 9 Er lieferte sie den Gibeonitern aus, die sie auf dem Berg vor dem
@@ -91,7 +81,7 @@ Sauls, getan hatte,
 12 holte er die Gebeine Sauls und die Gebeine seines Sohnes Jonatan von
 den Bürgern von Jabesch-Gilead, die sie heimlich vom Marktplatz in
 Bet-Schean weggenommen hatten, wo die Philister sie aufgehängt hatten,
-als sie Israel am Gilboa schlugen. ^{[[#fn6][6]]}
+als sie Israel am Gilboa schlugen. [fn:6]
 
 <<v13>>
 13 Er ließ also von dort die Gebeine Sauls und die Gebeine seines Sohnes
@@ -106,10 +96,8 @@ das Land gnädig stimmen.\\
 \\
 
 <<v15>>
-**** Die Helden Davids und ihre Taten: 21,15-22
-     :PROPERTIES:
-     :CUSTOM_ID: die-helden-davids-und-ihre-taten-2115-22
-     :END:
+* Die Helden Davids und ihre Taten: 21,15-22
+
 15 Wieder einmal kam es zum Krieg zwischen den Philistern und Israel.
 David zog mit seinen Leuten hinab. Als sie gegen die Philister kämpften,
 wurde David müde.
@@ -123,17 +111,16 @@ werde David erschlagen.
 17 Aber Abischai, der Sohn der Zeruja, kam David zu Hilfe und schlug den
 Philister tot. Damals leisteten die Männer Davids ihm folgenden Schwur:
 Du wirst nicht mehr mit uns in den Kampf ziehen, damit du nicht die
-Leuchte Israels auslöschst. ^{[[#fn7][7]]}
+Leuchte Israels auslöschst. [fn:7]
 
 <<v18>>
 18 Danach kam es bei Gob wieder zum Kampf mit den Philistern. Damals
-erschlug Sibbechai aus Huscha den Sippai, der zu den Rafaïtern gehörte.
-^{[[#fn8][8]]}
+erschlug Sibbechai aus Huscha den Sippai, der zu den Rafaïtern gehörte. [fn:8]
 
 <<v19>>
 19 Als es wieder einmal bei Gob zum Kampf gegen die Philister kam,
 erschlug Elhanan, der Sohn Jaïrs aus Betlehem, den Goliat aus Gat,
-dessen Speer einem Weberbaum glich. ^{[[#fn9][9]]}
+dessen Speer einem Weberbaum glich. [fn:9]
 
 <<v20>>
 20 Dann kam es noch einmal bei Gat zum Kampf. Da trat ein Mann von
@@ -149,20 +136,22 @@ Bruder Schima.
 Davids und seiner Krieger.\\
 \\
 
-^{[[#fnm1][1]]} ℘ Jos 9,3.15.19
+* Footnotes
 
-^{[[#fnm2][2]]} Die Gibeoniter wollen die Blutrache ausüben.
+[fn:1] [[file:Jos_9.org::v3][Jos 9,3]].[[file:Jos_9.org::v15][15]].[[file:Jos_9.org::v19][19]]
 
-^{[[#fnm3][3]]} ℘ 1 Sam 18,3
+[fn:2] Die Gibeoniter wollen die Blutrache ausüben.
 
-^{[[#fnm4][4]]} Merib-Baal: H: Mefi-Boschet (vgl. die Anmerkung zu 4,4).
+[fn:3] [[file:1.Sam_18.org::v3][1 Sam 18,3]]
 
-^{[[#fnm5][5]]} ℘ 3,7; 1 Sam 18,19
+[fn:4] Merib-Baal: H: Mefi-Boschet (vgl. die Anmerkung zu 4,4).
 
-^{[[#fnm6][6]]} ℘ 1 Sam 31,12f
+[fn:5] [[file:2.Sam_3.org::v7][3,7]]; [[file:1.Sam_18.org::v19][1 Sam 18,19]]
 
-^{[[#fnm7][7]]} Die «Leuchte Israels» ist der König, also David.
+[fn:6] [[file:1.Sam_31.org::v12][1 Sam 31,12f]]
 
-^{[[#fnm8][8]]} ℘ (18-22) 1 Chr 20,4-8
+[fn:7] Die «Leuchte Israels» ist der König, also David.
 
-^{[[#fnm9][9]]} Jaïrs: Text korr. nach 1 Chr 20,5.
+[fn:8] (18-22) [[file:1.Chr_20.org::v4][1 Chr 20,4-8]]
+
+[fn:9] Jaïrs: Text korr. nach [[file:1.Chr_20.org::v5][1 Chr 20,5]].

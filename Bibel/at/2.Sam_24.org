@@ -1,34 +1,27 @@
-:PROPERTIES:
-:ID:       8c2ee61e-e3f3-4d73-b984-ce1ab6861f50
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch Samuel* --
-[[file:2.Sam_1.html][1]] ... [[file:2.Sam_22.html][22]]
-[[file:2.Sam_23.html][23]] *24*
-
---------------
-
-* 2.Sam 24
-  :PROPERTIES:
-  :CUSTOM_ID: sam-24
-  :END:
+#+TITLE: 2 Sam 24 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-11 Sa 23:31]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Sam 24.html
 
 <<verses>>
 
 <<v1>>
-**** Davids Volkszählung: 24,1-25
-     :PROPERTIES:
-     :CUSTOM_ID: davids-volkszählung-241-25
-     :END:
+* Davids Volkszählung: 24,1-25
+
 1 Der Zorn des Herrn entbrannte noch einmal gegen Israel und er reizte
-David gegen das Volk auf und sagte: Geh, zähl Israel und Juda!
-^{[[#fn1][1]][[#fn2][2]]}
+David gegen das Volk auf und sagte: Geh, zähl Israel und Juda! [fn:1] [fn:2]
 
 <<v2>>
 2 Der König befahl Joab, dem Obersten des Heeres, der bei ihm war:
 Durchstreift alle Stämme Israels von Dan bis Beerscheba, und mustert das
-Volk, damit ich weiß, wie viele es sind. ^{[[#fn3][3]]}
+Volk, damit ich weiß, wie viele es sind. [fn:3]
 
 <<v3>>
 3 Joab aber sagte zum König: Der Herr, dein Gott, möge das Volk
@@ -43,13 +36,11 @@ König, um das Volk Israel zu mustern.
 
 <<v5>>
 5 Sie überschritten den Jordan und begannen bei Aroër, rechts von der
-Stadt, die mitten im Tal liegt. Dann gingen sie auf Gad und Jaser zu
-^{[[#fn4][4]]}
+Stadt, die mitten im Tal liegt. Dann gingen sie auf Gad und Jaser zu [fn:4]
 
 <<v6>>
 6 und weiter nach Gilead und ins Land der Hetiter nach Kadesch. Von dort
-aus zogen sie nach Dan und von Dan wandten sie sich nach Sidon.
-^{[[#fn5][5]]}
+aus zogen sie nach Dan und von Dan wandten sie sich nach Sidon. [fn:5]
 
 <<v7>>
 7 Dann kamen sie zur Festung Tyrus und zu all den Städten der Hiwiter
@@ -94,7 +85,7 @@ Menschen aber möchte ich nicht in die Hände fallen.
 <<v15>>
 15 Da ließ der Herr über Israel eine Pest kommen; sie dauerte von jenem
 Morgen an bis zu dem festgesetzten Zeitpunkt und es starben zwischen Dan
-und Beerscheba siebzigtausend Menschen im Volk. ^{[[#fn6][6]]}
+und Beerscheba siebzigtausend Menschen im Volk. [fn:6]
 
 <<v16>>
 16 Als der Engel seine Hand gegen Jerusalem ausstreckte, um es ins
@@ -111,8 +102,7 @@ und gegen das Haus meines Vaters!
 
 <<v18>>
 18 Am gleichen Tag kam Gad zu David und sagte zu ihm: Geh hinauf und
-errichte dem Herrn auf der Tenne des Jebusiters Arauna einen Altar!
-^{[[#fn7][7]]}
+errichte dem Herrn auf der Tenne des Jebusiters Arauna einen Altar! [fn:7]
 
 <<v19>>
 19 David ging hinauf, wie es Gad gesagt und der Herr befohlen hatte.
@@ -149,23 +139,23 @@ und Heilsopfer dar; der Herr aber ließ sich um des Landes willen
 erweichen und die Plage hörte auf in Israel.\\
 \\
 
-^{[[#fnm1][1]]} ℘ (1-25) 1 Chr 21,1-26
+* Footnotes
 
-^{[[#fnm2][2]]} Der Vers schließt sachlich an 21,1-14 an. Eine
+[fn:1] (1-25) [[file:1.Chr_21.org::v1][1 Chr 21,1-26]]
+
+[fn:2] Der Vers schließt sachlich an 21,1-14 an. Eine
 Volkszählung wird als Sünde des Misstrauens gegenüber Gott betrachtet;
 sie konnte als Nachprüfung des Segens, der sich im Wachstum des Volkes
 ausdrückte (V. 3), verstanden werden.
 
-^{[[#fnm3][3]]} durchstreift: Text korr.; Angleichung an V. 4.
+[fn:3] durchstreift: Text korr.; Angleichung an V. 4.
 
-^{[[#fnm4][4]]} begannen: Text korr., vgl. G; H: lagerten sich.
+[fn:4] begannen: Text korr., vgl. G; H: lagerten sich.
 
-^{[[#fnm5][5]]} nach Kadesch: Text korr., vgl. G. - wandten sie sich:
-Text korr., vgl. G.
+[fn:5] nach Kadesch: Text korr., vgl. G. - wandten sie sich: Text korr., vgl. G.
 
-^{[[#fnm6][6]]} Die Strafe entspricht dem Vergehen. Wenn das Volk
+[fn:6] Die Strafe entspricht dem Vergehen. Wenn das Volk
 vermindert wird, ist der König, dessen Macht sich mindert, getroffen.
 
-^{[[#fnm7][7]]} 18-25: Die Erzählung erklärt, warum die Tenne des Arauna
-ein heiliger Ort geworden ist. Hier baute Salomo den Tempel (vgl. 1 Chr
-22,1; 2 Chr 3,1).
+[fn:7] 18-25: Die Erzählung erklärt, warum die Tenne des Arauna
+ein heiliger Ort geworden ist. Hier baute Salomo den Tempel (vgl. [[file:1.Chr_22.org::v1][1 Chr 22,1]]; [[file:2.Chr_3.org::v1][2 Chr 3,1]]).

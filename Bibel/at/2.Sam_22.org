@@ -1,30 +1,22 @@
-:PROPERTIES:
-:ID:       c22e9d53-29ba-473e-9d6c-18a4d4158386
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch Samuel* --
-[[file:2.Sam_1.html][1]] ... [[file:2.Sam_20.html][20]]
-[[file:2.Sam_21.html][21]] *22* [[file:2.Sam_23.html][23]]
-[[file:2.Sam_24.html][24]]
-
---------------
-
-* 2.Sam 22
-  :PROPERTIES:
-  :CUSTOM_ID: sam-22
-  :END:
+#+TITLE: 2 sam 22 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-11 Sa 23:19]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 sam 22.html
 
 <<verses>>
 
 <<v1>>
-**** Davids Dankgebet: 22,1-51
-     :PROPERTIES:
-     :CUSTOM_ID: davids-dankgebet-221-51
-     :END:
+* Davids Dankgebet: 22,1-51
+
 1 David sang dem Herrn an dem Tag, als ihn der Herr aus der Gewalt all
-seiner Feinde und aus der Gewalt Sauls errettet hatte, folgendes Lied:
-^{[[#fn1][1]]}
+seiner Feinde und aus der Gewalt Sauls errettet hatte, folgendes Lied: [fn:1]
 
 <<v2>>
 2 Herr, du mein Fels, meine Burg, mein Retter,\\
@@ -83,7 +75,7 @@ seiner Feinde und aus der Gewalt Sauls errettet hatte, folgendes Lied:
 
 <<v12>>
 12 Er hüllte sich in Finsternis, /\\
- in dunkles Wasser und dichtes Gewölk wie in ein Zelt. ^{[[#fn2][2]]}\\
+ in dunkles Wasser und dichtes Gewölk wie in ein Zelt. [fn:2]\\
 \\
 
 <<v13>>
@@ -160,12 +152,12 @@ seiner Feinde und aus der Gewalt Sauls errettet hatte, folgendes Lied:
 
 <<v27>>
 27 Gegen den Reinen zeigst du dich rein, /\\
- doch falsch gegen den Falschen. ^{[[#fn3][3]]}\\
+ doch falsch gegen den Falschen. [fn:3]\\
 \\
 
 <<v28>>
 28 Dem bedrückten Volk bringst du Heil, /\\
- doch die Blicke der Stolzen zwingst du nieder. ^{[[#fn4][4]]}\\
+ doch die Blicke der Stolzen zwingst du nieder. [fn:4]\\
 \\
 
 <<v29>>
@@ -238,7 +230,7 @@ seiner Feinde und aus der Gewalt Sauls errettet hatte, folgendes Lied:
 
 <<v42>>
 42 Sie schreien, doch hilft ihnen niemand, /\\
- sie schreien zum Herrn, doch er gibt keine Antwort. ^{[[#fn5][5]]}\\
+ sie schreien zum Herrn, doch er gibt keine Antwort. [fn:5]\\
 \\
 
 <<v43>>
@@ -260,7 +252,7 @@ seiner Feinde und aus der Gewalt Sauls errettet hatte, folgendes Lied:
 
 <<v46>>
 46 Die Söhne der Fremde schwinden dahin, /\\
- sie kommen zitternd aus ihren Burgen hervor. ^{[[#fn6][6]]}\\
+ sie kommen zitternd aus ihren Burgen hervor. [fn:6]\\
 \\
 
 <<v47>>
@@ -290,14 +282,16 @@ seiner Feinde und aus der Gewalt Sauls errettet hatte, folgendes Lied:
  David und seinem Stamm auf ewig.\\
 \\
 
-^{[[#fnm1][1]]} ℘ (1-51) Ps 18
+* Footnotes
 
-^{[[#fnm2][2]]} dunkles: Text korr. nach Ps 18.
+[fn:1] (1-51) [[file:Ps_18.org::v1][Ps 18]]
 
-^{[[#fnm3][3]]} doch falsch: Text korr. nach Ps 18.
+[fn:2] dunkles: Text korr. nach [[file:Ps_18.org::v1][Ps 18]].
 
-^{[[#fnm4][4]]} doch die Blicke der Stolzen: Text korr. nach Ps 18.
+[fn:3] doch falsch: Text korr. nach [[file:Ps_18.org::v1][Ps 18]].
 
-^{[[#fnm5][5]]} Sie schreien: Text korr. nach Ps 18.
+[fn:4] doch die Blicke der Stolzen: Text korr. nach [[file:Ps_18.org::v1][Ps 18]].
 
-^{[[#fnm6][6]]} sie kommen zitternd: Text korr. nach Ps 18.
+[fn:5] Sie schreien: Text korr. nach [[file:Ps_18.org::v1][Ps 18]].
+
+[fn:6] sie kommen zitternd: Text korr. nach [[file:Ps_18.org::v1][Ps 18]].

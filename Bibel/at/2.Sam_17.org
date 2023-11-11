@@ -1,19 +1,16 @@
-:PROPERTIES:
-:ID:       5a9cd444-6408-4fb7-9eac-4c29bf67f3f5
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch Samuel* --
-[[file:2.Sam_1.html][1]] ... [[file:2.Sam_15.html][15]]
-[[file:2.Sam_16.html][16]] *17* [[file:2.Sam_18.html][18]]
-[[file:2.Sam_19.html][19]] ... [[file:2.Sam_24.html][24]]
-
---------------
+#+TITLE: 2 Sam 17 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-11 Sa 21:58]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Sam 17.html
 
 * 2.Sam 17
-  :PROPERTIES:
-  :CUSTOM_ID: sam-17
-  :END:
 
 <<verses>>
 
@@ -30,7 +27,7 @@ und ich kann den König, wenn er allein ist, erschlagen.
 3 Dann werde ich das ganze Volk zu dir zurückführen, wie eine
 Neuvermählte zu ihrem Mann heimgeholt wird. Du trachtest ja nur dem
 einen Mann nach dem Leben; das ganze übrige Volk aber soll Frieden
-haben. ^{[[#fn1][1]]}
+haben. [fn:1]
 
 <<v4>>
 4 Der Plan erschien Abschalom und allen Ältesten Israels gut.
@@ -45,7 +42,7 @@ gesagt. Sollen wir seinen Vorschlag ausführen? Wenn nicht, dann rede du!
 
 <<v7>>
 7 Da sagte Huschai zu Abschalom: Diesmal ist der Rat, den Ahitofel
-gegeben hat, nicht gut. ^{[[#fn2][2]]}
+gegeben hat, nicht gut. [fn:2]
 
 <<v8>>
 8 Und er fuhr fort: Du kennst deinen Vater und seine Männer; sie sind
@@ -57,7 +54,7 @@ seinen Leuten keine Nachtruhe hält.
 9 Sicher hält er sich jetzt in einer Höhle oder an einem anderen Ort
 versteckt. Wenn nun gleich zu Anfang einige von deinen Leuten fallen und
 man hört davon, wird man sagen: Die Anhänger Abschaloms haben eine
-Niederlage erlitten. ^{[[#fn3][3]]}
+Niederlage erlitten. [fn:3]
 
 <<v10>>
 10 Dann wird auch der Tapferste - und habe er ein Herz wie ein Löwe
@@ -83,12 +80,12 @@ hinab, sodass dort, wo sie sind, kein Stein mehr zu finden ist.
 14 Da sagten Abschalom und alle Israeliten: Der Rat des Arkiters Huschai
 ist besser als der Rat Ahitofels. Der Herr hatte es nämlich so bestimmt;
 der gute Rat Ahitofels sollte durchkreuzt werden, weil der Herr Unheil
-über Abschalom bringen wollte. ^{[[#fn4][4]][[#fn5][5]]}
+über Abschalom bringen wollte. [fn:4] [fn:5]
 
 <<v15>>
 15 Darauf sagte Huschai zu den Priestern Zadok und Abjatar: Das und das
 hat Ahitofel Abschalom und den Ältesten Israels geraten und das und das
-habe ich geraten. ^{[[#fn6][6]]}
+habe ich geraten. [fn:6]
 
 <<v16>>
 16 Schickt jetzt schnell jemand zu David und lasst ihm sagen: Bleib
@@ -100,8 +97,7 @@ die er bei sich hat, vernichtet wird.
 17 Jonatan und Ahimaaz aber hielten sich an der Rogel-Quelle auf; eine
 Magd ging zu ihnen und brachte ihnen die Nachricht, sie aber gingen zu
 König David und machten ihm Meldung. Sie durften sich nämlich nicht
-sehen lassen und konnten deshalb die Stadt nicht betreten.
-^{[[#fn7][7]]}
+sehen lassen und konnten deshalb die Stadt nicht betreten. [fn:7]
 
 <<v18>>
 18 Doch ein junger Mann sah sie trotzdem und meldete es Abschalom. Die
@@ -116,8 +112,7 @@ Brunnens und streute Körner darauf, sodass man nichts merken konnte.
 20 Als Abschaloms Knechte zu der Frau ins Haus kamen, fragten sie: Wo
 sind Ahimaaz und Jonatan? Die Frau antwortete ihnen: Sie sind von hier
 zum Wasser weitergegangen. Die Knechte machten sich auf die Suche, als
-sie sie aber nicht fanden, kehrten sie nach Jerusalem zurück.
-^{[[#fn8][8]]}
+sie sie aber nicht fanden, kehrten sie nach Jerusalem zurück. [fn:8]
 
 <<v21>>
 21 Nachdem sie weggegangen waren, stiegen die beiden aus dem Brunnen
@@ -134,14 +129,12 @@ den Jordan nicht überschritten hätte.
 23 Als Ahitofel sah, dass sein Rat nicht ausgeführt wurde, sattelte er
 seinen Esel, brach auf und kehrte in seine Heimatstadt zurück. Dann
 bestellte er sein Haus und erhängte sich. So starb er und man begrub ihn
-im Grab seines Vaters. ^{[[#fn9][9]]}\\
+im Grab seines Vaters. [fn:9]\\
 \\
 
 <<v24>>
-**** Davids Vorbereitungen zum Kampf: 17,24 - 18,5
-     :PROPERTIES:
-     :CUSTOM_ID: davids-vorbereitungen-zum-kampf-1724---185
-     :END:
+* Davids Vorbereitungen zum Kampf: 17,24 - 18,5
+
 24 Als David nach Mahanajim gekommen war, überschritt Abschalom mit
 allen Israeliten den Jordan.
 
@@ -149,7 +142,7 @@ allen Israeliten den Jordan.
 25 Abschalom hatte Amasa anstelle Joabs an die Spitze des Heeres
 gestellt. Amasa war der Sohn eines Ismaeliters namens Jeter und der
 Abigal, die eine Tochter des Nahasch und eine Schwester von Joabs Mutter
-Zeruja war. ^{[[#fn10][10]]}
+Zeruja war. [fn:10]
 
 <<v26>>
 26 Die Israeliten unter Abschalom schlugen ihr Lager im Gebiet von
@@ -158,8 +151,7 @@ Gilead auf.
 <<v27>>
 27 Als nun David nach Mahanajim gekommen war, brachten ihm Schobi, der
 Sohn des Nahasch aus der Ammoniterstadt Rabba, und Machir, der Sohn
-Ammiëls aus Lo-Dabar, sowie der Gileaditer Barsillai aus Roglim
-^{[[#fn11][11]][[#fn12][12]]}
+Ammiëls aus Lo-Dabar, sowie der Gileaditer Barsillai aus Roglim [fn:11] [fn:12]
 
 <<v28>>
 28 Matten und Decken, irdene Gefäße, Weizen, Gerste, Mehl und geröstetes
@@ -170,30 +162,31 @@ Korn, Bohnen und Linsen [und geröstetes Korn];
 Schafe und Käse als Nahrung. Denn sie sagten: Das Volk in der Steppe ist
 hungrig, durstig und erschöpft.
 
-^{[[#fnm1][1]]} Text korr. nach G.
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 15,34
+[fn:1] Text korr. nach G.
 
-^{[[#fnm3][3]]} von deinen Leuten, wörtlich: von ihnen; gemeint sind die
+[fn:2] [[file:2.Sam_15.org::v34][15,34]]
+
+[fn:3] von deinen Leuten, wörtlich: von ihnen; gemeint sind die
 Leute Abschaloms.
 
-^{[[#fnm4][4]]} ℘ 15,31
+[fn:4] [[file:2.Sam_15.org::v31][15,31]]
 
-^{[[#fnm5][5]]} Der Rat Huschais soll David Zeitgewinn bringen.
+[fn:5] Der Rat Huschais soll David Zeitgewinn bringen.
 
-^{[[#fnm6][6]]} ℘ (15-21) 15,36
+[fn:6] (15-21) [[file:2.Sam_15.org::v36][15,36]]
 
-^{[[#fnm7][7]]} Die Rogel-Quelle ist bei Jerusalem, südlich der
+[fn:7] Die Rogel-Quelle ist bei Jerusalem, südlich der
 Vereinigung des Kidrontals mit dem Hinnomtal.
 
-^{[[#fnm8][8]]} von hier zum Wasser: Text korr.
+[fn:8] von hier zum Wasser: Text korr.
 
-^{[[#fnm9][9]]} Selbstmord begeht im AT nur jemand, der einem grausamen
-Tod entgehen will (vgl. Ri 9,54; 1 Sam 31,4; 1 Kön 16,18; 2 Makk
-14,43-46).
+[fn:9] Selbstmord begeht im AT nur jemand, der einem grausamen
+Tod entgehen will (vgl. [[file:Ri_9.org::v54][Ri 9,54]]; [[file:1.Sam_31.org::v4][1 Sam 31,4]]; [[file:1.Kön_16.org::v18][1 Kön 16,18]]; [[file:2.Makk_14.org::v43][2 Makk 14,43-46]]).
 
-^{[[#fnm10][10]]} Ismaeliters: Text korr. nach 1 Chr 2,17.
+[fn:10] Ismaeliters: Text korr. nach [[file:1.Chr_2.org::v17][1 Chr 2,17]].
 
-^{[[#fnm11][11]]} ℘ 9,4; 19,32; 1 Kön 2,7
+[fn:11] [[file:2.Sam_9.org::v4][9,4]]; [[file:2.Sam_19.org::v32][19,32]]; [[file:1.Kön_2.org::v7][1 Kön 2,7]]
 
-^{[[#fnm12][12]]} brachten: ergänzt nach G.
+[fn:12] brachten: ergänzt nach G.

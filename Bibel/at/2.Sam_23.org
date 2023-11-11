@@ -1,26 +1,20 @@
-:PROPERTIES:
-:ID:       98780bf3-5016-4aef-9986-5b3c2004d465
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch Samuel* --
-[[file:2.Sam_1.html][1]] ... [[file:2.Sam_21.html][21]]
-[[file:2.Sam_22.html][22]] *23* [[file:2.Sam_24.html][24]]
-
---------------
-
-* 2.Sam 23
-  :PROPERTIES:
-  :CUSTOM_ID: sam-23
-  :END:
+#+TITLE: 2 Sam 23 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-11 Sa 23:24]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Sam 23.html
 
 <<verses>>
 
 <<v1>>
-**** Davids letzte Worte: 23,1-7
-     :PROPERTIES:
-     :CUSTOM_ID: davids-letzte-worte-231-7
-     :END:
+* Davids letzte Worte: 23,1-7
+
 1 Das sind die letzten Worte Davids: Spruch Davids, des Sohnes Isais,
 /\\
  Spruch des hochgestellten Mannes, /\\
@@ -30,7 +24,7 @@
 
 <<v2>>
 2 Der Geist des Herrn sprach durch mich, /\\
- sein Wort war auf meiner Zunge. ^{[[#fn1][1]]}\\
+ sein Wort war auf meiner Zunge. [fn:1]\\
 \\
 
 <<v3>>
@@ -45,7 +39,7 @@
  wenn die Sonne aufstrahlt /\\
  an einem Morgen ohne Wolken, /\\
  der nach dem Regen grünes Gras /\\
- aus der Erde hervorsprießen lässt. ^{[[#fn2][2]]}\\
+ aus der Erde hervorsprießen lässt. [fn:2]\\
 \\
 
 <<v5>>
@@ -53,7 +47,7 @@
  Weil er mir einen ewigen Bund gewährt hat, ist es in allem wohlgeordnet
 und gut gesichert. /\\
  All mein Heil und alles, was ich begehrte, /\\
- ließ er es nicht aufsprießen? ^{[[#fn3][3]]}\\
+ ließ er es nicht aufsprießen? [fn:3]\\
 \\
 
 <<v6>>
@@ -64,23 +58,20 @@ und gut gesichert. /\\
 <<v7>>
 7 Wenn jemand sie anrühren will, /\\
  rüstet er sich mit Eisen und einer Lanze; /\\
- sie werden im Feuer verbrannt. ^{[[#fn4][4]]}\\
+ sie werden im Feuer verbrannt. [fn:4]\\
 \\
 
 <<v8>>
-**** Davids Helden: 23,8-39
-     :PROPERTIES:
-     :CUSTOM_ID: davids-helden-238-39
-     :END:
+* Davids Helden: 23,8-39
+
 8 Das sind die Namen der Helden Davids: Jischbaal, der Hachmoniter, das
 Haupt der Drei; er schwang seine Streitaxt über achthundert Männer und
-erschlug sie alle auf einmal. ^{[[#fn5][5]][[#fn6][6]]}
+erschlug sie alle auf einmal. [fn:5] [fn:6]
 
 <<v9>>
 9 Nach ihm kommt (als Zweiter) der Ahoachiter Eleasar, der Sohn Dodos,
 unter den drei Helden. Er war bei David in Pas-Dammim, als die Philister
-sich zum Kampf sammelten. Als sich die Israeliten zurückzogen,
-^{[[#fn7][7]]}
+sich zum Kampf sammelten. Als sich die Israeliten zurückzogen, [fn:7]
 
 <<v10>>
 10 hielt er (allein) stand und schlug auf die Philister ein, bis seine
@@ -91,7 +82,7 @@ Eleasar, aber nur noch, um zu plündern.
 <<v11>>
 11 Nach ihm kommt (als dritter) der Harariter Schamma, der Sohn Ages.
 Einst versammelten sich die Philister bei Lehi. Dort war ein Linsenfeld.
-Als das Volk vor den Philistern floh, ^{[[#fn8][8]]}
+Als das Volk vor den Philistern floh, [fn:8]
 
 <<v12>>
 12 stellte sich Schamma mitten in das Feld, behauptete es und schlug die
@@ -107,7 +98,7 @@ Philister lag in Betlehem.
 
 <<v15>>
 15 Da bekam David großen Durst und er sagte: Wer bringt mir Wasser aus
-der Zisterne am Tor von Betlehem? ^{[[#fn9][9]]}
+der Zisterne am Tor von Betlehem? [fn:9]
 
 <<v16>>
 16 Da drangen die drei Helden in das Lager der Philister ein, schöpften
@@ -128,13 +119,13 @@ sie; bei den drei Helden hatte er einen großen Namen.
 
 <<v19>>
 19 Unter den Dreißig war er hoch geehrt und er wurde ihr Anführer, aber
-an die Drei reichte er nicht heran. ^{[[#fn10][10]]}
+an die Drei reichte er nicht heran. [fn:10]
 
 <<v20>>
 20 Benaja aus Kabzeel, der Sohn Jojadas, war ein tapferer Mann, der
 große Taten vollbrachte. Er erschlug die beiden Söhne Ariëls aus Moab.
 Als einmal Schnee gefallen war, kam er zu einer Zisterne und erlegte
-darin einen Löwen. ^{[[#fn11][11]]}
+darin einen Löwen. [fn:11]
 
 <<v21>>
 21 Auch erschlug er einen Ägypter, einen Furcht erregenden Mann. Der
@@ -161,7 +152,7 @@ Betlehem, der Sohn Dodos,
 26 Helez aus Pelet, Ira aus Tekoa, der Sohn des Ikkesch,
 
 <<v27>>
-27 Abiëser aus Anatot, Sibbechai aus Huscha, ^{[[#fn12][12]]}
+27 Abiëser aus Anatot, Sibbechai aus Huscha, [fn:12]
 
 <<v28>>
 28 Zalmon, der Ahoachiter, Machrai aus Netofa,
@@ -177,7 +168,7 @@ Sohn Ribais,
 31 Abialbon aus Bet-Araba, Asmawet aus Bahurim,
 
 <<v32>>
-32 Eljachba aus Schaalbon, Jaschen aus Nun, ^{[[#fn13][13]]}
+32 Eljachba aus Schaalbon, Jaschen aus Nun, [fn:13]
 
 <<v33>>
 33 Schamma aus Harar, Ahiam aus Harar, der Sohn Scharars,
@@ -197,42 +188,41 @@ Ahitofels,
 Sohnes der Zeruja,
 
 <<v38>>
-38 Ira aus Jattir, Gareb aus Jattir ^{[[#fn14][14]]}
+38 Ira aus Jattir, Gareb aus Jattir [fn:14]
 
 <<v39>>
 39 sowie Urija, der Hetiter. Im Ganzen (waren es) siebenunddreißig.\\
 \\
 
-^{[[#fnm1][1]]} 2-7: Davids «letzte Worte» (V. 1) sind keine
+* Footnotes
+
+[fn:1] 2-7: Davids «letzte Worte» (V. 1) sind keine
 Abschiedsrede, sondern ein Danklied für die Wohltaten Gottes (V. 5),
 eingerahmt von einer Weisung für den König (VV. 3f.6f).
 
-^{[[#fnm2][2]]} hervorsprießen lässt: Text korr.
+[fn:2] hervorsprießen lässt: Text korr.
 
-^{[[#fnm3][3]]} gesichert: Text korr.
+[fn:3] gesichert: Text korr.
 
-^{[[#fnm4][4]]} H liest am Ende des Verses noch ein Wort, das wohl aus
+[fn:4] H liest am Ende des Verses noch ein Wort, das wohl aus
 dem folgenden Vers hierher geraten ist.
 
-^{[[#fnm5][5]]} ℘ (8-39) 1 Chr 11,10-47
+[fn:5] (8-39) [[file:1.Chr_11.org::v10][1 Chr 11,10-47]]
 
-^{[[#fnm6][6]]} Text korr., vgl. G und 1 Chr 11,11.
+[fn:6] Text korr., vgl. G und [[file:1.Chr_11.org::v11][1 Chr 11,11]].
 
-^{[[#fnm7][7]]} Pas-Dammim: Text korr., vgl. 1 Chr 11,13.
+[fn:7] Pas-Dammim: Text korr., vgl. [[file:1.Chr_11.org::v13][1 Chr 11,13]].
 
-^{[[#fnm8][8]]} bei Lehi: Text korr.
+[fn:8] bei Lehi: Text korr.
 
-^{[[#fnm9][9]]} Da bekam David großen Durst, wörtlich: Da hatte David
-ein Verlangen.
+[fn:9] Da bekam David großen Durst, wörtlich: Da hatte David ein Verlangen.
 
-^{[[#fnm10][10]]} Unter den Dreißig: Text korr.; H: Unter den Drei.
+[fn:10] Unter den Dreißig: Text korr.; H: Unter den Drei.
 
-^{[[#fnm11][11]]} Söhne: eingefügt nach G.
+[fn:11] Söhne: eingefügt nach G.
 
-^{[[#fnm12][12]]} Sibbechai: Text korr., vgl. G-Handschriften und 1 Chr
-11,29.
+[fn:12] Sibbechai: Text korr., vgl. G-Handschriften und [[file:1.Chr_11.org::v29][1 Chr 11,29]].
 
-^{[[#fnm13][13]]} Jaschen aus Nun: Text korr., vgl. 1 Chr 11,34 in
-G-Handschriften.
+[fn:13] Jaschen aus Nun: Text korr., vgl. [[file:1.Chr_11.org::v34][1 Chr 11,34]] in G-Handschriften.
 
-^{[[#fnm14][14]]} aus Jattir: Text korr. vgl. G-Handschriften.
+[fn:14] aus Jattir: Text korr. vgl. G-Handschriften.

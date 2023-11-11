@@ -1,36 +1,29 @@
-:PROPERTIES:
-:ID:       726114ad-cbf2-4e64-ba28-3b0445548bd3
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch Samuel* --
-[[file:2.Sam_1.html][1]] ... [[file:2.Sam_13.html][13]]
-[[file:2.Sam_14.html][14]] *15* [[file:2.Sam_16.html][16]]
-[[file:2.Sam_17.html][17]] ... [[file:2.Sam_24.html][24]]
+#+TITLE: 2 Sam 15 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-11 Sa 21:42]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Sam 15.html
 
---------------
-
-* 2.Sam 15
-  :PROPERTIES:
-  :CUSTOM_ID: sam-15
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Abschaloms Aufstand gegen David: 15,1-12
-     :PROPERTIES:
-     :CUSTOM_ID: abschaloms-aufstand-gegen-david-151-12
-     :END:
+* Abschaloms Aufstand gegen David: 15,1-12
+
 1 Einige Zeit danach schaffte sich Abschalom einen Wagen und Pferde an
-sowie fünfzig Mann, die immer vor ihm herliefen. ^{[[#fn1][1]]}
+sowie fünfzig Mann, die immer vor ihm herliefen. [fn:1]
 
 <<v2>>
 2 Früh am Morgen stellte er sich neben den Weg zum Stadttor, und sooft
 jemand mit einer Streitsache zum König vor Gericht gehen wollte, sprach
 er ihn an und sagte: Aus welcher Stadt bist du? Wenn der dann
-antwortete: Dein Knecht ist aus einem der Stämme Israels!,
-^{[[#fn2][2]]}
+antwortete: Dein Knecht ist aus einem der Stämme Israels!, [fn:2]
 
 <<v3>>
 3 sagte Abschalom zu ihm: Was du sagst, ist ja gut und recht, aber beim
@@ -51,14 +44,12 @@ gehen wollten, und so stahl er sich in das Herz der Israeliten.
 
 <<v7>>
 7 Nach vier Jahren sagte Abschalom zum König: Ich möchte nach Hebron
-gehen, um ein Gelübde zu erfüllen, das ich dem Herrn abgelegt habe.
-^{[[#fn3][3]]}
+gehen, um ein Gelübde zu erfüllen, das ich dem Herrn abgelegt habe. [fn:3]
 
 <<v8>>
 8 Denn dein Knecht hat bei seinem Aufenthalt in Geschur in Aram das
 Gelübde gemacht: Wenn der Herr mich wirklich nach Jerusalem zurückkehren
-lässt, dann will ich für den Herrn einen Gottesdienst feiern.
-^{[[#fn4][4]]}
+lässt, dann will ich für den Herrn einen Gottesdienst feiern. [fn:4]
 
 <<v9>>
 9 Der König antwortete ihm: Geh in Frieden! Da brach Abschalom auf und
@@ -82,10 +73,8 @@ Abschalom an.\\
 \\
 
 <<v13>>
-**** Davids Flucht aus Jerusalem: 15,13 - 16,14
-     :PROPERTIES:
-     :CUSTOM_ID: davids-flucht-aus-jerusalem-1513---1614
-     :END:
+* Davids Flucht aus Jerusalem: 15,13 - 16,14
+
 13 Als ein Bote kam und David meldete: Das Herz der Israeliten hat sich
 Abschalom zugewandt!,
 
@@ -101,8 +90,7 @@ entscheidet. Hier sind deine Knechte.
 
 <<v16>>
 16 So zog der König fort und sein ganzes Haus folgte ihm. Nur die zehn
-Nebenfrauen ließ der König zurück; sie sollten das Haus bewachen.
-^{[[#fn5][5]]}
+Nebenfrauen ließ der König zurück; sie sollten das Haus bewachen. [fn:5]
 
 <<v17>>
 17 Als der König mit den Leuten, die ihm folgten, fortzog, blieben sie
@@ -175,12 +163,12 @@ zogen weinend hinauf.
 <<v31>>
 31 Man hatte David die Nachricht gebracht, dass auch Ahitofel unter den
 Verschwörern aufseiten Abschaloms war. Da sagte David: Herr, vereitle
-den Rat Ahitofels! ^{[[#fn6][6]]}
+den Rat Ahitofels! [fn:6]
 
 <<v32>>
 32 Als David auf den Gipfel des Berges kam, auf dem man sich vor Gott
 niederwirft, kam ihm plötzlich der Arkiter Huschai entgegen, mit
-zerrissenen Kleidern und Erde auf dem Haupt. ^{[[#fn7][7]][[#fn8][8]]}
+zerrissenen Kleidern und Erde auf dem Haupt. [fn:7] [fn:8]
 
 <<v33>>
 33 David sagte zu ihm: Wenn du mit mir ziehst, wärest du mir nur eine
@@ -190,7 +178,7 @@ Last.
 34 Wenn du aber in die Stadt zurückkehrst und zu Abschalom sagst: Ich
 bin dein Knecht, mein König, ich war früher der Knecht deines Vaters,
 jetzt aber will ich dein Knecht sein!, dann kannst du für mich den Rat
-Ahitofels durchkreuzen. ^{[[#fn9][9]]}
+Ahitofels durchkreuzen. [fn:9]
 
 <<v35>>
 35 Die Priester Zadok und Abjatar werden auch dort bei dir sein und du
@@ -204,28 +192,30 @@ hört.
 
 <<v37>>
 37 So kam Huschai, der Freund Davids, in die Stadt zurück, als Abschalom
-gerade in Jerusalem ankam. ^{[[#fn10][10]]}
+gerade in Jerusalem ankam. [fn:10]
 
-^{[[#fnm1][1]]} ℘ 1 Kön 1,5
+* Footnotes
 
-^{[[#fnm2][2]]} Abschalom wendet sich werbend vor allem an die
+[fn:1] [[file:1.Kön_1.org::v5][1 Kön 1,5]]
+
+[fn:2] Abschalom wendet sich werbend vor allem an die
 Nordstämme. Der oberste Richter im Land (V. 4) ist der König.
 Anscheinend gab es auch unter David Grund zur Klage über die
 Rechtspflege.
 
-^{[[#fnm3][3]]} vier: Text korr., vgl. G und S; H: vierzig.
+[fn:3] vier: Text korr., vgl. G und S; H: vierzig.
 
-^{[[#fnm4][4]]} ℘ 13,37f
+[fn:4] [[file:2.Sam_13.org::v37][13,37f]]
 
-^{[[#fnm5][5]]} ℘ 16,21; 20,3
+[fn:5] [[file:2.Sam_16.org::v21][16,21]]; [[file:2.Sam_20.org::v3][20,3]]
 
-^{[[#fnm6][6]]} ℘ 17,14
+[fn:6] [[file:2.Sam_17.org::v14][17,14]]
 
-^{[[#fnm7][7]]} ℘ 1 Kön 3,2
+[fn:7] [[file:1.Kön_3.org::v2][1 Kön 3,2]]
 
-^{[[#fnm8][8]]} Hier wird ein uns sonst nicht bekanntes Heiligtum auf
+[fn:8] Hier wird ein uns sonst nicht bekanntes Heiligtum auf
 dem Ölberg vorausgesetzt.
 
-^{[[#fnm9][9]]} ℘ 17,7
+[fn:9] [[file:2.Sam_17.org::v7][17,7]]
 
-^{[[#fnm10][10]]} ℘ 16,15; 1 Chr 27,33
+[fn:10] [[file:2.Sam_16.org::v15][16,15]]; [[file:1.Chr_27.org::v33][1 Chr 27,33]]

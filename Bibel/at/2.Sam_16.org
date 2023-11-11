@@ -1,19 +1,16 @@
-:PROPERTIES:
-:ID:       167da5ff-cbcc-4e72-8e41-15ad11d74cd3
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch Samuel* --
-[[file:2.Sam_1.html][1]] ... [[file:2.Sam_14.html][14]]
-[[file:2.Sam_15.html][15]] *16* [[file:2.Sam_17.html][17]]
-[[file:2.Sam_18.html][18]] ... [[file:2.Sam_24.html][24]]
-
---------------
+#+TITLE: 2 Sam 16 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-11 Sa 21:51]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Sam 16.html
 
 * 2.Sam 16
-  :PROPERTIES:
-  :CUSTOM_ID: sam-16
-  :END:
 
 <<verses>>
 
@@ -32,7 +29,7 @@ für die, die in der Steppe müde werden.
 <<v3>>
 3 Der König fragte: Wo ist der Sohn deines Herrn? Ziba antwortete dem
 König: Er ist in Jerusalem geblieben; denn er hat gesagt: Heute wird mir
-das Haus Israel das Königtum meines Vaters wiedergeben. ^{[[#fn1][1]]}
+das Haus Israel das Königtum meines Vaters wiedergeben. [fn:1]
 
 <<v4>>
 4 Da sagte der König zu Ziba: Jetzt soll alles, was Merib-Baal gehört,
@@ -42,7 +39,7 @@ möge ich Gnade finden vor deinen Augen, mein Herr und König.
 <<v5>>
 5 Als König David nach Bahurim kam, da kam plötzlich aus der Stadt ein
 Mann namens Schimi, ein Sohn Geras aus der Sippe des Hauses Saul. Er kam
-David mit Flüchen entgegen, ^{[[#fn2][2]]}
+David mit Flüchen entgegen, [fn:2]
 
 <<v6>>
 6 und warf mit Steinen nach ihm und allen Dienern des Königs David,
@@ -76,7 +73,7 @@ Herr geboten.
 
 <<v12>>
 12 Vielleicht sieht der Herr mein Elend an und erweist mir Gutes für den
-Fluch, der mich heute trifft. ^{[[#fn3][3]]}
+Fluch, der mich heute trifft. [fn:3]
 
 <<v13>>
 13 David und seine Männer setzten ihren Weg fort; Schimi ging am
@@ -85,16 +82,14 @@ nach ihm und bewarf ihn mit Erde.
 
 <<v14>>
 14 Erschöpft kam der König mit allen Leuten, die er bei sich hatte, an
-den Jordan; dort konnte er wieder Atem schöpfen. ^{[[#fn4][4]]}\\
+den Jordan; dort konnte er wieder Atem schöpfen. [fn:4]\\
 \\
 
 <<v15>>
-**** Abschalom in Jerusalem: 16,15 - 17,23
-     :PROPERTIES:
-     :CUSTOM_ID: abschalom-in-jerusalem-1615---1723
-     :END:
+* Abschalom in Jerusalem: 16,15 - 17,23
+
 15 Abschalom war mit dem ganzen Heer der Israeliten nach Jerusalem
-gekommen; auch Ahitofel war bei ihm. ^{[[#fn5][5]]}
+gekommen; auch Ahitofel war bei ihm. [fn:5]
 
 <<v16>>
 16 Als der Arkiter Huschai, der Freund Davids, zu Abschalom kam, sagte
@@ -121,33 +116,33 @@ Verfügung stehen.
 21 Ahitofel sagte zu Abschalom: Geh zu den Nebenfrauen deines Vaters,
 die er hiergelassen hat, um das Haus zu bewachen. So wird ganz Israel
 erfahren, dass du dich bei deinem Vater verhasst gemacht hast, und alle,
-die zu dir halten, werden ermutigt. ^{[[#fn6][6]][[#fn7][7]]}
+die zu dir halten, werden ermutigt. [fn:6] [fn:7]
 
 <<v22>>
 22 Man errichtete für Abschalom ein Zelt auf dem Dach, und Abschalom
-ging vor den Augen ganz Israels zu den Nebenfrauen seines Vaters.
-^{[[#fn8][8]]}
+ging vor den Augen ganz Israels zu den Nebenfrauen seines Vaters. [fn:8]
 
 <<v23>>
 23 Ein Rat, den Ahitofel gab, galt in jenen Tagen so viel, als hätte man
 ein Gotteswort erbeten. So viel galt jeder Rat Ahitofels, bei David wie
 bei Abschalom.
 
-^{[[#fnm1][1]]} ℘ (3-4) 19,25-31
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ (5-12) 19,17-24; 1 Kön 2,8f
+[fn:1] (3-4) [[file:2.Sam_19.org::v25][19,25-31]]
 
-^{[[#fnm3][3]]} mein Elend: Text korr. nach G.
+[fn:2] (5-12) [[file:2.Sam_19.org::v17][19,17-24]]; [[file:1.Kön_2.org::v8][1 Kön 2,8f]]
 
-^{[[#fnm4][4]]} an den Jordan: Ortsangabe, die in H fehlt, ergänzt nach
-G und 15,28.
+[fn:3] mein Elend: Text korr. nach G.
 
-^{[[#fnm5][5]]} ℘ 15,37
+[fn:4] an den Jordan: Ortsangabe, die in H fehlt, ergänzt nach G und [[file:2.Sam_15.org::v28][15,28]].
 
-^{[[#fnm6][6]]} ℘ 15,16
+[fn:5] [[file:2.Sam_15.org::v37][15,37]]
 
-^{[[#fnm7][7]]} Der Rat des angesehenen Ahitofel will erreichen, dass
+[fn:6] [[file:2.Sam_15.org::v16][15,16]]
+
+[fn:7] Der Rat des angesehenen Ahitofel will erreichen, dass
 der Bruch Abschaloms mit seinem Vater unheilbar wird und dass dadurch
 auch die Schwankenden auf die Seite Abschaloms gezogen werden.
 
-^{[[#fnm8][8]]} ℘ 12,11
+[fn:8] [[file:2.Sam_12.org::v11][12,11]]
