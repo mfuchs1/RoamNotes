@@ -1,27 +1,20 @@
-:PROPERTIES:
-:ID:       d8381e10-c9dc-4423-b2d3-00f6bd5f9014
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch Samuel* --
-[[file:2.Sam_1.html][1]] ... [[file:2.Sam_10.html][10]]
-[[file:2.Sam_11.html][11]] *12* [[file:2.Sam_13.html][13]]
-[[file:2.Sam_14.html][14]] ... [[file:2.Sam_24.html][24]]
-
---------------
-
-* 2.Sam 12
-  :PROPERTIES:
-  :CUSTOM_ID: sam-12
-  :END:
+#+TITLE: 2 Sam 12 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-11 Sa 18:08]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Sam 12.html
 
 <<verses>>
 
 <<v1>>
-**** Gottes Strafe für David: 12,1-25
-     :PROPERTIES:
-     :CUSTOM_ID: gottes-strafe-für-david-121-25
-     :END:
+* Gottes Strafe für David: 12,1-25
+
 1 Darum schickte der Herr den Natan zu David; dieser ging zu David und
 sagte zu ihm: In einer Stadt lebten einst zwei Männer; der eine war
 reich, der andere arm.
@@ -47,7 +40,7 @@ wahr der Herr lebt: Der Mann, der das getan hat, verdient den Tod.
 
 <<v6>>
 6 Das Lamm soll er vierfach ersetzen, weil er das getan und kein Mitleid
-gehabt hat. ^{[[#fn1][1]]}
+gehabt hat. [fn:1]
 
 <<v7>>
 7 Da sagte Natan zu David: Du selbst bist der Mann. So spricht der Herr,
@@ -63,18 +56,18 @@ wenn das zu wenig ist, gebe ich dir noch manches andere dazu.
 9 Aber warum hast du das Wort des Herrn verachtet und etwas getan, was
 ihm missfällt? Du hast den Hetiter Urija mit dem Schwert erschlagen und
 hast dir seine Frau zur Frau genommen; durch das Schwert der Ammoniter
-hast du ihn umgebracht. ^{[[#fn2][2]]}
+hast du ihn umgebracht. [fn:2]
 
 <<v10>>
 10 Darum soll jetzt das Schwert auf ewig nicht mehr von deinem Haus
 weichen; denn du hast mich verachtet und dir die Frau des Hetiters
-genommen, damit sie deine Frau werde. ^{[[#fn3][3]]}
+genommen, damit sie deine Frau werde. [fn:3]
 
 <<v11>>
 11 So spricht der Herr: Ich werde dafür sorgen, dass sich aus deinem
 eigenen Haus das Unheil gegen dich erhebt, und ich werde dir vor deinen
 Augen deine Frauen wegnehmen und sie einem andern geben; er wird am
-hellen Tag bei deinen Frauen liegen. ^{[[#fn4][4]]}
+hellen Tag bei deinen Frauen liegen. [fn:4]
 
 <<v12>>
 12 Ja, du hast es heimlich getan, ich aber werde es vor ganz Israel und
@@ -83,7 +76,7 @@ am hellen Tag tun.
 <<v13>>
 13 Darauf sagte David zu Natan: Ich habe gegen den Herrn gesündigt.
 Natan antwortete David: Der Herr hat dir deine Sünde vergeben; du wirst
-nicht sterben. ^{[[#fn5][5]]}
+nicht sterben. [fn:5]
 
 <<v14>>
 14 Weil du aber die Feinde des Herrn durch diese Sache zum Lästern
@@ -141,16 +134,14 @@ Salomo. Der Herr liebte Salomo
 
 <<v25>>
 25 und sandte den Propheten Natan, damit er ihm um des Herrn willen den
-Namen Jedidja (Liebling des Herrn) gebe. ^{[[#fn6][6]]}\\
+Namen Jedidja (Liebling des Herrn) gebe. [fn:6]\\
 \\
 
 <<v26>>
-**** Die Eroberung von Rabba: 12,26-31
-     :PROPERTIES:
-     :CUSTOM_ID: die-eroberung-von-rabba-1226-31
-     :END:
+* Die Eroberung von Rabba: 12,26-31
+
 26 Joab kämpfte gegen Rabba, (die Stadt) der Ammoniter, und er eroberte
-die Königsstadt. ^{[[#fn7][7]][[#fn8][8]]}
+die Königsstadt. [fn:7] [fn:8]
 
 <<v27>>
 27 Darauf schickte Joab Boten zu David und ließ ihm sagen: Ich habe
@@ -168,38 +159,38 @@ Stadt und nahm sie ein.
 <<v30>>
 30 Dann nahm er ihrem König die Krone vom Haupt, deren Gewicht ein
 Talent Gold betrug und an der ein kostbarer Stein war; sie wurde nun
-Davids Krone. Und er schaffte eine sehr große Beute aus der Stadt fort.
-^{[[#fn9][9]][[#fn10][10]]}
+Davids Krone. Und er schaffte eine sehr große Beute aus der Stadt fort. [fn:9] [fn:10]
 
 <<v31>>
 31 Auch ihre Einwohner führte er fort und stellte sie an die Steinsägen,
 an die eisernen Spitzhacken und an die eisernen Äxte und ließ sie in den
 Ziegeleien arbeiten. So machte er es mit allen Städten der Ammoniter.
-Dann kehrte David mit dem ganzen Heer nach Jerusalem zurück.
-^{[[#fn11][11]]}\\
+Dann kehrte David mit dem ganzen Heer nach Jerusalem zurück. [fn:11]\\
 \\
 
-^{[[#fnm1][1]]} ℘ Ex 21,37
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 1 Kön 15,5
+[fn:1] [[file:Ex_21.org::v37][Ex 21,37]]
 
-^{[[#fnm3][3]]} ℘ 13,28f; 18,14; 1 Kön 2,24f
+[fn:2] [[file:1.Kön_15.org::v5][1 Kön 15,5]]
 
-^{[[#fnm4][4]]} ℘ 16,22; 20,3
+[fn:3] [[file:2.Sam_13.org::v28][13,28f]]; [[file:2.Sam_18.org::v14][18,14]]; [[file:1.Kön_2.org::v24][1 Kön 2,24f]]
 
-^{[[#fnm5][5]]} ℘ Ps 51,2
+[fn:4] [[file:2.Sam_16.org::v22][16,22]]; [[file:2.Sam_20.org::v3][20,3]]
 
-^{[[#fnm6][6]]} Der Name Jedidja, der nur hier vorkommt, weist schon auf
+[fn:5] [[file:Ps_51.org::v2][Ps 51,2]]
+
+[fn:6] Der Name Jedidja, der nur hier vorkommt, weist schon auf
 die Nachfolge Davids hin und bringt auch zum Ausdruck, dass Gott nun dem
 König wieder gnädig ist.
 
-^{[[#fnm7][7]]} ℘ 11,1
+[fn:7] [[file:2.Sam_11.org::v1][11,1]]
 
-^{[[#fnm8][8]]} Rabba: die Hauptstadt des Ammoniterreichs, heute Amman.
+[fn:8] Rabba: die Hauptstadt des Ammoniterreichs, heute Amman.
 
-^{[[#fnm9][9]]} ℘ (30-31) 1 Chr 20,2f
+[fn:9] (30-31) [[file:1.Chr_20.org::v2][1 Chr 20,2f]]
 
-^{[[#fnm10][10]]} Wahrscheinlich ist eher der Wert als das Gewicht (etwa
+[fn:10] Wahrscheinlich ist eher der Wert als das Gewicht (etwa
 41 kg) der Krone gemeint.
 
-^{[[#fnm11][11]]} ließ sie arbeiten: Text korr.; H: führte sie hindurch.
+[fn:11] ließ sie arbeiten: Text korr.; H: führte sie hindurch.

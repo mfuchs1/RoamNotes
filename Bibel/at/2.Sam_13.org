@@ -1,30 +1,23 @@
-:PROPERTIES:
-:ID:       9da3a382-b98d-409f-9571-3a46f654ba31
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch Samuel* --
-[[file:2.Sam_1.html][1]] ... [[file:2.Sam_11.html][11]]
-[[file:2.Sam_12.html][12]] *13* [[file:2.Sam_14.html][14]]
-[[file:2.Sam_15.html][15]] ... [[file:2.Sam_24.html][24]]
-
---------------
-
-* 2.Sam 13
-  :PROPERTIES:
-  :CUSTOM_ID: sam-13
-  :END:
+#+TITLE: 2 Sam 13 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-11 Sa 18:19]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Sam 13.html
 
 <<verses>>
 
 <<v1>>
-**** Amnon und Tamar: 13,1-22
-     :PROPERTIES:
-     :CUSTOM_ID: amnon-und-tamar-131-22
-     :END:
+* Amnon und Tamar: 13,1-22
+
 1 Danach geschah folgendes: Abschalom, der Sohn Davids, hatte eine
 schöne Schwester namens Tamar und Amnon, der Sohn Davids, verliebte sich
-in sie. ^{[[#fn1][1]]}
+in sie. [fn:1]
 
 <<v2>>
 2 Amnon war sehr bedrückt und wurde fast krank wegen seiner Schwester
@@ -82,7 +75,7 @@ tut man in Israel nicht. Begeh keine solche Schandtat!
 <<v13>>
 13 Wohin sollte ich denn in meiner Schande gehen? Du würdest als einer
 der niederträchtigsten Menschen in Israel dastehen. Rede doch mit dem
-König, er wird mich dir nicht verweigern. ^{[[#fn2][2]]}
+König, er wird mich dir nicht verweigern. [fn:2]
 
 <<v14>>
 14 Doch Amnon wollte nicht auf sie hören, sondern packte sie und zwang
@@ -106,7 +99,7 @@ schließt die Tür hinter ihr ab!
 <<v18>>
 18 Sein Diener brachte sie hinaus und schloss die Tür hinter ihr zu. Sie
 hatte ein Ärmelkleid an; denn solche Obergewänder trugen die
-Königstöchter, solange sie Jungfrauen waren. ^{[[#fn3][3]]}
+Königstöchter, solange sie Jungfrauen waren. [fn:3]
 
 <<v19>>
 19 Tamar aber streute sich Asche auf das Haupt und zerriss das
@@ -130,12 +123,10 @@ hatte.\\
 \\
 
 <<v23>>
-**** Abschaloms Rache an Amnon: 13,23-37
-     :PROPERTIES:
-     :CUSTOM_ID: abschaloms-rache-an-amnon-1323-37
-     :END:
+* Abschaloms Rache an Amnon: 13,23-37
+
 23 Zwei Jahre später ließ Abschalom in Baal-Hazor, das bei Efraim liegt,
-seine Schafe scheren und lud alle Söhne des Königs ein. ^{[[#fn4][4]]}
+seine Schafe scheren und lud alle Söhne des Königs ein. [fn:4]
 
 <<v24>>
 24 Er ging zum König und sagte: Dein Knecht lässt gerade seine Schafe
@@ -180,7 +171,7 @@ Auch alle seine Diener, die um ihn herumstanden, zerrissen ihre Kleider.
 32 Jonadab aber, der Sohn Schimas, des Bruders Davids, sagte: Mein Herr
 soll nicht glauben, dass alle jungen Männer, alle Söhne des Königs, tot
 sind. Nur Amnon ist tot; denn Abschalom war verbittert seit dem Tag, an
-dem Amnon seine Schwester vergewaltigte. ^{[[#fn5][5]]}
+dem Amnon seine Schwester vergewaltigte. [fn:5]
 
 <<v33>>
 33 Mein Herr, der König, nehme sich die Sache nicht so zu Herzen und
@@ -202,38 +193,37 @@ heftiges Weinen aus.
 
 <<v37>>
 37 Abschalom aber floh und ging zu Talmai, dem Sohn des Königs Ammihud
-von Geschur und David trauerte lange Zeit um seinen Sohn.
-^{[[#fn6][6]][[#fn7][7]]}\\
+von Geschur und David trauerte lange Zeit um seinen Sohn. [fn:6] [fn:7]\\
 \\
 
 <<v38>>
-**** Abschaloms Rückkehr: 13,38 - 14,33
-     :PROPERTIES:
-     :CUSTOM_ID: abschaloms-rückkehr-1338---1433
-     :END:
+* Abschaloms Rückkehr: 13,38 - 14,33
+
 38 Abschalom war also geflohen und nach Geschur gegangen; dort blieb er
 drei Jahre.
 
 <<v39>>
 39 Dann aber hörte der König allmählich auf, gegen Abschalom zu hadern;
-denn er hatte sich damit abgefunden, dass Amnon tot war. ^{[[#fn8][8]]}
+denn er hatte sich damit abgefunden, dass Amnon tot war. [fn:8]
 
-^{[[#fnm1][1]]} Abschaloms und Tamars Mutter war Maacha; Amnons Mutter
+
+* Footnotes
+
+[fn:1] Abschaloms und Tamars Mutter war Maacha; Amnons Mutter
 war Ahinoam.
 
-^{[[#fnm2][2]]} Demnach waren Ehen zwischen Halbgeschwistern möglich;
-nach Lev 18,11; 20,17 und Dtn 27,22 sind sie streng verboten.
+[fn:2] Demnach waren Ehen zwischen Halbgeschwistern möglich;
+nach [[file:Lev_18.org::v11][Lev 18,11]]; [[file:Lev_20.org::v17][20,17]] und [[file:Dtn_27.org::v22][Dtn 27,22]] sind sie streng verboten.
 
-^{[[#fnm3][3]]} Die beiden Sätze sind sinngemäß umgestellt.
+[fn:3] Die beiden Sätze sind sinngemäß umgestellt.
 
-^{[[#fnm4][4]]} Baal-Hazor: nordöstlich von Bet-El.
+[fn:4] Baal-Hazor: nordöstlich von Bet-El.
 
-^{[[#fnm5][5]]} Abschalom war verbittert, wörtlich: es lag über
+[fn:5] Abschalom war verbittert, wörtlich: es lag über
 Abschaloms Mund.
 
-^{[[#fnm6][6]]} ℘ 14,23
+[fn:6] [[file:2.Sam_14.org::v23][14,23]]
 
-^{[[#fnm7][7]]} Abschaloms Mutter war eine Königstochter aus Geschur
-(3,3).
+[fn:7] Abschaloms Mutter war eine Königstochter aus Geschur ([[file:2.Sam_3.org::v3][3,3]]).
 
-^{[[#fnm8][8]]} zu hadern: Text korr., vgl. G.
+[fn:8] zu hadern: Text korr., vgl. G.

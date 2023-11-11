@@ -1,31 +1,25 @@
-:PROPERTIES:
-:ID:       be043be6-e4a7-46c1-8e89-74ee47b6532a
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch Samuel* --
-[[file:2.Sam_1.html][1]] ... [[file:2.Sam_9.html][9]]
-[[file:2.Sam_10.html][10]] *11* [[file:2.Sam_12.html][12]]
-[[file:2.Sam_13.html][13]] ... [[file:2.Sam_24.html][24]]
+#+TITLE: 2 Sam 11 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-11 Sa 18:00]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Sam 11.html
 
---------------
-
-* 2.Sam 11
-  :PROPERTIES:
-  :CUSTOM_ID: sam-11
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** David und Batseba: 11,1-27
-     :PROPERTIES:
-     :CUSTOM_ID: david-und-batseba-111-27
-     :END:
+* David und Batseba: 11,1-27
+
 1 Um die Jahreswende, zu der Zeit, in der die Könige in den Krieg
 ziehen, schickte David den Joab mit seinen Männern und ganz Israel aus
 und sie verwüsteten das Land der Ammoniter und belagerten Rabba. David
-selbst aber blieb in Jerusalem. ^{[[#fn1][1]][[#fn2][2]]}
+selbst aber blieb in Jerusalem. [fn:1] [fn:2]
 
 <<v2>>
 2 Als David einmal zur Abendzeit von seinem Lager aufstand und auf dem
@@ -39,7 +33,7 @@ Das ist Batseba, die Tochter Ammiëls, die Frau des Hetiters Urija.
 <<v4>>
 4 Darauf schickte David Boten zu ihr und ließ sie holen; sie kam zu ihm,
 und er schlief mit ihr - sie hatte sich gerade von ihrer Unreinheit
-gereinigt. Dann kehrte sie in ihr Haus zurück. ^{[[#fn3][3]]}
+gereinigt. Dann kehrte sie in ihr Haus zurück. [fn:3]
 
 <<v5>>
 5 Die Frau war aber schwanger geworden und schickte deshalb zu David und
@@ -72,7 +66,7 @@ gekommen? Warum bist du nicht in dein Haus hinuntergegangen?
 und mein Herr Joab und die Knechte meines Herrn lagern auf freiem Feld;
 da soll ich in mein Haus gehen, um zu essen und zu trinken und bei
 meiner Frau zu liegen? So wahr du lebst und so wahr deine Seele lebt,
-das werde ich nicht tun. ^{[[#fn4][4]]}
+das werde ich nicht tun. [fn:4]
 
 <<v12>>
 12 Darauf sagte David zu Urija: Bleib auch heute noch hier; morgen werde
@@ -120,8 +114,7 @@ dass sie von der Mauer herabschießen?
 21 Wer hat Abimelech, den Sohn Jerubbaals, erschlagen? Hat nicht eine
 Frau in Tebez einen Mühlstein von der Mauer auf ihn herabgeworfen,
 sodass er starb? Warum seid ihr so nahe an die Mauer herangegangen?,
-dann sollst du sagen: Auch dein Knecht, der Hetiter Urija, ist tot.
-^{[[#fn5][5]][[#fn6][6]]}
+dann sollst du sagen: Auch dein Knecht, der Hetiter Urija, ist tot. [fn:5] [fn:6]
 
 <<v22>>
 22 Der Bote ging fort, kam zu David und berichtete ihm alles, was Joab
@@ -153,17 +146,19 @@ Haus holen. Sie wurde seine Frau und gebar ihm einen Sohn. Dem Herrn
 aber missfiel, was David getan hatte.\\
 \\
 
-^{[[#fnm1][1]]} ℘ 12,26
+* Footnotes
 
-^{[[#fnm2][2]]} das Land: so sinngemäß nach 1 Chr 20,1.
+[fn:1] [[file:2.Sam_12.org::v26][12,26]]
 
-^{[[#fnm3][3]]} ℘ Ex 20,14.17; Dtn 5,18.21
+[fn:2] das Land: so sinngemäß nach [[file:1.Chr_20.org::v1][1 Chr 20,1]].
 
-^{[[#fnm4][4]]} Die Lade Gottes wurde in den Kampf mitgenommen (vgl. 1
-Sam 4,3f; Num 10,35f).
+[fn:3] [[file:Ex_20.org::v14][Ex 20,14]].[[file:Ex_20.org::v17][17]]; [[file:Dtn_5.org::v18][Dtn 5,18]].[[file:Dtn_5.org::v21][21]]
 
-^{[[#fnm5][5]]} ℘ Ri 9,53f
+[fn:4] Die Lade Gottes wurde in den Kampf mitgenommen
+(vgl. [[file:1.Sam_4.org::v3][1 Sam 4,3f]]; [[file:Num_10.org::v35][Num 10,35f]]).
 
-^{[[#fnm6][6]]} Jerubbaals: Text korr. nach G (vgl. Ri 7,1); H liest
+[fn:5] [[file:Ri_9.org::v53][Ri 9,53f]]
+
+[fn:6] Jerubbaals: Text korr. nach G (vgl. [[file:Ri_7.org::v1][Ri 7,1]]); H liest
 Jerubbeschet, um den Namen des Gottes Baal verächtlich zu machen (vgl.
 die Anmerkungen zu 2,8; 4,4).

@@ -173,7 +173,7 @@
 
 * Kletterkurs Gabriel
 :PROPERTIES:
-:ETag:     "3396260324608000"
+:ETag:     "3399293811718000"
 :LOCATION: Kletterhalle Salzburg, Wasserfeldstraße, Salzburg
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 6kq68cb16gp68bb16gp32b9kchj3ebb164pjeb9jc4ojeob26ti3aob16o_20240102T151500Z/matthiasfuchs01@gmail.com
@@ -183,91 +183,58 @@
 <2024-01-02 Di 16:15-17:45>
 :END:
 
-* Leopold bei Omi und Opa
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3398922555564000"
-:entry-id: 497ouum5r54jr3upjrao5agcjo/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2023-11-11 Sa 11:00-18:00>
-:END:
-
-* Besuch bei Omi und Opa
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3398922756516000"
-:entry-id: 8366c9gqsffmm0trihvtss9jis/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2023-11-12 So 15:00-18:00>
-:END:
-
-* Fussball
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3398945491368000"
-:entry-id: 9tnhg4tvi4r4r28qvors6qb46s/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2023-11-08 Mi 21:00-23:00>
-:END:
-
-* Lesen und Beten
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3398953508954000"
-:entry-id: 4jmomc2gcmtubch994gpmgi31k/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2023-11-11 Sa 20:00-21:00>
-:END:
-
-* Lesen
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3398954893646000"
-:entry-id: fqqouclc3pngbq01bidvslkm44/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2023-11-12 So 20:00-21:00>
-:END:
-
-* Beten und Lesen
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3399205989132000"
-:entry-id: 2aht8jqpl64si2arcjq2c9fa0k/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2023-11-10 Fr 22:00-23:00>
-:END:
-
 * Sport
 :PROPERTIES:
 :calendar-id: matthiasfuchs01@gmail.com
 :org-gcal-managed: org
-:ETag:     "3399213223948000"
-:entry-id: v0co8jvvq7stt147o5215qp7g8/matthiasfuchs01@gmail.com
+:ETag:     "3399293863520000"
+:entry-id: m6ehnqsgk7vim9ke6mh8ek7s6c/matthiasfuchs01@gmail.com
 :END:
 :org-gcal:
-<2023-11-11 Sa 08:00-10:00>
+<2023-11-11 Sa 08:00-09:00>
 :END:
 
 * Gottesdienst St. Peter
 :PROPERTIES:
 :calendar-id: matthiasfuchs01@gmail.com
 :org-gcal-managed: org
-:ETag:     "3399214473482000"
-:entry-id: nl9vjvm2ftj1itgg02guo6lhas/matthiasfuchs01@gmail.com
+:ETag:     "3399294146806000"
+:entry-id: c9276j0qlcsj59ea7286fko9nk/matthiasfuchs01@gmail.com
 :END:
 :org-gcal:
 <2023-11-12 So 10:15-11:15>
+:END:
+
+* Lesen und Beten
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3399294412052000"
+:entry-id: q6301jq9d0k1nhjpf6bvvnp8e8/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2023-11-11 Sa 21:00-22:00>
+:END:
+
+* Leopold bei Omi und Opa
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3399398476476000"
+:entry-id: 689o7tjirc21havo6isdhh8n1k/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2023-11-11 Sa 11:30-20:00>
+:END:
+
+* Gabriel lernt
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3399399213330000"
+:entry-id: sran1ejiu9vi4jovqujqhj11lk/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2023-11-11 Sa 10:00-11:00>
 :END:
 

@@ -1,40 +1,32 @@
-:PROPERTIES:
-:ID:       0e3738af-bea6-4b90-927e-e546d50d881f
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch Samuel* --
-[[file:2.Sam_1.html][1]] ... [[file:2.Sam_8.html][8]]
-[[file:2.Sam_9.html][9]] *10* [[file:2.Sam_11.html][11]]
-[[file:2.Sam_12.html][12]] ... [[file:2.Sam_24.html][24]]
+#+TITLE: 2 Sam 10 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-11 Sa 17:57]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Sam 10.html
 
---------------
-
-* 2.Sam 10
-  :PROPERTIES:
-  :CUSTOM_ID: sam-10
-  :END:
 
 <<verses>>
 
 <<v1>>
-** Die Geschichte von Davids Thronfolge: 10,1 - 20,26; 1 Kön 1,1 - 2,46
-   :PROPERTIES:
-   :CUSTOM_ID: die-geschichte-von-davids-thronfolge-101---2026-1-kön-11---246
-   :END:
-**** Der Krieg mit den Ammonitern und den Aramäern: 10,1-19
-     :PROPERTIES:
-     :CUSTOM_ID: der-krieg-mit-den-ammonitern-und-den-aramäern-101-19
-     :END:
+* Die Geschichte von Davids Thronfolge: 10,1 - 20,26; 1 Kön 1,1 - 2,46
+
+* Der Krieg mit den Ammonitern und den Aramäern: 10,1-19
+
 1 Als darauf der König der Ammoniter starb und sein Sohn Hanun an seiner
-Stelle König wurde, ^{[[#fn1][1]]}
+Stelle König wurde, [fn:1]
 
 <<v2>>
 2 sagte David: Ich will Hanun, dem Sohn des Nahasch, mein Wohlwollen
 zeigen, so wie sein Vater mir sein Wohlwollen gezeigt hat. Und David
 schickte eine Gesandtschaft zu ihm und ließ ihm durch seine Diener sein
 Beileid zum Tod seines Vaters aussprechen. Als die Diener in das Land
-der Ammoniter kamen, ^{[[#fn2][2]]}
+der Ammoniter kamen, [fn:2]
 
 <<v3>>
 3 sagten die Fürsten der Ammoniter zu Hanun, ihrem Herrn: Will David
@@ -57,8 +49,7 @@ kehrt erst zurück, wenn euer Bart wieder gewachsen ist.
 6 Als die Ammoniter merkten, dass sie sich bei David verhasst gemacht
 hatten, schickten sie (Boten) und warben die Aramäer von Bet-Rehob und
 von Zoba an, zwanzigtausend Mann Fußvolk, außerdem den König von Maacha
-mit tausend Mann und die Leute von Tob mit zwölftausend Mann.
-^{[[#fn3][3]]}
+mit tausend Mann und die Leute von Tob mit zwölftausend Mann. [fn:3]
 
 <<v7>>
 7 David erfuhr davon und schickte Joab mit dem ganzen Heer, allen
@@ -103,7 +94,7 @@ sammelten sich wieder.
 <<v16>>
 16 Hadad-Eser schickte Boten und ließ die Aramäer, die diesseits des
 Stroms wohnten, ausrücken. Sie kamen nach Helam, an ihrer Spitze
-Schobach, der Oberbefehlshaber Hadad-Esers. ^{[[#fn4][4]]}
+Schobach, der Oberbefehlshaber Hadad-Esers. [fn:4]
 
 <<v17>>
 17 Als man das David meldete, versammelte er ganz Israel, überschritt
@@ -123,14 +114,16 @@ Israeliten und unterwarfen sich ihnen. Von da an fürchteten sich die
 Aramäer, den Ammonitern noch weiter zu helfen.\\
 \\
 
-^{[[#fnm1][1]]} ℘ (1-19) 1 Chr 19,1-19
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 1 Sam 11,1
+[fn:1] (1-19) [[file:1.Chr_19.org::v1][1 Chr 19,1-19]]
 
-^{[[#fnm3][3]]} Die aramäischen Städte liegen nördlich der Jordanquellen
+[fn:2] [[file:1.Sam_11.org::v1][1 Sam 11,1]]
+
+[fn:3] Die aramäischen Städte liegen nördlich der Jordanquellen
 und im nördlichen Ostjordanland.
 
-^{[[#fnm4][4]]} diesseits, wörtlich: jenseits; gemeint ist das Gebiet
-westlich des Eufrat (vgl. 1 Kön 5,4). «Jenseits des Stroms» ist in
+[fn:4] diesseits, wörtlich: jenseits; gemeint ist das Gebiet
+westlich des Eufrat (vgl. [[file:1.Kön_5.org::v4][1 Kön 5,4]]). «Jenseits des Stroms» ist in
 assyrischen Texten, vor allem in der Perserzeit, das Gebiet der
 westlichen Provinzen.

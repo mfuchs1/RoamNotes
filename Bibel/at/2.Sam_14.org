@@ -1,25 +1,22 @@
-:PROPERTIES:
-:ID:       090af4a7-fe58-429c-bac3-4f00da6d3adf
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch Samuel* --
-[[file:2.Sam_1.html][1]] ... [[file:2.Sam_12.html][12]]
-[[file:2.Sam_13.html][13]] *14* [[file:2.Sam_15.html][15]]
-[[file:2.Sam_16.html][16]] ... [[file:2.Sam_24.html][24]]
-
---------------
+#+TITLE: 2 Sam 14 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-11 Sa 18:28]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Sam 14.html
 
 * 2.Sam 14
-  :PROPERTIES:
-  :CUSTOM_ID: sam-14
-  :END:
 
 <<verses>>
 
 <<v1>>
 1 Als Joab, der Sohn der Zeruja, merkte, dass das Herz des Königs sich
-wieder Abschalom zuwandte, ^{[[#fn1][1]]}
+wieder Abschalom zuwandte, [fn:1]
 
 <<v2>>
 2 schickte er (einen Boten) nach Tekoa und ließ von dort eine kluge Frau
@@ -50,11 +47,11 @@ Gib den, der seinen Bruder erschlagen hat, heraus, damit wir ihn töten,
 weil er seinen Bruder ums Leben gebracht hat. So wollten sie sogar den
 Erben vernichten. Sie wollten die Kohle, die mir geblieben ist,
 auslöschen, um meinem Mann weder Namen noch Nachkommen auf dem Erdboden
-zu lassen. ^{[[#fn2][2]]}
+zu lassen. [fn:2]
 
 <<v8>>
 8 Da sagte der König zu der Frau: Geh nach Hause! Ich werde deine Sache
-in Ordnung bringen. ^{[[#fn3][3]]}
+in Ordnung bringen. [fn:3]
 
 <<v9>>
 9 Die Frau aus Tekoa erwiderte dem König: Mein Herr und König, dann
@@ -69,7 +66,7 @@ mir; er wird dir nicht wieder zu nahe treten.
 11 Sie aber sagte: Der König rufe doch den Herrn, deinen Gott, dafür an,
 dass der Bluträcher nicht noch mehr Unheil anrichtet und meinen Sohn
 umbringt. Der König antwortete: So wahr der Herr lebt, deinem Sohn soll
-kein Haar gekrümmt werden. ^{[[#fn4][4]]}
+kein Haar gekrümmt werden. [fn:4]
 
 <<v12>>
 12 Darauf sagte die Frau: Deine Magd möchte meinem Herrn, dem König,
@@ -85,7 +82,7 @@ lässt.
 14 Wir müssen alle sterben und sind wie das Wasser, das man auf die Erde
 schüttet und nicht wieder einsammeln kann. Aber Gott wird dem das Leben
 nicht nehmen, der darauf aus ist, dass ein von ihm Verstoßener nicht
-verstoßen bleibt. ^{[[#fn5][5]]}
+verstoßen bleibt. [fn:5]
 
 <<v15>>
 15 Dass ich aber hergekommen bin, um dem König, meinem Herrn, das zu
@@ -131,7 +128,7 @@ König die Bitte seines Knechtes erfüllt hat.
 
 <<v23>>
 23 Dann brach Joab auf, ging nach Geschur und brachte Abschalom nach
-Jerusalem zurück. ^{[[#fn6][6]]}
+Jerusalem zurück. [fn:6]
 
 <<v24>>
 24 Der König aber sagte: Er soll in sein Haus gehen, aber er soll mir
@@ -149,7 +146,7 @@ wog sein Haar, dann wog es zweihundert Schekel nach königlichem Gewicht.
 
 <<v27>>
 27 Drei Söhne wurden Abschalom geboren und eine Tochter namens Tamar;
-sie wurde eine Frau von großer Schönheit. ^{[[#fn7][7]]}
+sie wurde eine Frau von großer Schönheit. [fn:7]
 
 <<v28>>
 28 Abschalom wohnte zwei Jahre lang in Jerusalem, ohne dem König unter
@@ -184,21 +181,23 @@ Abschalom rufen. Er kam zum König und fiel vor ihm mit dem Gesicht zur
 Erde nieder. Und der König küsste Abschalom.\\
 \\
 
-^{[[#fnm1][1]]} Tekoa: südlich von Betlehem, Heimat des Propheten Amos.
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ Dtn 19,11-13
+[fn:1] Tekoa: südlich von Betlehem, Heimat des Propheten Amos.
 
-^{[[#fnm3][3]]} Ich werde . . . in Ordnung bringen, wörtlich: Ich werde
+[fn:2] [[file:Dtn_19.org::v11][Dtn 19,11-13]]
+
+[fn:3] Ich werde . . . in Ordnung bringen, wörtlich: Ich werde
 deinetwegen Befehl geben.
 
-^{[[#fnm4][4]]} Wörtlich: Keines von den Haaren deines Sohnes soll zu
+[fn:4] Wörtlich: Keines von den Haaren deines Sohnes soll zu
 Boden fallen.
 
-^{[[#fnm5][5]]} Einen Toten kann man nicht wieder ins Leben rufen,
+[fn:5] Einen Toten kann man nicht wieder ins Leben rufen,
 selbst wenn Abschalom verstoßen bleibt. Der Sinn des zweiten Satzes ist
 nicht ganz klar. Mit V. 15 kehrt die Rede der Frau zu dem angenommenen
 Fall zurück.
 
-^{[[#fnm6][6]]} ℘ 13,37
+[fn:6] [[file:2.Sam_13.org::v37][13,37]]
 
-^{[[#fnm7][7]]} ℘ 18,18
+[fn:7] [[file:2.Sam_18.org::v18][18,18]]
