@@ -1,26 +1,20 @@
-:PROPERTIES:
-:ID:       e2cd0e2e-585c-4915-ba03-e9b0aea916c7
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das erste Buch der Könige* --
-[[file:1.Kön_1.html][1]] *2* [[file:1.Kön_3.html][3]]
-[[file:1.Kön_4.html][4]] ... [[file:1.Kön_22.html][22]]
-
---------------
-
-* 1.Kön 2
-  :PROPERTIES:
-  :CUSTOM_ID: kön-2
-  :END:
+#+TITLE: 1 Kön 2 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-12 So 00:18]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Kön 2.html
 
 <<verses>>
 
 <<v1>>
-**** Davids letzte Anordnungen und sein Tod: 2,1-12
-     :PROPERTIES:
-     :CUSTOM_ID: davids-letzte-anordnungen-und-sein-tod-21-12
-     :END:
+* Davids letzte Anordnungen und sein Tod: 2,1-12
+
 1 Als die Zeit herankam, da David sterben sollte, ermahnte er seinen
 Sohn Salomo:
 
@@ -44,8 +38,7 @@ Nachkommen auf dem Thron Israels fehlen.
 er den beiden Heerführern Israels, Abner, dem Sohn Ners, und Amasa, dem
 Sohn Jeters, angetan hat. Er hat sie ermordet, hat mit Blut, das im
 Krieg vergossen wurde, den Frieden belastet und mit unschuldigem Blut
-den Gürtel an seinen Hüften und die Schuhe an seinen Füßen befleckt.
-^{[[#fn1][1]][[#fn2][2]]}
+den Gürtel an seinen Hüften und die Schuhe an seinen Füßen befleckt. [fn:1] [fn:2]
 
 <<v6>>
 6 Lass dich von deiner Weisheit leiten und sorge dafür, dass sein graues
@@ -55,14 +48,14 @@ Haupt nicht unbehelligt in die Unterwelt kommt.
 7 Doch die Söhne Barsillais aus Gilead sollst du freundlich behandeln.
 Sie sollen zu denen gehören, die von deinem Tisch essen; denn sie sind
 mir ebenso entgegengekommen, als ich vor deinem Bruder Abschalom fliehen
-musste. ^{[[#fn3][3]]}
+musste. [fn:3]
 
 <<v8>>
 8 Da ist auch Schimi, der Sohn Geras, vom Stamm Benjamin, aus Bahurim.
 Er hat einen bösen Fluch gegen mich ausgesprochen, als ich nach
 Mahanajim floh. Doch ist er mir an den Jordan entgegengekommen und ich
 habe ihm beim Herrn geschworen, dass ich ihn nicht mit dem Schwert
-hinrichten werde. ^{[[#fn4][4]][[#fn5][5]]}
+hinrichten werde. [fn:4] [fn:5]
 
 <<v9>>
 9 Jetzt aber lass ihn nicht ungestraft! Du bist ein kluger Mann und
@@ -83,10 +76,8 @@ festigte sich mehr und mehr.\\
 \\
 
 <<v13>>
-**** Das Ende der Gegner Salomos: 2,13-46
-     :PROPERTIES:
-     :CUSTOM_ID: das-ende-der-gegner-salomos-213-46
-     :END:
+* Das Ende der Gegner Salomos: 2,13-46
+
 13 Adonija, der Sohn der Haggit, begab sich zu Batseba, der Mutter
 Salomos. Sie fragte ihn: Kommst du in friedlicher Absicht? Er
 antwortete: Ja.
@@ -117,7 +108,7 @@ König reden.
 sprechen, erhob sich der König, ging ihr entgegen und verneigte sich vor
 ihr. Dann setzte er sich auf seinen Thron und ließ auch für die
 Königinmutter einen Thron hinstellen. Sie setzte sich an seine rechte
-Seite ^{[[#fn6][6]]}
+Seite [fn:6]
 
 <<v20>>
 20 und begann: Eine einzige kleine Bitte hätte ich an dich. Weise mich
@@ -151,13 +142,11 @@ dieser versetzte Adonija den Todesstoß.
 26 Zum Priester Abjatar sagte der König: Geh auf dein Landgut nach
 Anatot! Zwar hast du den Tod verdient; doch will ich dich heute nicht
 töten, weil du die Lade Gottes, des Herrn, vor meinem Vater David
-getragen und alle Demütigungen mit meinem Vater geteilt hast.
-^{[[#fn7][7]]}
+getragen und alle Demütigungen mit meinem Vater geteilt hast. [fn:7]
 
 <<v27>>
 27 So setzte Salomo Abjatar als Priester des Herrn ab und erfüllte das
-Wort, das der Herr über das Haus Eli in Schilo gesprochen hatte.
-^{[[#fn8][8]]}
+Wort, das der Herr über das Haus Eli in Schilo gesprochen hatte. [fn:8]
 
 <<v28>>
 28 Die Kunde davon erreichte Joab. Er hatte zu Adonija gehalten, sich
@@ -252,26 +241,28 @@ dieser ging hinaus und versetzte Schimi den Todesstoß. Die Herrschaft
 war nun fest in der Hand Salomos.\\
 \\
 
-^{[[#fnm1][1]]} ℘ 2 Sam 3,27; 20,10
+* Footnotes
 
-^{[[#fnm2][2]]} Damals war David nicht in der Lage, Joab zu bestrafen.
+[fn:1] [[file:2.Sam_3.org::v27][2 Sam 3,27]]; [[file:2.Sam_20.org::v10][20,10]]
+
+[fn:2] Damals war David nicht in der Lage, Joab zu bestrafen.
 Nach israelitischer Vorstellung von Vergeltung entsprachen die
 Anweisungen Davids an seinen Sohn der auf David lastenden Verpflichtung,
 den Tod der beiden Männer zu rächen.
 
-^{[[#fnm3][3]]} ℘ 2 Sam 17,27-29
+[fn:3] [[file:2.Sam_17.org::v27][2 Sam 17,27-29]]
 
-^{[[#fnm4][4]]} ℘ 2 Sam 16,5; 19,19-24
+[fn:4] [[file:2.Sam_16.org::v5][2 Sam 16,5]]; [[file:2.Sam_19.org::v19][19,19-24]]
 
-^{[[#fnm5][5]]} 8f: Die alte Zeit glaubte, dass ein einmal
+[fn:5] 8f: Die alte Zeit glaubte, dass ein einmal
 ausgesprochener Fluch mit unwiderstehlicher Kraft fortwirkt. David
 musste daher fürchten, dass seinem Haus Unglück drohte, solange Schimis
 Fluch nicht gerächt war. Da er selbst durch den Eid gebunden war, sollte
 Salomo die Drohung beseitigen.
 
-^{[[#fnm6][6]]} 19f: Die Mutter des Königs hatte als «Herrin» (15,13)
+[fn:6] 19f: Die Mutter des Königs hatte als «Herrin» ([[file:2.Sam_15.org::v13][15,13]])
 eine Ehrenstellung inne.
 
-^{[[#fnm7][7]]} ℘ 1 Sam 22,20-23
+[fn:7] [[file:1.Sam_22.org::v20][1 Sam 22,20-23]]
 
-^{[[#fnm8][8]]} ℘ 1 Sam 2,30-36
+[fn:8] [[file:1.Sam_2.org::v30][1 Sam 2,30-36]]

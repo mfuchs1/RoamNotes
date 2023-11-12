@@ -1,40 +1,31 @@
-:PROPERTIES:
-:ID:       e07d6ee6-d11d-49f0-9606-a0c34d53150b
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das erste Buch der Könige* --
-[[file:1.Kön_1.html][1]] [[file:1.Kön_2.html][2]] *3*
-[[file:1.Kön_4.html][4]] [[file:1.Kön_5.html][5]] ...
-[[file:1.Kön_22.html][22]]
-
---------------
-
-* 1.Kön 3
-  :PROPERTIES:
-  :CUSTOM_ID: kön-3
-  :END:
+#+TITLE: 1 Kön 3 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-12 So 10:57]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Kön 3.html
 
 <<verses>>
 
 <<v1>>
-**** Salomos Heirat: 3,1
-     :PROPERTIES:
-     :CUSTOM_ID: salomos-heirat-31
-     :END:
+* Salomos Heirat: 3,1
+
 1 Salomo verschwägerte sich mit dem Pharao, dem König von Ägypten. Er
 nahm eine Tochter des Pharao zur Frau und brachte sie in die Davidstadt,
 bis er sein Haus, das Haus des Herrn und die Mauern rings um Jerusalem
-vollendet hatte. ^{[[#fn1][1]]}\\
+vollendet hatte. [fn:1]\\
 \\
 
 <<v2>>
-**** Salomos Bitte um Weisheit: 3,2-15
-     :PROPERTIES:
-     :CUSTOM_ID: salomos-bitte-um-weisheit-32-15
-     :END:
+* Salomos Bitte um Weisheit: 3,2-15
+
 2 Das Volk opferte zu jener Zeit auf den Kulthöhen, weil dem Namen des
-Herrn noch kein Haus gebaut war. ^{[[#fn2][2]]}
+Herrn noch kein Haus gebaut war. [fn:2]
 
 <<v3>>
 3 Salomo aber liebte den Herrn und befolgte die Gebote seines Vaters
@@ -43,8 +34,7 @@ dar.
 
 <<v4>>
 4 So ging der König nach Gibeon, um dort zu opfern; denn hier war die
-angesehenste Kulthöhe. Tausend Brandopfer legte Salomo auf ihren Altar.
-^{[[#fn3][3]][[#fn4][4]]}
+angesehenste Kulthöhe. Tausend Brandopfer legte Salomo auf ihren Altar. [fn:3] [fn:4]
 
 <<v5>>
 5 In Gibeon erschien der Herr dem Salomo nachts im Traum und forderte
@@ -100,10 +90,8 @@ Heilsopfer dar und gab ein Festmahl für alle seine Diener.\\
 \\
 
 <<v16>>
-**** Das salomonische Urteil: 3,16-28
-     :PROPERTIES:
-     :CUSTOM_ID: das-salomonische-urteil-316-28
-     :END:
+* Das salomonische Urteil: 3,16-28
+
 16 Damals kamen zwei Dirnen und traten vor den König.
 
 <<v17>>
@@ -162,15 +150,17 @@ sie schauten mit Ehrfurcht zu ihm auf; denn sie erkannten, dass die
 Weisheit Gottes in ihm war, wenn er Recht sprach.\\
 \\
 
-^{[[#fnm1][1]]} Die Heirat bedeutete, dass Salomo von Ägypten als König
+* Footnotes
+
+[fn:1] Die Heirat bedeutete, dass Salomo von Ägypten als König
 anerkannt wurde.
 
-^{[[#fnm2][2]]} Kulthöhen in der Nähe vieler Städte galten in alter Zeit
-als rechtmäßig (vgl. Ex 20,24), wurden aber in Dtn 12 verboten. Der
+[fn:2] Kulthöhen in der Nähe vieler Städte galten in alter Zeit
+als rechtmäßig (vgl. [[file:Ex_20.org::v24][Ex 20,24]]), wurden aber in Dtn 12 verboten. Der
 Verfasser der Königsbücher beurteilt Salomo und die späteren Könige nach
 diesem Verbot.
 
-^{[[#fnm3][3]]} ℘ (4-15) 2 Chr 1,3-13
+[fn:3] (4-15) [[file:2.Chr_1.org::v3][2 Chr 1,3-13]]
 
-^{[[#fnm4][4]]} In Gibeon, nördlich von Jerusalem, befand sich nach 1
-Chr 21,29 und 2 Chr 1,3 das aus der Wüstenzeit stammende heilige Zelt.
+[fn:4] In Gibeon, nördlich von Jerusalem, befand sich nach [[file:1.Chr_21.org::v29][1 Chr 21,29]]
+und [[file:2.Chr_1.org::v3][2 Chr 1,3]] das aus der Wüstenzeit stammende heilige Zelt.

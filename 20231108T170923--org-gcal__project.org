@@ -28,17 +28,6 @@
 <2023-11-09 Do 14:45-15:00>
 :END:
 
-* Geburtstag Julia
-:PROPERTIES:
-:ETag:     "3207213087244000"
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: c4sjad3568sj4b9h75gm8b9kc4sj2bb2cpij4bb474rm6c9iclgj4e9o74_20231012/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2023-10-12 Do>
-:END:
-
 * Kletterkurs Gabriel
 :PROPERTIES:
 :ETag:     "3396260324608000"
@@ -236,5 +225,27 @@
 :END:
 :org-gcal:
 <2023-11-11 Sa 10:00-11:00>
+:END:
+
+* Kino Paw Patrol
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3399590322622000"
+:entry-id: ekqne0uq3q0f9glm9ptbhcigco/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2023-11-12 So 16:15-18:15>
+:END:
+
+* Lesen und Beten
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3399591523832000"
+:entry-id: lep8fp77cc75l4q10li943e0kk/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2023-11-12 So 21:00-22:00>
 :END:
 

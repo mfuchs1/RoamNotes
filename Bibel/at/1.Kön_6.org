@@ -1,31 +1,23 @@
-:PROPERTIES:
-:ID:       5b9c69e8-17a9-402a-afa1-ce3b8846afc1
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das erste Buch der Könige* --
-[[file:1.Kön_1.html][1]] ... [[file:1.Kön_4.html][4]]
-[[file:1.Kön_5.html][5]] *6* [[file:1.Kön_7.html][7]]
-[[file:1.Kön_8.html][8]] ... [[file:1.Kön_22.html][22]]
-
---------------
-
-* 1.Kön 6
-  :PROPERTIES:
-  :CUSTOM_ID: kön-6
-  :END:
+#+TITLE: 1 Kön 6 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-12 So 14:41]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Kön 6.html
 
 <<verses>>
 
 <<v1>>
-**** Der Tempelbau: 6,1-38
-     :PROPERTIES:
-     :CUSTOM_ID: der-tempelbau-61-38
-     :END:
+* Der Tempelbau: 6,1-38
+
 1 Im vierhundertachtzigsten Jahr nach dem Auszug der Israeliten aus
 Ägypten, im vierten Jahr der Regierung Salomos über Israel, im Monat
-Siw, das ist der zweite Monat, begann er das Haus des Herrn zu bauen.
-^{[[#fn1][1]][[#fn2][2]]}
+Siw, das ist der zweite Monat, begann er das Haus des Herrn zu bauen. [fn:1] [fn:2]
 
 <<v2>>
 2 Das Haus, das König Salomo für den Herrn baute, war sechzig Ellen
@@ -73,7 +65,7 @@ Stockwerk) fünf Ellen und Zedernbalken verbanden ihn mit dem Haus.
 12 Dieses Haus, das du baust, - wenn du meinen Geboten gehorchst und auf
 meine Vorschriften achtest und alle meine Befehle ausführst und
 befolgst, dann werde ich an dir das Wort wahr machen, das ich zu deinem
-Vater David gesprochen habe. ^{[[#fn3][3]]}
+Vater David gesprochen habe. [fn:3]
 
 <<v13>>
 13 Und ich werde inmitten der Israeliten wohnen und mein Volk Israel
@@ -111,7 +103,7 @@ Zedernholz herstellen.
 
 <<v21>>
 21 Das Innere des Hauses ließ Salomo mit bestem Gold auskleiden und vor
-der Gotteswohnung ließ er goldene Ketten anbringen. ^{[[#fn4][4]]}
+der Gotteswohnung ließ er goldene Ketten anbringen. [fn:4]
 
 <<v22>>
 22 So überzog er das ganze Haus vollständig mit Gold; auch den Altar vor
@@ -119,7 +111,7 @@ der Gotteswohnung überzog er ganz mit Gold.
 
 <<v23>>
 23 In der Gotteswohnung ließ er zwei Kerubim aus Olivenholz anfertigen.
-Ihre Höhe betrug zehn Ellen. ^{[[#fn5][5]]}
+Ihre Höhe betrug zehn Ellen. [fn:5]
 
 <<v24>>
 24 Fünf Ellen maß der eine Flügel des Kerubs und fünf Ellen sein anderer
@@ -181,26 +173,27 @@ Herrn gelegt worden
 <<v38>>
 38 und im elften Jahr, im Monat Bul, das ist der achte Monat, wurde das
 Haus mit all seinem Zubehör vollendet, ganz so, wie es geplant war.
-Sieben Jahre hatte man an ihm gebaut. ^{[[#fn6][6]]}\\
+Sieben Jahre hatte man an ihm gebaut. [fn:6]\\
 \\
 
-^{[[#fnm1][1]]} ℘ (1-38) 2 Chr 3,1-14
+* Footnotes
 
-^{[[#fnm2][2]]} 1-7,51: Die Kap. 6 und 7 bereiten dem Verständnis
+[fn:1] (1-38) [[file:2.Chr_3.org::v1][2 Chr 3,1-14]]
+
+[fn:2] 1-7,51: Die Kap. [[v1][6]] und [[file:1.Kön_7.org::v1][7]] bereiten dem Verständnis
 erhebliche Schwierigkeiten. Besonders die Angaben über den Tempel sind
 oft schwer verständlich. H ist mehrfach durch Schreibfehler,
 Erweiterungen und Kürzungen entstellt. Diese Schwierigkeiten, in der
 Übersetzung teilweise geglättet, werden in den folgenden Anmerkungen
 nicht ausdrücklich erwähnt.
 
-^{[[#fnm3][3]]} ℘ 2 Sam 7,8-16
+[fn:3] [[file:2.Sam_7.org::v8][2 Sam 7,8-16]]
 
-^{[[#fnm4][4]]} Ketten: Vielleicht ist ein Wort ausgefallen: einen
+[fn:4] Ketten: Vielleicht ist ein Wort ausgefallen: einen
 Vorhang an goldenen Ketten.
 
-^{[[#fnm5][5]]} 23-28: Die Kerubim hatten wohl menschenähnliches
+[fn:5] 23-28: Die Kerubim hatten wohl menschenähnliches
 Aussehen. Die Bundeslade wurde zwischen sie gestellt (8,7), sodass sie
 ihre Flügel über sie breiteten.
 
-^{[[#fnm6][6]]} Der Monat Bul entspricht ungefähr unserem
-Oktober/November.
+[fn:6] Der Monat Bul entspricht ungefähr unserem Oktober/November.

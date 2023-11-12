@@ -1,24 +1,19 @@
-:PROPERTIES:
-:ID:       6425cffb-8a05-4482-95a9-f6e95debe3d9
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das erste Buch der Könige* -- *1*
-[[file:1.Kön_2.html][2]] [[file:1.Kön_3.html][3]] ...
-[[file:1.Kön_22.html][22]]
-
---------------
+#+TITLE: 1 Kön 1 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-11 Sa 23:48]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Kön 1.html
 
 * 1.Kön 1
-  :PROPERTIES:
-  :CUSTOM_ID: kön-1
-  :END:
 
-B+1
-** Die Bücher der Könige
-   :PROPERTIES:
-   :CUSTOM_ID: die-bücher-der-könige
-   :END:
+* Die Bücher der Könige
+
 Die beiden ersten Kapitel von 1 Könige bilden den Abschluss der
 Geschichte Davids und gehören inhaltlich noch zu den Samuelbüchern.
 Deshalb wurden die Samuel- und Königsbücher vielfach als Einheit
@@ -73,15 +68,11 @@ Bücher gewöhnlich dem Deuteronomistischen Geschichtswerk zugerechnet
 <<verses>>
 
 <<v1>>
-1 B+0
-** Die Geschichte Salomos: 1,1 - 11,43
-   :PROPERTIES:
-   :CUSTOM_ID: die-geschichte-salomos-11---1143
-   :END:
-**** Der Kampf um die Nachfolge Davids: 1,1-27
-     :PROPERTIES:
-     :CUSTOM_ID: der-kampf-um-die-nachfolge-davids-11-27
-     :END:
+
+* Die Geschichte Salomos: 1,1 - 11,43
+
+* Der Kampf um die Nachfolge Davids: 1,1-27
+
 König David war alt und hochbetagt; auch wenn man ihn in Decken hüllte,
 wurde ihm nicht mehr warm.
 
@@ -96,12 +87,12 @@ Abischag aus Schunem und brachte sie zum König.
 
 <<v4>>
 4 Das Mädchen war überaus schön. Sie pflegte den König und diente ihm;
-doch der König erkannte sie nicht. ^{[[#fn1][1]]}
+doch der König erkannte sie nicht. [fn:1]
 
 <<v5>>
 5 Adonija, der Sohn der Haggit, trat anmaßend auf und sagte: Ich werde
 König sein. Er beschaffte sich Wagen und Besatzung dazu sowie fünfzig
-Mann, die vor ihm herliefen. ^{[[#fn2][2]]}
+Mann, die vor ihm herliefen. [fn:2]
 
 <<v6>>
 6 Sein Vater David hatte ihn nie in seinem Leben getadelt und nie zu ihm
@@ -121,7 +112,7 @@ an.
 9 Adonija schlachtete nun am Stein Sohelet bei der Rogel-Quelle Schafe,
 Rinder und Mastkälber zum Opfermahl. Er lud dazu alle seine Brüder, die
 Königssöhne, sowie alle Männer von Juda ein, die im Dienst des Königs
-standen. ^{[[#fn3][3]]}
+standen. [fn:3]
 
 <<v10>>
 10 Den Propheten Natan jedoch und Benaja sowie die Helden und seinen
@@ -134,7 +125,7 @@ unser Herr, davon weiß?
 
 <<v12>>
 12 Komm nun, ich will dir einen Rat geben, wie du dir und deinem Sohn
-Salomo das Leben retten kannst. ^{[[#fn4][4]]}
+Salomo das Leben retten kannst. [fn:4]
 
 <<v13>>
 13 Geh zum König David und sag zu ihm: Mein Herr und König, du hast doch
@@ -204,10 +195,8 @@ meinem Herrn und König auf dem Thron sitzen wird?\\
 \\
 
 <<v28>>
-**** Die Bestellung Salomos zum Thronfolger: 1,28-37
-     :PROPERTIES:
-     :CUSTOM_ID: die-bestellung-salomos-zum-thronfolger-128-37
-     :END:
+* Die Bestellung Salomos zum Thronfolger: 1,28-37
+
 28 Darauf befahl König David: Ruft mir Batseba! Sie kam zum König
 herein, trat vor den König hin
 
@@ -227,12 +216,12 @@ nieder und rief: Ewig lebe mein Herr, der König David!
 <<v32>>
 32 Hierauf befahl König David: Ruft mir den Priester Zadok, den
 Propheten Natan und Benaja, den Sohn Jojadas! Sie erschienen vor dem
-König ^{[[#fn5][5]]}
+König [fn:5]
 
 <<v33>>
 33 und dieser trug ihnen auf: Nehmt das Gefolge eures Herrn mit euch,
 setzt meinen Sohn Salomo auf mein eigenes Maultier und führt ihn zum
-Gihon hinab! ^{[[#fn6][6]]}
+Gihon hinab! [fn:6]
 
 <<v34>>
 34 Dort sollen ihn der Priester Zadok und der Prophet Natan zum König
@@ -255,13 +244,11 @@ Herrn, des Königs David.\\
 \\
 
 <<v38>>
-**** Die Thronbesteigung Salomos: 1,38-53
-     :PROPERTIES:
-     :CUSTOM_ID: die-thronbesteigung-salomos-138-53
-     :END:
+* Die Thronbesteigung Salomos: 1,38-53
+
 38 Der Priester Zadok, der Prophet Natan und Benaja, der Sohn Jojadas,
 zogen mit den Keretern und Peletern hinab. Sie setzten Salomo auf das
-Maultier des Königs David und führten ihn zum Gihon. ^{[[#fn7][7]]}
+Maultier des Königs David und führten ihn zum Gihon. [fn:7]
 
 <<v39>>
 39 Der Priester Zadok hatte das Salbhorn aus dem Zelt mitgenommen und
@@ -317,7 +304,7 @@ jeder ging seines Weges.
 
 <<v50>>
 50 Adonija fürchtete sich vor Salomo. Er stand auf, eilte zum Altar und
-ergriff dessen Hörner. ^{[[#fn8][8]]}
+ergriff dessen Hörner. [fn:8]
 
 <<v51>>
 51 Man meldete Salomo: Adonija hat aus Furcht vor König Salomo die
@@ -334,28 +321,30 @@ unrecht handelt, muss er sterben.
 König Salomo niederfiel, befahl ihm dieser: Geh in dein Haus!\\
 \\
 
-^{[[#fnm1][1]]} der König erkannte sie nicht: Er hatte mit ihr keine
+* Footnotes
+
+[fn:1] der König erkannte sie nicht: Er hatte mit ihr keine
 eheliche Gemeinschaft.
 
-^{[[#fnm2][2]]} Ebenso hatte sich Abschalom verhalten, als er nach dem
+[fn:2] Ebenso hatte sich Abschalom verhalten, als er nach dem
 Königtum trachtete (vgl. 2 Sam 15,1). Adonija war jetzt der älteste
 überlebende Sohn Davids und konnte mit der Thronfolge rechnen.
 
-^{[[#fnm3][3]]} Die Machtübernahme sollte mit einem Opfer verbunden
+[fn:3] Die Machtübernahme sollte mit einem Opfer verbunden
 werden. Da Opferfeiern von einzelnen Familien öfter begangen wurden (1
 Sam 1,3; 16,2; 20,6; 2 Sam 15,7) und zu ihnen Verwandte und Freunde
 geladen wurden, konnte Adonija seine Anhänger sammeln, ohne Verdacht zu
 erregen. Zur Rogel-Quelle vgl. 2 Sam 17,17.
 
-^{[[#fnm4][4]]} Zur Sicherung ihrer Herrschaft ließen orientalische
+[fn:4] Zur Sicherung ihrer Herrschaft ließen orientalische
 Könige oft nach Erlangung des Throns ihre einstigen Gegner beseitigen.
 
-^{[[#fnm5][5]]} Benaja war der Führer der Leibwache (vgl. 2 Sam 8,18).
+[fn:5] Benaja war der Führer der Leibwache (vgl. 2 Sam 8,18).
 
-^{[[#fnm6][6]]} Die Gihon-Quelle liegt näher am Königspalast als die
+[fn:6] Die Gihon-Quelle liegt näher am Königspalast als die
 Rogel-Quelle.
 
-^{[[#fnm7][7]]} Die Kereter und Peleter waren ausländische Söldner, die
+[fn:7] Die Kereter und Peleter waren ausländische Söldner, die
 David als Leibwache dienten.
 
-^{[[#fnm8][8]]} Der Altar als Asylstätte gewährte Adonija Schutz.
+[fn:8] Der Altar als Asylstätte gewährte Adonija Schutz.
