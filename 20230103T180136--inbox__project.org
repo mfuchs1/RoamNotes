@@ -130,3 +130,28 @@ CLOSED: [2023-11-02 Do 10:53] DEADLINE: <2023-10-31 Di 22:00>
 
 [[file:~/RoamNotes/notes/Bibel/at/Dtn_32.org::+TITLE: Dtn 32]]
 
+* DONE Google Kalender Intergration in org-agenda
+CLOSED: [2023-11-14 Di 07:42] DEADLINE: <2023-11-13 Mo 19:00>
+:PROPERTIES:
+:CAPTURED: [2023-11-13 Mo 10:33]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-11-14 Di 07:42]
+:END:
+
+Das hab ich mittlerweile wieder aufgegeben; ich bleibe bei org-agenda (lokal). org-gcal wird zu kompliziert - ich muss dreimal eine Passphrase eingeben (ebenso beim Start von Emacs).
+
+Sollte es in Zukunft eine "lebbare" Lösung geben, dann bin ich dabei. Jetzt, nicht.
+
+Ich hab einen Weg gefunden: ein bash script lädt den google Kalender herunter und speichert diesen in einem file ~basic.ics~. Dabei wird die alte Datei gelöscht und durch eine neue ersetzt. Im ~init.el~ gibt es eine Funktion, welche die Datei ~basic.ics~ importiert und in das ~diary~ speichert. Das diary wird dann von der ~org-agenda~ gelesen. Damit es keine doppelten Einträge gibt, wird ein temporäres diary-file erstellt, das beim Schließen von Emacs gelöscht wird (der buffer geschlossen).
+
+Für die Richtung org-agenda nach Google Kalender exportieren: über ~org-capture~ erfasse ich einen Termin, etc. Diese Datei ist nicht Teil der ~org-agenda-files~. Über einen Befehl kann ich diese Datei in ein ics-Format exportieren und dieses schließlich in Google Kalender importieren. Ist umständlicher als mit ~org-gcal~, aber hier muss ich keine Passwörter eingeben, etc...
+
+* TODO [#A] Schoolfox Elternsprechtag
+DEADLINE: <2023-11-19 So 20:00>
+:PROPERTIES:
+:CAPTURED: [2023-11-14 Di 16:25]
+:END:
+
+[[denote:20231114T160144]]
+

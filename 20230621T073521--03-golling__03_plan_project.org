@@ -62,8 +62,11 @@ CLOSED: [2023-11-02 Do 10:50] SCHEDULED: <2023-10-30 Mo>
 - State "DONE"       from              [2023-11-02 Do 10:50]
 :END:
 
-** [[denote:20230624T193417][[SW09] Ein großes Versprechen]]
-SCHEDULED: <2023-11-06 Mo>
+** DONE [[denote:20230624T193417][[SW09] Ein großes Versprechen]]
+CLOSED: [2023-11-13 Mo 09:40] SCHEDULED: <2023-11-06 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2023-11-13 Mo 09:40]
+:END:
 
 ** [[denote:20230624T193503][[SW10] Genuss und Sucht]]
 SCHEDULED: <2023-11-13 Mo>

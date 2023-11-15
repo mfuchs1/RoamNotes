@@ -1,0 +1,25 @@
+#+title:      pdf
+#+date:       [2023-11-14 Di 22:06]
+#+filetags:   :test:
+#+identifier: 20231114T220617
+
+* notes
+:PROPERTIES:
+:NOTER_DOCUMENT: ../../Dokumente/LaTex_2/Kreinecker_ReichGottes/ReichGottes.pdf
+:END:
+
+** Einleitung
+:PROPERTIES:
+:NOTER_PAGE: 3
+:END:
+
+** Eine präzise Notiz mit M-i
+:PROPERTIES:
+:NOTER_PAGE: (3 0.3435430463576159 . 0)
+:END:
+
+** Herrschaft Gottes
+:PROPERTIES:
+:NOTER_PAGE: (4 0.48261589403973504 . 0)
+:END:
+Hier kommt der Text dazu.

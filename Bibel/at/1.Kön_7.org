@@ -1,34 +1,27 @@
-:PROPERTIES:
-:ID:       f36b1991-5404-4632-ab4c-6354f9c5f917
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das erste Buch der Könige* --
-[[file:1.Kön_1.html][1]] ... [[file:1.Kön_5.html][5]]
-[[file:1.Kön_6.html][6]] *7* [[file:1.Kön_8.html][8]]
-[[file:1.Kön_9.html][9]] ... [[file:1.Kön_22.html][22]]
-
---------------
-
-* 1.Kön 7
-  :PROPERTIES:
-  :CUSTOM_ID: kön-7
-  :END:
+#+TITLE: 1 Kön 7 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-12 So 20:41]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Kön 7.html
 
 <<verses>>
 
 <<v1>>
-**** Die Palastgebäude: 7,1-12
-     :PROPERTIES:
-     :CUSTOM_ID: die-palastgebäude-71-12
-     :END:
+* Die Palastgebäude: 7,1-12
+
 1 An seinem Palast baute Salomo dreizehn Jahre, bis er ihn ganz
 vollendet hatte.
 
 <<v2>>
 2 Er baute das Libanonwaldhaus, hundert Ellen lang, fünfzig Ellen breit
 und dreißig Ellen hoch, mit drei Reihen von Zedernsäulen und mit
-Zedernbalken über den Säulen. ^{[[#fn1][1]]}
+Zedernbalken über den Säulen. [fn:1]
 
 <<v3>>
 3 Eine Decke aus Zedernholz war über den Kammern, die über den Säulen
@@ -59,7 +52,7 @@ des Pharao, die er geheiratet hatte, ein Haus, das dieser Halle glich.
 <<v9>>
 9 Alle diese Bauten waren vom Grund bis zu den Gesimsen aus wertvollen
 Steinen aufgeführt, die in der Größe von Quadern an der Innen- wie
-Außenseite mit der Säge zugeschnitten waren . . . ^{[[#fn2][2]]}
+Außenseite mit der Säge zugeschnitten waren . . . [fn:2]
 
 <<v10>>
 10 Die Fundamente bestanden aus wertvollen, mächtigen Steinblöcken, aus
@@ -72,15 +65,13 @@ Zedernbalken.
 <<v12>>
 12 Der große Hof war rings von einer Mauer aus drei Lagen Quadern und
 einer Lage Zedernbalken umgeben; ebenso der innere Hof um das Haus des
-Herrn und der Hof um die Palasthalle. ^{[[#fn3][3]]}\\
+Herrn und der Hof um die Palasthalle. [fn:3]\\
 \\
 
 <<v13>>
-**** Die Ausstattung des Tempels: 7,13-51
-     :PROPERTIES:
-     :CUSTOM_ID: die-ausstattung-des-tempels-713-51
-     :END:
-13 König Salomo ließ Hiram aus Tyrus kommen. ^{[[#fn4][4]][[#fn5][5]]}
+* Die Ausstattung des Tempels: 7,13-51
+
+13 König Salomo ließ Hiram aus Tyrus kommen. [fn:4] [fn:5]
 
 <<v14>>
 14 Dieser war der Sohn einer Witwe aus dem Stamm Naftali. Sein Vater war
@@ -92,7 +83,7 @@ führte alle Arbeiten für ihn aus.
 15 Er formte die zwei bronzenen Säulen. Achtzehn Ellen betrug die Höhe
 der einen Säule und ein Band von zwölf Ellen umspannte sie. Ihre
 Wandstärke betrug vier Finger; innen war sie hohl. Ebenso war die zweite
-Säule. ^{[[#fn6][6]]}
+Säule. [fn:6]
 
 <<v16>>
 16 Dazu machte er zwei Kapitelle, um sie oben auf die Säulen zu setzen;
@@ -111,7 +102,7 @@ bedeckten. Ebenso verfuhr er mit dem zweiten Kapitell.
 
 <<v19>>
 19 Die Kapitelle oben auf den Säulen hatten die Form einer
-Lilienblüte . . . ^{[[#fn7][7]]}
+Lilienblüte . . . [fn:7]
 
 <<v20>>
 20 . . .
@@ -119,7 +110,7 @@ Lilienblüte . . . ^{[[#fn7][7]]}
 <<v21>>
 21 Er stellte die Säulen an der Vorhalle des Tempels auf. Die eine Säule
 stellte er auf die rechte Seite und nannte sie Jachin, die andere
-stellte er auf die linke Seite und nannte sie Boas. ^{[[#fn8][8]]}
+stellte er auf die linke Seite und nannte sie Boas. [fn:8]
 
 <<v22>>
 22 Oben auf den Säulen waren lilienförmige Gebilde. So wurde die Arbeit
@@ -128,7 +119,7 @@ an den Säulen zu Ende geführt.
 <<v23>>
 23 Dann machte er das «Meer». Es wurde aus Bronze gegossen und maß zehn
 Ellen von einem Rand zum andern; es war völlig rund und fünf Ellen hoch.
-Eine Schnur von dreißig Ellen konnte es rings umspannen. ^{[[#fn9][9]]}
+Eine Schnur von dreißig Ellen konnte es rings umspannen. [fn:9]
 
 <<v24>>
 24 Unterhalb seines Randes waren rundum Rankengebilde. In einer Länge
@@ -161,7 +152,7 @@ Rindern sowie unter ihnen waren Kranzgewinde eingehämmert.
 <<v30>>
 30 Jedes Gestell hatte vier bronzene Räder und bronzene Achsen. An den
 vier Füßen waren Ansätze, die unterhalb des Kessels angegossen
-waren . . . ^{[[#fn10][10]]}
+waren . . .  [fn:10]
 
 <<v31>>
 31 . . . (Der Kasten des Gestells) war eineinhalb Ellen hoch. Auch an
@@ -230,7 +221,7 @@ Bronze.
 
 <<v46>>
 46 In der Jordanau zwischen Sukkot und Zaretan ließ sie der König in
-Formen aus festem Lehm gießen. ^{[[#fn11][11]]}
+Formen aus festem Lehm gießen. [fn:11]
 
 <<v47>>
 47 Und Salomo gab allen Geräten ihren Platz. Wegen ihrer überaus großen
@@ -259,34 +250,36 @@ David hinein und legte das Silber, das Gold und die Geräte in die
 Schatzkammern des Hauses des Herrn.\\
 \\
 
-^{[[#fnm1][1]]} Das Libanonwaldhaus erhielt seinen Namen von den
+* Footnotes
+
+[fn:1] Das Libanonwaldhaus erhielt seinen Namen von den
 Zedernsäulen, die wie ein Wald in ihm standen. Es übertraf den Tempel an
 Größe. Zur Zeit Jesajas diente es als Zeughaus (Jes 22,8).
 
-^{[[#fnm2][2]]} H zum Teil unverständlich.
+[fn:2] H zum Teil unverständlich.
 
-^{[[#fnm3][3]]} Die gesamten Palastbauten standen in einem Hof, der als
+[fn:3] Die gesamten Palastbauten standen in einem Hof, der als
 der Große Hof bezeichnet wird. Durch die Mauer, die ihn umgab, war die
 Königsburg als eigener Stadtteil von der Bürgerstadt abgesondert.
 
-^{[[#fnm4][4]]} ℘ (13-51) 2 Chr 3,15 - 5,1
+[fn:4] (13-51) [[file:2.Chr_3.org::v15][2 Chr 3,15]] - [[file:2.Chr_5.org::v1][5,1]]
 
-^{[[#fnm5][5]]} Die Berufung eines ausländischen Künstlers war
+[fn:5] Die Berufung eines ausländischen Künstlers war
 notwendig, da das Kunstgewerbe in Israel noch wenig entwickelt war.
 
-^{[[#fnm6][6]]} ℘ 2 Kön 25,17; Jer 52,21
+[fn:6] [[file:2.Kön_25.org::v17][2 Kön 25,17]]; [[file:Jer_52.org::v21][Jer 52,21]]
 
-^{[[#fnm7][7]]} 19f: H unverständlich.
+[fn:7] 19f: H unverständlich.
 
-^{[[#fnm8][8]]} Die Namen Jachin und Boas werden verschieden gedeutet.
+[fn:8] Die Namen Jachin und Boas werden verschieden gedeutet.
 Sie bilden vielleicht einen Satz: «Er (Gott) verleihe Festigkeit mit
 Kraft», und drücken die Hoffnung auf den Bestand des Tempels und des
 Throns aus.
 
-^{[[#fnm9][9]]} Nach 2 Chr 4,6 diente das «Meer» den Priestern zu
+[fn:9] Nach [[file:2.Chr_4.org::v6][2 Chr 4,6]] diente das «Meer» den Priestern zu
 rituellen Waschungen.
 
-^{[[#fnm10][10]]} 30f.36: H teilweise unverständlich.
+[fn:10] 30f.36: H teilweise unverständlich.
 
-^{[[#fnm11][11]]} Bodenfunde haben gezeigt, dass die hier lebende
+[fn:11] Bodenfunde haben gezeigt, dass die hier lebende
 vorisraelitische Bevölkerung sich auf Metallverarbeitung verstand.

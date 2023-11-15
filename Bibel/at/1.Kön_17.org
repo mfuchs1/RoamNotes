@@ -1,31 +1,24 @@
-:PROPERTIES:
-:ID:       ee364979-5fcd-447c-8b3b-91b369c6ecbd
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das erste Buch der Könige* --
-[[file:1.Kön_1.html][1]] ... [[file:1.Kön_15.html][15]]
-[[file:1.Kön_16.html][16]] *17* [[file:1.Kön_18.html][18]]
-[[file:1.Kön_19.html][19]] ... [[file:1.Kön_22.html][22]]
-
---------------
-
-* 1.Kön 17
-  :PROPERTIES:
-  :CUSTOM_ID: kön-17
-  :END:
+#+TITLE: 1 Kön 17 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-15 Mi 22:22]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Kön 17.html
 
 <<verses>>
 
 <<v1>>
-**** Elija am Bach Kerit: 17,1-7
-     :PROPERTIES:
-     :CUSTOM_ID: elija-am-bach-kerit-171-7
-     :END:
+* Elija am Bach Kerit: 17,1-7
+
 1 Der Prophet Elija aus Tischbe in Gilead sprach zu Ahab: So wahr der
 Herr, der Gott Israels, lebt, in dessen Dienst ich stehe: in diesen
 Jahren sollen weder Tau noch Regen fallen, es sei denn auf mein Wort
-hin. ^{[[#fn1][1]]}
+hin. [fn:1]
 
 <<v2>>
 2 Danach erging das Wort des Herrn an Elija:
@@ -52,10 +45,8 @@ im Land.\\
 \\
 
 <<v8>>
-**** Elija in Sarepta: 17,8-24
-     :PROPERTIES:
-     :CUSTOM_ID: elija-in-sarepta-178-24
-     :END:
+* Elija in Sarepta: 17,8-24
+
 8 Da erging das Wort des Herrn an Elija:
 
 <<v9>>
@@ -91,7 +82,7 @@ Herr wieder Regen auf den Erdboden sendet.
 
 <<v15>>
 15 Sie ging und tat, was Elija gesagt hatte. So hatte sie mit ihm und
-ihrem Sohn viele Tage zu essen. ^{[[#fn2][2]]}
+ihrem Sohn viele Tage zu essen. [fn:2]
 
 <<v16>>
 16 Der Mehltopf wurde nicht leer und der Ölkrug versiegte nicht, wie der
@@ -105,7 +96,7 @@ war.
 <<v18>>
 18 Da sagte sie zu Elija: Was habe ich mit dir zu schaffen, Mann Gottes?
 Du bist nur zu mir gekommen, um an meine Sünde zu erinnern und meinem
-Sohn den Tod zu bringen. ^{[[#fn3][3]]}
+Sohn den Tod zu bringen. [fn:3]
 
 <<v19>>
 19 Er antwortete ihr: Gib mir deinen Sohn! Und er nahm ihn von ihrem
@@ -120,7 +111,7 @@ Sohn sterben lassen?
 <<v21>>
 21 Hierauf streckte er sich dreimal über den Knaben hin, rief zum Herrn
 und flehte: Herr, mein Gott, lass doch das Leben in diesen Knaben
-zurückkehren! ^{[[#fn4][4]]}
+zurückkehren! [fn:4]
 
 <<v22>>
 22 Der Herr erhörte das Gebet Elijas. Das Leben kehrte in den Knaben
@@ -135,13 +126,15 @@ ihn seiner Mutter zurück mit den Worten: Sieh, dein Sohn lebt.
 bist und dass das Wort des Herrn wirklich in deinem Mund ist.\\
 \\
 
-^{[[#fnm1][1]]} der Prophet Elija aus Tischbe: Text korr. nach G.
+* Footnotes
 
-^{[[#fnm2][2]]} und ihrem Sohn: Text sinngemäß korr.; H: und ihrem Haus.
+[fn:1] der Prophet Elija aus Tischbe: Text korr. nach G.
 
-^{[[#fnm3][3]]} Die Frau fürchtet, dass sie durch die Gegenwart Elijas
+[fn:2] und ihrem Sohn: Text sinngemäß korr.; H: und ihrem Haus.
+
+[fn:3] Die Frau fürchtet, dass sie durch die Gegenwart Elijas
 in ihrem Haus das Augenmerk seines Gottes auf sich und ihre Sünden
 gelenkt hat und dass er sie nun durch den Tod ihres Sohnes bestraft.
 
-^{[[#fnm4][4]]} Das gleiche Verhalten wird von Elischa in 2 Kön 4,34 und
-von Paulus in Apg 20,10 berichtet.
+[fn:4] Das gleiche Verhalten wird von Elischa in [[file:2.Kön_4.org::v34][2 Kön 4,34]] und
+von Paulus in [[file:~/RoamNotes/notes/Bibel/nt/Apg_20.org::v10][Apg 20,10]] berichtet.

@@ -1,34 +1,27 @@
-:PROPERTIES:
-:ID:       a4e233c6-498e-41f3-b6f8-dd7ec8761fa2
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das erste Buch der Könige* --
-[[file:1.Kön_1.html][1]] ... [[file:1.Kön_12.html][12]]
-[[file:1.Kön_13.html][13]] *14* [[file:1.Kön_15.html][15]]
-[[file:1.Kön_16.html][16]] ... [[file:1.Kön_22.html][22]]
-
---------------
-
-* 1.Kön 14
-  :PROPERTIES:
-  :CUSTOM_ID: kön-14
-  :END:
+#+TITLE: 1 Kön 14 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-15 Mi 12:32]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Kön 14.html
 
 <<verses>>
 
 <<v1>>
-**** Das kranke Kind Jerobeams: 14,1-18
-     :PROPERTIES:
-     :CUSTOM_ID: das-kranke-kind-jerobeams-141-18
-     :END:
+* Das kranke Kind Jerobeams: 14,1-18
+
 1 In jener Zeit erkrankte Jerobeams Sohn Abija.
 
 <<v2>>
 2 Jerobeam befahl daher seiner Frau: Mach dich auf, verkleide dich,
 damit man nicht erkennt, dass du Jerobeams Frau bist, und geh nach
 Schilo! Dort wohnt der Prophet Ahija, der mir verkündet hat, dass ich
-König dieses Volkes sein werde. ^{[[#fn1][1]]}
+König dieses Volkes sein werde. [fn:1]
 
 <<v3>>
 3 Nimm zehn Brote, Kuchen und einen Krug Honig mit und geh zu ihm! Er
@@ -68,7 +61,7 @@ dadurch erzürnt. Mir hast du den Rücken gekehrt.
 10 Darum bringe ich Unglück über das Haus Jerobeam und rotte von ihm
 alles, was männlich ist, bis zum letzten Mann in Israel aus. Ich fege
 das Haus Jerobeam hinweg, wie man Kot hinwegfegt, bis nichts mehr
-vorhanden ist. ^{[[#fn2][2]]}
+vorhanden ist. [fn:2]
 
 <<v11>>
 11 Wer vom Haus Jerobeam in der Stadt stirbt, den werden die Hunde
@@ -86,13 +79,13 @@ nur an ihm sich etwas fand, was dem Herrn, dem Gott Israels, gefiel.
 
 <<v14>>
 14 Der Herr aber wird sich einen König von Israel bestellen, der das
-Haus Jerobeam ausrottet . . . ^{[[#fn3][3]]}
+Haus Jerobeam ausrottet . . . [fn:3]
 
 <<v15>>
 15 Der Herr wird Israel schlagen, dass es schwankt wie das Rohr im
 Wasser, und er wird Israel aus diesem guten Land, das er den Vätern
 gegeben hat, ausreißen und es jenseits des Stromes zerstreuen, weil sie
-sich Kultpfähle gemacht und ihn dadurch erzürnt haben. ^{[[#fn4][4]]}
+sich Kultpfähle gemacht und ihn dadurch erzürnt haben. [fn:4]
 
 <<v16>>
 16 Er wird Israel preisgeben wegen der Sünden, die Jerobeam begangen und
@@ -100,7 +93,7 @@ zu denen er Israel verführt hat.
 
 <<v17>>
 17 Da stand die Frau Jerobeams auf und ging. Als sie nach Tirza kam und
-über die Schwelle des Hauses trat, starb der Knabe. ^{[[#fn5][5]]}
+über die Schwelle des Hauses trat, starb der Knabe. [fn:5]
 
 <<v18>>
 18 Ganz Israel begrub ihn und hielt ihm die Totenklage, wie der Herr
@@ -108,10 +101,8 @@ durch seinen Knecht, den Propheten Ahija, vorausgesagt hatte.\\
 \\
 
 <<v19>>
-**** Jerobeams Tod: 14,19-20
-     :PROPERTIES:
-     :CUSTOM_ID: jerobeams-tod-1419-20
-     :END:
+* Jerobeams Tod: 14,19-20
+
 19 Die übrige Geschichte Jerobeams, welche Kriege er führte und wie er
 regierte, ist aufgezeichnet in der Chronik der Könige von Israel.
 
@@ -122,15 +113,13 @@ Stelle.\\
 \\
 
 <<v21>>
-**** Rehabeam von Juda: 14,21-31
-     :PROPERTIES:
-     :CUSTOM_ID: rehabeam-von-juda-1421-31
-     :END:
+* Rehabeam von Juda: 14,21-31
+
 21 Rehabeam, der Sohn Salomos, war König in Juda. Er war einundvierzig
 Jahre alt, als er König wurde, und regierte siebzehn Jahre in Jerusalem,
 der Stadt, die der Herr aus allen Stämmen Israels erwählt hatte, um
 seinen Namen auf sie zu legen. Seine Mutter hieß Naama und war eine
-Ammoniterin. ^{[[#fn6][6]]}
+Ammoniterin. [fn:6]
 
 <<v22>>
 22 Juda aber tat, was dem Herrn missfiel. Die Sünden, die sie begingen,
@@ -138,11 +127,11 @@ reizten ihn mehr als alles, was ihre Väter getan hatten.
 
 <<v23>>
 23 Denn auch sie errichteten Kulthöhen, Steinmale und Kultpfähle auf
-allen hohen Hügeln und unter jedem üppigen Baum. ^{[[#fn7][7]]}
+allen hohen Hügeln und unter jedem üppigen Baum. [fn:7]
 
 <<v24>>
 24 Sogar Hierodulen gab es im Land. Die Israeliten ahmten alle Gräuel
-der Völker nach, die der Herr vor ihnen vertrieben hatte. ^{[[#fn8][8]]}
+der Völker nach, die der Herr vor ihnen vertrieben hatte. [fn:8]
 
 <<v25>>
 25 Im fünften Jahr des Königs Rehabeam zog Schischak, der König von
@@ -156,7 +145,7 @@ hatte anfertigen lassen.
 <<v27>>
 27 An deren Stelle ließ König Rehabeam bronzene anfertigen und übergab
 sie den Befehlshabern der Läufer, die den Eingang zum Haus des Königs
-bewachten. ^{[[#fn9][9]]}
+bewachten. [fn:9]
 
 <<v28>>
 28 Sooft nun der König in das Haus des Herrn ging, trugen die Läufer die
@@ -175,31 +164,33 @@ der Davidstadt begraben. Seine Mutter hieß Naama und war eine
 Ammoniterin. Sein Sohn Abija wurde König an seiner Stelle.\\
 \\
 
-^{[[#fnm1][1]]} ℘ 11,29-39
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 16,4; 21,21-24; 2 Kön 9,8
+[fn:1] [[file:1.Kön_11.org::v29][11,29-39]]
 
-^{[[#fnm3][3]]} H unverständlich.
+[fn:2] [[file:1.Kön_16.org::v4][16,4]]; [[file:1.Kön_21.org::v21][21,21-24]]; [[file:2.Kön_9.org::v8][2 Kön 9,8]]
 
-^{[[#fnm4][4]]} dass es schwankt: sinngemäß ergänzt.
+[fn:3] H unverständlich.
 
-^{[[#fnm5][5]]} Tirza, nördlich von Sichem, blieb bis Omri (885-874 v.
-Chr.) Hauptstadt des Nordreichs (vgl. die Anmerkung zu 16,24).
+[fn:4] dass es schwankt: sinngemäß ergänzt.
 
-^{[[#fnm6][6]]} ℘ (21-31) 2 Chr 12,9-16
+[fn:5] Tirza, nördlich von Sichem, blieb bis Omri (885-874 v. Chr.)
+Hauptstadt des Nordreichs (vgl. die Anmerkung zu 16,24).
 
-^{[[#fnm7][7]]} Pfähle aus Holz standen als Sinnbilder der Göttin
+[fn:6] (21-31) [[file:2.Chr_12.org::v9][2 Chr 12,9-16]]
+
+[fn:7] Pfähle aus Holz standen als Sinnbilder der Göttin
 Aschera oder Astarte neben oder auf den Altären. Steinmale, sog.
 Mazzeben, wurden zur Erinnerung an Personen (Gen 35,20) oder besondere
-Erlebnisse (Gen 28,18; 35,14) errichtet und waren in diesem Fall auch
+Erlebnisse ([[file:Gen_28.org::v18][Gen 28,18]]; [[file:Gen_35.org::v14][35,14]]) errichtet und waren in diesem Fall auch
 für den frommen Israeliten unbedenklich. Dagegen erscheinen sie zusammen
 mit heiligen Pfählen in heidnischen Kulten als Symbole des Baal. -
 Üppige Bäume konnten im wasserarmen Palästina leicht als
 Offenbarungsstätte einer Fruchtbarkeitsgottheit gedeutet werden.
 
-^{[[#fnm8][8]]} Die in der Umwelt Israels geübte kultische Unzucht im
-Dienst heidnischer Götter war nach Dtn 23,18 verboten und wurde von den
-Propheten bekämpft (vgl. Jer 3,2; Hos 4,14).
+[fn:8] Die in der Umwelt Israels geübte kultische Unzucht im
+Dienst heidnischer Götter war nach [[file:Dtn_23.org::v18][Dtn 23,18]] verboten und wurde von den
+Propheten bekämpft (vgl. [[file:Jer_3.org::v2][Jer 3,2]]; [[file:Hos_4.org::v14][Hos 4,14]]).
 
-^{[[#fnm9][9]]} Die «Läufer» waren ursprünglich die Begleiter des
+[fn:9] Die «Läufer» waren ursprünglich die Begleiter des
 Königs; später dienten sie als Palastwache.

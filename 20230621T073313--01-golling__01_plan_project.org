@@ -60,8 +60,11 @@ CLOSED: [2023-11-02 Do 10:50] SCHEDULED: <2023-10-30 Mo>
 - State "DONE"       from              [2023-11-02 Do 10:50]
 :END:
 
-** [[denote:20230619T085426][[SW09] Große Fragen - große Antworten]]
-SCHEDULED: <2023-11-06 Mo>
+** DONE [[denote:20230619T085426][[SW09] Große Fragen - große Antworten]]
+CLOSED: [2023-11-13 Mo 09:40] SCHEDULED: <2023-11-06 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2023-11-13 Mo 09:40]
+:END:
 
 ** [[denote:20230619T085724][[SW10] Harte Fakten - gute Gedanken?]]
 SCHEDULED: <2023-11-13 Mo>

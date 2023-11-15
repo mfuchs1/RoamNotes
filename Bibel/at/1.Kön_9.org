@@ -1,34 +1,27 @@
-:PROPERTIES:
-:ID:       df59115e-69bf-40a4-a7c5-bf4c666684cf
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das erste Buch der Könige* --
-[[file:1.Kön_1.html][1]] ... [[file:1.Kön_7.html][7]]
-[[file:1.Kön_8.html][8]] *9* [[file:1.Kön_10.html][10]]
-[[file:1.Kön_11.html][11]] ... [[file:1.Kön_22.html][22]]
-
---------------
-
-* 1.Kön 9
-  :PROPERTIES:
-  :CUSTOM_ID: kön-9
-  :END:
+#+TITLE: 1 Kön 9 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-12 So 20:54]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Kön 9.html
 
 <<verses>>
 
 <<v1>>
-**** Die Verheißung für den Tempel: 9,1-9
-     :PROPERTIES:
-     :CUSTOM_ID: die-verheißung-für-den-tempel-91-9
-     :END:
+* Die Verheißung für den Tempel: 9,1-9
+
 1 Nachdem Salomo den Bau des Tempels und des königlichen Palastes
 vollendet und alle Pläne, die er auszuführen wünschte, verwirklicht
-hatte, ^{[[#fn1][1]]}
+hatte, [fn:1]
 
 <<v2>>
 2 erschien ihm der Herr zum zweiten Mal, wie er ihm in Gibeon erschienen
-war. ^{[[#fn2][2]]}
+war. [fn:2]
 
 <<v3>>
 3 Er sprach zu ihm: Ich habe dein flehentliches Gebet, das du an mich
@@ -44,8 +37,7 @@ befohlen habe, wenn du auf meine Gebote und Rechtsvorschriften achtest,
 <<v5>>
 5 dann werde ich deinen Königsthron auf ewig in Israel bestehen lassen,
 wie ich es deinem Vater David zugesichert habe, zu dem ich gesagt habe:
-Es soll dir nie an einem Nachkommen auf dem Thron Israels fehlen.
-^{[[#fn3][3]]}
+Es soll dir nie an einem Nachkommen auf dem Thron Israels fehlen. [fn:3]
 
 <<v6>>
 6 Doch wenn ihr und eure Söhne euch von mir abwendet und die Gebote und
@@ -61,7 +53,7 @@ allen Völkern werden.
 <<v8>>
 8 Dieses Haus wird zu einem Trümmerhaufen werden und jeder, der
 vorübergeht, wird sich entsetzen und zischen. Man wird fragen: Warum hat
-der Herr diesem Land und diesem Haus das angetan? ^{[[#fn4][4]]}
+der Herr diesem Land und diesem Haus das angetan? [fn:4]
 
 <<v9>>
 9 Und man wird antworten: Weil sie den Herrn, ihren Gott, der ihre Väter
@@ -71,12 +63,10 @@ dieses Unglück über sie gebracht.\\
 \\
 
 <<v10>>
-**** Verschiedene Nachrichten über Salomo: 9,10-28
-     :PROPERTIES:
-     :CUSTOM_ID: verschiedene-nachrichten-über-salomo-910-28
-     :END:
+* Verschiedene Nachrichten über Salomo: 9,10-28
+
 10 Zwanzig Jahre hatte Salomo an den beiden Häusern, dem Tempel des
-Herrn und dem königlichen Palast, gebaut. ^{[[#fn5][5]]}
+Herrn und dem königlichen Palast, gebaut. [fn:5]
 
 <<v11>>
 11 Der König Hiram von Tyrus hatte ihn dabei mit Zedern- und
@@ -90,7 +80,7 @@ Salomo ihm gegeben hatte, gefielen sie ihm nicht.
 
 <<v13>>
 13 Er meinte: Was sind das für Städte, die du mir gegeben hast, mein
-Bruder? - Man nennt sie Land Kabul bis zum heutigen Tag. ^{[[#fn6][6]]}
+Bruder? - Man nennt sie Land Kabul bis zum heutigen Tag. [fn:6]
 
 <<v14>>
 14 Hiram hatte dem König hundertzwanzig Talente Gold gesandt.
@@ -98,18 +88,17 @@ Bruder? - Man nennt sie Land Kabul bis zum heutigen Tag. ^{[[#fn6][6]]}
 <<v15>>
 15 So verhielt es sich mit dem Frondienst: König Salomo hatte
 Fronarbeiter ausgehoben zum Bau des Tempels, seines Palastes, des Millo
-und der Mauern von Jerusalem, Hazor, Megiddo und Geser.
-^{[[#fn7][7]][[#fn8][8]]}
+und der Mauern von Jerusalem, Hazor, Megiddo und Geser. [fn:7] [fn:8]
 
 <<v16>>
 16 Der Pharao, der König von Ägypten, war nämlich heraufgezogen, hatte
 Geser erobert und eingeäschert, die Kanaaniter, die darin wohnten,
 getötet und die Stadt als Brautgeschenk seiner Tochter, der Frau
-Salomos, gegeben. ^{[[#fn9][9]]}
+Salomos, gegeben. [fn:9]
 
 <<v17>>
 17 Salomo baute nun Geser wieder auf. Ferner baute er das untere
-Bet-Horon aus ^{[[#fn10][10]]}
+Bet-Horon aus [fn:10]
 
 <<v18>>
 18 sowie Baala und Tamar in der Steppe im Land (Juda),
@@ -146,8 +135,7 @@ aus.
 <<v25>>
 25 Dreimal im Jahr brachte Salomo auf dem Altar, den er für den Herrn
 erbaut hatte, Brand- und Heilsopfer dar und ließ seine Opfergaben vor
-dem Herrn in Rauch aufgehen. Und er vollendete das Haus.
-^{[[#fn11][11]]}
+dem Herrn in Rauch aufgehen. Und er vollendete das Haus. [fn:11]
 
 <<v26>>
 26 König Salomo baute auch eine Flotte in Ezjon-Geber, das bei Elat an
@@ -159,35 +147,37 @@ zu Schiff aus.
 
 <<v28>>
 28 Sie fuhren nach Ofir, holten von dort vierhundertzwanzig Talente Gold
-und brachten es dem König Salomo. ^{[[#fn12][12]]}\\
+und brachten es dem König Salomo. [fn:12]\\
 \\
 
-^{[[#fnm1][1]]} ℘ (1-9) 2 Chr 7,11-22
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ (2-3) 3,4f
+[fn:1] (1-9) [[file:2.Chr_7.org::v11][2 Chr 7,11-22]]
 
-^{[[#fnm3][3]]} ℘ 2 Sam 7,16
+[fn:2] (2-3) [[file:1.Kön_3.org::v4][3,4f]]
 
-^{[[#fnm4][4]]} wird zu einem Trümmerhaufen werden: sinngemäß korr.; H:
+[fn:3] [[file:2.Sam_7.org::v16][2 Sam 7,16]]
+
+[fn:4] wird zu einem Trümmerhaufen werden: sinngemäß korr.; H:
 wird hoch sein. - Zischen ist ein Zeichen des Spottes.
 
-^{[[#fnm5][5]]} ℘ (10-28) 2 Chr 8,1-18
+[fn:5] (10-28) [[file:2.Chr_8.org::v1][2 Chr 8,1-18]]
 
-^{[[#fnm6][6]]} Den Namen konnte man verächtlich verstehen als «wie
-dürres Holz» (vgl. Jes 44,19). Kabul: östlich von Akko.
+[fn:6] Den Namen konnte man verächtlich verstehen als «wie
+dürres Holz» (vgl. [[file:Jes_44.org::v19][Jes 44,19]]). Kabul: östlich von Akko.
 
-^{[[#fnm7][7]]} ℘ 2 Sam 5,9
+[fn:7] [[file:2.Sam_5.org::v9][2 Sam 5,9]]
 
-^{[[#fnm8][8]]} Zu Millo vgl. die Anmerkung zu 2 Sam 5,9.
+[fn:8] Zu Millo vgl. die Anmerkung zu [[file:2.Sam_5.org::v9][2 Sam 5,9]].
 
-^{[[#fnm9][9]]} Vgl. die Anmerkung zu 3,1.
+[fn:9] Vgl. die Anmerkung zu [[file:1.Kön_3.org::v1][3,1]].
 
-^{[[#fnm10][10]]} 17f: Der Ausbau der Städte sicherte das Land gegen
+[fn:10] 17f: Der Ausbau der Städte sicherte das Land gegen
 Angriffe vom Norden und von Ägypten.
 
-^{[[#fnm11][11]]} Der König bestritt vielleicht nur den Aufwand für die
+[fn:11] Der König bestritt vielleicht nur den Aufwand für die
 Opfer, die von den Priestern dargebracht wurden. Die Dreizahl entsprach
-wohl den drei Hauptfesten (vgl. 2 Chr 8,13). - Opfergaben: Text korr.
+wohl den drei Hauptfesten (vgl. [[file:2.Chr_8.org::v13][2 Chr 8,13]]). - Opfergaben: Text korr.
 
-^{[[#fnm12][12]]} Ofir wird in Südarabien oder an der gegenüberliegenden
+[fn:12] Ofir wird in Südarabien oder an der gegenüberliegenden
 Küste Afrikas vermutet.

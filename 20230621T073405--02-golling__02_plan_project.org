@@ -61,8 +61,11 @@ CLOSED: [2023-11-02 Do 10:50] SCHEDULED: <2023-10-30 Mo>
 - State "DONE"       from              [2023-11-02 Do 10:50]
 :END:
 
-** [[denote:20230619T211456][[SW09] Leid hat viele Gesichter]]
-SCHEDULED: <2023-11-06 Mo>
+** DONE [[denote:20230619T211456][[SW09] Leid hat viele Gesichter]]
+CLOSED: [2023-11-13 Mo 09:40] SCHEDULED: <2023-11-06 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2023-11-13 Mo 09:40]
+:END:
 
 ** [[denote:20230619T211542][[SW10] Warum habt ihr solche Angst?]]
 SCHEDULED: <2023-11-13 Mo>

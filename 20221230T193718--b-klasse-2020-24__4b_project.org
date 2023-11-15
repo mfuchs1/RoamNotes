@@ -19,21 +19,21 @@
 * 4b 07:45-08:35
 <%%(org-class 2023 9 12 2024 7 6 2 44)>
 
-[[denote:20230711T003559][[SW09] Hinduismus]]
+Als Wiederholung könnten wir ein Kahoot über das Thema machen.
 
-[[denote:20230711T003636][[SW10] Buddhismus]]
+Als neues Thema bietet sich das letzte Evamgelium an; oder die Schüler erstellen ein Kahoot aus den Infos im Buch und ihrem Heft.
 
-Hefteintrag
-
+Thema: KZ + Überlebende / verstorben:
+- Viktor Frankl
+- Anne Frank
+- Edith Stein
+- P. Maximilan Kolbe
+- Weiße Rose / Sophie Scholl
 
 * 4b 07:45-08:35
 <%%(org-class 2023 9 13 2024 7 7 3 44)>
 
-[[denote:20230711T003559][[SW09] Hinduismus]]
-
-[[denote:20230711T003636][[SW10] Buddhismus]]
-
-Hefteintrag
+PPP fertig stellen; Handout; nächste Stunde Vorstellung.
 
 
 * 4B [KV Erwin Essl]
@@ -499,13 +499,6 @@ Thema: Sinn und Bedeutung der Arbeit für den Menschen - In D: Arbeitsbedingunge
 
 Maxi ändert sich gar nicht - scheinbar ist die Reli Note Zuhause völlig egal. Schaut sich seine Mama überhaupt das Zeugnis an? Thomas und Lukas ändern sich zum Besseren.
                                                  
-
-** [[id:03_SW01][[SW01] Wer möchte ich sein – wer bin ich?]]
-Datum: <2022-09-15 Do 08:40>
-
-Für dieses capture: C-1 C-n-c (das fügt das "date at point" der agenda ein) ... in den Header ein C-n-i und Link zu Stunde/Vorbereitung.
-
-Das war eigentlich eine gute Stunde; ein paar Burschen in der ersten Reihe wurden unruhig sobald ich ihnen den Rücken zukehrte. Ich hab sie darauf hingewiesen. Leon kann ich am Mo+Do zu Manuela schicken (was er gar nicht mag).
 
 ** [[denote:20230711T003213][[SW03] Sinn der Arbeit]]
 :PROPERTIES:

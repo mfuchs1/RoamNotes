@@ -1,35 +1,28 @@
-:PROPERTIES:
-:ID:       549d1dfc-c70c-4f6d-81a2-575f34308f97
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das erste Buch der Könige* --
-[[file:1.Kön_1.html][1]] ... [[file:1.Kön_6.html][6]]
-[[file:1.Kön_7.html][7]] *8* [[file:1.Kön_9.html][9]]
-[[file:1.Kön_10.html][10]] ... [[file:1.Kön_22.html][22]]
-
---------------
-
-* 1.Kön 8
-  :PROPERTIES:
-  :CUSTOM_ID: kön-8
-  :END:
+#+TITLE: 1 Kön 8 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-12 So 20:46]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Kön 8.html
 
 <<verses>>
 
 <<v1>>
-**** Die Übertragung der Bundeslade: 8,1-13
-     :PROPERTIES:
-     :CUSTOM_ID: die-übertragung-der-bundeslade-81-13
-     :END:
+* Die Übertragung der Bundeslade: 8,1-13
+
 1 Damals versammelte Salomo die Ältesten Israels, alle Stammesführer und
 die Häupter der israelitischen Großfamilien bei sich in Jerusalem, um
 die Bundeslade des Herrn aus der Stadt Davids, das ist Zion,
-heraufzuholen. ^{[[#fn1][1]]}
+heraufzuholen. [fn:1]
 
 <<v2>>
 2 Am Fest im Monat Etanim, das ist der siebte Monat, kamen alle Männer
-Israels bei König Salomo zusammen. ^{[[#fn2][2]]}
+Israels bei König Salomo zusammen. [fn:2]
 
 <<v3>>
 3 In Gegenwart aller Ältesten Israels nahmen die Priester die Lade
@@ -37,7 +30,7 @@ Israels bei König Salomo zusammen. ^{[[#fn2][2]]}
 <<v4>>
 4 und brachten sie zugleich mit dem Offenbarungszelt und den heiligen
 Geräten, die im Zelt waren, hinauf. Die Priester und die Leviten
-übernahmen den Trägerdienst. ^{[[#fn3][3]]}
+übernahmen den Trägerdienst. [fn:3]
 
 <<v5>>
 5 König Salomo aber und die ganze Gemeinde Israels, die bei ihm vor der
@@ -75,7 +68,7 @@ Herrlichkeit des Herrn erfüllte das Haus des Herrn.\\
 <<v12>>
 12 Damals sagte Salomo: Der Herr hat die Sonne an den Himmel gesetzt;
 /\\
- er selbst wollte im Dunkel wohnen. ^{[[#fn4][4]]}\\
+ er selbst wollte im Dunkel wohnen. [fn:4]\\
 \\
 
 <<v13>>
@@ -84,12 +77,10 @@ Herrlichkeit des Herrn erfüllte das Haus des Herrn.\\
 \\
 
 <<v14>>
-**** Die Ansprache des Königs: 8,14-21
-     :PROPERTIES:
-     :CUSTOM_ID: die-ansprache-des-königs-814-21
-     :END:
+* Die Ansprache des Königs: 8,14-21
+
 14 Dann wandte sich der König um und segnete die ganze Versammlung
-Israels. Alle standen ^{[[#fn5][5]]}
+Israels. Alle standen [fn:5]
 
 <<v15>>
 15 und er betete: Gepriesen sei der Herr, der Gott Israels. Seine Hand
@@ -104,7 +95,7 @@ Herrscher über mein Volk Israel erwählt.
 
 <<v17>>
 17 Mein Vater David wollte dem Namen des Herrn, des Gottes Israels, ein
-Haus bauen. ^{[[#fn6][6]]}
+Haus bauen. [fn:6]
 
 <<v18>>
 18 Doch der Herr sprach zu ihm: Wenn du dir vorgenommen hast, meinem
@@ -127,12 +118,10 @@ aus Ägypten führte.\\
 \\
 
 <<v22>>
-**** Das Weihegebet: 8,22-53
-     :PROPERTIES:
-     :CUSTOM_ID: das-weihegebet-822-53
-     :END:
+* Das Weihegebet: 8,22-53
+
 22 Dann trat Salomo in Gegenwart der ganzen Versammlung Israels vor den
-Altar des Herrn, breitete seine Hände zum Himmel aus ^{[[#fn7][7]]}
+Altar des Herrn, breitete seine Hände zum Himmel aus [fn:7]
 
 <<v23>>
 23 und betete: Herr, Gott Israels, im Himmel oben und auf der Erde unten
@@ -178,7 +167,7 @@ Höre sie und verzeih!
 <<v31>>
 31 Wenn sich jemand gegen seinen Nächsten verfehlt und dieser ihm einen
 Eid abverlangt, den er schwören muss, und er dann kommt und vor deinem
-Altar in diesem Haus schwört, ^{[[#fn8][8]]}
+Altar in diesem Haus schwört, [fn:8]
 
 <<v32>>
 32 so höre du es im Himmel und greif ein! Verschaff deinen Knechten
@@ -198,8 +187,7 @@ sie in das Land zurückkommen, das du ihren Vätern gegeben hast.
 <<v35>>
 35 Wenn der Himmel verschlossen ist und kein Regen fällt, weil sie gegen
 dich gesündigt haben, und wenn sie dann an diesem Ort beten, deinen
-Namen preisen und von ihrer Sünde lassen, weil du sie demütigst,
-^{[[#fn9][9]]}
+Namen preisen und von ihrer Sünde lassen, weil du sie demütigst, [fn:9]
 
 <<v36>>
 36 so höre du sie im Himmel! Vergib deinen Knechten und deinem Volk
@@ -293,10 +281,8 @@ unsere Väter aus Ägypten geführt hast, Herr und Gott.\\
 \\
 
 <<v54>>
-**** Salomos Segen: 8,54-61
-     :PROPERTIES:
-     :CUSTOM_ID: salomos-segen-854-61
-     :END:
+* Salomos Segen: 8,54-61
+
 54 Als Salomo dieses flehentliche Gebet zum Herrn beendet hatte, erhob
 er sich auf dem Platz vor dem Altar des Herrn, wo er niedergekniet war
 und die Hände zum Himmel ausgebreitet hatte.
@@ -337,17 +323,15 @@ geschieht.\\
 \\
 
 <<v62>>
-**** Der Abschluss der Feier: 8,62-66
-     :PROPERTIES:
-     :CUSTOM_ID: der-abschluss-der-feier-862-66
-     :END:
+* Der Abschluss der Feier: 8,62-66
+
 62 Dann brachten der König und mit ihm ganz Israel vor dem Herrn Opfer
-dar. ^{[[#fn10][10]]}
+dar. [fn:10]
 
 <<v63>>
 63 Zweiundzwanzigtausend Rinder und hundertzwanzigtausend Schafe ließ
 Salomo als Heilsopfer für den Herrn schlachten. So vollzogen der König
-und alle Israeliten die Weihe des Hauses des Herrn. ^{[[#fn11][11]]}
+und alle Israeliten die Weihe des Hauses des Herrn. [fn:11]
 
 <<v64>>
 64 An jenem Tag weihte der König auch die Mitte des Hofes, der vor dem
@@ -360,7 +344,7 @@ Speiseopfer und die Fettstücke der Heilsopfer fassen zu können.
 65 Salomo feierte damals mit ganz Israel, das von Lebo-Hamat bis zum
 Grenzbach Ägyptens zu einer großen Versammlung vor dem Herrn, unserem
 Gott, erschienen war, das (Laubhütten-)Fest sieben Tage lang [und
-nochmals sieben Tage, zusammen vierzehn Tage]. ^{[[#fn12][12]]}
+nochmals sieben Tage, zusammen vierzehn Tage]. [fn:12]
 
 <<v66>>
 66 Am achten Tag entließ er das Volk. Sie priesen den König und gingen
@@ -368,38 +352,40 @@ zu ihren Zelten, frohen Mutes und voll Freude über all das Gute, das der
 Herr an seinem Knecht David und seinem Volk Israel getan hatte.\\
 \\
 
-^{[[#fnm1][1]]} ℘ (1-13) 2 Chr 5,2-11; 6,1f
+* Footnotes
 
-^{[[#fnm2][2]]} Der Monat Etanim (Monat «der ständig fließenden Bäche»)
+[fn:1] (1-13) [[file:2.Chr_5.org::v2][2 Chr 5,2-11]]; [[file:2.Chr_6.org::v1][6,1f]]
+
+[fn:2] Der Monat Etanim (Monat «der ständig fließenden Bäche»)
 entspricht ungefähr unserem September/Oktober. Das Fest ist das
 Laubhüttenfest.
 
-^{[[#fnm3][3]]} Durch die Unterbringung des Offenbarungszeltes von
+[fn:3] Durch die Unterbringung des Offenbarungszeltes von
 Gibeon im Tempel und seine Vereinigung mit der Bundeslade übernahm der
 Tempel die Aufgabe des Wanderheiligtums der Wüstenzeit.
 
-^{[[#fnm4][4]]} Der erste Satz ist nur in G überliefert.
+[fn:4] Der erste Satz ist nur in G überliefert.
 
-^{[[#fnm5][5]]} ℘ (14-21) 2 Chr 6,3-11
+[fn:5] (14-21) [[file:2.Chr_6.org::v3][2 Chr 6,3-11]]
 
-^{[[#fnm6][6]]} ℘ (17-19) 2 Sam 7,1-13
+[fn:6] (17-19) [[file:2.Sam_7.org::v1][2 Sam 7,1-13]]
 
-^{[[#fnm7][7]]} ℘ (22-52) 2 Chr 6,12-40
+[fn:7] (22-52) [[file:2.Chr_6.org::v12][2 Chr 6,12-40]]
 
-^{[[#fnm8][8]]} 31-51: Der Hauptteil des Gebets fleht nicht um Hilfe in
+[fn:8] 31-51: Der Hauptteil des Gebets fleht nicht um Hilfe in
 augenblicklicher Not, sondern zählt Fälle auf, die in Zukunft Anlass zu
 einem Gebet im Tempel geben können. Es lassen sich sieben Bitten
 feststellen. Die Siebenzahl als heilige Zahl mag beabsichtigt sein.
 
-^{[[#fnm9][9]]} sie demütigst: Text korr. nach G; H: sie erhörst.
+[fn:9] sie demütigst: Text korr. nach G; H: sie erhörst.
 
-^{[[#fnm10][10]]} ℘ (62-66) 2 Chr 7,4-10
+[fn:10] (62-66) [[file:2.Chr_7.org::v4][2 Chr 7,4-10]]
 
-^{[[#fnm11][11]]} Zum Heilsopfer vgl. die Anmerkung zu Lev 3,1-17. - Den
+[fn:11] Zum Heilsopfer vgl. die Anmerkung zu [[file:Lev_3.org::v1][Lev 3,1-17]]. - Den
 hohen Zahlen der Opfertiere mag eine uns unbekannte Symbolik zugrunde
 liegen.
 
-^{[[#fnm12][12]]} Späterer Zusatz, eingefügt in der Annahme, dass die
+[fn:12] Späterer Zusatz, eingefügt in der Annahme, dass die
 Tempelweihe und das Laubhüttenfest nicht gleichzeitig, sondern
 nacheinander in je siebentägiger Feier begangen wurden. - Lebo-Hamat:
 Name einer Landschaft oder eines Ortes zwischen Libanon und Antilibanon
