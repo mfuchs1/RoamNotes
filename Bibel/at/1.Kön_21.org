@@ -1,29 +1,22 @@
-:PROPERTIES:
-:ID:       8a9980c6-beec-432a-a9b2-c39c12dceab2
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das erste Buch der Könige* --
-[[file:1.Kön_1.html][1]] ... [[file:1.Kön_19.html][19]]
-[[file:1.Kön_20.html][20]] *21* [[file:1.Kön_22.html][22]]
-
---------------
-
-* 1.Kön 21
-  :PROPERTIES:
-  :CUSTOM_ID: kön-21
-  :END:
+#+TITLE: 1 Kön 21 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-18 Sa 16:34]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Kön 21.html
 
 <<verses>>
 
 <<v1>>
-**** Nabots Weinberg: 21,1-29
-     :PROPERTIES:
-     :CUSTOM_ID: nabots-weinberg-211-29
-     :END:
+* Nabots Weinberg: 21,1-29
+
 1 Danach trug sich Folgendes zu. Nabot aus Jesreel hatte einen Weinberg
-in Jesreel neben dem Palast Ahabs, des Königs von Samarien.
-^{[[#fn1][1]]}
+in Jesreel neben dem Palast Ahabs, des Königs von Samarien. [fn:1]
 
 <<v2>>
 2 Ahab verhandelte mit Nabot und schlug ihm vor: Gib mir deinen
@@ -63,13 +56,12 @@ der Stadt wohnten.
 
 <<v9>>
 9 In den Briefen schrieb sie: Ruft ein Fasten aus und lasst Nabot oben
-vor allem Volk Platz nehmen! ^{[[#fn2][2]]}
+vor allem Volk Platz nehmen! [fn:2]
 
 <<v10>>
 10 Setzt ihm aber zwei nichtswürdige Männer gegenüber! Sie sollen gegen
 ihn als Zeugen auftreten und sagen: Du hast Gott und den König
-gelästert. Führt ihn dann hinaus und steinigt ihn zu Tode!
-^{[[#fn3][3]][[#fn4][4]]}
+gelästert. Führt ihn dann hinaus und steinigt ihn zu Tode! [fn:3] [fn:4]
 
 <<v11>>
 11 Die Männer der Stadt, die Ältesten und Vornehmen, die mit ihm
@@ -109,8 +101,7 @@ um von ihm Besitz zu ergreifen.
 <<v19>>
 19 Sag ihm: So spricht der Herr: Durch einen Mord bist du Erbe geworden?
 Weiter sag ihm: So spricht der Herr: An der Stelle, wo die Hunde das
-Blut Nabots geleckt haben, werden Hunde auch dein Blut lecken.
-^{[[#fn5][5]]}
+Blut Nabots geleckt haben, werden Hunde auch dein Blut lecken. [fn:5]
 
 <<v20>>
 20 Ahab sagte zu Elija: Hast du mich gefunden, mein Feind? Er erwiderte:
@@ -120,7 +111,7 @@ missfällt,
 <<v21>>
 21 werde ich Unheil über dich bringen. Ich werde dein Geschlecht
 hinwegfegen und von Ahabs Geschlecht alles, was männlich ist, bis zum
-letzten Mann in Israel ausrotten. ^{[[#fn6][6]]}
+letzten Mann in Israel ausrotten. [fn:6]
 
 <<v22>>
 22 Weil du mich zum Zorn gereizt und Israel zur Sünde verführt hast,
@@ -129,7 +120,7 @@ Sohnes Nebats, und mit dem Haus Baschas, des Sohnes Ahijas.
 
 <<v23>>
 23 Und über Isebel verkündet der Herr: Die Hunde werden Isebel an der
-Mauer von Jesreel auffressen. ^{[[#fn7][7]]}
+Mauer von Jesreel auffressen. [fn:7]
 
 <<v24>>
 24 Wer von der Familie Ahabs in der Stadt stirbt, den werden die Hunde
@@ -160,22 +151,22 @@ kommen lassen. Erst in den Tagen seines Sohnes werde ich das Unheil über
 sein Haus bringen.\\
 \\
 
-^{[[#fnm1][1]]} Jesreel war neben Samaria Residenzstadt.
+* Footnotes
 
-^{[[#fnm2][2]]} Ein allgemeines Fasten konnte bei Unglück und Trauer zur
+[fn:1] Jesreel war neben Samaria Residenzstadt.
+
+[fn:2] Ein allgemeines Fasten konnte bei Unglück und Trauer zur
 Unterstützung einer Bitte oder zur Aufdeckung einer Schuld angeordnet
 werden. Der Ehrenplatz, den man Nabot anbot, sollte seine Schuld um so
 verwerflicher erscheinen lassen.
 
-^{[[#fnm3][3]]} ℘ Lev 24,16
+[fn:3] [[file:Lev_24.org::v16][Lev 24,16]]
 
-^{[[#fnm4][4]]} lästern: wörtlich: segnen. Nabot soll beschuldigt
-werden, Fluchworte über den König ausgesprochen zu haben (vgl. Ex
-22,27).
+[fn:4] lästern: wörtlich: segnen. Nabot soll beschuldigt
+werden, Fluchworte über den König ausgesprochen zu haben (vgl. [[file:Ex_22.org::v27][Ex 22,27]]).
 
-^{[[#fnm5][5]]} Die Drohung ging am Sohn Ahabs in Erfüllung (vgl. 2 Kön
-9,25f).
+[fn:5] Die Drohung ging am Sohn Ahabs in Erfüllung (vgl. [[file:2.Kön_9.org::v25][2 Kön 9,25f]]).
 
-^{[[#fnm6][6]]} ℘ 14,10; 16,4; 2 Kön 9,8
+[fn:6] [[file:1.Kön_14.org::v10][14,10]]; [[file:1.Kön_16.org::v4][16,4]]; [[file:2.Kön_9.org::v8][2 Kön 9,8]]
 
-^{[[#fnm7][7]]} ℘ 2 Kön 9,36
+[fn:7] [[file:2.Kön_9.org::v36][2 Kön 9,36]]

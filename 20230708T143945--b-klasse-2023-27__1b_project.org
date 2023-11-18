@@ -26,6 +26,7 @@ Kapitel 2
 <%%(org-class 2023 9 15 2024 7 9 5 44)>
 
 Kapitel 2
+Gute Gedanken / Ist da jemand?
 
 * 1B [KV Gertraud Viertbauer]
 #+Name: 2021-students

@@ -1,43 +1,36 @@
-:PROPERTIES:
-:ID:       0c18a081-e125-4349-9fc0-193d18a71627
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das erste Buch der Könige* --
-[[file:1.Kön_1.html][1]] ... [[file:1.Kön_20.html][20]]
-[[file:1.Kön_21.html][21]] *22*
-
---------------
-
-* 1.Kön 22
-  :PROPERTIES:
-  :CUSTOM_ID: kön-22
-  :END:
+#+TITLE: 1 Kön 22 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-18 Sa 16:53]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Kön 22.html
 
 <<verses>>
 
 <<v1>>
-**** Der Krieg mit den Aramäern, Ahabs Tod: 22,1-40
-     :PROPERTIES:
-     :CUSTOM_ID: der-krieg-mit-den-aramäern-ahabs-tod-221-40
-     :END:
+* Der Krieg mit den Aramäern, Ahabs Tod: 22,1-40
+
 1 Drei Jahre hatte das Land Ruhe und gab es keinen Krieg zwischen Aram
 und Israel.
 
 <<v2>>
 2 Als im dritten Jahr Joschafat, der König von Juda, zum König von
-Israel kam, ^{[[#fn1][1]]}
+Israel kam, [fn:1]
 
 <<v3>>
 3 sagte der König von Israel zu seinen Beamten: Ihr wisst doch, dass
 Ramot-Gilead uns gehört. Wir aber zögern, es dem König von Aram zu
-entreißen. ^{[[#fn2][2]]}
+entreißen. [fn:2]
 
 <<v4>>
 4 Und er fragte Joschafat: Würdest du mit mir gegen Ramot-Gilead in den
 Krieg ziehen? Dieser antwortete dem König von Israel: Ich ziehe mit dir,
-mein Volk mit deinem Volk, meine Pferde mit deinen Pferden.
-^{[[#fn3][3]]}
+mein Volk mit deinem Volk, meine Pferde mit deinen Pferden. [fn:3]
 
 <<v5>>
 5 Joschafat bat aber den König von Israel: Befrag doch zuvor den Herrn!
@@ -46,7 +39,7 @@ mein Volk mit deinem Volk, meine Pferde mit deinen Pferden.
 6 Da versammelte der König von Israel die Propheten, gegen vierhundert
 Mann, und fragte sie: Soll ich gegen Ramot-Gilead zu Felde ziehen, oder
 soll ich es lassen? Sie gaben den Bescheid: Zieh hinauf! Der Herr gibt
-die Stadt in die Hand des Königs. ^{[[#fn4][4]]}
+die Stadt in die Hand des Königs. [fn:4]
 
 <<v7>>
 7 Doch Joschafat sagte: Ist hier sonst kein Prophet des Herrn, den wir
@@ -94,7 +87,7 @@ die Hand des Königs.
 
 <<v16>>
 16 Doch der König entgegnete: Wie oft muss ich dich beschwören, mir im
-Namen des Herrn nur die Wahrheit zu sagen? ^{[[#fn5][5]]}
+Namen des Herrn nur die Wahrheit zu sagen? [fn:5]
 
 <<v17>>
 17 Da sagte Micha: Ich sah ganz Israel über die Berge zerstreut wie
@@ -108,7 +101,7 @@ nicht gesagt? Er weissagt mir nie Gutes, sondern immer nur Schlimmes.
 <<v19>>
 19 Micha aber fuhr fort: Darum - höre das Wort des Herrn: Ich sah den
 Herrn auf seinem Thron sitzen; das ganze Heer des Himmels stand zu
-seiner Rechten und seiner Linken. ^{[[#fn6][6]][[#fn7][7]]}
+seiner Rechten und seiner Linken. [fn:6] [fn:7]
 
 <<v20>>
 20 Und der Herr fragte: Wer will Ahab betören, sodass er nach
@@ -148,8 +141,7 @@ zurückkomme.
 
 <<v28>>
 28 Doch Micha erwiderte: Wenn du wohlbehalten zurückkommst, dann hat der
-Herr nicht durch mich geredet. [Und er sagte: Hört, alle ihr Völker!]
-^{[[#fn8][8]]}
+Herr nicht durch mich geredet. [Und er sagte: Hört, alle ihr Völker!] [fn:8]
 
 <<v29>>
 29 Darauf zog der König von Israel mit Joschafat, dem König von Juda,
@@ -195,7 +187,7 @@ Stadt, in sein Land zurück!
 <<v38>>
 38 Als man im Teich von Samaria den Wagen ausspülte, leckten Hunde sein
 Blut, und Dirnen wuschen sich darin, nach dem Wort, das der Herr
-gesprochen hatte. ^{[[#fn9][9]][[#fn10][10]]}
+gesprochen hatte. [fn:9] [fn:10]
 
 <<v39>>
 39 Die übrige Geschichte Ahabs und alle seine Taten, der Bericht über
@@ -208,12 +200,10 @@ seiner Stelle.\\
 \\
 
 <<v41>>
-**** Joschafat von Juda: 22,41-51
-     :PROPERTIES:
-     :CUSTOM_ID: joschafat-von-juda-2241-51
-     :END:
+* Joschafat von Juda: 22,41-51
+
 41 Im vierten Jahr des Königs Ahab von Israel wurde Joschafat, der Sohn
-Asas, König von Juda. ^{[[#fn11][11]]}
+Asas, König von Juda. [fn:11]
 
 <<v42>>
 42 Er war fünfunddreißig Jahre alt, als er König wurde, und regierte
@@ -238,7 +228,7 @@ Juda.
 
 <<v47>>
 47 Er entfernte die letzten Hierodulen, die in den Tagen seines Vaters
-Asa übrig geblieben waren, aus dem Land. ^{[[#fn12][12]]}
+Asa übrig geblieben waren, aus dem Land. [fn:12]
 
 <<v48>>
 48 In Edom gab es damals keinen König; ein Statthalter vertrat den
@@ -247,7 +237,7 @@ König.
 <<v49>>
 49 Auch baute Joschafat eine Tarschischflotte, die nach Ofir fahren
 sollte, um Gold zu holen. Doch kam es nicht zur Fahrt, da die Schiffe in
-Ezjon-Geber zerschellten. ^{[[#fn13][13]]}
+Ezjon-Geber zerschellten. [fn:13]
 
 <<v50>>
 50 Damals sagte Ahasja, der Sohn Ahabs, zu Joschafat: Meine Leute sollen
@@ -261,10 +251,8 @@ seiner Stelle.\\
 \\
 
 <<v52>>
-**** Ahasja von Israel: 22,52-54
-     :PROPERTIES:
-     :CUSTOM_ID: ahasja-von-israel-2252-54
-     :END:
+* Ahasja von Israel: 22,52-54
+
 52 Im siebzehnten Jahr des Königs Joschafat von Juda wurde Ahasja, der
 Sohn Ahabs, in Samaria König von Israel. Er regierte zwei Jahre über
 Israel
@@ -279,38 +267,39 @@ zur Sünde verführt hatte.
 Gott Israels, ganz so, wie es sein Vater getan hatte.\\
 \\
 
-^{[[#fnm1][1]]} Joram, der Sohn Joschafats, war mit Atalja, der Tochter
-Ahabs, verheiratet (vgl. 2 Kön 8,18).
+* Footnotes
 
-^{[[#fnm2][2]]} Ramot-Gilead, unter Salomo Sitz eines Statthalters
+[fn:1] Joram, der Sohn Joschafats, war mit Atalja, der Tochter
+Ahabs, verheiratet (vgl. [[file:2.Kön_8.org::v18][2 Kön 8,18]]).
+
+[fn:2] Ramot-Gilead, unter Salomo Sitz eines Statthalters
 (4,13), war an Damaskus gefallen.
 
-^{[[#fnm3][3]]} ℘ 2 Kön 3,7; (4-35) 2 Chr 18,1-34
+[fn:3] [[file:2.Kön_3.org::v7][2 Kön 3,7]]; (4-35) [[file:2.Chr_18.org::v1][2 Chr 18,1-34]]
 
-^{[[#fnm4][4]]} Gemeint sind Propheten, die im Dienst des Königs standen
+[fn:4] Gemeint sind Propheten, die im Dienst des Königs standen
 und die nach dem Wunsch des Königs redeten.
 
-^{[[#fnm5][5]]} Ahab erkennt, dass Micha ironisch spricht.
+[fn:5] Ahab erkennt, dass Micha ironisch spricht.
 
-^{[[#fnm6][6]]} ℘ Jes 6,1-3
+[fn:6] [[file:Jes_6.org::v1][Jes 6,1-3]]
 
-^{[[#fnm7][7]]} 19-23: Der Entschluss zum Unternehmen gegen
+[fn:7] 19-23: Der Entschluss zum Unternehmen gegen
 Ramot-Gilead, bei dem der König den Tod finden sollte, wird als Rat
 eines von Gott unterschiedenen Geistes, des Lügengeistes, hingestellt.
 In ähnlicher Weise wird die Anregung zu der für David verhängnisvollen
-Volkszählung, die in 2 Sam 24,1 dem zürnenden Gott zugeschrieben wird,
-in 1 Chr 21,1 dem Satan zugeschrieben.
+Volkszählung, die in [[file:2.Sam_24.org::v1][2 Sam 24,1]] dem zürnenden Gott zugeschrieben wird,
+in [[file:1.Chr_21.org::v1][1 Chr 21,1]] dem Satan zugeschrieben.
 
-^{[[#fnm8][8]]} Zusatz aus Mi 1,2, veranlasst durch die Gleichsetzung
+[fn:8] Zusatz aus [[file:Mi_1.org::v2][Mi 1,2]], veranlasst durch die Gleichsetzung
 des hier genannten Micha mit dem Micha des Prophetenbuches.
 
-^{[[#fnm9][9]]} ℘ 21,19
+[fn:9] [[file:1.Kön_21.org::v19][21,19]]
 
-^{[[#fnm10][10]]} Die Weissagung ist nicht überliefert.
+[fn:10] Die Weissagung ist nicht überliefert.
 
-^{[[#fnm11][11]]} ℘ (41-51) 2 Chr 20,31 - 21,1
+[fn:11] (41-51) [[file:1.Chr_20.org::v31][2 Chr 20,31]] - [[file:1.Chr_21.org::v1][21,1]]
 
-^{[[#fnm12][12]]} ℘ 15,12
+[fn:12] [[file:1.Kön_15.org::v12][15,12]]
 
-^{[[#fnm13][13]]} Schiffe, die nach dem Muster der in 10,22 erwähnten
-gebaut waren.
+[fn:13] Schiffe, die nach dem Muster der in [[file:1.Kön_10.org::v22][10,22]] erwähnten gebaut waren.
