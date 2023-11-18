@@ -1,27 +1,23 @@
-:PROPERTIES:
-:ID:       cea0d58b-a19c-4e93-884c-d7db9e7c6811
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch der Könige* --
-[[file:2.Kön_1.html][1]] ... [[file:2.Kön_5.html][5]]
-[[file:2.Kön_6.html][6]] *7* [[file:2.Kön_8.html][8]]
-[[file:2.Kön_9.html][9]] ... [[file:2.Kön_25.html][25]]
-
---------------
+#+TITLE: 2 Kön 7 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-18 Sa 17:30]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Kön 7.html
 
 * 2.Kön 7
-  :PROPERTIES:
-  :CUSTOM_ID: kön-7
-  :END:
 
 <<verses>>
 
 <<v1>>
 1 Doch Elischa entgegnete: Hört das Wort des Herrn! So spricht der Herr:
 Morgen um diese Zeit kostet am Tor von Samaria ein Sea Feinmehl nur noch
-einen Schekel und auch zwei Sea Gerste kosten nur noch einen Schekel.
-^{[[#fn1][1]]}
+einen Schekel und auch zwei Sea Gerste kosten nur noch einen Schekel. [fn:1]
 
 <<v2>>
 2 Doch der Adjutant, auf dessen Arm sich der König stützte, antwortete
@@ -77,7 +73,7 @@ angebunden und die Zelte standen so da, wie sie waren.
 
 <<v11>>
 11 Da schlugen die Wächter Lärm und man meldete es drinnen im Palast des
-Königs. ^{[[#fn2][2]]}
+Königs. [fn:2]
 
 <<v12>>
 12 Noch in der Nacht stand der König auf und sagte zu seinen Leuten: Ich
@@ -91,7 +87,7 @@ ein.
 13 Doch einer von den Leuten schlug vor: Man nehme doch fünf von den
 noch vorhandenen Pferden. Ihnen mag es ergehen wie den vielen
 Israeliten, die schon zugrunde gegangen sind. Wir wollen Männer mit den
-Pferden hinschicken und dann weiter sehen. ^{[[#fn3][3]]}
+Pferden hinschicken und dann weiter sehen. [fn:3]
 
 <<v14>>
 14 Man nahm also zwei Wagen mit den Pferden. Der König schickte sie der
@@ -130,9 +126,11 @@ essen.
 starb.\\
 \\
 
-^{[[#fnm1][1]]} Man wird Lebensmittel wieder zu normalen Preisen
+* Footnotes
+
+[fn:1] Man wird Lebensmittel wieder zu normalen Preisen
 erhalten, sie werden also wieder in genügender Menge vorhanden sein.
 
-^{[[#fnm2][2]]} schlugen Lärm: Text korr. nach G.
+[fn:2] schlugen Lärm: Text korr. nach G.
 
-^{[[#fnm3][3]]} H ist durch Doppelschreibung einer Zeile entstellt.
+[fn:3] H ist durch Doppelschreibung einer Zeile entstellt.

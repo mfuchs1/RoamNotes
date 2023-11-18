@@ -1,31 +1,24 @@
-:PROPERTIES:
-:ID:       a3ec92d6-0bda-4965-a20d-f2d08d0d3664
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch der Könige* --
-[[file:2.Kön_1.html][1]] [[file:2.Kön_2.html][2]]
-[[file:2.Kön_3.html][3]] *4* [[file:2.Kön_5.html][5]]
-[[file:2.Kön_6.html][6]] ... [[file:2.Kön_25.html][25]]
-
---------------
-
-* 2.Kön 4
-  :PROPERTIES:
-  :CUSTOM_ID: kön-4
-  :END:
+#+TITLE: 2 Kön 4 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-18 Sa 17:17]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Kön 4.html
 
 <<verses>>
 
 <<v1>>
-**** Das Öl der Witwe: 4,1-7
-     :PROPERTIES:
-     :CUSTOM_ID: das-öl-der-witwe-41-7
-     :END:
+* Das Öl der Witwe: 4,1-7
+
 1 Eine von den Frauen der Prophetenjünger wandte sich laut rufend an
 Elischa: Mein Mann, dein Knecht, ist gestorben. Du weißt, dass dein
 Knecht gottesfürchtig war. Nun kommt der Gläubiger, um sich meine beiden
-Söhne als Sklaven zu nehmen. ^{[[#fn1][1]]}
+Söhne als Sklaven zu nehmen. [fn:1]
 
 <<v2>>
 2 Elischa fragte sie: Was kann ich für dich tun? Sag mir: Was hast du im
@@ -55,13 +48,11 @@ du mit deinen Söhnen leben.\\
 \\
 
 <<v8>>
-**** Die Totenerweckung: 4,8-37
-     :PROPERTIES:
-     :CUSTOM_ID: die-totenerweckung-48-37
-     :END:
+* Die Totenerweckung: 4,8-37
+
 8 Eines Tages ging Elischa nach Schunem. Dort lebte eine vornehme Frau,
 die ihn dringend bat, bei ihr zu essen. Seither kehrte er zum Essen bei
-ihr ein, sooft er vorbeikam. ^{[[#fn2][2]]}
+ihr ein, sooft er vorbeikam. [fn:2]
 
 <<v9>>
 9 Sie aber sagte zu ihrem Mann: Ich weiß, dass dieser Mann, der ständig
@@ -84,7 +75,7 @@ sie, und als sie vor ihm stand,
 13 befahl er dem Diener: Sag zu ihr: Du hast dir so viel Mühe um uns
 gemacht. Was können wir für dich tun? Sollen wir beim König oder beim
 Obersten des Heeres ein Wort für dich einlegen? Doch sie entgegnete: Ich
-wohne inmitten meiner Verwandten. ^{[[#fn3][3]]}
+wohne inmitten meiner Verwandten. [fn:3]
 
 <<v14>>
 14 Und als er weiter fragte, was man für sie tun könne, sagte Gehasi:
@@ -105,7 +96,7 @@ Elischa genannt hatte, gebar sie einen Sohn.
 
 <<v18>>
 18 Als das Kind herangewachsen war, ging es eines Tages zu seinem Vater
-hinaus zu den Schnittern. ^{[[#fn4][4]]}
+hinaus zu den Schnittern. [fn:4]
 
 <<v19>>
 19 Dort klagte es ihm: Mein Kopf, mein Kopf! Der Vater befahl seinem
@@ -126,7 +117,7 @@ einen Esel! Ich will zum Gottesmann eilen und komme bald zurück.
 
 <<v23>>
 23 Er wandte ein: Warum gehst du heute zu ihm? Es ist doch nicht Neumond
-und nicht Sabbat. Doch sie sagte nur: Friede mit dir!, ^{[[#fn5][5]]}
+und nicht Sabbat. Doch sie sagte nur: Friede mit dir!, [fn:5]
 
 <<v24>>
 24 sattelte den Esel und befahl dem Knecht: Treib tüchtig an und halte
@@ -177,7 +168,7 @@ betete zum Herrn.
 34 Dann trat er an das Bett und warf sich über das Kind; er legte seinen
 Mund auf dessen Mund, seine Augen auf dessen Augen, seine Hände auf
 dessen Hände. Als er sich so über das Kind hinstreckte, kam Wärme in
-dessen Leib. ^{[[#fn6][6]]}
+dessen Leib. [fn:6]
 
 <<v35>>
 35 Dann stand er auf, ging im Haus einmal hin und her, trat wieder an
@@ -195,10 +186,8 @@ Erde. Dann nahm sie ihren Sohn und ging hinaus.\\
 \\
 
 <<v38>>
-**** Die ungenießbare Speise: 4,38-41
-     :PROPERTIES:
-     :CUSTOM_ID: die-ungenießbare-speise-438-41
-     :END:
+* Die ungenießbare Speise: 4,38-41
+
 38 Elischa kehrte nach Gilgal zurück. Im Land herrschte damals eine
 Hungersnot. Als die Prophetenjünger vor ihm saßen, befahl er seinem
 Diener: Setz den großen Topf auf und koch ein Gericht für die
@@ -222,10 +211,8 @@ Schädliches mehr im Topf.\\
 \\
 
 <<v42>>
-**** Die Brotvermehrung: 4,42-44
-     :PROPERTIES:
-     :CUSTOM_ID: die-brotvermehrung-442-44
-     :END:
+* Die Brotvermehrung: 4,42-44
+
 42 Einmal kam ein Mann von Baal-Schalischa und brachte dem Gottesmann
 Brot von Erstlingsfrüchten, zwanzig Gerstenbrote, und frische Körner in
 einem Beutel. Elischa befahl seinem Diener: Gib es den Leuten zu essen!
@@ -240,18 +227,20 @@ Herr: Man wird essen und noch übrig lassen.
 der Herr gesagt hatte.\\
 \\
 
-^{[[#fnm1][1]]} Zahlungsunfähige Schuldner konnten zu Sklaven gemacht
-werden (vgl. Am 2,6; 8,6; Mt 18,25).
+* Footnotes
 
-^{[[#fnm2][2]]} Schunem: nördlich von Jesreel.
+[fn:1] Zahlungsunfähige Schuldner konnten zu Sklaven gemacht
+werden (vgl. [[file:Am_2.org::v6][Am 2,6]]; [[file:Am_8.org::v6][8,6]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_18.org::v25][Mt 18,25]]).
 
-^{[[#fnm3][3]]} Die Frau hält eine Vermittlung beim König für unnötig
+[fn:2] Schunem: nördlich von Jesreel.
+
+[fn:3] Die Frau hält eine Vermittlung beim König für unnötig
 und bezeugt damit die starke Stellung des Familienverbands im
 israelitischen Staat.
 
-^{[[#fnm4][4]]} ℘ (18-37) 1 Kön 17,17-24
+[fn:4] (18-37) [[file:1.Kön_17.org::v17][1 Kön 17,17-24]]
 
-^{[[#fnm5][5]]} Aus der Frage geht hervor, dass man an Neumondtagen und
+[fn:5] Aus der Frage geht hervor, dass man an Neumondtagen und
 Sabbaten Propheten aufsuchte.
 
-^{[[#fnm6][6]]} ℘ 1 Kön 17,21; Apg 20,10
+[fn:6] [[file:1.Kön_17.org::v21][1 Kön 17,21]]; [[file:~/RoamNotes/notes/Bibel/nt/Apg_20.org::v10][Apg 20,10]]

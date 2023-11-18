@@ -1,28 +1,22 @@
-:PROPERTIES:
-:ID:       afe9486f-7c40-4e3f-ac06-6fcb5adc421f
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch der Könige* --
-[[file:2.Kön_1.html][1]] *2* [[file:2.Kön_3.html][3]]
-[[file:2.Kön_4.html][4]] ... [[file:2.Kön_25.html][25]]
-
---------------
-
-* 2.Kön 2
-  :PROPERTIES:
-  :CUSTOM_ID: kön-2
-  :END:
+#+TITLE: 2 Kön 2 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-18 Sa 17:10]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Kön 2.html
 
 <<verses>>
 
 <<v1>>
-**** Die Entrückung Elijas: 2,1-18
-     :PROPERTIES:
-     :CUSTOM_ID: die-entrückung-elijas-21-18
-     :END:
+* Die Entrückung Elijas: 2,1-18
+
 1 An dem Tag, da der Herr Elija im Wirbelsturm in den Himmel aufnehmen
-wollte, ging Elija mit Elischa von Gilgal weg. ^{[[#fn1][1]]}
+wollte, ging Elija mit Elischa von Gilgal weg. [fn:1]
 
 <<v2>>
 2 Er sagte zu Elischa: Bleib hier; denn der Herr hat mich nach Bet-El
@@ -33,7 +27,7 @@ lebst: Ich verlasse dich nicht. So gingen sie nach Bet-El.
 3 Dort kamen die Prophetenjünger, die in Bet-El waren, zu Elischa heraus
 und sagten zu ihm: Weißt du, dass der Herr heute deinen Meister über
 dein Haupt hinweg aufnehmen wird? Er antwortete: Auch ich weiß es. Seid
-still! ^{[[#fn2][2]]}
+still! [fn:2]
 
 <<v4>>
 4 Elija aber sagte zu ihm: Bleib hier, Elischa; denn der Herr hat mich
@@ -64,7 +58,7 @@ trockenen Fußes hindurch.
 9 Als sie drüben angekommen waren, sagte Elija zu Elischa: Sprich eine
 Bitte aus, die ich dir erfüllen soll, bevor ich von dir weggenommen
 werde. Elischa antwortete: Möchten mir doch zwei Anteile deines Geistes
-zufallen. ^{[[#fn3][3]]}
+zufallen. [fn:3]
 
 <<v10>>
 10 Elija entgegnete: Du hast etwas Schweres erbeten. Wenn du siehst, wie
@@ -79,7 +73,7 @@ Wirbelsturm zum Himmel empor.
 <<v12>>
 12 Elischa sah es und rief laut: Mein Vater, mein Vater! Wagen Israels
 und sein Lenker! Als er ihn nicht mehr sah, fasste er sein Gewand und
-riss es mitten entzwei. ^{[[#fn4][4]]}
+riss es mitten entzwei. [fn:4]
 
 <<v13>>
 13 Dann hob er den Mantel auf, der Elija entfallen war, kehrte um und
@@ -113,10 +107,8 @@ sagte zu ihnen: Habe ich euch nicht gesagt: Ihr sollt nicht hingehen?\\
 \\
 
 <<v19>>
-**** Die ersten Taten Elischas: 2,19-25
-     :PROPERTIES:
-     :CUSTOM_ID: die-ersten-taten-elischas-219-25
-     :END:
+* Die ersten Taten Elischas: 2,19-25
+
 19 Die Männer der Stadt sagten zu Elischa: Unser Herr sieht, dass man in
 dieser Stadt gut wohnen kann; nur das Wasser ist ungesund und in der
 Gegend gibt es viele Fehlgeburten.
@@ -149,16 +141,15 @@ Leute.
 zurück.\\
 \\
 
-^{[[#fnm1][1]]} Gilgal ist nicht der in Jos 4,19 genannte Ort bei
+* Footnotes
+
+[fn:1] Gilgal ist nicht der in [[file:Jos_4.org::v19][Jos 4,19]] genannte Ort bei
 Jericho, sondern ein Ort nördlich von Bet-El.
 
-^{[[#fnm2][2]]} Prophetenjünger: die Mitglieder der
-Prophetengemeinschaften.
+[fn:2] Prophetenjünger: die Mitglieder der Prophetengemeinschaften.
 
-^{[[#fnm3][3]]} Durch die Verleihung von zwei Anteilen des Geistes des
-Elija fällt Elischa die Stellung eines Erstgeborenen zu (vgl. Dtn
-21,17).
+[fn:3] Durch die Verleihung von zwei Anteilen des Geistes des
+Elija fällt Elischa die Stellung eines Erstgeborenen zu (vgl. [[file:Dtn_21.org::v17][Dtn 21,17]]).
 
-^{[[#fnm4][4]]} Der Ausruf drückt die Bedeutung Elijas aus. Der
-Kriegswagen gehörte zur wirkungsvollsten Ausrüstung des damaligen
-Heeres.
+[fn:4] Der Ausruf drückt die Bedeutung Elijas aus. Der
+Kriegswagen gehörte zur wirkungsvollsten Ausrüstung des damaligen Heeres.

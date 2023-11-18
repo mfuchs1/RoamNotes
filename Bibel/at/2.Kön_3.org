@@ -1,34 +1,27 @@
-:PROPERTIES:
-:ID:       0c6f21a2-1366-41e5-8d5d-5dacd6a8a53d
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch der Könige* --
-[[file:2.Kön_1.html][1]] [[file:2.Kön_2.html][2]] *3*
-[[file:2.Kön_4.html][4]] [[file:2.Kön_5.html][5]] ...
-[[file:2.Kön_25.html][25]]
-
---------------
-
-* 2.Kön 3
-  :PROPERTIES:
-  :CUSTOM_ID: kön-3
-  :END:
+#+TITLE: 2 Kln 3 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-18 Sa 17:14]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Kln 3.html
 
 <<verses>>
 
 <<v1>>
-**** Joram von Israel: 3,1-27
-     :PROPERTIES:
-     :CUSTOM_ID: joram-von-israel-31-27
-     :END:
+* Joram von Israel: 3,1-27
+
 1 Im achtzehnten Jahr Joschafats, des Königs von Juda, wurde Joram, der
 Sohn Ahabs, in Samaria König von Israel. Er regierte zwölf Jahre
 
 <<v2>>
 2 und tat, was dem Herrn missfiel. Doch trieb er es nicht so schlimm wie
 sein Vater und seine Mutter; denn er entfernte das Steinmal des Baal,
-das sein Vater errichtet hatte. ^{[[#fn1][1]]}
+das sein Vater errichtet hatte. [fn:1]
 
 <<v3>>
 3 Nur an der Sünde, zu der Jerobeam, der Sohn Nebats, Israel verführt
@@ -41,7 +34,7 @@ Widdern liefern.
 
 <<v5>>
 5 Nach dem Tod Ahabs aber fiel der König von Moab vom König von Israel
-ab. ^{[[#fn2][2]]}
+ab. [fn:2]
 
 <<v6>>
 6 König Joram rückte daher zu dieser Zeit von Samaria aus und musterte
@@ -51,7 +44,7 @@ ganz Israel.
 7 Auch ließ er Joschafat, dem König von Juda, sagen: Der König von Moab
 ist von mir abgefallen. Willst du mit mir gegen Moab in den Krieg
 ziehen? Joschafat antwortete: Ich ziehe mit dir, mein Volk mit deinem
-Volk, meine Pferde mit deinen Pferden. ^{[[#fn3][3]]}
+Volk, meine Pferde mit deinen Pferden. [fn:3]
 
 <<v8>>
 8 Dann fragte Joram: Auf welchem Weg sollen wir hinaufziehen? Joschafat
@@ -113,7 +106,7 @@ wertvollen Bäume fällen, alle Wasserquellen zuschütten und alle guten
 <<v20>>
 20 Und wirklich, am nächsten Morgen, zur Zeit, da man das Speiseopfer
 darzubringen pflegt, kam Wasser von Edom her und die ganze Gegend wurde
-vom Wasser überflutet. ^{[[#fn4][4]]}
+vom Wasser überflutet. [fn:4]
 
 <<v21>>
 21 Als ganz Moab erfuhr, dass die Könige zum Krieg gegen das Land
@@ -122,7 +115,7 @@ stellten sich an der Grenze auf.
 
 <<v22>>
 22 Frühmorgens aber, als die Sonne über dem Wasser aufging, erschien
-ihnen das Wasser drüben rot wie Blut. ^{[[#fn5][5]]}
+ihnen das Wasser drüben rot wie Blut. [fn:5]
 
 <<v23>>
 23 Sie sagten: Das ist Blut. Die Könige haben sich selbst umgebracht;
@@ -131,7 +124,7 @@ einer hat den andern erschlagen. Auf jetzt, zur Beute, ihr Moabiter!
 <<v24>>
 24 Doch als sie sich dem Lager der Israeliten näherten, erhoben sich
 diese und schlugen die Moabiter in die Flucht. Unaufhörlich drängten die
-Israeliten nach und machten sie nieder. ^{[[#fn6][6]]}
+Israeliten nach und machten sie nieder. [fn:6]
 
 <<v25>>
 25 Sie zerstörten die Städte und auf alle guten Äcker warf jeder seinen
@@ -153,18 +146,18 @@ gewaltiger Zorn über Israel. Sie zogen von Moab ab und kehrten in ihr
 Land zurück.\\
 \\
 
-^{[[#fnm1][1]]} ℘ 1 Kön 16,32
+* Footnotes
 
-^{[[#fnm2][2]]} Über die Erfolge Meschas berichtet ein nach ihm
-benannter Gedenkstein.
+[fn:1] [[file:1.Kön_16.org::v32][1 Kön 16,32]]
 
-^{[[#fnm3][3]]} ℘ 1 Kön 22,4
+[fn:2] Über die Erfolge Meschas berichtet ein nach ihm benannter Gedenkstein.
 
-^{[[#fnm4][4]]} Der Hinweis auf das Speiseopfer ist Zeitangabe wie in 1
-Kön 18,29.
+[fn:3] [[file:1.Kön_22.org::v4][1 Kön 22,4]]
 
-^{[[#fnm5][5]]} Die rote Färbung des Wassers könnte vom mitgeführten
+[fn:4] Der Hinweis auf das Speiseopfer ist Zeitangabe wie in [[file:1.Kön_18.org::v29][1 Kön 18,29]].
+
+[fn:5] Die rote Färbung des Wassers könnte vom mitgeführten
 Sand oder von einer Luftspiegelung kommen, bei der das Wasser unter der
 aufgehenden Sonne rot erschien.
 
-^{[[#fnm6][6]]} drängten die Israeliten nach: Text korr. nach G.
+[fn:6] drängten die Israeliten nach: Text korr. nach G.

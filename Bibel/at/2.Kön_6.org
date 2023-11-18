@@ -1,27 +1,20 @@
-:PROPERTIES:
-:ID:       c0041371-1313-41d2-854b-8e6eb14fd3c6
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch der Könige* --
-[[file:2.Kön_1.html][1]] ... [[file:2.Kön_4.html][4]]
-[[file:2.Kön_5.html][5]] *6* [[file:2.Kön_7.html][7]]
-[[file:2.Kön_8.html][8]] ... [[file:2.Kön_25.html][25]]
-
---------------
-
-* 2.Kön 6
-  :PROPERTIES:
-  :CUSTOM_ID: kön-6
-  :END:
+#+TITLE: 2 Kön 6 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-18 Sa 17:27]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Kön 6.html
 
 <<verses>>
 
 <<v1>>
-**** Das verlorene Beil: 6,1-7
-     :PROPERTIES:
-     :CUSTOM_ID: das-verlorene-beil-61-7
-     :END:
+* Das verlorene Beil: 6,1-7
+
 1 Die Prophetenjünger klagten bei Elischa: Der Raum, in dem wir vor dir
 sitzen, ist zu eng für uns.
 
@@ -53,13 +46,10 @@ ergriff es.\\
 \\
 
 <<v8>>
-**** Die Gefangenen des Propheten: 6,8-23
-     :PROPERTIES:
-     :CUSTOM_ID: die-gefangenen-des-propheten-68-23
-     :END:
+* Die Gefangenen des Propheten: 6,8-23
+
 8 Der König von Aram führte Krieg mit Israel. Er verabredete mit seinen
-Untergebenen, an einer bestimmten Stelle einen Hinterhalt zu legen.
-^{[[#fn1][1]]}
+Untergebenen, an einer bestimmten Stelle einen Hinterhalt zu legen. [fn:1]
 
 <<v9>>
 9 Aber der Gottesmann ließ dem König von Israel sagen: Hüte dich, an
@@ -82,7 +72,7 @@ du in deinem Schlafzimmer sprichst.
 
 <<v13>>
 13 Da befahl er: Geht und erkundet, wo er sich aufhält, damit ich ihn
-festnehmen lasse. Man meldete ihm: Er ist in Dotan. ^{[[#fn2][2]]}
+festnehmen lasse. Man meldete ihm: Er ist in Dotan. [fn:2]
 
 <<v14>>
 14 Er schickte also Pferde und Wagen und eine starke Truppe dorthin. Sie
@@ -135,17 +125,15 @@ das Land Israel.\\
 \\
 
 <<v24>>
-**** Die Rettung aus Hungersnot: 6,24 - 7,20
-     :PROPERTIES:
-     :CUSTOM_ID: die-rettung-aus-hungersnot-624---720
-     :END:
+* Die Rettung aus Hungersnot: 6,24 - 7,20
+
 24 Danach sammelte Ben-Hadad, der König von Aram, seine ganze
-Streitmacht, zog gegen Samaria und belagerte es. ^{[[#fn3][3]]}
+Streitmacht, zog gegen Samaria und belagerte es. [fn:3]
 
 <<v25>>
 25 In der eingeschlossenen Stadt entstand eine große Hungersnot, sodass
 der Kopf eines Esels achtzig Silberschekel kostete und ein Viertelkab
-Milchsterne fünf Silberschekel. ^{[[#fn4][4]]}
+Milchsterne fünf Silberschekel. [fn:4]
 
 <<v26>>
 26 Als der König von Israel einmal auf der Mauer vorbeischritt, rief ihm
@@ -185,20 +173,20 @@ ihm zu hören?
 
 <<v33>>
 33 Noch während er mit ihnen redete, kam der König und sagte: Dieses
-Elend kommt vom Herrn. Was soll ich noch vom Herrn erwarten?
-^{[[#fn5][5]]}
+Elend kommt vom Herrn. Was soll ich noch vom Herrn erwarten? [fn:5]
 
-^{[[#fnm1][1]]} 8f: Hinterhalt: Text korr. nach G (V. 9).
+* Footnotes
 
-^{[[#fnm2][2]]} Dotan: nördlich von Samaria.
+[fn:1] 8f: Hinterhalt: Text korr. nach G (V. 9).
 
-^{[[#fnm3][3]]} Ben-Hadad III., der Nachfolger Hasaëls. In Israel
-regiert Joasch (vgl. 13,24f).
+[fn:2] Dotan: nördlich von Samaria.
 
-^{[[#fnm4][4]]} Milchstern: ein Zwiebelgewächs, das man nur in Notzeiten
+[fn:3] Ben-Hadad III., der Nachfolger Hasaëls. In Israel regiert Joasch (vgl. 13,24f).
+
+[fn:4] Milchstern: ein Zwiebelgewächs, das man nur in Notzeiten
 aß; andere Übersetzungsmöglichkeit: Taubenmist.
 
-^{[[#fnm5][5]]} kam der König: H: kam der Bote. - Der König konnte
+[fn:5] kam der König: H: kam der Bote. - Der König konnte
 Elischa für die Not verantwortlich machen, wenn sie von ihm angekündigt
-worden war (vgl. die Anmerkung zu 1 Kön 18,10) oder wenn Elischa gegen
+worden war (vgl. die Anmerkung zu [[file:1.Kön_18.org::v10][1 Kön 18,10]]) oder wenn Elischa gegen
 den Willen des Königs zum Durchhalten geraten hatte.
