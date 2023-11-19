@@ -1,27 +1,20 @@
-:PROPERTIES:
-:ID:       8533881d-14c0-47bf-8178-397069e24b67
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das erste Buch der Chronik* --
-[[file:1.Chr_1.html][1]] ... [[file:1.Chr_5.html][5]]
-[[file:1.Chr_6.html][6]] *7* [[file:1.Chr_8.html][8]]
-[[file:1.Chr_9.html][9]] ... [[file:1.Chr_29.html][29]]
-
---------------
-
-* 1.Chr 7
-  :PROPERTIES:
-  :CUSTOM_ID: chr-7
-  :END:
+#+TITLE: 1 Chr 7 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-19 So 22:47]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Chr 7.html
 
 <<verses>>
 
 <<v1>>
-**** Der Stamm Issachar: 7,1-5
-     :PROPERTIES:
-     :CUSTOM_ID: der-stamm-issachar-71-5
-     :END:
+* Der Stamm Issachar: 7,1-5
+
 1 Die Söhne Issachars waren: Tola, Puwa, Jaschub und Schimron, zusammen
 vier.
 
@@ -46,12 +39,9 @@ Aufzeichnung ergab insgesamt 87000 Mann.\\
 \\
 
 <<v6>>
-**** Der Stamm Benjamin: 7,6-12
-     :PROPERTIES:
-     :CUSTOM_ID: der-stamm-benjamin-76-12
-     :END:
-6 Die Söhne Benjamins waren: Bela, Becher und Jediaël, insgesamt drei.
-^{[[#fn1][1]]}
+* Der Stamm Benjamin: 7,6-12
+
+6 Die Söhne Benjamins waren: Bela, Becher und Jediaël, insgesamt drei. [fn:1]
 
 <<v7>>
 7 Die Söhne Belas waren: Ezbon, Usi, Usiël, Jerimot und Ir, insgesamt
@@ -80,26 +70,24 @@ Krieger, 17200 Mann, die im Heer zum Krieg ausrückten.
 \\
 
 <<v13>>
-**** Der Stamm Naftali: 7,13
+* Der Stamm Naftali: 7,13
      :PROPERTIES:
      :CUSTOM_ID: der-stamm-naftali-713
      :END:
 13 Die Söhne Naftalis waren: Jachzeel, Guni, Jezer und Schallum, die
-Nachkommen der Bilha. ^{[[#fn2][2]]}\\
+Nachkommen der Bilha. [fn:2]\\
 \\
 
 <<v14>>
-**** Der Stamm Manasse: 7,14-19
-     :PROPERTIES:
-     :CUSTOM_ID: der-stamm-manasse-714-19
-     :END:
+* Der Stamm Manasse: 7,14-19
+
 14 Der Sohn Manasses war Asriël. Seine aramäische Nebenfrau gebar
-Machir, den Vater Gileads. ^{[[#fn3][3]]}
+Machir, den Vater Gileads. [fn:3]
 
 <<v15>>
 15 Machir nahm eine Frau für Huppim und Schuppim. Der Name seiner
 Schwester war Maacha. Der Name des zweiten (Sohnes Hefers) war Zelofhad.
-Dieser hatte nur Töchter. ^{[[#fn4][4]]}
+Dieser hatte nur Töchter. [fn:4]
 
 <<v16>>
 16 Maacha, die Frau Machirs, gebar einen Sohn und nannte ihn Peresch;
@@ -117,12 +105,10 @@ Machirs, des Sohnes Manasses.
 \\
 
 <<v20>>
-**** Der Stamm Efraim: 7,20-29
-     :PROPERTIES:
-     :CUSTOM_ID: der-stamm-efraim-720-29
-     :END:
+* Der Stamm Efraim: 7,20-29
+
 20 Der Sohn Efraims war Schutelach. Dessen Sohn war Bered, dessen Sohn
-Tahat, dessen Sohn Elada, dessen Sohn Tahat, ^{[[#fn5][5]]}
+Tahat, dessen Sohn Elada, dessen Sohn Tahat, [fn:5]
 
 <<v21>>
 21 dessen Sohn Sabad und dessen Sohn Schutelach sowie Eser und Elad.
@@ -136,7 +122,7 @@ ihn zu trösten.
 <<v23>>
 23 Dann ging er zu seiner Frau; sie wurde schwanger und gebar einen
 Sohn. Er nannte ihn Beria, da er zur Zeit des Unglücks in seinem Haus
-geboren wurde. ^{[[#fn6][6]]}
+geboren wurde. [fn:6]
 
 <<v24>>
 24 Seine Tochter war Scheera. Sie erbaute das untere und das obere
@@ -166,12 +152,10 @@ Nachkommen Josefs, des Sohnes Israels.\\
 \\
 
 <<v30>>
-**** Der Stamm Ascher: 7,30-40
-     :PROPERTIES:
-     :CUSTOM_ID: der-stamm-ascher-730-40
-     :END:
+* Der Stamm Ascher: 7,30-40
+
 30 Die Söhne Aschers waren: Jimna, Jischwa, Jischwi und Beria. Ihre
-Schwester war Serach. ^{[[#fn7][7]]}
+Schwester war Serach. [fn:7]
 
 <<v31>>
 31 Die Söhne Berias waren Heber und Malkiël. Dieser war der Vater von
@@ -209,17 +193,18 @@ Großfamilien, tapfere Krieger, Häupter unter den führenden Männern. Ihre
 Aufzeichnung für das Kriegsheer ergab 26000 Mann.\\
 \\
 
-^{[[#fnm1][1]]} ℘ Gen 46,21
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ Gen 46,24
+[fn:1] [[file:Gen_46.org::v21][Gen 46,21]]
 
-^{[[#fnm3][3]]} 14-19: Der Text ist nur lückenhaft überliefert.
+[fn:2] [[file:Gen_46.org::v24][Gen 46,24]]
 
-^{[[#fnm4][4]]} Der Name Hefer ist aus Num 26,33 zu entnehmen.
+[fn:3] 14-19: Der Text ist nur lückenhaft überliefert.
 
-^{[[#fnm5][5]]} ℘ Num 26,35-37
+[fn:4] Der Name Hefer ist aus [[file:Num_26.org::v33][Num 26,33]] zu entnehmen.
 
-^{[[#fnm6][6]]} Man hörte im Namen Beria einen Anklang zu beraah (= im
-Unglück).
+[fn:5] [[file:Num_26.org::v35][Num 26,35-37]]
 
-^{[[#fnm7][7]]} ℘ Gen 46,17
+[fn:6] Man hörte im Namen Beria einen Anklang zu beraah (= im Unglück).
+
+[fn:7] [[file:Gen_46.org::v17][Gen 46,17]]

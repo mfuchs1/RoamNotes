@@ -1,32 +1,24 @@
-:PROPERTIES:
-:ID:       58e5ba24-f0d4-4399-8cc3-f3637b75f57d
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das erste Buch der Chronik* --
-[[file:1.Chr_1.html][1]] ... [[file:1.Chr_3.html][3]]
-[[file:1.Chr_4.html][4]] *5* [[file:1.Chr_6.html][6]]
-[[file:1.Chr_7.html][7]] ... [[file:1.Chr_29.html][29]]
-
---------------
-
-* 1.Chr 5
-  :PROPERTIES:
-  :CUSTOM_ID: chr-5
-  :END:
+#+TITLE: 1 Chr 5 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-19 So 21:59]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Chr 5.html
 
 <<verses>>
 
 <<v1>>
-**** Der Stamm Ruben: 5,1-10
-     :PROPERTIES:
-     :CUSTOM_ID: der-stamm-ruben-51-10
-     :END:
+* Der Stamm Ruben: 5,1-10
+
 1 Die Söhne Rubens, des Erstgeborenen Israels: Ruben war der
 Erstgeborene. Da er aber das Bett seines Vaters entweiht hatte, wurde
 sein Erstgeburtsrecht den Söhnen Josefs, des Sohnes Israels, gegeben.
-Doch richten sich die Stammeslisten nicht nach dem Erstgeburtsrecht;
-^{[[#fn1][1]][[#fn2][2]]}
+Doch richten sich die Stammeslisten nicht nach dem Erstgeburtsrecht; [fn:1] [fn:2]
 
 <<v2>>
 2 Juda erlangte nämlich die Herrschaft über seine Brüder und einer aus
@@ -34,7 +26,7 @@ ihm wurde der Fürst, obwohl das Erstgeburtsrecht bei Josef war.
 
 <<v3>>
 3 Die Söhne Rubens, des Erstgeborenen Israels, waren: Henoch, Pallu,
-Hezron und Karmi. ^{[[#fn3][3]]}
+Hezron und Karmi. [fn:3]
 
 <<v4>>
 4 Der Sohn Joëls war Schemaja, dessen Sohn Gog, dessen Sohn Schimi,
@@ -53,7 +45,7 @@ Jëiël, ihm folgte Secharja.
 
 <<v8>>
 8 Bela war der Sohn des Asas, des Sohnes Schemas, des Sohnes Joëls. Die
-Rubeniter wohnten in Aroër bis Nebo und Baal-Meon. ^{[[#fn4][4]]}
+Rubeniter wohnten in Aroër bis Nebo und Baal-Meon. [fn:4]
 
 <<v9>>
 9 Ostwärts wohnten sie bis an den Rand der Steppe, die sich vom Eufrat
@@ -66,10 +58,8 @@ Gilead.\\
 \\
 
 <<v11>>
-**** Der Stamm Gad: 5,11-17
-     :PROPERTIES:
-     :CUSTOM_ID: der-stamm-gad-511-17
-     :END:
+* Der Stamm Gad: 5,11-17
+
 11 Die Nachkommen Gads wohnten ihnen gegenüber im Gebiet des Baschan bis
 Salcha.
 
@@ -84,7 +74,7 @@ Jorai, Jakan, Sia und Eber, insgesamt sieben.
 <<v14>>
 14 Das waren die Söhne Abihajils, des Sohnes Huris, des Sohnes Jaroachs,
 des Sohnes Gileads, des Sohnes Michaels, des Sohnes Jeschischais, des
-Sohnes Jachdos, des Sohnes des Bus: . . . ^{[[#fn5][5]]}
+Sohnes Jachdos, des Sohnes des Bus: ... [fn:5]
 
 <<v15>>
 15 Ahi, der Sohn Abdiëls, des Sohnes Gunis, war Haupt ihrer
@@ -100,10 +90,8 @@ des Königs von Israel, wurden alle in die Stammeslisten eingetragen.\\
 \\
 
 <<v18>>
-**** Der Krieg mit Nachbarstämmen: 5,18-22
-     :PROPERTIES:
-     :CUSTOM_ID: der-krieg-mit-nachbarstämmen-518-22
-     :END:
+* Der Krieg mit Nachbarstämmen: 5,18-22
+
 18 Die Krieger von Ruben, Gad und dem halben Stamm Manasse, Männer, die
 Schild und Schwert trugen, den Bogen spannten und im Kampf geübt waren,
 vierundvierzigtausendsiebenhundertsechzig Mann, die im Heer ausrückten,
@@ -127,10 +115,8 @@ dort bis zur Verschleppung.\\
 \\
 
 <<v23>>
-**** Der Stamm Ost-Manasse: 5,23-26
-     :PROPERTIES:
-     :CUSTOM_ID: der-stamm-ost-manasse-523-26
-     :END:
+* Der Stamm Ost-Manasse: 5,23-26
+
 23 Die Angehörigen des halben Stammes Manasse wohnten in dem Land, das
 vom Baschan bis Baal-Hermon, zum Senir und zum Hermongebirge reicht. Sie
 waren sehr zahlreich.
@@ -149,16 +135,13 @@ Göttern der Landesbevölkerung hin, die Gott vor ihnen vertrieben hatte.
 das heißt den Geist Tiglat-Pilesers, des Königs von Assur. Dieser führte
 die Rubeniter, die Gaditer und den halben Stamm Manasse in die
 Verbannung und brachte sie nach Halach, an den Habor, nach Hara und an
-den Fluss von Gosan. Dort sind sie bis zum heutigen Tag.
-^{[[#fn6][6]][[#fn7][7]]}\\
+den Fluss von Gosan. Dort sind sie bis zum heutigen Tag. [fn:6] [fn:7]\\
 \\
 
 <<v27>>
-**** Der Stamm Levi: 5,27-41
-     :PROPERTIES:
-     :CUSTOM_ID: der-stamm-levi-527-41
-     :END:
-27 Die Söhne Levis waren: Gerschon, Kehat und Merari. ^{[[#fn8][8]]}
+* Der Stamm Levi: 5,27-41
+
+27 Die Söhne Levis waren: Gerschon, Kehat und Merari. [fn:8]
 
 <<v28>>
 28 Die Söhne Kehats waren: Amram, Jizhar, Hebron und Usiël.
@@ -187,7 +170,7 @@ waren: Nadab, Abihu, Eleasar und Itamar.
 
 <<v36>>
 36 Johanan zeugte Asarja - dieser war es, der im Tempel, den Salomo in
-Jerusalem erbaute, das Priesteramt verwaltete -, ^{[[#fn9][9]]}
+Jerusalem erbaute, das Priesteramt verwaltete -, [fn:9]
 
 <<v37>>
 37 Asarja zeugte Amarja, Amarja zeugte Ahitub,
@@ -206,23 +189,25 @@ Jerusalem erbaute, das Priesteramt verwaltete -, ^{[[#fn9][9]]}
 in die Verbannung führte.\\
 \\
 
-^{[[#fnm1][1]]} ℘ Gen 35,22; 49,3f
+* Footnotes
 
-^{[[#fnm2][2]]} Der Vers will erklären, warum das Buch den Stamm Juda
+[fn:1] [[file:Gen_35.org::v22][Gen 35,22]]; [[file:Gen_49.org::v3][49,3f]]
+
+[fn:2] Der Vers will erklären, warum das Buch den Stamm Juda
 und nicht die Stämme Ruben oder Josef an erster Stelle bringt: Es
 geschah, weil ihm das Königtum zufiel.
 
-^{[[#fnm3][3]]} ℘ Gen 46,9
+[fn:3] [[file:Gen_46.org::v9][Gen 46,9]]
 
-^{[[#fnm4][4]]} Die Städte liegen im Süden des Ostjordanlands.
+[fn:4] Die Städte liegen im Süden des Ostjordanlands.
 
-^{[[#fnm5][5]]} Die Namen der Söhne fehlen in H.
+[fn:5] Die Namen der Söhne fehlen in H.
 
-^{[[#fnm6][6]]} ℘ 2 Kön 17,6
+[fn:6] [[file:2.Kön_17.org::v6][2 Kön 17,6]]
 
-^{[[#fnm7][7]]} zu Pul: vgl. die Anmerkung zu 2 Kön 15,19.
+[fn:7] zu Pul: vgl. die Anmerkung zu [[file:2.Kön_15.org::v19][2 Kön 15,19]].
 
-^{[[#fnm8][8]]} ℘ (27-30) Ex 6,16-25
+[fn:8] (27-30) [[file:Ex_6.org::v16][Ex 6,16-25]]
 
-^{[[#fnm9][9]]} Die Zwischenbemerkung ist an falscher Stelle eingereiht.
-Sie gehört zu dem in V. 35 genannten Asarja (vgl. 1 Kön 4,2).
+[fn:9] Die Zwischenbemerkung ist an falscher Stelle eingereiht.
+Sie gehört zu dem in V. 35 genannten Asarja (vgl. [[file:1.Kön_4.org::v2][1 Kön 4,2]]).

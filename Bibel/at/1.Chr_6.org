@@ -1,27 +1,20 @@
-:PROPERTIES:
-:ID:       16666f69-ae3a-4de9-b695-034433e96e9c
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das erste Buch der Chronik* --
-[[file:1.Chr_1.html][1]] ... [[file:1.Chr_4.html][4]]
-[[file:1.Chr_5.html][5]] *6* [[file:1.Chr_7.html][7]]
-[[file:1.Chr_8.html][8]] ... [[file:1.Chr_29.html][29]]
-
---------------
-
-* 1.Chr 6
-  :PROPERTIES:
-  :CUSTOM_ID: chr-6
-  :END:
+#+TITLE: 1 Chr 6 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-19 So 22:06]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Chr 6.html
 
 <<verses>>
 
 <<v1>>
-**** Die Nachkommen der drei Söhne Levis: 6,1-15
-     :PROPERTIES:
-     :CUSTOM_ID: die-nachkommen-der-drei-söhne-levis-61-15
-     :END:
+* Die Nachkommen der drei Söhne Levis: 6,1-15
+
 1 Die Söhne Levis waren: Gerschon, Kehat und Merari.
 
 <<v2>>
@@ -55,8 +48,7 @@ Sohn Schaul.
 10 Die Söhne Elkanas waren Amasai und Ahimot.
 
 <<v11>>
-11 Der Sohn Elkanas war Elkana, dessen Sohn Zuf, dessen Sohn Tohu,
-^{[[#fn1][1]]}
+11 Der Sohn Elkanas war Elkana, dessen Sohn Zuf, dessen Sohn Tohu, [fn:1]
 
 <<v12>>
 12 dessen Sohn Eliab, dessen Sohn Jeroham, dessen Sohn Elkana, dessen
@@ -64,7 +56,7 @@ Sohn Samuel.
 
 <<v13>>
 13 Die Söhne Samuels waren: Joël, der Erstgeborene, und der zweite war
-Abija. ^{[[#fn2][2]][[#fn3][3]]}
+Abija. [fn:2] [fn:3]
 
 <<v14>>
 14 Der Sohn Meraris war Machli, dessen Sohn Libni, dessen Sohn Schimi,
@@ -75,18 +67,17 @@ dessen Sohn Usa,
 \\
 
 <<v16>>
-**** Abstammung der Sänger: 6,16-32
+* Abstammung der Sänger: 6,16-32
      :PROPERTIES:
      :CUSTOM_ID: abstammung-der-sänger-616-32
      :END:
 16 Diese sind es, die David zur Pflege des Gesangs im Haus des Herrn
-bestellte, nachdem die Lade eine bleibende Stätte gefunden hatte.
-^{[[#fn4][4]]}
+bestellte, nachdem die Lade eine bleibende Stätte gefunden hatte. [fn:4]
 
 <<v17>>
 17 Sie versahen ihren Dienst als Sänger vor der Wohnstätte des
 Offenbarungszeltes, bis Salomo das Haus des Herrn in Jerusalem baute.
-Gemäß ihren Satzungen standen sie in ihrem Dienst. ^{[[#fn5][5]]}
+Gemäß ihren Satzungen standen sie in ihrem Dienst. [fn:5]
 
 <<v18>>
 18 Diese sind es, die mit ihren Söhnen den Dienst besorgten: Von den
@@ -95,7 +86,7 @@ Samuels,
 
 <<v19>>
 19 des Sohnes Elkanas, des Sohnes Jerohams, des Sohnes Eliëls, des
-Sohnes Tohus, ^{[[#fn6][6]]}
+Sohnes Tohus, [fn:6]
 
 <<v20>>
 20 des Sohnes Zufs, des Sohnes Elkanas, des Sohnes Mahats, des Sohnes
@@ -145,10 +136,8 @@ Sohnes Levis.\\
 \\
 
 <<v33>>
-**** Die Aufgaben der Leviten und Priester: 6,33-34
-     :PROPERTIES:
-     :CUSTOM_ID: die-aufgaben-der-leviten-und-priester-633-34
-     :END:
+* Die Aufgaben der Leviten und Priester: 6,33-34
+
 33 Ihre Brüder, die Leviten, waren für den gesamten Dienst an der
 Wohnstätte des Hauses Gottes bestimmt.
 
@@ -160,12 +149,10 @@ Knecht Gottes, angeordnet hatte.\\
 \\
 
 <<v35>>
-**** Die Nachkommen Aarons: 6,35-38
-     :PROPERTIES:
-     :CUSTOM_ID: die-nachkommen-aarons-635-38
-     :END:
+* Die Nachkommen Aarons: 6,35-38
+
 35 Das sind die Nachkommen Aarons: Sein Sohn war Eleasar, dessen Sohn
-Pinhas, dessen Sohn Abischua, ^{[[#fn7][7]]}
+Pinhas, dessen Sohn Abischua, [fn:7]
 
 <<v36>>
 36 dessen Sohn Bukki, dessen Sohn Usi, dessen Sohn Serachja,
@@ -178,13 +165,11 @@ Pinhas, dessen Sohn Abischua, ^{[[#fn7][7]]}
 \\
 
 <<v39>>
-**** Die Wohnsitze der Leviten: 6,39-66
-     :PROPERTIES:
-     :CUSTOM_ID: die-wohnsitze-der-leviten-639-66
-     :END:
+* Die Wohnsitze der Leviten: 6,39-66
+
 39 Das sind ihre Wohnsitze mit ihren Zeltlagern auf ihrem Gebiet: Den
 Nachkommen Aarons von der Sippe der Kehatiter, auf die das erste Los
-gefallen war, ^{[[#fn8][8]][[#fn9][9]]}
+gefallen war, [fn:8] [fn:9]
 
 <<v40>>
 40 gaben sie Hebron im Land Juda mit seinen Weideflächen ringsum.
@@ -195,15 +180,14 @@ Sohn Jefunnes.
 
 <<v42>>
 42 Sie gaben den Nachkommen Aarons die Asylstadt Hebron, ferner Libna
-mit seinen Weideflächen, Jattir und Eschtemoa mit seinen Weideflächen,
-^{[[#fn10][10]]}
+mit seinen Weideflächen, Jattir und Eschtemoa mit seinen Weideflächen, [fn:10]
 
 <<v43>>
 43 Holon mit seinen Weideflächen, Debir mit seinen Weideflächen,
 
 <<v44>>
 44 Aschan mit seinen Weideflächen, (Jutta mit seinen Weideflächen,)
-Bet-Schemesch mit seinen Weideflächen. ^{[[#fn11][11]]}
+Bet-Schemesch mit seinen Weideflächen. [fn:11]
 
 <<v45>>
 45 Vom Stamm Benjamin gaben sie ihnen: (Gibeon mit seinen Weideflächen,)
@@ -252,7 +236,7 @@ Weideflächen;
 <<v55>>
 55 vom halben Stamm Manasse: Taanach mit seinen Weideflächen und Jibleam
 mit seinen Weideflächen. Diese gaben sie den Sippen der übrigen
-Kehatiter. ^{[[#fn12][12]]}
+Kehatiter. [fn:12]
 
 <<v56>>
 56 Den Nachkommen Gerschoms gaben sie von den Sippen des halben Stamms
@@ -280,7 +264,7 @@ mit seinen Weideflächen, Kirjatajim mit seinen Weideflächen.
 <<v62>>
 62 Den übrigen Nachkommen Meraris gaben sie vom Stamm Sebulon: (Jokneam
 mit seinen Weideflächen, Karta mit seinen Weideflächen,) Rimmon mit
-seinen Weideflächen, Tabor mit seinen Weideflächen; ^{[[#fn13][13]]}
+seinen Weideflächen, Tabor mit seinen Weideflächen; [fn:13]
 
 <<v63>>
 63 im Land jenseits des Jordan bei Jericho, östlich des Jordan, vom
@@ -298,37 +282,42 @@ seinen Weideflächen,
 66 Heschbon mit seinen Weideflächen und Jaser mit seinen Weideflächen.\\
 \\
 
-^{[[#fnm1][1]]} ℘ 1 Sam 1,1
+* Footnotes
+:PROPERTIES:
+:ID:       7eb8e9a6-fc0e-4243-87fe-7073bdba5963
+:END:
 
-^{[[#fnm2][2]]} ℘ 1 Sam 8,2
+[fn:1] [[file:1.Sam_1.org::v1][1 Sam 1,1]]
 
-^{[[#fnm3][3]]} Text korr. nach 1 Sam 8,2.
+[fn:2] [[file:1.Sam_8.org::v2][1 Sam 8,2]]
 
-^{[[#fnm4][4]]} David ließ die Lade nach Jerusalem bringen und in einem
+[fn:3] Text korr. nach 1 Sam 8,2.
+
+[fn:4] David ließ die Lade nach Jerusalem bringen und in einem
 Zelt aufstellen. Unter Salomo erhielt sie im Tempel ihre bleibende
 Stätte.
 
-^{[[#fnm5][5]]} Nach 1 Chr 21,29 und 2 Chr 1,3 befand sich das heilige
+[fn:5] Nach [[file:1.Chr_21.org::v29][1 Chr 21,29]] und [[file:2.Chr_1.org::v3][2 Chr 1,3]] befand sich das heilige
 Zelt (ohne die Bundeslade) zur Zeit Davids in Gibeon; dort wurden auch
 die Opfer unter Leitung des Priesters Zadok dargebracht (vgl. 1 Chr
 16,39). Der Kult hörte dort auf, als Salomo das Zelt nach Jerusalem
 bringen ließ.
 
-^{[[#fnm6][6]]} ℘ 1 Sam 1,1
+[fn:6] [[file:1.Sam_1.org::v1][1 Sam 1,1]]
 
-^{[[#fnm7][7]]} ℘ (35-38) 5,29-34
+[fn:7] (35-38) [[file:1.Chr_5.org::v29][5,29-34]]
 
-^{[[#fnm8][8]]} ℘ (39-66) Jos 21,3-39
+[fn:8] (39-66) [[file:Jos_21.org::v3][Jos 21,3-39]]
 
-^{[[#fnm9][9]]} 39-66: Einige Ortsnamen fehlen in H und wurden aus Jos
+[fn:9] 39-66: Einige Ortsnamen fehlen in H und wurden aus Jos
 21 ergänzt.
 
-^{[[#fnm10][10]]} Eine Asylstadt ist ein Ort, wohin ein Totschläger
-fliehen konnte, um vor dem Bluträcher sicher zu sein (vgl. Dtn 19,1-13).
+[fn:10] Eine Asylstadt ist ein Ort, wohin ein Totschläger
+fliehen konnte, um vor dem Bluträcher sicher zu sein (vgl. [[file:Dtn_19.org::v1][Dtn 19,1-13]]).
 
-^{[[#fnm11][11]]} 44f.54: Ergänzt aus Jos 21,16f.23.
+[fn:11] 44f.54: Ergänzt aus [[file:Jos_21.org::v16][Jos 21,16f]].[[file:Jos_21.org::v23][23]].
 
-^{[[#fnm12][12]]} Die «übrigen» Kehatiter sind jene, die nicht
-Nachkommen Aarons sind (vgl. 6,39-45).
+[fn:12] Die «übrigen» Kehatiter sind jene, die nicht
+Nachkommen Aarons sind (vgl. [[v39][6,39-45]]).
 
-^{[[#fnm13][13]]} Ergänzt nach Jos 21,34.
+[fn:13] Ergänzt nach [[file:Jos_21.org::v34][Jos 21,34]].

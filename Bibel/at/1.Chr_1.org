@@ -1,24 +1,18 @@
-:PROPERTIES:
-:ID:       8ee7ae42-cce4-4d11-9640-0b3d497723cf
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das erste Buch der Chronik* -- *1*
-[[file:1.Chr_2.html][2]] [[file:1.Chr_3.html][3]] ...
-[[file:1.Chr_29.html][29]]
 
---------------
+#+TITLE: 1 Chr 1 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-19 So 21:23]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Chr 1.html
 
-* 1.Chr 1
-  :PROPERTIES:
-  :CUSTOM_ID: chr-1
-  :END:
+* Die Bücher der Chronik
 
-B+1
-** Die Bücher der Chronik
-   :PROPERTIES:
-   :CUSTOM_ID: die-bücher-der-chronik
-   :END:
 Die Chronik-Bücher tragen in der hebräischen Bibel die Überschrift
 »Ereignisse der Tage«. Der Name »Chronik« stammt vom Kirchenlehrer
 Hieronymus, der die Bücher als »Chronik der gesamten göttlichen
@@ -80,16 +74,12 @@ dienen.\\
 <<verses>>
 
 <<v1>>
-1 B+0
-** Geschlechtsregister und Familienlisten: 1,1 - 9,44
-   :PROPERTIES:
-   :CUSTOM_ID: geschlechtsregister-und-familienlisten-11---944
-   :END:
-**** Die Nachkommen Adams bis Abraham: 1,1-27
-     :PROPERTIES:
-     :CUSTOM_ID: die-nachkommen-adams-bis-abraham-11-27
-     :END:
-Adam, Set, Enosch, ^{[[#fn1][1]]}
+
+* Geschlechtsregister und Familienlisten: 1,1 - 9,44
+
+* Die Nachkommen Adams bis Abraham: 1,1-27
+
+Adam, Set, Enosch, [fn:1]
 
 <<v2>>
 2 Kenan, Mahalalel, Jered,
@@ -165,7 +155,7 @@ zu seiner Zeit wurde das Land geteilt; sein Bruder hieß Joktan.
 23 Ofir, Hawila und Jobab. Das alles waren Söhne Joktans.
 
 <<v24>>
-24 Sem, Arpachschad, Schelach, ^{[[#fn2][2]]}
+24 Sem, Arpachschad, Schelach, [fn:2]
 
 <<v25>>
 25 Eber, Peleg, Regu,
@@ -178,11 +168,9 @@ zu seiner Zeit wurde das Land geteilt; sein Bruder hieß Joktan.
 \\
 
 <<v28>>
-**** Die Nachkommen Abrahams: 1,28-42
-     :PROPERTIES:
-     :CUSTOM_ID: die-nachkommen-abrahams-128-42
-     :END:
-28 Die Söhne Abrahams waren Isaak und Ismael. ^{[[#fn3][3]][[#fn4][4]]}
+* Die Nachkommen Abrahams: 1,28-42
+
+28 Die Söhne Abrahams waren Isaak und Ismael. [fn:3] [fn:4]
 
 <<v29>>
 29 Das ist die Geschlechterfolge nach ihnen: Der Erstgeborene Ismaels
@@ -238,13 +226,11 @@ waren Uz und Aran.\\
 \\
 
 <<v43>>
-**** Die Herrscher in Edom: 1,43-54
-     :PROPERTIES:
-     :CUSTOM_ID: die-herrscher-in-edom-143-54
-     :END:
+* Die Herrscher in Edom: 1,43-54
+
 43 Die Könige, die in Edom regierten, bevor über die Israeliten ein
 König regierte, waren folgende: Bela, der Sohn Beors; seine Stadt hieß
-Dinhaba. ^{[[#fn5][5]]}
+Dinhaba. [fn:5]
 
 <<v44>>
 44 Als Bela starb, wurde König an seiner Stelle Jobab, der Sohn Serachs,
@@ -288,16 +274,17 @@ Häuptling Alwa, Häuptling Jetet,
 54 Häuptling Magdiël, Häuptling Iram. Das waren die Häuptlinge Edoms.\\
 \\
 
-^{[[#fnm1][1]]} ℘ (1-27) Gen 5,1-32; 10,2-29; 11,10-27
+* Footnotes
 
-^{[[#fnm2][2]]} 24-27: Der jeweils folgende Name bezeichnet den Sohn des
-vorausgehenden.
+[fn:1] (1-27) [[file:Gen_5.org::v1][Gen 5,1-32]]; [[file:Gen_10.org::v2][10,2-29]]; [[file:Gen_11.org::v10][11,10-27]]
 
-^{[[#fnm3][3]]} ℘ (28-42) Gen 25,1-4.12-16; 36,4-28
+[fn:2] 24-27: Der jeweils folgende Name bezeichnet den Sohn des vorausgehenden.
 
-^{[[#fnm4][4]]} 28-42: Manche Namen dieser und der folgenden Listen sind
+[fn:3] (28-42) [[file:Gen_25.org::v1][Gen 25,1]]-[[file:Gen_25.org::v4][4]].[[file:Gen_25.org::v12][12]]-[[file:Gen_25.org::v16][16]]; [[file:Gen_25.org::v4][36,4-28]]
+
+[fn:4] 28-42: Manche Namen dieser und der folgenden Listen sind
 durch Schreibfehler entstellt und in Gen sowie in G in anderer Form
 überliefert. In den folgenden Anmerkungen wird darauf nicht im Einzelnen
 eingegangen.
 
-^{[[#fnm5][5]]} ℘ (43-54) Gen 36,31-43
+[fn:5] (43-54) [[file:Gen_36.org::v31][Gen 36,31-43]]

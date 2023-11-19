@@ -1,29 +1,21 @@
-:PROPERTIES:
-:ID:       a515361e-d55a-4454-92bd-333fe2a5cd48
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das erste Buch der Chronik* --
-[[file:1.Chr_1.html][1]] [[file:1.Chr_2.html][2]]
-[[file:1.Chr_3.html][3]] *4* [[file:1.Chr_5.html][5]]
-[[file:1.Chr_6.html][6]] ... [[file:1.Chr_29.html][29]]
-
---------------
-
-* 1.Chr 4
-  :PROPERTIES:
-  :CUSTOM_ID: chr-4
-  :END:
+#+TITLE: 1 Chr 4 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-19 So 21:49]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Chr 4.html
 
 <<verses>>
 
 <<v1>>
-**** Einzelne Familien des Stammes Juda:
-     :PROPERTIES:
-     :CUSTOM_ID: einzelne-familien-des-stammes-juda
-     :END:
-1 Die Söhne Judas waren: Perez, Hezron, Kaleb, Hur und Schobal.
-^{[[#fn1][1]]}
+* Einzelne Familien des Stammes Juda:
+
+1 Die Söhne Judas waren: Perez, Hezron, Kaleb, Hur und Schobal. [fn:1]
 
 <<v2>>
 2 Reaja, der Sohn Schobals, zeugte Jahat und Jahat zeugte Ahumai und
@@ -53,8 +45,7 @@ Harums.
 
 <<v9>>
 9 Jabez war angesehener als seine Brüder. Seine Mutter hatte ihn Jabez
-genannt, denn sie sagte: Ich habe ihn unter Beschwerden geboren.
-^{[[#fn2][2]]}
+genannt, denn sie sagte: Ich habe ihn unter Beschwerden geboren. [fn:2]
 
 <<v10>>
 10 Doch Jabez rief zum Gott Israels und sprach: Möchtest du mich segnen
@@ -87,7 +78,7 @@ Sohn Elas war Kenas.
 <<v17>>
 17 Die Söhne Esras waren: Jeter, Mered, Efer und Jalon. (Bitja, die
 ägyptische Frau Mereds,) gebar Mirjam, Schammai und Jischbach, den Vater
-von Eschtemoa. ^{[[#fn3][3]]}
+von Eschtemoa. [fn:3]
 
 <<v18>>
 18 Seine judäische Frau gebar: Jered, den Vater von Gedor, Heber, den
@@ -118,13 +109,10 @@ dort im Dienst des Königs.\\
 \\
 
 <<v24>>
-24 ¥
-**** Der Stamm Simeon: 4,24-43
-     :PROPERTIES:
-     :CUSTOM_ID: der-stamm-simeon-424-43
-     :END:
-Die Söhne Simeons waren: Jemuël, Jamin, Jarib, Serach und Schaul.
-^{[[#fn4][4]]}
+
+* Der Stamm Simeon: 4,24-43
+
+Die Söhne Simeons waren: Jemuël, Jamin, Jarib, Serach und Schaul. [fn:4]
 
 <<v25>>
 25 Dessen Sohn war Schallum, dessen Sohn Mibsam und dessen Sohn Mischma.
@@ -139,7 +127,7 @@ waren nicht kinderreich und alle ihre Sippen erreichten nicht die Zahl
 der Söhne Judas.
 
 <<v28>>
-28 Sie wohnten in Beerscheba, Molada, Hazar-Schual, ^{[[#fn5][5]]}
+28 Sie wohnten in Beerscheba, Molada, Hazar-Schual, [fn:5]
 
 <<v29>>
 29 Baala, Ezem, Eltolad,
@@ -202,13 +190,15 @@ ihrer Spitze.
 vorhanden war, und wohnen dort bis zum heutigen Tag.\\
 \\
 
-^{[[#fnm1][1]]} Der jeweils folgende Name bezeichnet den Sohn des
+* Footnotes
+
+[fn:1] Der jeweils folgende Name bezeichnet den Sohn des
 vorhergehenden.
 
-^{[[#fnm2][2]]} Jabez erinnert an das Wort ozeb (= Beschwerde).
+[fn:2] Jabez erinnert an das Wort ozeb (= Beschwerde).
 
-^{[[#fnm3][3]]} Ergänzt aus V. 18.
+[fn:3] Ergänzt aus V. 18.
 
-^{[[#fnm4][4]]} ℘ Gen 46,10; Num 26,12-14
+[fn:4] [[file:Gen_46.org::v10][Gen 46,10]]; [[file:Num_26.org::v12][Num 26,12-14]]
 
-^{[[#fnm5][5]]} ℘ Jos 19,2-8
+[fn:5] [[file:Jos_19.org::v2][Jos 19,2-8]]
