@@ -1,18 +1,16 @@
-:PROPERTIES:
-:ID:       26e4a42e-895f-405e-b6ac-b057207257ae
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch der Könige* --
-[[file:2.Kön_1.html][1]] ... [[file:2.Kön_22.html][22]]
-[[file:2.Kön_23.html][23]] *24* [[file:2.Kön_25.html][25]]
-
---------------
+#+TITLE: 2 Kön 24 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-19 So 16:38]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Kön 24.html
 
 * 2.Kön 24
-  :PROPERTIES:
-  :CUSTOM_ID: kön-24
-  :END:
 
 <<verses>>
 
@@ -28,7 +26,7 @@ verwüsten, wie er durch seine Diener, die Propheten, angedroht hatte.
 <<v3>>
 3 Nur weil der Herr zürnte, kam dieses Unglück über Juda, sodass er es
 von seinem Angesicht verstieß. Es geschah wegen der Sünde Manasses, für
-alles, was dieser getan hatte, ^{[[#fn1][1]]}
+alles, was dieser getan hatte, [fn:1]
 
 <<v4>>
 4 auch wegen des unschuldigen Blutes, das Manasse vergossen und mit dem
@@ -45,18 +43,15 @@ an seiner Stelle.
 <<v7>>
 7 Der König von Ägypten unternahm keinen Kriegszug mehr aus seinem Land;
 denn der König von Babel hatte ihm alles genommen, was vom Grenzbach
-Ägyptens bis zum Eufrat den Königen von Ägypten gehört hatte.
-^{[[#fn2][2]]}\\
+Ägyptens bis zum Eufrat den Königen von Ägypten gehört hatte. [fn:2]\\
 \\
 
 <<v8>>
-**** Jojachin: 24,8-17
-     :PROPERTIES:
-     :CUSTOM_ID: jojachin-248-17
-     :END:
+* Jojachin: 24,8-17
+
 8 Jojachin war achtzehn Jahre alt, als er König wurde, und regierte drei
 Monate in Jerusalem. Seine Mutter hieß Nehuschta und war eine Tochter
-Elnatans aus Jerusalem. ^{[[#fn3][3]]}
+Elnatans aus Jerusalem. [fn:3]
 
 <<v9>>
 9 Wie sein Vater tat er, was dem Herrn missfiel.
@@ -89,7 +84,7 @@ zurück.
 <<v15>>
 15 Jojachin verschleppte er nach Babel. Auch die Mutter des Königs, die
 königlichen Frauen und Kämmerer sowie die einflussreichen Männer des
-Landes verschleppte er von Jerusalem nach Babel, ^{[[#fn4][4]]}
+Landes verschleppte er von Jerusalem nach Babel, [fn:4]
 
 <<v16>>
 16 dazu alle Wehrfähigen, siebentausend Mann, die Schmiede und
@@ -102,13 +97,11 @@ dessen Stelle zum König und änderte seinen Namen in Zidkija.\\
 \\
 
 <<v18>>
-**** Zidkija: 24,18 - 25,7
-     :PROPERTIES:
-     :CUSTOM_ID: zidkija-2418---257
-     :END:
+* Zidkija: 24,18 - 25,7
+
 18 Zidkija war einundzwanzig Jahre alt, als er König wurde, und regierte
 elf Jahre in Jerusalem. Seine Mutter hieß Hamutal und war eine Tochter
-Jirmejas aus Libna. ^{[[#fn5][5]]}
+Jirmejas aus Libna. [fn:5]
 
 <<v19>>
 19 Er tat, was dem Herrn missfiel, genauso wie es Jojakim getan hatte.
@@ -117,16 +110,18 @@ Jirmejas aus Libna. ^{[[#fn5][5]]}
 20 Weil der Herr über Juda und Jerusalem erzürnt war, kam es so weit,
 dass er sie von seinem Angesicht verstieß.
 
-^{[[#fnm1][1]]} zürnte: Text korr. nach V. 20 und G.
+* Footnotes
 
-^{[[#fnm2][2]]} Ägypten, das die Vorherrschaft über Syrien und Palästina
+[fn:1] zürnte: Text korr. nach V. 20 und G.
+
+[fn:2] Ägypten, das die Vorherrschaft über Syrien und Palästina
 anstrebte, wurde von Nebukadnezzar 605 v. Chr. bei Karkemisch am Eufrat
 entscheidend geschlagen.
 
-^{[[#fnm3][3]]} ℘ (8-17) 2 Chr 36,9-10
+[fn:3] (8-17) [[file:2.Chr_36.org::v9][2 Chr 36,9-10]]
 
-^{[[#fnm4][4]]} Die Gefangennahme erfolgte 597 v. Chr. Babylonische
+[fn:4] Die Gefangennahme erfolgte 597 v. Chr. Babylonische
 Texte aus der Zeit Nebukadnezzars verzeichnen Lebensmittelzuweisungen an
 Jojachin und seine Söhne.
 
-^{[[#fnm5][5]]} ℘ (18-25,7) 2 Chr 36,11-12; Jer 52,1-11
+[fn:5] (18-25,7) [[file:2.Chr_36.org::v11][2 Chr 36,11-12]]; [[file:Jer_52.org::v1][Jer 52,1-11]]

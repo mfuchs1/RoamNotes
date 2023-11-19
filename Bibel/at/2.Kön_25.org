@@ -1,18 +1,16 @@
-:PROPERTIES:
-:ID:       ed8d9424-f13d-441f-9a94-86cbab812751
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch der Könige* --
-[[file:2.Kön_1.html][1]] ... [[file:2.Kön_23.html][23]]
-[[file:2.Kön_24.html][24]] *25*
-
---------------
+#+TITLE: 2 Kön 25 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-19 So 16:41]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Kön 25.html
 
 * 2.Kön 25
-  :PROPERTIES:
-  :CUSTOM_ID: kön-25
-  :END:
 
 <<verses>>
 
@@ -34,7 +32,7 @@ geworden, und die Bürger des Landes hatten kein Brot mehr.
 alle Krieger verließen die Stadt bei Nacht auf dem Weg durch das Tor
 zwischen den beiden Mauern, das zum königlichen Garten hinausführt,
 obwohl die Chaldäer rings um die Stadt lagen. Sie schlugen die Richtung
-nach der Araba ein. ^{[[#fn1][1]]}
+nach der Araba ein. [fn:1]
 
 <<v5>>
 5 Aber die chaldäischen Truppen setzten dem König nach und holten ihn in
@@ -51,14 +49,12 @@ blenden, in Fesseln legen und nach Babel bringen.\\
 \\
 
 <<v8>>
-**** Das Ende des Reiches Juda: 25,8-26
-     :PROPERTIES:
-     :CUSTOM_ID: das-ende-des-reiches-juda-258-26
-     :END:
+* Das Ende des Reiches Juda: 25,8-26
+
 8 Am siebten Tag des fünften Monats - das ist im neunzehnten Jahr des
 Königs Nebukadnezzar, des Königs von Babel - rückte Nebusaradan, der
 Kommandant der Leibwache und Diener des Königs von Babel, in Jerusalem
-ein ^{[[#fn2][2]]}
+ein [fn:2]
 
 <<v9>>
 9 und steckte das Haus des Herrn, den königlichen Palast und alle Häuser
@@ -124,7 +120,7 @@ hinrichten. So wurde Juda von seiner Heimat weggeführt.
 <<v22>>
 22 Über das Volk, das im Land Juda geblieben war und das Nebukadnezzar,
 der König von Babel, zurückgelassen hatte, setzte er Gedalja, den Sohn
-Ahikams und Enkel Schafans, als Statthalter ein. ^{[[#fn3][3]]}
+Ahikams und Enkel Schafans, als Statthalter ein. [fn:3]
 
 <<v23>>
 23 Als nun alle Truppenführer und ihre Mannschaften hörten, dass der
@@ -151,15 +147,13 @@ den Chaldäern.\\
 \\
 
 <<v27>>
-**** Die Begnadigung Jojachins: 25,27-30
-     :PROPERTIES:
-     :CUSTOM_ID: die-begnadigung-jojachins-2527-30
-     :END:
+* Die Begnadigung Jojachins: 25,27-30
+
 27 Im siebenunddreißigsten Jahr nach der Wegführung Jojachins, des
 Königs von Juda, am siebenundzwanzigsten Tag des zwölften Monats,
 begnadigte Ewil-Merodach, der König von Babel, im Jahr seines
 Regierungsantritts Jojachin, den König von Juda, und entließ ihn aus dem
-Kerker. ^{[[#fn4][4]][[#fn5][5]]}
+Kerker. [fn:4] [fn:5]
 
 <<v28>>
 28 Er söhnte sich mit ihm aus und wies ihm seinen Sitz oberhalb des
@@ -174,13 +168,15 @@ speisen, solange er lebte.
 Babel in der bestimmten Menge täglich geliefert, solange er lebte.\\
 \\
 
-^{[[#fnm1][1]]} Zwei in H fehlende Wörter sind aus Jer 52,7 ergänzt.
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ (8-21) 2 Chr 36,17-21; Jer 52,12-27
+[fn:1] Zwei in H fehlende Wörter sind aus [[file:Jer_52.org::v7][Jer 52,7]] ergänzt.
 
-^{[[#fnm3][3]]} ℘ Jer 40,7 - 41,18
+[fn:2] (8-21) [[file:2.Chr_36.org::v17][2 Chr 36,17-21]]; [[file:Jer_52.org::v12][Jer 52,12-27]]
 
-^{[[#fnm4][4]]} ℘ (27-30) Jer 52,31-34
+[fn:3] [[file:Jer_40.org::v7][Jer 40,7]] - [[file:Jer_41.org::v18][41,18]]
 
-^{[[#fnm5][5]]} Es ist das Jahr 561 v. Chr. Ewil-Merodach (babylonisch
+[fn:4] (27-30) [[file:Jer_52.org::v31][Jer 52,31-34]]
+
+[fn:5] Es ist das Jahr 561 v. Chr. Ewil-Merodach (babylonisch
 Amel-Marduk) war der Sohn und Nachfolger Nebukadnezzars.

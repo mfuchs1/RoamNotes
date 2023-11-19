@@ -1,30 +1,25 @@
-:PROPERTIES:
-:ID:       81d52408-f662-488f-8a31-d9b56962acda
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch der Könige* --
-[[file:2.Kön_1.html][1]] ... [[file:2.Kön_19.html][19]]
-[[file:2.Kön_20.html][20]] *21* [[file:2.Kön_22.html][22]]
-[[file:2.Kön_23.html][23]] ... [[file:2.Kön_25.html][25]]
+#+TITLE: 2 Kön 21 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-19 So 10:36]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Kön 21.html
 
---------------
-
-* 2.Kön 21
-  :PROPERTIES:
-  :CUSTOM_ID: kön-21
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Manasse: 21,1-18
+* Manasse: 21,1-18
      :PROPERTIES:
      :CUSTOM_ID: manasse-211-18
      :END:
 1 Manasse war zwölf Jahre alt, als er König wurde, und regierte
-fünfundfünfzig Jahre in Jerusalem. Seine Mutter hieß Hefzi-Bah.
-^{[[#fn1][1]]}
+fünfundfünfzig Jahre in Jerusalem. Seine Mutter hieß Hefzi-Bah. [fn:1]
 
 <<v2>>
 2 Er tat, was dem Herrn missfiel, und ahmte die Gräuel der Völker nach,
@@ -34,11 +29,11 @@ die der Herr vor den Israeliten vertrieben hatte.
 3 Er baute die Kulthöhen wieder auf, die sein Vater Hiskija zerstört
 hatte, errichtete Altäre für den Baal, ließ einen Kultpfahl anfertigen,
 wie es schon Ahab, der König von Israel, getan hatte, warf sich vor dem
-ganzen Heer des Himmels nieder und diente ihm. ^{[[#fn2][2]][[#fn3][3]]}
+ganzen Heer des Himmels nieder und diente ihm. [fn:2] [fn:3]
 
 <<v4>>
 4 Auch baute er Altäre im Haus des Herrn, obwohl der Herr gesagt hatte:
-Auf Jerusalem will ich meinen Namen legen. ^{[[#fn4][4]]}
+Auf Jerusalem will ich meinen Namen legen. [fn:4]
 
 <<v5>>
 5 In den beiden Höfen des Tempels baute er Altäre für das ganze Heer des
@@ -59,7 +54,7 @@ auserwählt habe, will ich meinen Namen auf ewig legen.
 8 Ich werde Israels Fuß nicht mehr unstet außerhalb des Landes wandern
 lassen, das ich ihren Vätern gegeben habe, wenn sie nur alles befolgen,
 was ich ihnen geboten habe, und mein ganzes Gesetz einhalten, das ihnen
-mein Knecht Mose gegeben hat. ^{[[#fn5][5]]}
+mein Knecht Mose gegeben hat. [fn:5]
 
 <<v9>>
 9 Doch sie wollten nicht hören und Manasse verführte sie, noch
@@ -105,17 +100,17 @@ er beging, sind aufgezeichnet in der Chronik der Könige von Juda.
 <<v18>>
 18 Manasse entschlief zu seinen Vätern und wurde im Garten seines
 Hauses, im Garten Usas, begraben. Sein Sohn Amon wurde König an seiner
-Stelle. ^{[[#fn6][6]]}\\
+Stelle. [fn:6]\\
 \\
 
 <<v19>>
-**** Amon: 21,19-26
+* Amon: 21,19-26
      :PROPERTIES:
      :CUSTOM_ID: amon-2119-26
      :END:
 19 Amon war zweiundzwanzig Jahre alt, als er König wurde, und regierte
 zwei Jahre in Jerusalem. Seine Mutter hieß Meschullemet und war eine
-Tochter des Haruz aus Jotba. ^{[[#fn7][7]]}
+Tochter des Haruz aus Jotba. [fn:7]
 
 <<v20>>
 20 Wie sein Vater Manasse tat er, was dem Herrn missfiel,
@@ -146,16 +141,18 @@ Chronik der Könige von Juda.
 wurde König an seiner Stelle.\\
 \\
 
-^{[[#fnm1][1]]} ℘ (1-18) 2 Chr 33,1-20
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 1 Kön 16,33
+[fn:1] (1-18) [[file:2.Chr_33.org::v1][2 Chr 33,1-20]]
 
-^{[[#fnm3][3]]} Heer des Himmels: vgl. die Anmerkung zu 17,16.
+[fn:2] [[file:1.Kön_16.org::v33][1 Kön 16,33]]
 
-^{[[#fnm4][4]]} ℘ 1 Kön 8,16
+[fn:3] Heer des Himmels: vgl. die Anmerkung zu 17,16.
 
-^{[[#fnm5][5]]} ℘ 2 Sam 7,10
+[fn:4] [[file:1.Kön_8.org::v16][1 Kön 8,16]]
 
-^{[[#fnm6][6]]} ℘ 2 Chr 33,20
+[fn:5] [[file:2.Sam_7.org::v10][2 Sam 7,10]]
 
-^{[[#fnm7][7]]} ℘ (19-24) 2 Chr 33,21-25
+[fn:6] [[file:2.Chr_33.org::v20][2 Chr 33,20]]
+
+[fn:7] (19-24) [[file:2.Chr_33.org::v21][2 Chr 33,21-25]]
