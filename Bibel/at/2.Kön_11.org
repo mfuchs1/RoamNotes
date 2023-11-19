@@ -1,52 +1,43 @@
-:PROPERTIES:
-:ID:       0f9e74ba-70cf-424b-b7da-4da79d1a2839
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch der Könige* --
-[[file:2.Kön_1.html][1]] ... [[file:2.Kön_9.html][9]]
-[[file:2.Kön_10.html][10]] *11* [[file:2.Kön_12.html][12]]
-[[file:2.Kön_13.html][13]] ... [[file:2.Kön_25.html][25]]
-
---------------
-
-* 2.Kön 11
-  :PROPERTIES:
-  :CUSTOM_ID: kön-11
-  :END:
+#+TITLE: 2 Kön 11 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-18 Sa 21:46]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Kön 11.html
 
 <<verses>>
 
 <<v1>>
-**** Atalja: 11,1-20
-     :PROPERTIES:
-     :CUSTOM_ID: atalja-111-20
-     :END:
+* Atalja: 11,1-20
+
 1 Als Atalja, die Mutter Ahasjas, sah, dass ihr Sohn tot war, ging sie
-daran, die ganze Nachkommenschaft der königlichen Familie auszurotten.
-^{[[#fn1][1]]}
+daran, die ganze Nachkommenschaft der königlichen Familie auszurotten. [fn:1]
 
 <<v2>>
 2 Doch Joscheba, die Tochter des Königs Joram und Schwester Ahasjas,
 nahm Joasch, den Sohn Ahasjas, aus dem Kreis der Königssöhne, die
 ermordet werden sollten, weg und brachte ihn heimlich mit seiner Amme in
 die Bettenkammer. Dort versteckte sie ihn vor Atalja, sodass er nicht
-getötet wurde. ^{[[#fn2][2]]}
+getötet wurde. [fn:2]
 
 <<v3>>
 3 Er blieb sechs Jahre bei ihr im Haus des Herrn verborgen, während
-Atalja das Land regierte. ^{[[#fn3][3]]}
+Atalja das Land regierte. [fn:3]
 
 <<v4>>
 4 Im siebten Jahr bestellte der Priester Jojada die Hundertschaftsführer
 der Karer und Läufer zu sich. Er führte sie in das Haus des Herrn,
 schloss mit ihnen ein Abkommen, ließ sie im Haus des Herrn schwören und
-zeigte ihnen den Sohn des Königs. ^{[[#fn4][4]]}
+zeigte ihnen den Sohn des Königs. [fn:4]
 
 <<v5>>
 5 Dann ordnete er an: Das ist es, was ihr tun sollt: Ein Drittel von der
-Wache, die am Sabbat aufzieht, soll den Königspalast bewachen,
-^{[[#fn5][5]]}
+Wache, die am Sabbat aufzieht, soll den Königspalast bewachen, [fn:5]
 
 <<v6>>
 6 ein Drittel soll am Tor Sur und ein Drittel am Tor hinter den Läufern
@@ -80,8 +71,7 @@ König auf.
 <<v12>>
 12 Dann führte Jojada den Königssohn heraus und überreichte ihm den
 Stirnreif und das Königsgesetz. So machten sie ihn zum König, salbten
-ihn, klatschten in die Hände und riefen: Es lebe der König!
-^{[[#fn6][6]]}
+ihn, klatschten in die Hände und riefen: Es lebe der König! [fn:6]
 
 <<v13>>
 13 Als Atalja das Geschrei des Volkes hörte, kam sie zu den Leuten in
@@ -106,7 +96,7 @@ Pferde zum Palast des Königs führt, wurde sie dort getötet.
 <<v17>>
 17 Jojada schloss nun den Bund des Herrn mit König und Volk. Sie
 versprachen, dass sie das Volk des Herrn sein wollten. Auch König und
-Volk ließ er einen Bund schließen. ^{[[#fn7][7]]}
+Volk ließ er einen Bund schließen. [fn:7]
 
 <<v18>>
 18 Darauf zogen alle Bürger des Landes zum Baalstempel und rissen ihn
@@ -126,19 +116,21 @@ Atalja aber hatte man vor dem Palast des Königs mit dem Schwert
 umgebracht.\\
 \\
 
-^{[[#fnm1][1]]} ℘ (1-20) 2 Chr 22,10 - 23,21
+* Footnotes
 
-^{[[#fnm2][2]]} versteckte sie: Text korr. nach G; H: versteckten sie.
+[fn:1] (1-20) [[file:2.Chr_22.org::v10][2 Chr 22,10]] - [[file:2.Chr_23.org::v21][23,21]]
 
-^{[[#fnm3][3]]} Durch Atalja, die Tochter Ahabs, war die davidische
+[fn:2] versteckte sie: Text korr. nach G; H: versteckten sie.
+
+[fn:3] Durch Atalja, die Tochter Ahabs, war die davidische
 Linie unterbrochen. Ihre Regierung galt daher als illegitim.
 
-^{[[#fnm4][4]]} Karer waren ausländische Söldner wie die Kereter und
-Peleter. Zu den «Läufern» vgl. die Anmerkung zu 1 Kön 14,27.
+[fn:4] Karer waren ausländische Söldner wie die Kereter und
+Peleter. Zu den «Läufern» vgl. die Anmerkung zu [[file:1.Kön_14.org::v27][1 Kön 14,27]].
 
-^{[[#fnm5][5]]} soll den Königspalast bewachen: Text korr. nach G.
+[fn:5] soll den Königspalast bewachen: Text korr. nach G.
 
-^{[[#fnm6][6]]} ℘ Dtn 17,18
+[fn:6] [[file:Dtn_17.org::v18][Dtn 17,18]]
 
-^{[[#fnm7][7]]} Der Bund zwischen König und Volk hatte die
+[fn:7] Der Bund zwischen König und Volk hatte die
 Wiedereinsetzung der davidischen Dynastie zum Ziel.

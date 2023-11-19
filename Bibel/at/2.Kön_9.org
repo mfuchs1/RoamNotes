@@ -1,27 +1,20 @@
-:PROPERTIES:
-:ID:       2324ce6c-ebaf-4001-bd11-6623c5abd00d
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch der Könige* --
-[[file:2.Kön_1.html][1]] ... [[file:2.Kön_7.html][7]]
-[[file:2.Kön_8.html][8]] *9* [[file:2.Kön_10.html][10]]
-[[file:2.Kön_11.html][11]] ... [[file:2.Kön_25.html][25]]
-
---------------
-
-* 2.Kön 9
-  :PROPERTIES:
-  :CUSTOM_ID: kön-9
-  :END:
+#+TITLE: 2 Kön 9 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-18 Sa 21:28]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Kön 9.html
 
 <<verses>>
 
 <<v1>>
-**** Der Aufstand Jehus: 9,1-15a
-     :PROPERTIES:
-     :CUSTOM_ID: der-aufstand-jehus-91-15a
-     :END:
+* Der Aufstand Jehus: 9,1-15a
+
 1 Der Prophet Elischa rief einen von den Prophetenjüngern und trug ihm
 auf: Gürte dich, nimm diesen Ölkrug und geh nach Ramot-Gilead!
 
@@ -55,8 +48,7 @@ für das Blut aller Diener des Herrn, das Isebel vergossen hat.
 
 <<v8>>
 8 Das ganze Haus Ahab wird zugrunde gehen. Ich werde vom Haus Ahab
-alles, was männlich ist, bis zum letzten Mann in Israel ausrotten
-^{[[#fn1][1]]}
+alles, was männlich ist, bis zum letzten Mann in Israel ausrotten [fn:1]
 
 <<v9>>
 9 und es dem Haus Ahab ergehen lassen wie dem Haus Jerobeams, des Sohnes
@@ -69,7 +61,7 @@ wird sie begraben. Dann öffnete er die Tür und eilte davon.
 <<v11>>
 11 Als Jehu zu den Leuten seines Herrn herauskam, fragten sie ihn: Steht
 es gut? Warum ist denn dieser Verrückte zu dir gekommen? Er antwortete:
-Ihr kennt doch den Mann und sein Gerede. ^{[[#fn2][2]]}
+Ihr kennt doch den Mann und sein Gerede. [fn:2]
 
 <<v12>>
 12 Doch sie sagten: Das sind Ausflüchte. Teil uns nur alles mit! Da gab
@@ -78,8 +70,7 @@ dich zum König über Israel.
 
 <<v13>>
 13 Sogleich nahmen alle ihre Kleider, legten sie ihm zu Füßen auf die
-bloßen Stufen, stießen in das Horn und riefen: Jehu ist König.
-^{[[#fn3][3]]}
+bloßen Stufen, stießen in das Horn und riefen: Jehu ist König. [fn:3]
 
 <<v14>>
 14 So verschwor sich Jehu, der Sohn Joschafats, des Sohnes Nimschis,
@@ -93,10 +84,8 @@ Hasaël kämpfte.\\
 \\
 
 <<v16>>
-**** Das Ende der beiden Könige: 9,15b-29
-     :PROPERTIES:
-     :CUSTOM_ID: das-ende-der-beiden-könige-915b-29
-     :END:
+* Das Ende der beiden Könige: 9,15b-29
+
 16 Jehu sagte nun: Wenn ihr einverstanden seid, lassen wir keinen aus
 der Stadt entkommen, der nach Jesreel gehen und dort Meldung machen
 könnte. Dann bestieg er seinen Wagen, um selbst nach Jesreel zu fahren;
@@ -158,7 +147,7 @@ ihn verkünden ließ:
 26 Fürwahr, ich habe gestern das Blut Nabots und seiner Söhne gesehen
 Spruch des Herrn. Ich werde an dir auf diesem Acker Vergeltung üben
 Spruch des Herrn. Nimm ihn also und wirf ihn auf den Acker, wie es der
-Herr gesagt hat. ^{[[#fn4][4]]}
+Herr gesagt hat. [fn:4]
 
 <<v27>>
 27 Als Ahasja, der König von Juda, dies sah, floh er in Richtung
@@ -172,21 +161,18 @@ Vätern in seinem Grab in der Davidstadt.
 
 <<v29>>
 29 Im elften Jahr Jorams, des Sohnes Ahabs, war Ahasja König von Juda
-geworden. ^{[[#fn5][5]]}\\
+geworden. [fn:5]\\
 \\
 
 <<v30>>
-**** Das Ende Isebels: 9,30-37
-     :PROPERTIES:
-     :CUSTOM_ID: das-ende-isebels-930-37
-     :END:
+* Das Ende Isebels: 9,30-37
+
 30 Als Jehu nach Jesreel kam und Isebel dies erfuhr, legte sie Schminke
-auf ihre Augen, schmückte ihr Haupt und schaute durch das Fenster hinab.
-^{[[#fn6][6]]}
+auf ihre Augen, schmückte ihr Haupt und schaute durch das Fenster hinab. [fn:6]
 
 <<v31>>
 31 Während dann Jehu an das Tor trat, rief sie ihm zu: Geht es Simri,
-dem Mörder seines Herrn, gut? ^{[[#fn7][7]][[#fn8][8]]}
+dem Mörder seines Herrn, gut? [fn:7] [fn:8]
 
 <<v32>>
 32 Jehu schaute zum Fenster empor und fragte: Ist jemand da, der zu mir
@@ -208,35 +194,36 @@ noch den Schädel, die Füße und die Hände.
 <<v36>>
 36 Und sie kamen zurück, um es ihm zu melden. Er aber sagte: Das ist das
 Wort, das der Herr durch seinen Knecht Elija aus Tischbe verkündet hat:
-Auf der Flur von Jesreel werden die Hunde das Fleisch Isebels fressen.
-^{[[#fn9][9]]}
+Auf der Flur von Jesreel werden die Hunde das Fleisch Isebels fressen. [fn:9]
 
 <<v37>>
 37 Die Leiche Isebels soll wie Mist auf dem Feld in der Flur Jesreels
 liegen, sodass man nicht mehr sagen kann: Das ist Isebel.\\
 \\
 
-^{[[#fnm1][1]]} ℘ 1 Kön 14,10f; 16,4; 21,21-24
+* Footnotes
 
-^{[[#fnm2][2]]} fragten sie: Text korr. nach G; H: fragte er.
+[fn:1] [[file:1.Kön_14.org::v10][1 Kön 14,10f]]; [[file:1.Kön_16.org::v4][16,4]]; [[file:1.Kön_21.org::v21][21,21-24]]
 
-^{[[#fnm3][3]]} Durch das Hinbreiten ihrer Kleider drücken sie aus, dass
+[fn:2] fragten sie: Text korr. nach G; H: fragte er.
+
+[fn:3] Durch das Hinbreiten ihrer Kleider drücken sie aus, dass
 sie sich ihm unterwerfen (vgl. Mt 21,8).
 
-^{[[#fnm4][4]]} ℘ 1 Kön 21,19
+[fn:4] [[file:1.Kön_21.org::v19][1 Kön 21,19]]
 
-^{[[#fnm5][5]]} Nachtrag, der das in 8,25 genannte zwölfte Jahr Jorams
+[fn:5] Nachtrag, der das in 8,25 genannte zwölfte Jahr Jorams
 berichtigen soll. Da beide Könige im zwölften Jahr Jorams starben und
 Ahasja nur ein Jahr regierte, muss er im 11. Jahr Jorams König geworden
 sein.
 
-^{[[#fnm6][6]]} Sie weiß, was ihr bevorsteht, und will noch im Tod ihre
+[fn:6] Sie weiß, was ihr bevorsteht, und will noch im Tod ihre
 Würde zeigen.
 
-^{[[#fnm7][7]]} ℘ 1 Kön 16,10
+[fn:7] [[file:1.Kön_16.org::v10][1 Kön 16,10]]
 
-^{[[#fnm8][8]]} Sie bezeichnet höhnisch Jehu als Simri, der den König
+[fn:8] Sie bezeichnet höhnisch Jehu als Simri, der den König
 tötete und sich bereits nach sieben Tagen das Leben nahm (vgl. 1 Kön
 16,10.15-18).
 
-^{[[#fnm9][9]]} ℘ 1 Kön 21,23
+[fn:9] [[file:1.Kön_21.org::v23][1 Kön 21,23]]

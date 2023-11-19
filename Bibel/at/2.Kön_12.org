@@ -1,28 +1,21 @@
-:PROPERTIES:
-:ID:       e6bdc6ab-3a5d-4d67-8e7f-8790a5a11332
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch der Könige* --
-[[file:2.Kön_1.html][1]] ... [[file:2.Kön_10.html][10]]
-[[file:2.Kön_11.html][11]] *12* [[file:2.Kön_13.html][13]]
-[[file:2.Kön_14.html][14]] ... [[file:2.Kön_25.html][25]]
-
---------------
-
-* 2.Kön 12
-  :PROPERTIES:
-  :CUSTOM_ID: kön-12
-  :END:
+#+TITLE: 2 Kön 12 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-18 Sa 21:52]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Kön 12.html
 
 <<verses>>
 
 <<v1>>
-**** Joasch von Juda: 12,1-22
-     :PROPERTIES:
-     :CUSTOM_ID: joasch-von-juda-121-22
-     :END:
-1 Joasch war sieben Jahre alt, als er König wurde. ^{[[#fn1][1]]}
+* Joasch von Juda: 12,1-22
+
+1 Joasch war sieben Jahre alt, als er König wurde. [fn:1]
 
 <<v2>>
 2 Im siebten Jahr Jehus wurde er König und vierzig Jahre regierte er in
@@ -41,7 +34,7 @@ und Rauchopfer auf ihnen dar.
 das Haus des Herrn gebracht wird, ferner das Geld, das jemandem durch
 Schätzung auferlegt wird oder das er nach der Schätzung für andere zu
 entrichten hat, endlich das Geld, das jemand freiwillig in das Haus des
-Herrn bringt, ^{[[#fn2][2]]}
+Herrn bringt, [fn:2]
 
 <<v6>>
 6 das alles sollen die Priester an sich nehmen, jeder von seinen
@@ -73,7 +66,7 @@ hielten, alles Geld, das in den Tempel des Herrn gebracht wurde.
 <<v11>>
 11 Wenn sie dann sahen, dass viel Geld im Kasten war, kam der Schreiber
 des Königs mit dem Hohenpriester. Sie leerten den Kasten, zählten das
-Geld, das sich im Haus des Herrn befand, ^{[[#fn3][3]]}
+Geld, das sich im Haus des Herrn befand, [fn:3]
 
 <<v12>>
 12 und übergaben es abgewogen den Werkmeistern, die die Arbeiten im Haus
@@ -129,9 +122,10 @@ seinen Vätern in der Davidstadt. Sein Sohn Amazja wurde König an seiner
 Stelle.\\
 \\
 
-^{[[#fnm1][1]]} ℘ (1-22) 2 Chr 24,1-27
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ Lev 27,1-8
+[fn:1] (1-22) [[file:2.Chr_24.org::v1][2 Chr 24,1-27]]
 
-^{[[#fnm3][3]]} sie leerten: Text korr. nach 2 Chr 24,11; H: sie
-verschnürten.
+[fn:2] [[file:Lev_27.org::v1][Lev 27,1-8]]
+
+[fn:3] sie leerten: Text korr. nach [[file:2.Chr_24.org::v11][2 Chr 24,11]]; H: sie verschnürten.

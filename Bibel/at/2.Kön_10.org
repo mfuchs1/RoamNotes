@@ -1,30 +1,23 @@
-:PROPERTIES:
-:ID:       9ce95ff3-77b9-45c8-a566-d300a4a15af9
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch der Könige* --
-[[file:2.Kön_1.html][1]] ... [[file:2.Kön_8.html][8]]
-[[file:2.Kön_9.html][9]] *10* [[file:2.Kön_11.html][11]]
-[[file:2.Kön_12.html][12]] ... [[file:2.Kön_25.html][25]]
-
---------------
-
-* 2.Kön 10
-  :PROPERTIES:
-  :CUSTOM_ID: kön-10
-  :END:
+#+TITLE: 2 Kön 10 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-18 Sa 21:39]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Kön 10.html
 
 <<verses>>
 
 <<v1>>
-**** Der Untergang des Hauses Ahab: 10,1-17
-     :PROPERTIES:
-     :CUSTOM_ID: der-untergang-des-hauses-ahab-101-17
-     :END:
+* Der Untergang des Hauses Ahab: 10,1-17
+
 1 Ahab hatte siebzig Söhne in Samaria. Jehu sandte nun Briefe nach
 Samaria an die Fürsten der Stadt, an die Ältesten und die Erzieher der
-Söhne Ahabs. Darin schrieb er: ^{[[#fn1][1]]}
+Söhne Ahabs. Darin schrieb er: [fn:1]
 
 <<v2>>
 2 Wenn jetzt dieses Schreiben zu euch kommt, bedenkt: Bei euch sind die
@@ -71,7 +64,7 @@ angezettelt und ihn getötet hat. Doch wer hat diese alle erschlagen?
 <<v10>>
 10 Erkennt also, dass keine der Drohungen unerfüllt bleibt, die der Herr
 gegen das Haus Ahab ausgesprochen hat. Der Herr hat das getan, was er
-durch seinen Knecht Elija verkündet hat. ^{[[#fn2][2]]}
+durch seinen Knecht Elija verkündet hat. [fn:2]
 
 <<v11>>
 11 Hierauf ließ Jehu alle vom Haus Ahab erschlagen, die noch in Jesreel
@@ -85,8 +78,7 @@ Bet-Eked-Roïm war,
 <<v13>>
 13 traf er die Brüder Ahasjas, des Königs von Juda. Er fragte sie: Wer
 seid ihr? Sie antworteten: Wir sind die Brüder Ahasjas und sind
-gekommen, um die Söhne des Königs und die Söhne der Herrin zu begrüßen.
-^{[[#fn3][3]]}
+gekommen, um die Söhne des Königs und die Söhne der Herrin zu begrüßen. [fn:3]
 
 <<v14>>
 14 Da befahl er: Ergreift sie lebendig! Man ergriff sie lebendig und
@@ -98,11 +90,11 @@ keinen von ihnen ließ er am Leben.
 entgegenkam. Er grüßte ihn und fragte: Ist dein Herz aufrichtig gegen
 mich wie mein Herz gegen dich? Jonadab antwortete: So ist es. (Da sagte
 Jehu:) Wenn es so ist, dann reich mir deine Hand! Da reichte er ihm die
-Hand und Jehu nahm ihn zu sich auf den Wagen ^{[[#fn4][4]]}
+Hand und Jehu nahm ihn zu sich auf den Wagen [fn:4]
 
 <<v16>>
 16 und sagte: Komm mit mir und sieh meinen Eifer für den Herrn! So ließ
-er ihn bei sich im Wagen fahren. ^{[[#fn5][5]]}
+er ihn bei sich im Wagen fahren. [fn:5]
 
 <<v17>>
 17 Als er nach Samaria kam, ließ er alle erschlagen, die vom Haus Ahab
@@ -111,10 +103,8 @@ zu Elija gesagt hatte.\\
 \\
 
 <<v18>>
-**** Die Beseitigung der Baalspriester: 10,18-29
-     :PROPERTIES:
-     :CUSTOM_ID: die-beseitigung-der-baalspriester-1018-29
-     :END:
+* Die Beseitigung der Baalspriester: 10,18-29
+
 18 Jehu versammelte das ganze Volk und trug ihm vor: Ahab hat Baal nur
 wenig gedient; Jehu wird ihm eifriger dienen.
 
@@ -153,7 +143,7 @@ seinem Leben dafür büßen.
 Hauptleuten: Kommt her und macht sie nieder! Keiner darf entrinnen. Die
 Läufer und ihre Hauptleute erschlugen sie mit scharfem Schwert und
 warfen die Leichen hinaus. Dann machten sie sich über den Tempel des
-Baal her, ^{[[#fn6][6]]}
+Baal her, [fn:6]
 
 <<v26>>
 26 schafften das Steinmal des Baalstempels weg und verbrannten es.
@@ -173,14 +163,12 @@ ab.\\
 \\
 
 <<v30>>
-**** Verschiedene Angaben über Jehu: 10,30-36
-     :PROPERTIES:
-     :CUSTOM_ID: verschiedene-angaben-über-jehu-1030-36
-     :END:
+* Verschiedene Angaben über Jehu: 10,30-36
+
 30 Der Herr sprach zu Jehu: Weil du mein Vorhaben genau vollstreckt und
 am Haus Ahab alles ausgeführt hast, was ich ihm zugedacht hatte, sollen
 Nachkommen von dir bis in das vierte Geschlecht auf dem Thron Israels
-sitzen. ^{[[#fn7][7]]}
+sitzen. [fn:7]
 
 <<v31>>
 31 Doch Jehu war nicht darauf bedacht, mit ganzem Herzen das Gesetz des
@@ -194,7 +182,7 @@ sie in allen Gebieten Israels
 <<v33>>
 33 östlich des Jordan: Er verwüstete das ganze Land Gilead, das Gebiet
 der Stämme Gad, Ruben und Manasse bis nach Aroër am Arnon, Gilead und
-den Baschan. ^{[[#fn8][8]]}
+den Baschan. [fn:8]
 
 <<v34>>
 34 Die übrige Geschichte Jehus, alle seine Taten und Erfolge, sind
@@ -209,25 +197,26 @@ Sohn Joahas wurde König an seiner Stelle.
 achtundzwanzig Jahre.\\
 \\
 
-^{[[#fnm1][1]]} Fürsten der Stadt . . . Erzieher der Söhne: Text korr.
+* Footnotes
+
+[fn:1] Fürsten der Stadt . . . Erzieher der Söhne: Text korr.
 nach dem Zusammenhang.
 
-^{[[#fnm2][2]]} ℘ 1 Kön 21,18-24
+[fn:2] [[file:1.Kön_21.org::v18][1 Kön 21,18-24]]
 
-^{[[#fnm3][3]]} Brüder: im weiteren Sinn von «Verwandten»; die «Herrin»
+[fn:3] Brüder: im weiteren Sinn von «Verwandten»; die «Herrin»
 ist die Königin-Mutter.
 
-^{[[#fnm4][4]]} ℘ Jer 35,1-11
+[fn:4] [[file:Jer_35.org::v1][Jer 35,1-11]]
 
-^{[[#fnm5][5]]} ließ er ihn . . . fahren: Text korr. nach G; H: ließen
+[fn:5] ließ er ihn . . . fahren: Text korr. nach G; H: ließen
 sie ihn . . . fahren.
 
-^{[[#fnm6][6]]} Zu den Läufern vgl. die Anmerkung zu 1 Kön 14,27. - Der
+[fn:6] Zu den Läufern vgl. die Anmerkung zu [[file:1.Kön_14.org::v27][1 Kön 14,27]]. - Der
 Schluss des Verses in H: machten sie sich über die Stadt des Tempels des
 Baal her.
 
-^{[[#fnm7][7]]} Das Vorgehen gegen das Haus Ahab wird als Ausführung der
-von Gott beschlossenen Strafgerichte anerkannt; anders jedoch in Hos
-1,4.
+[fn:7] Das Vorgehen gegen das Haus Ahab wird als Ausführung der
+von Gott beschlossenen Strafgerichte anerkannt; anders jedoch in [[file:Hos_1.org::v4][Hos 1,4]].
 
-^{[[#fnm8][8]]} Dadurch ging das ganze Ostjordanland verloren.
+[fn:8] Dadurch ging das ganze Ostjordanland verloren.

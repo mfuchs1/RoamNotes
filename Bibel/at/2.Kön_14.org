@@ -1,30 +1,22 @@
-:PROPERTIES:
-:ID:       f49b4e03-e226-4ca7-9941-0b679f637506
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch der Könige* --
-[[file:2.Kön_1.html][1]] ... [[file:2.Kön_12.html][12]]
-[[file:2.Kön_13.html][13]] *14* [[file:2.Kön_15.html][15]]
-[[file:2.Kön_16.html][16]] ... [[file:2.Kön_25.html][25]]
-
---------------
-
-* 2.Kön 14
-  :PROPERTIES:
-  :CUSTOM_ID: kön-14
-  :END:
+#+TITLE: 2 Kön 14 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-18 Sa 23:44]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Kön 14.html
 
 <<verses>>
 
 <<v1>>
-**** Amazja von Juda: 14,1-22
-     :PROPERTIES:
-     :CUSTOM_ID: amazja-von-juda-141-22
-     :END:
+* Amazja von Juda: 14,1-22
+
 1 Im zweiten Jahr des Joasch, des Sohnes des Joahas, des Königs von
-Israel, wurde Amazja, der Sohn des Joasch, König von Juda.
-^{[[#fn1][1]]}
+Israel, wurde Amazja, der Sohn des Joasch, König von Juda. [fn:1]
 
 <<v2>>
 2 Er war fünfundzwanzig Jahre alt, als er König wurde, und regierte
@@ -48,7 +40,7 @@ hinrichten, die seinen Vater, den König, erschlagen hatten.
 und wie es im Gesetzbuch des Mose niedergeschrieben ist: Die Väter
 sollen nicht für ihre Söhne und die Söhne nicht für ihre Väter mit dem
 Tod bestraft werden, sondern jeder soll nur für sein eigenes Verbrechen
-sterben. ^{[[#fn2][2]]}
+sterben. [fn:2]
 
 <<v7>>
 7 Er besiegte die Edomiter, zehntausend Mann, im Salztal, nahm Sela im
@@ -83,7 +75,7 @@ Zelten.
 13 Den König Amazja von Juda, den Sohn des Joasch, des Sohnes Ahasjas,
 nahm König Joasch von Israel bei Bet-Schemesch gefangen und brachte ihn
 nach Jerusalem. Dort riss er die Mauer der Stadt vom Efraimtor bis zum
-Ecktor auf einer Strecke von vierhundert Ellen nieder, ^{[[#fn3][3]]}
+Ecktor auf einer Strecke von vierhundert Ellen nieder, [fn:3]
 
 <<v14>>
 14 nahm alles Gold und Silber sowie alle Geräte, die sich im Haus des
@@ -93,7 +85,7 @@ sich Geiseln stellen und kehrte nach Samaria zurück.
 <<v15>>
 15 Die übrige Geschichte des Joasch, seine Taten und Erfolge, auch wie
 er mit Amazja, dem König von Juda, Krieg führte, all das ist
-aufgezeichnet in der Chronik der Könige von Israel. ^{[[#fn4][4]]}
+aufgezeichnet in der Chronik der Könige von Israel. [fn:4]
 
 <<v16>>
 16 Joasch entschlief zu seinen Vätern und wurde in Samaria bei den
@@ -120,8 +112,7 @@ Vätern in der Davidstadt begraben.
 
 <<v21>>
 21 Das ganze Volk von Juda nahm nun Asarja, der damals sechzehn Jahre
-alt war, und machte ihn zum König anstelle seines Vaters Amazja.
-^{[[#fn5][5]][[#fn6][6]]}
+alt war, und machte ihn zum König anstelle seines Vaters Amazja. [fn:5] [fn:6]
 
 <<v22>>
 22 Er baute Elat aus, das er für Juda zurückgewonnen hatte, nachdem der
@@ -129,10 +120,8 @@ König zu seinen Vätern entschlafen war.\\
 \\
 
 <<v23>>
-**** Jerobeam II. von Israel: 14,23-29
-     :PROPERTIES:
-     :CUSTOM_ID: jerobeam-ii.-von-israel-1423-29
-     :END:
+* Jerobeam II. von Israel: 14,23-29
+
 23 Im fünfzehnten Jahr Amazjas, des Sohnes des Joasch, des Königs von
 Juda, wurde Jerobeam, der Sohn des Joasch, König von Israel. Er regierte
 einundvierzig Jahre in Samaria
@@ -144,8 +133,7 @@ zu denen Jerobeam, der Sohn Nebats, Israel verführt hatte.
 <<v25>>
 25 Er stellte die Grenzen Israels wieder her von Lebo-Hamat bis zum Meer
 der Araba, wie es der Herr, der Gott Israels, durch seinen Knecht, den
-Propheten Jona, den Sohn Amittais aus Gat-Hefer, vorhergesagt hatte.
-^{[[#fn7][7]]}
+Propheten Jona, den Sohn Amittais aus Gat-Hefer, vorhergesagt hatte. [fn:7]
 
 <<v26>>
 26 Denn der Herr sah die bittere Not Israels: dass bis zum letzten Mann
@@ -158,30 +146,31 @@ auszutilgen. Darum half er ihnen durch Jerobeam, den Sohn des Joasch.
 <<v28>>
 28 Die übrige Geschichte Jerobeams, alle seine Taten und Erfolge, wie er
 Krieg führte, . . . all das ist aufgezeichnet in der Chronik der Könige
-von Israel. ^{[[#fn8][8]]}
+von Israel. [fn:8]
 
 <<v29>>
 29 Jerobeam entschlief zu seinen Vätern, den Königen von Israel, und
 sein Sohn Secharja wurde König an seiner Stelle.\\
 \\
 
-^{[[#fnm1][1]]} ℘ (1-20) 2 Chr 25,1-4.17-28
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ Dtn 24,16; Ez 18,10-23
+[fn:1] (1-20) [[file:2.Chr_25.org::v1][2 Chr 25,1]]-[[file:2.Chr_25.org::v4][4]].[[file:2.Chr_25.org::v17][17]]-[[file:2.Chr_25.org::v28][28]]
 
-^{[[#fnm3][3]]} und brachte ihn: Text korr. nach 2 Chr 25,23; H: und
-kam.
+[fn:2] [[file:Dtn_24.org::v16][Dtn 24,16]]; [[file:Ex_18.org::v10][Ez 18,10-23]]
 
-^{[[#fnm4][4]]} ℘ (15-16) 13,12f
+[fn:3] und brachte ihn: Text korr. nach [[file:2.Chr_25.org::v23][2 Chr 25,23]]; H: und kam.
 
-^{[[#fnm5][5]]} ℘ (21-22) 2 Chr 26,1f
+[fn:4] (15-16) [[file:2.Kön_13.org::v12][13,12f]]
 
-^{[[#fnm6][6]]} 21f: V. 21 und vielleicht auch 22 gehören in den
+[fn:5] (21-22) [[file:2.Chr_26.org::v1][2 Chr 26,1f]]
+
+[fn:6] 21f: V. 21 und vielleicht auch 22 gehören in den
 Zusammenhang von V. 14.
 
-^{[[#fnm7][7]]} Zu Lebo-Hamat vgl. die Anmerkung zu 1 Kön 8,65. Das
-«Meer der Araba» ist das Tote Meer. Auch Am 6,13 erwähnt Eroberungen im
+[fn:7] Zu Lebo-Hamat vgl. die Anmerkung zu [[file:1.Kön_8.org::v65][1 Kön 8,65]]. Das
+«Meer der Araba» ist das Tote Meer. Auch [[file:Am_6.org::13][Am 6,13]] erwähnt Eroberungen im
 Ostjordanland. Eine entsprechende Weissagung findet sich nicht im AT.
 
-^{[[#fnm8][8]]} H: und wie er Damaskus und Hamat für Juda in Israel
+[fn:8] H: und wie er Damaskus und Hamat für Juda in Israel
 zurückbrachte. Sinn unklar.

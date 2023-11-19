@@ -1,33 +1,24 @@
-:PROPERTIES:
-:ID:       1f2cd822-6c29-44ef-9218-a575b293a643
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch der Könige* --
-[[file:2.Kön_1.html][1]] ... [[file:2.Kön_16.html][16]]
-[[file:2.Kön_17.html][17]] *18* [[file:2.Kön_19.html][19]]
-[[file:2.Kön_20.html][20]] ... [[file:2.Kön_25.html][25]]
-
---------------
-
-* 2.Kön 18
-  :PROPERTIES:
-  :CUSTOM_ID: kön-18
-  :END:
+#+TITLE: 2 Kön 18 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-19 So 00:39]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Kön 18.html
 
 <<verses>>
 
 <<v1>>
-** Die weitere Geschichte des Reiches Juda: 18,1 - 25,30
-   :PROPERTIES:
-   :CUSTOM_ID: die-weitere-geschichte-des-reiches-juda-181---2530
-   :END:
-**** Hiskija: 18,1-12
-     :PROPERTIES:
-     :CUSTOM_ID: hiskija-181-12
-     :END:
+* Die weitere Geschichte des Reiches Juda: 18,1 - 25,30
+
+* Hiskija: 18,1-12
+
 1 Im dritten Jahr Hoscheas, des Sohnes Elas, des Königs von Israel,
-wurde Hiskija, der Sohn des Ahas, König von Juda. ^{[[#fn1][1]]}
+wurde Hiskija, der Sohn des Ahas, König von Juda. [fn:1]
 
 <<v2>>
 2 Er war fünfundzwanzig Jahre alt, als er König wurde, und regierte
@@ -41,7 +32,7 @@ Tochter Secharjas.
 4 Er schaffte die Kulthöhen ab, zerbrach die Steinmale, zerstörte den
 Kultpfahl und zerschlug die Kupferschlange, die Mose angefertigt hatte
 und der die Israeliten bis zu jener Zeit Rauchopfer darbrachten - man
-nannte sie Nehuschtan (Kupferbild). ^{[[#fn2][2]]}
+nannte sie Nehuschtan (Kupferbild). [fn:2]
 
 <<v5>>
 5 Er setzte sein Vertrauen auf den Herrn, den Gott Israels. Unter allen
@@ -64,7 +55,7 @@ vom Wachtturm bis zur befestigten Stadt.
 <<v9>>
 9 Im vierten Jahr des Königs Hiskija, das ist im siebten Jahr Hoscheas,
 des Sohnes Elas, des Königs von Israel, zog Salmanassar, der König von
-Assur, gegen Samaria und belagerte es. ^{[[#fn3][3]]}
+Assur, gegen Samaria und belagerte es. [fn:3]
 
 <<v10>>
 10 Nach drei Jahren, das ist im sechsten Jahr Hiskijas und im neunten
@@ -82,17 +73,12 @@ verkündet hatte, übertreten und sie nicht befolgt.\\
 \\
 
 <<v13>>
-*** Sanheribs Feldzug gegen Jerusalem: 18,13 - 19,37
-    :PROPERTIES:
-    :CUSTOM_ID: sanheribs-feldzug-gegen-jerusalem-1813---1937
-    :END:
-**** Erste Gesandtschaft Sanheribs: 18,13-37
-     :PROPERTIES:
-     :CUSTOM_ID: erste-gesandtschaft-sanheribs-1813-37
-     :END:
+* Sanheribs Feldzug gegen Jerusalem: 18,13 - 19,37
+
+* Erste Gesandtschaft Sanheribs: 18,13-37
+
 13 Im vierzehnten Jahr des Königs Hiskija zog Sanherib, der König von
-Assur, gegen alle befestigten Städte Judas und nahm sie ein.
-^{[[#fn4][4]][[#fn5][5]]}
+Assur, gegen alle befestigten Städte Judas und nahm sie ein. [fn:4] [fn:5]
 
 <<v14>>
 14 Hiskija aber, der König von Juda, schickte Boten an den König von
@@ -108,15 +94,13 @@ in den Schatzkammern des königlichen Palastes befand.
 <<v16>>
 16 Damals ließ Hiskija, der König von Juda, die Türen am Tempel des
 Herrn und die Pfosten, die er mit Gold und Silber überzogen hatte,
-zerschlagen und lieferte das Metall an den König von Assur.
-^{[[#fn6][6]]}
+zerschlagen und lieferte das Metall an den König von Assur. [fn:6]
 
 <<v17>>
 17 Doch der König von Assur sandte den Tartan, den Rabsaris und den
 Rabschake mit einer großen Streitmacht von Lachisch aus gegen König
 Hiskija. Sie zogen nach Jerusalem hinauf, stellten sich an der
-Wasserleitung des oberen Teiches auf, der an der Walkerfeldstraße liegt,
-^{[[#fn7][7]][[#fn8][8]]}
+Wasserleitung des oberen Teiches auf, der an der Walkerfeldstraße liegt, [fn:7] [fn:8]
 
 <<v18>>
 18 und ließen den König rufen. Der Palastvorsteher Eljakim, der Sohn
@@ -136,7 +120,7 @@ wen vertraust du also, dass du von mir abgefallen bist?
 21 Du vertraust gewiss auf Ägypten, dieses geknickte Schilfrohr, das
 jeden, der sich darauf stützt, in die Hand sticht und sie durchbohrt.
 Denn so macht es der Pharao, der König von Ägypten, mit allen, die ihm
-vertrauen. ^{[[#fn9][9]]}
+vertrauen. [fn:9]
 
 <<v22>>
 22 Wenn ihr aber zu mir sagt: Wir vertrauen auf Jahwe, unseren Gott!,
@@ -163,7 +147,7 @@ dieses Land, und verwüste es!
 26 Da sagten Eljakim, der Sohn Hilkijas, sowie Schebna und Joach zu dem
 Rabschake: Sprich doch aramäisch mit deinen Knechten; wir verstehen es.
 Sprich vor den Ohren des Volkes, das auf der Mauer steht, nicht judäisch
-mit uns! ^{[[#fn10][10]]}
+mit uns! [fn:10]
 
 <<v27>>
 27 Der Rabschake antwortete ihnen: Hat mich mein Herr etwa beauftragt,
@@ -177,7 +161,7 @@ Worte des Großkönigs, des Königs von Assur!
 
 <<v29>>
 29 So spricht der König: Lasst euch nicht von Hiskija betören; denn er
-kann euch nicht aus meiner Hand retten. ^{[[#fn11][11]]}
+kann euch nicht aus meiner Hand retten. [fn:11]
 
 <<v30>>
 30 Er soll euch nicht verleiten, auf Jahwe zu vertrauen, und sagen:
@@ -220,37 +204,38 @@ ihre Kleider, gingen zu Hiskija und berichteten ihm, was der Rabschake
 gesagt hatte.\\
 \\
 
-^{[[#fnm1][1]]} ℘ (1-3) 2 Chr 29,1f
+* Footnotes
 
-^{[[#fnm2][2]]} Zum ersten Mal wird berichtet, dass ein judäischer König
+[fn:1] (1-3) [[file:2.Chr_29.org::v1][2 Chr 29,1f]]
+
+[fn:2] Zum ersten Mal wird berichtet, dass ein judäischer König
 die Kulthöhen beseitigt. - Zur Kupferschlange vgl. Num 21,4-9 und die
 Anmerkung zu Num 21,9.
 
-^{[[#fnm3][3]]} ℘ (9-11) 17,5f
+[fn:3] (9-11) [[file:2.Kön_17.org::v5][17,5f]]
 
-^{[[#fnm4][4]]} ℘ (13-37) Jes 36,1-22; 2 Chr 32,1-19
+[fn:4] (13-37) [[file:Jes_36.org::v1][Jes 36,1-22]]; [[file:2.Chr_32.org::v1][2 Chr 32,1-19]]
 
-^{[[#fnm5][5]]} 13-16: Nach assyrischen Quellen fand der Feldzug 701 v.
-Chr. statt; das ist das 26. Jahr Hiskijas. Das 14. Jahr ist aus 20,6
-errechnet.
+[fn:5] 13-16: Nach assyrischen Quellen fand der Feldzug 701 v.Chr. statt;
+das ist das 26. Jahr Hiskijas. Das 14. Jahr ist aus [[file:2.Kön_20.org::v6][20,6]] errechnet.
 
-^{[[#fnm6][6]]} Ähnliches geschah unter Ahas (vgl. 16,17).
+[fn:6] Ähnliches geschah unter Ahas (vgl. [[file:2.Kön_16.org::v17][16,17]]).
 
-^{[[#fnm7][7]]} ℘ Jes 7,3
+[fn:7] [[file:Jes_7.org::v3][Jes 7,3]]
 
-^{[[#fnm8][8]]} 17-19,36: Die zeitliche Einordnung des hier
+[fn:8] 17-19,36: Die zeitliche Einordnung des hier
 beschriebenen Vorgangs ist schwer möglich. Tartan, Rabsaris und
 Rabschake: assyrische Beamtenbezeichnungen, etwa Oberfeldherr,
 Oberkämmerer und Obermundschenk. - In Lachisch, südwestlich von
 Jerusalem, war das Hauptquartier des assyrischen Heeres. Die Eroberung
 der Stadt ist auf einem Relief in Ninive dargestellt.
 
-^{[[#fnm9][9]]} Der Zug Sanheribs war durch ein Bündnis der westlichen
+[fn:9] Der Zug Sanheribs war durch ein Bündnis der westlichen
 Vasallen mit Ägypten veranlasst.
 
-^{[[#fnm10][10]]} Das Aramäische begann vom 8. bis 6. Jh. zur Sprache
+[fn:10] Das Aramäische begann vom 8. bis 6. Jh. zur Sprache
 des Handels und der Diplomatie zu werden. Der Text setzt voraus, dass es
 in Jerusalem von den höheren Beamten, nicht aber vom Volk verstanden
 wurde.
 
-^{[[#fnm11][11]]} aus meiner Hand: Text korr.; H: aus seiner Hand.
+[fn:11]  aus meiner Hand: Text korr.; H: aus seiner Hand.

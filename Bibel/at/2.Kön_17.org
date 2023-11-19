@@ -1,27 +1,20 @@
-:PROPERTIES:
-:ID:       b5055bee-83aa-42d1-b2ea-64aa1d971c02
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch der Könige* --
-[[file:2.Kön_1.html][1]] ... [[file:2.Kön_15.html][15]]
-[[file:2.Kön_16.html][16]] *17* [[file:2.Kön_18.html][18]]
-[[file:2.Kön_19.html][19]] ... [[file:2.Kön_25.html][25]]
-
---------------
-
-* 2.Kön 17
-  :PROPERTIES:
-  :CUSTOM_ID: kön-17
-  :END:
+#+TITLE: 2 Kön 17 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-19 So 00:31]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Kön 17.html
 
 <<verses>>
 
 <<v1>>
-**** Die Eroberung Samarias: 17,1-23
-     :PROPERTIES:
-     :CUSTOM_ID: die-eroberung-samarias-171-23
-     :END:
+* Die Eroberung Samarias: 17,1-23
+
 1 Im zwölften Jahr des Königs Ahas von Juda wurde Hoschea, der Sohn
 Elas, in Samaria König von Israel. Er regierte neun Jahre
 
@@ -38,16 +31,16 @@ ihm unterwerfen und Abgaben entrichten.
 Verschwörung beteiligt war. Er hatte nämlich Boten nach So zum König von
 Ägypten gesandt und die jährliche Abgabe an den König von Assur nicht
 mehr geleistet. Daher ließ ihn dieser festnehmen und ins Gefängnis
-werfen. ^{[[#fn1][1]]}
+werfen. [fn:1]
 
 <<v5>>
 5 Der König von Assur fiel über das ganze Land her, rückte gegen Samaria
-vor und belagerte es drei Jahre lang. ^{[[#fn2][2]]}
+vor und belagerte es drei Jahre lang. [fn:2]
 
 <<v6>>
 6 Im neunten Jahr Hoscheas eroberte er die Stadt, verschleppte die
 Israeliten nach Assur und siedelte sie in Halach, am Habor, einem Fluss
-von Gosan, und in den Städten der Meder an. ^{[[#fn3][3]]}
+von Gosan, und in den Städten der Meder an. [fn:3]
 
 <<v7>>
 7 Das geschah, weil die Israeliten sich gegen den Herrn, ihren Gott,
@@ -91,12 +84,12 @@ ihre Väter, die nicht auf den Herrn, ihren Gott, vertrauten.
 geschlossen hatte, und verschmähten die Warnungen, die er an sie
 richtete. Sie liefen nichtigen Göttern nach und wurden selbst zunichte;
 sie ahmten die Völker ihrer Umgebung nach, obwohl der Herr verboten
-hatte, ihrem Beispiel zu folgen. ^{[[#fn4][4]]}
+hatte, ihrem Beispiel zu folgen. [fn:4]
 
 <<v16>>
 16 Sie übertraten alle Gebote des Herrn, ihres Gottes, schufen sich
 Gussbilder, zwei Kälber, stellten einen Kultpfahl auf, beteten das ganze
-Heer des Himmels an und dienten dem Baal. ^{[[#fn5][5]]}
+Heer des Himmels an und dienten dem Baal. [fn:5]
 
 <<v17>>
 17 Ihre Söhne und Töchter ließen sie durch das Feuer gehen, trieben
@@ -119,7 +112,7 @@ Angesicht.
 <<v21>>
 21 Er hatte Israel vom Haus David losgerissen und sie hatten Jerobeam,
 den Sohn Nebats, als König eingesetzt. Jerobeam aber machte Israel vom
-Herrn abtrünnig und verführte es zu schwerer Sünde. ^{[[#fn6][6]]}
+Herrn abtrünnig und verführte es zu schwerer Sünde. [fn:6]
 
 <<v22>>
 22 Die Israeliten begingen all die Sünden, die Jerobeam begangen hatte,
@@ -133,14 +126,12 @@ Tag.\\
 \\
 
 <<v24>>
-**** Die Umsiedlung der Bevölkerung: 17,24-28
-     :PROPERTIES:
-     :CUSTOM_ID: die-umsiedlung-der-bevölkerung-1724-28
-     :END:
+* Die Umsiedlung der Bevölkerung: 17,24-28
+
 24 Der König von Assur brachte Leute aus Babel, Kuta, Awa, Hamat und
 Sefarwajim in das Land und siedelte sie anstelle der Israeliten in den
 Städten Samariens an. Sie nahmen Samarien in Besitz und ließen sich in
-seinen Städten nieder. ^{[[#fn7][7]]}
+seinen Städten nieder. [fn:7]
 
 <<v25>>
 25 In der ersten Zeit, in der sie dort wohnten, erwiesen sie dem Herrn
@@ -157,8 +148,7 @@ verehren soll.
 <<v27>>
 27 Da befahl der König von Assur: Bringt einen von den Priestern zurück,
 die ihr von dort weggeführt habt. Er soll zu ihnen gehen, bei ihnen
-wohnen und sie belehren, wie man den Landesgott verehren soll.
-^{[[#fn8][8]]}
+wohnen und sie belehren, wie man den Landesgott verehren soll. [fn:8]
 
 <<v28>>
 28 So kam einer von den Priestern zurück, die man aus Samarien
@@ -167,10 +157,8 @@ man den Herrn verehren müsse.\\
 \\
 
 <<v29>>
-**** Die Religion der neuen Bevölkerung: 17,29-41
-     :PROPERTIES:
-     :CUSTOM_ID: die-religion-der-neuen-bevölkerung-1729-41
-     :END:
+* Die Religion der neuen Bevölkerung: 17,29-41
+
 29 Jedes Volk aber schuf sich seine eigenen Götter und stellte sie in
 den Höhentempeln auf, die von den Bewohnern Samariens erbaut worden
 waren. Jedes Volk tat dies in der Stadt, in der es wohnte.
@@ -178,7 +166,7 @@ waren. Jedes Volk tat dies in der Stadt, in der es wohnte.
 <<v30>>
 30 Die Leute aus Babel machten sich Bilder Sukkot-Benots. Die Ansiedler
 aus Kuta stellten Bilder Nergals her. Jene aus Hamat schufen Bilder
-Aschimas. ^{[[#fn9][9]]}
+Aschimas. [fn:9]
 
 <<v31>>
 31 Die Awiter fertigten Bilder des Nibhas und des Tartak an. Die, die
@@ -198,8 +186,7 @@ Bräuchen der Völker, aus denen man sie weggeführt hatte.
 34 Bis zum heutigen Tag handeln sie nach ihren früheren Bräuchen. Sie
 fürchten den Herrn nicht und halten sich nicht an die Satzungen und
 Bräuche, an das Gesetz und die Gebote, auf die der Herr die Nachkommen
-Jakobs, dem er den Namen Israel gegeben hatte, verpflichtet hat.
-^{[[#fn10][10]]}
+Jakobs, dem er den Namen Israel gegeben hatte, verpflichtet hat. [fn:10]
 
 <<v35>>
 35 Der Herr hat nämlich mit ihnen einen Bund geschlossen und ihnen
@@ -234,30 +221,32 @@ Väter getan haben, das tun auch ihre Kinder und Kindeskinder bis zum
 heutigen Tag.\\
 \\
 
-^{[[#fnm1][1]]} So: Name der Stadt Saïs, Sitz der 24. Dynastie.
+* Footnotes
 
-^{[[#fnm2][2]]} 5f: Beide Verse sind Parallelbericht zu V. 3f.
+[fn:1] So: Name der Stadt Saïs, Sitz der 24. Dynastie.
 
-^{[[#fnm3][3]]} Samaria wurde im Spätherbst 722 v. Chr. erobert. Die
+[fn:2] 5f: Beide Verse sind Parallelbericht zu V. 3f.
+
+[fn:3] Samaria wurde im Spätherbst 722 v. Chr. erobert. Die
 Wegführung der Bevölkerung erfolgte erst 720 durch Sargon. Die genannten
 Gegenden liegen im nördlichen Mesopotamien. Medien ist das Bergland
 südwestlich des Kaspischen Meers.
 
-^{[[#fnm4][4]]} ℘ Jer 2,5
+[fn:4] [[file:Jer_2.org::v5][Jer 2,5]]
 
-^{[[#fnm5][5]]} Heer des Himmels: die Sterne, die von den östlichen
+[fn:5] Heer des Himmels: die Sterne, die von den östlichen
 Völkern als Götter verehrt wurden.
 
-^{[[#fnm6][6]]} ℘ 1 Kön 11,31
+[fn:6] [[file:1.Kön_11.org::v31][1 Kön 11,31]]
 
-^{[[#fnm7][7]]} Die neue Bevölkerung kam aus dem Osten und Norden.
+[fn:7] Die neue Bevölkerung kam aus dem Osten und Norden.
 
-^{[[#fnm8][8]]} Er soll zu ihnen gehen: H: Sie sollen . . .
+[fn:8] Er soll zu ihnen gehen: H: Sie sollen ...
 
-^{[[#fnm9][9]]} 30f: Die Aufzählung nennt Namen von weniger oder nicht
+[fn:9] 30f: Die Aufzählung nennt Namen von weniger oder nicht
 bekannten Gottheiten, die vom Volk mehr verehrt wurden als die
 Staatsgottheiten. Nergal ist der Gott der Unterwelt, der Sonnenhitze und
 der Pest.
 
-^{[[#fnm10][10]]} 34b-40a: Einschaltung, die die Schuld der im Land
+[fn:10] 34b-40a: Einschaltung, die die Schuld der im Land
 verbliebenen Israeliten hervorhebt.
