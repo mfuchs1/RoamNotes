@@ -1,19 +1,16 @@
-:PROPERTIES:
-:ID:       435e3128-61d4-47f9-9798-83feeaf99fba
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das erste Buch der Chronik* --
-[[file:1.Chr_1.html][1]] ... [[file:1.Chr_18.html][18]]
-[[file:1.Chr_19.html][19]] *20* [[file:1.Chr_21.html][21]]
-[[file:1.Chr_22.html][22]] ... [[file:1.Chr_29.html][29]]
-
---------------
+#+TITLE: 1 Chr 20 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-20 Mo 23:25]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Chr 20.html
 
 * 1.Chr 20
-  :PROPERTIES:
-  :CUSTOM_ID: chr-20
-  :END:
 
 <<verses>>
 
@@ -33,22 +30,20 @@ Stadt fort.
 3 Auch ihre Einwohner führte er fort und stellte sie an die Steinsägen,
 an die eisernen Spitzhacken und an die eisernen Äxte. So machte er es
 mit allen Städten der Ammoniter. Dann kehrte David mit dem ganzen Heer
-nach Jerusalem zurück. ^{[[#fn1][1]]}\\
+nach Jerusalem zurück. [fn:1]\\
 \\
 
 <<v4>>
-**** Einzelne Heldentaten: 20,4-8
-     :PROPERTIES:
-     :CUSTOM_ID: einzelne-heldentaten-204-8
-     :END:
+* Einzelne Heldentaten: 20,4-8
+
 4 Danach kam es bei Geser wieder zum Kampf mit den Philistern. Damals
 erschlug Sibbechai aus Huscha den Sippai, der zu den Rafaïtern gehörte.
-Die Philister wurden niedergeworfen. ^{[[#fn2][2]][[#fn3][3]]}
+Die Philister wurden niedergeworfen. [fn:2] [fn:3]
 
 <<v5>>
 5 Als es wieder einmal zum Kampf gegen die Philister kam, erschlug
 Elhanan, der Sohn Jaïrs, den Lachmi, den Bruder Goljats aus Gat, dessen
-Speer einem Weberbaum glich. ^{[[#fn4][4]]}
+Speer einem Weberbaum glich. [fn:4]
 
 <<v6>>
 6 Dann kam es noch einmal bei Gat zum Kampf. Da trat ein Mann von
@@ -64,14 +59,16 @@ Bruder Schima.
 und seiner Krieger.\\
 \\
 
-^{[[#fnm1][1]]} David blieb während der Belagerung Rabbas in Jerusalem.
+* Footnotes
+
+[fn:1] David blieb während der Belagerung Rabbas in Jerusalem.
 In diese Zeit fällt sein Vergehen mit Batseba, der Frau des Hetiters
-Urija (vgl. 2 Sam 11,2 - 12,25), über das der Chronist nicht berichtet.
-und stellte sie: Text korr. nach 2 Sam 12,31.
+Urija (vgl. [[file:2.Sam_11.org::v2][2 Sam 11,2]] - [[file:2.Sam_12.org::v25][12,25]]), über das der Chronist nicht berichtet.
+und stellte sie: Text korr. nach [[file:2.Sam_12.org::v31][2 Sam 12,31]].
 
-^{[[#fnm2][2]]} ℘ (4-8) 2 Sam 21,18-22
+[fn:2] (4-8) [[file:2.Sam_21.org::v18][2 Sam 21,18-22]]
 
-^{[[#fnm3][3]]} kam es wieder: Text korr. mit G und 2 Sam 21,18.
+[fn:3] kam es wieder: Text korr. mit G und [[file:2.Sam_21.org::v18][2 Sam 21,18]].
 
-^{[[#fnm4][4]]} Der Chronist will hier den Widerspruch zwischen 1 Sam 17
-und 2 Sam 21,19 ausgleichen.
+[fn:4] Der Chronist will hier den Widerspruch zwischen [[file:1.Sam_17.org][1 Sam 17]]
+und [[file:2.Sam_21.org::v19][2 Sam 21,19]] ausgleichen.
