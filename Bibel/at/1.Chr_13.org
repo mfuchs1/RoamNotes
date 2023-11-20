@@ -1,29 +1,22 @@
-:PROPERTIES:
-:ID:       3a684c7f-2385-413b-b56c-339abfc09e57
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das erste Buch der Chronik* --
-[[file:1.Chr_1.html][1]] ... [[file:1.Chr_11.html][11]]
-[[file:1.Chr_12.html][12]] *13* [[file:1.Chr_14.html][14]]
-[[file:1.Chr_15.html][15]] ... [[file:1.Chr_29.html][29]]
-
---------------
-
-* 1.Chr 13
-  :PROPERTIES:
-  :CUSTOM_ID: chr-13
-  :END:
+#+TITLE: 1 Chr 13 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-20 Mo 10:50]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Chr 13.html
 
 <<verses>>
 
 <<v1>>
-**** Die Überführung der Bundeslade nach Jerusalem: 13,1-14
-     :PROPERTIES:
-     :CUSTOM_ID: die-überführung-der-bundeslade-nach-jerusalem-131-14
-     :END:
+* Die Überführung der Bundeslade nach Jerusalem: 13,1-14
+
 1 David besprach sich mit den Obersten der Tausend- und Hundertschaften
-und mit allen führenden Leuten. ^{[[#fn1][1]]}
+und mit allen führenden Leuten. [fn:1]
 
 <<v2>>
 2 Dann sagte er zur ganzen Versammlung Israels: Wenn ihr einverstanden
@@ -34,7 +27,7 @@ und auf ihren Weideflächen wohnen. Sie sollen sich bei uns versammeln
 
 <<v3>>
 3 und wir wollen die Lade unseres Gottes zu uns heraufholen; denn in den
-Tagen Sauls haben wir uns nicht um sie gekümmert. ^{[[#fn2][2]]}
+Tagen Sauls haben wir uns nicht um sie gekümmert. [fn:2]
 
 <<v4>>
 4 Die ganze Versammlung stimmte dem Vorhaben zu, denn der Plan gefiel
@@ -42,8 +35,7 @@ dem ganzen Volk.
 
 <<v5>>
 5 David versammelte nun ganz Israel vom Schihor in Ägypten bis
-Lebo-Hamat, um die Lade Gottes von Kirjat-Jearim heraufzuholen.
-^{[[#fn3][3]]}
+Lebo-Hamat, um die Lade Gottes von Kirjat-Jearim heraufzuholen. [fn:3]
 
 <<v6>>
 6 Er zog mit ganz Israel nach Baala bei Kirjat-Jearim, das zu Juda
@@ -85,11 +77,13 @@ stellte sie in das Haus Obed-Edoms aus Gat.
 Herr segnete das Haus Obed-Edoms und alles, was ihm gehörte.\\
 \\
 
-^{[[#fnm1][1]]} ℘ (1-14) 2 Sam 6,12-23
+* Footnotes
 
-^{[[#fnm2][2]]} Die Lade war in der Zeit des Priesters Eli von den
-Philistern erbeutet worden (vgl. 1 Sam 4,11). Sie befand sich nach ihrer
-Rückgabe an Israel im Haus Abinadabs in Kirjat-Jearim (vgl. 1 Sam 7,1).
+[fn:1] (1-14) [[file:2.Sam_6.org::v12][2 Sam 6,12-23]]
 
-^{[[#fnm3][3]]} Gemeint ist die Ausdehnung des Landes vom östlichsten
+[fn:2] Die Lade war in der Zeit des Priesters Eli von den
+Philistern erbeutet worden (vgl. [[file:1.Sam_4.org::v11][1 Sam 4,11]]). Sie befand sich nach ihrer
+Rückgabe an Israel im Haus Abinadabs in Kirjat-Jearim (vgl. [[file:1.Sam_7.org::v1][1 Sam 7,1]]).
+
+[fn:3] Gemeint ist die Ausdehnung des Landes vom östlichsten
 Nilarm (Schihor) bis Lebo-Hamat an der syrischen Grenze.

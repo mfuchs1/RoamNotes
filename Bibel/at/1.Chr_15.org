@@ -1,27 +1,20 @@
-:PROPERTIES:
-:ID:       09e51ac6-f444-4daa-a427-5f2d4b731148
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das erste Buch der Chronik* --
-[[file:1.Chr_1.html][1]] ... [[file:1.Chr_13.html][13]]
-[[file:1.Chr_14.html][14]] *15* [[file:1.Chr_16.html][16]]
-[[file:1.Chr_17.html][17]] ... [[file:1.Chr_29.html][29]]
-
---------------
-
-* 1.Chr 15
-  :PROPERTIES:
-  :CUSTOM_ID: chr-15
-  :END:
+#+TITLE: 1 Chr 15 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-20 Mo 11:02]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Chr 15.html
 
 <<verses>>
 
 <<v1>>
-**** Die Überführung der Lade in die Davidstadt: Die Vorbereitungen:
-     :PROPERTIES:
-     :CUSTOM_ID: die-überführung-der-lade-in-die-davidstadt-die-vorbereitungen
-     :END:
+* Die Überführung der Lade in die Davidstadt: Die Vorbereitungen:
+
 1 David baute sich Häuser in der Davidstadt; er richtete auch eine
 Stätte für die Lade Gottes her und stellte ein Zelt für sie auf.
 
@@ -73,7 +66,7 @@ Israels, herauf an den Ort, den ich für sie hergerichtet habe.
 <<v13>>
 13 Weil ihr beim ersten Mal nicht beteiligt wart, hat der Herr, unser
 Gott, Unglück über uns gebracht; denn wir sind nicht auf ihn bedacht
-gewesen, wie es sich gehört hätte. ^{[[#fn1][1]]}
+gewesen, wie es sich gehört hätte. [fn:1]
 
 <<v14>>
 14 Da heiligten sich die Priester und die Leviten, um die Lade des
@@ -81,8 +74,7 @@ Herrn, des Gottes Israels, heraufzubringen.
 
 <<v15>>
 15 Die Leviten hoben die Lade Gottes mit den Tragstangen auf ihre
-Schultern, wie es Mose auf Befehl des Herrn angeordnet hatte.
-^{[[#fn2][2]]}
+Schultern, wie es Mose auf Befehl des Herrn angeordnet hatte. [fn:2]
 
 <<v16>>
 16 Den Vorstehern der Leviten befahl David, sie sollten ihre
@@ -93,20 +85,19 @@ ertönen ließen.
 <<v17>>
 17 Sie stellten daher die Leviten Heman, den Sohn Joëls, und seinen
 Stammesbruder Asaf, den Sohn Berechjas, auf, ferner von den Nachkommen
-Meraris ihren Stammesbruder Etan, den Sohn Kuschajas. ^{[[#fn3][3]]}
+Meraris ihren Stammesbruder Etan, den Sohn Kuschajas. [fn:3]
 
 <<v18>>
 18 Zu ihnen kamen von ihren Brüdern im zweiten Dienstrang: Secharja,
 Jaasiël, Schemiramot, Jehiël, Unni, Eliab, Benaja, Maaseja, Mattitja,
-Elifelehu, Mikneja, Obed-Edom und Jëiël, [die Torwächter].
-^{[[#fn4][4]]}
+Elifelehu, Mikneja, Obed-Edom und Jëiël, [die Torwächter]. [fn:4]
 
 <<v19>>
 19 Die Sänger Heman, Asaf und Etan schlugen die bronzenen Zimbeln.
 
 <<v20>>
 20 Secharja, Jaasiël, Schemiramot, Jehiël, Unni, Eliab, Maaseja und
-Benaja spielten nach elamitischer Weise auf Harfen ^{[[#fn5][5]]}
+Benaja spielten nach elamitischer Weise auf Harfen [fn:5]
 
 <<v21>>
 21 und Mattitja, Elifelehu, Mikneja, Obed-Edom, Jëiël und Asasja in der
@@ -126,13 +117,11 @@ Jehija waren Torwächter für die Lade.\\
 \\
 
 <<v25>>
-**** Der Einzug der Lade: 15,25 - 16,3
-     :PROPERTIES:
-     :CUSTOM_ID: der-einzug-der-lade-1525---163
-     :END:
+* Der Einzug der Lade: 15,25 - 16,3
+
 25 David, die Ältesten Israels und die Führer der Tausendschaften, die
 gegangen waren, um die Bundeslade des Herrn aus dem Haus Obed-Edoms
-heraufzuholen, waren voller Freude. ^{[[#fn6][6]]}
+heraufzuholen, waren voller Freude. [fn:6]
 
 <<v26>>
 26 Damit Gott den Leviten, die die Bundeslade des Herrn trugen,
@@ -153,17 +142,18 @@ Trompeten und Zimbeln, beim Spiel der Harfen und Zithern.
 Sauls Tochter, aus dem Fenster, und als sie sah, wie König David hüpfte
 und tanzte, verachtete sie ihn in ihrem Herzen.
 
-^{[[#fnm1][1]]} 13-15: Der Chronist sieht im Berühren der Lade durch
-Laien ein Vergehen gegen Num 4,15.
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ Num 7,9
+[fn:1] 13-15: Der Chronist sieht im Berühren der Lade durch
+Laien ein Vergehen gegen [[file:Num_4.org::v15][Num 4,15]].
 
-^{[[#fnm3][3]]} Von der Abstammung der Sänger berichtet 6,16-32.
+[fn:2] [[file:Num_7.org::v9][Num 7,9]]
 
-^{[[#fnm4][4]]} Secharja, Jaasiël: Text korr.; H: Secharja, Sohn
-Jaasiëls.
+[fn:3] Von der Abstammung der Sänger berichtet [[file:2.Chr_6.org::v16][6,16-32]].
 
-^{[[#fnm5][5]]} 20f: Die Bedeutung der Ausdrücke «nach elamitischer
+[fn:4] Secharja, Jaasiël: Text korr.; H: Secharja, Sohn Jaasiëls.
+
+[fn:5] 20f: Die Bedeutung der Ausdrücke «nach elamitischer
 Weise» und «in der achten Stufe» ist unklar.
 
-^{[[#fnm6][6]]} ℘ (25-16,2) 2 Sam 6,12-19
+[fn:6] (25-16,2) [[file:2.Sam_6.org::v12][2 Sam 6,12-19]]

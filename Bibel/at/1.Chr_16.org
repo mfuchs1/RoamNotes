@@ -1,19 +1,16 @@
-:PROPERTIES:
-:ID:       d3900967-91be-41c6-af4f-61acf3fcfdb4
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das erste Buch der Chronik* --
-[[file:1.Chr_1.html][1]] ... [[file:1.Chr_14.html][14]]
-[[file:1.Chr_15.html][15]] *16* [[file:1.Chr_17.html][17]]
-[[file:1.Chr_18.html][18]] ... [[file:1.Chr_29.html][29]]
-
---------------
+#+TITLE: 1 Chr 16 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-20 Mo 11:07]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Chr 16.html
 
 * 1.Chr 16
-  :PROPERTIES:
-  :CUSTOM_ID: chr-16
-  :END:
 
 <<verses>>
 
@@ -32,10 +29,8 @@ einen Dattelkuchen und einen Traubenkuchen austeilen.\\
 \\
 
 <<v4>>
-**** Das Loblied Davids: 16,4-36
-     :PROPERTIES:
-     :CUSTOM_ID: das-loblied-davids-164-36
-     :END:
+* Das Loblied Davids: 16,4-36
+
 4 David bestellte für den Dienst vor der Lade des Herrn Leviten, die den
 Herrn, den Gott Israels, rühmen, loben und preisen sollten.
 
@@ -55,7 +50,7 @@ diesen Lobpreis zur Ehre des Herrn vortragen:\\
 
 <<v8>>
 8 Dankt dem Herrn! Ruft seinen Namen an! /\\
- Macht unter den Völkern seine Taten bekannt! ^{[[#fn1][1]]}\\
+ Macht unter den Völkern seine Taten bekannt! [fn:1]\\
 \\
 
 <<v9>>
@@ -131,7 +126,7 @@ diesen Lobpreis zur Ehre des Herrn vortragen:\\
 
 <<v23>>
 23 Singt dem Herrn, alle Länder der Erde! /\\
- Verkündet sein Heil von Tag zu Tag! ^{[[#fn2][2]]}\\
+ Verkündet sein Heil von Tag zu Tag! [fn:2]\\
 \\
 
 <<v24>>
@@ -187,14 +182,14 @@ diesen Lobpreis zur Ehre des Herrn vortragen:\\
 
 <<v34>>
 34 Danket dem Herrn, denn er ist gütig, /\\
- denn seine Huld währt ewig. ^{[[#fn3][3]]}\\
+ denn seine Huld währt ewig. [fn:3]\\
 \\
 
 <<v35>>
 35 Sagt: Hilf uns, du Gott unsres Heils, /\\
  führe uns zusammen, rette uns vor den Völkern! Wir wollen deinen
 heiligen Namen preisen, /\\
- uns rühmen, weil wir dich loben dürfen. ^{[[#fn4][4]]}\\
+ uns rühmen, weil wir dich loben dürfen. [fn:4]\\
 \\
 
 <<v36>>
@@ -204,17 +199,14 @@ Lob sei dem Herrn.\\
 \\
 
 <<v37>>
-**** Der Gottesdienst in Jerusalem und in Gibeon: 16,37-43
-     :PROPERTIES:
-     :CUSTOM_ID: der-gottesdienst-in-jerusalem-und-in-gibeon-1637-43
-     :END:
+* Der Gottesdienst in Jerusalem und in Gibeon: 16,37-43
+
 37 Auf Befehl Davids blieben Asaf und seine Brüder vor der Bundeslade
-des Herrn, um dauernd den täglichen Dienst bei ihr zu verrichten.
-^{[[#fn5][5]]}
+des Herrn, um dauernd den täglichen Dienst bei ihr zu verrichten. [fn:5]
 
 <<v38>>
 38 Bei ihnen waren Obed-Edom und seine Brüder, achtundsechzig Mann.
-Obed-Edom, der Sohn Jedutuns, und Hosa waren Torwächter. ^{[[#fn6][6]]}
+Obed-Edom, der Sohn Jedutuns, und Hosa waren Torwächter. [fn:6]
 
 <<v39>>
 39 Dem Priester Zadok aber und seinen Amtsbrüdern, den Priestern,
@@ -238,25 +230,27 @@ bestellt.
 
 <<v43>>
 43 Dann ging das ganze Volk wieder nach Hause. Auch David ging heim, um
-seine Familie zu begrüßen. ^{[[#fn7][7]]}\\
+seine Familie zu begrüßen. [fn:7]\\
 \\
 
-^{[[#fnm1][1]]} ℘ (8-22) Ps 105,1-15
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ (23-33) Ps 96,1-13
+[fn:1] (8-22) [[file:Ps_105.org::v1][Ps 105,1-15]]
 
-^{[[#fnm3][3]]} ℘ Ps 106,1
+[fn:2] (23-33) [[file:Ps_96.org::v1][Ps 96,1-13]]
 
-^{[[#fnm4][4]]} ℘ (35-36) Ps 106,47f
+[fn:3] [[file:Ps_106.org::v1][Ps 106,1]]
 
-^{[[#fnm5][5]]} 37-41: Nach Chr wurde der liturgische Dienst fortan
+[fn:4] (35-36) [[file:Ps_106.org::v47][Ps 106,47f]]
+
+[fn:5] 37-41: Nach Chr wurde der liturgische Dienst fortan
 sowohl vor der Bundeslade in Jerusalem als auch vor dem Zelt in Gibeon
-vollzogen. Als Sänger wirkten Heman und Jedutun (= Etan, vgl. 15,17) in
+vollzogen. Als Sänger wirkten Heman und Jedutun (= Etan, vgl. [[file:1.Chr_15.org::v17][15,17]]) in
 Gibeon, Asaf in Jerusalem. Da Zadok für den Opferdienst in Gibeon
 bestellt war, ist anzunehmen, dass Abjatar in Jerusalem wirkte.
 
-^{[[#fnm6][6]]} Chr unterscheidet den Sänger Obed-Edom (15,18.21; 16,5)
-vom Torhüter gleichen Namens (15,24; 16,38; 26,4) und dem
-Nichtisraeliten aus Gat (13,13f).
+[fn:6] Chr unterscheidet den Sänger Obed-Edom ([[file:1.Chr_15.org::v18][15,18]].[[file:1.Chr_15.org::v21][21]]; [[v5][16,5]])
+vom Torhüter gleichen Namens ([[file:1.Chr_15.org::v24][15,24]]; [[v38][16,38]]; [[file:1.Chr_26.org::v4][26,4]]) und dem
+Nichtisraeliten aus Gat ([[file:1.Chr_13.org::v13][13,13f]]).
 
-^{[[#fnm7][7]]} ℘ 2 Sam 6,19f
+[fn:7] [[file:2.Sam_6.org::v19][2 Sam 6,19f]]

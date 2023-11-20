@@ -20,20 +20,8 @@
 * 4a 10:40-11:30
 <%%(org-class 2023 9 11 2024 7 5 1 44)>
 
-[[denote:20230711T003559][[SW09] Hinduismus]]
+Gruppenarbeit von letzter Stunde weiter...
 
-[[denote:20230711T003636][[SW10] Buddhismus]]
-
-Hefteintrag über Hinduismus und Buddhismus fertig stellen (Hefte einsammeln)
-Klasse (allgemein / einzelne Schüler?) ist im Moment im Null-Bock-Modus.
-
-Hab Hefte angeschaut:
-- Lena: großartig!
-- Nico: es fehlt so gut wie alles!
-- Arthur: Form ist nicht so schön; inhaltlich passt es.
-- Adrian: es fehlt alles.
-- Luis: ebenso.
-- alle anderen: sehr gut, inhaltlich und Form ist sehr gut. ordentlich, sauber. Man sieht das Bemühen.
 
 
 * 4a 08:40-09:30
@@ -43,7 +31,7 @@ Gruppenarbeit:
 - Anna + Hannah: Weihnachten (NT, Bräuche, Geschichte)
 - Lena: Edith Stein
 - Arthur: Ostern (NT / AT; Bräuche)
-- Nico, Adrian, Luis: Anne Frank
+- Nico, Adrian, Luis: Anne Frank 
 - Christina, Kristina, Emma: Hl. Nikolaus
 - Stefan, Thomas, Manuel: Krampus + Perchten
 - Andre-Leon: Kreuzzüge

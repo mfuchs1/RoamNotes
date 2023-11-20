@@ -147,10 +147,13 @@ Ich hab einen Weg gefunden: ein bash script lädt den google Kalender herunter u
 
 Für die Richtung org-agenda nach Google Kalender exportieren: über ~org-capture~ erfasse ich einen Termin, etc. Diese Datei ist nicht Teil der ~org-agenda-files~. Über einen Befehl kann ich diese Datei in ein ics-Format exportieren und dieses schließlich in Google Kalender importieren. Ist umständlicher als mit ~org-gcal~, aber hier muss ich keine Passwörter eingeben, etc...
 
-* TODO [#A] Schoolfox Elternsprechtag
-DEADLINE: <2023-11-19 So 20:00>
+* DONE [#A] Schoolfox Elternsprechtag
+CLOSED: [2023-11-20 Mo 09:40] DEADLINE: <2023-11-19 So 20:00>
 :PROPERTIES:
 :CAPTURED: [2023-11-14 Di 16:25]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-11-20 Mo 09:40]
 :END:
 
 [[denote:20231114T160144]]

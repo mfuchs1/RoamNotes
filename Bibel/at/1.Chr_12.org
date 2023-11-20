@@ -1,30 +1,23 @@
-:PROPERTIES:
-:ID:       fb1b9415-d752-4f49-9ffd-6621a4c5fd44
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das erste Buch der Chronik* --
-[[file:1.Chr_1.html][1]] ... [[file:1.Chr_10.html][10]]
-[[file:1.Chr_11.html][11]] *12* [[file:1.Chr_13.html][13]]
-[[file:1.Chr_14.html][14]] ... [[file:1.Chr_29.html][29]]
-
---------------
-
-* 1.Chr 12
-  :PROPERTIES:
-  :CUSTOM_ID: chr-12
-  :END:
+#+TITLE: 1 Chr 12 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-20 Mo 09:26]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Chr 12.html
 
 <<verses>>
 
 <<v1>>
-**** Das dritte Verzeichnis von Anhängern Davids: 12,1-23
-     :PROPERTIES:
-     :CUSTOM_ID: das-dritte-verzeichnis-von-anhängern-davids-121-23
-     :END:
+* Das dritte Verzeichnis von Anhängern Davids: 12,1-23
+
 1 Diese sind es, die zu David nach Ziklag kamen, als er sich noch von
 Saul, dem Sohn des Kisch, fernhalten musste. Sie gehörten zu den Helden,
-die ihn im Kampf unterstützten. ^{[[#fn1][1]]}
+die ihn im Kampf unterstützten. [fn:1]
 
 <<v2>>
 2 Sie waren mit dem Bogen ausgerüstet und konnten mit der rechten und
@@ -53,8 +46,7 @@ Jesiël und Pelet, die Söhne Asmawets, Beracha und Jehu aus Anatot,
 <<v9>>
 9 Auch Gaditer traten zu David über und kamen in die Bergfestung in der
 Wüste. Sie waren tapfere Helden, kampfgeübte Krieger mit Schild und
-Lanze, waren wie Löwen anzusehen und flink wie Gazellen auf den Bergen.
-^{[[#fn2][2]]}
+Lanze, waren wie Löwen anzusehen und flink wie Gazellen auf den Bergen. [fn:2]
 
 <<v10>>
 10 Eser war der erste, Obadja der zweite, Eliab der dritte,
@@ -103,7 +95,7 @@ David auf und reihte sie ein unter die Anführer seiner Schar.
 Heer der Philister gegen Saul in den Krieg, brachte ihnen aber keine
 Hilfe, da ihn die Fürsten der Philister nach einer Beratung
 wegschickten. Sie sagten nämlich: Er könnte um den Preis unserer Köpfe
-zu seinem Herrn, zu Saul, übergehen. ^{[[#fn3][3]][[#fn4][4]]}
+zu seinem Herrn, zu Saul, übergehen. [fn:3] [fn:4]
 
 <<v21>>
 21 David kehrte daher nach Ziklag zurück. Zu dieser Zeit stießen von
@@ -120,10 +112,8 @@ ein großes Heerlager gleich einem Heerlager Gottes.\\
 \\
 
 <<v24>>
-**** Die Gefolgschaft bei der Thronerhebung in Hebron:
-     :PROPERTIES:
-     :CUSTOM_ID: die-gefolgschaft-bei-der-thronerhebung-in-hebron
-     :END:
+* Die Gefolgschaft bei der Thronerhebung in Hebron:
+
 24 Das sind die Zahlen aller wehrfähigen Männer, die zu David nach
 Hebron kamen, um ihm nach dem Wort des Herrn das Königtum Sauls zu
 übertragen:
@@ -196,15 +186,17 @@ Wein, Öl und eine große Menge Rinder und Schafe; denn es herrschte
 Freude in Israel.\\
 \\
 
-^{[[#fnm1][1]]} Um sich der Verfolgung durch Saul zu entziehen, war
+* Footnotes
+
+[fn:1] Um sich der Verfolgung durch Saul zu entziehen, war
 David zum Philisterkönig Achisch übergetreten, der ihm die Stadt Ziklag,
-nördlich von Beerscheba, als Aufenthalt zuwies (vgl. 1 Sam 27,6).
+nördlich von Beerscheba, als Aufenthalt zuwies (vgl. [[file:1.Sam_27.org::v6][1 Sam 27,6]]).
 
-^{[[#fnm2][2]]} Vor seinem Übertritt zu den Philistern hielt sich David
+[fn:2] Vor seinem Übertritt zu den Philistern hielt sich David
 längere Zeit in der Bergfestung Adullam, südwestlich von Betlehem, auf
-und sammelte Anhänger um sich (vgl. 1 Sam 22,1).
+und sammelte Anhänger um sich (vgl. [[file:1.Sam_22.org::v1][1 Sam 22,1]]).
 
-^{[[#fnm3][3]]} ℘ 1 Sam 29
+[fn:3] [[file:1.Sam_29.org][1 Sam 29]]
 
-^{[[#fnm4][4]]} (David) brachte . . . keine Hilfe: Text korr.; H: sie
+[fn:4] (David) brachte . . . keine Hilfe: Text korr.; H: sie
 brachten . . . keine Hilfe.

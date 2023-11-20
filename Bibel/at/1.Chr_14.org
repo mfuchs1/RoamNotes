@@ -1,30 +1,23 @@
-:PROPERTIES:
-:ID:       f9df6427-c0a0-4c5a-ae7b-2e762caf9697
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das erste Buch der Chronik* --
-[[file:1.Chr_1.html][1]] ... [[file:1.Chr_12.html][12]]
-[[file:1.Chr_13.html][13]] *14* [[file:1.Chr_15.html][15]]
-[[file:1.Chr_16.html][16]] ... [[file:1.Chr_29.html][29]]
-
---------------
-
-* 1.Chr 14
-  :PROPERTIES:
-  :CUSTOM_ID: chr-14
-  :END:
+#+TITLE: 1 Chr 14 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-20 Mo 10:58]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Chr 14.html
 
 <<verses>>
 
 <<v1>>
-**** Das Erstarken des Königtums: 14,1-7
-     :PROPERTIES:
-     :CUSTOM_ID: das-erstarken-des-königtums-141-7
-     :END:
+* Das Erstarken des Königtums: 14,1-7
+
 1 Hiram, der König von Tyrus, schickte eine Gesandtschaft zu David und
 ließ ihm Zedernholz überbringen; auch Maurer und Zimmerleute schickte
-er, die ihm einen Palast bauen sollten. ^{[[#fn1][1]]}
+er, die ihm einen Palast bauen sollten. [fn:1]
 
 <<v2>>
 2 So erkannte David, dass ihn der Herr als König von Israel bestätigt
@@ -37,7 +30,7 @@ und Töchter.
 
 <<v4>>
 4 Das sind die Namen der Söhne, die ihm in Jerusalem geboren wurden:
-Schima, Schobab, Natan, Salomo, ^{[[#fn2][2]]}
+Schima, Schobab, Natan, Salomo, [fn:2]
 
 <<v5>>
 5 Jibhar, Elischua, Elpelet,
@@ -50,13 +43,11 @@ Schima, Schobab, Natan, Salomo, ^{[[#fn2][2]]}
 \\
 
 <<v8>>
-**** Krieg mit den Philistern: 14,8-17
-     :PROPERTIES:
-     :CUSTOM_ID: krieg-mit-den-philistern-148-17
-     :END:
+* Krieg mit den Philistern: 14,8-17
+
 8 Die Philister hörten, dass David zum König von ganz Israel gesalbt
 worden war. Da zogen alle herauf, um David gefangen zu nehmen. David
-erfuhr davon und zog ihnen entgegen. ^{[[#fn3][3]]}
+erfuhr davon und zog ihnen entgegen. [fn:3]
 
 <<v9>>
 9 Als die Philister herankamen und in der Rafaïterebene umherstreiften,
@@ -98,8 +89,10 @@ Philister (im ganzen Gebiet) von Gibeon bis Geser.
 ihm auf alle Völker.\\
 \\
 
-^{[[#fnm1][1]]} ℘ (1-7) 2 Sam 5,11-16
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ (4-7) 3,5-8
+[fn:1] (1-7) [[file:2.Sam_5.org::v11][2 Sam 5,11-16]]
 
-^{[[#fnm3][3]]} ℘ (8-17) 2 Sam 5,17-25
+[fn:2] (4-7) [[file:2.Chr_3.org::v5][3,5-8]]
+
+[fn:3] (8-17) [[file:2.Sam_5.org::v17][2 Sam 5,17-25]]

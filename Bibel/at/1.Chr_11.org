@@ -1,29 +1,22 @@
-:PROPERTIES:
-:ID:       e38ad655-9eec-45ec-8d8f-87bf1b41284a
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das erste Buch der Chronik* --
-[[file:1.Chr_1.html][1]] ... [[file:1.Chr_9.html][9]]
-[[file:1.Chr_10.html][10]] *11* [[file:1.Chr_12.html][12]]
-[[file:1.Chr_13.html][13]] ... [[file:1.Chr_29.html][29]]
-
---------------
-
-* 1.Chr 11
-  :PROPERTIES:
-  :CUSTOM_ID: chr-11
-  :END:
+#+TITLE: 1 Chr 11 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-20 Mo 09:20]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Chr 11.html
 
 <<verses>>
 
 <<v1>>
-**** Die Anerkennung Davids als König: 11,1-3
-     :PROPERTIES:
-     :CUSTOM_ID: die-anerkennung-davids-als-könig-111-3
-     :END:
+* Die Anerkennung Davids als König: 11,1-3
+
 1 Ganz Israel versammelte sich bei David in Hebron und sagte: Wir sind
-doch dein Fleisch und Bein. ^{[[#fn1][1]][[#fn2][2]]}
+doch dein Fleisch und Bein. [fn:1] [fn:2]
 
 <<v2>>
 2 Schon früher, als Saul noch König war, hast du Israel in den Kampf und
@@ -35,16 +28,14 @@ Volkes Israel werden.
 3 Alle Ältesten Israels kamen zum König nach Hebron; David schloss mit
 ihnen in Hebron einen Vertrag vor dem Herrn und sie salbten David zum
 König von Israel gemäß dem Wort, das der Herr durch Samuel verkündet
-hatte. ^{[[#fn3][3]]}\\
+hatte. [fn:3]\\
 \\
 
 <<v4>>
-**** Die Eroberung Jerusalems: 11,4-9
-     :PROPERTIES:
-     :CUSTOM_ID: die-eroberung-jerusalems-114-9
-     :END:
+* Die Eroberung Jerusalems: 11,4-9
+
 4 David zog mit ganz Israel nach Jerusalem, das ist Jebus. Dort saßen
-noch die Jebusiter, die damals im Land wohnten. ^{[[#fn4][4]]}
+noch die Jebusiter, die damals im Land wohnten. [fn:4]
 
 <<v5>>
 5 Die Jebusiter aber sagten zu David: Du wirst nicht in die Stadt
@@ -69,18 +60,16 @@ Joab die übrige Stadt wiederherstellte.
 \\
 
 <<v10>>
-**** Davids Helden: 11,10-19
-     :PROPERTIES:
-     :CUSTOM_ID: davids-helden-1110-19
-     :END:
+* Davids Helden: 11,10-19
+
 10 Das sind die Obersten der Helden Davids, die mit ganz Israel in der
 Sache des Königtums fest zu ihm hielten, um ihn nach dem Wort des Herrn
-zum König von Israel zu machen. ^{[[#fn5][5]]}
+zum König von Israel zu machen. [fn:5]
 
 <<v11>>
 11 Das ist das Verzeichnis der Helden Davids: Jaschobam, der Sohn
 Hachmonis, war das Haupt der Drei; er schwang seine Lanze über
-dreihundert Männer und erschlug sie alle auf einmal. ^{[[#fn6][6]]}
+dreihundert Männer und erschlug sie alle auf einmal. [fn:6]
 
 <<v12>>
 12 Nach ihm kommt der Ahoachiter Eleasar, der Sohn Dodos.
@@ -88,7 +77,7 @@ dreihundert Männer und erschlug sie alle auf einmal. ^{[[#fn6][6]]}
 <<v13>>
 13 Er war bei David, als die Philister sich bei Pas-Dammim zum Kampf
 sammelten. Dort war ein Gerstenfeld. Als das Volk vor den Philistern
-floh, ^{[[#fn7][7]]}
+floh, [fn:7]
 
 <<v14>>
 14 stellte er sich mitten in das Feld, behauptete es und schlug die
@@ -121,13 +110,11 @@ nicht trinken. Eine solche Tat vollbrachten die drei Helden.\\
 \\
 
 <<v20>>
-**** Weitere Helden Davids: 11,20-47
-     :PROPERTIES:
-     :CUSTOM_ID: weitere-helden-davids-1120-47
-     :END:
+* Weitere Helden Davids: 11,20-47
+
 20 Joabs Bruder Abischai war der Anführer der Dreißig. Er schwang seinen
 Speer über dreihundert Männer und erschlug sie; er hatte bei den drei
-Helden einen großen Namen. ^{[[#fn8][8]][[#fn9][9]]}
+Helden einen großen Namen. [fn:8] [fn:9]
 
 <<v21>>
 21 Unter den Dreißig war er hoch geehrt und er wurde ihr Anführer, aber
@@ -155,7 +142,7 @@ nicht heran. David stellte ihn an die Spitze seiner Leibwache.
 
 <<v26>>
 26 Tapfere Helden waren Joabs Bruder Asaël, Elhanan aus Betlehem, der
-Sohn Dodos, ^{[[#fn10][10]]}
+Sohn Dodos, [fn:10]
 
 <<v27>>
 27 Schammot aus Harod, Helez aus Bet-Pelet,
@@ -224,30 +211,31 @@ der Moabiter,
 47 Eliël, Obed und Jaasiël aus Zoba.\\
 \\
 
-^{[[#fnm1][1]]} ℘ (1-3) 2 Sam 5,1-3
+* Footnotes
 
-^{[[#fnm2][2]]} dein Fleisch und Bein: vgl. die Anmerkung zu Gen
-2,21-23.
+[fn:1] (1-3) [[file:2.Sam_5.org::v1][2 Sam 5,1-3]]
 
-^{[[#fnm3][3]]} ℘ 1 Sam 16
+[fn:2] dein Fleisch und Bein: vgl. die Anmerkung zu [[file:Gen_2.org::v21][Gen 2,21-23]].
 
-^{[[#fnm4][4]]} ℘ (4-9) 2 Sam 5,6-10
+[fn:3] [[file:1.Sam_16.org::v1][1 Sam 16]]
 
-^{[[#fnm5][5]]} ℘ (10-19) 2 Sam 23,8-17
+[fn:4] (4-9) [[file:2.Sam_5.org::v6][2 Sam 5,6-10]]
 
-^{[[#fnm6][6]]} Jaschobam ist wohl absichtliche Entstellung des Namens
-Jischbaal (vgl. 2 Sam 23,8). - drei: H: dreißig. Es gab einen
+[fn:5] (10-19) [[file:2.Sam_23.org::v8][2 Sam 23,8-17]]
+
+[fn:6] Jaschobam ist wohl absichtliche Entstellung des Namens
+Jischbaal (vgl. [[file:2.Sam_23.org::v8][2 Sam 23,8]]). - drei: H: dreißig. Es gab einen
 Heldenkreis mit drei und einen größeren mit dreißig Männern.
 
-^{[[#fnm7][7]]} In H sind einige Sätze verloren gegangen, sodass der
+[fn:7] In H sind einige Sätze verloren gegangen, sodass der
 Name des dritten Helden, Schamma, wegfiel und seine Leistungen auf den
-zweiten übertragen wurden. Sam 23,9-12 ist der volle Wortlaut noch
-erhalten. Gerste: in 2 Sam 23,11: Linsen.
+zweiten übertragen wurden. [[file:2.Sam_23.org::v9][2 Sam 23,9-12]] ist der volle Wortlaut noch
+erhalten. Gerste: in [[file:2.Sam_23.org::v11][2 Sam 23,11]]: Linsen.
 
-^{[[#fnm8][8]]} ℘ (20-47) 2 Sam 23,18-39
+[fn:8] (20-47) [[file:2.Sam_23.org::v18][2 Sam 23,18-39]]
 
-^{[[#fnm9][9]]} 20f: dreißig: in H zu «drei» verschrieben.
+[fn:9] 20f: dreißig: in H zu «drei» verschrieben.
 
-^{[[#fnm10][10]]} 26-47: Die Namen sind teilweise durch Schreibfehler
-entstellt. Die Korrekturen stützen sich zumeist auf 2 Sam und G. In 2
-Sam schließt die Liste mit Urija; Chr fügt sechzehn weitere Namen hinzu.
+[fn:10] 26-47: Die Namen sind teilweise durch Schreibfehler
+entstellt. Die Korrekturen stützen sich zumeist auf 2 Sam und G.
+In [[file:2.Sam_1.org][2 Sam]] schließt die Liste mit Urija; Chr fügt sechzehn weitere Namen hinzu.

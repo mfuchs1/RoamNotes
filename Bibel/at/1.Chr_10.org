@@ -1,34 +1,24 @@
-:PROPERTIES:
-:ID:       f079bd98-ab49-4a88-a9f3-191325d981ac
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das erste Buch der Chronik* --
-[[file:1.Chr_1.html][1]] ... [[file:1.Chr_8.html][8]]
-[[file:1.Chr_9.html][9]] *10* [[file:1.Chr_11.html][11]]
-[[file:1.Chr_12.html][12]] ... [[file:1.Chr_29.html][29]]
-
---------------
-
-* 1.Chr 10
-  :PROPERTIES:
-  :CUSTOM_ID: chr-10
-  :END:
+#+TITLE: 1 Chr 10 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-20 Mo 09:16]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Chr 10.html
 
 <<verses>>
 
 <<v1>>
-** Die Geschichte Davids: 10,1 - 29,30
-   :PROPERTIES:
-   :CUSTOM_ID: die-geschichte-davids-101---2930
-   :END:
-**** Das Ende Sauls: 10,1-14
-     :PROPERTIES:
-     :CUSTOM_ID: das-ende-sauls-101-14
-     :END:
+* Die Geschichte Davids: 10,1 - 29,30
+
+* Das Ende Sauls: 10,1-14
+
 1 Als die Philister gegen Israel kämpften, flohen die Israeliten vor
-ihnen. Viele waren gefallen und lagen erschlagen auf dem Gebirge Gilboa.
-^{[[#fn1][1]]}
+ihnen. Viele waren gefallen und lagen erschlagen auf dem Gebirge Gilboa. [fn:1]
 
 <<v2>>
 2 Die Philister verfolgten Saul und seine Söhne und erschlugen Sauls
@@ -50,7 +40,7 @@ sein Schwert und starb.
 
 <<v6>>
 6 So kamen Saul und seine drei Söhne ums Leben; sein ganzes Haus starb
-mit ihm. ^{[[#fn2][2]]}
+mit ihm. [fn:2]
 
 <<v7>>
 7 Als die Israeliten in der Ebene (Jesreel) sahen, dass die Krieger
@@ -70,11 +60,11 @@ Siegesnachricht zu übermitteln.
 
 <<v10>>
 10 Die Rüstung Sauls legten sie im Tempel ihrer Götter nieder. Seinen
-Kopf aber hefteten sie an den Tempel des Dagon. ^{[[#fn3][3]]}
+Kopf aber hefteten sie an den Tempel des Dagon. [fn:3]
 
 <<v11>>
 11 Als die Einwohner von Jabesch-Gilead hörten, was die Philister mit
-Saul gemacht hatten, ^{[[#fn4][4]]}
+Saul gemacht hatten, [fn:4]
 
 <<v12>>
 12 brachen alle kriegstüchtigen Männer auf, nahmen die Leiche Sauls und
@@ -85,21 +75,23 @@ lang.
 <<v13>>
 13 So starb Saul wegen der Treulosigkeit, die er gegen den Herrn
 begangen hatte. Er hatte das Wort des Herrn nicht befolgt und den
-Totengeist befragt, um Auskunft zu suchen; ^{[[#fn5][5]]}
+Totengeist befragt, um Auskunft zu suchen; [fn:5]
 
 <<v14>>
 14 an den Herrn aber hatte er sich nicht gewandt. Darum ließ er ihn
 sterben und übergab das Königtum David, dem Sohn Isais.\\
 \\
 
-^{[[#fnm1][1]]} ℘ (1-12) 1 Sam 31,1-13
+* Footnotes
 
-^{[[#fnm2][2]]} In 8,29-38 werden zwar noch zwölf Generationen nach Saul
+[fn:1] (1-12) [[file:1.Sam_31.org::v1][1 Sam 31,1-13]]
+
+[fn:2] In [[file:1.Chr_8.org::v29][8,29-38]] werden zwar noch zwölf Generationen nach Saul
 erwähnt. Da sie aber unbedeutend blieben, kann V. 6 sagen, dass mit Saul
 sein ganzes Haus, d.h. seine Dynastie, ausstarb.
 
-^{[[#fnm3][3]]} Zu Dagon vgl. die Anmerkung zu 1 Sam 5,2.
+[fn:3] Zu Dagon vgl. die Anmerkung zu [[file:1.Sam_5.org::v2][1 Sam 5,2]].
 
-^{[[#fnm4][4]]} ℘ 1 Sam 11
+[fn:4] [[file:1.Sam_11.org::v1][1 Sam 11]]
 
-^{[[#fnm5][5]]} ℘ 1 Sam 15,19; 28,8-19
+[fn:5] [[file:1.Sam_15.org::v19][1 Sam 15,19]]; [[file:1.Sam_28.org::v8][28,8-19]]
