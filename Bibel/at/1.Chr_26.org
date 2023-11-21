@@ -1,27 +1,20 @@
-:PROPERTIES:
-:ID:       0664aa3d-eafa-47a7-992e-cf9588bedbf6
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das erste Buch der Chronik* --
-[[file:1.Chr_1.html][1]] ... [[file:1.Chr_24.html][24]]
-[[file:1.Chr_25.html][25]] *26* [[file:1.Chr_27.html][27]]
-[[file:1.Chr_28.html][28]] [[file:1.Chr_29.html][29]]
-
---------------
-
-* 1.Chr 26
-  :PROPERTIES:
-  :CUSTOM_ID: chr-26
-  :END:
+#+TITLE: 1 Chr 26 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-21 Di 21:51]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Chr 26.html
 
 <<verses>>
 
 <<v1>>
-**** Die Torwächter: 26,1-19
-     :PROPERTIES:
-     :CUSTOM_ID: die-torwächter-261-19
-     :END:
+* Die Torwächter: 26,1-19
+
 1 Bei den Abteilungen der Torwächter gehörte Meschelemja, der Sohn
 Kores, ein Nachkomme Abiasafs, zu den Korachitern.
 
@@ -46,8 +39,7 @@ in ihren Großfamilien, denn sie waren tüchtige Männer.
 
 <<v7>>
 7 Die Söhne Schemajas waren Otni, Refaël und Obed. Die Söhne seines
-Bruders Elsabad waren Elihu und Semachja, ebenfalls tüchtige Männer.
-^{[[#fn1][1]]}
+Bruders Elsabad waren Elihu und Semachja, ebenfalls tüchtige Männer. [fn:1]
 
 <<v8>>
 8 Diese alle waren Nachkommen Obed-Edoms. Sie selbst, ihre Söhne und
@@ -85,15 +77,15 @@ Nordtor.
 
 <<v16>>
 16 Auf Hosa traf das Westtor mit dem Schallechettor an der aufsteigenden
-Straße. Eine Wache entsprach der andern. ^{[[#fn2][2]]}
+Straße. Eine Wache entsprach der andern. [fn:2]
 
 <<v17>>
 17 Im Osten standen täglich sechs Posten, im Norden täglich vier, im
-Süden täglich vier, an den Vorratskammern je zwei. ^{[[#fn3][3]]}
+Süden täglich vier, an den Vorratskammern je zwei. [fn:3]
 
 <<v18>>
 18 Am Parbar im Westen waren vier für die Straße und zwei für den Parbar
-bestimmt. ^{[[#fn4][4]]}
+bestimmt. [fn:4]
 
 <<v19>>
 19 Das waren die Abteilungen der Torwächter aus den Nachkommen der
@@ -101,17 +93,14 @@ Korachiter und den Nachkommen Meraris.\\
 \\
 
 <<v20>>
-**** Die Aufseher über die Schatzkammern: 26,20-28
-     :PROPERTIES:
-     :CUSTOM_ID: die-aufseher-über-die-schatzkammern-2620-28
-     :END:
+* Die Aufseher über die Schatzkammern: 26,20-28
+
 20 Einige von den Leviten, ihren Stammesbrüdern, wachten über die
-Schätze des Hauses Gottes und über die Schätze aus den Weihegaben.
-^{[[#fn5][5]]}
+Schätze des Hauses Gottes und über die Schätze aus den Weihegaben. [fn:5]
 
 <<v21a>>
 21a Es waren dies die Söhne Ladans, eines Nachkommen Gerschons, nämlich
-Jehiël ^{[[#fn6][6]][[#fn7][7]]}
+Jehiël [fn:6] [fn:7]
 
 <<v22a>>
 22a mit seinen Söhnen sowie Setam und sein Bruder Joël.
@@ -123,12 +112,11 @@ Jehiël ^{[[#fn6][6]][[#fn7][7]]}
 22b und wachten über die Schätze im Haus des Herrn.
 
 <<v23>>
-23 Zu ihnen kamen Nachkommen Amrams, Jizhars, Hebrons und Usiëls.
-^{[[#fn8][8]]}
+23 Zu ihnen kamen Nachkommen Amrams, Jizhars, Hebrons und Usiëls. [fn:8]
 
 <<v24>>
 24 Schubaël, der Sohn Gerschoms und Enkel des Mose, war Oberaufseher
-über die Schätze gewesen. ^{[[#fn9][9]]}
+über die Schätze gewesen. [fn:9]
 
 <<v25>>
 25 Sein Stammesbruder aus der Linie Eliësers war dessen Sohn Rehabja;
@@ -153,13 +141,10 @@ Schelomits und seiner Brüder.\\
 \\
 
 <<v29>>
-**** Die Verwaltungsdienste: 26,29-32
-     :PROPERTIES:
-     :CUSTOM_ID: die-verwaltungsdienste-2629-32
-     :END:
+* Die Verwaltungsdienste: 26,29-32
+
 29 Von den Nachkommen Jizhars waren Kenanja und seine Söhne als Beamte
-und Richter für die äußeren Angelegenheiten in Israel bestellt.
-^{[[#fn10][10]]}
+und Richter für die äußeren Angelegenheiten in Israel bestellt. [fn:10]
 
 <<v30>>
 30 Von den Nachkommen Hebrons hatten Haschabja und seine Brüder,
@@ -178,26 +163,27 @@ die Rubeniter, Gaditer und den halben Stamm Manasse in allen
 Angelegenheiten Gottes und des Königs.\\
 \\
 
-^{[[#fnm1][1]]} Elsabad: Josabad in V. 4 ist derselbe Name, nur mit
+* Footnotes
+
+[fn:1] Elsabad: Josabad in V. 4 ist derselbe Name, nur mit
 anderer Gottesbezeichnung gebildet.
 
-^{[[#fnm2][2]]} In H steht vor Hosa der Name Schuppim infolge
+[fn:2] In H steht vor Hosa der Name Schuppim infolge
 Verschreibung aus dem vorausgehenden Wort.
 
-^{[[#fnm3][3]]} täglich: sinngemäß ergänzt.
+[fn:3] täglich: sinngemäß ergänzt.
 
-^{[[#fnm4][4]]} Zu Parbar vgl. die Anmerkung zu 2 Kön 23,11; dort:
-Parwar.
+[fn:4] Zu Parbar vgl. die Anmerkung zu [[file:2.Kön_23.org::v11][2 Kön 23,11]]; dort: Parwar.
 
-^{[[#fnm5][5]]} ihren Stammesbrüdern: Text korr. nach G.
+[fn:5] ihren Stammesbrüdern: Text korr. nach G.
 
-^{[[#fnm6][6]]} ℘ 23,8
+[fn:6] [[file:1.Chr_23.org::v8][23,8]]
 
-^{[[#fnm7][7]]} 21f: Text aus inhaltlichen Gründen umgestellt.
+[fn:7] 21f: Text aus inhaltlichen Gründen umgestellt.
 
-^{[[#fnm8][8]]} ℘ 23,12f
+[fn:8] [[file:1.Chr_23.org::v12][23,12f]]
 
-^{[[#fnm9][9]]} ℘ 23,15-17
+[fn:9] [[file:1.Chr_23.org::v15][23,15-17]]
 
-^{[[#fnm10][10]]} Nach Dtn 17,8-13; 19,16f und 21,5 waren die Leviten an
+[fn:10] Nach [[file:Dtn_17.org::v8][Dtn 17,8-13]]; [[file:Dtn_19.org::v16][19,16f]] und [[file:Dtn_21.org::v5][21,5]] waren die Leviten an
 der Rechtsprechung beteiligt.

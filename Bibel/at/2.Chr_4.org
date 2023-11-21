@@ -1,25 +1,22 @@
-:PROPERTIES:
-:ID:       9f0138d4-5005-4a0b-a263-3d33f79664b7
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch der Chronik* --
-[[file:2.Chr_1.html][1]] [[file:2.Chr_2.html][2]]
-[[file:2.Chr_3.html][3]] *4* [[file:2.Chr_5.html][5]]
-[[file:2.Chr_6.html][6]] ... [[file:2.Chr_36.html][36]]
-
---------------
+#+TITLE: 2 Chr 4 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-21 Di 22:49]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Chr 4.html
 
 * 2.Chr 4
-  :PROPERTIES:
-  :CUSTOM_ID: chr-4
-  :END:
 
 <<verses>>
 
 <<v1>>
 1 Er ließ einen bronzenen Altar herstellen, zwanzig Ellen lang, zwanzig
-Ellen breit und zehn Ellen hoch. ^{[[#fn1][1]]}
+Ellen breit und zehn Ellen hoch. [fn:1]
 
 <<v2>>
 2 Dann machte er das «Meer». Es wurde aus Bronze gegossen, maß zehn
@@ -29,7 +26,7 @@ Eine Schnur von dreißig Ellen konnte es rings umspannen.
 <<v3>>
 3 Unterhalb seines Rands waren rundum Bilder von Rindern. In einem Band
 von dreißig Ellen Länge umsäumten sie das Meer ringsum in zwei Reihen.
-Sie wurden bei seinem Guss mitgegossen. ^{[[#fn2][2]]}
+Sie wurden bei seinem Guss mitgegossen. [fn:2]
 
 <<v4>>
 4 Das Meer stand auf zwölf Rindern. Von ihnen schauten drei nach Norden,
@@ -58,7 +55,7 @@ hundert goldene Schalen.
 
 <<v9>>
 9 Auch schuf er den Vorhof der Priester und den großen Hof mit seinen
-Toren. Die Torflügel überzog er mit Bronze. ^{[[#fn3][3]]}
+Toren. Die Torflügel überzog er mit Bronze. [fn:3]
 
 <<v10>>
 10 Das Meer stellte er an die Südseite des Hauses gegen Südosten.
@@ -113,11 +110,13 @@ den Türen des Hauses waren die Flügel im inneren Raum gegen das
 Allerheiligste und die beiden Türflügel, die zum Hauptraum führten, mit
 Gold verkleidet.
 
-^{[[#fnm1][1]]} Der Altar wird im Baubericht von 1 Kön nicht erwähnt;
-doch wird sein Vorhandensein vorausgesetzt (vgl. 1 Kön 8,22.64).
+* Footnotes
 
-^{[[#fnm2][2]]} H: zehn Ellen.
+[fn:1] Der Altar wird im Baubericht von 1 Kön nicht erwähnt;
+doch wird sein Vorhandensein vorausgesetzt (vgl. [[file:1.Kön_8.org::v22][1 Kön 8,22]].[[file:1.Kön_8.org::v64][64]]).
 
-^{[[#fnm3][3]]} Der Hof der Priester wird in 1 Kön 6,36 und 7,12
+[fn:2] H: zehn Ellen.
+
+[fn:3] Der Hof der Priester wird in [[file:1.Kön_6.org::v36][1 Kön 6,36]] und [[file:1.Kön_7.org::v12][7,12]]
 «innerer Hof» genannt. Die Bezeichnung in Chr deutet an, dass er zu
 ihrer Zeit nur noch von den Priestern betreten werden durfte.

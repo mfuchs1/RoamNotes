@@ -1,18 +1,16 @@
-:PROPERTIES:
-:ID:       4b83371e-4a36-4488-9e54-953902e163ce
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch der Chronik* --
-[[file:2.Chr_1.html][1]] *2* [[file:2.Chr_3.html][3]]
-[[file:2.Chr_4.html][4]] ... [[file:2.Chr_36.html][36]]
-
---------------
+#+TITLE: 2 Chr 2 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-21 Di 22:33]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Chr 2.html
 
 * 2.Chr 2
-  :PROPERTIES:
-  :CUSTOM_ID: chr-2
-  :END:
 
 <<verses>>
 
@@ -23,7 +21,7 @@ setzte 3600 Aufseher über sie.
 <<v2>>
 2 Dann sandte er Boten zu Hiram, dem König von Tyrus, und ließ ihm
 sagen: Du hast meinem Vater David geholfen und ihm Zedern geliefert,
-damit er sich ein Haus als Wohnung bauen konnte. ^{[[#fn1][1]]}
+damit er sich ein Haus als Wohnung bauen konnte. [fn:1]
 
 <<v3>>
 3 Ich möchte jetzt dem Namen des Herrn, meines Gottes, ein Haus bauen
@@ -31,7 +29,7 @@ und es ihm weihen. Man soll wohlriechendes Räucherwerk vor ihm anzünden,
 ständig die Brote auflegen und jeden Morgen und jeden Abend, an den
 Sabbaten, Neumondtagen und Festen des Herrn, unseres Gottes, Brandopfer
 darbringen. So ist es Israel für ewige Zeiten zur Pflicht gemacht
-worden. ^{[[#fn2][2]]}
+worden. [fn:2]
 
 <<v4>>
 4 Das Haus, das ich bauen will, soll groß werden, denn unser Gott ist
@@ -40,8 +38,7 @@ größer als alle Götter.
 <<v5>>
 5 Wer aber besitzt die Kraft, ihm ein Haus zu bauen? Der Himmel und die
 Himmel der Himmel fassen ihn nicht. Und wer bin ich, dass ich ihm ein
-Haus baue, wenn auch nur, um Rauchopfer vor ihm darzubringen?
-^{[[#fn3][3]]}
+Haus baue, wenn auch nur, um Rauchopfer vor ihm darzubringen? [fn:3]
 
 <<v6>>
 6 Schick mir nun einen fähigen Mann, der Arbeiten in Gold, Silber,
@@ -53,7 +50,7 @@ Vater David bestellt hat.
 <<v7>>
 7 Liefere mir auch Zedern, Zypressen und Algummimholz vom Libanon! Ich
 weiß, dass deine Leute die Bäume des Libanon zu fällen verstehen. Meine
-Leute sollen deinen Leuten dabei helfen. ^{[[#fn4][4]]}
+Leute sollen deinen Leuten dabei helfen. [fn:4]
 
 <<v8>>
 8 Sie sollen eine Menge Holz herrichten; denn das Haus, das ich bauen
@@ -62,7 +59,7 @@ will, soll groß und wunderbar werden.
 <<v9>>
 9 Den Arbeitern, die das Holz fällen, gebe ich zum Unterhalt für deine
 Knechte 20000 Kor Weizen, 20000 Kor Gerste, 20000 Bat Wein und 20000 Bat
-Öl. ^{[[#fn5][5]]}
+Öl. [fn:5]
 
 <<v10>>
 10 Hiram, der König von Tyrus, antwortete Salomo in einem Schreiben, das
@@ -76,7 +73,7 @@ gegeben, der Einsicht und Verstand besitzt, um ein Haus für den Herrn
 und eine königliche Residenz für sich selbst zu bauen.
 
 <<v12>>
-12 Ich schicke dir einen fähigen, klugen Mann, Hiram-Abi, ^{[[#fn6][6]]}
+12 Ich schicke dir einen fähigen, klugen Mann, Hiram-Abi, [fn:6]
 
 <<v13>>
 13 den Sohn einer danitischen Frau. Sein Vater stammt aus Tyrus. Er
@@ -106,17 +103,17 @@ Gebirge und 3600 zu Aufsehern, die das Volk zur Arbeit anhalten
 sollten.\\
 \\
 
-^{[[#fnm1][1]]} ℘ (2-17) 1 Kön 5,15-32
+* Footnotes
 
-^{[[#fnm2][2]]} Das Brot, das aufgelegt wird, sind die Schaubrote (vgl.
-Lev 24,6).
+[fn:1] (2-17) [[file:1.Kön_5.org::v15][1 Kön 5,15-32]]
 
-^{[[#fnm3][3]]} ℘ 1 Kön 8,27
+[fn:2] Das Brot, das aufgelegt wird, sind die Schaubrote (vgl. [[file:Lev_24.org::v6][Lev 24,6]]).
 
-^{[[#fnm4][4]]} Zu Algummim (Almuggim) vgl. die Anmerkung zu 1 Kön
-10,11.
+[fn:3] [[file:1.Kön_8.org::v27][1 Kön 8,27]]
 
-^{[[#fnm5][5]]} zum Unterhalt: Text korr. nach G und 1 Kön 5,25. 1 Kön
+[fn:4] Zu Algummim (Almuggim) vgl. die Anmerkung zu [[file:1.Kön_10.org::v11][1 Kön 10,11]].
+
+[fn:5] zum Unterhalt: Text korr. nach G und [[file:1.Kön_5.org::v25][1 Kön 5,25]]. 1 Kön
 spricht nur von 20000 Kor Weizen und 20 Kor (= 200 Bat) Öl.
 
-^{[[#fnm6][6]]} ℘ 1 Kön 7,13f
+[fn:6] [[file:1.Kön_7.org::v13][1 Kön 7,13f]]

@@ -1,34 +1,27 @@
-:PROPERTIES:
-:ID:       0365c538-80e5-4f53-97ef-3a1fa023bee0
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das erste Buch der Chronik* --
-[[file:1.Chr_1.html][1]] ... [[file:1.Chr_20.html][20]]
-[[file:1.Chr_21.html][21]] *22* [[file:1.Chr_23.html][23]]
-[[file:1.Chr_24.html][24]] ... [[file:1.Chr_29.html][29]]
-
---------------
-
-* 1.Chr 22
-  :PROPERTIES:
-  :CUSTOM_ID: chr-22
-  :END:
+#+TITLE: 1 Chr 22 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-21 Di 21:36]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Chr 22.html
 
 <<verses>>
 
 <<v1>>
-**** Die Vorbereitungen für den Tempelbau: 22,1-19
-     :PROPERTIES:
-     :CUSTOM_ID: die-vorbereitungen-für-den-tempelbau-221-19
-     :END:
+* Die Vorbereitungen für den Tempelbau: 22,1-19
+
 1 Damals sagte David: Hier soll das Haus Gottes, des Herrn, stehen und
-hier der Altar für die Brandopfer Israels. ^{[[#fn1][1]]}
+hier der Altar für die Brandopfer Israels. [fn:1]
 
 <<v2>>
 2 Er ließ daher die Fremden im Land Israel zusammenholen und bestellte
 sie als Steinmetzen, die Quadern für den Bau des Hauses Gottes behauen
-sollten. ^{[[#fn2][2]]}
+sollten. [fn:2]
 
 <<v3>>
 3 Auch ließ er eine Menge Eisen für die Nägel, für die Torflügel und für
@@ -51,23 +44,23 @@ Israels, ein Haus zu bauen.
 
 <<v7>>
 7 Er sagte zu ihm: Ich selbst hatte vor, dem Namen des Herrn, meines
-Gottes, ein Haus zu bauen. ^{[[#fn3][3]]}
+Gottes, ein Haus zu bauen. [fn:3]
 
 <<v8>>
 8 Da erging das Wort des Herrn an mich: Du hast viel Blut vergossen und
 schwere Kriege geführt. Du sollst meinem Namen kein Haus bauen, denn du
-hast vor meinen Augen viel Blut zur Erde fließen lassen. ^{[[#fn4][4]]}
+hast vor meinen Augen viel Blut zur Erde fließen lassen. [fn:4]
 
 <<v9>>
 9 Doch wurde dir ein Sohn geboren. Dieser wird ein Mann der Ruhe sein:
 Ich will ihm Ruhe vor allen seinen Feinden ringsum verschaffen. Salomo
 ist sein Name und in seinen Tagen werde ich Israel Frieden und Ruhe
-gewähren. ^{[[#fn5][5]]}
+gewähren. [fn:5]
 
 <<v10>>
 10 Er wird meinem Namen ein Haus bauen; er wird für mich Sohn sein und
 ich werde für ihn Vater sein. Seinen Königsthron werde ich in Israel
-festigen für immer. ^{[[#fn6][6]]}
+festigen für immer. [fn:6]
 
 <<v11>>
 11 Möge jetzt der Herr mit dir sein, mein Sohn, damit du Erfolg hast und
@@ -89,7 +82,7 @@ Sei mutig und stark! Fürchte dich nicht und verzag nicht!
 hunderttausend Talente Gold und eine Million Talente Silber
 bereitstellen. Bronze und Eisen sind in solchen Mengen vorhanden, dass
 sie nicht gewogen werden können. Auch Holz und Steine habe ich
-herbeigeschafft und du wirst noch mehr dazutun. ^{[[#fn7][7]]}
+herbeigeschafft und du wirst noch mehr dazutun. [fn:7]
 
 <<v15>>
 15 Du hast Handwerker in großer Anzahl, Steinmetzen, Maurer, Zimmerleute
@@ -115,23 +108,24 @@ Bundeslade des Herrn und die heiligen Geräte Gottes in das Haus zu
 bringen, das man seinem Namen errichtet.\\
 \\
 
-^{[[#fnm1][1]]} 1-29,9: Einzelne Aussagen dieser Kapitel lassen
+* Footnotes
+
+[fn:1] 1-29,9: Einzelne Aussagen dieser Kapitel lassen
 erkennen, dass dem Chronisten das heilige Zelt der Wüstenzeit nach der
 Beschreibung von Ex und der nachexilische Tempel vorschwebten.
 
-^{[[#fnm2][2]]} In 1 Kön 9,20f wird das von Salomo berichtet. Doch nennt
-bereits die Beamtenliste Davids in 2 Sam 20,24 einen Aufseher über die
+[fn:2] In [[file:1.Kön_9.org::v20][1 Kön 9,20f]] wird das von Salomo berichtet. Doch nennt
+bereits die Beamtenliste Davids in [[file:2.Sam_20.org::v24][2 Sam 20,24]] einen Aufseher über die
 Fronarbeiter.
 
-^{[[#fnm3][3]]} ℘ 2 Sam 7
+[fn:3] [[file:2.Sam_7.org][2 Sam 7]]
 
-^{[[#fnm4][4]]} ℘ 1 Kön 5,17
+[fn:4] [[file:1.Kön_5.org::v17][1 Kön 5,17]]
 
-^{[[#fnm5][5]]} Der Name Salomo enthält den Wortstamm schalom (=
-Frieden).
+[fn:5] Der Name Salomo enthält den Wortstamm schalom (= Frieden).
 
-^{[[#fnm6][6]]} ℘ 17,12
+[fn:6] [[file:1.Chr_17.org::v12][17,12]]
 
-^{[[#fnm7][7]]} Die Zahlen für die Gold- und Silbermengen sind
+[fn:7] Die Zahlen für die Gold- und Silbermengen sind
 ungewöhnlich hoch und daher wohl nur Ausdruck für die Hochschätzung des
 Tempels.

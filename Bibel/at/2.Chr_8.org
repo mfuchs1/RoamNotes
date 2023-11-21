@@ -1,33 +1,26 @@
-:PROPERTIES:
-:ID:       a0fa4917-2bcf-4e75-8563-80f9f6541323
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch der Chronik* --
-[[file:2.Chr_1.html][1]] ... [[file:2.Chr_6.html][6]]
-[[file:2.Chr_7.html][7]] *8* [[file:2.Chr_9.html][9]]
-[[file:2.Chr_10.html][10]] ... [[file:2.Chr_36.html][36]]
-
---------------
-
-* 2.Chr 8
-  :PROPERTIES:
-  :CUSTOM_ID: chr-8
-  :END:
+#+TITLE: 2 Chr 8 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-21 Di 23:13]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Chr 8.html
 
 <<verses>>
 
 <<v1>>
-**** Verschiedene Nachrichten über Salomo: 8,1-18
-     :PROPERTIES:
-     :CUSTOM_ID: verschiedene-nachrichten-über-salomo-81-18
-     :END:
+* Verschiedene Nachrichten über Salomo: 8,1-18
+
 1 Nach Ablauf von zwanzig Jahren, in denen Salomo das Haus des Herrn und
-seinen Palast gebaut hatte, ^{[[#fn1][1]]}
+seinen Palast gebaut hatte, [fn:1]
 
 <<v2>>
 2 baute er auch die Städte aus, die Hiram ihm (zurück) gegeben hatte,
-und siedelte Israeliten darin an. ^{[[#fn2][2]]}
+und siedelte Israeliten darin an. [fn:2]
 
 <<v3>>
 3 Salomo zog nach Hamat-Zoba und eroberte es.
@@ -57,7 +50,7 @@ es bis zum heutigen Tag.
 <<v9>>
 9 Von den Israeliten aber machte Salomo niemand zum Sklaven für seine
 Arbeit; sie waren seine Krieger, seine Obersten und Hauptleute, die
-Befehlshaber über seine Wagen und deren Mannschaft. ^{[[#fn3][3]]}
+Befehlshaber über seine Wagen und deren Mannschaft. [fn:3]
 
 <<v10>>
 10 Zweihundertfünfzig Werkführer, die unter dem Befehl der Statthalter
@@ -103,20 +96,21 @@ Meeres in Edom.
 <<v18>>
 18 Hiram schickte ihm durch seine Knechte Schiffe und geübte Seefahrer.
 Sie fuhren mit den Leuten Salomos nach Ofir, holten von dort
-vierhundertfünfzig Talente Gold und brachten es dem König Salomo.
-^{[[#fn4][4]]}\\
+vierhundertfünfzig Talente Gold und brachten es dem König Salomo. [fn:4]\\
 \\
 
-^{[[#fnm1][1]]} ℘ (1-18) 1 Kön 9,10-28
+* Footnotes
 
-^{[[#fnm2][2]]} Nach 1 Kön 9,11-13 hatte Salomo zwanzig Städte in
+[fn:1] (1-18) [[file:1.Kön_9.org::v10][1 Kön 9,10]]-[[file:1.Kön_9.org::v28][28]]
+
+[fn:2] Nach [[file:1.Kön_9.org::v11][1 Kön 9,11]]-[[file:1.Kön_9.org::v13][13]] hatte Salomo zwanzig Städte in
 Galiläa an Hiram abgetreten, die diesem aber nicht gefielen. Der
 Chronist will sagen, dass Salomo sie wieder zurückerhielt.
 
-^{[[#fnm3][3]]} seine Obersten und Hauptleute: Text korr. nach G und 1
-Kön 9,22; H: die Obersten seiner Hauptleute.
+[fn:3] seine Obersten und Hauptleute: Text korr. nach G und [[file:1.Kön_9.org::v22][1 Kön 9,22]];
+H: die Obersten seiner Hauptleute.
 
-^{[[#fnm4][4]]} In Chr sind zwei Tatsachen zusammengefasst: Hiram sandte
-Schiffe, die im Mittelmeer nach Tarschisch fuhren (9,21), und Seeleute,
+[fn:4] In Chr sind zwei Tatsachen zusammengefasst: Hiram sandte
+Schiffe, die im Mittelmeer nach Tarschisch fuhren ([[file:2.Chr_9.org::v21][9,21]]), und Seeleute,
 die von Elat aus mit der israelitischen Schiffsbesatzung nach Ofir
 fuhren.

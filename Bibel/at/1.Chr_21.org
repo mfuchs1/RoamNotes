@@ -1,29 +1,21 @@
-:PROPERTIES:
-:ID:       b0d1b517-ed30-46a9-a902-85cc6b5e3774
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das erste Buch der Chronik* --
-[[file:1.Chr_1.html][1]] ... [[file:1.Chr_19.html][19]]
-[[file:1.Chr_20.html][20]] *21* [[file:1.Chr_22.html][22]]
-[[file:1.Chr_23.html][23]] ... [[file:1.Chr_29.html][29]]
-
---------------
-
-* 1.Chr 21
-  :PROPERTIES:
-  :CUSTOM_ID: chr-21
-  :END:
+#+TITLE: 1 Chr 21 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-21 Di 16:19]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Chr 21.html
 
 <<verses>>
 
 <<v1>>
-**** Davids Volkszählung: 21,1-17
-     :PROPERTIES:
-     :CUSTOM_ID: davids-volkszählung-211-17
-     :END:
-1 Der Satan trat gegen Israel auf und reizte David, Israel zu zählen.
-^{[[#fn1][1]][[#fn2][2]]}
+* Davids Volkszählung: 21,1-17
+
+1 Der Satan trat gegen Israel auf und reizte David, Israel zu zählen. [fn:1] [fn:2]
 
 <<v2>>
 2 David befahl Joab und den Anführern des Volkes: Geht, zählt Israel von
@@ -43,7 +35,7 @@ weg und durchzog ganz Israel. Als er nach Jerusalem zurückkam,
 <<v5>>
 5 gab er David das Ergebnis der Volkszählung bekannt. Ganz Israel zählte
 1100000 Krieger, die mit dem Schwert kämpfen konnten, und Juda zählte
-470000 Mann, die mit dem Schwert kämpfen konnten. ^{[[#fn3][3]]}
+470000 Mann, die mit dem Schwert kämpfen konnten. [fn:3]
 
 <<v6>>
 6 Levi und Benjamin hatte Joab nicht zusammen mit ihnen gezählt, denn
@@ -72,13 +64,12 @@ vor. Wähl dir eines davon! Das werde ich dir antun.
 Feinden fliehen musst und das Schwert deiner Gegner dich verfolgt, oder
 drei Tage, in denen das Schwert des Herrn, die Pest, im Land wütet und
 der Engel des Herrn über alle Gebiete Israels Verderben bringt. Überleg
-nun, was ich dem, der mich gesandt hat, als Antwort überbringen soll.
-^{[[#fn4][4]]}
+nun, was ich dem, der mich gesandt hat, als Antwort überbringen soll. [fn:4]
 
 <<v13>>
 13 Da sagte David zu Gad: Ich habe große Angst. Ich will lieber dem
 Herrn in die Hände fallen, denn seine Barmherzigkeit ist groß. Den
-Menschen aber möchte ich nicht in die Hände fallen. ^{[[#fn5][5]]}
+Menschen aber möchte ich nicht in die Hände fallen. [fn:5]
 
 <<v14>>
 14 Da ließ der Herr über Israel eine Pest kommen und es kamen in Israel
@@ -106,13 +97,11 @@ dein Volk!\\
 \\
 
 <<v18>>
-**** Die Bestimmung des Tempelplatzes: 21,18-30
-     :PROPERTIES:
-     :CUSTOM_ID: die-bestimmung-des-tempelplatzes-2118-30
-     :END:
+* Die Bestimmung des Tempelplatzes: 21,18-30
+
 18 Der Engel des Herrn befahl Gad, zu David zu sagen, er solle
 hinaufgehen und dem Herrn auf der Tenne des Jebusiters Arauna einen
-Altar errichten. ^{[[#fn6][6]]}
+Altar errichten. [fn:6]
 
 <<v19>>
 19 David ging hinauf, wie ihm Gad im Namen des Herrn befohlen hatte.
@@ -144,7 +133,7 @@ Herrn unbezahlte Brandopfer darbringen.
 
 <<v25>>
 25 So gab David dem Arauna für den Platz sechshundert abgewogene
-Goldschekel. ^{[[#fn7][7]]}
+Goldschekel. [fn:7]
 
 <<v26>>
 26 Er baute dort einen Altar für den Herrn, brachte Brand- und
@@ -161,7 +150,7 @@ Arauna erhörte, und brachte dort Opfer dar.
 <<v29>>
 29 Die Wohnstätte des Herrn aber, die Mose in der Wüste angefertigt
 hatte, und der Brandopferaltar waren zu jener Zeit auf der Kulthöhe von
-Gibeon. ^{[[#fn8][8]][[#fn9][9]]}
+Gibeon. [fn:8] [fn:9]
 
 <<v30>>
 30 Doch David konnte sich nicht mehr dorthin begeben, um Gott
@@ -169,34 +158,36 @@ aufzusuchen; denn ihn hatte vor dem Schwert des Engels des Herrn
 Schrecken erfasst.\\
 \\
 
-^{[[#fnm1][1]]} ℘ (1-17) 2 Sam 24,1-17
+* Footnotes
 
-^{[[#fnm2][2]]} Zur Verwerflichkeit der Volkszählung vgl. die Anmerkung
-zu 2 Sam 24,1. Während nach 2 Sam Gott selbst in David den Entschluss
+[fn:1] (1-17) [[file:2.Sam_24.org::v1][2 Sam 24,1-17]]
+
+[fn:2] Zur Verwerflichkeit der Volkszählung vgl. die Anmerkung
+zu [[file:2.Sam_24.org::v1][2 Sam 24,1]]. Während nach 2 Sam Gott selbst in David den Entschluss
 zur Volkszählung weckte, wird dies in Chr dem Satan zugeschrieben, der
-in Ijob 1 - 2 und in Sach 3,1f als Widersacher und Gegenspieler Gottes
+in [[file:Ijob_1.org::v1][Ijob 1]] - [[file:Ijob_2.org][2]] und in [[file:Sach_3.org::v1][Sach 3,1f]] als Widersacher und Gegenspieler Gottes
 erscheint.
 
-^{[[#fnm3][3]]} Nach dem Wortlaut ist die Zahl des Stammes Juda in den
-1,1 Millionen enthalten. Die Zahlen in 2 Sam 24,9 ergeben 1,3 Millionen.
+[fn:3] Nach dem Wortlaut ist die Zahl des Stammes Juda in den
+1,1 Millionen enthalten. Die Zahlen in [[file:2.Sam_24.org::v9][2 Sam 24,9]] ergeben 1,3 Millionen.
 Erfasst wurden nur die Wehrfähigen. Chr ergänzt, dass auch der Stamm
 Benjamin, auf dessen Gebiet Jerusalem lag, und der Stamm Levi, der den
 Kultdienst besorgte, in die Zählung nicht einbezogen waren.
 
-^{[[#fnm4][4]]} fliehen musst: Text korr. nach G und 2 Sam 24,13.
+[fn:4] fliehen musst: Text korr. nach G und [[file:2.Sam_24.org::v13][2 Sam 24,13]].
 
-^{[[#fnm5][5]]} Davids Antwort schließt nur die zweite Möglichkeit aus.
+[fn:5] Davids Antwort schließt nur die zweite Möglichkeit aus.
 
-^{[[#fnm6][6]]} ℘ (18-26) 2 Sam 24,18-25
+[fn:6] (18-26) [[file:2.Sam_24.org::v18][2 Sam 24,18]]-[[file:2.Sam_24.org::v25][25]]
 
-^{[[#fnm7][7]]} Nach 2 Sam 24,24 betrug der Preis für das Grundstück
+[fn:7] Nach [[file:2.Sam_24.org::v24][2 Sam 24,24]] betrug der Preis für das Grundstück
 fünfzig Schekel Silber. Chr nennt eine zwölfmal höhere Zahl und spricht
 von Goldschekeln. Dadurch wird angedeutet, dass der Platz für alle zwölf
 Stämme erworben wurde und dass es sich um einen sehr kostbaren Bauplatz,
 nämlich den Tempelplatz, handelt.
 
-^{[[#fnm8][8]]} ℘ Ex 36,8-38; 2 Chr 1,3-5
+[fn:8] [[file:Ex_36.org::v8][Ex 36,8]]-[[file:Ex_36.org::v38][38]]; [[file:2.Chr_1.org::v3][2 Chr 1,3-5]]
 
-^{[[#fnm9][9]]} In Gibeon wurden zwar noch die vorgeschriebenen Opfer
-dargebracht und der kultische Dienst vollzogen (16,39f); doch David
+[fn:9] In Gibeon wurden zwar noch die vorgeschriebenen Opfer
+dargebracht und der kultische Dienst vollzogen ([[file:1.Chr_16.org::v39][16,39f]]); doch David
 vermied es, daran teilzunehmen.

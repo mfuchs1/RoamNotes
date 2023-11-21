@@ -1,27 +1,20 @@
-:PROPERTIES:
-:ID:       08535321-6159-4c96-8abe-1258aa5aa32e
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das erste Buch der Chronik* --
-[[file:1.Chr_1.html][1]] ... [[file:1.Chr_25.html][25]]
-[[file:1.Chr_26.html][26]] *27* [[file:1.Chr_28.html][28]]
-[[file:1.Chr_29.html][29]]
-
---------------
-
-* 1.Chr 27
-  :PROPERTIES:
-  :CUSTOM_ID: chr-27
-  :END:
+#+TITLE: 1 Chr 27 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-21 Di 22:01]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Chr 27.html
 
 <<verses>>
 
 <<v1>>
-**** Die Heerführer Davids: 27,1-15
-     :PROPERTIES:
-     :CUSTOM_ID: die-heerführer-davids-271-15
-     :END:
+* Die Heerführer Davids: 27,1-15
+
 1 Die Israeliten nach ihrer Anzahl, die Familienhäupter, die Obersten
 der Tausend- und Hundertschaften und ihre Beamten dienten dem König in
 allen Angelegenheiten der Abteilungen, die Monat für Monat das ganze
@@ -29,7 +22,7 @@ Jahr hindurch antraten und abzogen. Jede Abteilung war 24000 Mann stark.
 
 <<v2>>
 2 Die erste Abteilung für den ersten Monat befehligte Jaschobam, der
-Sohn Sabdiëls. Zu seiner Abteilung gehörten 24000 Mann. ^{[[#fn1][1]]}
+Sohn Sabdiëls. Zu seiner Abteilung gehörten 24000 Mann. [fn:1]
 
 <<v3>>
 3 Er war ein Nachkomme des Perez und Haupt aller Obersten des Heeres im
@@ -37,13 +30,12 @@ ersten Monat.
 
 <<v4>>
 4 Die Abteilung des zweiten Monats befehligte der Ahoachiter Dodai, ein
-Fürst. Zu seiner Abteilung gehörten 24000 Mann.
-^{[[#fn2][2]][[#fn3][3]]}
+Fürst. Zu seiner Abteilung gehörten 24000 Mann. [fn:2] [fn:3]
 
 <<v5>>
 5 Der dritte Heerführer, für den dritten Monat, war Benaja, der Sohn des
 Priesters Jojada, ein Oberhaupt. Zu seiner Abteilung gehörten 24000
-Mann. ^{[[#fn4][4]]}
+Mann. [fn:4]
 
 <<v6>>
 6 Dieser Benaja war ein Held unter den Dreißig und Anführer der Dreißig
@@ -88,10 +80,8 @@ Geschlecht Otniël. Zu seiner Abteilung gehörten 24000 Mann.\\
 \\
 
 <<v16>>
-**** Die Oberhäupter der Stämme: 27,16-24
-     :PROPERTIES:
-     :CUSTOM_ID: die-oberhäupter-der-stämme-2716-24
-     :END:
+* Die Oberhäupter der Stämme: 27,16-24
+
 16 Diese standen an der Spitze der Stämme Israels: Fürst bei den
 Rubenitern war Eliëser, der Sohn Sichris; bei Simeon war es Schefatja,
 der Sohn Maachas;
@@ -122,20 +112,17 @@ Israels.
 <<v23>>
 23 Die Zahl derer, die noch nicht zwanzig Jahre alt waren, hatte David
 nicht aufnehmen lassen; denn der Herr hatte versprochen, dass er Israel
-zahlreich werden lasse wie die Sterne des Himmels. ^{[[#fn5][5]]}
+zahlreich werden lasse wie die Sterne des Himmels. [fn:5]
 
 <<v24>>
 24 Joab, der Sohn der Zeruja, hatte die Zählung begonnen, aber nicht zu
 Ende geführt, da ihretwegen ein Zorngericht über Israel gekommen war. So
-wurde ihre Zahl nicht in die Chronik des Königs David aufgenommen.
-^{[[#fn6][6]]}\\
+wurde ihre Zahl nicht in die Chronik des Königs David aufgenommen. [fn:6]\\
 \\
 
 <<v25>>
-**** Die Verwalter des königlichen Besitzes: 27,25-31
-     :PROPERTIES:
-     :CUSTOM_ID: die-verwalter-des-königlichen-besitzes-2725-31
-     :END:
+* Die Verwalter des königlichen Besitzes: 27,25-31
+
 25 Asmawet, der Sohn Adiëls, hatte die Aufsicht über die Schätze des
 Königs, Jonatan, der Sohn Usijas, über die Vorräte auf dem Land, in den
 Städten, Dörfern und Türmen,
@@ -166,40 +153,38 @@ Verwalter des Eigentums, das dem König David gehörte.\\
 \\
 
 <<v32>>
-**** Die höchsten Beamten: 27,32-34
-     :PROPERTIES:
-     :CUSTOM_ID: die-höchsten-beamten-2732-34
-     :END:
+* Die höchsten Beamten: 27,32-34
+
 32 Jonatan, der Onkel Davids, war sein Berater. Er war ein kluger,
 schriftkundiger Mann. Jehiël, der Sohn Hachmonis, war bei den Söhnen des
 Königs.
 
 <<v33>>
 33 Ahitofel war Berater des Königs, der Arkiter Huschai war Freund des
-Königs. ^{[[#fn7][7]][[#fn8][8]]}
+Königs. [fn:7] [fn:8]
 
 <<v34>>
 34 Nach Ahitofel war Jojada, der Sohn Benajas (Berater des Königs).
-Abjatar war Priester und Joab Heerführer des Königs. ^{[[#fn9][9]]}\\
+Abjatar war Priester und Joab Heerführer des Königs. [fn:9]\\
 \\
 
-^{[[#fnm1][1]]} 2-15: Die Namen der zwölf Befehlshaber sind in der Liste
-der Helden Davids enthalten (vgl. 11,11-40).
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 11,12; 2 Sam 23,9
+[fn:1] 2-15: Die Namen der zwölf Befehlshaber sind in der Liste
+der Helden Davids enthalten (vgl. [[file:1.Chr_11.org::v11][11,11-40]]).
 
-^{[[#fnm3][3]]} In H folgen auf den Namen Varianten des Wortes für
-«Abteilung».
+[fn:2] [[file:1.Chr_11.org::v12][11,12]]; [[file:2.Sam_23.org::v9][2 Sam 23,9]]
 
-^{[[#fnm4][4]]} ℘ 11,22-25
+[fn:3] In H folgen auf den Namen Varianten des Wortes für «Abteilung».
 
-^{[[#fnm5][5]]} ℘ 21,1-6
+[fn:4] [[file:1.Chr_11.org::v22][11,22-25]]
 
-^{[[#fnm6][6]]} ℘ 21,1-15; 2 Sam 24,1-15
+[fn:5] [[file:1.Chr_21.org::v1][21,1-6]]
 
-^{[[#fnm7][7]]} ℘ 2 Sam 16,23
+[fn:6] [[file:1.Chr_21.org::v1][21,1]]-[[file:1.Chr_21.org::v15][15]]; [[file:2.Sam_24.org::v1][2 Sam 24,1]]-[[file:2.Sam_24.org::v15][15]]
 
-^{[[#fnm8][8]]} Freund des Königs: eine Amtsbezeichnung (vgl. 1 Kön
-4,5).
+[fn:7] [[file:2.Sam_16.org::v23][2 Sam 16,23]]
 
-^{[[#fnm9][9]]} war Priester: sinngemäß ergänzt.
+[fn:8] Freund des Königs: eine Amtsbezeichnung (vgl. [[file:1.Kön_4.org::v5][1 Kön 4,5]]).
+
+[fn:9] war Priester: sinngemäß ergänzt.
