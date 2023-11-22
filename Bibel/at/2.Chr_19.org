@@ -1,19 +1,16 @@
-:PROPERTIES:
-:ID:       ab4eb859-ce82-4801-b07c-5deec9b70310
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch der Chronik* --
-[[file:2.Chr_1.html][1]] ... [[file:2.Chr_17.html][17]]
-[[file:2.Chr_18.html][18]] *19* [[file:2.Chr_20.html][20]]
-[[file:2.Chr_21.html][21]] ... [[file:2.Chr_36.html][36]]
-
---------------
+#+TITLE: 2 Chr 19 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-22 Mi 22:35]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Chr 19.html
 
 * 2.Chr 19
-  :PROPERTIES:
-  :CUSTOM_ID: chr-19
-  :END:
 
 <<verses>>
 
@@ -32,17 +29,14 @@ beseitigt und deinen Sinn darauf gerichtet, den wahren Gott zu suchen.\\
 \\
 
 <<v4>>
-**** Joschafats Sorge für das Recht: 19,4-11
-     :PROPERTIES:
-     :CUSTOM_ID: joschafats-sorge-für-das-recht-194-11
-     :END:
+* Joschafats Sorge für das Recht: 19,4-11
+
 4 Joschafat blieb in Jerusalem. Dann zog er wieder von Beerscheba bis
 zum Gebirge Efraim unter dem Volk umher und führte es zum Herrn, dem
 Gott ihrer Väter, zurück.
 
 <<v5>>
-5 Er bestellte Richter im Land für jede einzelne feste Stadt Judas
-^{[[#fn1][1]]}
+5 Er bestellte Richter im Land für jede einzelne feste Stadt Judas [fn:1]
 
 <<v6>>
 6 und gab ihnen die Weisung: Seht zu, was ihr tut; denn nicht im Auftrag
@@ -57,7 +51,7 @@ Ungerechtigkeit, kein Ansehen der Person, keine Bestechlichkeit.
 <<v8>>
 8 Außerdem bestellte Joschafat in Jerusalem Leviten, Priester und
 Familienhäupter für das Gericht des Herrn und für Streitigkeiten unter
-den Einwohnern Jerusalems. ^{[[#fn2][2]]}
+den Einwohnern Jerusalems. [fn:2]
 
 <<v9>>
 9 Er trug ihnen auf: Mit Furcht vor dem Herrn, mit Festigkeit und
@@ -78,8 +72,10 @@ euch die Leviten zur Verfügung. Geht mutig an die Arbeit und der Herr
 sei mit dem, der seine Pflicht erfüllt.\\
 \\
 
-^{[[#fnm1][1]]} Die Einsetzung von Richtern in den Städten entspricht
-dem Gesetz in Dtn 16,18.
+* Footnotes
 
-^{[[#fnm2][2]]} Gemeint sind Streitigkeiten unter den Einwohnern (Text
+[fn:1] Die Einsetzung von Richtern in den Städten entspricht
+dem Gesetz in [[file:Dtn_16.org::v18][Dtn 16,18]].
+
+[fn:2] Gemeint sind Streitigkeiten unter den Einwohnern (Text
 korr. nach G) Jerusalems bei Vergehen gegen das göttliche Gesetz.

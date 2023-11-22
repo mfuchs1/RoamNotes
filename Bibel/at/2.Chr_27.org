@@ -1,35 +1,28 @@
-:PROPERTIES:
-:ID:       c121463f-c156-4de1-a682-9e609c70e879
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch der Chronik* --
-[[file:2.Chr_1.html][1]] ... [[file:2.Chr_25.html][25]]
-[[file:2.Chr_26.html][26]] *27* [[file:2.Chr_28.html][28]]
-[[file:2.Chr_29.html][29]] ... [[file:2.Chr_36.html][36]]
-
---------------
-
-* 2.Chr 27
-  :PROPERTIES:
-  :CUSTOM_ID: chr-27
-  :END:
+#+TITLE: 2 Chr 27 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-22 Mi 23:12]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Chr 27.html
 
 <<verses>>
 
 <<v1>>
-**** Jotam: 27,1-9
-     :PROPERTIES:
-     :CUSTOM_ID: jotam-271-9
-     :END:
+* Jotam: 27,1-9
+
 1 Jotam war fünfundzwanzig Jahre alt, als er König wurde, und regierte
 sechzehn Jahre in Jerusalem. Seine Mutter hieß Jeruscha und war eine
-Tochter Zadoks. ^{[[#fn1][1]]}
+Tochter Zadoks. [fn:1]
 
 <<v2>>
 2 Er tat, was dem Herrn gefiel, genau wie sein Vater Usija, aber er
 drang nicht in den Tempel des Herrn ein. Das Volk jedoch handelte immer
-noch verkehrt. ^{[[#fn2][2]]}
+noch verkehrt. [fn:2]
 
 <<v3>>
 3 Er baute das obere Tor am Haus des Herrn. Auch an der Mauer des Ofel
@@ -62,6 +55,8 @@ sechzehn Jahre in Jerusalem.
 Davidstadt. Sein Sohn Ahas wurde König an seiner Stelle.\\
 \\
 
-^{[[#fnm1][1]]} ℘ (1-9) 2 Kön 15,32-38
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 26,16
+[fn:1] (1-9) [[file:2.Kön_15.org::v32][2 Kön 15,32]]-[[file:2.Kön_15.org::v38][38]]
+
+[fn:2] [[file:2.Chr_26.org::v16][26,16]]

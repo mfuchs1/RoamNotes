@@ -1,19 +1,16 @@
-:PROPERTIES:
-:ID:       ec7cb279-03c3-4912-99e1-ec339643ae5f
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch der Chronik* --
-[[file:2.Chr_1.html][1]] ... [[file:2.Chr_29.html][29]]
-[[file:2.Chr_30.html][30]] *31* [[file:2.Chr_32.html][32]]
-[[file:2.Chr_33.html][33]] ... [[file:2.Chr_36.html][36]]
-
---------------
+#+TITLE: 2 Chr 31 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-22 Mi 23:30]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Chr 31.html
 
 * 2.Chr 31
-  :PROPERTIES:
-  :CUSTOM_ID: chr-31
-  :END:
 
 <<verses>>
 
@@ -22,19 +19,17 @@
 insgesamt in die Städte Judas, zertrümmerten die Steinmale, hieben die
 Kultpfähle um und zerstörten die Kulthöhen und Altäre in ganz Juda,
 Benjamin, Efraim und Manasse vollständig. Darauf kehrten alle in ihre
-Städte auf ihren Besitz zurück. ^{[[#fn1][1]]}\\
+Städte auf ihren Besitz zurück. [fn:1]\\
 \\
 
 <<v2>>
-**** Die Neuordnung des Tempeldienstes: 31,2-21
-     :PROPERTIES:
-     :CUSTOM_ID: die-neuordnung-des-tempeldienstes-312-21
-     :END:
+* Die Neuordnung des Tempeldienstes: 31,2-21
+
 2 Hiskija stellte die Abteilungen der Priester und Leviten nach ihren
 Dienstklassen auf. Er wies alle Priester und Leviten einzeln in ihren
 Dienst ein und bestellte sie zum Vollzug der Brand- und Heilsopfer, zu
 Dienstleistungen und zum Vortrag der Dank- und Lobgesänge an den Toren
-des Lagers des Herrn. ^{[[#fn2][2]]}
+des Lagers des Herrn. [fn:2]
 
 <<v3>>
 3 Der Beitrag, den der König aus seinem Vermögen für die Brandopfer
@@ -45,7 +40,7 @@ vorgeschrieben waren.
 <<v4>>
 4 Hiskija befahl dem Volk, das heißt, den Einwohnern Jerusalems, die den
 Priestern und den Leviten zustehenden Anteile abzuliefern, damit sie
-sich ganz dem Gesetz des Herrn widmen könnten. ^{[[#fn3][3]]}
+sich ganz dem Gesetz des Herrn widmen könnten. [fn:3]
 
 <<v5>>
 5 Sobald der Befehl bekannt wurde, brachten die Israeliten die
@@ -56,7 +51,7 @@ reichlich herbei und lieferten den Zehnten von allem vollzählig ab.
 6 Ebenso brachten die Israeliten und die Judäer, die in den Städten
 Judas wohnten, den Zehnten von den Rindern und Schafen sowie den Zehnten
 von den Weihegaben, die dem Herrn, ihrem Gott, übergeben wurden. Sie
-reihten Stapel an Stapel. ^{[[#fn4][4]]}
+reihten Stapel an Stapel. [fn:4]
 
 <<v7>>
 7 Im dritten Monat fingen sie an, die unterste Schicht zu legen, und im
@@ -93,7 +88,7 @@ Josabad, Eliël, Jismachja, Mahat und Benaja als Beamte zur Seite.
 <<v14>>
 14 Der Levit Kore, der Sohn Jimnas, der Wächter am Osttor, wachte über
 die freiwilligen Spenden an Gott, damit die für den Herrn bestimmte
-Abgabe und das Hochheilige abgeliefert würden. ^{[[#fn5][5]]}
+Abgabe und das Hochheilige abgeliefert würden. [fn:5]
 
 <<v15>>
 15 Ihm standen Eden, Minjamin, Jeschua, Schemaja, Amarja und Schechanja
@@ -133,16 +128,18 @@ das Gesetz und die Gebote begann, um seinen Gott zu suchen, handelte er
 mit Hingabe seines ganzen Herzens und hatte Erfolg.\\
 \\
 
-^{[[#fnm1][1]]} ℘ 2 Kön 18,4
+* Footnotes
 
-^{[[#fnm2][2]]} Der Ausdruck «Lager des Herrn» vergleicht den
+[fn:1] [[file:2.Kön_18.org::v4][2 Kön 18,4]]
+
+[fn:2] Der Ausdruck «Lager des Herrn» vergleicht den
 Tempelbereich mit dem Zeltlager der Wüstenzeit.
 
-^{[[#fnm3][3]]} Nach Num 18,21-32 gehörten den Priestern und Leviten die
+[fn:3] Nach [[file:Num_18.org::v21][Num 18,21]]-[[file:Num_18.org::v32][32]] gehörten den Priestern und Leviten die
 Zehnten und Erstlingsfrüchte.
 
-^{[[#fnm4][4]]} ℘ Num 18,8-32
+[fn:4] [[file:Num_18.org::v8][Num 18,8]]-[[file:Num_18.org::v32][32]]
 
-^{[[#fnm5][5]]} das Hochheilige: die Anteile, die bei bestimmten Opfern
-von den Priestern am Heiligtum gegessen werden mussten (vgl. Lev 2,3;
-6,10.18; 7,6; 14,13).
+[fn:5] das Hochheilige: die Anteile, die bei bestimmten Opfern
+von den Priestern am Heiligtum gegessen werden mussten (vgl. [[file:Lev_2.org::v3][Lev 2,3]];
+[[file:Lev_6.org::v10][6,10]].[[file:Lev_6.org::v18][18]]; [[file:Lev_7.org::v6][7,6]]; [[file:Lev_14.org::v13][14,13]]).

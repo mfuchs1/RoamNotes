@@ -1,30 +1,23 @@
-:PROPERTIES:
-:ID:       d0eb0dff-07af-4788-865e-2b2ae9142a9f
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch der Chronik* --
-[[file:2.Chr_1.html][1]] ... [[file:2.Chr_26.html][26]]
-[[file:2.Chr_27.html][27]] *28* [[file:2.Chr_29.html][29]]
-[[file:2.Chr_30.html][30]] ... [[file:2.Chr_36.html][36]]
-
---------------
-
-* 2.Chr 28
-  :PROPERTIES:
-  :CUSTOM_ID: chr-28
-  :END:
+#+TITLE: 2 Chr 29 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-22 Mi 23:13]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Chr 29.html
 
 <<verses>>
 
 <<v1>>
-**** Ahas: 28,1-15
-     :PROPERTIES:
-     :CUSTOM_ID: ahas-281-15
-     :END:
+* Ahas: 28,1-15
+
 1 Ahas war zwanzig Jahre alt, als er König wurde, und regierte sechzehn
 Jahre in Jerusalem. Er tat nicht wie sein Vater David, was dem Herrn
-gefiel, ^{[[#fn1][1]][[#fn2][2]]}
+gefiel, [fn:1] [fn:2]
 
 <<v2>>
 2 sondern er folgte den Wegen der Könige von Israel. Auch ließ er
@@ -102,12 +95,10 @@ die Nähe ihrer Stammesbrüder. Sie selbst kehrten nach Samaria zurück.\\
 \\
 
 <<v16>>
-**** Die Bedrängnis durch Assur: 28,16-27
-     :PROPERTIES:
-     :CUSTOM_ID: die-bedrängnis-durch-assur-2816-27
-     :END:
+* Die Bedrängnis durch Assur: 28,16-27
+
 16 In jener Zeit sandte König Ahas einen Hilferuf an den König von
-Assur; ^{[[#fn3][3]][[#fn4][4]]}
+Assur; [fn:3] [fn:4]
 
 <<v17>>
 17 denn auch die Edomiter waren eingedrungen, hatten Juda besiegt und
@@ -121,8 +112,7 @@ seinen Tochterstädten und setzten sich darin fest;
 
 <<v19>>
 19 denn der Herr demütigte Juda wegen Ahas', des Königs von Juda, der
-die Zügellosigkeit in Juda förderte und gegen den Herrn treulos war.
-^{[[#fn5][5]]}
+die Zügellosigkeit in Juda förderte und gegen den Herrn treulos war. [fn:5]
 
 <<v20>>
 20 Tiglat-Pileser, der König von Assur, kam zu ihm; doch brachte er ihm
@@ -163,15 +153,17 @@ innerhalb der Stadt, legte ihn also nicht in die Gräber der Könige von
 Israel. Sein Sohn Hiskija wurde König an seiner Stelle.\\
 \\
 
-^{[[#fnm1][1]]} ℘ (1-8) 2 Kön 16,1-5
+* Footnotes
 
-^{[[#fnm2][2]]} Wahrscheinlich regierte Ahas nur sechs, nicht sechzehn
-Jahre (vgl. die Anmerkung zu 2 Kön 16,2).
+[fn:1] (1-8) [[file:2.Kön_16.org::v1][2 Kön 16,1]]-[[file:2.Kön_16.org::v5][5]]
 
-^{[[#fnm3][3]]} ℘ (16-27) 2 Kön 16,7-19
+[fn:2] Wahrscheinlich regierte Ahas nur sechs, nicht sechzehn
+Jahre (vgl. die Anmerkung zu [[file:2.Kön_16.org::v2][2 Kön 16,2]]).
 
-^{[[#fnm4][4]]} 16-18: Das geschah während des Syrisch-efraimitischen
-Kriegs (vgl. 2 Kön 16,5-7).
+[fn:3] (16-27) [[file:2.Kön_16.org::v7][2 Kön 16,7]]-[[file:2.Kön_16.org::v19][19]]
 
-^{[[#fnm5][5]]} König von Juda: Text korr. nach G; H: Israel, vgl. aber
-die Anmerkung zu 10,1.
+[fn:4] 16-18: Das geschah während des Syrisch-efraimitischen
+Kriegs (vgl. [[file:2.Kön_16.org::v5][2 Kön 16,5]]-[[file:2.Kön_16.org::v7][7]]).
+
+[fn:5] König von Juda: Text korr. nach G; H: Israel, vgl. aber
+die Anmerkung zu [[file:2.Kön_10.org::v1][10,1]].

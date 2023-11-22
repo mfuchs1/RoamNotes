@@ -1,35 +1,27 @@
-:PROPERTIES:
-:ID:       d6babcff-0f4a-4efd-8341-760f07e950db
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch der Chronik* --
-[[file:2.Chr_1.html][1]] ... [[file:2.Chr_19.html][19]]
-[[file:2.Chr_20.html][20]] *21* [[file:2.Chr_22.html][22]]
-[[file:2.Chr_23.html][23]] ... [[file:2.Chr_36.html][36]]
-
---------------
-
-* 2.Chr 21
-  :PROPERTIES:
-  :CUSTOM_ID: chr-21
-  :END:
+#+TITLE: 2 Chr 21 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-22 Mi 22:43]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Chr 21.html
 
 <<verses>>
 
 <<v1>>
-**** Joram: 21,1-20
-     :PROPERTIES:
-     :CUSTOM_ID: joram-211-20
-     :END:
+* Joram: 21,1-20
+
 1 Joschafat entschlief zu seinen Vätern und wurde bei seinen Vätern in
-der Davidstadt begraben. Sein Sohn Joram wurde König an seiner Stelle.
-^{[[#fn1][1]]}
+der Davidstadt begraben. Sein Sohn Joram wurde König an seiner Stelle. [fn:1]
 
 <<v2>>
 2 Seine Brüder, die Söhne Joschafats, waren: Asarja, Jehiël, Secharja,
 Asarja, Michael und Schefatja; sie alle waren Söhne Joschafats, des
-Königs von Juda. ^{[[#fn2][2]]}
+Königs von Juda. [fn:2]
 
 <<v3>>
 3 Ihr Vater gab ihnen reiche Geschenke an Silber, Gold und anderen
@@ -43,7 +35,7 @@ Israels mit dem Schwert hinrichten.
 
 <<v5>>
 5 Joram war zweiunddreißig Jahre alt, als er König wurde, und regierte
-acht Jahre in Jerusalem. ^{[[#fn3][3]]}
+acht Jahre in Jerusalem. [fn:3]
 
 <<v6>>
 6 Er folgte den Wegen der Könige von Israel, wie es das Haus Ahab getan
@@ -53,12 +45,11 @@ Herrn missfiel.
 <<v7>>
 7 Doch der Herr wollte das Haus David nicht verderben wegen des Bundes,
 den er mit David geschlossen hatte, und weil er ihm versprochen hatte,
-er werde ihm und seinen Söhnen für immer eine Leuchte geben.
-^{[[#fn4][4]]}
+er werde ihm und seinen Söhnen für immer eine Leuchte geben. [fn:4]
 
 <<v8>>
 8 In den Tagen Jorams fiel Edom von Juda ab und setzte einen eigenen
-König ein. ^{[[#fn5][5]]}
+König ein. [fn:5]
 
 <<v9>>
 9 Joram zog daher mit seinen Obersten und allen Kriegswagen gegen sie.
@@ -97,13 +88,13 @@ Krankheit herausfallen werden.
 
 <<v16>>
 16 Der Herr reizte nun den Wagemut der Philister und der Araber, die
-neben den Kuschitern wohnen, gegen Joram auf. ^{[[#fn6][6]]}
+neben den Kuschitern wohnen, gegen Joram auf. [fn:6]
 
 <<v17>>
 17 Sie zogen gegen Juda, überfielen das Land und nahmen den ganzen
 Besitz weg, der sich im Palast des Königs fand; auch seine Söhne und
 Frauen führten sie weg. Es blieb ihm kein Sohn außer Joahas, dem
-jüngsten von ihnen. ^{[[#fn7][7]]}
+jüngsten von ihnen. [fn:7]
 
 <<v18>>
 18 Nach all dem schlug der Herr den Joram mit einer unheilbaren
@@ -121,17 +112,18 @@ acht Jahre in Jerusalem. Er ging dahin, von niemand bedauert. Man begrub
 ihn in der Davidstadt, aber nicht in den Gräbern der Könige.\\
 \\
 
-^{[[#fnm1][1]]} ℘ 1 Kön 22,51
+* Footnotes
 
-^{[[#fnm2][2]]} Juda: Text korr. nach G; H: Israel, doch vgl. die
-Anmerkung zu 10,1.
+[fn:1] [[file:1.Kön_22.org::v51][1 Kön 22,51]]
 
-^{[[#fnm3][3]]} ℘ (5-10) 2 Kön 8,16-24
+[fn:2] Juda: Text korr. nach G; H: Israel, doch vgl. die Anmerkung zu [[file:2.Chr_10.org::v1][10,1]].
 
-^{[[#fnm4][4]]} ℘ 1 Kön 11,36
+[fn:3] (5-10) [[file:2.Kön_8.org::v16][2 Kön 8,16]]-[[file:2.Kön_8.org::v24][24]]
 
-^{[[#fnm5][5]]} 8-10: Vgl. die Anmerkung zu 2 Kön 8,21.
+[fn:4] [[file:1.Kön_11.org::v36][1 Kön 11,36]]
 
-^{[[#fnm6][6]]} Kuschiter: wie in 14,8.
+[fn:5] 8-10: Vgl. die Anmerkung zu [[file:2.Kön_8.org::v21][2 Kön 8,21]].
 
-^{[[#fnm7][7]]} Joahas: Im folgenden wird er Ahasja genannt.
+[fn:6] Kuschiter: wie in [[file:2.Chr_14.org::v8][14,8]].
+
+[fn:7] Joahas: Im folgenden wird er Ahasja genannt.

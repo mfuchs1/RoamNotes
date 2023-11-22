@@ -1,27 +1,20 @@
-:PROPERTIES:
-:ID:       0be9701b-a7cf-4b4b-a040-0aba5717e6ab
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch der Chronik* --
-[[file:2.Chr_1.html][1]] ... [[file:2.Chr_28.html][28]]
-[[file:2.Chr_29.html][29]] *30* [[file:2.Chr_31.html][31]]
-[[file:2.Chr_32.html][32]] ... [[file:2.Chr_36.html][36]]
-
---------------
-
-* 2.Chr 30
-  :PROPERTIES:
-  :CUSTOM_ID: chr-30
-  :END:
+#+TITLE: 2 Chr 30 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-22 Mi 23:27]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Chr 30.html
 
 <<verses>>
 
 <<v1>>
-**** Die Feier des Paschafestes: 30,1 - 31,1
-     :PROPERTIES:
-     :CUSTOM_ID: die-feier-des-paschafestes-301---311
-     :END:
+* Die Feier des Paschafestes: 30,1 - 31,1
+
 1 Hiskija sandte Boten zu ganz Israel und Juda, schrieb auch Briefe an
 Efraim und Manasse und forderte sie auf, zum Haus des Herrn nach
 Jerusalem zu kommen und zur Ehre des Herrn, des Gottes Israels, das
@@ -30,7 +23,7 @@ Pascha zu feiern.
 <<v2>>
 2 Dann beriet er sich mit seinen Hofleuten und der ganzen Versammlung in
 Jerusalem, ob sie das Pascha nicht erst im zweiten Monat begehen
-sollten; ^{[[#fn1][1]]}
+sollten; [fn:1]
 
 <<v3>>
 3 denn sie konnten es damals nicht abhalten, da sich nicht genügend
@@ -68,7 +61,7 @@ Herrn, eurem Gott, damit sein Zorn von euch ablässt.
 finden bei denen, die sie als Gefangene weggeführt haben. Sie werden in
 dieses Land zurückkehren dürfen; denn der Herr, euer Gott, ist gnädig
 und barmherzig. Er wird sein Angesicht nicht von euch abwenden, wenn ihr
-zu ihm umkehrt. ^{[[#fn2][2]]}
+zu ihm umkehrt. [fn:2]
 
 <<v10>>
 10 Die Eilboten zogen von Stadt zu Stadt durch das Gebiet von Efraim und
@@ -131,7 +124,7 @@ Instrumenten.
 22 Die Leviten zeigten großes Verständnis für den Dienst des Herrn und
 Hiskija ermunterte sie zu ihrer Arbeit. Als dann die sieben Tage der
 Festzeit zu Ende waren, an denen sie Heilsopfer darbrachten und den
-Herrn, den Gott ihrer Väter, priesen, ^{[[#fn3][3]]}
+Herrn, den Gott ihrer Väter, priesen, [fn:3]
 
 <<v23>>
 23 beschloss die ganze Versammlung, weitere sieben Tage zu feiern, und
@@ -151,21 +144,23 @@ sich aus dem Gebiet Israels eingefunden hatten oder in Juda wohnten.
 <<v26>>
 26 Die Freude war groß in Jerusalem; denn seit den Tagen Salomos, des
 Sohnes Davids, des Königs von Israel, hatte es dergleichen in Jerusalem
-nicht mehr gegeben. ^{[[#fn4][4]]}
+nicht mehr gegeben. [fn:4]
 
 <<v27>>
 27 Zuletzt standen die levitischen Priester auf und segneten das Volk.
 Gott hörte ihr Rufen und ihr Gebet drang zu seiner heiligen Wohnung, zum
 Himmel, empor.
 
-^{[[#fnm1][1]]} Num 9,10f gestattet in Ergänzung zu Ex 12,6 in
-besonderen Fällen die Verlegung des Pascha auf den zweiten Monat. Zur
-Paschafeier des ganzen Volkes vgl. die Anmerkung zu Ex 12,1 - 13,6.
+* Footnotes
 
-^{[[#fnm2][2]]} Im Jahr 722 v. Chr. war das Nordreich untergegangen und
+[fn:1] [[file:Num_9.org::v10][Num 9,10f]] gestattet in Ergänzung zu [[file:Ex_12.org::v6][Ex 12,6]] in
+besonderen Fällen die Verlegung des Pascha auf den zweiten Monat. Zur
+Paschafeier des ganzen Volkes vgl. die Anmerkung zu [[file:Ex_12.org::v1][Ex 12,1]] - [[file:Ex_13.org::v6][13,6]].
+
+[fn:2] Im Jahr 722 v. Chr. war das Nordreich untergegangen und
 ein Teil der Bevölkerung nach Assyrien in die Gefangenschaft verschleppt
 worden.
 
-^{[[#fnm3][3]]} zu Ende waren: Text korr. nach G.
+[fn:3] zu Ende waren: Text korr. nach G.
 
-^{[[#fnm4][4]]} Hinweis auf das Tempelweihfest unter Salomo.
+[fn:4] Hinweis auf das Tempelweihfest unter Salomo.

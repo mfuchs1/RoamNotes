@@ -1,30 +1,23 @@
-:PROPERTIES:
-:ID:       9f06adc9-a02f-4265-8980-cf654416f7af
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch der Chronik* --
-[[file:2.Chr_1.html][1]] ... [[file:2.Chr_30.html][30]]
-[[file:2.Chr_31.html][31]] *32* [[file:2.Chr_33.html][33]]
-[[file:2.Chr_34.html][34]] ... [[file:2.Chr_36.html][36]]
-
---------------
-
-* 2.Chr 32
-  :PROPERTIES:
-  :CUSTOM_ID: chr-32
-  :END:
+#+TITLE: 2 Chr 32 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-22 Mi 23:34]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Chr 32.html
 
 <<verses>>
 
 <<v1>>
-**** Sanheribs Feldzug gegen Jerusalem: 32,1-23
-     :PROPERTIES:
-     :CUSTOM_ID: sanheribs-feldzug-gegen-jerusalem-321-23
-     :END:
+* Sanheribs Feldzug gegen Jerusalem: 32,1-23
+
 1 Nach diesen Maßnahmen und diesen Beweisen der Treue Hiskijas zog
 Sanherib, der König von Assur, heran. Er fiel in Juda ein, belagerte die
-festen Städte und gedachte, sie für sich zu erobern. ^{[[#fn1][1]]}
+festen Städte und gedachte, sie für sich zu erobern. [fn:1]
 
 <<v2>>
 2 Als Hiskija sah, dass Sanherib herankam und sich zum Krieg gegen
@@ -64,7 +57,7 @@ Hiskijas, des Königs von Juda, ermutigt.
 9 Als dann Sanherib, der König von Assur, später mit seiner ganzen
 Streitmacht vor Lachisch stand, sandte er seine Diener nach Jerusalem zu
 Hiskija, dem König von Juda, und zu allen Judäern, die in Jerusalem
-wohnten. Er ließ ihnen sagen: ^{[[#fn2][2]]}
+wohnten. Er ließ ihnen sagen: [fn:2]
 
 <<v10>>
 10 So spricht Sanherib, der König von Assur: Worauf vertraut ihr denn,
@@ -130,7 +123,7 @@ nieder.
 <<v22>>
 22 So befreite der Herr den Hiskija und die Einwohner Jerusalems aus der
 Hand Sanheribs, des Königs von Assur, und aus der Hand aller Feinde. Er
-verlieh ihnen ringsum Ruhe. ^{[[#fn3][3]]}
+verlieh ihnen ringsum Ruhe. [fn:3]
 
 <<v23>>
 23 Viele brachten Gaben für den Herrn nach Jerusalem und kostbare
@@ -139,13 +132,10 @@ den Augen aller Völker.\\
 \\
 
 <<v24>>
-**** Weitere Nachrichten über Hiskija: 32,24-33
-     :PROPERTIES:
-     :CUSTOM_ID: weitere-nachrichten-über-hiskija-3224-33
-     :END:
+* Weitere Nachrichten über Hiskija: 32,24-33
+
 24 In jenen Tagen wurde Hiskija schwer krank und war dem Tod nahe. Er
-betete zum Herrn und dieser erhörte ihn und gab ihm ein Wunderzeichen.
-^{[[#fn4][4]][[#fn5][5]]}
+betete zum Herrn und dieser erhörte ihn und gab ihm ein Wunderzeichen. [fn:4] [fn:5]
 
 <<v25>>
 25 Doch Hiskija zeigte keine Dankbarkeit für die empfangene Wohltat und
@@ -164,12 +154,12 @@ kostbaren Geräten.
 
 <<v28>>
 28 Auch hatte er Speicher für Getreide, Most und Öl, dazu Ställe für
-jede Art von Vieh und Hürden für die Herden. ^{[[#fn6][6]]}
+jede Art von Vieh und Hürden für die Herden. [fn:6]
 
 <<v29>>
 29 Er hatte sich nämlich Esel und einen reichen Besitz an Schafen und
 Rindern verschafft, denn Gott hatte ihm ein sehr großes Vermögen
-verliehen. ^{[[#fn7][7]]}
+verliehen. [fn:7]
 
 <<v30>>
 30 Hiskija war es auch, der den oberen Abfluss des Gihonwassers
@@ -180,7 +170,7 @@ was er unternahm, hatte er Erfolg.
 31 So war es auch, als die babylonischen Obersten ihre Unterhändler zu
 ihm sandten, um Auskunft über das Zeichen zu erlangen, das im Land
 erschienen war. Da überließ ihn Gott sich selbst, um zu erproben, wie er
-wirklich gesinnt war. ^{[[#fn8][8]]}
+wirklich gesinnt war. [fn:8]
 
 <<v32>>
 32 Die übrige Geschichte Hiskijas und seine frommen Taten sind
@@ -194,19 +184,21 @@ Juda und die Einwohner Jerusalems die Ehre. Sein Sohn Manasse wurde
 König an seiner Stelle.\\
 \\
 
-^{[[#fnm1][1]]} ℘ (1-23) 2 Kön 18,13 - 19,37; Jes 36 und 37
+* Footnotes
 
-^{[[#fnm2][2]]} 9-22: Vgl. die Anmerkungen zu 2 Kön 18 und 19.
+[fn:1] (1-23) [[file:2.Kön_18.org::v13][2 Kön 18,13]] - [[file:2.Kön_19.org::v27][19,37]]; [[file:Jes_36.org][Jes 36]] und [[file:Jes_37.org][37]]
 
-^{[[#fnm3][3]]} verlieh ihnen Ruhe: Text korr. nach G.
+[fn:2] 9-22: Vgl. die Anmerkungen zu [[file:2.Kön_18.org][2 Kön 18]] und [[file:2.Kön_19.org][19]].
 
-^{[[#fnm4][4]]} ℘ (24-26) 2 Kön 20,1-11
+[fn:3] verlieh ihnen Ruhe: Text korr. nach G.
 
-^{[[#fnm5][5]]} erhörte ihn: Text korr. nach G. 2 Kön 20,1-11 berichtet
+[fn:4] (24-26) [[file:2.Kön_20.org::v1][2 Kön 20,1]]-[[file:2.Kön_20.org::v11][11]]
+
+[fn:5] erhörte ihn: Text korr. nach G. 2 Kön 20,1-11 berichtet
 ausführlich über die Heilung und das Wunderzeichen.
 
-^{[[#fnm6][6]]} Hürden für die Herden: Text korr. nach G und Vg.
+[fn:6] Hürden für die Herden: Text korr. nach G und Vg.
 
-^{[[#fnm7][7]]} Esel: Text korr.; H: Städte.
+[fn:7] Esel: Text korr.; H: Städte.
 
-^{[[#fnm8][8]]} ℘ 2 Kön 20,10-19
+[fn:8] [[file:2.Kön_20.org::v10][2 Kön 20,10]]-[[file:2.Kön_20.org::v19][19]]

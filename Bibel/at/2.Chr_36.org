@@ -1,29 +1,22 @@
-:PROPERTIES:
-:ID:       21b069e5-c85d-494e-b55e-b583e43abcf5
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch der Chronik* --
-[[file:2.Chr_1.html][1]] ... [[file:2.Chr_34.html][34]]
-[[file:2.Chr_35.html][35]] *36*
-
---------------
-
-* 2.Chr 36
-  :PROPERTIES:
-  :CUSTOM_ID: chr-36
-  :END:
+#+TITLE: 2 Chr 36 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-22 Mi 23:56]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Chr 36.html
 
 <<verses>>
 
 <<v1>>
-**** Joahas: 36,1-4
-     :PROPERTIES:
-     :CUSTOM_ID: joahas-361-4
-     :END:
+* Joahas: 36,1-4
+
 1 Die Bürger des Landes nahmen nun Joahas, den Sohn Joschijas, und
-machten ihn anstelle seines Vaters zum König in Jerusalem.
-^{[[#fn1][1]]}
+machten ihn anstelle seines Vaters zum König in Jerusalem. [fn:1]
 
 <<v2>>
 2 Joahas war dreiundzwanzig Jahre alt, als er König wurde. Er regierte
@@ -41,17 +34,14 @@ nahm Necho fest und brachte ihn nach Ägypten.\\
 \\
 
 <<v5>>
-**** Jojakim: 36,5-8
-     :PROPERTIES:
-     :CUSTOM_ID: jojakim-365-8
-     :END:
+* Jojakim: 36,5-8
+
 5 Jojakim war fünfundzwanzig Jahre alt, als er König wurde. Er regierte
-elf Jahre in Jerusalem und tat, was dem Herrn, seinem Gott, missfiel.
-^{[[#fn2][2]]}
+elf Jahre in Jerusalem und tat, was dem Herrn, seinem Gott, missfiel. [fn:2]
 
 <<v6>>
 6 Gegen ihn zog Nebukadnezzar, der König von Babel, herauf und legte ihn
-in Ketten, um ihn nach Babel wegzuführen. ^{[[#fn3][3]]}
+in Ketten, um ihn nach Babel wegzuführen. [fn:3]
 
 <<v7>>
 7 Auch einen Teil der Geräte des Hauses des Herrn brachte Nebukadnezzar
@@ -65,27 +55,22 @@ Stelle.\\
 \\
 
 <<v9>>
-**** Jojachin: 36,9-10
-     :PROPERTIES:
-     :CUSTOM_ID: jojachin-369-10
-     :END:
+* Jojachin: 36,9-10
+
 9 Jojachin war achtzehn Jahre alt, als er König wurde. Er regierte drei
-Monate und zehn Tage in Jerusalem und tat, was dem Herrn missfiel.
-^{[[#fn4][4]][[#fn5][5]]}
+Monate und zehn Tage in Jerusalem und tat, was dem Herrn missfiel. [fn:4] [fn:5]
 
 <<v10>>
 10 Um die Jahreswende ließ König Nebukadnezzar ihn samt den kostbaren
 Geräten des Hauses des Herrn nach Babel bringen. Er machte Zidkija, den
-Bruder Jojakims, zum König von Juda und Jerusalem. ^{[[#fn6][6]]}\\
+Bruder Jojakims, zum König von Juda und Jerusalem. [fn:6]\\
 \\
 
 <<v11>>
-**** Zidkija: 36,11-16
-     :PROPERTIES:
-     :CUSTOM_ID: zidkija-3611-16
-     :END:
+* Zidkija: 36,11-16
+
 11 Zidkija war einundzwanzig Jahre alt, als er König wurde. Er regierte
-elf Jahre in Jerusalem ^{[[#fn7][7]]}
+elf Jahre in Jerusalem [fn:7]
 
 <<v12>>
 12 und tat, was dem Herrn, seinem Gott, missfiel; er beugte sich nicht
@@ -100,7 +85,7 @@ und kehrte nicht um zum Herrn, dem Gott Israels.
 14 Auch alle führenden Männer Judas und die Priester und das Volk
 begingen viel Untreue. Sie ahmten die Gräueltaten der Völker nach und
 entweihten das Haus, das der Herr in Jerusalem zu seinem Heiligtum
-gemacht hatte. ^{[[#fn8][8]]}
+gemacht hatte. [fn:8]
 
 <<v15>>
 15 Immer wieder hatte der Herr, der Gott ihrer Väter, sie durch seine
@@ -113,14 +98,12 @@ groß wurde, dass es keine Heilung mehr gab.\\
 \\
 
 <<v17>>
-**** Das Ende des Reiches Juda: 36,17-21
-     :PROPERTIES:
-     :CUSTOM_ID: das-ende-des-reiches-juda-3617-21
-     :END:
+* Das Ende des Reiches Juda: 36,17-21
+
 17 Der Herr ließ nun den König der Chaldäer gegen sie heranziehen.
 Dieser tötete ihre jungen Krieger in ihrem Heiligtum mit dem Schwert und
 verschonte keinen jungen Mann und keine junge Frau, keinen Greis und
-Betagten; alle gab Gott in seine Hand. ^{[[#fn9][9]]}
+Betagten; alle gab Gott in seine Hand. [fn:9]
 
 <<v18>>
 18 Nebukadnezzar ließ die großen und kleinen Geräte des Hauses Gottes,
@@ -140,19 +123,16 @@ Sklaven dienen, bis das Reich der Perser zur Herrschaft kam.
 <<v21>>
 21 Da ging das Wort in Erfüllung, das der Herr durch den Mund Jeremias
 verkündet hatte. Das Land bekam seine Sabbate ersetzt, es lag brach
-während der ganzen Zeit der Verwüstung, bis siebzig Jahre voll waren.
-^{[[#fn10][10]][[#fn11][11]]}\\
+während der ganzen Zeit der Verwüstung, bis siebzig Jahre voll waren. [fn:10] [fn:11]\\
 \\
 
 <<v22>>
-**** Der Beginn der Wiederherstellung Israels: 36,22-23
-     :PROPERTIES:
-     :CUSTOM_ID: der-beginn-der-wiederherstellung-israels-3622-23
-     :END:
+* Der Beginn der Wiederherstellung Israels: 36,22-23
+
 22 Im ersten Jahr des Königs Kyrus von Persien sollte sich erfüllen, was
 der Herr durch Jeremia gesprochen hatte. Darum erweckte der Herr den
 Geist des Königs Kyrus von Persien und Kyrus ließ in seinem ganzen Reich
-mündlich und schriftlich den Befehl verkünden: ^{[[#fn12][12]]}
+mündlich und schriftlich den Befehl verkünden: [fn:12]
 
 <<v23>>
 23 So spricht Kyrus, der König von Persien: Der Herr, der Gott des
@@ -162,33 +142,33 @@ euch, der zu seinem Volk gehört - der Herr, sein Gott, sei mit ihm -,
 der soll hinaufziehen.\\
 \\
 
-^{[[#fnm1][1]]} ℘ (1-4) 2 Kön 23,30-35
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ (5-8) 2 Kön 23,36f; 25,5f
+[fn:1] (1-4) [[file:2.Kön_23.org::v30][2 Kön 23,30]]-[[file:2.Kön_23.org::v35][35]]
 
-^{[[#fnm3][3]]} Die hier erwähnte Gefangennahme wird sonst nicht
-berichtet.
+[fn:2] (5-8) [[file:2.Kön_23.org::v36][2 Kön 23,36f]]; [[file:2.Kön_25.org::v5][25,5f]]
 
-^{[[#fnm4][4]]} ℘ (9-10) 2 Kön 24,8-17
+[fn:3] Die hier erwähnte Gefangennahme wird sonst nicht berichtet.
 
-^{[[#fnm5][5]]} achtzehn: Text korr. nach 2 Kön 24,8; H: acht.
+[fn:4] (9-10) [[file:2.Kön_24.org::v8][2 Kön 24,8]]-[[file:2.Kön_24.org::v17][17]]
 
-^{[[#fnm6][6]]} Jojachin ergab sich freiwillig den Babyloniern und wurde
+[fn:5] achtzehn: Text korr. nach [[file:2.Kön_24.org::v8][2 Kön 24,8]]; H: acht.
+
+[fn:6] Jojachin ergab sich freiwillig den Babyloniern und wurde
 nach Babylon gebracht, wo er bis zu seiner Begnadigung gefangen gehalten
-wurde (vgl. 2 Kön 25,27). - den Bruder Jojakims: H: seinen Bruder.
+wurde (vgl. [[file:2.Kön_25.org::v27][2 Kön 25,27]]). - den Bruder Jojakims: H: seinen Bruder.
 
-^{[[#fnm7][7]]} ℘ (11-16) 2 Kön 24,18-20
+[fn:7] (11-16) [[file:2.Kön_24.org::v18][2 Kön 24,18]]-[[file:2.Kön_24.org::v20][20]]
 
-^{[[#fnm8][8]]} führenden Männer Judas: so mit G; H: Obersten der
-Priester.
+[fn:8] führenden Männer Judas: so mit G; H: Obersten der Priester.
 
-^{[[#fnm9][9]]} ℘ (17-21) 2 Kön 25,8-21
+[fn:9] (17-21) [[file:2.Kön_25.org::v8][2 Kön 25,8]]-[[file:2.Kön_25.org::v21][21]]
 
-^{[[#fnm10][10]]} ℘ Jer 27,7
+[fn:10] [[file:Jer_27.org::v7][Jer 27,7]]
 
-^{[[#fnm11][11]]} Während der Dauer der Gefangenschaft blieben große
+[fn:11] Während der Dauer der Gefangenschaft blieben große
 Teile des Landes unbebaut. Auf diese Weise wurde ihm die Ruhe ersetzt,
 die es wegen der Nichteinhaltung des Sabbatjahrs hatte entbehren müssen
 (vgl. Lev 26,34f).
 
-^{[[#fnm12][12]]} ℘ (22-23) Esra 1,1-3
+[fn:12] (22-23) [[file:Esra_1.org::v1][Esra 1,1]]-[[file:Esra_1.org::v3][3]]

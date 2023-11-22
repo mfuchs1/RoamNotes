@@ -1,19 +1,16 @@
-:PROPERTIES:
-:ID:       e992f50d-1d01-4332-8324-db155763c7f5
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch der Chronik* --
-[[file:2.Chr_1.html][1]] ... [[file:2.Chr_21.html][21]]
-[[file:2.Chr_22.html][22]] *23* [[file:2.Chr_24.html][24]]
-[[file:2.Chr_25.html][25]] ... [[file:2.Chr_36.html][36]]
-
---------------
+#+TITLE: 2 Chr 23 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-22 Mi 22:55]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Chr 23.html
 
 * 2.Chr 23
-  :PROPERTIES:
-  :CUSTOM_ID: chr-23
-  :END:
 
 <<verses>>
 
@@ -70,7 +67,7 @@ rings um den König auf.
 <<v11>>
 11 Dann führte man den Königssohn heraus. Man überreichte ihm den
 Stirnreif und das Königsgesetz und machte ihn so zum König. Jojada und
-seine Söhne salbten ihn und riefen: Es lebe der König! ^{[[#fn1][1]]}
+seine Söhne salbten ihn und riefen: Es lebe der König! [fn:1]
 
 <<v12>>
 12 Als Atalja das Geschrei des Volkes hörte, das herbeilief und dem
@@ -87,7 +84,7 @@ zerriss ihre Kleider und schrie: Verrat, Verrat!
 14 Doch der Priester Jojada befahl den Hundertschaftsführern, die das
 Kommando über die Truppen hatten: Führt sie durch die Reihen hinaus und
 jeder, der ihr folgen will, soll mit dem Schwert niedergeschlagen
-werden. Er sagte: Tötet sie nicht im Haus des Herrn! ^{[[#fn2][2]]}
+werden. Er sagte: Tötet sie nicht im Haus des Herrn! [fn:2]
 
 <<v15>>
 15 Da legte man Hand an sie, und als sie zum Eingang des Rosstores am
@@ -95,8 +92,7 @@ königlichen Palast kam, machte man sie dort nieder.
 
 <<v16>>
 16 Jojada schloss nun den Bund des Herrn mit dem ganzen Volk und mit dem
-König. Sie versprachen, dass sie das Volk des Herrn sein wollten.
-^{[[#fn3][3]]}
+König. Sie versprachen, dass sie das Volk des Herrn sein wollten. [fn:3]
 
 <<v17>>
 17 Darauf zog das ganze Volk zum Baalstempel und riss ihn nieder. Sie
@@ -125,9 +121,11 @@ Palast und setzten Joasch auf den Königsthron.
 Atalja aber hatte man mit dem Schwert umgebracht.\\
 \\
 
-^{[[#fnm1][1]]} ℘ Dtn 17,18
+* Footnotes
 
-^{[[#fnm2][2]]} befahl den Hundertschaftsführern: Text korr. nach G und
-2 Kön 11,15; H: führte die Hundertschaftsführer . . . heraus.
+[fn:1] [[file:Dtn_17.org::v18][Dtn 17,18]]
 
-^{[[#fnm3][3]]} des Herrn: Text korr. nach 2 Kön 11,17.
+[fn:2] befahl den Hundertschaftsführern: Text korr. nach G und
+[[file:2.Kön_11.org::v15][2 Kön 11,15]]; H: führte die Hundertschaftsführer . . . heraus.
+
+[fn:3] des Herrn: Text korr. nach [[file:2.Kön_11.org::v17][2 Kön 11,17]].

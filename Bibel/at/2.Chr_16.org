@@ -1,26 +1,23 @@
-:PROPERTIES:
-:ID:       02cd39ae-788c-41a4-8bb6-537e9ffc9150
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch der Chronik* --
-[[file:2.Chr_1.html][1]] ... [[file:2.Chr_14.html][14]]
-[[file:2.Chr_15.html][15]] *16* [[file:2.Chr_17.html][17]]
-[[file:2.Chr_18.html][18]] ... [[file:2.Chr_36.html][36]]
-
---------------
+#+TITLE: 2 Chr 16 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-22 Mi 22:22]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Chr 16.html
 
 * 2.Chr 16
-  :PROPERTIES:
-  :CUSTOM_ID: chr-16
-  :END:
 
 <<verses>>
 
 <<v1>>
 1 Im sechsunddreißigsten Regierungsjahr Asas zog Bascha, der König von
 Israel, gegen Juda und baute Rama aus, um Asa, den König von Juda, daran
-zu hindern, in den Krieg zu ziehen. ^{[[#fn1][1]]}
+zu hindern, in den Krieg zu ziehen. [fn:1]
 
 <<v2>>
 2 Da nahm Asa Silber und Gold aus den Schatzkammern des Tempels und des
@@ -35,7 +32,7 @@ mit Bascha, dem König von Israel, damit er von mir abzieht.
 <<v4>>
 4 Ben-Hadad hörte auf König Asa. Er sandte seine Heerführer gegen die
 Städte Israels und diese verwüsteten Ijon, Dan und Abel-Majim sowie alle
-Vorratshäuser in den Städten Naftalis. ^{[[#fn2][2]]}
+Vorratshäuser in den Städten Naftalis. [fn:2]
 
 <<v5>>
 5 Als Bascha das erfuhr, hörte er auf, Rama auszubauen, und stellte die
@@ -55,7 +52,7 @@ entkommen.
 <<v8>>
 8 Hatten nicht auch die Kuschiter und Libyer ein gewaltiges Heer mit
 sehr vielen Wagen und Wagenkämpfern? Weil du dich aber auf den Herrn
-stütztest, gab er es in deine Gewalt. ^{[[#fn3][3]]}
+stütztest, gab er es in deine Gewalt. [fn:3]
 
 <<v9>>
 9 Denn die Augen des Herrn schweifen über die ganze Erde, um denen ein
@@ -69,12 +66,10 @@ Volk ließ Asa damals misshandeln.\\
 \\
 
 <<v11>>
-**** Der Tod Asas: 16,11-14
-     :PROPERTIES:
-     :CUSTOM_ID: der-tod-asas-1611-14
-     :END:
+* Der Tod Asas: 16,11-14
+
 11 Die frühere und die spätere Geschichte Asas ist aufgezeichnet im Buch
-der Könige von Juda und Israel. ^{[[#fn4][4]]}
+der Könige von Juda und Israel. [fn:4]
 
 <<v12>>
 12 Im neununddreißigsten Jahr seiner Regierung erkrankte Asa an den
@@ -92,10 +87,12 @@ und allerlei kunstvoll zubereiteten Salben ausgestattet war, und zündete
 zu seiner Ehre ein gewaltiges Feuer an.\\
 \\
 
-^{[[#fnm1][1]]} Vgl. die Anmerkung zu 1 Kön 15,17.
+* Footnotes
 
-^{[[#fnm2][2]]} Abel-Majim heißt in 1 Kön 15,20 Abel-Bet-Maacha.
+[fn:1] Vgl. die Anmerkung zu [[file:1.Kön_15.org::v17][1 Kön 15,17]].
 
-^{[[#fnm3][3]]} ℘ 14,7-14
+[fn:2] Abel-Majim heißt in [[file:1.Kön_15.org::v20][1 Kön 15,20]] Abel-Bet-Maacha.
 
-^{[[#fnm4][4]]} ℘ (11-14) 1 Kön 15,23f
+[fn:3] [[file:1.Kön_14.org::v7][14,7-14]]
+
+[fn:4] (11-14) [[file:1.Kön_15.org::v23][1 Kön 15,23f]]

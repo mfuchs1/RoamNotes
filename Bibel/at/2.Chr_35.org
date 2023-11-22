@@ -1,29 +1,22 @@
-:PROPERTIES:
-:ID:       693df854-8a6b-43ed-8add-4ecd0c24c125
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch der Chronik* --
-[[file:2.Chr_1.html][1]] ... [[file:2.Chr_33.html][33]]
-[[file:2.Chr_34.html][34]] *35* [[file:2.Chr_36.html][36]]
-
---------------
-
-* 2.Chr 35
-  :PROPERTIES:
-  :CUSTOM_ID: chr-35
-  :END:
+#+TITLE: 2 Chr 35 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-22 Mi 23:51]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Chr 35.html
 
 <<verses>>
 
 <<v1>>
-**** Die Feier des Paschafestes: 35,1-19
-     :PROPERTIES:
-     :CUSTOM_ID: die-feier-des-paschafestes-351-19
-     :END:
+* Die Feier des Paschafestes: 35,1-19
+
 1 Joschija feierte in Jerusalem ein Pascha zur Ehre des Herrn. Man
-schlachtete das Pascha am vierzehnten Tag des ersten Monats.
-^{[[#fn1][1]]}
+schlachtete das Pascha am vierzehnten Tag des ersten Monats. [fn:1]
 
 <<v2>>
 2 Er ließ die Priester zu ihrem Dienst antreten und ermunterte sie zu
@@ -34,7 +27,7 @@ ihrer Tätigkeit im Haus des Herrn.
 heilig waren, sagte er: Die heilige Lade hat man in das Haus gebracht,
 das Salomo, der Sohn Davids, der König von Israel, gebaut hat. Ihr
 braucht sie nicht mehr auf euren Schultern zu tragen. Dient nun dem
-Herrn, eurem Gott, und seinem Volk Israel! ^{[[#fn2][2]]}
+Herrn, eurem Gott, und seinem Volk Israel! [fn:2]
 
 <<v4>>
 4 Haltet euch bereit nach euren Großfamilien und euren Abteilungen gemäß
@@ -79,12 +72,12 @@ Leviten die Tiere.
 12 Die zum Brandopfer bestimmten Stücke legten sie beiseite und gaben
 sie den Familiengruppen des Volkes, damit sie dem Herrn dargebracht
 würden, wie es im Buch des Mose vorgeschrieben war. Ebenso machten sie
-es mit den Rindern. ^{[[#fn3][3]][[#fn4][4]]}
+es mit den Rindern. [fn:3] [fn:4]
 
 <<v13>>
 13 Dann brieten sie das Pascha der Vorschrift gemäß am Feuer. Die
 heiligen Gaben kochten sie in Kesseln, Töpfen und Schüsseln und brachten
-sie eilends zu allen Angehörigen des Volkes. ^{[[#fn5][5]]}
+sie eilends zu allen Angehörigen des Volkes. [fn:5]
 
 <<v14>>
 14 Hierauf besorgten sie das Pascha für sich selbst und für die
@@ -114,7 +107,7 @@ hatten, das Pascha und das Fest der Ungesäuerten Brote.
 Israel nicht mehr gefeiert worden. Keiner von den Königen Israels hat
 ein Pascha veranstaltet, wie es Joschija mit den Priestern und Leviten,
 mit ganz Juda und den anwesenden Israeliten und den Einwohnern
-Jerusalems feierte. ^{[[#fn6][6]]}
+Jerusalems feierte. [fn:6]
 
 <<v19>>
 19 Im achtzehnten Jahr der Regierung Joschijas wurde dieses Pascha
@@ -122,13 +115,11 @@ begangen.\\
 \\
 
 <<v20>>
-**** Das Ende Joschijas: 35,20-27
-     :PROPERTIES:
-     :CUSTOM_ID: das-ende-joschijas-3520-27
-     :END:
+* Das Ende Joschijas: 35,20-27
+
 20 Nachdem Joschija all dies zur Instandsetzung des Hauses getan hatte,
 zog Necho, der König von Ägypten, herauf, um bei Karkemisch am Eufrat zu
-kämpfen. Joschija stellte sich ihm entgegen. ^{[[#fn7][7]]}
+kämpfen. Joschija stellte sich ihm entgegen. [fn:7]
 
 <<v21>>
 21 Necho aber sandte Boten zu ihm und ließ ihm sagen: Was habe ich mit
@@ -141,7 +132,7 @@ er dich verderben.
 22 Doch Joschija zog sich nicht vor Necho zurück, sondern wagte es, ihn
 anzugreifen. Er hörte nicht auf die Worte Nechos, die aus dem Mund
 Gottes kamen, sondern trat in der Ebene von Megiddo zum Kampf gegen ihn
-an. ^{[[#fn8][8]]}
+an. [fn:8]
 
 <<v23>>
 23 Aber die Bogenschützen trafen den König Joschija, der nun seinen
@@ -156,7 +147,7 @@ seiner Väter beigesetzt. Ganz Juda und Jerusalem trauerten um Joschija.
 25 Jeremia aber hielt Klage über Joschija und alle Sänger und
 Sängerinnen singen auf ihn Klagelieder bis zum heutigen Tag. Es wurde
 dies zu einem festen Brauch in Israel. Sie sind aufgezeichnet in den
-Klageliedern. ^{[[#fn9][9]]}
+Klageliedern. [fn:9]
 
 <<v26>>
 26 Die übrige Geschichte Joschijas und seine frommen Taten, die ganz dem
@@ -167,26 +158,28 @@ entsprachen, was im Gesetz des Herrn vorgeschrieben ist,
 Buch der Könige von Israel und Juda.\\
 \\
 
-^{[[#fnm1][1]]} ℘ (1-19) 2 Kön 23,21-23
+* Footnotes
 
-^{[[#fnm2][2]]} hat man . . . gebracht: Text korr. nach G; H: bringt.
+[fn:1] (1-19) [[file:2.Kön_23.org::v21][2 Kön 23,21]]-[[file:2.Kön_23.org::v23][23]]
 
-^{[[#fnm3][3]]} ℘ Lev 3,8-11
+[fn:2] hat man . . . gebracht: Text korr. nach G; H: bringt.
 
-^{[[#fnm4][4]]} Der Bemerkung ist zu entnehmen, dass Teile des
+[fn:3] [[file:Lev_3.org::v8][Lev 3,8]]-[[file:Lev_3.org::v11][11]]
+
+[fn:4] Der Bemerkung ist zu entnehmen, dass Teile des
 Paschalamms wie beim Friedopfer auf dem Altar verbrannt wurden.
 
-^{[[#fnm5][5]]} ℘ Ex 12,8
+[fn:5] [[file:Ex_12.org::v8][Ex 12,8]]
 
-^{[[#fnm6][6]]} Im Unterschied zum Pascha Hiskijas, bei dem das
+[fn:6] Im Unterschied zum Pascha Hiskijas, bei dem das
 erstrebte Ziel nur teilweise erreicht wurde (30,10), war diesmal das
 ganze Volk vertreten. Das war zum letzten Mal zur Zeit Samuels, nach 2
 Kön 23,22 zur Zeit der Richter, der Fall gewesen. Jos 5,10 erwähnt die
 letzte gemeinsame Paschafeier am Ende der Wüstenwanderung.
 
-^{[[#fnm7][7]]} ℘ (20-24) 2 Kön 23,28-30
+[fn:7] (20-24) [[file:2.Kön_23.org::v28][2 Kön 23,28]]-[[file:2.Kön_23.org::v30][30]]
 
-^{[[#fnm8][8]]} wagte es: Text korr. nach G.
+[fn:8] wagte es: Text korr. nach G.
 
-^{[[#fnm9][9]]} Das biblische Buch der Klagelieder trauert über den
+[fn:9] Das biblische Buch der Klagelieder trauert über den
 Untergang Jerusalems, ist daher von dem hier genannten verschieden.

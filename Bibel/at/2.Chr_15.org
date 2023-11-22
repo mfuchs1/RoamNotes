@@ -1,27 +1,20 @@
-:PROPERTIES:
-:ID:       02ce18d2-d314-48cf-9078-7ed08711aa87
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch der Chronik* --
-[[file:2.Chr_1.html][1]] ... [[file:2.Chr_13.html][13]]
-[[file:2.Chr_14.html][14]] *15* [[file:2.Chr_16.html][16]]
-[[file:2.Chr_17.html][17]] ... [[file:2.Chr_36.html][36]]
-
---------------
-
-* 2.Chr 15
-  :PROPERTIES:
-  :CUSTOM_ID: chr-15
-  :END:
+#+TITLE: 2 Chr 15 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-22 Mi 22:20]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Chr 15.html
 
 <<verses>>
 
 <<v1>>
-**** Die Bundeserneuerung unter Asa: 15,1-18
-     :PROPERTIES:
-     :CUSTOM_ID: die-bundeserneuerung-unter-asa-151-18
-     :END:
+* Die Bundeserneuerung unter Asa: 15,1-18
+
 1 Über Asarja, den Sohn Odeds, kam der Geist Gottes.
 
 <<v2>>
@@ -32,7 +25,7 @@ verlasst, verlässt er euch.
 
 <<v3>>
 3 Lange Zeit lebte Israel ohne den wahren Gott, ohne einen belehrenden
-Priester, ohne Gesetz. ^{[[#fn1][1]]}
+Priester, ohne Gesetz. [fn:1]
 
 <<v4>>
 4 In ihrer Not bekehrten sie sich zum Herrn, dem Gott Israels, und da
@@ -55,7 +48,7 @@ Tun wird seinen Lohn finden.
 Odeds, hörte, entfernte er mutig die Götzenbilder aus dem ganzen Gebiet
 von Juda und Benjamin sowie aus den Städten, die er im Gebirge Efraim
 erobert hatte. Auch erneuerte er den Altar des Herrn, der vor dem Tempel
-des Herrn stand. ^{[[#fn2][2]]}
+des Herrn stand. [fn:2]
 
 <<v9>>
 9 Dann versammelte er ganz Juda und Benjamin sowie die Leute von Efraim,
@@ -91,8 +84,7 @@ er sich von ihnen finden und verschaffte ihnen ringsum Ruhe.
 <<v16>>
 16 König Asa enthob auch seine Großmutter Maacha ihrer Stellung als
 Herrin, weil sie der Aschera ein Schandbild errichtet hatte. Er ließ das
-Schandbild umhauen, es zertrümmern und im Kidrontal verbrennen.
-^{[[#fn3][3]]}
+Schandbild umhauen, es zertrümmern und im Kidrontal verbrennen. [fn:3]
 
 <<v17>>
 17 Nur die Kulthöhen verschwanden nicht aus Israel. Doch das Herz Asas
@@ -104,21 +96,21 @@ Weihegaben in das Haus Gottes: Silber, Gold und allerlei Geräte.\\
 \\
 
 <<v19>>
-**** Der Krieg Asas mit dem Nordreich: 15,19 - 16,10
-     :PROPERTIES:
-     :CUSTOM_ID: der-krieg-asas-mit-dem-nordreich-1519---1610
-     :END:
+* Der Krieg Asas mit dem Nordreich: 15,19 - 16,10
+
 19 Es gab keinen Krieg bis zum fünfunddreißigsten Jahr der Regierung
-Asas. ^{[[#fn4][4]][[#fn5][5]]}
+Asas. [fn:4] [fn:5]
 
-^{[[#fnm1][1]]} 3-6: Die Verse beschreiben die Zeit der Richter.
+* Footnotes
 
-^{[[#fnm2][2]]} Asarja, des Sohnes: Text sinngemäß ergänzt.
+[fn:1] 3-6: Die Verse beschreiben die Zeit der Richter.
 
-^{[[#fnm3][3]]} ℘ (16-18) 1 Kön 15,13-15
+[fn:2] Asarja, des Sohnes: Text sinngemäß ergänzt.
 
-^{[[#fnm4][4]]} ℘ (19-16,6) 1 Kön 15,17-22
+[fn:3] (16-18) 1 Kön 15,13-15
 
-^{[[#fnm5][5]]} 19-16,1: Die Zahlen 35 und 36 beruhen auf einem Versehen
+[fn:4] (19-16,6) 1 Kön 15,17-22
+
+[fn:5] 19-16,1: Die Zahlen 35 und 36 beruhen auf einem Versehen
 des Schreibers, da Bascha schon im 26. Jahr Asas starb (vgl. 1 Kön
 16,8).

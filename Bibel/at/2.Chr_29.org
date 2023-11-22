@@ -1,42 +1,33 @@
-:PROPERTIES:
-:ID:       e341dd85-59f3-4c86-aab9-79e21ae667da
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch der Chronik* --
-[[file:2.Chr_1.html][1]] ... [[file:2.Chr_27.html][27]]
-[[file:2.Chr_28.html][28]] *29* [[file:2.Chr_30.html][30]]
-[[file:2.Chr_31.html][31]] ... [[file:2.Chr_36.html][36]]
-
---------------
-
-* 2.Chr 29
-  :PROPERTIES:
-  :CUSTOM_ID: chr-29
-  :END:
+#+TITLE: 2 Chr 29 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-22 Mi 23:24]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Chr 29.html
 
 <<verses>>
 
 <<v1>>
-**** Einleitung zur Geschichte Hiskijas: 29,1-2
-     :PROPERTIES:
-     :CUSTOM_ID: einleitung-zur-geschichte-hiskijas-291-2
-     :END:
+* Einleitung zur Geschichte Hiskijas: 29,1-2
+
 1 Hiskija war fünfundzwanzig Jahre alt, als er König wurde, und regierte
 neunundzwanzig Jahre in Jerusalem. Seine Mutter hieß Abi und war eine
-Tochter Secharjas. ^{[[#fn1][1]]}
+Tochter Secharjas. [fn:1]
 
 <<v2>>
 2 Genau wie sein Vater David tat er, was dem Herrn gefiel.\\
 \\
 
 <<v3>>
-**** Die Wiederherstellung des Kultes: 29,3-36
-     :PROPERTIES:
-     :CUSTOM_ID: die-wiederherstellung-des-kultes-293-36
-     :END:
+* Die Wiederherstellung des Kultes: 29,3-36
+
 3 Im ersten Jahr seiner Regierung, im ersten Monat, öffnete er die Tore
-des Hauses des Herrn und setzte sie wieder instand. ^{[[#fn2][2]]}
+des Hauses des Herrn und setzte sie wieder instand. [fn:2]
 
 <<v4>>
 4 Darauf ließ er die Priester und die Leviten kommen, versammelte sie
@@ -146,7 +137,7 @@ König hatte das Brandopfer und das Sündopfer für ganz Israel bestimmt.
 25 Er stellte die Leviten mit Zimbeln, Harfen und Zithern im Haus des
 Herrn auf, wie es der Anordnung Davids, des königlichen Sehers Gad und
 des Propheten Natan entsprach. Diese Weisungen waren vom Herrn durch
-seine Propheten ergangen. ^{[[#fn3][3]]}
+seine Propheten ergangen. [fn:3]
 
 <<v26>>
 26 Die Leviten traten mit den Instrumenten Davids und die Priester mit
@@ -176,7 +167,7 @@ den Lobpreis mit Freuden, verneigten sich und warfen sich nieder.
 31 Hierauf nahm Hiskija das Wort und sagte: Ihr steht jetzt mit vollen
 Händen vor dem Herrn. Tretet heran und bringt Schlacht- und Dankopfer
 zum Haus des Herrn! Da brachte die Versammlung Schlachtund Dankopfer
-herbei; manche gaben freiwillig noch Brandopfer hinzu. ^{[[#fn4][4]]}
+herbei; manche gaben freiwillig noch Brandopfer hinzu. [fn:4]
 
 <<v32>>
 32 Die Anzahl der Brandopfer, die die Versammlung spendete, betrug
@@ -185,14 +176,14 @@ als Brandopfer dem Herrn dargebracht.
 
 <<v33>>
 33 Die Weihegaben beliefen sich auf sechshundert Rinder und dreitausend
-Schafe. ^{[[#fn5][5]]}
+Schafe. [fn:5]
 
 <<v34>>
 34 Es waren aber zu wenig Priester vorhanden, um alle Brandopfer
 enthäuten zu können. Daher halfen ihnen ihre Amtsbrüder, die Leviten,
 bis die Arbeit geschehen war und die Priester sich geheiligt hatten;
 denn die Leviten hatten sich eifriger um ihre Heiligung bemüht als die
-Priester. ^{[[#fn6][6]]}
+Priester. [fn:6]
 
 <<v35>>
 35 Es war aber auch die Anzahl der Brandopfer sehr groß, die neben den
@@ -205,18 +196,19 @@ wiederhergestellt.
 gewährt hatte; denn es war wider Erwarten schnell geschehen.\\
 \\
 
-^{[[#fnm1][1]]} ℘ (1-2) 2 Kön 18,1-3
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ (3-36) 2 Kön 18,4-8
+[fn:1] (1-2) [[file:2.Kön_18.org::v1][2 Kön 18,1]]-[[file:2.Kön_18.org::v3][3]]
 
-^{[[#fnm3][3]]} ℘ 1 Chr 16,4-6
+[fn:2] (3-36) [[file:2.Kön_18.org::v4][2 Kön 18,4]]-[[file:2.Kön_18.org::v8][8]]
 
-^{[[#fnm4][4]]} Wörtlich: Ihr habt jetzt eure Hand für den Herrn
-gefüllt.
+[fn:3] [[file:1.Chr_16.org::v4][1 Chr 16,4]]-[[file:1.Chr_16.org::v6][6]]
 
-^{[[#fnm5][5]]} Die Menge der Tiere benötigte man zum Opfermahl, das mit
+[fn:4] Wörtlich: Ihr habt jetzt eure Hand für den Herrn gefüllt.
+
+[fn:5] Die Menge der Tiere benötigte man zum Opfermahl, das mit
 der Einweihungsfeier verbunden war.
 
-^{[[#fnm6][6]]} Die Priester und Leviten mussten vor der Ausübung ihres
+[fn:6] Die Priester und Leviten mussten vor der Ausübung ihres
 Dienstes «sich heiligen», d.h. verschiedene Reinigungsriten auf sich
 nehmen.

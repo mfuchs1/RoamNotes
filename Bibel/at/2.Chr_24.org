@@ -1,30 +1,22 @@
-:PROPERTIES:
-:ID:       80cb7179-a78d-4910-828a-895dfa814e10
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch der Chronik* --
-[[file:2.Chr_1.html][1]] ... [[file:2.Chr_22.html][22]]
-[[file:2.Chr_23.html][23]] *24* [[file:2.Chr_25.html][25]]
-[[file:2.Chr_26.html][26]] ... [[file:2.Chr_36.html][36]]
-
---------------
-
-* 2.Chr 24
-  :PROPERTIES:
-  :CUSTOM_ID: chr-24
-  :END:
+#+TITLE: 2 Chr 24 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-22 Mi 22:57]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Chr 24.html
 
 <<verses>>
 
 <<v1>>
-**** Joasch: 24,1-27
-     :PROPERTIES:
-     :CUSTOM_ID: joasch-241-27
-     :END:
+* Joasch: 24,1-27
+
 1 Joasch war sieben Jahre alt, als er König wurde, und regierte vierzig
-Jahre in Jerusalem. Seine Mutter hieß Zibja und stammte aus Beerscheba.
-^{[[#fn1][1]]}
+Jahre in Jerusalem. Seine Mutter hieß Zibja und stammte aus Beerscheba. [fn:1]
 
 <<v2>>
 2 Joasch tat, was dem Herrn gefiel, solange der Priester Jojada lebte.
@@ -45,7 +37,7 @@ Beeilt euch dabei! Als sich aber die Leviten nicht beeilten,
 6 rief Joasch den Oberpriester Jojada zu sich und hielt ihm vor: Warum
 hast du die Leviten nicht angehalten, von Juda und Jerusalem die Abgabe
 zu erheben, die Mose, der Knecht des Herrn, und die Versammlung Israels
-für das Zelt der Bundesurkunde vorgeschrieben haben? ^{[[#fn2][2]]}
+für das Zelt der Bundesurkunde vorgeschrieben haben? [fn:2]
 
 <<v7>>
 7 Die ruchlose Atalja und ihre Bauleute haben das Haus Gottes verfallen
@@ -115,12 +107,11 @@ bewegen, aber man hörte nicht auf ihre Warnung.
 20 Da kam der Geist Gottes über Secharja, den Sohn des Priesters Jojada.
 Er trat vor das Volk und hielt ihm vor: So spricht Gott: Warum
 übertretet ihr die Gebote des Herrn? So könnt ihr kein Glück mehr haben.
-Weil ihr den Herrn verlassen habt, wird er euch verlassen.
-^{[[#fn3][3]]}
+Weil ihr den Herrn verlassen habt, wird er euch verlassen. [fn:3]
 
 <<v21>>
 21 Sie aber taten sich gegen ihn zusammen und steinigten ihn auf Befehl
-des Königs im Hof des Hauses des Herrn. ^{[[#fn4][4]]}
+des Königs im Hof des Hauses des Herrn. [fn:4]
 
 <<v22>>
 22 König Joasch dachte nicht mehr an die Treue, mit der ihm Jojada, der
@@ -155,10 +146,12 @@ Gottes sind aufgezeichnet in den Erläuterungen zum Buch der Könige. Sein
 Sohn Amazja wurde König an seiner Stelle.\\
 \\
 
-^{[[#fnm1][1]]} ℘ (1-27) 2 Kön 12,1-22
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ Ex 30,12-16; 38,24-26
+[fn:1] (1-27) [[file:1.Kön_12.org::v1][2 Kön 12,1]]-[[file:1.Kön_12.org::v22][22]]
 
-^{[[#fnm3][3]]} ℘ 15,2
+[fn:2] [[file:Ex_30.org::v12][Ex 30,12]]-[[file:Ex_30.org::v16][16]]; [[file:Ex_38.org::v24][38,24]]-[[file:Ex_38.org::v26][26]]
 
-^{[[#fnm4][4]]} Darauf bezieht sich das Wort Jesu in Mt 23,35.
+[fn:3] [[file:2.Chr_15.org::v2][15,2]]
+
+[fn:4] Darauf bezieht sich das Wort Jesu in [[file:~/RoamNotes/notes/Bibel/nt/Mt_23.org::v35][Mt 23,35]].

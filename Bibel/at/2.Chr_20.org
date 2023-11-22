@@ -1,34 +1,27 @@
-:PROPERTIES:
-:ID:       7a2c5813-8806-4d3e-9de9-711dfa6918f1
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch der Chronik* --
-[[file:2.Chr_1.html][1]] ... [[file:2.Chr_18.html][18]]
-[[file:2.Chr_19.html][19]] *20* [[file:2.Chr_21.html][21]]
-[[file:2.Chr_22.html][22]] ... [[file:2.Chr_36.html][36]]
-
---------------
-
-* 2.Chr 20
-  :PROPERTIES:
-  :CUSTOM_ID: chr-20
-  :END:
+#+TITLE: 2 Chr 20 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-22 Mi 22:36]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Chr 20.html
 
 <<verses>>
 
 <<v1>>
-**** Joschafats Sieg über die Feinde: 20,1-30
-     :PROPERTIES:
-     :CUSTOM_ID: joschafats-sieg-über-die-feinde-201-30
-     :END:
+* Joschafats Sieg über die Feinde: 20,1-30
+
 1 Danach zogen die Moabiter und Ammoniter mit einer Anzahl von Mëunitern
-zum Krieg gegen Joschafat heran. ^{[[#fn1][1]]}
+zum Krieg gegen Joschafat heran. [fn:1]
 
 <<v2>>
 2 Boten kamen und meldeten Joschafat: Ein großer Heerhaufen zieht von
 jenseits des Meeres, von Edom, gegen dich. Sie stehen schon in
-Hazezon-Tamar, das ist En-Gedi. ^{[[#fn2][2]]}
+Hazezon-Tamar, das ist En-Gedi. [fn:2]
 
 <<v3>>
 3 Joschafat geriet in Furcht; er beschloss, den Herrn zu befragen, und
@@ -45,7 +38,7 @@ Versammlung Judas und Jerusalems
 <<v6>>
 6 und betete: Herr, Gott unserer Väter, bist nicht du Gott im Himmel und
 Herrscher über alle Reiche der Völker? In deiner Hand liegen Kraft und
-Stärke; niemand kann dir widerstehen. ^{[[#fn3][3]]}
+Stärke; niemand kann dir widerstehen. [fn:3]
 
 <<v7>>
 7 Hast nicht du, unser Gott, die Bewohner dieses Landes vor deinem Volk
@@ -60,14 +53,13 @@ sagten:
 9 Wenn Unglück, Schwert, Überschwemmung, Pest oder Hunger über uns
 kommen, wollen wir vor dieses Haus und vor dein Angesicht hintreten;
 denn dein Name ist gegenwärtig in diesem Haus. Wir wollen in unserer Not
-zu dir rufen und du wirst uns dann hören und wirst helfen.
-^{[[#fn4][4]]}
+zu dir rufen und du wirst uns dann hören und wirst helfen. [fn:4]
 
 <<v10>>
 10 Da stehen nun die Ammoniter, Moabiter und die Bewohner des Berglands
 Seïr (an unseren Grenzen). Du hast den Israeliten bei ihrem Auszug aus
 Ägypten nicht erlaubt, ihr Gebiet zu betreten. Sie haben sich von ihnen
-ferngehalten und sie nicht ausgerottet. ^{[[#fn5][5]]}
+ferngehalten und sie nicht ausgerottet. [fn:5]
 
 <<v11>>
 11 Dafür erweisen sie uns nun Böses; sie kommen, um uns aus deinem
@@ -119,13 +111,13 @@ mächtiger Stimme zu preisen.
 Aufbruch trat Joschafat hin und rief: Hört mir zu, Juda und ihr
 Einwohner Jerusalems! Vertraut auf den Herrn, euren Gott, dann werdet
 ihr bestehen. Vertraut auf seine Propheten, dann werdet ihr Erfolg
-haben. ^{[[#fn6][6]]}
+haben. [fn:6]
 
 <<v21>>
 21 Nachdem er sich mit dem Volk beraten hatte, stellte er Sänger für den
 Herrn auf, die in heiligem Schmuck dem kampfbereiten Heer voranzogen,
 Loblieder sangen und riefen: Dankt dem Herrn; denn seine Huld währt
-ewig. ^{[[#fn7][7]]}
+ewig. [fn:7]
 
 <<v22>>
 22 Während sie den Jubelruf und Lobpreis anstimmten, führte der Herr
@@ -148,7 +140,7 @@ richteten, sahen sie nur Leichen am Boden liegen; keiner war entkommen.
 25 Da rückte Joschafat mit seinen Leuten an, um die Beute zu sammeln.
 Sie fanden bei ihnen eine Menge Waren, Kleider, kostbare Geräte und
 nahmen so viel an sich, dass sie es nicht mehr tragen konnten. Drei Tage
-plünderten sie, denn die Beute war reichlich. ^{[[#fn8][8]]}
+plünderten sie, denn die Beute war reichlich. [fn:8]
 
 <<v26>>
 26 Am vierten Tag sammelten sie sich im Tal Beracha und priesen dort den
@@ -174,13 +166,11 @@ ringsum Ruhe.\\
 \\
 
 <<v31>>
-**** Weitere Nachrichten über Joschafat: 20,31-37
-     :PROPERTIES:
-     :CUSTOM_ID: weitere-nachrichten-über-joschafat-2031-37
-     :END:
+* Weitere Nachrichten über Joschafat: 20,31-37
+
 31 Joschafat war König von Juda. Er war fünfunddreißig Jahre alt, als er
 König wurde, und regierte fünfundzwanzig Jahre in Jerusalem. Seine
-Mutter hieß Asuba und war eine Tochter Schilhis. ^{[[#fn9][9]]}
+Mutter hieß Asuba und war eine Tochter Schilhis. [fn:9]
 
 <<v32>>
 32 Er folgte den Wegen seines Vaters Asa, ohne von ihnen abzuweichen,
@@ -188,7 +178,7 @@ und tat, was dem Herrn gefiel.
 
 <<v33>>
 33 Nur die Kulthöhen verschwanden nicht. Das Volk hatte seinen Sinn noch
-nicht auf den Gott seiner Väter gerichtet. ^{[[#fn10][10]]}
+nicht auf den Gott seiner Väter gerichtet. [fn:10]
 
 <<v34>>
 34 Die übrige Geschichte Joschafats, die frühere und die spätere, ist
@@ -201,8 +191,7 @@ dem König von Israel, dessen Tun frevelhaft war.
 
 <<v36>>
 36 Joschafat schloss mit ihm ein Abkommen, um Schiffe zu bauen, die nach
-Tarschisch fahren sollten. Sie bauten die Schiffe in Ezjon-Geber.
-^{[[#fn11][11]]}
+Tarschisch fahren sollten. Sie bauten die Schiffe in Ezjon-Geber. [fn:11]
 
 <<v37>>
 37 Doch Eliëser, der Sohn Dodawas aus Marescha, weissagte gegen
@@ -211,28 +200,30 @@ Werk zerstören. So zerschellten denn die Schiffe und konnten nicht nach
 Tarschisch fahren.\\
 \\
 
-^{[[#fnm1][1]]} Die Mëuniter sind benannt nach der Stadt Maan im Gebirge
+* Footnotes
+
+[fn:1] Die Mëuniter sind benannt nach der Stadt Maan im Gebirge
 Seïr, südlich des Toten Meers. Der Name ist durch G bezeugt; H hat
 «Ammoniter», die unmittelbar vorher genannt waren.
 
-^{[[#fnm2][2]]} von Edom: sinngemäß korr.; H: von Aram.
+[fn:2] von Edom: sinngemäß korr.; H: von Aram.
 
-^{[[#fnm3][3]]} ℘ 1 Chr 29,12
+[fn:3] [[file:1.Chr_29.org::v12][1 Chr 29,12]]
 
-^{[[#fnm4][4]]} ℘ 6,28
+[fn:4] [[file:2.Chr_6.org::v28][6,28]]
 
-^{[[#fnm5][5]]} ℘ Dtn 2,4-19
+[fn:5] [[file:Dtn_2.org::v4][Dtn 2,4]]-[[file:Dtn_2.org::v19][19]]
 
-^{[[#fnm6][6]]} ℘ Jes 7,9
+[fn:6] [[file:Jes_7.org::v9][Jes 7,9]]
 
-^{[[#fnm7][7]]} ℘ Ps 136,1
+[fn:7] [[file:Ps_136.org::v1][Ps 136,1]]
 
-^{[[#fnm8][8]]} Kleider: Text korr.
+[fn:8] Kleider: Text korr.
 
-^{[[#fnm9][9]]} ℘ (31-37) 1 Kön 22,41-50
+[fn:9] (31-37) [[file:1.Kön_22.org::v41][1 Kön 22,41]]-[[file:1.Kön_22.org::v50][50]]
 
-^{[[#fnm10][10]]} Der Chronist empfindet es als Mangel, dass nach der
+[fn:10] Der Chronist empfindet es als Mangel, dass nach der
 Erbauung des Tempels noch Opfer außerhalb Jerusalems dargebracht werden.
 
-^{[[#fnm11][11]]} Hier ist Tarschisch in Spanien (9,21) mit Ofir, das
+[fn:11] Hier ist Tarschisch in Spanien ([[file:2.Chr_9.org::v21][9,21]]) mit Ofir, das
 von Ezion-Geber aus durch das Rote Meer erreicht wurde, verwechselt.

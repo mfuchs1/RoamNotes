@@ -1,33 +1,25 @@
-:PROPERTIES:
-:ID:       aa092665-a246-4a61-9185-c30079085c32
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch der Chronik* --
-[[file:2.Chr_1.html][1]] ... [[file:2.Chr_12.html][12]]
-[[file:2.Chr_13.html][13]] *14* [[file:2.Chr_15.html][15]]
-[[file:2.Chr_16.html][16]] ... [[file:2.Chr_36.html][36]]
-
---------------
-
-* 2.Chr 14
-  :PROPERTIES:
-  :CUSTOM_ID: chr-14
-  :END:
+#+TITLE: 2 Chr 14 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-22 Mi 22:17]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Chr 14.html
 
 <<verses>>
 
 <<v1>>
-**** Asas Erfolge: 14,1-14
-     :PROPERTIES:
-     :CUSTOM_ID: asas-erfolge-141-14
-     :END:
-1 Asa tat, was gut und recht war in den Augen des Herrn, seines Gottes.
-^{[[#fn1][1]]}
+* Asas Erfolge: 14,1-14
+
+1 Asa tat, was gut und recht war in den Augen des Herrn, seines Gottes. [fn:1]
 
 <<v2>>
 2 Er entfernte die fremden Altäre und die Kulthöhen, zerbrach die
-Steinmale, hieb die Kultpfähle um ^{[[#fn2][2]]}
+Steinmale, hieb die Kultpfähle um [fn:2]
 
 <<v3>>
 3 und befahl den Judäern, den Herrn, den Gott ihrer Väter, zu suchen und
@@ -57,11 +49,11 @@ Krieger.
 
 <<v8>>
 8 Gegen sie zog der Kuschiter Serach mit einem Heer von einer Million
-Mann und dreihundert Wagen. Er kam bis Marescha. ^{[[#fn3][3]]}
+Mann und dreihundert Wagen. Er kam bis Marescha. [fn:3]
 
 <<v9>>
 9 Asa zog ihm entgegen und sie stellten sich im Tal nördlich von
-Marescha zum Kampf auf. ^{[[#fn4][4]]}
+Marescha zum Kampf auf. [fn:4]
 
 <<v10>>
 10 Doch Asa rief zum Herrn, seinem Gott, und sagte: Herr, im Streit
@@ -77,8 +69,7 @@ mussten fliehen;
 <<v12>>
 12 Asa und seine Leute verfolgten sie bis Gerar. Von den Kuschitern
 fielen so viele, dass sie sich nicht mehr erholten. Sie zerbrachen vor
-dem Herrn und seinem Heerlager. Die Judäer aber machten reiche Beute.
-^{[[#fn5][5]]}
+dem Herrn und seinem Heerlager. Die Judäer aber machten reiche Beute. [fn:5]
 
 <<v13>>
 13 Sie schlugen alle Städte im Umkreis von Gerar, denn der Schrecken des
@@ -91,17 +82,18 @@ Menge Schafe und Ziegen und Kamele fort und kehrten dann nach Jerusalem
 zurück.\\
 \\
 
-^{[[#fnm1][1]]} ℘ (1-4) 1 Kön 15,9-12
+* Footnotes
 
-^{[[#fnm2][2]]} Zu «Kulthöhen» vgl. die Anmerkung zu 1 Kön 3,2. - Zu
-«Steinmalen» und «Kultpfählen» vgl. die Anmerkung zu 1 Kön 14,23.
+[fn:1] (1-4) [[file:1.Kön_15.org::v9][1 Kön 15,9-12]]
 
-^{[[#fnm3][3]]} Kuschiter sind hier nicht die Bewohner Äthiopiens oder
+[fn:2] Zu «Kulthöhen» vgl. die Anmerkung zu [[file:1.Kön_3.org::v2][1 Kön 3,2]]. - Zu
+«Steinmalen» und «Kultpfählen» vgl. die Anmerkung zu [[file:1.Kön_14.org::v23][1 Kön 14,23]].
+
+[fn:3] Kuschiter sind hier nicht die Bewohner Äthiopiens oder
 des Sudan, sondern ein kleinerer Volksstamm südlich des israelitischen
-Siedlungsgebiets, vgl. die Ortsnamen Marescha (VV. 8f) und Gerar (VV.
-12f).
+Siedlungsgebiets, vgl. die Ortsnamen Marescha (VV. 8f) und Gerar (VV. 12f).
 
-^{[[#fnm4][4]]} nördlich: Text korr. nach G.
+[fn:4] nördlich: Text korr. nach G.
 
-^{[[#fnm5][5]]} Das israelitische Heer ist das Heerlager Gottes, des
+[fn:5] Das israelitische Heer ist das Heerlager Gottes, des
 eigentlichen Königs Israels.

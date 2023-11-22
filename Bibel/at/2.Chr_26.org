@@ -1,29 +1,22 @@
-:PROPERTIES:
-:ID:       80a17da3-1f45-4cd6-823e-2fe2157b1c74
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch der Chronik* --
-[[file:2.Chr_1.html][1]] ... [[file:2.Chr_24.html][24]]
-[[file:2.Chr_25.html][25]] *26* [[file:2.Chr_27.html][27]]
-[[file:2.Chr_28.html][28]] ... [[file:2.Chr_36.html][36]]
-
---------------
-
-* 2.Chr 26
-  :PROPERTIES:
-  :CUSTOM_ID: chr-26
-  :END:
+#+TITLE: 2 Chr 26 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-22 Mi 23:08]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Chr 26.html
 
 <<verses>>
 
 <<v1>>
-**** Usija (Asarja): 26,1-23
-     :PROPERTIES:
-     :CUSTOM_ID: usija-asarja-261-23
-     :END:
+* Usija (Asarja): 26,1-23
+
 1 Das ganze Volk von Juda nahm Usija, der damals sechzehn Jahre alt war,
-und machte ihn zum König anstelle seines Vaters Amazja. ^{[[#fn1][1]]}
+und machte ihn zum König anstelle seines Vaters Amazja. [fn:1]
 
 <<v2>>
 2 Er baute Elat aus, das er für Juda zurückgewonnen hatte, nachdem
@@ -35,13 +28,12 @@ zweiundfünfzig Jahre in Jerusalem. Seine Mutter hieß Jecholja und
 stammte aus Jerusalem.
 
 <<v4>>
-4 Genau wie sein Vater Amazja tat er, was dem Herrn gefiel.
-^{[[#fn2][2]]}
+4 Genau wie sein Vater Amazja tat er, was dem Herrn gefiel. [fn:2]
 
 <<v5>>
 5 Er war bestrebt, Gott zu suchen, solange Secharja lebte, der ihn in
 der Furcht Gottes unterwies, und solange er den Herrn suchte, ließ ihn
-Gott erfolgreich sein. ^{[[#fn3][3]]}
+Gott erfolgreich sein. [fn:3]
 
 <<v6>>
 6 Er unternahm einen Kriegszug gegen die Philister, riss die Mauern von
@@ -50,7 +42,7 @@ Gat, Jabne und Aschdod nieder und baute Städte bei Aschdod und im
 
 <<v7>>
 7 Gott stand ihm bei gegen die Philister, gegen die Araber, die in
-Gur-Baal wohnten, und gegen die Mëuniter. ^{[[#fn4][4]]}
+Gur-Baal wohnten, und gegen die Mëuniter. [fn:4]
 
 <<v8>>
 8 Die Ammoniter zahlten ihm Tribut und sein Ruhm reichte bis an die
@@ -136,12 +128,13 @@ Vätern auf dem Feld bei der Grabstätte der Könige; denn man sagte: Er
 war aussätzig. Sein Sohn Jotam wurde König an seiner Stelle.\\
 \\
 
-^{[[#fnm1][1]]} ℘ (1-23) 2 Kön 14,21-22; 15,1-7
+* Footnotes
 
-^{[[#fnm2][2]]} Der Vergleich mit Amazja ist aus 2 Kön 15,3 übernommen;
-vgl. aber die Anmerkung zu 25,2.
+[fn:1] (1-23) [[file:2.Kön_14.org::v21][2 Kön 14,21]]-[[file:2.Kön_14.org::v22][22]]; [[file:2.Kön_15.org::v1][15,1]]-[[file:2.Kön_15.org::v7][7]]
 
-^{[[#fnm3][3]]} in der Furcht: Text korr. nach G. - Secharja ist sonst
-unbekannt.
+[fn:2] Der Vergleich mit Amazja ist aus [[file:2.Kön_15.org::v3][2 Kön 15,3]] übernommen;
+vgl. aber die Anmerkung zu [[file:2.Chr_25.org::v2][25,2]].
 
-^{[[#fnm4][4]]} Zu den Mëunitern vgl. die Anmerkung zu 20,1.
+[fn:3] in der Furcht: Text korr. nach G. - Secharja ist sonst unbekannt.
+
+[fn:4] Zu den Mëunitern vgl. die Anmerkung zu [[file:2.Chr_20.org::v1][20,1]].

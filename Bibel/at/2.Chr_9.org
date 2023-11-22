@@ -166,33 +166,33 @@ Vaters David. Sein Sohn Rehabeam wurde König an seiner Stelle.\\
 
 * Footnotes
 
-[fn:1] (1-12) 1 Kön 10,1-13
+[fn:1] (1-12) [[file:1.Kön_10.org::v1][1 Kön 10,1-13]]
 
 [fn:2] Zu Saba vgl. die Anmerkung zu 1 Kön 10,1.
 
 [fn:3] sein Opfer: Text korr. nach G und 1 Kön 10,5; H: sein Obergemach.
 
-[fn:4] Vgl. die Anmerkung zu 1 Chr 28,5.
+[fn:4] Vgl. die Anmerkung zu [[file:1.Chr_28.org::v5][1 Chr 28,5]].
 
-[fn:5] zu Algummimholz vgl. die Anmerkung zu 1 Kön 10,11.
+[fn:5] zu Algummimholz vgl. die Anmerkung zu [[file:1.Kön_10.org::v11][1 Kön 10,11]].
 
-[fn:6] (13-28) 1 Kön 10,14-28
+[fn:6] (13-28) [[file:1.Kön_10.org::v14][1 Kön 10,14-28]]
 
 [fn:7] die Abgaben: H: die Männer.
 
 [fn:8] Das Libanonwaldhaus war einer der Palastbauten Salomos
-(vgl. 1 Kön 7,2-5).
+(vgl. [[file:1.Kön_7.org::v2][1 Kön 7,2-5]]).
 
-[fn:9] Text korr. nach 1 Kön 10,19.
+[fn:9] Text korr. nach [[file:1.Kön_10.org::v19][1 Kön 10,19]].
 
-[fn:10] 1 Kön 5,6; 10,26
+[fn:10] [[file:1.Kön_5.org::v6][1 Kön 5,6]]; [[file:1.Kön_10.org::v26][10,26]]
 
-[fn:11] 1 Kön 5,1
+[fn:11] [[file:1.Kön_5.org::v1][1 Kön 5,1]]
 
-[fn:12] (27-28) 1 Kön 10,27f
+[fn:12] (27-28) [[file:1.Kön_10.org::v27][1 Kön 10,27f]]
 
-[fn:13] (29-31) 1 Kön 11,41-43
+[fn:13] (29-31) [[file:1.Kön_11.org::v41][1 Kön 11,41-43]]
 
 [fn:14] Ahija aus Schilo wirkte unter Salomo und Jerobeam I.
-(vgl. 1 Kön 11,29-39; 14,2-16). Jedo ist vielleicht der in 12,15 und
-13,22 genannte Prophet Iddo.
+(vgl. [[file:1.Kön_11.org::v29][1 Kön 11,29-39]]; [[file:1.Kön_14.org::v2][14,2-16]]). Jedo ist vielleicht der in [[file:2.Chr_12.org::v15][12,15]] und
+[[file:2.Chr_13.org::v22][13,22]] genannte Prophet Iddo.

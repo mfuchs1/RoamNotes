@@ -1,19 +1,16 @@
-:PROPERTIES:
-:ID:       e61a28d1-03e6-41c4-ad79-ea21af0a6aab
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch der Chronik* --
-[[file:2.Chr_1.html][1]] ... [[file:2.Chr_9.html][9]]
-[[file:2.Chr_10.html][10]] *11* [[file:2.Chr_12.html][12]]
-[[file:2.Chr_13.html][13]] ... [[file:2.Chr_36.html][36]]
-
---------------
+#+TITLE: 2 Chr 11 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-22 Mi 22:07]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Chr 11.html
 
 * 2.Chr 11
-  :PROPERTIES:
-  :CUSTOM_ID: chr-11
-  :END:
 
 <<verses>>
 
@@ -39,12 +36,10 @@ die Worte des Herrn und sahen davon ab, gegen Jerobeam zu ziehen.
 \\
 
 <<v6>>
-**** Rehabeam: 11,5 - 12,16
-     :PROPERTIES:
-     :CUSTOM_ID: rehabeam-115---1216
-     :END:
+* Rehabeam: 11,5 - 12,16
+
 6 Rehabeam baute Städte in Juda zu Festungen aus. Er baute aus:
-Betlehem, Etam, Tekoa, ^{[[#fn1][1]]}
+Betlehem, Etam, Tekoa, [fn:1]
 
 <<v7>>
 7 Bet-Zur, Socho, Adullam,
@@ -78,8 +73,7 @@ Priesterdienst für den Herrn verwehrten.
 
 <<v15>>
 15 Jerobeam bestellte sich eigene Priester für die Kulthöhen, für die
-Bocksgeister und für die Kälber, die er gemacht hatte.
-^{[[#fn2][2]][[#fn3][3]]}
+Bocksgeister und für die Kälber, die er gemacht hatte. [fn:2] [fn:3]
 
 <<v16>>
 16 Den Leviten folgten aus allen Stämmen Israels auch andere, die darauf
@@ -106,7 +100,7 @@ Attai, Sisa und Schelomit.
 21 Rehabeam aber liebte Maacha, die Enkelin Abschaloms, mehr als seine
 anderen Frauen und Nebenfrauen. Er hatte nämlich achtzehn Frauen und
 sechzig Nebenfrauen genommen und achtundzwanzig Söhne und sechzig
-Töchter gezeugt. ^{[[#fn4][4]]}
+Töchter gezeugt. [fn:4]
 
 <<v22>>
 22 Abija, den Sohn der Maacha, bestellte Rehabeam zum Oberhaupt und
@@ -118,17 +112,18 @@ machen.
 alle festen Städte an seine Söhne. Auch verschaffte er ihnen reichlichen
 Unterhalt und warb viele Frauen für sie.
 
-^{[[#fnm1][1]]} 6-10: Die Orte liegen südlich und westlich von
+* Footnotes
+
+[fn:1] 6-10: Die Orte liegen südlich und westlich von
 Jerusalem. Durch ihren Ausbau sollte Juda gegen Angriffe aus Ägypten
 geschützt werden, das unter dem Pharao Schischak Palästina bedrohte
-(vgl. Kap. 12).
+(vgl. [[file:2.Chr_12.org][Kap. 12]]).
 
-^{[[#fnm2][2]]} ℘ 1 Kön 12,28
+[fn:2] [[file:1.Kön_12.org::v28][1 Kön 12,28]]
 
-^{[[#fnm3][3]]} Die Einsetzung von Priestern, die nicht dem Stamm Levi
-angehörten, wurde schon in 1 Kön 12,31 getadelt. - Bocksgeister sind in
+[fn:3] Die Einsetzung von Priestern, die nicht dem Stamm Levi
+angehörten, wurde schon in [[file:1.Kön_12.org::v31][1 Kön 12,31]] getadelt. - Bocksgeister sind in
 der Volksphantasie Dämonen in Bocksgestalt. - Die «Kälber» sind die
-Stierbilder, die Jerobeam I. in Bet-El und Dan aufstellen ließ (vgl. 1
-Kön 12,28f).
+Stierbilder, die Jerobeam I. in Bet-El und Dan aufstellen ließ (vgl. [[file:1.Kön_12.org::v28][1 Kön 12,28f]]).
 
-^{[[#fnm4][4]]} Nachahmung der Haremsbräuche orientalischer Herrscher.
+[fn:4] Nachahmung der Haremsbräuche orientalischer Herrscher.

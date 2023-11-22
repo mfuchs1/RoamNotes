@@ -1,29 +1,21 @@
-:PROPERTIES:
-:ID:       645cdb7a-314d-461c-9484-4a66c67b8d6e
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch der Chronik* --
-[[file:2.Chr_1.html][1]] ... [[file:2.Chr_11.html][11]]
-[[file:2.Chr_12.html][12]] *13* [[file:2.Chr_14.html][14]]
-[[file:2.Chr_15.html][15]] ... [[file:2.Chr_36.html][36]]
-
---------------
-
-* 2.Chr 13
-  :PROPERTIES:
-  :CUSTOM_ID: chr-13
-  :END:
+#+TITLE: 2 Chr 13 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-22 Mi 22:15]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Chr 13.html
 
 <<verses>>
 
 <<v1>>
-**** Abija: 13,1-23
-     :PROPERTIES:
-     :CUSTOM_ID: abija-131-23
-     :END:
-1 Im achtzehnten Jahr des Königs Jerobeam wurde Abija König von Juda.
-^{[[#fn1][1]]}
+* Abija: 13,1-23
+
+1 Im achtzehnten Jahr des Königs Jerobeam wurde Abija König von Juda. [fn:1]
 
 <<v2>>
 2 Er regierte drei Jahre in Jerusalem. Seine Mutter hieß Michaja und war
@@ -42,7 +34,7 @@ rief: Hört mich an, Jerobeam und ganz Israel!
 <<v5>>
 5 Wisst ihr denn nicht, dass der Herr, der Gott Israels, David und
 seinen Söhnen das Königtum von Israel in einem Salzbund auf ewige Zeiten
-verliehen hat? ^{[[#fn2][2]]}
+verliehen hat? [fn:2]
 
 <<v6>>
 6 Doch Jerobeam, der Sohn Nebats, der Knecht Salomos, des Sohnes Davids,
@@ -134,6 +126,8 @@ Sein Sohn Asa wurde König an seiner Stelle. In seinen Tagen hatte das
 Land zehn Jahre Ruhe.\\
 \\
 
-^{[[#fnm1][1]]} ℘ (1-23) 1 Kön 15,1-8
+* Footnotes
 
-^{[[#fnm2][2]]} Zu «Salzbund» vgl. Num 18,19.
+[fn:1] (1-23) [[file:1.Kön_15.org::v1][1 Kön 15,1-8]]
+
+[fn:2] Zu «Salzbund» vgl. [[file:Num_18.org::v19][Num 18,19]].
