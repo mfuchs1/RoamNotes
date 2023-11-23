@@ -66,24 +66,35 @@ CLOSED: [2023-11-13 Mo 09:40] SCHEDULED: <2023-11-06 Mo>
 - State "DONE"       from              [2023-11-13 Mo 09:40]
 :END:
 
-** [[denote:20230619T085724][[SW10] Harte Fakten - gute Gedanken?]]
-SCHEDULED: <2023-11-13 Mo>
+** DONE [[denote:20230619T085724][[SW10] Harte Fakten - gute Gedanken?]]
+CLOSED: [2023-11-23 Do 08:26] SCHEDULED: <2023-11-13 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2023-11-23 Do 08:26]
+:END:
 
 ** [[denote:20230619T085846][[SW11] Methode: Fragen stellen (philosophieren)]]
+SCHEDULED: <2023-11-20 Mo>
 
 ** [[denote:20230619T090127][[SW12] Beginn Advent - Singen von Adventliedern]]
+SCHEDULED: <2023-11-27 Mo>
 
 ** [[denote:20230619T090707][[SW13] Maria Empfängnis (8.12.)]]
+SCHEDULED: <2023-12-04 Mo>
 
 ** [[denote:20230619T090758][[SW14] Ave Maria]]
+SCHEDULED: <2023-12-11 Mo>
 
 ** [[denote:20230619T091059][[SW15] Jesus ist geboren / Weihnachtsgottesdienst]]
+SCHEDULED: <2023-12-18 Mo>
 
 ** DONE [SW16] Ferien
+SCHEDULED: <2023-12-25 Mo>
 
 ** DONE [SW17] Ferien
+SCHEDULED: <2024-01-01 Mo>
 
 ** [[denote:20230619T091440][[SW18] Jesus, der Mensch - Jesus der Christus]]
+SCHEDULED: <2024-01-08 Mo>
 
 ** [[denote:20230619T091611][[SW19] Bibel: Mit der Bibel arbeiten]]
 

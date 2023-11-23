@@ -67,26 +67,37 @@ CLOSED: [2023-11-13 Mo 09:40] SCHEDULED: <2023-11-06 Mo>
 - State "DONE"       from              [2023-11-13 Mo 09:40]
 :END:
 
-** [[denote:20230619T211542][[SW10] Warum habt ihr solche Angst?]]
-SCHEDULED: <2023-11-13 Mo>
+** DONE [[denote:20230619T211542][[SW10] Warum habt ihr solche Angst?]]
+CLOSED: [2023-11-23 Do 08:27] SCHEDULED: <2023-11-13 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2023-11-23 Do 08:27]
+:END:
 
 ** [[denote:20230619T211715][[SW11] Vertrauen, die Stärke des Herzens]]
+SCHEDULED: <2023-11-20 Mo>
 
 ** [[denote:20230619T211834][[SW12] Ich verurteile dich nicht]]
+SCHEDULED: <2023-11-27 Mo>
 
 ** [[denote:20230619T211950][[SW13] Kinder haben Rechte]]
+SCHEDULED: <2023-12-04 Mo>
 
 ** [[denote:20230619T212033][[SW14] Übungsteil: Und jetzt ich ...! / Das nehme ich mit]]
+SCHEDULED: <2023-12-11 Mo>
 
 ** [[denote:20230619T212125][[SW15] Von Gott sprechen]]
+SCHEDULED: <2023-12-18 Mo>
 
 ** [SW16] Ferien
+SCHEDULED: <2023-12-25 Mo>
 
 
 ** [SW17] Ferien_2
+SCHEDULED: <2024-01-01 Mo>
 
 
 ** [[denote:20230619T212222][[SW18] Übergang: Gott zeigt sich den Menschen]]
+SCHEDULED: <2024-01-08 Mo>
 
 
 ** [[denote:20230619T212302][[SW19] Abraham und Sara – Gott ruft]]

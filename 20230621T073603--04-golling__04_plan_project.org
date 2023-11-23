@@ -68,24 +68,35 @@ CLOSED: [2023-11-13 Mo 09:40] SCHEDULED: <2023-11-06 Mo>
 - State "DONE"       from              [2023-11-13 Mo 09:40]
 :END:
 
-** [[denote:20230711T003636][[SW10] Buddhismus]]
-SCHEDULED: <2023-11-13 Mo>
+** DONE [[denote:20230711T003636][[SW10] Buddhismus]]
+CLOSED: [2023-11-23 Do 08:27] SCHEDULED: <2023-11-13 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2023-11-23 Do 08:27]
+:END:
 
 ** [[denote:20230711T003702][[SW11] Chinesische Traditionen]]
+SCHEDULED: <2023-11-20 Mo>
 
 ** [[denote:20230711T003732][[SW12] Biblische Propheten]]
+SCHEDULED: <2023-11-27 Mo>
 
 ** [[denote:20230711T003758][[SW13] Moderne Propheten]]
+SCHEDULED: <2023-12-04 Mo>
 
 ** [[denote:20230711T003903][[SW14] Ein neuer Himmel, eine neue Erde]]
+SCHEDULED: <2023-12-11 Mo>
 
 ** [[denote:20230711T003933][[SW15] Gott wird Mensch]]
+SCHEDULED: <2023-12-18 Mo>
 
 ** [[denote:20230711T120821][[SW16] Weihnachtsferien]]
+SCHEDULED: <2023-12-25 Mo>
 
 ** [[denote:20230711T004254][[SW17] Naturwissenschaft Theologie]]
+SCHEDULED: <2024-01-01 Mo>
 
 ** [[denote:20230711T004403][[SW18] Glaube und Kunst]]
+SCHEDULED: <2024-01-08 Mo>
 
 ** [[denote:20230711T004435][[SW19] Glaube und POP-Kultur]]
 

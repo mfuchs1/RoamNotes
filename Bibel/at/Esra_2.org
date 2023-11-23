@@ -1,35 +1,29 @@
-:PROPERTIES:
-:ID:       05a9bb0b-4bbe-43c1-b7cf-dc130873a4eb
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Esra* -- [[file:Esra_1.html][1]] *2*
-[[file:Esra_3.html][3]] [[file:Esra_4.html][4]] ...
-[[file:Esra_10.html][10]]
-
---------------
-
-* Esra 2
-  :PROPERTIES:
-  :CUSTOM_ID: esra-2
-  :END:
+#+TITLE: Esra 2 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-23 Do 09:22]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Esra 2.html
 
 <<verses>>
 
 <<v1>>
-**** Das Verzeichnis der heimkehrenden Laien: 2,1-35
-     :PROPERTIES:
-     :CUSTOM_ID: das-verzeichnis-der-heimkehrenden-laien-21-35
-     :END:
+* Das Verzeichnis der heimkehrenden Laien: 2,1-35
+
 1 Hier folgt eine Liste der Einwohner der Provinz Juda, die aus der
 Gefangenschaft und der Verschleppung heimzogen. Nebukadnezzar, der König
 von Babel, hatte sie nach Babel gebracht; nun kehrten sie nach Jerusalem
-und Juda zurück, jeder in seine Stadt. ^{[[#fn1][1]]}
+und Juda zurück, jeder in seine Stadt. [fn:1]
 
 <<v2>>
 2 Sie kamen zusammen mit Serubbabel, Jeschua, Nehemja, Seraja, Reelaja,
 Mordochai, Bilschan, Misperet, Bigwai, Rehum und Baana. Das ist die Zahl
-der Männer des Volkes Israel: ^{[[#fn2][2]]}
+der Männer des Volkes Israel: [fn:2]
 
 <<v3>>
 3 Nachkommen des Parosch: 2172.
@@ -133,12 +127,9 @@ Joabs: 2812.
 \\
 
 <<v36>>
-**** Das Verzeichnis der heimkehrenden Priester und Leviten: 2,36-63
-     :PROPERTIES:
-     :CUSTOM_ID: das-verzeichnis-der-heimkehrenden-priester-und-leviten-236-63
-     :END:
-36 Von den Priestern: Nachkommen Jedajas vom Haus Jeschua: 973.
-^{[[#fn3][3]]}
+* Das Verzeichnis der heimkehrenden Priester und Leviten: 2,36-63
+
+36 Von den Priestern: Nachkommen Jedajas vom Haus Jeschua: 973. [fn:3]
 
 <<v37>>
 37 Nachkommen Immers: 1052.
@@ -163,7 +154,7 @@ Schobais, im Ganzen: 139.
 
 <<v43>>
 43 Von den Tempeldienern: Nachkommen Zihas, Nachkommen Hasufas,
-Nachkommen Tabbaots, ^{[[#fn4][4]]}
+Nachkommen Tabbaots, [fn:4]
 
 <<v44>>
 44 Nachkommen des Keros, Nachkommen Sias, Nachkommen Padons,
@@ -200,7 +191,7 @@ Nachkommen Tabbaots, ^{[[#fn4][4]]}
 
 <<v55>>
 55 Von den Nachkommen der Knechte Salomos: Nachkommen Sotais, Nachkommen
-Soferets, Nachkommen Perudas, ^{[[#fn5][5]]}
+Soferets, Nachkommen Perudas, [fn:5]
 
 <<v56>>
 56 Nachkommen Jaalas, Nachkommen Darkons, Nachkommen Giddels,
@@ -225,8 +216,7 @@ Ganzen 652;
 <<v61>>
 61 dazu bei den Priestern die Nachkommen Habajas, die Nachkommen des Koz
 und die Nachkommen Barsillais; dieser hatte eine von den Töchtern
-Barsillais aus Gilead geheiratet und dessen Namen angenommen.
-^{[[#fn6][6]]}
+Barsillais aus Gilead geheiratet und dessen Namen angenommen. [fn:6]
 
 <<v62>>
 62 Die Genannten suchten ihre Eintragung im Geschlechterverzeichnis,
@@ -235,17 +225,13 @@ ausgeschlossen.
 
 <<v63>>
 63 Der Statthalter untersagte ihnen, vom Hochheiligen zu essen, bis ein
-Priester für den Losentscheid mit Urim und Tummim zur Verfügung stehe.
-^{[[#fn7][7]]}\\
+Priester für den Losentscheid mit Urim und Tummim zur Verfügung stehe. [fn:7]\\
 \\
 
 <<v64>>
-**** Die Volkszählung: 2,64-70
-     :PROPERTIES:
-     :CUSTOM_ID: die-volkszählung-264-70
-     :END:
-64 Die ganze Volksgemeinde zählte insgesamt 42360 Personen.
-^{[[#fn8][8]]}
+* Die Volkszählung: 2,64-70
+
+64 Die ganze Volksgemeinde zählte insgesamt 42360 Personen. [fn:8]
 
 <<v65>>
 65 Dabei waren ihre Knechte und Mägde nicht mitgerechnet; das waren im
@@ -272,19 +258,21 @@ Torwächter und die Tempeldiener ließen sich in ihren Städten nieder,
 ebenso alle übrigen Israeliten.\\
 \\
 
-^{[[#fnm1][1]]} ℘ (1-35) Neh 7,6-38
+* Footnotes
 
-^{[[#fnm2][2]]} Männer des Volkes Israel: die Laien im Unterschied zu
+[fn:1] (1-35) [[file:Neh_7.org::v6][Neh 7,6]]-[[file:Neh_7.org::v38][38]]
+
+[fn:2] Männer des Volkes Israel: die Laien im Unterschied zu
 den in VV. 36-43 genannten Priestern und Leviten.
 
-^{[[#fnm3][3]]} ℘ (36-63) Neh 7,39-65
+[fn:3] (36-63) [[file:Neh_7.org::v39][Neh 7,39]]-[[file:Neh_7.org::v65][65]]
 
-^{[[#fnm4][4]]} ℘ 8,20
+[fn:4] [[file:Esra_8.org::v20][8,20]]
 
-^{[[#fnm5][5]]} ℘ 1 Kön 9,20f
+[fn:5] [[file:1.Kön_9.org::v20][1 Kön 9,20f]]
 
-^{[[#fnm6][6]]} ℘ 2 Sam 17,27; 19,32
+[fn:6] [[file:2.Sam_17.org::v27][2 Sam 17,27]]; [[file:2.Sam_19.org::v32][19,32]]
 
-^{[[#fnm7][7]]} ℘ Lev 2,3; 6,9-11; 7,6-10.33-35; Ex 28,30
+[fn:7] [[file:Lev_2.org::v3][Lev 2,3]]; [[file:Lev_6.org::v9][6,9]]-[[file:Lev_6.org::v11][11]]; [[file:Lev_7.org::v6][7,6]]-[[file:Lev_7.org::v10][10]].[[file:Lev_7.org::v33][33]]-[[file:Lev_7.org::v35][35]]; [[file:Ex_28.org::v30][Ex 28,30]]
 
-^{[[#fnm8][8]]} ℘ (64-70) Neh 7,66-72
+[fn:8] (64-70) [[file:Neh_7.org::v66][Neh 7,66]]-[[file:Neh_7.org::v72][72]]

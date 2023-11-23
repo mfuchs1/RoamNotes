@@ -1,23 +1,17 @@
-:PROPERTIES:
-:ID:       63458041-707f-4b35-b566-8b40bc2ce1e5
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Esra* -- *1* [[file:Esra_2.html][2]]
-[[file:Esra_3.html][3]] ... [[file:Esra_10.html][10]]
+#+TITLE: Esra 1 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-23 Do 09:17]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Esra 1.html
 
---------------
+* Die Bücher Esra und Nehemia
 
-* Esra 1
-  :PROPERTIES:
-  :CUSTOM_ID: esra-1
-  :END:
-
-B+1
-** Die Bücher Esra und Nehemia
-   :PROPERTIES:
-   :CUSTOM_ID: die-bücher-esra-und-nehemia
-   :END:
 Die Bücher Esra und Nehemia bilden nach weit verbreiteter Meinung
 zusammen mit den Büchern der Chronik das Chronistische Geschichtswerk.
 Im Rahmen dieser Geschichtsdarstellung, die mit der Begründung der
@@ -70,24 +64,20 @@ Jerusalem verfasst worden.\\
 <<verses>>
 
 <<v1>>
-1 B+0
-** Die Heimkehr der Juden und der Wiederaufbau des Tempels: 1,1 - 6,22
-   :PROPERTIES:
-   :CUSTOM_ID: die-heimkehr-der-juden-und-der-wiederaufbau-des-tempels-11---622
-   :END:
-**** Die Erlaubnis zur Heimkehr und zum Tempelbau: 1,1-11
-     :PROPERTIES:
-     :CUSTOM_ID: die-erlaubnis-zur-heimkehr-und-zum-tempelbau-11-11
-     :END:
+
+* Die Heimkehr der Juden und der Wiederaufbau des Tempels: 1,1 - 6,22
+
+* Die Erlaubnis zur Heimkehr und zum Tempelbau: 1,1-11
+
 Im ersten Jahr des Königs Kyrus von Persien sollte sich erfüllen, was
 der Herr durch Jeremia gesprochen hatte. Darum erweckte der Herr den
 Geist des Königs Kyrus von Persien und Kyrus ließ in seinem ganzen Reich
-mündlich und schriftlich den Befehl verkünden: ^{[[#fn1][1]]}
+mündlich und schriftlich den Befehl verkünden: [fn:1]
 
 <<v2>>
 2 So spricht der König Kyrus von Persien: Der Herr, der Gott des
 Himmels, hat mir alle Reiche der Erde verliehen. Er selbst hat mir
-aufgetragen, ihm in Jerusalem in Juda ein Haus zu bauen. ^{[[#fn2][2]]}
+aufgetragen, ihm in Jerusalem in Juda ein Haus zu bauen. [fn:2]
 
 <<v3>>
 3 Jeder unter euch, der zu seinem Volk gehört - sein Gott sei mit ihm -,
@@ -129,13 +119,15 @@ Opferschalen, 29 Räucherpfannen,
 <<v11>>
 11 Insgesamt waren es 5400 Geräte aus Gold und Silber. All das brachte
 Scheschbazzar mit, als er mit den Verschleppten von Babel nach Jerusalem
-zurückkehrte. ^{[[#fn3][3]]}\\
+zurückkehrte. [fn:3]\\
 \\
 
-^{[[#fnm1][1]]} ℘ (1-3) 2 Chr 36,22f; Jer 25,11f; 29,10
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ Jes 44,28; 45,1-4
+[fn:1] (1-3) [[file:2.Chr_36.org::v22][2 Chr 36,22f]]; [[file:Jer_25.org::v11][Jer 25,11f]]; [[file:Jer_29.org::v10][29,10]]
 
-^{[[#fnm3][3]]} Die angegebene Gesamtzahl der Tempelgeräte übersteigt
+[fn:2] [[file:Jes_44.org::v28][Jes 44,28]]; [[file:Jes_45.org::v1][45,1]]-[[file:Jes_45.org::v4][4]]
+
+[fn:3] Die angegebene Gesamtzahl der Tempelgeräte übersteigt
 die Summe der vorher wohl nur als Beispiele genannten Einzelposten (vgl.
-auch Bar 1,8).
+auch [[file:Bar_1.org::v8][Bar 1,8]]).
