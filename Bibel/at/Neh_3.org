@@ -1,31 +1,24 @@
-:PROPERTIES:
-:ID:       fb2aba31-db9c-4712-8a4f-a883149fec33
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Nehemia* -- [[file:Neh_1.html][1]]
-[[file:Neh_2.html][2]] *3* [[file:Neh_4.html][4]] [[file:Neh_5.html][5]]
-... [[file:Neh_13.html][13]]
-
---------------
-
-* Neh 3
-  :PROPERTIES:
-  :CUSTOM_ID: neh-3
-  :END:
+#+TITLE: Neh 3 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-23 Do 23:23]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Neh 3.html
 
 <<verses>>
 
 <<v1>>
-**** Der Bericht über den Bau: 3,1-32
-     :PROPERTIES:
-     :CUSTOM_ID: der-bericht-über-den-bau-31-32
-     :END:
+* Der Bericht über den Bau: 3,1-32
+
 1 Der Hohepriester Eljaschib und seine Brüder, die Priester, machten
 sich ans Werk und bauten das Schaftor auf. Sie setzten die Balken ein
 und brachten die Torflügel an. Sie bauten weiter bis zum Turm der
-Hundert, setzten die Balken ein und kamen bis zum Turm Hananel.
-^{[[#fn1][1]][[#fn2][2]]}
+Hundert, setzten die Balken ein und kamen bis zum Turm Hananel. [fn:1] [fn:2]
 
 <<v2>>
 2 Anschließend bauten die Männer von Jericho und daneben baute Sakkur,
@@ -92,8 +85,7 @@ brachte die Torflügel, Riegel und Sperrbalken an.
 arbeitete an der Instandsetzung des Quelltors; er baute es auf, versah
 es mit einem Dach und brachte die Torflügel, Riegel und Sperrbalken an.
 Weiter setzte er die Mauer am Teich der Wasserleitung beim Königsgarten
-instand, bis zu den Stufen, die von der Davidstadt herabführen.
-^{[[#fn3][3]]}
+instand, bis zu den Stufen, die von der Davidstadt herabführen. [fn:3]
 
 <<v16>>
 16 Hinter ihm arbeitete Nehemja, der Sohn des Asbuk, der Vorsteher der
@@ -141,7 +133,7 @@ weiter bis zur Ecke.
 <<v25>>
 25 Palal, der Sohn Usais, arbeitete gegenüber dem Winkel und dem oberen
 Turm, der vom königlichen Palast am Wachthof vorspringt. Hinter ihm
-arbeiteten Pedaja, der Sohn des Parosch, ^{[[#fn4][4]]}
+arbeiteten Pedaja, der Sohn des Parosch, [fn:4]
 
 <<v26>>
 26 und die Tempeldiener, die auf dem Ofel wohnten, bis zu der Stelle
@@ -159,7 +151,7 @@ gegenüber.
 <<v29>>
 29 Dahinter arbeitete Zadok, der Sohn Immers, seinem Haus gegenüber, und
 hinter ihm arbeitete Schemaja, der Sohn Schechanjas, der Wächter des
-Osttors. ^{[[#fn5][5]]}
+Osttors. [fn:5]
 
 <<v30>>
 30 Dahinter arbeiteten Hananja, der Sohn Schelemjas, und Hanun, der
@@ -178,12 +170,10 @@ die Goldschmiede und die Händler.\\
 \\
 
 <<v33>>
-**** Der Spott der Feinde: 3,33-38
-     :PROPERTIES:
-     :CUSTOM_ID: der-spott-der-feinde-333-38
-     :END:
+* Der Spott der Feinde: 3,33-38
+
 33 Als Sanballat hörte, dass wir die Mauer aufbauten, wurde er zornig
-und ärgerte sich sehr. Er spottete über die Juden ^{[[#fn6][6]]}
+und ärgerte sich sehr. Er spottete über die Juden [fn:6]
 
 <<v34>>
 34 und sagte vor seinen Brüdern und dem Heer von Samarien: Was machen
@@ -203,7 +193,7 @@ Gefangenschaft preis!
 
 <<v37>>
 37 Deck ihr Vergehen nicht zu! Ihre Sünde soll bei dir nicht ausgelöscht
-sein, denn sie haben die Bauenden beleidigt. ^{[[#fn7][7]]}
+sein, denn sie haben die Bauenden beleidigt. [fn:7]
 
 <<v38>>
 38 Wir bauten an der Mauer weiter und bald hatte sich die Mauer ringsum
@@ -211,16 +201,18 @@ bis zur Hälfte geschlossen. Das ermutigte das Volk zur weiteren
 Arbeit.\\
 \\
 
-^{[[#fnm1][1]]} ℘ Jer 31,38-40; Neh 12,31-39
+* Footnotes
 
-^{[[#fnm2][2]]} Text korr.; H unklar.
+[fn:1] [[file:Jer_31.org::v38][Jer 31,38-40]]; [[file:Neh_12.org::v31][Neh 12,31-39]]
 
-^{[[#fnm3][3]]} ℘ 2 Kön 20,20; Joh 9,7
+[fn:2] Text korr.; H unklar.
 
-^{[[#fnm4][4]]} ℘ Jer 32,2
+[fn:3] [[file:2.Kön_20.org::v20][2 Kön 20,20]]; [[file:~/RoamNotes/notes/Bibel/nt/Joh_9.org::v7][Joh 9,7]]
 
-^{[[#fnm5][5]]} ℘ Ez 40,6
+[fn:4] [[file:Jer_32.org::v2][Jer 32,2]]
 
-^{[[#fnm6][6]]} ℘ 2,10.19
+[fn:5] [[file:Ez_40.org::v6][Ez 40,6]]
 
-^{[[#fnm7][7]]} ℘ Jer 18,23
+[fn:6] [[file:Neh_2.org::v10][2,10]].[[file:Neh_2.org::v19][19]]
+
+[fn:7] [[file:Jer_18.org::v23][Jer 18,23]]

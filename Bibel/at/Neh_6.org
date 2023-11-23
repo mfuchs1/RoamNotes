@@ -1,26 +1,20 @@
-:PROPERTIES:
-:ID:       6f228124-e984-46a8-82c2-80daaccb431e
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Nehemia* -- [[file:Neh_1.html][1]] ...
-[[file:Neh_4.html][4]] [[file:Neh_5.html][5]] *6* [[file:Neh_7.html][7]]
-[[file:Neh_8.html][8]] ... [[file:Neh_13.html][13]]
-
---------------
-
-* Neh 6
-  :PROPERTIES:
-  :CUSTOM_ID: neh-6
-  :END:
+#+TITLE: Neh 6 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-23 Do 23:40]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Neh 6.html
 
 <<verses>>
 
 <<v1>>
-**** Die Abwehr der Feinde: 6,1-19
-     :PROPERTIES:
-     :CUSTOM_ID: die-abwehr-der-feinde-61-19
-     :END:
+* Die Abwehr der Feinde: 6,1-19
+
 1 Sanballat, Tobija, der Araber Geschem und unsere übrigen Feinde
 erfuhren, dass ich die Mauer fertig gebaut hatte und dass in ihr keine
 Lücke mehr war. Allerdings hatte ich damals die Torflügel noch nicht in
@@ -29,7 +23,7 @@ die Tore eingesetzt.
 <<v2>>
 2 Da ließen Sanballat und Geschem mir sagen: Komm, wir wollen uns in
 Kefirim in der Ebene von Ono treffen. Sie hatten aber Böses gegen mich
-im Sinn. ^{[[#fn1][1]]}
+im Sinn. [fn:1]
 
 <<v3>>
 3 Ich schickte Boten an sie mit der Antwort: Ich arbeite gerade an einem
@@ -48,7 +42,7 @@ Diener; er brachte einen unverschlossenen Brief,
 6 in dem stand: Unter den Völkern geht das Gerücht um - und Geschem
 bestätigt es -, dass du mit den Juden einen Aufstand planst. Deshalb
 baust du die Mauer auf. Und du willst, wie man sagt, König der Juden
-werden. ^{[[#fn2][2]]}
+werden. [fn:2]
 
 <<v7>>
 7 Du hast auch, so hört man, Propheten bestellt, die in Jerusalem von
@@ -75,12 +69,12 @@ der Nacht wird man kommen, um dich zu töten.
 <<v11>>
 11 Ich erwiderte: Sollte ein Mann wie ich fliehen? Wer von
 meinesgleichen würde am Leben bleiben, wenn er den Tempel beträte? Ich
-gehe nicht hin. ^{[[#fn3][3]]}
+gehe nicht hin. [fn:3]
 
 <<v12>>
 12 Ich erkannte deutlich, dass nicht Gott ihn geschickt hatte; er hatte
 vielmehr diese Prophezeiung über mich nur gesprochen, weil Tobija und
-Sanballat ihn gedungen hatten. ^{[[#fn4][4]]}
+Sanballat ihn gedungen hatten. [fn:4]
 
 <<v13>>
 13 Er war gedungen, damit ich aus Furcht so handeln und mich versündigen
@@ -116,10 +110,12 @@ geheiratet.
 sagte. Tobija schickte auch Briefe, um mir Furcht zu machen.\\
 \\
 
-^{[[#fnm1][1]]} ℘ Esra 2,33
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ Esra 4,11-16
+[fn:1] [[file:Esra_2.org::v33][Esra 2,33]]
 
-^{[[#fnm3][3]]} ℘ Num 18,7; 2 Chr 26,16-20
+[fn:2] [[file:Esra_4.org::v11][Esra 4,11]]-[[file:Esra_4.org::v16][16]]
 
-^{[[#fnm4][4]]} ℘ Jer 23,15-17
+[fn:3] [[file:Num_18.org::v7][Num 18,7]]; [[file:2.Chr_26.org::v16][2 Chr 26,16]]-[[file:2.Chr_26.org::v20][20]]
+
+[fn:4] [[file:Jer_23.org::v15][Jer 23,15]]-[[file:Jer_23.org::v17][17]]

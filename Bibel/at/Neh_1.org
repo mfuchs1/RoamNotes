@@ -1,32 +1,24 @@
-:PROPERTIES:
-:ID:       41d69ba5-ca12-4cb9-b754-75fb3373d0e9
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Nehemia* -- *1* [[file:Neh_2.html][2]]
-[[file:Neh_3.html][3]] ... [[file:Neh_13.html][13]]
-
---------------
-
-* Neh 1
-  :PROPERTIES:
-  :CUSTOM_ID: neh-1
-  :END:
+#+TITLE: Neh 1 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-23 Do 22:32]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Neh 1.html
 
 <<verses>>
 
 <<v1>>
-** Der Wiederaufbau durch Nehemia: 1,1 - 6,19
-   :PROPERTIES:
-   :CUSTOM_ID: der-wiederaufbau-durch-nehemia-11---619
-   :END:
-**** Das Gebet Nehemias: 1,1-11
-     :PROPERTIES:
-     :CUSTOM_ID: das-gebet-nehemias-11-11
-     :END:
+* Der Wiederaufbau durch Nehemia: 1,1 - 6,19
+
+* Das Gebet Nehemias: 1,1-11
+
 1 Bericht des Nehemia, des Sohnes Hachaljas. Im Monat Kislew, im
-zwanzigsten Jahr des Artaxerxes, war ich in der Festung Susa;
-^{[[#fn1][1]][[#fn2][2]]}
+zwanzigsten Jahr des Artaxerxes, war ich in der Festung Susa; [fn:1] [fn:2]
 
 <<v2>>
 2 da kam Hanani, einer meiner Brüder, mit einigen Männern aus Juda. Ich
@@ -36,17 +28,16 @@ Gefangenen übrig geblieben waren, und wie es um Jerusalem stehe.
 <<v3>>
 3 Sie sagten zu mir: Der Rest, der von den Gefangenen übrig geblieben
 ist, lebt dort in der Provinz in großer Not und Schmach. Die Stadtmauer
-von Jerusalem ist niedergelegt und die Tore sind abgebrannt.
-^{[[#fn3][3]]}
+von Jerusalem ist niedergelegt und die Tore sind abgebrannt. [fn:3]
 
 <<v4>>
 4 Als ich das hörte, setzte ich mich nieder und weinte. Ich trauerte
-tagelang, fastete und betete zu dem Gott des Himmels. ^{[[#fn4][4]]}
+tagelang, fastete und betete zu dem Gott des Himmels. [fn:4]
 
 <<v5>>
 5 Ich sagte: Ach, Herr, Gott des Himmels, du großer und
 furchtgebietender Gott! Du hältst deinen Bund und bewahrst deine Gnade
-denen, die dich lieben und deine Gebote halten. ^{[[#fn5][5]]}
+denen, die dich lieben und deine Gebote halten. [fn:5]
 
 <<v6>>
 6 Hab ein aufmerksames Ohr und ein offenes Auge und hör das Gebet deines
@@ -63,7 +54,7 @@ hast.
 <<v8>>
 8 Aber denk an das Wort, das du deinem Diener Mose aufgetragen hast:
 Wenn ihr mir die Treue brecht, dann werde ich euch unter die Völker
-zerstreuen; ^{[[#fn6][6]]}
+zerstreuen; [fn:6]
 
 <<v9>>
 9 wenn ihr aber zu mir umkehrt, meine Gebote befolgt und sie ausführt,
@@ -73,7 +64,7 @@ dort meinen Namen wohnen zu lassen.
 
 <<v10>>
 10 Sie sind ja deine Knechte, dein Volk, das du erlöst hast mit deiner
-großen Kraft und deiner starken Hand. ^{[[#fn7][7]]}
+großen Kraft und deiner starken Hand. [fn:7]
 
 <<v11>>
 11 Ach, Herr, dein Ohr höre aufmerksam auf das Gebet deines Knechtes und
@@ -82,17 +73,18 @@ deinem Knecht heute Erfolg und lass ihn Erbarmen finden bei diesem Mann!
 Ich war nämlich Mundschenk beim König.\\
 \\
 
-^{[[#fnm1][1]]} ℘ Est 1,2f; Dan 8,2
+* Footnotes
 
-^{[[#fnm2][2]]} Das 20. Jahr des Perserkönigs Artaxerxes I. ist das Jahr
-445 v. Chr.
+[fn:1] [[file:Est_1.org::v2][Est 1,2f]]; [[file:Dan_8.org::v2][Dan 8,2]]
 
-^{[[#fnm3][3]]} ℘ Esra 4,21-24
+[fn:2] Das 20. Jahr des Perserkönigs Artaxerxes I. ist das Jahr 445 v. Chr.
 
-^{[[#fnm4][4]]} ℘ Esra 9,3
+[fn:3] [[file:Esra_4.org::v21][Esra 4,21]]-[[file:Dtn_30.org::v24][24]]
 
-^{[[#fnm5][5]]} ℘ Dan 9,4
+[fn:4] [[file:Esra_9.org::v3][Esra 9,3]]
 
-^{[[#fnm6][6]]} ℘ (8-9) Dtn 30,1-4
+[fn:5] [[file:Dan_9.org::v4][Dan 9,4]]
 
-^{[[#fnm7][7]]} ℘ Dtn 9,29
+[fn:6] (8-9) [[file:Dtn_30.org::v1][Dtn 30,1]]-[[file:Dtn_30.org::v4][4]]
+
+[fn:7] [[file:Dtn_9.org::v29][Dtn 9,29]]

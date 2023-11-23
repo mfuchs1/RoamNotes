@@ -1,27 +1,20 @@
-:PROPERTIES:
-:ID:       a71bac95-4454-4786-baf3-895b52b1be79
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Nehemia* -- [[file:Neh_1.html][1]] ...
-[[file:Neh_8.html][8]] [[file:Neh_9.html][9]] *10*
-[[file:Neh_11.html][11]] [[file:Neh_12.html][12]]
-[[file:Neh_13.html][13]]
-
---------------
-
-* Neh 10
-  :PROPERTIES:
-  :CUSTOM_ID: neh-10
-  :END:
+#+TITLE: Neh 10 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-24 Fr 00:45]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Neh 10.html
 
 <<verses>>
 
 <<v1>>
-**** Die Verpflichtung auf das Gesetz: 10,1-40
-     :PROPERTIES:
-     :CUSTOM_ID: die-verpflichtung-auf-das-gesetz-101-40
-     :END:
+* Die Verpflichtung auf das Gesetz: 10,1-40
+
 1 Wegen all dem schließen wir nun einen Vertrag und schreiben ihn
 nieder. Auf der gesiegelten Urkunde stehen die Namen unserer Obersten,
 Leviten und Priester.
@@ -114,8 +107,7 @@ Sattu, Bani,
 29 Die übrigen vom Volk, von den Priestern und Leviten, die Torwächter,
 Sänger und Tempeldiener, alle, die sich von den Völkern der anderen
 Länder abgesondert und dem Gesetz Gottes zugewandt haben, ihre Frauen,
-Söhne und Töchter, alle, die das nötige Verständnis besitzen:
-^{[[#fn1][1]]}
+Söhne und Töchter, alle, die das nötige Verständnis besitzen: [fn:1]
 
 <<v30>>
 30 Sie schließen sich ihren führenden Brüdern an; sie verpflichten sich
@@ -125,18 +117,17 @@ seine Vorschriften und Satzungen zu beachten und zu erfüllen.
 
 <<v31>>
 31 Wir werden unsere Töchter nicht den Völkern im Land zu Frauen geben,
-noch ihre Töchter für unsere Söhne nehmen. ^{[[#fn2][2]][[#fn3][3]]}
+noch ihre Töchter für unsere Söhne nehmen. [fn:2] [fn:3]
 
 <<v32>>
 32 Wenn die Völker des Landes Waren, besonders Getreide jeder Art, am
 Sabbat zum Verkauf anbieten, werden wir ihnen am Sabbat oder an einem
 anderen heiligen Tag nichts abnehmen. Wir verzichten in jedem siebten
-Jahr auf den Ertrag des Bodens und auf jede Schuldforderung.
-^{[[#fn4][4]]}
+Jahr auf den Ertrag des Bodens und auf jede Schuldforderung. [fn:4]
 
 <<v33>>
 33 Ferner übernehmen wir die Pflicht, jährlich ein Drittelschekel für
-den Dienst im Haus unseres Gottes zu geben, ^{[[#fn5][5]][[#fn6][6]]}
+den Dienst im Haus unseres Gottes zu geben, [fn:5] [fn:6]
 
 <<v34>>
 34 für die Schaubrote, das tägliche Speiseopfer und das tägliche
@@ -149,24 +140,24 @@ und für alle Arbeiten im Haus unseres Gottes.
 Priestern, den Leviten und dem Volk. Jede Familie soll es jährlich zu
 der für sie bestimmten Zeit zum Haus unseres Gottes bringen. Es soll auf
 dem Altar des Herrn, unseres Gottes, brennen, wie es im Gesetz
-vorgeschrieben ist. ^{[[#fn7][7]]}
+vorgeschrieben ist. [fn:7]
 
 <<v36>>
 36 Ferner bringen wir jährlich zum Haus des Herrn die ersten Erträge
-unserer Felder und die ersten Erträge aller Baumfrüchte, ^{[[#fn8][8]]}
+unserer Felder und die ersten Erträge aller Baumfrüchte, [fn:8]
 
 <<v37>>
 37 unsere erstgeborenen Söhne und die ersten Jungen unseres Viehs, wie
 es im Gesetz vorgeschrieben ist. Die ersten Jungen unserer Rinder und
 Schafe bringen wir zum Haus unseres Gottes für die Priester, die im Haus
-unseres Gottes Dienst tun. ^{[[#fn9][9]]}
+unseres Gottes Dienst tun. [fn:9]
 
 <<v38>>
 38 Den Erstanteil von unserem Brotteig und von den Früchten aller Bäume
 sowie von Wein und Öl bringen wir für die Priester in die Kammern des
 Hauses unseres Gottes. Den Leviten geben wir den Zehnten vom Ertrag
 unseres Bodens. Die Leviten selbst erheben den Zehnten an allen Orten,
-wo wir das Feld bebauen. ^{[[#fn10][10]]}
+wo wir das Feld bebauen. [fn:10]
 
 <<v39>>
 39 Wenn die Leviten den Zehnten erheben, soll ein Priester, ein
@@ -177,29 +168,30 @@ Zehnten vom Zehnten zum Haus unseres Gottes in die Vorratskammern. -
 40 In diese Kammern nämlich bringen die Israeliten und die Leviten die
 Abgaben an Getreide, Wein und Öl. Dort sind die Vorratsbehälter des
 Heiligtums, der Priester, die Dienst tun, der Torwächter und Sänger. -
-So werden wir das Haus unseres Gottes nicht im Stich lassen.
-^{[[#fn11][11]]}\\
+So werden wir das Haus unseres Gottes nicht im Stich lassen. [fn:11]\\
 \\
 
-^{[[#fnm1][1]]} ℘ Esra 6,21; Neh 8,2f
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ Esra 9,1f; 10,2-11; Ex 34,16; Dtn 7,1-3
+[fn:1] [[file:Esra_6.org::v21][Esra 6,21]]; [[file:Neh_8.org::v2][Neh 8,2f]]
 
-^{[[#fnm3][3]]} Die «Völker im Land» sind die heidnischen Mitbewohner
+[fn:2] [[file:Esra_9.org::v1][Esra 9,1f]]; [[file:Esra_10.org::v2][10,2]]-[[file:Esra_10.org::v11][11]]; [[file:Ex_34.org::v16][Ex 34,16]]; [[file:Dtn_7.org::v1][Dtn 7,1]]-[[file:Dtn_7.org::v3][3]]
+
+[fn:3] Die «Völker im Land» sind die heidnischen Mitbewohner
 und Nachbarn Israels (vgl. Esra 9,1f).
 
-^{[[#fnm4][4]]} ℘ Jer 17,19-22; Neh 13,15-22; Ex 23,10f; Dtn 15,1-3
+[fn:4] [[file:Jer_17.org::v19][Jer 17,19]]-[[file:Jer_17.org::v22][22]]; [[file:Neh_13.org::v15][Neh 13,15]]-[[file:Neh_13.org::v22][22]]; [[file:Ex_23.org::v10][Ex 23,10f]]; [[file:Dtn_15.org::v1][Dtn 15,1]]-[[file:Dtn_15.org::v3][3]]
 
-^{[[#fnm5][5]]} ℘ Ex 30,13; Mt 17,24
+[fn:5] [[file:Ex_30.org::v13][Ex 30,13]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_17.org::v24][Mt 17,24]]
 
-^{[[#fnm6][6]]} Ein Drittelschekel ist eine Silbermünze.
+[fn:6] Ein Drittelschekel ist eine Silbermünze.
 
-^{[[#fnm7][7]]} ℘ 13,31; Lev 6,5
+[fn:7] [[file:Neh_13.org::v31][13,31]]; [[file:Lev_6.org::v5][Lev 6,5]]
 
-^{[[#fnm8][8]]} ℘ Num 18,12-32
+[fn:8] [[file:Num_18.org::v12][Num 18,12]]-[[file:Num_18.org::v32][32]]
 
-^{[[#fnm9][9]]} ℘ Ex 13,2.13
+[fn:9] [[file:Ex_13.org::v2][Ex 13,2]].[[file:Ex_13.org::v13][13]]
 
-^{[[#fnm10][10]]} ℘ Num 15,20f; Dtn 14,22; Num 18,26-32
+[fn:10] [[file:Num_15.org::v20][Num 15,20f]]; [[file:Dtn_14.org::v22][Dtn 14,22]]; [[file:Num_18.org::v26][Num 18,26]]-[[file:Num_18.org::v32][32]]
 
-^{[[#fnm11][11]]} ℘ Jer 40,10
+[fn:11] [[file:Jer_40.org::v10][Jer 40,10]]

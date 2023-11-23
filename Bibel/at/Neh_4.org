@@ -1,26 +1,20 @@
-:PROPERTIES:
-:ID:       f625d895-1c29-4cbf-9876-847165e993cc
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Nehemia* -- [[file:Neh_1.html][1]]
-[[file:Neh_2.html][2]] [[file:Neh_3.html][3]] *4* [[file:Neh_5.html][5]]
-[[file:Neh_6.html][6]] ... [[file:Neh_13.html][13]]
-
---------------
-
-* Neh 4
-  :PROPERTIES:
-  :CUSTOM_ID: neh-4
-  :END:
+#+TITLE: Neh 4 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-23 Do 23:31]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Neh 4.html
 
 <<verses>>
 
 <<v1>>
-**** Störaktionen von außen: 4,1-17
-     :PROPERTIES:
-     :CUSTOM_ID: störaktionen-von-außen-41-17
-     :END:
+* Störaktionen von außen: 4,1-17
+
 1 Als aber Sanballat und Tobija sowie die Araber, die Ammoniter und die
 Leute von Aschdod hörten, dass der Wiederaufbau der Mauer von Jerusalem
 voranging - denn die Breschen schlossen sich allmählich -, wurden sie
@@ -83,7 +77,7 @@ zerstreut und weit voneinander entfernt.
 
 <<v14>>
 14 Wo ihr also das Horn ertönen hört, dort sammelt euch um uns! Unser
-Gott wird für uns streiten. ^{[[#fn1][1]]}
+Gott wird für uns streiten. [fn:1]
 
 <<v15>>
 15 So arbeiteten wir am Bau, während die Hälfte die Lanzen bereithielt,
@@ -97,9 +91,11 @@ zur Verfügung und am Tag zur Arbeit.
 <<v17>>
 17 Weder ich noch meine Brüder, weder meine Leute noch die
 Wachmannschaft, die mich begleitete, keiner von uns zog seine Kleider
-aus; jeder hatte seine Waffe an der Seite. ^{[[#fn2][2]]}\\
+aus; jeder hatte seine Waffe an der Seite. [fn:2]\\
 \\
 
-^{[[#fnm1][1]]} ℘ Ex 14,14
+* Footnotes
 
-^{[[#fnm2][2]]} Übersetzung wegen Störungen in H unsicher.
+[fn:1] [[file:Ex_14.org::v14][Ex 14,14]]
+
+[fn:2] Übersetzung wegen Störungen in H unsicher.
