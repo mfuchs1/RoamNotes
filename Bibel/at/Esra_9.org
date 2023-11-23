@@ -1,37 +1,30 @@
-:PROPERTIES:
-:ID:       04d18ed9-d912-4c9e-99c1-63640d4d1836
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Esra* -- [[file:Esra_1.html][1]] ...
-[[file:Esra_7.html][7]] [[file:Esra_8.html][8]] *9*
-[[file:Esra_10.html][10]]
-
---------------
-
-* Esra 9
-  :PROPERTIES:
-  :CUSTOM_ID: esra-9
-  :END:
+#+TITLE: Esra 9 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-23 Do 18:27]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Esra 9.html
 
 <<verses>>
 
 <<v1>>
-**** Das Verbot von Mischehen: 9,1-4
-     :PROPERTIES:
-     :CUSTOM_ID: das-verbot-von-mischehen-91-4
-     :END:
+* Das Verbot von Mischehen: 9,1-4
+
 1 Als das vollbracht war, kamen die Obersten zu mir und sagten: Das Volk
 Israel und die Priester und die Leviten haben sich nicht fern gehalten
 von der Bevölkerung des Landes und ihren Gräueltaten, von den
 Kanaanitern, Hetitern, Perisitern, Jebusitern, Ammonitern, Moabitern,
-Ägyptern und Amoritern. ^{[[#fn1][1]]}
+Ägyptern und Amoritern. [fn:1]
 
 <<v2>>
 2 Sie haben von deren Töchtern Frauen genommen für sich und ihre Söhne.
 So hat sich der heilige Same mit den Völkern des Landes vermischt und
-die Obersten und Beamten waren bei diesem Treubruch die Ersten.
-^{[[#fn2][2]]}
+die Obersten und Beamten waren bei diesem Treubruch die Ersten. [fn:2]
 
 <<v3>>
 3 Als ich das hörte, zerriss ich mein Gewand und meinen Mantel; ich
@@ -44,10 +37,8 @@ Abendopfer saß ich erschüttert da.\\
 \\
 
 <<v5>>
-**** Esras Bußgebet: 9,5-15
-     :PROPERTIES:
-     :CUSTOM_ID: esras-bußgebet-95-15
-     :END:
+* Esras Bußgebet: 9,5-15
+
 5 Zur Zeit des Abendopfers erhob ich mich aus meiner Bußübung, mit
 zerrissenem Gewand und Mantel. Dann warf ich mich auf die Knie, breitete
 die Hände aus und betete zum Herrn, meinem Gott:
@@ -85,7 +76,7 @@ ja deine Gebote verlassen.
 11 Du hast durch deine Diener, die Propheten, geboten: Das Land, in das
 ihr kommt, um es in Besitz zu nehmen, ist ein beflecktes Land; denn die
 Völker im Land haben es befleckt; in ihrer Unreinheit haben sie es mit
-ihren Gräueltaten erfüllt, vom einen Ende bis zum andern. ^{[[#fn3][3]]}
+ihren Gräueltaten erfüllt, vom einen Ende bis zum andern. [fn:3]
 
 <<v12>>
 12 Darum dürft ihr eure Töchter nicht ihren Söhnen als Frauen geben,
@@ -110,8 +101,10 @@ Rest übrig gelassen, wie es heute der Fall ist. Nun stehen wir vor dir
 mit unserer Schuld. Nein, so kann niemand vor dir bestehen.\\
 \\
 
-^{[[#fnm1][1]]} ℘ Dtn 7,1-4; 23,3f
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ Mal 2,10-12; Neh 13,23-28; Jes 6,13
+[fn:1] [[file:Dtn_7.org::v1][Dtn 7,1]]-[[file:Dtn_7.org::v4][4]]; [[file:Dtn_23.org::v3][23,3f]]
 
-^{[[#fnm3][3]]} ℘ Lev 18,24-27; Dtn 7,1.3; Ez 36,17; 37,25
+[fn:2] [[file:Mal_2.org::v10][Mal 2,10]]-[[file:Mal_2.org::v12][12]]; [[file:Neh_13.org::v23][Neh 13,23]]-[[file:Neh_13.org::v28][28]]; [[file:Jes_6.org::v13][Jes 6,13]]
+
+[fn:3] [[file:Lev_18.org::v24][Lev 18,24]]-[[file:Lev_18.org::v27][27]]; [[file:Dtn_7.org::v1][Dtn 7,1]].[[file:Dtn_7.org::v3][3]]; [[file:Ez_36.org::v17][Ez 36,17]]; [[file:Ez_37.org::v25][37,25]]

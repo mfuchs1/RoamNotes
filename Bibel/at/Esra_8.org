@@ -1,33 +1,27 @@
-:PROPERTIES:
-:ID:       46a3e040-99b5-4ddf-bca2-0ef4984e486b
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Esra* -- [[file:Esra_1.html][1]] ...
-[[file:Esra_6.html][6]] [[file:Esra_7.html][7]] *8*
-[[file:Esra_9.html][9]] [[file:Esra_10.html][10]]
-
---------------
-
-* Esra 8
-  :PROPERTIES:
-  :CUSTOM_ID: esra-8
-  :END:
+#+TITLE: Esra 8 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-23 Do 18:23]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Esra 8.html
 
 <<verses>>
 
 <<v1>>
-**** Das Verzeichnis der Heimkehrer: 8,1-20
-     :PROPERTIES:
-     :CUSTOM_ID: das-verzeichnis-der-heimkehrer-81-20
-     :END:
+* Das Verzeichnis der Heimkehrer: 8,1-20
+
 1 Das sind die Familienoberhäupter und die bei ihnen Eingetragenen, die
 unter der Herrschaft des Königs Artaxerxes mit mir aus Babel
 hinaufgezogen sind:
 
 <<v2>>
 2 Von den Nachkommen des Pinhas: Gerschom; von den Nachkommen Itamars:
-Daniel; von den Nachkommen Davids: Hattusch, ^{[[#fn1][1]]}
+Daniel; von den Nachkommen Davids: Hattusch, [fn:1]
 
 <<v3>>
 3 der Sohn Schechanjas. Von den Nachkommen des Parosch: Secharja und mit
@@ -105,14 +99,12 @@ samt ihren Söhnen und Brüdern, 20 Männer;
 <<v20>>
 20 dazu eine Anzahl von Tempeldienern, die David und die Obersten dem
 Tempel geschenkt hatten, damit sie den Leviten dienten, im ganzen 220
-Tempeldiener. Sie alle sind namentlich aufgezeichnet. ^{[[#fn2][2]]}\\
+Tempeldiener. Sie alle sind namentlich aufgezeichnet. [fn:2]\\
 \\
 
 <<v21>>
-**** Der Bericht über die Reise: 8,21-36
-     :PROPERTIES:
-     :CUSTOM_ID: der-bericht-über-die-reise-821-36
-     :END:
+* Der Bericht über die Reise: 8,21-36
+
 21 Dann rief ich dort am Fluss bei Ahawa ein Fasten aus; so wollten wir
 uns vor unserem Gott beugen und von ihm eine glückliche Reise erbitten
 für uns, unsere Familien und die ganze Habe.
@@ -122,7 +114,7 @@ für uns, unsere Familien und die ganze Habe.
 uns gegen Feinde auf dem Weg schützen sollten. Vielmehr hatten wir dem
 König gesagt: Die Hand unseres Gottes ist schützend über allen, die ihn
 suchen; doch seine Macht und sein Zorn kommen über alle, die ihn
-verlassen. ^{[[#fn3][3]]}
+verlassen. [fn:3]
 
 <<v23>>
 23 Wir fasteten also und suchten in dieser Sache Hilfe bei unserem Gott
@@ -188,13 +180,15 @@ Ziegenböcke für ein Sündopfer - all das als Brandopfer für den Herrn.
 <<v36>>
 36 Man übergab die Anordnungen des Königs den königlichen Satrapen und
 den Statthaltern im Gebiet jenseits des Stroms. Sie unterstützten von
-nun an das Volk und das Haus Gottes. ^{[[#fn4][4]]}\\
+nun an das Volk und das Haus Gottes. [fn:4]\\
 \\
 
-^{[[#fnm1][1]]} ℘ Num 25,7-13; 1 Chr 5,29f; 24,1-4
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 2,43-54; 1 Chr 9,2
+[fn:1] [[file:Num_25.org::v7][Num 25,7]]-[[file:Num_25.org::v13][13]]; [[file:1.Chr_5.org::v29][1 Chr 5,29f]]; [[file:1.Chr_24.org::v1][24,1]]-[[file:1.Chr_24.org::v4][4]]
 
-^{[[#fnm3][3]]} ℘ Neh 2,9
+[fn:2] [[file:Esra_2.org::v43][2,43]]-[[file:Esra_2.org::v54][54]]; [[file:1.Chr_9.org::v2][1 Chr 9,2]]
 
-^{[[#fnm4][4]]} ℘ 5,17; 7,11-26
+[fn:3] [[file:Neh_2.org::v9][Neh 2,9]]
+
+[fn:4] [[file:Esra_5.org::v17][5,17]]; [[file:Esra_7.org::v11][7,11]]-[[file:Esra_7.org::v26][26]]

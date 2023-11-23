@@ -305,3 +305,36 @@
 :END:
 Alle Standard Kinder am Elternsprechtag zur Steffi
 
+* Geburtstagsfeier Klaus 
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3401464284956000"
+:entry-id: o5o98ttd792ad77ud3s5f7417g/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2023-11-25 Sa 14:15-18:15>
+:END:
+
+* Elternsprechtag MS Golling
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3401464662282000"
+:entry-id: 5951apde9g7vm7ibqml09c1g0g/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2023-11-28 Di 15:00-19:00>
+:END:
+
+* Termin Winterreifen
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3401464733778000"
+:entry-id: 41ag8lgukmq2abo99073l6do7c/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2023-11-29 Mi 16:30-17:30>
+:END:
+

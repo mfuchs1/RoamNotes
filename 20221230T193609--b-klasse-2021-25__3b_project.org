@@ -19,20 +19,14 @@
 * 3b 11:35-12:25
 <%%(org-class 2023 9 13 2024 7 7 3 44)>
 
-Tabelle: Kapitel 3
-besprechen
-
-Worauf willst du verzichten?
+Wie deute ich einen Text - Bsp.: Schöpfungstext Gen 2
+RB Doppelseite
 
 * 3b 10:40-11:30
 <%%(org-class 2023 9 14 2024 7 8 4 44)>
 
-Ehrenamtliche Arbeit; auf der Suche nach einem erfüllten Leben / nach Sinn.
-Mythos und Logos. Naturwissenschaft (Evolution) / Schöpfungsmythen
-
-arte doku Evolutionslehre Schöpfung.
-
-[Die Kinder bes. in der 3b zeigen sich betont gelangweilt, "obercool", ... wie lockt man sie hinter dem Ofen hervor?]
+Wie deute ich einen Text - Bsp.: Schöpfungstext Gen 2
+RB Doppelseite
 
 * 3B [KV Lena ]
 #+Name: 2021-students

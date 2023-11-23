@@ -1,34 +1,25 @@
-:PROPERTIES:
-:ID:       57e8d159-5e09-4b55-b7dc-ef027efae76a
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Esra* -- [[file:Esra_1.html][1]] ...
-[[file:Esra_5.html][5]] [[file:Esra_6.html][6]] *7*
-[[file:Esra_8.html][8]] [[file:Esra_9.html][9]]
-[[file:Esra_10.html][10]]
-
---------------
-
-* Esra 7
-  :PROPERTIES:
-  :CUSTOM_ID: esra-7
-  :END:
+#+TITLE: Esra 7 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-23 Do 18:19]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Esra 7.html
 
 <<verses>>
 
 <<v1>>
-** Esra und die Neuordnung der Gemeinde in Jerusalem: 7,1 - 10,44
-   :PROPERTIES:
-   :CUSTOM_ID: esra-und-die-neuordnung-der-gemeinde-in-jerusalem-71---1044
-   :END:
-**** Esra, der Gesetzeslehrer: 7,1-10
-     :PROPERTIES:
-     :CUSTOM_ID: esra-der-gesetzeslehrer-71-10
-     :END:
+* Esra und die Neuordnung der Gemeinde in Jerusalem: 7,1 - 10,44
+
+* Esra, der Gesetzeslehrer: 7,1-10
+
 1 Nach diesen Ereignissen unter der Herrschaft des Perserkönigs
 Artaxerxes kam Esra, der Sohn Serajas, des Sohnes Asarjas, des Sohnes
-Hilkijas, ^{[[#fn1][1]]}
+Hilkijas, [fn:1]
 
 <<v2>>
 2 des Sohnes Schallums, des Sohnes Zadoks, des Sohnes Ahitubs,
@@ -70,18 +61,15 @@ zu lehren.\\
 \\
 
 <<v11>>
-**** Der zweite Befehl zur Rückführung: 7,11-23
-     :PROPERTIES:
-     :CUSTOM_ID: der-zweite-befehl-zur-rückführung-711-23
-     :END:
+* Der zweite Befehl zur Rückführung: 7,11-23
+
 11 Das ist eine Abschrift des Erlasses, den der König Artaxerxes dem
 Priester und Schriftgelehrten Esra mitgab, dem Schriftkundigen in den
 Geboten und Satzungen, die der Herr Israel gegeben hatte:
 
 <<v12>>
 12 Artaxerxes, der König der Könige, wünscht dem Priester Esra, dem
-Schriftkundigen im Gesetz des Gottes des Himmels, alles Gute.
-^{[[#fn2][2]]}
+Schriftkundigen im Gesetz des Gottes des Himmels, alles Gute. [fn:2]
 
 <<v13>>
 13 Das ist es, was ich befehle: Jeder in meinem Reich, der zum Volk
@@ -91,12 +79,12 @@ Jerusalem zu gehen, darf mit dir ziehen.
 <<v14>>
 14 Denn du bist von dem König und seinen sieben Räten ausgesandt und
 sollst nach dem Gesetz deines Gottes, das in deiner Hand ist,
-untersuchen, wie es in Juda und Jerusalem steht. ^{[[#fn3][3]]}
+untersuchen, wie es in Juda und Jerusalem steht. [fn:3]
 
 <<v15>>
 15 Auch sollst du das Silber und Gold hinbringen, das der König und
 seine Räte dem Gott Israels gespendet haben, der in Jerusalem seine
-Wohnstätte hat. ^{[[#fn4][4]]}
+Wohnstätte hat. [fn:4]
 
 <<v16>>
 16 Bring auch alles Silber und Gold dorthin, das du in der ganzen
@@ -118,7 +106,7 @@ verwenden, wie es dir und deinen Amtsbrüdern gut scheint.
 
 <<v20>>
 20 Den restlichen Bedarf für das Haus deines Gottes, den du aufzubringen
-hast, bekommst du aus den königlichen Schatzhäusern. ^{[[#fn5][5]]}
+hast, bekommst du aus den königlichen Schatzhäusern. [fn:5]
 
 <<v21>>
 21 Ich, der König Artaxerxes, befehle allen Schatzmeistern im Gebiet
@@ -138,10 +126,8 @@ Strafgericht das Reich des Königs und seiner Söhne trifft.\\
 \\
 
 <<v24>>
-**** Neue Anordnungen: 7,24-28
-     :PROPERTIES:
-     :CUSTOM_ID: neue-anordnungen-724-28
-     :END:
+* Neue Anordnungen: 7,24-28
+
 24 Auch wird euch Folgendes bekannt gemacht: Niemand ist befugt,
 irgendeinem Priester, Leviten, Sänger, Torwächter, Tempeldiener oder
 Arbeiter dieses Gotteshauses Steuern, Abgaben oder Zölle aufzuerlegen.
@@ -156,7 +142,7 @@ deines Gottes kennen; wer es aber nicht kennt, den sollt ihr es lehren.
 26 Doch über jeden, der das Gesetz deines Gottes und das Gesetz des
 Königs nicht befolgt, halte man streng Gericht und verurteile ihn je
 nachdem zum Tod, zum Ausschluss (aus der Gemeinde), zu einer Geldstrafe
-oder zu Gefängnis! ^{[[#fn6][6]]}
+oder zu Gefängnis! [fn:6]
 
 <<v27>>
 27 Gepriesen sei der Herr, der Gott unserer Väter! Denn er hat dem König
@@ -170,16 +156,18 @@ des Herrn, meines Gottes, über mir war, und sammelte Familienoberhäupter
 aus Israel, die bereit waren, mit mir hinaufzuziehen.\\
 \\
 
-^{[[#fnm1][1]]} ℘ 1 Chr 5,29-40
+* Footnotes
 
-^{[[#fnm2][2]]} 12-26: Das Schreiben des Artaxerxes ist in aramäischer
-Sprache überliefert (vgl. 4,8 - 6,18).
+[fn:1] [[file:1.Chr_5.org::v29][1 Chr 5,29]]-[[file:1.Chr_5.org::v40][40]]
 
-^{[[#fnm3][3]]} ℘ Est 1,14
+[fn:2] 12-26: Das Schreiben des Artaxerxes ist in aramäischer
+Sprache überliefert (vgl. [[file:Esra_4.org::v8][4,8]] - [[file:Esra_6.org::v18][6,18]]).
 
-^{[[#fnm4][4]]} ℘ 2 Makk 3,2
+[fn:3] [[file:Est_1.org::v14][Est 1,14]]
 
-^{[[#fnm5][5]]} ℘ 6,9
+[fn:4] [[file:2.Makk_3.org::v2][2 Makk 3,2]]
 
-^{[[#fnm6][6]]} Gemeint ist der Ausschluss aus der Gemeinde der
-Heimgekehrten (vgl. 10,8).
+[fn:5] [[file:Esra_6.org::v9][6,9]]
+
+[fn:6] Gemeint ist der Ausschluss aus der Gemeinde der
+Heimgekehrten (vgl. [[file:Esra_10.org::v8][10,8]]).

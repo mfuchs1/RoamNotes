@@ -1,25 +1,20 @@
-:PROPERTIES:
-:ID:       ddbec16b-a6af-4084-aa93-b4e878396453
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Esra* -- [[file:Esra_1.html][1]] ...
-[[file:Esra_8.html][8]] [[file:Esra_9.html][9]] *10*
-
---------------
-
-* Esra 10
-  :PROPERTIES:
-  :CUSTOM_ID: esra-10
-  :END:
+#+TITLE: Esra 10 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-23 Do 18:32]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Esra 10.html
 
 <<verses>>
 
 <<v1>>
-**** Die Auflösung der Mischehen: 10,1-17
-     :PROPERTIES:
-     :CUSTOM_ID: die-auflösung-der-mischehen-101-17
-     :END:
+* Die Auflösung der Mischehen: 10,1-17
+
 1 Während Esra vor dem Haus Gottes auf den Knien lag und weinend sein
 Gebet und sein Bekenntnis sprach, versammelte sich um ihn eine sehr
 große Gemeinde von Männern, Frauen und Kindern aus Israel. Auch das Volk
@@ -50,7 +45,7 @@ leisteten den Eid.
 6 Dann verließ Esra den Platz vor dem Haus Gottes und ging in die Kammer
 Johanans, des Sohnes Eljaschibs. Dort verbrachte er die Nacht, aß aber
 kein Brot und trank kein Wasser; denn er trauerte über den Treubruch der
-Heimkehrer. ^{[[#fn1][1]]}
+Heimkehrer. [fn:1]
 
 <<v7>>
 7 Dann machte man in Juda und Jerusalem allen Heimkehrern bekannt, sie
@@ -60,7 +55,7 @@ sollten sich in Jerusalem versammeln.
 8 Jeder, der nicht binnen drei Tagen komme, wie es die Vorsteher und
 Ältesten beschlossen hätten, dessen ganzer Besitz solle der Vernichtung
 anheim fallen und er selbst solle aus der Gemeinde der Heimkehrer
-ausgeschlossen werden. ^{[[#fn2][2]]}
+ausgeschlossen werden. [fn:2]
 
 <<v9>>
 9 Da versammelten sich nach drei Tagen alle Männer von Juda und Benjamin
@@ -113,17 +108,15 @@ aller Männer, die fremde Frauen geheiratet hatten.\\
 \\
 
 <<v18>>
-**** Die Liste der Betroffenen: 10,18-44
-     :PROPERTIES:
-     :CUSTOM_ID: die-liste-der-betroffenen-1018-44
-     :END:
+* Die Liste der Betroffenen: 10,18-44
+
 18 Unter den Priestern fand man folgende, die fremde Frauen geheiratet
 hatten: Von den Nachkommen Jeschuas, des Sohnes des Jozadak, und seinen
-Brüdern: Maaseja, Eliëser, Jarib und Gedalja. ^{[[#fn3][3]]}
+Brüdern: Maaseja, Eliëser, Jarib und Gedalja. [fn:3]
 
 <<v19>>
 19 Sie gaben die Hand darauf, ihre Frauen wegzuschicken, und brachten
-für ihre Schuld einen Widder als Schuldopfer dar. ^{[[#fn4][4]]}
+für ihre Schuld einen Widder als Schuldopfer dar. [fn:4]
 
 <<v20>>
 20 Von den Nachkommen Immers fand man schuldig: Hanani und Sebadja;
@@ -146,7 +139,7 @@ Uri.
 
 <<v25>>
 25 Unter den Israeliten von den Nachkommen des Parosch: Ramja, Jisija,
-Malkija, Mijamin, Eleasar, Malkija und Benaja; ^{[[#fn5][5]]}
+Malkija, Mijamin, Eleasar, Malkija und Benaja; [fn:5]
 
 <<v26>>
 26 von den Nachkommen Elams: Mattanja, Secharja, Jehiël, Abdi, Jeremot
@@ -211,17 +204,19 @@ Joël und Benaja.
 
 <<v44>>
 44 Alle diese hatten fremde Frauen geheiratet; sie trennten sich nun von
-ihren Frauen, auch wenn sie von ihnen Kinder hatten. ^{[[#fn6][6]]}\\
+ihren Frauen, auch wenn sie von ihnen Kinder hatten. [fn:6]\\
 \\
 
-^{[[#fnm1][1]]} ℘ Neh 13,4
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 7,26
+[fn:1] [[file:Neh_13.org::v4][Neh 13,4]]
 
-^{[[#fnm3][3]]} ℘ 2,36-39
+[fn:2] [[file:Esra_7.org::v26][7,26]]
 
-^{[[#fnm4][4]]} ℘ Lev 5,14-19
+[fn:3] [[file:Esra_2.org::v36][2,36]]-[[file:Esra_2.org::v39][39]]
 
-^{[[#fnm5][5]]} ℘ (25-43) 2,3-35
+[fn:4] [[file:Lev_5.org::v14][Lev 5,14]]-[[file:Lev_5.org::v19][19]]
 
-^{[[#fnm6][6]]} Text gestört, daher Übersetzung unsicher.
+[fn:5] (25-43) [[file:Esra_2.org::v3][2,3]]-[[file:Esra_2.org::v35][35]]
+
+[fn:6] Text gestört, daher Übersetzung unsicher.

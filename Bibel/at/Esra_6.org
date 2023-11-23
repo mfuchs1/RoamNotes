@@ -1,27 +1,20 @@
-:PROPERTIES:
-:ID:       cf071985-3d3e-4787-8bdb-b862c950ad13
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Esra* -- [[file:Esra_1.html][1]] ...
-[[file:Esra_4.html][4]] [[file:Esra_5.html][5]] *6*
-[[file:Esra_7.html][7]] [[file:Esra_8.html][8]] ...
-[[file:Esra_10.html][10]]
-
---------------
-
-* Esra 6
-  :PROPERTIES:
-  :CUSTOM_ID: esra-6
-  :END:
+#+TITLE: Esra 6 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-23 Do 18:14]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Esra 6.html
 
 <<verses>>
 
 <<v1>>
-**** Der Weiterbau mit königlicher Unterstützung: 6,1-12
-     :PROPERTIES:
-     :CUSTOM_ID: der-weiterbau-mit-königlicher-unterstützung-61-12
-     :END:
+* Der Weiterbau mit königlicher Unterstützung: 6,1-12
+
 1 Auf Befehl des Königs Darius forschte man nun in den Schatzhäusern
 nach, dort, wo in Babel die Urkunden aufbewahrt wurden.
 
@@ -85,10 +78,8 @@ gegeben; man befolge ihn genau.\\
 \\
 
 <<v13>>
-**** Die Vollendung des Baus und die Tempelweihe: 6,13-22
-     :PROPERTIES:
-     :CUSTOM_ID: die-vollendung-des-baus-und-die-tempelweihe-613-22
-     :END:
+* Die Vollendung des Baus und die Tempelweihe: 6,13-22
+
 13 Tattenai, der Statthalter des Gebiets jenseits des Stroms,
 Schetar-Bosnai und ihre Amtsgenossen befolgten genau den Befehl, den der
 König Darius gesandt hatte,
@@ -98,7 +89,7 @@ König Darius gesandt hatte,
 Haggais, des Propheten, und Sacharjas, des Sohnes Iddos, kamen sie gut
 voran. Sie konnten den Bau vollenden, wie der Gott Israels es geboten
 und wie Kyrus und Darius sowie der Perserkönig Artaxerxes es befohlen
-hatten. ^{[[#fn1][1]]}
+hatten. [fn:1]
 
 <<v15>>
 15 Das Gotteshaus war fertig am dritten Tag des Monats Adar, im sechsten
@@ -107,22 +98,22 @@ Jahr der Regierung des Königs Darius.
 <<v16>>
 16 Die Israeliten, die Priester, die Leviten und die übrigen, die
 heimgekehrt waren, feierten voll Freude die Einweihung dieses
-Gotteshauses. ^{[[#fn2][2]]}
+Gotteshauses. [fn:2]
 
 <<v17>>
 17 Bei der Einweihung des Gotteshauses brachten sie als Opfer dar:
 hundert Stiere, zweihundert Widder und vierhundert Lämmer, dazu als
 Sündopfer für ganz Israel zwölf Ziegenböcke, entsprechend der Zahl der
-Stämme Israels. ^{[[#fn3][3]]}
+Stämme Israels. [fn:3]
 
 <<v18>>
 18 Für den Gottesdienst in Jerusalem bestellten sie die Priester nach
 ihren Klassen und die Leviten nach ihren Abteilungen, wie es das Buch
-des Mose vorschreibt. ^{[[#fn4][4]]}
+des Mose vorschreibt. [fn:4]
 
 <<v19>>
 19 Am vierzehnten Tag des ersten Monats feierten die Heimkehrer das
-Pascha-Fest. ^{[[#fn5][5]][[#fn6][6]]}
+Pascha-Fest. [fn:5] [fn:6]
 
 <<v20>>
 20 Jeder der Priester und Leviten hatte sich gereinigt, sodass sie alle
@@ -142,15 +133,16 @@ Königs von Assur zugewandt, sodass er sie bei der Arbeit am Haus Gottes,
 des Gottes Israels, unterstützte.\\
 \\
 
-^{[[#fnm1][1]]} ℘ 5,1; 1,2; 7,19-24
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ (16-17) 1 Kön 8,1f.62-65
+[fn:1] [[file:Esra_5.org::v1][5,1]]; [[file:Esra_1.org::v2][1,2]]; [[file:Esra_7.org::v19][7,19]]-[[file:Esra_7.org::v24][24]]
 
-^{[[#fnm3][3]]} ℘ 2 Chr 29,20-32
+[fn:2] (16-17) [[file:1.Kön_8.org::v1][1 Kön 8,1f]].[[file:1.Kön_8.org::v62][62]]-[[file:1.Kön_8.org::v65][65]]
 
-^{[[#fnm4][4]]} ℘ 1 Chr 24,19
+[fn:3] [[file:2.Chr_29.org::v20][2 Chr 29,20]]-[[file:2.Chr_29.org::v32][32]]
 
-^{[[#fnm5][5]]} ℘ 2 Chr 35,10-15
+[fn:4] [[file:1.Chr_24.org::v19][1 Chr 24,19]]
 
-^{[[#fnm6][6]]} Von hier ab ist der Urtext wieder hebräisch, vgl. die
-Anmerkung zu 4,8.
+[fn:5] [[file:2.Chr_35.org::v10][2 Chr 35,10]]-[[file:2.Chr_35.org::v15][15]]
+
+[fn:6] Von hier ab ist der Urtext wieder hebräisch, vgl. die Anmerkung zu 4,8.

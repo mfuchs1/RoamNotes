@@ -1,26 +1,20 @@
-:PROPERTIES:
-:ID:       e1c12574-2480-4c72-9496-865a68032c2a
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Esra* -- [[file:Esra_1.html][1]]
-[[file:Esra_2.html][2]] *3* [[file:Esra_4.html][4]]
-[[file:Esra_5.html][5]] ... [[file:Esra_10.html][10]]
-
---------------
-
-* Esra 3
-  :PROPERTIES:
-  :CUSTOM_ID: esra-3
-  :END:
+#+TITLE: Esra 3 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-23 Do 18:00]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Esra 3.html
 
 <<verses>>
 
 <<v1>>
-**** Der Beginn des Kults und des Tempelbaus: 3,1-13
-     :PROPERTIES:
-     :CUSTOM_ID: der-beginn-des-kults-und-des-tempelbaus-31-13
-     :END:
+* Der Beginn des Kults und des Tempelbaus: 3,1-13
+
 1 Als der siebte Monat herankam und die Israeliten bereits in ihren
 Heimatstädten waren, versammelte sich das ganze Volk geschlossen in
 Jerusalem.
@@ -29,19 +23,17 @@ Jerusalem.
 2 Jeschua, der Sohn des Jozadak, mit seinen Brüdern, den Priestern, und
 Serubbabel, der Sohn Schealtiëls, mit seinen Brüdern gingen daran, den
 Altar des Gottes Israels wieder aufzubauen, um auf ihm Brandopfer
-darzubringen, wie es im Gesetz des Gottesmannes Mose vorgeschrieben ist.
-^{[[#fn1][1]]}
+darzubringen, wie es im Gesetz des Gottesmannes Mose vorgeschrieben ist. [fn:1]
 
 <<v3>>
 3 Sie errichteten den Altar an seiner alten Stelle, obwohl die Völker
 der Nachbarländer sie davon abzuschrecken suchten, und brachten auf ihm
-dem Herrn Brandopfer dar, je ein Brandopfer am Morgen und am Abend.
-^{[[#fn2][2]]}
+dem Herrn Brandopfer dar, je ein Brandopfer am Morgen und am Abend. [fn:2]
 
 <<v4>>
 4 Dann feierten sie der Vorschrift entsprechend das Laubhüttenfest und
 brachten Tag für Tag so viele Opfer dar, wie es für die einzelnen Tage
-festgesetzt ist. ^{[[#fn3][3]]}
+festgesetzt ist. [fn:3]
 
 <<v5>>
 5 Von da an brachten sie auch das ständige Brandopfer wieder dar, ferner
@@ -57,7 +49,7 @@ waren noch nicht gelegt.
 7 Darum nahmen sie Steinhauer und Zimmerleute in Dienst; den Sidoniern
 und Tyrern lieferten sie Nahrungsmittel, Getränke und Öl, damit sie
 Zedernstämme vom Libanon über das Meer nach Jafo brachten; das hatte
-ihnen der König Kyrus von Persien erlaubt. ^{[[#fn4][4]]}
+ihnen der König Kyrus von Persien erlaubt. [fn:4]
 
 <<v8>>
 8 Im zweiten Monat des zweiten Jahres nach ihrer Ankunft beim Gotteshaus
@@ -77,36 +69,37 @@ Söhne und Brüder, ebenfalls Leviten.
 10 Als die Bauleute das Fundament für den Tempel des Herrn gelegt
 hatten, kamen die Priester in ihren Gewändern und mit den Trompeten,
 außerdem die Leviten, die Nachkommen Asafs, mit den Zimbeln, um den
-Herrn zu preisen nach der Ordnung Davids, des Königs von Israel.
-^{[[#fn5][5]]}
+Herrn zu preisen nach der Ordnung Davids, des Königs von Israel. [fn:5]
 
 <<v11>>
 11 Sie begannen, den Herrn zu loben und zu preisen: «Denn er ist gütig
 und seine Huld gegenüber Israel währt ewig». Und das ganze Volk erhob
 ein lautes Jubelgeschrei zum Preis des Herrn, weil das Fundament für das
-Haus des Herrn gelegt war. ^{[[#fn6][6]]}
+Haus des Herrn gelegt war. [fn:6]
 
 <<v12>>
 12 Viele betagte Priester, Leviten und Familienoberhäupter hatten noch
 den ersten Tempel gesehen. Als nun vor ihren Augen das Fundament für den
 neuen Tempel gelegt wurde, weinten sie laut. Viele andere aber schrien
-vor Jubel und Freude. ^{[[#fn7][7]]}
+vor Jubel und Freude. [fn:7]
 
 <<v13>>
 13 Man konnte im lauten Freudenjubel das Weinen der anderen kaum hören,
 so laut war das Geschrei des Volkes und der Lärm war weithin zu hören.\\
 \\
 
-^{[[#fnm1][1]]} ℘ Ex 27,1-8; Lev 6,2
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ Ex 29,38-42
+[fn:1] [[file:Ex_27.org::v1][Ex 27,1-8]]; [[file:Lev_6.org::v2][Lev 6,2]]
 
-^{[[#fnm3][3]]} ℘ Num 29,12-38
+[fn:2] [[file:Ex_29.org::v38][Ex 29,38]]-[[file:Ex_29.org::v42][42]]
 
-^{[[#fnm4][4]]} ℘ 1 Kön 5,20-29
+[fn:3] [[file:Num_29.org::v12][Num 29,12]]-[[file:Num_29.org::v38][38]]
 
-^{[[#fnm5][5]]} ℘ 1 Chr 25
+[fn:4] [[file:1.Kön_5.org::v20][1 Kön 5,20]]-[[file:1.Kön_5.org::v29][29]]
 
-^{[[#fnm6][6]]} ℘ 2 Chr 5,13; Jer 33,11
+[fn:5] [[file:1.Chr_25.org][1 Chr 25]]
 
-^{[[#fnm7][7]]} ℘ Hag 2,3
+[fn:6] [[file:2.Chr_5.org::v13][2 Chr 5,13]]; [[file:Jer_33.org::v11][Jer 33,11]]
+
+[fn:7] [[file:Hag_2.org::v3][Hag 2,3]]
