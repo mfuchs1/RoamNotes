@@ -1,26 +1,20 @@
-:PROPERTIES:
-:ID:       4a2ac81b-2762-486a-b58c-bb7a546adc5e
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Judit* -- [[file:Jdt_1.html][1]] *2*
-[[file:Jdt_3.html][3]] [[file:Jdt_4.html][4]] ...
-[[file:Jdt_16.html][16]]
-
---------------
-
-* Jdt 2
-  :PROPERTIES:
-  :CUSTOM_ID: jdt-2
-  :END:
+#+TITLE: Jdt 2 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-24 Fr 21:32]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Jdt 2.html
 
 <<verses>>
 
 <<v1>>
-**** Der Plan Nebukadnezzars: 2,1-3
-     :PROPERTIES:
-     :CUSTOM_ID: der-plan-nebukadnezzars-21-3
-     :END:
+* Der Plan Nebukadnezzars: 2,1-3
+
 1 Im achtzehnten Jahr seiner Regierung erging am zweiundzwanzigsten Tag
 des ersten Monats im Palast Nebukadnezzars, des Königs der Assyrer, der
 Befehl, an der ganzen Erde das Strafgericht zu vollstrecken, das der
@@ -37,10 +31,8 @@ die dem Wort des Königs nicht gehorcht hätten.\\
 \\
 
 <<v4>>
-**** Der Auftrag des Holofernes: 2,4-13
-     :PROPERTIES:
-     :CUSTOM_ID: der-auftrag-des-holofernes-24-13
-     :END:
+* Der Auftrag des Holofernes: 2,4-13
+
 4 Als Nebukadnezzar, der König der Assyrer, die Beratung beendet hatte,
 bestellte er Holofernes zu sich, den Oberbefehlshaber seiner Truppen,
 der nach ihm den höchsten Rang einnahm, und sagte zu ihm:
@@ -59,7 +51,7 @@ Wort nicht gehorcht haben.
 7 Befiehl ihnen, schon Erde und Wasser bereitzuhalten. Denn ich will in
 meinem Zorn gegen sie zu Felde ziehen; die ganze Erde werde ich mit den
 Füßen meiner Truppen bedecken und den Besitz der Menschen meinen Männern
-zur Plünderung preisgeben. ^{[[#fn1][1]]}
+zur Plünderung preisgeben. [fn:1]
 
 <<v8>>
 8 Ihre Täler sollen sich mit Gefallenen füllen; jeder Bach und Fluss
@@ -87,10 +79,8 @@ aus!\\
 \\
 
 <<v14>>
-**** Die Aufstellung des Heeres: 2,14-20
-     :PROPERTIES:
-     :CUSTOM_ID: die-aufstellung-des-heeres-214-20
-     :END:
+* Die Aufstellung des Heeres: 2,14-20
+
 14 Holofernes ging von seinem Herrn weg und rief alle Befehlshaber,
 Feldherren und Hauptleute der assyrischen Truppen zusammen.
 
@@ -124,10 +114,8 @@ nicht zählen.\\
 \\
 
 <<v21>>
-**** Der Kriegszug des Holofernes: 2,21-27
-     :PROPERTIES:
-     :CUSTOM_ID: der-kriegszug-des-holofernes-221-27
-     :END:
+* Der Kriegszug des Holofernes: 2,21-27
+
 21 Von Ninive zogen sie drei Tagesmärsche weit bis zur Ebene von
 Bektilet und schlugen jenseits von Bektilet in der Nähe des Gebirges,
 das im Norden von Ober-Zilizien liegt, ihr Lager auf.
@@ -161,13 +149,12 @@ jungen Männer mit scharfem Schwert.\\
 \\
 
 <<v28>>
-**** Die Besetzung der Reiche an der Meeresküste: 2,28 - 3,8
-     :PROPERTIES:
-     :CUSTOM_ID: die-besetzung-der-reiche-an-der-meeresküste-228---38
-     :END:
+* Die Besetzung der Reiche an der Meeresküste: 2,28 - 3,8
+
 28 Furcht und Zittern befiel alle Bewohner der Küstengebiete, in Sidon
 und Tyrus, in Sur und Okina sowie alle Einwohner von Jamnia; auch die
 Einwohner von Aschdod und Aschkelon bekamen große Angst vor ihm.
 
-^{[[#fnm1][1]]} Die Übergabe von Erde und Wasser ist Zeichen der
-Unterwerfung.
+* Footnotes
+
+[fn:1] Die Übergabe von Erde und Wasser ist Zeichen der Unterwerfung.

@@ -1,27 +1,20 @@
-:PROPERTIES:
-:ID:       5555671b-84c8-4a8c-a1f6-b263ee110e86
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Judit* -- [[file:Jdt_1.html][1]] ...
-[[file:Jdt_8.html][8]] [[file:Jdt_9.html][9]] *10*
-[[file:Jdt_11.html][11]] [[file:Jdt_12.html][12]] ...
-[[file:Jdt_16.html][16]]
-
---------------
-
-* Jdt 10
-  :PROPERTIES:
-  :CUSTOM_ID: jdt-10
-  :END:
+#+TITLE: Jdt 10 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-24 Fr 21:55]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Jdt 10.html
 
 <<verses>>
 
 <<v1>>
-**** Judits Gang ins feindliche Lager: 10,1-19
-     :PROPERTIES:
-     :CUSTOM_ID: judits-gang-ins-feindliche-lager-101-19
-     :END:
+* Judits Gang ins feindliche Lager: 10,1-19
+
 1 Als sie ihr flehentliches Gebet zu dem Gott Israels beendet und alles
 gesagt hatte,
 
@@ -120,10 +113,8 @@ laufen lässt, sind sie imstande, noch die ganze Welt zu überlisten.\\
 \\
 
 <<v20>>
-**** Die Begegnung mit Holofernes: 10,20-23
-     :PROPERTIES:
-     :CUSTOM_ID: die-begegnung-mit-holofernes-1020-23
-     :END:
+* Die Begegnung mit Holofernes: 10,20-23
+
 20 Schließlich kamen die Leibwächter des Holofernes und sein ganzes
 Gefolge heraus und führten sie in das Zelt.
 

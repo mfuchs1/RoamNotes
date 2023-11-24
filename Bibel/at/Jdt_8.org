@@ -1,36 +1,28 @@
-:PROPERTIES:
-:ID:       ca730ee8-afa1-487a-9631-17fad26cf298
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Judit* -- [[file:Jdt_1.html][1]] ...
-[[file:Jdt_6.html][6]] [[file:Jdt_7.html][7]] *8* [[file:Jdt_9.html][9]]
-[[file:Jdt_10.html][10]] ... [[file:Jdt_16.html][16]]
-
---------------
-
-* Jdt 8
-  :PROPERTIES:
-  :CUSTOM_ID: jdt-8
-  :END:
+#+TITLE: Jdt 8 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-24 Fr 21:48]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Jdt 8.html
 
 <<verses>>
 
 <<v1>>
-** Die Rettung des Gottesvolkes: 8,1 - 16,25
-   :PROPERTIES:
-   :CUSTOM_ID: die-rettung-des-gottesvolkes-81---1625
-   :END:
-**** Herkunft und Leben der Judit: 8,1-8
-     :PROPERTIES:
-     :CUSTOM_ID: herkunft-und-leben-der-judit-81-8
-     :END:
+* Die Rettung des Gottesvolkes: 8,1 - 16,25
+
+* Herkunft und Leben der Judit: 8,1-8
+
 1 Davon hörte in jenen Tagen Judit, die Tochter Meraris, des Sohnes des
 Uz, des Sohnes Josefs, des Sohnes Usiëls, des Sohnes Hilkijas, des
 Sohnes Hananjas, des Sohnes Gideons, des Sohnes Rafains, des Sohnes
 Ahitubs, des Sohnes Elijas, des Sohnes Hilkijas, des Sohnes Eliabs, des
 Sohnes Natanaels, des Sohnes Schelumiëls, des Sohnes Zurischaddais, des
-Sohnes Simeons, des Sohnes Israels. ^{[[#fn1][1]]}
+Sohnes Simeons, des Sohnes Israels. [fn:1]
 
 <<v2>>
 2 Ihr Mann Manasse, der aus ihrem Stamm und ihrer Sippe war, hatte zur
@@ -67,10 +59,8 @@ gottesfürchtig.\\
 \\
 
 <<v9>>
-**** Judits Stellung zur Verzweiflung der Bewohner: 8,9-10
-     :PROPERTIES:
-     :CUSTOM_ID: judits-stellung-zur-verzweiflung-der-bewohner-89-10
-     :END:
+* Judits Stellung zur Verzweiflung der Bewohner: 8,9-10
+
 9 Judit hörte von den Vorwürfen des Volkes gegen das Stadtoberhaupt, als
 es wegen des Wassermangels den Mut verlor. Ebenso erfuhr sie, was Usija
 den Leuten geantwortet hatte und dass er ihnen unter Eid versprochen
@@ -82,10 +72,8 @@ die Ältesten ihrer Heimatstadt, Kabri und Karmi, herbeiholen.\\
 \\
 
 <<v11>>
-**** Judits Gespräch mit den Ältesten der Stadt: 8,11-36
-     :PROPERTIES:
-     :CUSTOM_ID: judits-gespräch-mit-den-ältesten-der-stadt-811-36
-     :END:
+* Judits Gespräch mit den Ältesten der Stadt: 8,11-36
+
 11 Als sie zu ihr kamen, sagte sie zu ihnen: Hört mich an, ihr Vorsteher
 der Einwohner von Betulia! Es war nicht recht, was ihr heute vor dem
 Volk gesagt habt. Durch diesen Eid, den ihr geschworen habt, habt ihr
@@ -116,7 +104,7 @@ oder uns vor den Augen unserer Feinde vernichten will.
 <<v16>>
 16 Versucht nicht, die Entscheidungen des Herrn, unseres Gottes, zu
 erzwingen; denn Gott ist nicht wie ein Mensch, dem man drohen kann, und
-wie ein Menschenkind, das man beeinflussen kann. ^{[[#fn2][2]]}
+wie ein Menschenkind, das man beeinflussen kann. [fn:2]
 
 <<v17>>
 17 Darum wollen wir die Rettung von ihm erwarten und ihn um Hilfe
@@ -170,7 +158,7 @@ Bruders seiner Mutter, hütete.
 <<v27>>
 27 Denn wie er diese Männer im Feuer geläutert hat, um ihr Herz zu
 prüfen, so hat er auch mit uns kein Strafgericht vor, sondern der Herr
-züchtigt seine Freunde, um sie zur Einsicht zu führen. ^{[[#fn3][3]]}
+züchtigt seine Freunde, um sie zur Einsicht zu führen. [fn:3]
 
 <<v28>>
 28 Da sagte Usija zu ihr: Alles, was du gesagt hast, kam aus einem edlen
@@ -214,8 +202,10 @@ der Herr, sei dein Führer bei dem Strafgericht an unseren Feinden.
 36 Dann verließen sie das Zelt und kehrten auf ihre Posten zurück.\\
 \\
 
-^{[[#fnm1][1]]} ℘ Num 1,6; 2,12
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ Num 23,19
+[fn:1] [[file:Num_1.org::v6][Num 1,6]]; [[file:Num_2.org::v12][2,12]]
 
-^{[[#fnm3][3]]} ℘ Dtn 8,16; Jer 10,24; Weish 3,1-10
+[fn:2] [[file:Num_23.org::v19][Num 23,19]]
+
+[fn:3] [[file:Dtn_8.org::v16][Dtn 8,16]]; [[file:Jer_10.org::v24][Jer 10,24]]; [[file:Weish_3.org::v1][Weish 3,1]]-[[file:Weish_3.org::v10][10]]

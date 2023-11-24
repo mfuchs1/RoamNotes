@@ -1,26 +1,20 @@
-:PROPERTIES:
-:ID:       36277bfb-17b3-4b66-8356-b23d2ab5f4bb
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Judit* -- [[file:Jdt_1.html][1]] ...
-[[file:Jdt_5.html][5]] [[file:Jdt_6.html][6]] *7* [[file:Jdt_8.html][8]]
-[[file:Jdt_9.html][9]] ... [[file:Jdt_16.html][16]]
-
---------------
-
-* Jdt 7
-  :PROPERTIES:
-  :CUSTOM_ID: jdt-7
-  :END:
+#+TITLE: Jdt 7 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-24 Fr 21:46]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Jdt 7.html
 
 <<verses>>
 
 <<v1>>
-**** Der Anfang der Belagerung von Betulia: 7,1-7
-     :PROPERTIES:
-     :CUSTOM_ID: der-anfang-der-belagerung-von-betulia-71-7
-     :END:
+* Der Anfang der Belagerung von Betulia: 7,1-7
+
 1 Am folgenden Tag befahl Holofernes seinem ganzen Heer und allen seinen
 Hilfsvölkern, gegen Betulia vorzurücken, die Gebirgspässe zu besetzen
 und den Kampf gegen die Israeliten zu eröffnen.
@@ -57,10 +51,8 @@ bewaffnete Posten auf und kehrte zu seinem Heer zurück.\\
 \\
 
 <<v8>>
-**** Die Rede der Heerführer an Holofernes: 7,8-15
-     :PROPERTIES:
-     :CUSTOM_ID: die-rede-der-heerführer-an-holofernes-78-15
-     :END:
+* Die Rede der Heerführer an Holofernes: 7,8-15
+
 8 Da kamen zu ihm alle Heerführer der Edomiter, alle Hauptleute der
 Moabiter und die Befehlshaber der Küstengebiete. Sie sagten:
 
@@ -100,10 +92,8 @@ sind.\\
 \\
 
 <<v16>>
-**** Die Verzögerungstaktik des Holofernes: 7,16-18
-     :PROPERTIES:
-     :CUSTOM_ID: die-verzögerungstaktik-des-holofernes-716-18
-     :END:
+* Die Verzögerungstaktik des Holofernes: 7,16-18
+
 16 Diese Worte gefielen dem Holofernes und all seinen Offizieren und er
 befahl, den Rat zu befolgen.
 
@@ -122,10 +112,8 @@ riesiges Heerlager; es war eine gewaltige Menge.\\
 \\
 
 <<v19>>
-**** Der Wassermangel in Betulia: 7,19-22
-     :PROPERTIES:
-     :CUSTOM_ID: der-wassermangel-in-betulia-719-22
-     :END:
+* Der Wassermangel in Betulia: 7,19-22
+
 19 Die Israeliten aber schrien zum Herrn, ihrem Gott. Sie hatten allen
 Mut verloren, da sie ringsum von ihren Feinden eingeschlossen waren und
 es kein Entrinnen mehr gab.
@@ -148,10 +136,8 @@ Torwegen um, denn sie hatten keine Kraft mehr.\\
 \\
 
 <<v23>>
-**** Die Verzweiflung der Bewohner von Betulia: 7,23-29
-     :PROPERTIES:
-     :CUSTOM_ID: die-verzweiflung-der-bewohner-von-betulia-723-29
-     :END:
+* Die Verzweiflung der Bewohner von Betulia: 7,23-29
+
 23 Da versammelte sich das ganze Volk, die jungen Männer, die Frauen und
 Kinder, bei Usija und den leitenden Männern der Stadt, erhoben ein
 lautes Geschrei und riefen den Ältesten zu:
@@ -188,17 +174,15 @@ alle schrien mit lauter Stimme zu Gott, dem Herrn.\\
 \\
 
 <<v30>>
-**** Usijas ermutigende Antwort: 7,30-32
-     :PROPERTIES:
-     :CUSTOM_ID: usijas-ermutigende-antwort-730-32
-     :END:
+* Usijas ermutigende Antwort: 7,30-32
+
 30 Doch Usija sagte zu ihnen: Fasst Mut, Brüder! Wir wollen noch fünf
 Tage aushalten. In dieser Zeit wird der Herr, unser Gott, uns sein
 Erbarmen wieder zuwenden; er wird uns nicht für immer verlassen.
 
 <<v31>>
 31 Sollten aber diese Tage vergehen, ohne dass uns geholfen wird, dann
-will ich tun, was ihr gefordert habt. ^{[[#fn1][1]]}
+will ich tun, was ihr gefordert habt. [fn:1]
 
 <<v32>>
 32 Dann ließ er das Volk auseinander gehen, jeden auf seinen Posten, und
@@ -207,4 +191,6 @@ und Kinder aber schickte er in ihre Häuser zurück. In der Stadt
 herrschte tiefe Niedergeschlagenheit.\\
 \\
 
-^{[[#fnm1][1]]} ℘ 1 Sam 11,3
+* Footnotes
+
+[fn:1] [[file:1.Sam_11.org::v3][1 Sam 11,3]]

@@ -1,39 +1,31 @@
-:PROPERTIES:
-:ID:       e5649f5c-1204-4760-9759-58d4aa42d12e
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Judit* -- [[file:Jdt_1.html][1]] ...
-[[file:Jdt_7.html][7]] [[file:Jdt_8.html][8]] *9*
-[[file:Jdt_10.html][10]] [[file:Jdt_11.html][11]] ...
-[[file:Jdt_16.html][16]]
-
---------------
-
-* Jdt 9
-  :PROPERTIES:
-  :CUSTOM_ID: jdt-9
-  :END:
+#+TITLE: Jdt 9 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-24 Fr 21:52]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Jdt 9.html
 
 <<verses>>
 
 <<v1>>
-**** Judits Gebet: 9,1-14
-     :PROPERTIES:
-     :CUSTOM_ID: judits-gebet-91-14
-     :END:
+* Judits Gebet: 9,1-14
+
 1 Judit warf sich auf ihr Gesicht nieder, streute sich Asche auf das
 Haupt und öffnete das Bußgewand, das sie trug. Es war gerade die Zeit,
 zu der man an jenem Abend in Jerusalem im Haus Gottes das Rauchopfer
-darbrachte. Und Judit rief laut zum Herrn; sie sagte: ^{[[#fn1][1]]}
+darbrachte. Und Judit rief laut zum Herrn; sie sagte: [fn:1]
 
 <<v2>>
 2 Herr, du Gott meines Stammvaters Simeon! Du hast ihm das Schwert in
 die Hand gegeben zur Bestrafung der Fremden, die den Gürtel der Jungfrau
 lösten, um sie zu beflecken, die ihre Schenkel entblößten, um sie zu
 schänden, und ihren Schoß entweihten zu ihrer Schande. Du hattest
-nämlich geboten: Das darf nicht geschehen. Und dennoch taten sie es.
-^{[[#fn2][2]][[#fn3][3]]}
+nämlich geboten: Das darf nicht geschehen. Und dennoch taten sie es. [fn:2] [fn:3]
 
 <<v3>>
 3 Deswegen gabst du ihre Fürsten Mördern preis und tauchtest zur
@@ -55,15 +47,14 @@ erdacht und es ist eingetroffen, was du geplant hast.
 
 <<v6>>
 6 Deine Beschlüsse standen da und sagten: Hier sind wir! Denn alle deine
-Wege sind schon gebahnt und dein Gericht ist eine beschlossene Sache.
-^{[[#fn4][4]]}
+Wege sind schon gebahnt und dein Gericht ist eine beschlossene Sache. [fn:4]
 
 <<v7>>
 7 Sieh doch auf die Assyrer! Sie verfügen über ein gewaltiges Heer,
 brüsten sich mit ihren Rossen und Reitern, sind stolz auf die
 Schlagkraft ihres Fußvolkes, vertrauen auf ihre Schilde und Speere, ihre
 Bogen und Schleudern und wollen nicht einsehen, dass du der Herr bist,
-der den Kriegen ein Ende setzt. ^{[[#fn5][5]]}
+der den Kriegen ein Ende setzt. [fn:5]
 
 <<v8>>
 8 «Herr» ist dein Name. Brich ihre Stärke mit deiner Macht und vernichte
@@ -99,20 +90,21 @@ Wohnsitz deiner Söhne Böses beschlossen haben.
 <<v14>>
 14 Lass dein ganzes Volk und alle Stämme erkennen und wissen, dass du
 der wahre Gott bist, der Gott aller Macht und Stärke, und dass es für
-dein Volk Israel keinen anderen Beschützer gibt als dich allein.
-^{[[#fn6][6]]}\\
+dein Volk Israel keinen anderen Beschützer gibt als dich allein. [fn:6]\\
 \\
 
-^{[[#fnm1][1]]} ℘ Ex 30,8
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ Gen 34,25f
+[fn:1] [[file:Ex_30.org::v8][Ex 30,8]]
 
-^{[[#fnm3][3]]} Judit beruft sich auf das Strafgericht, das ihr
+[fn:2] [[file:Gen_34.org::v25][Gen 34,25f]]
+
+[fn:3] Judit beruft sich auf das Strafgericht, das ihr
 Stammvater Simeon zusammen mit seinem Bruder Levi an Sichem vollstreckt
 hat (vgl. Gen 34).
 
-^{[[#fnm4][4]]} ℘ Ps 33,9
+[fn:4] [[file:Ps_33.org::v9][Ps 33,9]]
 
-^{[[#fnm5][5]]} ℘ Ps 46,10; 83,19
+[fn:5] [[file:Ps_46.org::v10][Ps 46,10]]; [[file:Ps_83.org::v19][83,19]]
 
-^{[[#fnm6][6]]} ℘ Jes 37,20
+[fn:6] [[file:Jes_37.org::v20][Jes 37,20]]

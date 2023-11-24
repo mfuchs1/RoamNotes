@@ -1,27 +1,20 @@
-:PROPERTIES:
-:ID:       3d794e28-7bf9-4f6a-b283-8a09b555de2b
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Judit* -- [[file:Jdt_1.html][1]] ...
-[[file:Jdt_10.html][10]] [[file:Jdt_11.html][11]] *12*
-[[file:Jdt_13.html][13]] [[file:Jdt_14.html][14]] ...
-[[file:Jdt_16.html][16]]
-
---------------
-
-* Jdt 12
-  :PROPERTIES:
-  :CUSTOM_ID: jdt-12
-  :END:
+#+TITLE: Jdt 12 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-24 Fr 21:58]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Jdt 12.html
 
 <<verses>>
 
 <<v1>>
-**** Judits Sorge um die rituelle Reinheit: 12,1-9
-     :PROPERTIES:
-     :CUSTOM_ID: judits-sorge-um-die-rituelle-reinheit-121-9
-     :END:
+* Judits Sorge um die rituelle Reinheit: 12,1-9
+
 1 Dann ließ er sie in den Raum führen, wo sein silbernes Tafelgerät
 aufgestellt war, und befahl, ihr von den feinen Speisen auf seinem Tisch
 vorzusetzen und von seinem Wein zu trinken zu geben.
@@ -29,7 +22,7 @@ vorzusetzen und von seinem Wein zu trinken zu geben.
 <<v2>>
 2 Doch Judit sagte: Ich werde nichts davon nehmen, damit ich keinen
 Anstoß errege. Man soll mir statt dessen von meinem Vorrat zu essen
-geben, den ich mitgebracht habe. ^{[[#fn1][1]]}
+geben, den ich mitgebracht habe. [fn:1]
 
 <<v3>>
 3 Da fragte Holofernes: Wenn aber dein Vorrat erschöpft ist, woher
@@ -65,10 +58,8 @@ bis sie gegen Abend ihr Essen zu sich nahm.\\
 \\
 
 <<v10>>
-**** Judit beim Gastmahl des Holofernes: 12,10-20
-     :PROPERTIES:
-     :CUSTOM_ID: judit-beim-gastmahl-des-holofernes-1210-20
-     :END:
+* Judit beim Gastmahl des Holofernes: 12,10-20
+
 10 Am vierten Tag gab Holofernes ein Gastmahl nur für seine
 Dienerschaft; von den Männern, die sonst um ihn waren, lud er keinen
 ein.
@@ -124,4 +115,6 @@ wie er noch nie zuvor in seinem Leben an einem einzigen Tag getrunken
 hatte.\\
 \\
 
-^{[[#fnm1][1]]} ℘ Dan 1,8
+* Footnotes
+
+[fn:1] [[file:Dan_1.org::v8][Dan 1,8]]

@@ -1,27 +1,20 @@
-:PROPERTIES:
-:ID:       bfe67450-9082-4dd1-af89-af6659537e4b
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Judit* -- [[file:Jdt_1.html][1]] ...
-[[file:Jdt_9.html][9]] [[file:Jdt_10.html][10]] *11*
-[[file:Jdt_12.html][12]] [[file:Jdt_13.html][13]] ...
-[[file:Jdt_16.html][16]]
-
---------------
-
-* Jdt 11
-  :PROPERTIES:
-  :CUSTOM_ID: jdt-11
-  :END:
+#+TITLE: Jdt 11 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-24 Fr 21:56]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Jdt 11.html
 
 <<verses>>
 
 <<v1>>
-**** Das Gespräch des Holofernes mit Judit: 11,1-23
-     :PROPERTIES:
-     :CUSTOM_ID: das-gespräch-des-holofernes-mit-judit-111-23
-     :END:
+* Das Gespräch des Holofernes mit Judit: 11,1-23
+
 1 Holofernes sagte zu ihr: Nur Mut, Frau, fürchte dich nicht! Ich habe
 noch keinem Menschen etwas zuleid getan, der sich für den Dienst
 Nebukadnezzars, des Königs der ganzen Erde, entschieden hat.
@@ -55,7 +48,7 @@ einem guten Ende führen, und mein Herr wird sein Ziel nicht verfehlen.
 wahr die Macht dessen gilt, der dich aussandte, um alle Welt zur Ordnung
 zu rufen: Du machst ihm nicht nur die Menschen untertan; auch die wilden
 Tiere, das Vieh und die Vögel werden dank deiner Tatkraft unter der
-Herrschaft Nebukadnezzars und seines ganzen Hauses leben. ^{[[#fn1][1]]}
+Herrschaft Nebukadnezzars und seines ganzen Hauses leben. [fn:1]
 
 <<v8>>
 8 Wir haben nämlich von deiner Weisheit und von den großartigen
@@ -93,7 +86,7 @@ Gesetz als Nahrung verboten hat.
 die sie als Weihegaben für die Dienst tuenden Priester unseres Gottes in
 Jerusalem aufbewahrt haben, beschlossen sie, restlos zu verzehren; dabei
 darf keiner aus dem Volk die Weihegaben auch nur mit den Händen
-anrühren. ^{[[#fn2][2]]}
+anrühren. [fn:2]
 
 <<v14>>
 14 Sie haben Boten nach Jerusalem geschickt, weil die dortige
@@ -148,6 +141,8 @@ Gott sein; du sollst im Palast des Königs Nebukadnezzar wohnen und in
 aller Welt berühmt sein.\\
 \\
 
-^{[[#fnm1][1]]} ℘ Jer 27,6
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ Dtn 14,22; 18,4
+[fn:1] [[file:Jer_27.org::v6][Jer 27,6]]
+
+[fn:2] [[file:Dtn_14.org::v22][Dtn 14,22]]; [[file:Dtn_18.org::v4][18,4]]

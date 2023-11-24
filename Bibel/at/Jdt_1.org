@@ -1,17 +1,16 @@
-:PROPERTIES:
-:ID:       598d3e4e-5382-4260-9470-acb20b0188f8
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Judit* -- *1* [[file:Jdt_2.html][2]]
-[[file:Jdt_3.html][3]] ... [[file:Jdt_16.html][16]]
-
---------------
+#+TITLE: Jdt 1 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-24 Fr 21:30]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Jdt 1.html
 
 * Jdt 1
-  :PROPERTIES:
-  :CUSTOM_ID: jdt-1
-  :END:
 
 Das Buch Judit schildert am Beispiel der Bedrohung Israels durch die
 Macht eines Königs Nebukadnezzar die Gefährdung des Gottesvolkes durch
@@ -54,17 +53,13 @@ worden.\\
 <<verses>>
 
 <<v1>>
-** Die Bedrohung: 1,1 - 3,10
-   :PROPERTIES:
-   :CUSTOM_ID: die-bedrohung-11---310
-   :END:
-**** Der Krieg zwischen Nebukadnezzar und Arphaxad: 1,1-6
-     :PROPERTIES:
-     :CUSTOM_ID: der-krieg-zwischen-nebukadnezzar-und-arphaxad-11-6
-     :END:
+* Die Bedrohung: 1,1 - 3,10
+
+* Der Krieg zwischen Nebukadnezzar und Arphaxad: 1,1-6
+
 1 Es war im zwölften Jahr des Nebukadnezzar, der in der großen Stadt
 Ninive als König der Assyrer regierte. Zur gleichen Zeit regierte damals
-in Ekbatana Arphaxad als König der Meder. ^{[[#fn1][1]]}
+in Ekbatana Arphaxad als König der Meder. [fn:1]
 
 <<v2>>
 2 Arphaxad hatte aus behauenen Steinen von drei Ellen Breite und sechs
@@ -92,10 +87,8 @@ der Söhne Chelëuds zusammenströmten.\\
 \\
 
 <<v7>>
-**** Der vergebliche Hilferuf an die Nachbarvölker: 1,7-12
-     :PROPERTIES:
-     :CUSTOM_ID: der-vergebliche-hilferuf-an-die-nachbarvölker-17-12
-     :END:
+* Der vergebliche Hilferuf an die Nachbarvölker: 1,7-12
+
 7 Der Assyrerkönig Nebukadnezzar schickte Boten zu allen Bewohnern
 Persiens und zu allen, die ihre Wohnsitze im Westen hatten, nämlich zu
 den Bewohnern von Zilizien und von Damaskus, zu allen Bewohnern des
@@ -127,14 +120,12 @@ mit leeren Händen wieder abziehen.
 bei seinem Thron und seinem Reich, an dem ganzen Gebiet von Zilizien,
 Damaskus und Syrien Rache zu nehmen und alle Bewohner Moabs, die
 Ammoniter, ganz Judäa und alle Bewohner Ägyptens bis zum Gebiet der
-beiden Meere mit seinem Schwert auszurotten. ^{[[#fn2][2]]}\\
+beiden Meere mit seinem Schwert auszurotten. [fn:2]\\
 \\
 
 <<v13>>
-**** Der Sieg über Arphaxad: 1,13-16
-     :PROPERTIES:
-     :CUSTOM_ID: der-sieg-über-arphaxad-113-16
-     :END:
+* Der Sieg über Arphaxad: 1,13-16
+
 13 Im siebzehnten Jahr seiner Regierung griff er König Arphaxad mit
 seinem Heer an und konnte den Kampf für sich entscheiden; das gesamte
 Heer des Arphaxad, seine ganze Reiterei und all seine Wagen jagte er in
@@ -156,7 +147,9 @@ feierte er dort mit dem Heer ein Freudenfest, das hundertzwanzig Tage
 lang dauerte.\\
 \\
 
-^{[[#fnm1][1]]} Die Angaben stehen im Widerspruch zur Geschichte.
+* Footnotes
+
+[fn:1] Die Angaben stehen im Widerspruch zur Geschichte.
 Nebukadnezzar (605-562 v. Chr.) war König von Babylon und nicht König
 der Assyrer in Ninive. Schon sein Vater Nabopolassar hatte 612 v. Chr.
 Ninive zerstört. Der König von Assur ist seit der mittleren Königszeit
@@ -169,4 +162,4 @@ dieser Eigenschaft ist er mit dem neutestamentlichen «Antichristen» zu
 vergleichen (vgl. Mk 13,14; 2 Thess 2,4; 1 Joh 2,18; 2 Joh 7; Offb
 13,1-10).
 
-^{[[#fnm2][2]]} ganz Judäa, andere Lesart: ganz Idumäa.
+[fn:2] ganz Judäa, andere Lesart: ganz Idumäa.

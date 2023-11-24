@@ -1,27 +1,20 @@
-:PROPERTIES:
-:ID:       e9004d35-3f49-4251-9e52-67c500386825
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Judit* -- [[file:Jdt_1.html][1]] ...
-[[file:Jdt_11.html][11]] [[file:Jdt_12.html][12]] *13*
-[[file:Jdt_14.html][14]] [[file:Jdt_15.html][15]]
-[[file:Jdt_16.html][16]]
-
---------------
-
-* Jdt 13
-  :PROPERTIES:
-  :CUSTOM_ID: jdt-13
-  :END:
+#+TITLE: Jdt 13 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-24 Fr 21:59]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Jdt 13.html
 
 <<verses>>
 
 <<v1>>
-**** Judits Rettungstat: 13,1-10
-     :PROPERTIES:
-     :CUSTOM_ID: judits-rettungstat-131-10
-     :END:
+* Judits Rettungstat: 13,1-10
+
 1 Als es dann Nacht geworden war, brachen seine Diener eilig auf. Bagoas
 schloss von außen das Zelt und trennte so die Diener von seinem Herrn.
 Sie suchten ihr Nachtlager auf, denn sie waren alle von dem ausgedehnten
@@ -74,10 +67,8 @@ stiegen den Berg nach Betulia hinauf und gelangten vor das Stadttor.\\
 \\
 
 <<v11>>
-**** Judits Rückkehr nach Betulia und der Jubel des Volkes:
-     :PROPERTIES:
-     :CUSTOM_ID: judits-rückkehr-nach-betulia-und-der-jubel-des-volkes
-     :END:
+* Judits Rückkehr nach Betulia und der Jubel des Volkes:
+
 11 Schon von weitem rief Judit den Wächtern am Tor zu: Öffnet, öffnet
 schnell das Tor! Gott ist mit uns, ja, unser Gott ist mit uns. Er
 offenbart in Israel seine segensreiche Macht, an unseren Feinden aber
@@ -116,10 +107,8 @@ am heutigen Tag die Feinde deines Volkes vernichtet hast.\\
 \\
 
 <<v18>>
-**** Usijas Lob für Judit: 13,18-20
-     :PROPERTIES:
-     :CUSTOM_ID: usijas-lob-für-judit-1318-20
-     :END:
+* Usijas Lob für Judit: 13,18-20
+
 18 Usija aber sagte: Meine Tochter, du bist von Gott, dem Allerhöchsten,
 mehr gesegnet als alle anderen Frauen auf der Erde. Gepriesen sei der
 Herr, unser Gott, der Himmel und Erde geschaffen hat. Durch seine Hilfe

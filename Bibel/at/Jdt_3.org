@@ -1,18 +1,16 @@
-:PROPERTIES:
-:ID:       8c45cb5a-840b-4453-8dff-5f68f5e1a483
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Judit* -- [[file:Jdt_1.html][1]]
-[[file:Jdt_2.html][2]] *3* [[file:Jdt_4.html][4]] [[file:Jdt_5.html][5]]
-... [[file:Jdt_16.html][16]]
-
---------------
+#+TITLE: Jdt 3 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-24 Fr 21:34]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Jdt 3.html
 
 * Jdt 3
-  :PROPERTIES:
-  :CUSTOM_ID: jdt-3
-  :END:
 
 <<verses>>
 
@@ -53,10 +51,8 @@ Nationen ihn als Gott anrufen.\\
 \\
 
 <<v9>>
-**** Die Bedrohung des Gottesvolkes: 3,9-10
-     :PROPERTIES:
-     :CUSTOM_ID: die-bedrohung-des-gottesvolkes-39-10
-     :END:
+* Die Bedrohung des Gottesvolkes: 3,9-10
+
 9 So kam er in das Gebiet von Jesreel nahe bei Dotan, das vor dem großen
 Gebirgszug von Judäa liegt.
 

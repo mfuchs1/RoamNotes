@@ -1,36 +1,31 @@
-:PROPERTIES:
-:ID:       a30a1f74-3d80-489d-b550-1930ca3da766
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Judit* -- [[file:Jdt_1.html][1]] ...
-[[file:Jdt_14.html][14]] [[file:Jdt_15.html][15]] *16*
-
---------------
-
-* Jdt 16
-  :PROPERTIES:
-  :CUSTOM_ID: jdt-16
-  :END:
+#+TITLE: Jdt 16 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-24 Fr 22:02]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Jdt 16.html
 
 <<verses>>
 
 <<v1>>
-**** Judits Lobgesang: 16,1-17
-     :PROPERTIES:
-     :CUSTOM_ID: judits-lobgesang-161-17
-     :END:
+* Judits Lobgesang: 16,1-17
+
 1 Judit sang: Stimmt ein Lied an für meinen Gott unter Paukenschall, /\\
  singt für den Herrn unter Zimbelklang! /\\
  Preist ihn und singt sein Lob, /\\
- rühmt seinen Namen und ruft ihn an! ^{[[#fn1][1]]}\\
+ rühmt seinen Namen und ruft ihn an! [fn:1]\\
 \\
 
 <<v2>>
 2 Denn der Herr ist ein Gott, /\\
  der den Kriegen ein Ende setzt; /\\
  er führte mich heim in sein Lager inmitten des Volkes /\\
- und rettete mich aus der Gewalt der Feinde. ^{[[#fn2][2]]}\\
+ und rettete mich aus der Gewalt der Feinde. [fn:2]\\
 \\
 
 <<v3>>
@@ -81,7 +76,7 @@
 
 <<v10>>
 10 Die Perser erschraken vor ihrer Kühnheit, /\\
- die Meder erstarrten vor ihrem Mut. ^{[[#fn3][3]]}\\
+ die Meder erstarrten vor ihrem Mut. [fn:3]\\
 \\
 
 <<v11>>
@@ -103,7 +98,7 @@
 13 Ich singe meinem Gott ein neues Lied; /\\
  Herr, du bist groß und voll Herrlichkeit. /\\
  Wunderbar bist du in deiner Stärke, /\\
- keiner kann dich übertreffen. ^{[[#fn4][4]]}\\
+ keiner kann dich übertreffen. [fn:4]\\
 \\
 
 <<v14>>
@@ -129,14 +124,12 @@
 17 Doch weh den Völkern, die mein Volk bekämpfen. /\\
  Am Tag des Gerichts straft sie der allmächtige Herr, /\\
  er schickt Feuer und Würmer in ihr Gebein; /\\
- in Ewigkeit sollen sie heulen vor Schmerz. ^{[[#fn5][5]]}\\
+ in Ewigkeit sollen sie heulen vor Schmerz. [fn:5]\\
 \\
 
 <<v18>>
-**** Das Siegesfest in Jerusalem: 16,18-20
-     :PROPERTIES:
-     :CUSTOM_ID: das-siegesfest-in-jerusalem-1618-20
-     :END:
+* Das Siegesfest in Jerusalem: 16,18-20
+
 18 Als sie nach Jerusalem gekommen waren, warfen sie sich vor Gott zum
 Gebet nieder. Die Leute reinigten sich und brachten ihre Brandopfer,
 ihre freiwilligen Opfer und ihre sonstigen Gaben dar.
@@ -152,10 +145,8 @@ Freudenfest und Judit blieb bei ihnen.\\
 \\
 
 <<v21>>
-**** Die letzten Jahre Judits: 16,21-25
-     :PROPERTIES:
-     :CUSTOM_ID: die-letzten-jahre-judits-1621-25
-     :END:
+* Die letzten Jahre Judits: 16,21-25
+
 21 Nach Ablauf dieser Zeit kehrte jeder in seinen Erbbesitz zurück.
 Judit ging nach Betulia und blieb auf ihrem Anwesen. Solange sie lebte,
 war sie im ganzen Land hochgerühmt.
@@ -181,15 +172,17 @@ Angehörigen ihrer eigenen Familie verteilt.
 lebte und auch noch lange Zeit nach ihrem Tod.\\
 \\
 
-^{[[#fnm1][1]]} ℘ Ps 150,4
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ Ps 46,10
+[fn:1] [[file:Ps_150.org::v4][Ps 150,4]]
 
-^{[[#fnm3][3]]} Die Erwähnung von Persern und Medern in einem Lied, das
+[fn:2] [[file:Ps_46.org::v10][Ps 46,10]]
+
+[fn:3] Die Erwähnung von Persern und Medern in einem Lied, das
 die Niederlage der Assyrer zum Gegenstand hat, erklärt sich leicht, wenn
 man den übergeschichtlichen Charakter der heidnischen Weltmacht beachtet
 (vgl. die Anmerkung zu 1,1).
 
-^{[[#fnm4][4]]} ℘ Ps 33,3; 96,1; 144,9; Jes 42,10
+[fn:4] [[file:Ps_33.org::v3][Ps 33,3]]; [[file:Ps_96.org::v1][96,1]]; [[file:Ps_144.org::v9][144,9]]; [[file:Jes_42.org::v10][Jes 42,10]]
 
-^{[[#fnm5][5]]} ℘ Jes 66,24
+[fn:5] [[file:Jes_66.org::v24][Jes 66,24]]
