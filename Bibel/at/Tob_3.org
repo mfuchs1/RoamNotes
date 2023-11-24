@@ -1,26 +1,20 @@
-:PROPERTIES:
-:ID:       748a74b0-314e-4e8c-af59-3eccadf261e3
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Tobit* -- [[file:Tob_1.html][1]]
-[[file:Tob_2.html][2]] *3* [[file:Tob_4.html][4]] [[file:Tob_5.html][5]]
-... [[file:Tob_14.html][14]]
-
---------------
-
-* Tob 3
-  :PROPERTIES:
-  :CUSTOM_ID: tob-3
-  :END:
+#+TITLE: Tob 3 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-24 Fr 10:15]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Tob 3.html
 
 <<verses>>
 
 <<v1>>
-**** Tobits Gebet: 3,1-6
-     :PROPERTIES:
-     :CUSTOM_ID: tobits-gebet-31-6
-     :END:
+* Tobits Gebet: 3,1-6
+
 1 Da wurde ich traurig und begann zu weinen. In meinem Schmerz betete
 ich:
 
@@ -49,15 +43,12 @@ deine Gebote nicht gehalten und haben den Weg deiner Wahrheit verlassen.
 lass mich sterben und zu Staub werden! Es ist besser für mich, tot zu
 sein als zu leben. Denn ungerechte Vorwürfe musste ich anhören und ich
 bin sehr betrübt. Lass mich jetzt aus meiner Not zur ewigen Ruhestatt
-gelangen! Wende deine Augen nicht von mir ab!
-^{[[#fn1][1]][[#fn2][2]]}\\
+gelangen! Wende deine Augen nicht von mir ab! [fn:1] [fn:2]\\
 \\
 
 <<v7>>
-**** Saras Verhöhnung durch ihre Mägde: 3,7-9
-     :PROPERTIES:
-     :CUSTOM_ID: saras-verhöhnung-durch-ihre-mägde-37-9
-     :END:
+* Saras Verhöhnung durch ihre Mägde: 3,7-9
+
 7 Am gleichen Tag geschah es, dass in Ekbatana in Medien Sara, die
 Tochter Raguëls, von den Mägden ihres Vaters ebenfalls beschimpft wurde.
 
@@ -66,7 +57,7 @@ Tochter Raguëls, von den Mägden ihres Vaters ebenfalls beschimpft wurde.
 Aschmodai hatte sie alle getötet, bevor sie mit ihr geschlafen hatten.
 Die Mägde sagten zu ihr: Begreifst du denn nicht, dass du deine eigenen
 Männer erwürgst? Sieben hast du gehabt, doch kein einziger ist dir
-geblieben. ^{[[#fn3][3]]}
+geblieben. [fn:3]
 
 <<v9>>
 9 Mit welchem Recht also behandelst du uns so hart? Wenn sie schon
@@ -75,10 +66,8 @@ bekommen wir nie einen Sohn oder eine Tochter von dir zu sehen.\\
 \\
 
 <<v10>>
-**** Saras Gebet: 3,10-15
-     :PROPERTIES:
-     :CUSTOM_ID: saras-gebet-310-15
-     :END:
+* Saras Gebet: 3,10-15
+
 10 Als Sara das hörte, wurde sie so traurig, dass sie sich erhängen
 wollte. Aber sie dachte: Ich bin die einzige Tochter meines Vaters. Wenn
 ich das täte, wäre es eine große Schande für ihn und ich wäre schuld
@@ -87,7 +76,7 @@ daran, dass der alte Mann vor Kummer ins Grab sinkt.
 <<v11>>
 11 Darum trat sie ans Fenster und betete: Gepriesen seist du, Herr, mein
 Gott. Gepriesen sei dein heiliger und ehrwürdiger Name in Ewigkeit. Alle
-deine Werke sollen dich ewig preisen. ^{[[#fn4][4]]}
+deine Werke sollen dich ewig preisen. [fn:4]
 
 <<v12>>
 12 Nun aber, Herr, habe ich meine Augen und mein Gesicht dir zugewandt.
@@ -111,10 +100,8 @@ länger solche Beschimpfungen hören muss.\\
 \\
 
 <<v16>>
-**** Gottes Hilfe in Aussicht: 3,16-17
-     :PROPERTIES:
-     :CUSTOM_ID: gottes-hilfe-in-aussicht-316-17
-     :END:
+* Gottes Hilfe in Aussicht: 3,16-17
+
 16 Das Gebet beider, Tobits und Saras, fand Gehör bei der Majestät des
 großen Rafael.
 
@@ -127,14 +114,15 @@ gleichen Zeit in sein Haus zurück, als Sara, die Tochter Raguëls, aus
 ihrem Zimmer herabkam.\\
 \\
 
-^{[[#fnm1][1]]} ℘ 1 Kön 19,4
+* Footnotes
 
-^{[[#fnm2][2]]} ewige Ruhestatt: Gemeint ist das Grab (vgl. Koh 12,5; Ps
-49,12; Ez 26,20).
+[fn:1] [[file:1.Kön_19.org::v4][1 Kön 19,4]]
 
-^{[[#fnm3][3]]} Der Dämon Aschmodai wird im AT nur hier genannt. Die
+[fn:2] ewige Ruhestatt: Gemeint ist das Grab (vgl. [[file:Koh_12.org::v5][Koh 12,5]]; [[file:Ps_49.org::v12][Ps 49,12]]; [[file:Ez_26.org::v20][Ez 26,20]]).
+
+[fn:3] Der Dämon Aschmodai wird im AT nur hier genannt. Die
 jüdische Tradition deutet den Namen mit dem hebräischen Zeitwort
 hischmid (= verderben) als «Verderber». Wahrscheinlich ist der Name
 persisch: aëschma daëva = böser Dämon.
 
-^{[[#fnm4][4]]} ℘ Dan 6,11
+[fn:4] [[file:Dan_6.org::v11][Dan 6,11]]

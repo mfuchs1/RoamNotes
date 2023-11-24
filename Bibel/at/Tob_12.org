@@ -1,26 +1,20 @@
-:PROPERTIES:
-:ID:       d83b0c08-af12-490a-9952-ad8a0b7df64f
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Tobit* -- [[file:Tob_1.html][1]] ...
-[[file:Tob_10.html][10]] [[file:Tob_11.html][11]] *12*
-[[file:Tob_13.html][13]] [[file:Tob_14.html][14]]
-
---------------
-
-* Tob 12
-  :PROPERTIES:
-  :CUSTOM_ID: tob-12
-  :END:
+#+TITLE: Tob 12 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-24 Fr 20:51]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Tob 12.html
 
 <<verses>>
 
 <<v1>>
-**** Rafaels Selbstoffenbarung: 12,1-22
-     :PROPERTIES:
-     :CUSTOM_ID: rafaels-selbstoffenbarung-121-22
-     :END:
+* Rafaels Selbstoffenbarung: 12,1-22
+
 1 Danach rief Tobit seinen Sohn Tobias zu sich und sagte: Mein Sohn,
 vergiss nicht den Lohn für den Mann, der dich begleitet hat. Du musst
 ihm aber mehr geben, als wir ihm versprochen haben.
@@ -59,7 +53,7 @@ sein als Gold aufhäufen.
 
 <<v9>>
 9 Denn Barmherzigkeit rettet vor dem Tod und reinigt von jeder Sünde.
-Wer barmherzig und gerecht ist, wird lange leben. ^{[[#fn1][1]]}
+Wer barmherzig und gerecht ist, wird lange leben. [fn:1]
 
 <<v10>>
 10 Wer aber sündigt, ist der Feind seines eigenen Lebens.
@@ -78,8 +72,7 @@ begraben hast.
 <<v13>>
 13 Auch als du ohne zu zögern vom Tisch aufgestanden bist und dein Essen
 stehen gelassen hast, um einem Toten den letzten Dienst zu erweisen,
-blieb mir deine gute Tat nicht verborgen, sondern ich war bei dir.
-^{[[#fn2][2]]}
+blieb mir deine gute Tat nicht verborgen, sondern ich war bei dir. [fn:2]
 
 <<v14>>
 14 Nun hat mich Gott auch gesandt, um dich und deine Schwiegertochter
@@ -118,6 +111,8 @@ aufschreiben.
 getan hatte und dass ihnen der Engel des Herrn erschienen war.\\
 \\
 
-^{[[#fnm1][1]]} ℘ Dan 4,24
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 2,4f
+[fn:1] [[file:Dan_4.org::v24][Dan 4,24]]
+
+[fn:2] [[file:Tob_2.org::v4][2,4f]]

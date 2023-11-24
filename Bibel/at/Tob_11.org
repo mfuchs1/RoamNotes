@@ -1,27 +1,20 @@
-:PROPERTIES:
-:ID:       4914b134-900b-4295-94c7-9b291355891e
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Tobit* -- [[file:Tob_1.html][1]] ...
-[[file:Tob_9.html][9]] [[file:Tob_10.html][10]] *11*
-[[file:Tob_12.html][12]] [[file:Tob_13.html][13]]
-[[file:Tob_14.html][14]]
-
---------------
-
-* Tob 11
-  :PROPERTIES:
-  :CUSTOM_ID: tob-11
-  :END:
+#+TITLE: Tob 11 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-24 Fr 20:50]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Tob 11.html
 
 <<verses>>
 
 <<v1>>
-**** Tobits Heilung: 11,1-15
-     :PROPERTIES:
-     :CUSTOM_ID: tobits-heilung-111-15
-     :END:
+* Tobits Heilung: 11,1-15
+
 1 Als sie auf ihrer Heimreise in die Nähe von Ninive kamen, sagte Rafael
 zu Tobias:
 
@@ -56,7 +49,7 @@ dich wieder sehen können.
 <<v9>>
 9 Hanna war inzwischen herbeigeeilt, fiel ihrem Sohn um den Hals und
 rief: Ich habe dich wieder gesehen, mein Sohn, jetzt kann ich ruhig
-sterben. Und beide brachen in Tränen aus. ^{[[#fn1][1]]}
+sterben. Und beide brachen in Tränen aus. [fn:1]
 
 <<v10>>
 10 Auch Tobit versuchte, ihm entgegenzugehen, stolperte aber an der Tür.
@@ -86,10 +79,8 @@ was für wunderbare Dinge er in Medien erlebt hatte.\\
 \\
 
 <<v16>>
-**** Saras Ankunft: 11,16-19
-     :PROPERTIES:
-     :CUSTOM_ID: saras-ankunft-1116-19
-     :END:
+* Saras Ankunft: 11,16-19
+
 16 Dann ging Tobit seiner Schwiegertochter bis an das Tor von Ninive
 entgegen. Er war voll Freude und pries Gott und alle, die ihn sahen,
 staunten, dass er wieder sehen konnte. Tobit aber bezeugte ihnen, dass
@@ -108,4 +99,6 @@ uns geführt hat, und gesegnet seien dein Vater und deine Mutter.
 die Hochzeit des Tobias mit einem fröhlichen Fest gefeiert.\\
 \\
 
-^{[[#fnm1][1]]} ℘ Gen 46,29f
+* Footnotes
+
+[fn:1] [[file:Gen_46.org::v29][Gen 46,29f]]

@@ -1,26 +1,20 @@
-:PROPERTIES:
-:ID:       bfc2e85e-913d-42d8-b8fd-41790bf08a3a
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Tobit* -- [[file:Tob_1.html][1]] ...
-[[file:Tob_5.html][5]] [[file:Tob_6.html][6]] *7* [[file:Tob_8.html][8]]
-[[file:Tob_9.html][9]] ... [[file:Tob_14.html][14]]
-
---------------
-
-* Tob 7
-  :PROPERTIES:
-  :CUSTOM_ID: tob-7
-  :END:
+#+TITLE: Tob 7 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-24 Fr 10:23]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Tob 7.html
 
 <<verses>>
 
 <<v1>>
-**** Die Ankunft bei den Verwandten: 7,1-8
-     :PROPERTIES:
-     :CUSTOM_ID: die-ankunft-bei-den-verwandten-71-8
-     :END:
+* Die Ankunft bei den Verwandten: 7,1-8
+
 1 Als sie in Ekbatana beim Haus Raguëls angelangt waren, kam ihnen Sara
 entgegen und hieß sie willkommen. Sie erwiderten ihren Gruß und Sara
 führte sie ins Haus.
@@ -56,10 +50,8 @@ nahm die beiden Gäste herzlich auf.
 \\
 
 <<v9>>
-**** Tobias und Sara: 7,9-17
-     :PROPERTIES:
-     :CUSTOM_ID: tobias-und-sara-79-17
-     :END:
+* Tobias und Sara: 7,9-17
+
 9 Da bat Tobias den Rafael: Asarja, mein Bruder, bring doch zur Sprache,
 worüber du unterwegs mit mir geredet hast, damit die Sache zu einem
 glücklichen Ende kommt.

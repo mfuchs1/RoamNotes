@@ -1,27 +1,20 @@
-:PROPERTIES:
-:ID:       a435c2b6-992e-42aa-a4b0-15ba02d4212a
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Tobit* -- [[file:Tob_1.html][1]] ...
-[[file:Tob_8.html][8]] [[file:Tob_9.html][9]] *10*
-[[file:Tob_11.html][11]] [[file:Tob_12.html][12]] ...
-[[file:Tob_14.html][14]]
-
---------------
-
-* Tob 10
-  :PROPERTIES:
-  :CUSTOM_ID: tob-10
-  :END:
+#+TITLE: Tob 10 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-24 Fr 10:26]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Tob 10.html
 
 <<verses>>
 
 <<v1>>
-**** Tobit und Hanna in Sorge: 10,1-7
-     :PROPERTIES:
-     :CUSTOM_ID: tobit-und-hanna-in-sorge-101-7
-     :END:
+* Tobit und Hanna in Sorge: 10,1-7
+
 1 Inzwischen zählte sein Vater Tobit die Tage. Als die Zeit um war, die
 für die Reise vorgesehen war, und die beiden nicht zurückkamen,
 
@@ -53,13 +46,10 @@ beschwörenden Bitten Raguëls hin in Ekbatana verbrachte.\\
 \\
 
 <<v8>>
-**** Tobias auf der Heimreise: 10,8-14
-     :PROPERTIES:
-     :CUSTOM_ID: tobias-auf-der-heimreise-108-14
-     :END:
+* Tobias auf der Heimreise: 10,8-14
+
 8 Nun aber bat Tobias den Raguël: Lass mich heimreisen, sonst geben mein
-Vater und meine Mutter die Hoffnung auf, mich je wieder zu sehen.
-^{[[#fn1][1]]}
+Vater und meine Mutter die Hoffnung auf, mich je wieder zu sehen. [fn:1]
 
 <<v9>>
 9 Sein Schwiegervater bat ihn: Bleib bei mir; ich will jemand zu deinem
@@ -90,4 +80,6 @@ danken. Ich vertraue dir meine Tochter an. Mach ihr keinen Kummer!
 Erfolg beschieden hatte, und segnete Raguël und seine Frau Edna.\\
 \\
 
-^{[[#fnm1][1]]} ℘ (8-9) Gen 24,54f
+* Footnotes
+
+[fn:1] (8-9) [[file:Gen_24.org::v54][Gen 24,54f]]

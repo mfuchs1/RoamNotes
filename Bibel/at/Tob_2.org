@@ -1,26 +1,20 @@
-:PROPERTIES:
-:ID:       5364c308-f189-480b-b289-6f96138b6f0c
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Tobit* -- [[file:Tob_1.html][1]] *2*
-[[file:Tob_3.html][3]] [[file:Tob_4.html][4]] ...
-[[file:Tob_14.html][14]]
-
---------------
-
-* Tob 2
-  :PROPERTIES:
-  :CUSTOM_ID: tob-2
-  :END:
+#+TITLE: Tob 2 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-24 Fr 10:13]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Tob 2.html
 
 <<verses>>
 
 <<v1>>
-**** Tobits Erblindung: 2,1-10
-     :PROPERTIES:
-     :CUSTOM_ID: tobits-erblindung-21-10
-     :END:
+* Tobits Erblindung: 2,1-10
+
 1 Als ich heimkehrte und meine Frau Hanna und mein Sohn Tobias mir
 wiedergeschenkt waren, veranstaltete man mir zu Ehren am Pfingsttag dem
 Fest der Sieben Wochen - ein Festmahl.
@@ -45,7 +39,7 @@ Toten bis zum Sonnenuntergang in einer Hütte.
 <<v6>>
 6 Ich erinnerte mich an das Wort des Propheten Amos: Eure Feste sollen
 sich in Trauer verwandeln und alle eure Freudenlieder in Totenklage. Und
-ich begann zu weinen. ^{[[#fn1][1]]}
+ich begann zu weinen. [fn:1]
 
 <<v7>>
 7 Nach Sonnenuntergang ging ich hinaus, um ein Grab zu schaufeln, und
@@ -70,10 +64,8 @@ bis er in die Provinz Elymaïs zog.\\
 \\
 
 <<v11>>
-**** Tobits Verhöhnung durch seine Frau: 2,11-14
-     :PROPERTIES:
-     :CUSTOM_ID: tobits-verhöhnung-durch-seine-frau-211-14
-     :END:
+* Tobits Verhöhnung durch seine Frau: 2,11-14
+
 11 Meine Frau Hanna fertigte zu Hause Webarbeiten an, wie sie Frauen zu
 machen pflegen,
 
@@ -92,9 +84,11 @@ seinen Eigentümern zurück! Denn was gestohlen ist, darf man nicht essen.
 ich glaubte ihr nicht und verlangte, dass sie es seinen Eigentümern
 zurückbrachte, und ich schämte mich ihretwegen. Doch sie antwortete: Wo
 ist denn der Lohn für deine Barmherzigkeit und Gerechtigkeit? Jeder
-weiß, was sie dir eingebracht haben. ^{[[#fn2][2]]}\\
+weiß, was sie dir eingebracht haben. [fn:2]\\
 \\
 
-^{[[#fnm1][1]]} ℘ Am 8,10
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ Ijob 2,9
+[fn:1] [[file:Am_8.org::v10][Am 8,10]]
+
+[fn:2] [[file:Ijob_2.org::v9][Ijob 2,9]]

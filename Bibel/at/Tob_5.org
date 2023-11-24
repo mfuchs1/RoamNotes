@@ -1,26 +1,20 @@
-:PROPERTIES:
-:ID:       43518f39-a98c-4e6b-a30b-60d6906a99a1
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Tobit* -- [[file:Tob_1.html][1]] ...
-[[file:Tob_3.html][3]] [[file:Tob_4.html][4]] *5* [[file:Tob_6.html][6]]
-[[file:Tob_7.html][7]] ... [[file:Tob_14.html][14]]
-
---------------
-
-* Tob 5
-  :PROPERTIES:
-  :CUSTOM_ID: tob-5
-  :END:
+#+TITLE: Tob 5 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-24 Fr 10:20]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Tob 5.html
 
 <<verses>>
 
 <<v1>>
-**** Ein Reisegefährte: 5,1-17
-     :PROPERTIES:
-     :CUSTOM_ID: ein-reisegefährte-51-17
-     :END:
+* Ein Reisegefährte: 5,1-17
+
 1 Tobias antwortete ihm: Ich will alles tun, Vater, was du mir
 aufgetragen hast.
 
@@ -101,10 +95,8 @@ und der Hund des jungen Tobias lief mit.\\
 \\
 
 <<v18>>
-**** Tobits Zuversicht: 5,18-23
-     :PROPERTIES:
-     :CUSTOM_ID: tobits-zuversicht-518-23
-     :END:
+* Tobits Zuversicht: 5,18-23
+
 18 Hanna aber, die Mutter des Tobias, weinte und sagte zu Tobit: Warum
 hast du unseren Sohn weggeschickt? War er nicht die Stütze unseres
 Alters, als er noch bei uns ein- und ausging?

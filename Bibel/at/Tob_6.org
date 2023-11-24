@@ -1,26 +1,20 @@
-:PROPERTIES:
-:ID:       896a58e8-dc5d-496d-abb5-795358ed474e
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Tobit* -- [[file:Tob_1.html][1]] ...
-[[file:Tob_4.html][4]] [[file:Tob_5.html][5]] *6* [[file:Tob_7.html][7]]
-[[file:Tob_8.html][8]] ... [[file:Tob_14.html][14]]
-
---------------
-
-* Tob 6
-  :PROPERTIES:
-  :CUSTOM_ID: tob-6
-  :END:
+#+TITLE: Tob 6 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-24 Fr 10:21]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Tob 6.html
 
 <<verses>>
 
 <<v1>>
-**** Wunderbare Heilmittel: 6,1-9
-     :PROPERTIES:
-     :CUSTOM_ID: wunderbare-heilmittel-61-9
-     :END:
+* Wunderbare Heilmittel: 6,1-9
+
 1 Die beiden kamen auf ihrer Reise abends an den Tigris, wo sie
 übernachteten.
 
@@ -59,10 +53,8 @@ der Galle bestreichen; so wird er geheilt.\\
 \\
 
 <<v10>>
-**** Der Heiratsplan: 6,10-19
-     :PROPERTIES:
-     :CUSTOM_ID: der-heiratsplan-610-19
-     :END:
+* Der Heiratsplan: 6,10-19
+
 10 Als sie in der Nähe der Stadt Ekbatana waren,
 
 <<v11>>
@@ -93,7 +85,7 @@ ebenso sterben muss wie die anderen Männer, wenn ich das Brautgemach
 betrete. Ein Dämon liebt sie und bringt alle um, die ihr nahekommen.
 Darum habe ich Angst, dass ich sterben muss und dass ich dann meinen
 Vater und meine Mutter aus Kummer um mich ins Grab bringe. Sie haben
-keinen zweiten Sohn, der sie dann begraben könnte. ^{[[#fn1][1]]}
+keinen zweiten Sohn, der sie dann begraben könnte. [fn:1]
 
 <<v16>>
 16 Da sagte der Engel zu ihm: Erinnerst du dich nicht mehr, wie dein
@@ -120,4 +112,6 @@ Kinder schenken.
 Herz gehörte ihr.\\
 \\
 
-^{[[#fnm1][1]]} ℘ Gen 44,29.31
+* Footnotes
+
+[fn:1] [[file:Gen_44.org::v29][Gen 44,29]].[[file:Gen_44.org::v31][31]]

@@ -1,30 +1,22 @@
-:PROPERTIES:
-:ID:       6a91951f-39fe-43e9-abf3-b4f6073a62cf
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Tobit* -- [[file:Tob_1.html][1]]
-[[file:Tob_2.html][2]] [[file:Tob_3.html][3]] *4* [[file:Tob_5.html][5]]
-[[file:Tob_6.html][6]] ... [[file:Tob_14.html][14]]
-
---------------
-
-* Tob 4
-  :PROPERTIES:
-  :CUSTOM_ID: tob-4
-  :END:
+#+TITLE: Tob 4 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-24 Fr 10:18]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Tob 4.html
 
 <<verses>>
 
 <<v1>>
-** Die Rettung durch Gottes gütige Führung: 4,1 - 12,22
-   :PROPERTIES:
-   :CUSTOM_ID: die-rettung-durch-gottes-gütige-führung-41---1222
-   :END:
-**** Belehrungen für Tobias: 4,1-21
-     :PROPERTIES:
-     :CUSTOM_ID: belehrungen-für-tobias-41-21
-     :END:
+* Die Rettung durch Gottes gütige Führung: 4,1 - 12,22
+
+* Belehrungen für Tobias: 4,1-21
+
 1 An diesem Tag erinnerte sich Tobit an das Geld, das er in der Stadt
 Rages in Medien bei Gabaël hinterlegt hatte.
 
@@ -79,8 +71,7 @@ Frau aus dem Stamm deiner Väter! Nimm keine fremde Frau, die nicht zum
 Volk deines Vaters gehört; denn wir stammen von Propheten ab. Mein Sohn,
 denk an Noach, Abraham, Isaak und Jakob, unsere ersten Vorfahren! Sie
 alle haben Frauen aus ihrem Stamm geheiratet und sind mit Kindern
-gesegnet worden; ihre Nachkommen werden das Land besitzen.
-^{[[#fn1][1]]}
+gesegnet worden; ihre Nachkommen werden das Land besitzen. [fn:1]
 
 <<v13>>
 13 Darum liebe die Brüder aus deinem Stamm, mein Sohn, fühle dich nicht
@@ -99,13 +90,12 @@ Benehmen, dass du gut erzogen bist.
 
 <<v15>>
 15 Was dir selbst verhasst ist, das mute auch einem anderen nicht zu!
-Betrink dich nicht; der Rausch soll nicht dein Begleiter sein.
-^{[[#fn2][2]]}
+Betrink dich nicht; der Rausch soll nicht dein Begleiter sein. [fn:2]
 
 <<v16>>
 16 Gib dem Hungrigen von deinem Brot und dem Nackten von deinen
 Kleidern! Wenn du Überfluss hast, dann tu damit Gutes und sei nicht
-kleinlich, wenn du Gutes tust. ^{[[#fn3][3]]}
+kleinlich, wenn du Gutes tust. [fn:3]
 
 <<v17>>
 17 Spende dein Brot beim Begräbnis der Gerechten, gib es nicht den
@@ -133,8 +123,10 @@ großes Vermögen, wenn du nur Gott fürchtest, alle Sünde meidest und das
 tust, was ihm gefällt.\\
 \\
 
-^{[[#fnm1][1]]} ℘ Ps 105,15
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ Mt 7,12
+[fn:1] [[file:Ps_105.org::v15][Ps 105,15]]
 
-^{[[#fnm3][3]]} ℘ Jes 58,7
+[fn:2] [[file:~/RoamNotes/notes/Bibel/nt/Mt_7.org::v12][Mt 7,12]]
+
+[fn:3] [[file:Jes_58.org::v7][Jes 58,7]]

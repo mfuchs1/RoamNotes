@@ -1,27 +1,20 @@
-:PROPERTIES:
-:ID:       d5161ccc-4065-4828-a38b-118b2f6be4d3
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Tobit* -- [[file:Tob_1.html][1]] ...
-[[file:Tob_7.html][7]] [[file:Tob_8.html][8]] *9*
-[[file:Tob_10.html][10]] [[file:Tob_11.html][11]] ...
-[[file:Tob_14.html][14]]
-
---------------
-
-* Tob 9
-  :PROPERTIES:
-  :CUSTOM_ID: tob-9
-  :END:
+#+TITLE: Tob 9 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-24 Fr 10:24]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Tob 9.html
 
 <<verses>>
 
 <<v1>>
-**** Rafaels Freundesdienst: 9,1-6
-     :PROPERTIES:
-     :CUSTOM_ID: rafaels-freundesdienst-91-6
-     :END:
+* Rafaels Freundesdienst: 9,1-6
+
 1 Tobias rief Rafael und sagte zu ihm:
 
 <<v2>>

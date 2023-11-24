@@ -1,26 +1,20 @@
-:PROPERTIES:
-:ID:       9110607a-f341-4ad2-a3b1-6167c2e2a8e5
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Tobit* -- [[file:Tob_1.html][1]] ...
-[[file:Tob_6.html][6]] [[file:Tob_7.html][7]] *8* [[file:Tob_9.html][9]]
-[[file:Tob_10.html][10]] ... [[file:Tob_14.html][14]]
-
---------------
-
-* Tob 8
-  :PROPERTIES:
-  :CUSTOM_ID: tob-8
-  :END:
+#+TITLE: Tob 8 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-24 Fr 10:24]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Tob 8.html
 
 <<verses>>
 
 <<v1>>
-**** Die glücklichen Brautleute: 8,1-9
-     :PROPERTIES:
-     :CUSTOM_ID: die-glücklichen-brautleute-81-9
-     :END:
+* Die glücklichen Brautleute: 8,1-9
+
 1 Nach der Mahlzeit führten sie Tobias zu Sara.
 
 <<v2>>
@@ -46,8 +40,7 @@ alle deine Geschöpfe müssen dich preisen.
 6 Du hast Adam erschaffen und hast ihm Eva zur Frau gegeben, damit sie
 ihm hilft und ihn ergänzt. Von ihnen stammen alle Menschen ab. Du
 sagtest: Es ist nicht gut, dass der Mensch allein ist; wir wollen für
-ihn einen Menschen machen, der ihm hilft und zu ihm passt.
-^{[[#fn1][1]]}
+ihn einen Menschen machen, der ihm hilft und zu ihm passt. [fn:1]
 
 <<v7>>
 7 Darum, Herr, nehme ich diese meine Schwester auch nicht aus reiner
@@ -62,10 +55,8 @@ mich gemeinsam mit ihr ein hohes Alter erreichen!
 \\
 
 <<v10>>
-**** Raguëls Freude: 8,10-21
-     :PROPERTIES:
-     :CUSTOM_ID: raguëls-freude-810-21
-     :END:
+* Raguëls Freude: 8,10-21
+
 10 Morgens stand Raguël auf, ging hinaus und hob ein Grab aus. Er
 dachte: Sicher ist auch dieser Mann gestorben.
 
@@ -119,4 +110,6 @@ wohlbehalten zu seinem Vater zurückkehren. Das übrige, sagte er, wirst
 du erhalten, wenn ich und meine Frau tot sind.\\
 \\
 
-^{[[#fnm1][1]]} ℘ Gen 2,18
+* Footnotes
+
+[fn:1] Gen 2,18

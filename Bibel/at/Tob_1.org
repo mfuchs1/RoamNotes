@@ -1,17 +1,16 @@
-:PROPERTIES:
-:ID:       c87f2d2b-9323-4508-bcda-cc282259f287
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Tobit* -- *1* [[file:Tob_2.html][2]]
-[[file:Tob_3.html][3]] ... [[file:Tob_14.html][14]]
-
---------------
+#+TITLE: Tob 1 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-24 Fr 09:41]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Tob 1.html
 
 * Tob 1
-  :PROPERTIES:
-  :CUSTOM_ID: tob-1
-  :END:
 
 Das Buch erzählt von einem frommen Israeliten namens Tobit, der nach dem
 Untergang des Nordreichs Israel in Assyrien lebt und während einer
@@ -62,29 +61,23 @@ nicht endgültig ediert.\\
 <<verses>>
 
 <<v1>>
-** Einleitung: 1,1-2
-   :PROPERTIES:
-   :CUSTOM_ID: einleitung-11-2
-   :END:
+* Einleitung: 1,1-2
+
 1 Buch der Geschichte Tobits. Tobit war der Sohn Tobiëls, des Sohnes
 Hananels, des Sohnes Aduëls, des Sohnes Gabaëls. Er gehörte zum
-Geschlecht Asiëls und zum Stamm Naftali. ^{[[#fn1][1]]}
+Geschlecht Asiëls und zum Stamm Naftali. [fn:1]
 
 <<v2>>
 2 Zur Zeit des assyrischen Königs Salmanassar wurde er als Gefangener
 aus Tisbe verschleppt, einem Ort südlich von Kedesch-Naftali in Galiläa,
-oberhalb Hazor. ^{[[#fn2][2]][[#fn3][3]]}\\
+oberhalb Hazor. [fn:2] [fn:3]\\
 \\
 
 <<v3>>
-** Die Anfechtung und Not Tobits: 1,3 - 3,17
-   :PROPERTIES:
-   :CUSTOM_ID: die-anfechtung-und-not-tobits-13---317
-   :END:
-**** Tobit in der Heimat: 1,3-9
-     :PROPERTIES:
-     :CUSTOM_ID: tobit-in-der-heimat-13-9
-     :END:
+* Die Anfechtung und Not Tobits: 1,3 - 3,17
+
+* Tobit in der Heimat: 1,3-9
+
 3 Ich, Tobit, habe mich mein ganzes Leben lang an den Weg der Wahrheit
 und Gerechtigkeit gehalten und ich habe den Brüdern aus meinem Stamm und
 meinem Volk, die mit mir zusammen in das Land der Assyrer nach Ninive
@@ -107,7 +100,7 @@ Baal, auch das Geschlecht meines Stammvaters Naftali.
 6 Nur ich zog immer wieder zu den Festen nach Jerusalem, wie es ganz
 Israel durch ewige Satzung vorgeschrieben ist. Ich brachte die
 Erstlinge, die Zehnten der Feldfrüchte und die Wolle von der ersten
-Schafschur mit ^{[[#fn4][4]]}
+Schafschur mit [fn:4]
 
 <<v7>>
 7 und gab sie den Priestern, den Söhnen Aarons, für den Altar. Den
@@ -118,7 +111,7 @@ alljährlich für meine Wallfahrt nach Jerusalem.
 <<v8>>
 8 Den dritten Zehnten gab ich denen, für die er bestimmt war, wie es
 Debora, die Mutter meines Vaters, geboten hatte; denn ich war nach dem
-Tod meines Vaters völlig verwaist. ^{[[#fn5][5]]}
+Tod meines Vaters völlig verwaist. [fn:5]
 
 <<v9>>
 9 Als ich ein Mann geworden war, heiratete ich Hanna, die aus dem
@@ -127,10 +120,8 @@ Tobias nannten.\\
 \\
 
 <<v10>>
-**** Tobit in der Verbannung: 1,10-22
-     :PROPERTIES:
-     :CUSTOM_ID: tobit-in-der-verbannung-110-22
-     :END:
+* Tobit in der Verbannung: 1,10-22
+
 10 In der Gefangenschaft in Ninive aßen die Brüder meines Stammes und
 alle Leute meines Volkes von den Speisen, die auch die Heiden aßen.
 
@@ -168,7 +159,7 @@ ihn.
 18 Ich begrub heimlich auch alle, die der König Sanherib hinrichten
 ließ, nachdem er wie ein Flüchtling aus Judäa heimgekehrt war. Denn
 viele ließ er in seiner Wut hinrichten. Wenn aber der König die Leichen
-suchen ließ, waren sie nicht mehr zu finden. ^{[[#fn6][6]]}
+suchen ließ, waren sie nicht mehr zu finden. [fn:6]
 
 <<v19>>
 19 Ein Einwohner von Ninive ging jedoch zum König und erstattete
@@ -195,18 +186,20 @@ Asarhaddon hatte ihm, meinem Neffen, die zweithöchste Stelle in seinem
 Reich verliehen.\\
 \\
 
-^{[[#fnm1][1]]} Tobit ist die gräzisierte Kurzform von Tobijahu. Vg
+* Footnotes
+
+[fn:1] Tobit ist die gräzisierte Kurzform von Tobijahu. Vg
 gebraucht für Vater und Sohn die Form Tobias, die in G dem Sohn
 vorbehalten ist.
 
-^{[[#fnm2][2]]} ℘ 2 Kön 17,1-23; 18,9-11
+[fn:2] [[file:2.Kön_17.org::v1][2 Kön 17,1]]-[[file:2.Kön_17.org::v23][23]]; [[file:2.Kön_18.org::v9][18,9]]-[[file:2.Kön_18.org::v11][11]]
 
-^{[[#fnm3][3]]} Gedacht ist hier an die Verschleppung der Nordstämme
+[fn:3] Gedacht ist hier an die Verschleppung der Nordstämme
 Israels in die assyrische Gefangenschaft 722 v. Chr.
 
-^{[[#fnm4][4]]} ℘ Ex 23,17; 34,23; Num 18,24-32; Dtn 14,22; 18,4
+[fn:4] [[file:Ex_23.org::v17][Ex 23,17]]; [[file:Ex_34.org::v23][34,23]]; [[file:Num_18.org::v24][Num 18,24]]-[[file:Num_18.org::v32][32]]; [[file:Dtn_14.org::v22][Dtn 14,22]]; [[file:Dtn_18.org::v4][18,4]]
 
-^{[[#fnm5][5]]} ℘ Dtn 14,28f; 26,12
+[fn:5] [[file:Dtn_14.org::v28][Dtn 14,28f]]; [[file:Dtn_26.org::v12][26,12]]
 
-^{[[#fnm6][6]]} Der Erzähler denkt an die in 2 Kön 18f und Jes 36f
+[fn:6] Der Erzähler denkt an die in [[file:2.Kön_18.org][2 Kön 18f]] und [[file:Jes_36.org][Jes 36f]]
 berichteten Ereignisse.
