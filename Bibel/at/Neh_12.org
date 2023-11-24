@@ -1,26 +1,20 @@
-:PROPERTIES:
-:ID:       ca2fe633-1884-4c7e-9f82-ed95beb7e253
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Nehemia* -- [[file:Neh_1.html][1]] ...
-[[file:Neh_10.html][10]] [[file:Neh_11.html][11]] *12*
-[[file:Neh_13.html][13]]
-
---------------
-
-* Neh 12
-  :PROPERTIES:
-  :CUSTOM_ID: neh-12
-  :END:
+#+TITLE: Neh 12 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-24 Fr 09:20]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Neh 12.html
 
 <<verses>>
 
 <<v1>>
-**** Die Listen von Priester- und Levitenfamilien: 12,1-26
-     :PROPERTIES:
-     :CUSTOM_ID: die-listen-von-priester--und-levitenfamilien-121-26
-     :END:
+* Die Listen von Priester- und Levitenfamilien: 12,1-26
+
 1 Folgende Priester und Leviten kamen herauf, zusammen mit Serubbabel,
 dem Sohn Schealtiëls, und Jeschua: Seraja, Jirmeja, Esra,
 
@@ -76,7 +70,7 @@ Familien: Meraja in der Familie Seraja, Hananja in der Familie Jirmeja,
 
 <<v17>>
 17 Sichri in der Familie Abija, . . . in der Familie Mijamin, Piltai in
-der Familie Maadja, ^{[[#fn1][1]]}
+der Familie Maadja, [fn:1]
 
 <<v18>>
 18 Schammua in der Familie Bilga, Jonatan in der Familie Schemaja,
@@ -116,14 +110,11 @@ Priesters und Schriftgelehrten Esra.\\
 \\
 
 <<v27>>
-**** Die Einweihung der Mauer: 12,27-43
-     :PROPERTIES:
-     :CUSTOM_ID: die-einweihung-der-mauer-1227-43
-     :END:
+* Die Einweihung der Mauer: 12,27-43
+
 27 Bei der Einweihung der Mauer Jerusalems holte man die Leviten aus
 allen ihren Wohnsitzen nach Jerusalem, um mit frohen Lobgesängen und mit
-der Musik von Zimbeln, Harfen und Zithern die Einweihung zu vollziehen.
-^{[[#fn2][2]]}
+der Musik von Zimbeln, Harfen und Zithern die Einweihung zu vollziehen. [fn:2]
 
 <<v28>>
 28 Da fanden sich die Sänger aus dem Umkreis von Jerusalem ein und aus
@@ -135,12 +126,12 @@ hatten sich nämlich rings um Jerusalem Gehöfte gebaut.
 
 <<v30>>
 30 Die Priester und Leviten reinigten sich selbst; sie reinigten auch
-das Volk, die Tore und die Mauer. ^{[[#fn3][3]]}
+das Volk, die Tore und die Mauer. [fn:3]
 
 <<v31>>
 31 Dann ließ ich die Vorsteher von Juda auf die Mauer steigen und
 stellte zwei große Festchöre auf. Der eine zog oben auf der Mauer nach
-rechts dem Aschentor zu. ^{[[#fn4][4]]}
+rechts dem Aschentor zu. [fn:4]
 
 <<v32>>
 32 Ihm folgte Hoschaja mit der einen Hälfte der Vorsteher von Juda.
@@ -159,7 +150,7 @@ Sohnes Michajas, des Sohnes Sakkurs, des Sohnes Asafs,
 <<v36>>
 36 und seine Brüder Schemaja, Asarel, Milalai, Gilalai, Maai, Netanel,
 Juda und Hanani mit den Musikinstrumenten des Gottesmannes David. Vor
-ihnen her schritt Esra, der Schriftgelehrte. ^{[[#fn5][5]]}
+ihnen her schritt Esra, der Schriftgelehrte. [fn:5]
 
 <<v37>>
 37 Sie zogen zum Quelltor, stiegen dann geradeaus die Stufen zur
@@ -193,25 +184,23 @@ Jisrachja.
 43 An diesem Tag brachte man große Schlachtopfer dar und alle freuten
 sich; denn Gott hatte ihnen eine große Freude bereitet. Auch die Frauen
 und Kinder waren fröhlich und der Jubel in Jerusalem war weithin zu
-hören. ^{[[#fn6][6]]}\\
+hören. [fn:6]\\
 \\
 
 <<v44>>
-**** Die Ordnung der heiligen Abgaben: 12,44-47
-     :PROPERTIES:
-     :CUSTOM_ID: die-ordnung-der-heiligen-abgaben-1244-47
-     :END:
+* Die Ordnung der heiligen Abgaben: 12,44-47
+
 44 In jener Zeit wurden Männer bestellt zur Aufsicht über die Kammern,
 die für die Vorräte, Abgaben, Erstlingsfrüchte und Zehnten bestimmt
 waren. In diesen Kammern sammelte man von den Feldern der einzelnen
 Städte die Anteile, die den Priestern und Leviten gesetzlich zukamen.
 Denn die Juden waren den Priestern und Leviten, die im Dienst standen,
-wohlgesinnt. ^{[[#fn7][7]]}
+wohlgesinnt. [fn:7]
 
 <<v45>>
 45 Sie versahen den Dienst (im Haus) ihres Gottes und vollzogen die
 Reinigungsriten; auch die Sänger und Torwächter taten Dienst nach den
-Vorschriften Davids und seines Sohnes Salomo. ^{[[#fn8][8]]}
+Vorschriften Davids und seines Sohnes Salomo. [fn:8]
 
 <<v46>>
 46 Denn schon früher, in der Zeit Davids und Asafs, gab es Vorsteher der
@@ -224,19 +213,20 @@ Bedarf erforderte. Man gab den Leviten einen heiligen Anteil und die
 Leviten gaben davon den Söhnen Aarons einen heiligen Anteil.\\
 \\
 
-^{[[#fnm1][1]]} Der Name des Oberhaupts der Familie Mijamin ist
-ausgefallen
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ Esra 3,10
+[fn:1] Der Name des Oberhaupts der Familie Mijamin ist ausgefallen.
 
-^{[[#fnm3][3]]} ℘ Esra 6,20
+[fn:2] [[file:Esra_3.org::v10][Esra 3,10]]
 
-^{[[#fnm4][4]]} ℘ 2,13-15; 3,1-3
+[fn:3] [[file:Esra_6.org::v20][Esra 6,20]]
 
-^{[[#fnm5][5]]} ℘ 2 Chr 29,25-27
+[fn:4] [[file:Esra_2.org::v13][2,13]]-[[file:Esra_2.org::v15][15]]; [[file:Esra_3.org::v1][3,1]]-[[file:Esra_3.org::v3][3]]
 
-^{[[#fnm6][6]]} ℘ Esra 6,17
+[fn:5] [[file:2.Chr_29.org::v25][2 Chr 29,25]]-[[file:Esra_3.org::v27][27]]
 
-^{[[#fnm7][7]]} ℘ 10,39f; 13,10-18
+[fn:6] [[file:Esra_6.org::v17][Esra 6,17]]
 
-^{[[#fnm8][8]]} ℘ 1 Chr 16,4f
+[fn:7] [[file:Neh_10.org::v39][10,39f]]; [[file:Neh_13.org::v10][13,10]]-[[file:Neh_13.org::v18][18]]
+
+[fn:8] [[file:1.Chr_16.org::v4][1 Chr 16,4f]]
