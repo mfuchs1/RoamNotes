@@ -1,34 +1,26 @@
-:PROPERTIES:
-:ID:       1995c942-2e3d-4938-905c-f840a5c963cd
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Ester* -- [[file:Est_1.html][1]] ...
-[[file:Est_6.html][6]] [[file:Est_7.html][7]] *8* [[file:Est_9.html][9]]
-[[file:Est_10.html][10]]
-
---------------
-
-* Est 8
-  :PROPERTIES:
-  :CUSTOM_ID: est-8
-  :END:
+#+TITLE: Est 8 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-25 Sa 21:32]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Est 8.html
 
 <<verses>>
 
 <<v1>>
-** Die Rettung der Juden: 8,1 - 10,3
-   :PROPERTIES:
-   :CUSTOM_ID: die-rettung-der-juden-81---103
-   :END:
-**** Mordechais Erhöhung und Esters erneute Bitte: 8,1-6
-     :PROPERTIES:
-     :CUSTOM_ID: mordechais-erhöhung-und-esters-erneute-bitte-81-6
-     :END:
+* Die Rettung der Juden: 8,1 - 10,3
+
+* Mordechais Erhöhung und Esters erneute Bitte: 8,1-6
+
 1 Noch am gleichen Tag schenkte König Artaxerxes der Königin Ester das
 Haus des Judenfeindes Haman. Mordechai aber erhielt Zutritt zum König;
 denn Ester hatte dem König gesagt, wie nahe Mordechai mit ihr verwandt
-war. ^{[[#fn1][1]]}
+war. [fn:1]
 
 <<v2>>
 2 Der König zog seinen Siegelring, den er Haman hatte abnehmen lassen,
@@ -58,10 +50,8 @@ könnte ich den Untergang meines Stammes mit ansehen?\\
 \\
 
 <<v7>>
-**** Der Erlass zum Schutz der Juden: 8,7-17
-     :PROPERTIES:
-     :CUSTOM_ID: der-erlass-zum-schutz-der-juden-87-17
-     :END:
+* Der Erlass zum Schutz der Juden: 8,7-17
+
 7 Da sagte König Artaxerxes zu Königin Ester und zu dem Juden Mordechai:
 Ich habe Ester das Haus Hamans übergeben, den man am Galgen aufgehängt
 hat, weil er seine Hand gegen die Juden erhob.
@@ -95,8 +85,7 @@ erschlagen, zu ermorden und auszurotten und ihren Besitz zu plündern;
 
 <<v12>>
 12 das sollte in allen Provinzen des Königs Artaxerxes am gleichen Tag
-geschehen, am dreizehnten Tag im zwölften Monat, dem Monat Adar.
-^{[[#fn2][2]]}
+geschehen, am dreizehnten Tag im zwölften Monat, dem Monat Adar. [fn:2]
 
 <<v12a>>
 12a Dies ist eine Abschrift des Briefes:
@@ -204,8 +193,7 @@ bedrohen, soll er ein Mahnmal des Untergangs sein.
 <<v12x>>
 12x Jede Stadt und jede Provinz, die nicht danach handelt, wird ohne
 Erbarmen mit Feuer und Schwert verwüstet. Kein Mensch wird sie mehr
-betreten, selbst den Tieren und Vögeln soll sie für immer verhasst sein.
-^{[[#fn3][3]]}
+betreten, selbst den Tieren und Vögeln soll sie für immer verhasst sein. [fn:3]
 
 <<v13>>
 13 In jeder einzelnen Provinz wurde eine Abschrift des Erlasses als
@@ -232,15 +220,16 @@ angesehen.
 Königs und sein Befehl bekannt wurde, jauchzten die Juden vor Freude,
 sie aßen und tranken und ließen es sich an diesem Tag gut gehen. In
 allen Völkern der Erde bekannten sich viele zum Judentum; denn ein
-Schrecken vor den Juden hatte sie befallen. ^{[[#fn4][4]]}\\
+Schrecken vor den Juden hatte sie befallen. [fn:4]\\
 \\
 
-^{[[#fnm1][1]]} 1-2: Mordechai tritt an Hamans Stelle.
+* Footnotes
 
-^{[[#fnm2][2]]} 7-11.12a-x. 13-17 G=8,7-12; 16,1-24; 8,13-17 Vg; 8,13-17
-Vg
+[fn:1] 1-2: Mordechai tritt an Hamans Stelle.
 
-^{[[#fnm3][3]]} Die Ausgaben von G übergehen die Buchstaben v und w bei
+[fn:2] 7-11.12a-x. 13-17 G=8,7-12; 16,1-24; 8,13-17 Vg; 8,13-17 Vg
+
+[fn:3] Die Ausgaben von G übergehen die Buchstaben v und w bei
 der Zählung der Verse.
 
-^{[[#fnm4][4]]} ℘ Ps 105,38
+[fn:4] [[file:Ps_105.org::v38][Ps 105,38]]

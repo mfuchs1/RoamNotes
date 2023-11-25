@@ -1,26 +1,20 @@
-:PROPERTIES:
-:ID:       49e98680-aae2-46d4-8b31-827b439590ac
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Ester* -- [[file:Est_1.html][1]] ...
-[[file:Est_7.html][7]] [[file:Est_8.html][8]] *9*
-[[file:Est_10.html][10]]
-
---------------
-
-* Est 9
-  :PROPERTIES:
-  :CUSTOM_ID: est-9
-  :END:
+#+TITLE: Est 9 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-25 Sa 21:35]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Est 9.html
 
 <<verses>>
 
 <<v1>>
-**** Der Siegestag der Juden: 9,1-19
-     :PROPERTIES:
-     :CUSTOM_ID: der-siegestag-der-juden-91-19
-     :END:
+* Der Siegestag der Juden: 9,1-19
+
 1 Am dreizehnten Tag im zwölften Monat, dem Monat Adar, sollte der
 Erlass des Königs und sein Befehl ausgeführt werden. Es war der Tag, an
 dem die Gegner der Juden gehofft hatten, sie zu überwältigen. Doch nun
@@ -109,10 +103,8 @@ Trinken feiern und an dem sie sich gegenseitig beschenken.\\
 \\
 
 <<v20>>
-**** Die Einführung des Purimfestes: 9,20-32
-     :PROPERTIES:
-     :CUSTOM_ID: die-einführung-des-purimfestes-920-32
-     :END:
+* Die Einführung des Purimfestes: 9,20-32
+
 20 Mordechai schrieb alles auf, was geschehen war. Er schickte Schreiben
 an alle Juden in allen Provinzen des Königs Artaxerxes nah und fern
 

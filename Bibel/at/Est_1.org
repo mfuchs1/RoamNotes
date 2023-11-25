@@ -1,17 +1,16 @@
-:PROPERTIES:
-:ID:       f9831d17-ceb4-46cb-ae8d-3f6ca9a13179
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Ester* -- *1* [[file:Est_2.html][2]]
-[[file:Est_3.html][3]] ... [[file:Est_10.html][10]]
-
---------------
+#+TITLE: Est 1 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-25 Sa 20:05]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Est 1.html
 
 * Est 1
-  :PROPERTIES:
-  :CUSTOM_ID: est-1
-  :END:
 
 Die Jüdin Ester und ihr Onkel Mordechai auf der einen, König Artaxerxes
 und Haman auf der anderen Seite sind die Hauptpersonen des Buches, in
@@ -75,31 +74,25 @@ nach Buchstaben.\\
 <<verses>>
 
 <<v1a>>
-** Mordechai und die Verschwörung gegen König Artaxerxes: 1,1a-r
-   :PROPERTIES:
-   :CUSTOM_ID: mordechai-und-die-verschwörung-gegen-könig-artaxerxes-11a-r
-   :END:
-**** Der Traum Mordechais: 1,1a-l G = 11,2-12 Vg
-     :PROPERTIES:
-     :CUSTOM_ID: der-traum-mordechais-11a-l-g-112-12-vg
-     :END:
+* Mordechai und die Verschwörung gegen König Artaxerxes: 1,1a-r
+
+* Der Traum Mordechais: 1,1a-l G = 11,2-12 Vg
+
 1a Im zweiten Jahr der Regierung des Großkönigs Artaxerxes, am ersten
 Tag des Monats Nisan, hatte Mordechai, der Sohn Jaïrs, des Sohnes
-Schimis, des Sohnes des Kisch, aus dem Stamm Benjamin, einen Traum.
-^{[[#fn1][1]]}
+Schimis, des Sohnes des Kisch, aus dem Stamm Benjamin, einen Traum. [fn:1]
 
 <<v1b>>
 1b Der Jude Mordechai wohnte in der Stadt Susa; er war ein angesehener
-Mann, der am Hof des Königs diente. ^{[[#fn2][2]]}
+Mann, der am Hof des Königs diente. [fn:2]
 
 <<v1c>>
 1c Er gehörte zu denen, die der babylonische König Nebukadnezzar mit
-Jojachin, dem König von Juda, aus Jerusalem verschleppt hatte.
-^{[[#fn3][3]]}
+Jojachin, dem König von Juda, aus Jerusalem verschleppt hatte. [fn:3]
 
 <<v1d>>
 1d Er hatte folgenden Traum: Es gab Geschrei und Lärm, Donner und
-Erdbeben und ein Tumult entstand auf der Erde. ^{[[#fn4][4]][[#fn5][5]]}
+Erdbeben und ein Tumult entstand auf der Erde. [fn:4] [fn:5]
 
 <<v1e>>
 1e Plötzlich kamen zwei große Drachen, beide bereit zu kämpfen. Sie
@@ -123,7 +116,7 @@ viel Wasser.
 
 <<v1k>>
 1k Licht und Sonne schienen wieder; die Niedrigen wurden erhöht und sie
-vernichteten die Angesehenen. ^{[[#fn6][6]]}
+vernichteten die Angesehenen. [fn:6]
 
 <<v1l>>
 1l Als Mordechai diesen Traum gehabt hatte, erwachte er. Den ganzen Tag
@@ -132,12 +125,10 @@ nur mögliche Weise den Traum zu verstehen.\\
 \\
 
 <<v1m>>
-**** Die Aufdeckung der Verschwörung: 1,1m-r G = 12,1-6 Vg
-     :PROPERTIES:
-     :CUSTOM_ID: die-aufdeckung-der-verschwörung-11m-r-g-121-6-vg
-     :END:
+* Die Aufdeckung der Verschwörung: 1,1m-r G = 12,1-6 Vg
+
 1m Mordechai schlief im Palast in der Nähe der zwei Hofbeamten Gabata
-und Teresch, die den Palast bewachten. ^{[[#fn7][7]][[#fn8][8]]}
+und Teresch, die den Palast bewachten. [fn:7] [fn:8]
 
 <<v1n>>
 1n Dabei hörte er, was sie miteinander überlegten; er versuchte, über
@@ -150,27 +141,23 @@ hingerichtet.
 
 <<v1p>>
 1p Zur Erinnerung ließ der König diese Begebenheit aufzeichnen; auch
-Mordechai machte Aufzeichnungen darüber. ^{[[#fn9][9]]}
+Mordechai machte Aufzeichnungen darüber. [fn:9]
 
 <<v1q>>
 1q Und der König beauftragte Mordechai, im Palast zu dienen, und
-belohnte ihn für seine Tat mit reichen Geschenken. ^{[[#fn10][10]]}
+belohnte ihn für seine Tat mit reichen Geschenken. [fn:10]
 
 <<v1r>>
 1r Aber der Bugäer Haman, der Sohn Hammedatas, ein angesehener Mann beim
 König, suchte wegen der beiden Hofbeamten des Königs Unheil über
-Mordechai und sein Volk zu bringen. ^{[[#fn11][11]][[#fn12][12]]}\\
+Mordechai und sein Volk zu bringen. [fn:11] [fn:12]\\
 \\
 
 <<v1>>
-** Die Erhebung Esters zur Königin: 1,1 - 2,23
-   :PROPERTIES:
-   :CUSTOM_ID: die-erhebung-esters-zur-königin-11---223
-   :END:
-**** Das Mahl im Königspalast: 1,1-9
-     :PROPERTIES:
-     :CUSTOM_ID: das-mahl-im-königspalast-11-9
-     :END:
+* Die Erhebung Esters zur Königin: 1,1 - 2,23
+
+* Das Mahl im Königspalast: 1,1-9
+
 1 Es war zur Zeit des Artaxerxes, jenes Artaxerxes, der von Indien bis
 Kusch über hundertsiebenundzwanzig Provinzen herrschte.
 
@@ -181,7 +168,7 @@ Reiches bestiegen hatte,
 <<v3>>
 3 gab er ein Festmahl für alle seine Fürsten und Beamten. Die Obersten
 des Heeres von Persien und Medien, die Vornehmen und die Statthalter der
-Provinzen waren erschienen ^{[[#fn13][13]]}
+Provinzen waren erschienen [fn:13]
 
 <<v4>>
 4 und er stellte viele Tage lang seinen ganzen Reichtum und seine
@@ -213,10 +200,8 @@ des Königs Artaxerxes lebten.\\
 \\
 
 <<v10>>
-**** Die Verstoßung der Königin Waschti: 1,10-22
-     :PROPERTIES:
-     :CUSTOM_ID: die-verstoßung-der-königin-waschti-110-22
-     :END:
+* Die Verstoßung der Königin Waschti: 1,10-22
+
 10 Als König Artaxerxes am siebten Tag vom Wein angeheitert war, befahl
 er Mehuman, Biseta, Harbona, Bigta, Abagta, Setar und Karkas, den sieben
 Hofbeamten, die ihn persönlich bedienten,
@@ -234,7 +219,7 @@ König erbost und es packte ihn großer Zorn.
 <<v13>>
 13 Er besprach sich mit den Weisen, die sich in der Geschichte
 auskennen; denn er pflegte seine Angelegenheiten vor den Kreis der
-Gesetzes- und Rechtskundigen zu bringen, ^{[[#fn14][14]]}
+Gesetzes- und Rechtskundigen zu bringen, [fn:14]
 
 <<v14>>
 14 die zu ihm Zutritt hatten, nämlich Karschena, Schetar, Admata,
@@ -283,43 +268,44 @@ nach Memuchans Worten.
 <<v22>>
 22 Er sandte Schreiben an alle königlichen Provinzen, an jede Provinz in
 ihrer eigenen Schrift und an jedes Volk in seiner Sprache, damit alle
-Männer Herr in ihrem Haus blieben [redend in der Sprache seines Volkes].
-^{[[#fn15][15]][[#fn16][16]]}\\
+Männer Herr in ihrem Haus blieben [redend in der Sprache seines Volkes]. [fn:15] [fn:16]\\
 \\
 
-^{[[#fnm1][1]]} G liest in allen Teilen des Buches den Namen des Königs
+* Footnotes
+
+[fn:1] G liest in allen Teilen des Buches den Namen des Königs
 als Artaxerxes; H liest Ahaschwerosch, dessen griechische Form sonst
 Xerxes lautet. Gemeint ist Xerxes I. (486-465 v. Chr.).
 
-^{[[#fnm2][2]]} Susa ist neben Babylon und Ekbatana eine der Residenzen
+[fn:2] Susa ist neben Babylon und Ekbatana eine der Residenzen
 des Perserreichs.
 
-^{[[#fnm3][3]]} ℘ 2 Kön 24,8.15
+[fn:3] [[file:2.Kön_24.org::v8][2 Kön 24,8]].[[file:2.Kön_24.org::v15][15]]
 
-^{[[#fnm4][4]]} ℘ 10,3a-k
+[fn:4] [[file:Est_10.org::v3a][10,3a-k]]
 
-^{[[#fnm5][5]]} 1d-l: Der Traum wird in 10,3b-f gedeutet.
+[fn:5] 1d-l: Der Traum wird in [[file:Est_10.org::v3b][10,3b]]-[[file:Est_10.org::v3f][f]] gedeutet.
 
-^{[[#fnm6][6]]} ℘ 8,16
+[fn:6] [[file:Est_8.org::v16][8,16]]
 
-^{[[#fnm7][7]]} ℘ (1m-p) 2,21-23; 6,2f
+[fn:7] (1m-p) [[file:Est_2.org::v21][2,21]]-[[file:Est_2.org::v23][23]]; [[file:Est_6.org::v2][6,2f]]
 
-^{[[#fnm8][8]]} 1m-p: Vgl. 2,21-23.
+[fn:8] 1m-p: Vgl. [[file:Est_6.org::v21][2,21-23]].
 
-^{[[#fnm9][9]]} ℘ 6,1; 10,2
+[fn:9] [[file:Est_6.org::v1][6,1]]; [[file:Est_10.org::v2][10,2]]
 
-^{[[#fnm10][10]]} ℘ 6,3
+[fn:10] [[file:Est_6.org::v3][6,3]]
 
-^{[[#fnm11][11]]} ℘ 3,1f.5f
+[fn:11] [[file:Est_3.org::v1][3,1f]].[[file:Est_3.org::v5][5f]]
 
-^{[[#fnm12][12]]} Bugäer: sonst wird Haman als Agagiter bezeichnet.
+[fn:12] Bugäer: sonst wird Haman als Agagiter bezeichnet.
 
-^{[[#fnm13][13]]} Die Obersten des Heeres: Text korr.; H: das Heer.
+[fn:13] Die Obersten des Heeres: Text korr.; H: das Heer.
 
-^{[[#fnm14][14]]} die sich in der Geschichte auskennen, wörtlich: die
+[fn:14] die sich in der Geschichte auskennen, wörtlich: die
 die Zeiten kennen. Andere Deutung: die wissen, was jeweils in einer
-bestimmten Zeit zu tun ist (vgl. 1 Chr 12,33).
+bestimmten Zeit zu tun ist (vgl. [[file:1.Chr_12.org::v33][1 Chr 12,33]]).
 
-^{[[#fnm15][15]]} ℘ 3,12; 8,9
+[fn:15] [[file:Est_3.org::v12][3,12]]; [[file:Est_8.org::v9][8,9]]
 
-^{[[#fnm16][16]]} Dieser Zusatz fehlt in G.
+[fn:16] Dieser Zusatz fehlt in G.

@@ -1,26 +1,20 @@
-:PROPERTIES:
-:ID:       109e9bf8-043d-4720-b71b-d91149d12384
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Ester* -- [[file:Est_1.html][1]] ...
-[[file:Est_4.html][4]] [[file:Est_5.html][5]] *6* [[file:Est_7.html][7]]
-[[file:Est_8.html][8]] ... [[file:Est_10.html][10]]
-
---------------
-
-* Est 6
-  :PROPERTIES:
-  :CUSTOM_ID: est-6
-  :END:
+#+TITLE: Est 6 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-25 Sa 21:29]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Est 6.html
 
 <<verses>>
 
 <<v1>>
-**** Die Erhöhung Mordechais: 6,1-14
-     :PROPERTIES:
-     :CUSTOM_ID: die-erhöhung-mordechais-61-14
-     :END:
+* Die Erhöhung Mordechais: 6,1-14
+
 1 In jener Nacht konnte der König nicht einschlafen. Darum ließ er sich
 das Buch der Denkwürdigkeiten, die Chronik, bringen und man las ihm
 daraus vor.
@@ -28,7 +22,7 @@ daraus vor.
 <<v2>>
 2 Da fand man den Bericht, wie Mordechai Bigtan und Teresch anzeigte,
 die beiden königlichen Kämmerer, die zu den Türhütern gehörten und einen
-Anschlag auf den König Artaxerxes geplant hatten. ^{[[#fn1][1]]}
+Anschlag auf den König Artaxerxes geplant hatten. [fn:1]
 
 <<v3>>
 3 Der König fragte: Welche Belohnung und Auszeichnung hat Mordechai
@@ -92,4 +86,6 @@ gewiss durch ihn zu Fall kommen.
 in Eile zu dem Festmahl zu holen, das Ester vorbereitet hatte.\\
 \\
 
-^{[[#fnm1][1]]} ℘ 2,21-23
+* Footnotes
+
+[fn:1] [[file:Est_2.org::v21][2,21]]-[[file:Est_2.org::v23][23]]

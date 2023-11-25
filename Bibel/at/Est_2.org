@@ -1,26 +1,20 @@
-:PROPERTIES:
-:ID:       48878bf6-8086-4998-8014-25cdbcf43b37
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Ester* -- [[file:Est_1.html][1]] *2*
-[[file:Est_3.html][3]] [[file:Est_4.html][4]] ...
-[[file:Est_10.html][10]]
-
---------------
-
-* Est 2
-  :PROPERTIES:
-  :CUSTOM_ID: est-2
-  :END:
+#+TITLE: Est 2 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-25 Sa 20:17]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Est 2.html
 
 <<verses>>
 
 <<v1>>
-**** Der Entschluss des Königs: 2,1-4
-     :PROPERTIES:
-     :CUSTOM_ID: der-entschluss-des-königs-21-4
-     :END:
+* Der Entschluss des Königs: 2,1-4
+
 1 Als sich nach einiger Zeit der Zorn des Königs gelegt hatte, erinnerte
 er sich wieder an Waschti und an das, was sie getan und was man über sie
 beschlossen hatte.
@@ -42,13 +36,10 @@ werden. Der König fand den Vorschlag gut und handelte nach ihm.\\
 \\
 
 <<v5>>
-**** Ester am königlichen Hof: 2,5-14
-     :PROPERTIES:
-     :CUSTOM_ID: ester-am-königlichen-hof-25-14
-     :END:
+* Ester am königlichen Hof: 2,5-14
+
 5 In der Burg Susa lebte ein Jude namens Mordechai. Er war der Sohn
-Jaïrs, des Sohnes Schimis, des Sohnes des Kisch, aus dem Stamm Benjamin.
-^{[[#fn1][1]][[#fn2][2]]}
+Jaïrs, des Sohnes Schimis, des Sohnes des Kisch, aus dem Stamm Benjamin. [fn:1] [fn:2]
 
 <<v6>>
 6 Er war mit den Verschleppten aus Jerusalem gekommen, die der
@@ -59,8 +50,7 @@ hatte.
 7 Er war der Vormund von Hadassa, der Tochter seines Onkels, die auch
 Ester hieß. Sie hatte keinen Vater und keine Mutter mehr. Das Mädchen
 war von schöner Gestalt und großer Anmut. Nach dem Tod ihres Vaters und
-ihrer Mutter hatte Mordechai sie als seine Tochter angenommen.
-^{[[#fn3][3]][[#fn4][4]]}
+ihrer Mutter hatte Mordechai sie als seine Tochter angenommen. [fn:3] [fn:4]
 
 <<v8>>
 8 Als der Befehl und Erlass des Königs bekannt wurde, brachte man viele
@@ -99,14 +89,12 @@ Haus der Frauen wünschten, gab man ihnen in den Königspalast mit.
 in den zweiten Frauenpalast gebracht und dem königlichen Kämmerer
 Schaaschgas anvertraut, dem Aufseher der Nebenfrauen. Sie durften nicht
 mehr zum König gehen, außer wenn der König Gefallen an ihnen gefunden
-hatte und sie ausdrücklich rufen ließ. ^{[[#fn5][5]]}\\
+hatte und sie ausdrücklich rufen ließ. [fn:5]\\
 \\
 
 <<v15>>
-**** Esters Erhebung zur Königin: 2,15-20
-     :PROPERTIES:
-     :CUSTOM_ID: esters-erhebung-zur-königin-215-20
-     :END:
+* Esters Erhebung zur Königin: 2,15-20
+
 15 Eines Tages war Ester, die Tochter Abihajils, des Onkels Mordechais,
 der sie als seine Tochter angenommen hatte, an der Reihe, zum König zu
 gehen. Sie wollte nichts mitnehmen, außer was der königliche Kämmerer
@@ -139,14 +127,12 @@ Mordechais, wie früher, als sie noch seine Pflegetochter war.\\
 \\
 
 <<v21>>
-**** Die Aufdeckung einer Verschwörung: 2,21-23
-     :PROPERTIES:
-     :CUSTOM_ID: die-aufdeckung-einer-verschwörung-221-23
-     :END:
+* Die Aufdeckung einer Verschwörung: 2,21-23
+
 21 In jenen Tagen, als Mordechai einen Posten am Tor des königlichen
 Palastes hatte, planten Bigtan und Teresch, zwei unzufriedene königliche
 Kämmerer, die zu den Türhütern gehörten, einen Anschlag auf König
-Artaxerxes. ^{[[#fn6][6]]}
+Artaxerxes. [fn:6]
 
 <<v22>>
 22 Mordechai erfuhr davon und berichtete es der Königin Ester. Ester
@@ -158,17 +144,19 @@ und hielt das Ereignis in der Chronik fest, die für den König geführt
 wurde.\\
 \\
 
-^{[[#fnm1][1]]} ℘ (5-6) 1,1 a-c
+* Footnotes
 
-^{[[#fnm2][2]]} 5f: Mordechai (= dem Gott Marduk gehörig) ist ein
+[fn:1] (5-6) [[file:Est_1.org::v1][1,1]] [[file:Est_1.org::v1a][a]]-[[file:Est_1.org::v1c][c]]
+
+[fn:2] 5f: Mordechai (= dem Gott Marduk gehörig) ist ein
 babylonischer Name. Nicht er selber, sondern wohl Kisch ist mit Jojachin
 in die Verbannung geführt worden (597 v. Chr.).
 
-^{[[#fnm3][3]]} ℘ 8,1
+[fn:3] [[file:Est_8.org::v1][8,1]]
 
-^{[[#fnm4][4]]} Hadassa (= Myrthe) ist der hebräische, Ester (= Stern)
+[fn:4] Hadassa (= Myrthe) ist der hebräische, Ester (= Stern)
 ist der babylonische Name für die Nichte und Adoptivtochter Mordechais.
 
-^{[[#fnm5][5]]} ℘ 4,11
+[fn:5] [[file:Est_4.org::v11][4,11]]
 
-^{[[#fnm6][6]]} ℘ 6,1f; (21-23) 1,1m-p
+[fn:6] [[file:Est_6.org::v1][6,1f]]; (21-23) [[file:Est_1.org::v1m][1,1m]]-[[file:Est_1.org::v1p][p]]
