@@ -1,24 +1,17 @@
-:PROPERTIES:
-:ID:       a0442738-5fb5-4b2f-9bba-ee017f1039ba
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das erste Buch der Makkabäer* -- *1*
-[[file:1.Makk_2.html][2]] [[file:1.Makk_3.html][3]] ...
-[[file:1.Makk_16.html][16]]
+#+TITLE: 1 Makk 1 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-25 Sa 23:03]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Makk 1.html
 
---------------
+* Die Bücher der Makkabäer
 
-* 1.Makk 1
-  :PROPERTIES:
-  :CUSTOM_ID: makk-1
-  :END:
-
-B+1
-** Die Bücher der Makkabäer
-   :PROPERTIES:
-   :CUSTOM_ID: die-bücher-der-makkabäer
-   :END:
 Die beiden Makkabäer-Bücher gehören nicht zum hebräischen Alten
 Testament, sondern zu den sog. deuterokanonischen, nur griechisch
 überlieferten Büchern der Bibel. Den Hauptinhalt der beiden Bücher
@@ -94,18 +87,14 @@ alttestamentlichen Kanon.\\
 <<verses>>
 
 <<v1>>
-1 B+0
-** Die Verfolgung des Volkes Israel: 1,1-64
-   :PROPERTIES:
-   :CUSTOM_ID: die-verfolgung-des-volkes-israel-11-64
-   :END:
-**** Der Beginn der griechischen Herrschaft: 1,1-10
-     :PROPERTIES:
-     :CUSTOM_ID: der-beginn-der-griechischen-herrschaft-11-10
-     :END:
+
+* Die Verfolgung des Volkes Israel: 1,1-64
+
+* Der Beginn der griechischen Herrschaft: 1,1-10
+
 Der Mazedonier Alexander, Sohn des Philippus, zog damals vom Land der
 Kittäer aus. Er besiegte Darius, den König der Perser und Meder, und
-wurde als erster König von Griechenland sein Nachfolger. ^{[[#fn1][1]]}
+wurde als erster König von Griechenland sein Nachfolger. [fn:1]
 
 <<v2>>
 2 Er führte viele Kriege, eroberte zahlreiche Festungen und ließ die
@@ -128,7 +117,7 @@ Fürsten und machte sie sich tributpflichtig.
 waren, und verteilte sein Reich unter sie, solange er noch lebte.
 
 <<v7>>
-7 Zwölf Jahre hatte Alexander regiert, als er starb. ^{[[#fn2][2]]}
+7 Zwölf Jahre hatte Alexander regiert, als er starb. [fn:2]
 
 <<v8>>
 8 Seine Offiziere übernahmen die Regierung, jeder in seinem Bereich.
@@ -142,18 +131,16 @@ die Erde.
 10 Aus ihnen ging ein besonders gottloser Spross hervor, Antiochus
 Epiphanes, der Sohn des Königs Antiochus. Er war als Geisel in Rom
 gewesen und trat im Jahr 137 der griechischen Herrschaft die Regierung
-an. ^{[[#fn3][3]][[#fn4][4]]}\\
+an. [fn:3] [fn:4]\\
 \\
 
 <<v11>>
-**** Das Aufkommen der Verräter: 1,11-15
-     :PROPERTIES:
-     :CUSTOM_ID: das-aufkommen-der-verräter-111-15
-     :END:
+* Das Aufkommen der Verräter: 1,11-15
+
 11 Zu dieser Zeit traten Verräter am Gesetz in Israel auf, die viele
 (zum Abfall) überredeten. Sie sagten: Wir wollen einen Bund mit den
 fremden Völkern schließen, die rings um uns herum leben; denn seit wir
-uns von ihnen abgesondert haben, geht es uns schlecht. ^{[[#fn5][5]]}
+uns von ihnen abgesondert haben, geht es uns schlecht. [fn:5]
 
 <<v12>>
 12 Dieser Vorschlag gefiel ihnen
@@ -174,17 +161,15 @@ sich dazu her, Böses zu tun.\\
 \\
 
 <<v16>>
-**** Der Angriff der Heiden auf den Tempel: 1,16-28
-     :PROPERTIES:
-     :CUSTOM_ID: der-angriff-der-heiden-auf-den-tempel-116-28
-     :END:
+* Der Angriff der Heiden auf den Tempel: 1,16-28
+
 16 Als Antiochus sah, dass sich seine Herrschaft gefestigt hatte, fasste
 er den Plan, auch König von Ägypten zu werden und so über zwei Reiche zu
-herrschen. ^{[[#fn6][6]]}
+herrschen. [fn:6]
 
 <<v17>>
 17 Er drang mit vielen Soldaten in Ägypten ein, mit Streitwagen und
-Kriegselefanten, mit Reitern und einer großen Flotte, ^{[[#fn7][7]]}
+Kriegselefanten, mit Reitern und einer großen Flotte, [fn:7]
 
 <<v18>>
 18 und führte Krieg gegen Ptolemäus, den König von Ägypten. Ptolemäus
@@ -237,13 +222,11 @@ führte ganz vermessene Reden.
 \\
 
 <<v29>>
-**** Die Verwüstung der Stadt Jerusalem: 1,29-40
-     :PROPERTIES:
-     :CUSTOM_ID: die-verwüstung-der-stadt-jerusalem-129-40
-     :END:
+* Die Verwüstung der Stadt Jerusalem: 1,29-40
+
 29 Zwei Jahre später schickte der König einen Beamten in die Städte von
 Judäa mit dem Auftrag, die Steuern einzutreiben. Er kam mit zahlreichen
-Truppen nach Jerusalem. ^{[[#fn8][8]]}
+Truppen nach Jerusalem. [fn:8]
 
 <<v30>>
 30 Hinterlistig bot er den Einwohnern zunächst Frieden an. Als man ihm
@@ -304,12 +287,10 @@ großen Gefahr.\\
 \\
 
 <<v41>>
-**** Die Verfolgung der treuen Israeliten: 1,41-64
-     :PROPERTIES:
-     :CUSTOM_ID: die-verfolgung-der-treuen-israeliten-141-64
-     :END:
+* Die Verfolgung der treuen Israeliten: 1,41-64
+
 41 Damals schrieb der König seinem ganzen Reich vor, alle sollen zu
-einem einzigen Volk werden ^{[[#fn9][9]]}
+einem einzigen Volk werden [fn:9]
 
 <<v42>>
 42 und jeder solle seine Eigenart aufgeben. Alle Völker fügten sich dem
@@ -323,11 +304,11 @@ Sabbat.
 <<v44>>
 44 Der König schickte Boten nach Jerusalem und in die Städte Judäas mit
 der schriftlichen Anordnung, man solle eine Lebensform übernehmen, die
-dem Land fremd war. ^{[[#fn10][10]]}
+dem Land fremd war. [fn:10]
 
 <<v45>>
 45 Brand-, Schlacht- und Trankopfer im Heiligtum seien einzustellen,
-Sabbate und Feste zu entweihen, ^{[[#fn11][11]]}
+Sabbate und Feste zu entweihen, [fn:11]
 
 <<v46>>
 46 das Heiligtum und die Heiligen zu schänden.
@@ -364,7 +345,7 @@ Zuflucht fanden.
 <<v54>>
 54 Am fünfzehnten Kislew des Jahres 145 ließ der König auf dem
 Brandopferaltar den unheilvollen Gräuel aufstellen; auch in den Städten
-Judäas ringsum baute man Altäre. ^{[[#fn12][12]][[#fn13][13]]}
+Judäas ringsum baute man Altäre. [fn:12] [fn:13]
 
 <<v55>>
 55 Vor den Haustüren und auf den Plätzen opferte man Weihrauch.
@@ -387,7 +368,7 @@ den sie über dem Brandopferaltar errichtet hatten, ein Opfer dar.
 
 <<v60>>
 60 Frauen, die ihre Kinder hatten beschneiden lassen, wurden auf Befehl
-(des Königs) hingerichtet; ^{[[#fn14][14]]}
+(des Königs) hingerichtet; [fn:14]
 
 <<v61>>
 61 dabei hängte man die Säuglinge an den Hals ihrer Mütter. Auch ihre
@@ -406,38 +387,40 @@ und den heiligen Bund entweihen. So starben sie.
 64 Ein gewaltiger Zorn lag auf Israel.\\
 \\
 
-^{[[#fnm1][1]]} Die Kittäer sind eigentlich die Bewohner der Insel
+* Footnotes
+
+[fn:1] Die Kittäer sind eigentlich die Bewohner der Insel
 Zypern, im weiteren Sinn die Bewohner aller Inseln im östlichen
 Mittelmeerraum, schließlich alle Griechen überhaupt. - Griechenland ist
 hier das von Griechen bewohnte westliche Kleinasien einschließlich
 Griechenlands und Mazedoniens.
 
-^{[[#fnm2][2]]} Er starb im Juni 323 v. Chr.
+[fn:2] Er starb im Juni 323 v. Chr.
 
-^{[[#fnm3][3]]} ℘ Dan 7,24f; 8,23-25; 11,21-45; 2 Makk 4,7
+[fn:3] [[file:Dan_7.org::v24][Dan 7,24f]]; [[file:Dan_8.org::v23][8,23]]-[[file:Dan_8.org::v25][25]]; [[file:Dan_11.org::v21][11,21]]-[[file:Dan_11.org::v25][45]]; [[file:2.Makk_4.org::v7][2 Makk 4,7]]
 
-^{[[#fnm4][4]]} Die griechische (seleuzidische) Zeitrechnung beginnt mit
+[fn:4] Die griechische (seleuzidische) Zeitrechnung beginnt mit
 dem Jahr 312 v. Chr. Das 137. Jahr ist also 175 v. Chr.
 
-^{[[#fnm5][5]]} ℘ (11-15) 2 Makk 4,9-17
+[fn:5] (11-15) [[file:2.Makk_4.org::v9][2 Makk 4,9]]-[[file:2.Makk_4.org::v17][17]]
 
-^{[[#fnm6][6]]} ℘ (16-24) 2 Makk 5,1-21; Dan 11,25-28
+[fn:6] (16-24) [[file:2.Makk_5.org::v1][2 Makk 5,1]]-[[file:2.Makk_5.org::v21][21]];[[file:Dan_11.org::v25][Dan 11,25]]-[[file:Dan_11.org::v28][28]]
 
-^{[[#fnm7][7]]} Es handelt sich um den ersten Feldzug gegen Ptolemäus
+[fn:7] Es handelt sich um den ersten Feldzug gegen Ptolemäus
 Philometor im Jahr 169 v. Chr.
 
-^{[[#fnm8][8]]} ℘ (29-30) 2 Makk 5,24-26
+[fn:8] (29-30) [[file:2.Makk_5.org::v24][2 Makk 5,24]]-[[file:2.Makk_5.org::v26][26]]
 
-^{[[#fnm9][9]]} ℘ (41-64) 2 Makk 6f
+[fn:9] (41-64) [[file:2.Makk_6.org][2 Makk 6f]]
 
-^{[[#fnm10][10]]} Noch 198 v. Chr. hatte Antiochus III. den Juden
+[fn:10] Noch 198 v. Chr. hatte Antiochus III. den Juden
 zugestanden, nach dem mosaischen Gesetz leben zu dürfen.
 
-^{[[#fnm11][11]]} ℘ (45-46) Dan 9,27; 11,31
+[fn:11] (45-46) [[file:Dan_9.org::v27][Dan 9,27]]; [[file:Dan_11.org::v31][11,31]]
 
-^{[[#fnm12][12]]} ℘ Dan 9,27; 11,31
+[fn:12] [[file:Dan_9.org::v27][Dan 9,27]]; [[file:Dan_11.org::v31][11,31]]
 
-^{[[#fnm13][13]]} Unheilvoller Gräuel: wohl ein Altar zu Ehren eines
+[fn:13] Unheilvoller Gräuel: wohl ein Altar zu Ehren eines
 Fruchtbarkeitsgottes.
 
-^{[[#fnm14][14]]} ℘ (60-61) 2 Makk 6,10
+[fn:14] (60-61) [[file:2.Makk_6.org::v10][2 Makk 6,10]]

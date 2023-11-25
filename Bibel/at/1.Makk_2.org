@@ -1,33 +1,25 @@
-:PROPERTIES:
-:ID:       f13a621e-cb53-4e47-b2bc-764d62bf45be
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das erste Buch der Makkabäer* --
-[[file:1.Makk_1.html][1]] *2* [[file:1.Makk_3.html][3]]
-[[file:1.Makk_4.html][4]] ... [[file:1.Makk_16.html][16]]
-
---------------
-
-* 1.Makk 2
-  :PROPERTIES:
-  :CUSTOM_ID: makk-2
-  :END:
+#+TITLE: 1 Makk 2 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-25 Sa 23:28]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Makk 2.html
 
 <<verses>>
 
 <<v1>>
-** Der Aufstand gegen die Verfolger: 2,1-70
-   :PROPERTIES:
-   :CUSTOM_ID: der-aufstand-gegen-die-verfolger-21-70
-   :END:
-**** Mattatias und seine Söhne: 2,1-14
-     :PROPERTIES:
-     :CUSTOM_ID: mattatias-und-seine-söhne-21-14
-     :END:
+* Der Aufstand gegen die Verfolger: 2,1-70
+
+* Mattatias und seine Söhne: 2,1-14
+
 1 Damals trat ein Priester auf aus dem Geschlecht des Jojarib namens
 Mattatias; sein Vater war Johanan, der Sohn Simeons. Er stammte aus
-Jerusalem, hatte sich aber in Modeïn niedergelassen. ^{[[#fn1][1]]}
+Jerusalem, hatte sich aber in Modeïn niedergelassen. [fn:1]
 
 <<v2>>
 2 Er hatte fünf Söhne: Johanan, den man auch Gaddi nannte,
@@ -91,10 +83,8 @@ Bußkleider an und gaben sich tiefer Trauer hin.\\
 \\
 
 <<v15>>
-**** Der Aufstand des Mattatias: 2,15-28
-     :PROPERTIES:
-     :CUSTOM_ID: der-aufstand-des-mattatias-215-28
-     :END:
+* Der Aufstand des Mattatias: 2,15-28
+
 15 Da kamen die Beamten, die vom König den Auftrag hatten, die Einwohner
 zum Abfall von Gott zu zwingen, in die Stadt Modeïn, um die Opfer
 durchzuführen.
@@ -106,14 +96,14 @@ Söhne mussten erscheinen.
 <<v17>>
 17 Da wandten sich die Leute des Königs an Mattatias und sagten: Du
 besitzt in dieser Stadt Macht, Ansehen und Einfluss und hast die
-Unterstützung deiner Söhne und Verwandten. ^{[[#fn2][2]]}
+Unterstützung deiner Söhne und Verwandten. [fn:2]
 
 <<v18>>
 18 Tritt also als erster vor und tu, was der König angeordnet hat. So
 haben es alle Völker getan, auch die Männer in Judäa und alle, die in
 Jerusalem geblieben sind. Dann wirst du mit deinen Söhnen zu den
 Freunden des Königs gehören; auch wird man dich und deine Söhne mit
-Silber, Gold und vielen Geschenken überhäufen. ^{[[#fn3][3]]}
+Silber, Gold und vielen Geschenken überhäufen. [fn:3]
 
 <<v19>>
 19 Mattatias aber antwortete mit lauter Stimme: Auch wenn alle Völker im
@@ -148,8 +138,7 @@ zum Opfer zwingen wollte, und riss den Altar nieder;
 
 <<v26>>
 26 der leidenschaftliche Eifer für das Gesetz hatte ihn gepackt und er
-tat, was einst Pinhas mit Simri, dem Sohn des Salu, gemacht hatte.
-^{[[#fn4][4]]}
+tat, was einst Pinhas mit Simri, dem Sohn des Salu, gemacht hatte. [fn:4]
 
 <<v27>>
 27 Dann ging Mattatias durch die Stadt und rief laut: Wer sich für das
@@ -161,12 +150,10 @@ ließen sie in der Stadt zurück.\\
 \\
 
 <<v29>>
-**** Der Kampf am Sabbat: 2,29-41
-     :PROPERTIES:
-     :CUSTOM_ID: der-kampf-am-sabbat-229-41
-     :END:
+* Der Kampf am Sabbat: 2,29-41
+
 29 Damals gingen viele, die Recht und Gerechtigkeit suchten, in die
-Wüste hinunter, um dort zu leben. ^{[[#fn5][5]]}
+Wüste hinunter, um dort zu leben. [fn:5]
 
 <<v30>>
 30 Ihre Kinder und ihre Frauen und auch ihr Vieh nahmen sie mit; denn
@@ -223,13 +210,10 @@ wie unsere Brüder in den Höhlen.\\
 \\
 
 <<v42>>
-**** Erste Erfolge der Aufständischen: 2,42-48
-     :PROPERTIES:
-     :CUSTOM_ID: erste-erfolge-der-aufständischen-242-48
-     :END:
+* Erste Erfolge der Aufständischen: 2,42-48
+
 42 Damals schloss sich ihnen auch die Gemeinschaft der Hasidäer an; das
-waren tapfere Männer aus Israel, die alle dem Gesetz treu ergeben waren.
-^{[[#fn6][6]]}
+waren tapfere Männer aus Israel, die alle dem Gesetz treu ergeben waren. [fn:6]
 
 <<v43>>
 43 Auch alle anderen, die vor dem Unheil flohen, kamen zu ihnen und
@@ -264,14 +248,12 @@ beschnitten sie gewaltsam.\\
 \\
 
 <<v49>>
-**** Vermächtnis und Tod des Mattatias: 2,49-70
-     :PROPERTIES:
-     :CUSTOM_ID: vermächtnis-und-tod-des-mattatias-249-70
-     :END:
+* Vermächtnis und Tod des Mattatias: 2,49-70
+
 49 Schließlich kam für Mattatias die Zeit, dass er sterben musste. Da
 sagte er zu seinen Söhnen: Nun sind über uns Hochmut und Strafe
 gekommen, /\\
- die Zeit des Zusammenbruchs und lodernder Zorn. ^{[[#fn7][7]]}\\
+ die Zeit des Zusammenbruchs und lodernder Zorn. [fn:7]\\
 \\
 
 <<v50>>
@@ -288,48 +270,47 @@ gekommen, /\\
 
 <<v52>>
 52 Wurde Abraham nicht für treu befunden in der Erprobung /\\
- und wurde ihm das nicht als Gerechtigkeit angerechnet? ^{[[#fn8][8]]}\\
+ und wurde ihm das nicht als Gerechtigkeit angerechnet? [fn:8]\\
 \\
 
 <<v53>>
 53 Josef hielt das Gebot, als man ihn bedrängte, /\\
- und wurde Herr über Ägypten. ^{[[#fn9][9]]}\\
+ und wurde Herr über Ägypten. [fn:9]\\
 \\
 
 <<v54>>
 54 Pinhas, unser Ahnherr, ereiferte sich für Gottes Sache /\\
- und empfing den Bund ewigen Priestertums.
-^{[[#fn10][10]][[#fn11][11]]}\\
+ und empfing den Bund ewigen Priestertums. [fn:10] [fn:11]\\
 \\
 
 <<v55>>
 55 Weil Josua seinen Auftrag erfüllte, /\\
- wurde er Richter in Israel. ^{[[#fn12][12]]}\\
+ wurde er Richter in Israel. [fn:12]\\
 \\
 
 <<v56>>
 56 Kaleb sprach als Zeuge vor dem Volk die Wahrheit; /\\
- darum bekam er ein Erbteil im Land. ^{[[#fn13][13]]}\\
+ darum bekam er ein Erbteil im Land. [fn:13]\\
 \\
 
 <<v57>>
 57 David hielt die Treue; /\\
- darum erhielt er den Königsthron als ewiges Erbe. ^{[[#fn14][14]]}\\
+ darum erhielt er den Königsthron als ewiges Erbe. [fn:14]\\
 \\
 
 <<v58>>
 58 Elija kämpfte mit leidenschaftlichem Eifer für das Gesetz /\\
- und wurde in den Himmel aufgenommen. ^{[[#fn15][15]]}\\
+ und wurde in den Himmel aufgenommen. [fn:15]\\
 \\
 
 <<v59>>
 59 Hananja, Asarja und Mischaël hatten Vertrauen; /\\
- darum wurden sie aus den Flammen gerettet. ^{[[#fn16][16]]}\\
+ darum wurden sie aus den Flammen gerettet. [fn:16]\\
 \\
 
 <<v60>>
 60 Weil Daniel unschuldig war, /\\
- wurde er dem Rachen der Löwen entrissen. ^{[[#fn17][17]]}\\
+ wurde er dem Rachen der Löwen entrissen. [fn:17]\\
 \\
 
 <<v61>>
@@ -339,15 +320,14 @@ gekommen, /\\
 
 <<v62>>
 62 Habt keine Angst vor den Worten eines bösen Menschen! /\\
- Seine Herrlichkeit verfällt der Fäulnis und den Würmern.
-^{[[#fn18][18]]}\\
+ Seine Herrlichkeit verfällt der Fäulnis und den Würmern. [fn:18]\\
 \\
 
 <<v63>>
 63 Heute noch reckt er sich hoch empor, /\\
  morgen schon ist er verschwunden; /\\
  denn er ist wieder zu Staub geworden /\\
- und mit seinen Plänen ist's aus. ^{[[#fn19][19]]}\\
+ und mit seinen Plänen ist's aus. [fn:19]\\
 \\
 
 <<v64>>
@@ -380,45 +360,47 @@ vereint.
 bei und ganz Israel hielt feierlich die Totenklage um ihn.\\
 \\
 
-^{[[#fnm1][1]]} ℘ 1 Chr 24,7
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ (17-22) Dan 11,32
+[fn:1] [[file:1.Chr_24.org::v7][1 Chr 24,7]]
 
-^{[[#fnm3][3]]} Freund des Königs: eine ehrenvolle Auszeichnung, die am
+[fn:2] (17-22) [[file:Dan_11.org::v32][Dan 11,32]]
+
+[fn:3] Freund des Königs: eine ehrenvolle Auszeichnung, die am
 persischen Hof erblich war.
 
-^{[[#fnm4][4]]} ℘ Num 25,6-15
+[fn:4] [[file:Num_25.org::v6][Num 25,6]]-[[file:Num_25.org::v15][15]]
 
-^{[[#fnm5][5]]} ℘ 2 Makk 6,11
+[fn:5] [[file:2.Makk_6.org::v11][2 Makk 6,11]]
 
-^{[[#fnm6][6]]} «Hasidäer» (hasidim) bedeutet «Fromme»; eine jüdische
+[fn:6] «Hasidäer» (hasidim) bedeutet «Fromme»; eine jüdische
 Gemeinschaft, die sich später (150 v. Chr.) in Pharisäer und Essener
 aufspaltete.
 
-^{[[#fnm7][7]]} 49-70: Zum «Vermächtnis» des Mattatias vgl. den Lobpreis
-der Väter in Sir 44-50.
+[fn:7] 49-70: Zum «Vermächtnis» des Mattatias vgl. den Lobpreis
+der Väter in [[file:Sir_44.org][Sir 44]]-[[file:Sir_50.org][50]].
 
-^{[[#fnm8][8]]} ℘ Gen 22; 15,6
+[fn:8] [[file:Gen_22.org][Gen 22]]; [[file:Gen_15.org::v6][15,6]]
 
-^{[[#fnm9][9]]} ℘ Gen 39,7-15; 41,38-44
+[fn:9] [[file:Gen_39.org::v7][Gen 39,7]]-[[file:Gen_39.org::v15][15]]; [[file:Gen_41.org::v38][41,38]]-[[file:Gen_41.org::v44][44]]
 
-^{[[#fnm10][10]]} ℘ Num 25,6-13
+[fn:10] [[file:Num_25.org::v6][Num 25,6]]-[[file:Num_25.org::v13][13]]
 
-^{[[#fnm11][11]]} Der gegenwärtige Hohepriester Simon II. wird in die
+[fn:11] Der gegenwärtige Hohepriester Simon II. wird in die
 Ahnenreihe des Aaron und Pinhas gestellt.
 
-^{[[#fnm12][12]]} ℘ Ex 17,9-13; Num 27,15-23
+[fn:12] [[file:Ex_17.org::v9][Ex 17,9]]-[[file:Ex_17.org::v13][13]]; [[file:Num_27.org::v15][Num 27,15]]-[[file:Num_27.org::v23][23]]
 
-^{[[#fnm13][13]]} ℘ Num 13,30; 14,6f.24; Jos 14,6-14
+[fn:13] [[file:Num_13.org::v30][Num 13,30]]; [[file:Num_14.org::v6][14,6f]].[[file:Num_14.org::v24][24]]; [[file:Jos_14.org::v6][Jos 14,6]]-[[file:Jos_14.org::v14][14]]
 
-^{[[#fnm14][14]]} ℘ 1 Sam 24; 26; 2 Sam 7
+[fn:14] [[file:1.Sam_24.org][1 Sam 24]]; [[file:1.Sam_26.org][26]]; [[file:2.Sam_7.org][2 Sam 7]]
 
-^{[[#fnm15][15]]} ℘ 1 Kön 18,40; 19,10; 2 Kön 2,1-13
+[fn:15] [[file:1.Kön_18.org::v40][1 Kön 18,40]]; [[file:1.Kön_19.org::v10][19,10]]; [[file:2.Kön_2.org::v1][2 Kön 2,1]]-[[file:2.Kön_2.org::v13][13]]
 
-^{[[#fnm16][16]]} ℘ Dan 3
+[fn:16] [[file:Dan_3.org][Dan 3]]
 
-^{[[#fnm17][17]]} ℘ Dan 6
+[fn:17] [[file:Dan_6.org][Dan 6]]
 
-^{[[#fnm18][18]]} Gemeint ist Antiochus IV. Epiphanes.
+[fn:18] Gemeint ist Antiochus IV. Epiphanes.
 
-^{[[#fnm19][19]]} ℘ Ps 37,35f; 146,3f
+[fn:19] [[file:Ps_37.org::v35][Ps 37,35f]]; [[file:Ps_146.org::v3][146,3f]]
