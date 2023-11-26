@@ -1,31 +1,23 @@
-:PROPERTIES:
-:ID:       1b23be31-0395-455b-bb72-a9e0968a4605
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das erste Buch der Makkabäer* --
-[[file:1.Makk_1.html][1]] ... [[file:1.Makk_5.html][5]]
-[[file:1.Makk_6.html][6]] *7* [[file:1.Makk_8.html][8]]
-[[file:1.Makk_9.html][9]] ... [[file:1.Makk_16.html][16]]
-
---------------
-
-* 1.Makk 7
-  :PROPERTIES:
-  :CUSTOM_ID: makk-7
-  :END:
+#+TITLE: 1 Makk 7 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-26 So 23:22]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Makk 7.html
 
 <<verses>>
 
 <<v1>>
-**** Neue Angriffe auf Israel nach der Thronbesteigung des Demetrius I.:
-7,1-25
-     :PROPERTIES:
-     :CUSTOM_ID: neue-angriffe-auf-israel-nach-der-thronbesteigung-des-demetrius-i.-71-25
-     :END:
+* Neue Angriffe auf Israel nach der Thronbesteigung des Demetrius I.: 7,1-25
+
 1 Im Jahr 151 floh Demetrius, der Sohn des Seleukus, aus Rom, landete
 mit nur wenigen Männern in einer Stadt am Meer und rief sich dort zum
-König aus. ^{[[#fn1][1]]}
+König aus. [fn:1]
 
 <<v2>>
 2 Als er in den Palast seiner Väter einzog, nahmen die Truppen Antiochus
@@ -56,7 +48,7 @@ haben. Dann soll er sie und alle, die sie unterstützen, bestrafen.
 <<v8>>
 8 Der König wählte Bakchides, einen der Freunde des Königs; er hatte den
 Befehl jenseits des Stroms, galt viel im Reich und war dem König treu
-ergeben. ^{[[#fn2][2]]}
+ergeben. [fn:2]
 
 <<v9>>
 9 Mit ihm schickte er den ruchlosen Alkimus, den er als Hohenpriester
@@ -78,7 +70,7 @@ und Bakchides, um eine gerechte Lösung zu suchen.
 
 <<v13>>
 13 Auch bemühten sich die Hasidäer, als erste von den Israeliten, bei
-ihnen um Frieden. ^{[[#fn3][3]]}
+ihnen um Frieden. [fn:3]
 
 <<v14>>
 14 Sie sagten sich nämlich: Ein Priester aus der Familie des Aaron ist
@@ -94,7 +86,7 @@ am selben Tag hinrichten, genau wie geschrieben steht:
 
 <<v17>>
 17 Die Leichen deiner Frommen haben sie rings um Jerusalem zerstreut und
-ihr Blut haben sie vergossen und keiner hat sie begraben. ^{[[#fn4][4]]}
+ihr Blut haben sie vergossen und keiner hat sie begraben. [fn:4]
 
 <<v18>>
 18 Da begann das ganze Volk, sich vor ihnen zu fürchten und zu zittern.
@@ -134,13 +126,11 @@ den König und brachte schwere Anklagen gegen sie vor.\\
 \\
 
 <<v26>>
-**** Der Angriff und die Niederlage des Nikanor: 7,26-50
-     :PROPERTIES:
-     :CUSTOM_ID: der-angriff-und-die-niederlage-des-nikanor-726-50
-     :END:
+* Der Angriff und die Niederlage des Nikanor: 7,26-50
+
 26 Da schickte der König einen seiner bedeutendsten Anführer, Nikanor,
 der ein erbitterter Gegner Israels war; er trug ihm auf, das Volk zu
-vernichten. ^{[[#fn5][5]]}
+vernichten. [fn:5]
 
 <<v27>>
 27 Nikanor kam mit einem großen Heer nach Jerusalem. Er schickte Boten
@@ -185,7 +175,7 @@ heil zurück bin. Dann ging er wütend weg.
 
 <<v36>>
 36 Die Priester gingen wieder hinein, stellten sich vor den Altar und
-den Tempel, weinten und sagten: ^{[[#fn6][6]]}
+den Tempel, weinten und sagten: [fn:6]
 
 <<v37>>
 37 Du hast dieses Haus erwählt, damit dein Name darüber ausgerufen
@@ -207,7 +197,7 @@ er betete:
 <<v41>>
 41 Damals, als die Leute des Königs von Assur über dich gelästert
 hatten, kam dein Engel und erschlug hundertfünfundachtzigtausend von
-ihnen. ^{[[#fn7][7]]}
+ihnen. [fn:7]
 
 <<v42>>
 42 Schlag heute dieses Heer vor unseren Augen genauso, damit die, die
@@ -248,17 +238,19 @@ großen Festtag
 Danach hatte Judäa für kurze Zeit Ruhe.\\
 \\
 
-^{[[#fnm1][1]]} ℘ (1-25) 2 Makk 14,1-10
+* Footnotes
 
-^{[[#fnm2][2]]} jenseits des Stroms: das Gebiet, das sich vom Eufrat bis
+[fn:1] (1-25) [[file:2.Makk_14.org::v1][2 Makk 14,1]]-[[file:2.Makk_14.org::v10][10]]
+
+[fn:2] jenseits des Stroms: das Gebiet, das sich vom Eufrat bis
 an die Grenze Ägyptens erstreckt.
 
-^{[[#fnm3][3]]} ℘ 2,42
+[fn:3] [[file:1.Makk_2.org::v42][2,42]]
 
-^{[[#fnm4][4]]} ℘ Ps 79,2f
+[fn:4] [[file:Ps_79.org::v2][Ps 79,2f]]
 
-^{[[#fnm5][5]]} ℘ 3,38; (26-50) 2 Makk 14,11 - 15,36
+[fn:5] [[file:1.Makk_3.org::v38][3,38]]; (26-50) [[file:2.Makk_14.org::v11][2 Makk 14,11]] - [[file:1.Makk_15.org::v36][15,36]]
 
-^{[[#fnm6][6]]} ℘ Joël 2,17
+[fn:6] [[file:Joel_2.org::v17][Joël 2,17]]
 
-^{[[#fnm7][7]]} ℘ 2 Kön 18,17-35; 19,35
+[fn:7] [[file:2.Kön_18.org::v17][2 Kön 18,17]]-[[file:2.Kön_18.org::v35][35]]; [[file:2.Kön_19.org::v35][19,35]]

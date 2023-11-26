@@ -1,31 +1,23 @@
-:PROPERTIES:
-:ID:       4079c8a0-e0ea-4483-856c-d5afbd8b45d6
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das erste Buch der Makkabäer* --
-[[file:1.Makk_1.html][1]] ... [[file:1.Makk_4.html][4]]
-[[file:1.Makk_5.html][5]] *6* [[file:1.Makk_7.html][7]]
-[[file:1.Makk_8.html][8]] ... [[file:1.Makk_16.html][16]]
-
---------------
-
-* 1.Makk 6
-  :PROPERTIES:
-  :CUSTOM_ID: makk-6
-  :END:
+#+TITLE: 1 Makk 6 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-26 So 21:12]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Makk 6.html
 
 <<verses>>
 
 <<v1>>
-**** Das Ende des Antiochus Epiphanes und die Thronbesteigung des
-Antiochus V.: 6,1-17
-     :PROPERTIES:
-     :CUSTOM_ID: das-ende-des-antiochus-epiphanes-und-die-thronbesteigung-des-antiochus-v.-61-17
-     :END:
+* Das Ende des Antiochus Epiphanes und die Thronbesteigung des Antiochus V.: 6,1-17
+
 1 König Antiochus durchzog unterdessen die östlichen Provinzen. Er hörte
 von einer Stadt in Persien namens Elymaïs, die berühmt war wegen ihres
-Reichtums an Silber und Gold. ^{[[#fn1][1]][[#fn2][2]]}
+Reichtums an Silber und Gold. [fn:1] [fn:2]
 
 <<v2>>
 2 Auch gibt es in ihr einen sehr reichen Tempel; der mazedonische König
@@ -55,7 +47,7 @@ bei den geschlagenen Armeen machten, verstärkt.
 <<v7>>
 7 Den Gräuel, den er auf dem Altar in Jerusalem hatte aufstellen lassen,
 hätten sie wieder entfernt und den Tempelbezirk wie früher mit hohen
-Mauern umgeben, ebenso seine Stadt Bet-Zur. ^{[[#fn3][3]]}
+Mauern umgeben, ebenso seine Stadt Bet-Zur. [fn:3]
 
 <<v8>>
 8 Als der König das hörte, war er bestürzt und sehr beunruhigt. Er
@@ -99,19 +91,15 @@ zu erziehen, bis er die Regierung übernehmen könne.
 <<v17>>
 17 Als Lysias erfuhr, dass der König tot war, setzte er als dessen
 Nachfolger seinen Sohn Antiochus ein, dessen Erziehung ihm während
-seiner Minderjährigkeit oblag, und gab ihm den Beinamen Eupator.
-^{[[#fn4][4]]}\\
+seiner Minderjährigkeit oblag, und gab ihm den Beinamen Eupator. [fn:4]\\
 \\
 
 <<v18>>
-**** Der zweite Angriff des königlichen Heeres unter Lysias: 6,18-54
-     :PROPERTIES:
-     :CUSTOM_ID: der-zweite-angriff-des-königlichen-heeres-unter-lysias-618-54
-     :END:
+* Der zweite Angriff des königlichen Heeres unter Lysias: 6,18-54
+
 18 Die Besatzung der Burg in Jerusalem schloss die Israeliten, die im
 Tempel waren, von allen Seiten ein. Sie versuchte unaufhörlich, Unheil
-anzurichten, und die Fremden hatten an ihnen einen starken Rückhalt.
-^{[[#fn5][5]]}
+anzurichten, und die Fremden hatten an ihnen einen starken Rückhalt. [fn:5]
 
 <<v19>>
 19 Judas fasste daher den Plan, sie zu vernichten, und berief alle
@@ -249,7 +237,7 @@ Judäa und am Berg Zion ein Lager auf.
 <<v49>>
 49 Mit der Besatzung von Bet-Zur schloss er Frieden und sie verließ die
 Stadt. Dort waren nämlich während der Belagerung die Nahrungsmittel
-ausgegangen; denn man beging im Land ein Sabbatjahr. ^{[[#fn6][6]]}
+ausgegangen; denn man beging im Land ein Sabbatjahr. [fn:6]
 
 <<v50>>
 50 Der König ließ Bet-Zur besetzen und legte eine Garnison hinein, um es
@@ -275,13 +263,11 @@ jeder ging nach Hause; nur wenige Männer blieben beim Tempel zurück.\\
 \\
 
 <<v55>>
-**** Der Religionsfriede des Lysias: 6,55-63
-     :PROPERTIES:
-     :CUSTOM_ID: der-religionsfriede-des-lysias-655-63
-     :END:
+* Der Religionsfriede des Lysias: 6,55-63
+
 55 Da hörte Lysias, Philippus, den König Antiochus noch zu seinen
 Lebzeiten zum Erzieher seines Sohnes Antiochus bestimmt hatte, bis
-dieser die Regierung antreten könne, ^{[[#fn7][7]]}
+dieser die Regierung antreten könne, [fn:7]
 
 <<v56>>
 56 sei aus Persien und Medien zurückgekehrt, zusammen mit den Truppen,
@@ -323,17 +309,22 @@ fand die Stadt im Besitz des Philippus, eröffnete den Kampf gegen ihn
 und nahm die Stadt mit Gewalt.\\
 \\
 
-^{[[#fnm1][1]]} ℘ (1-17) 2 Makk 9; 1,11-17
+* Footnotes
+:PROPERTIES:
+:ID:       31348efa-3815-4a64-b103-eb0db59013ad
+:END:
 
-^{[[#fnm2][2]]} Elymaïs ist wohl in der Nähe der persischen Hauptstadt
+[fn:1] (1-17) [[file:2.Makk_9.org][2 Makk 9]]; [[file:1.Makk_1.org::v11][1,11]]-[[file:1.Makk_1.org::v17][17]]
+
+[fn:2] Elymaïs ist wohl in der Nähe der persischen Hauptstadt
 Susa gelegen.
 
-^{[[#fnm3][3]]} ℘ 4,45
+[fn:3] [[file:1.Makk_4.org::v45][4,45]]
 
-^{[[#fnm4][4]]} ℘ 3,32f
+[fn:4] [[file:1.Makk_3.org::v32][3,32f]]
 
-^{[[#fnm5][5]]} ℘ 1,33-36; (18-54) 2 Makk 13,1f.9-26
+[fn:5] [[file:1.Makk_1.org::v33][1,33]]-[[file:1.Makk_1.org::v36][36]]; (18-54) [[file:2.Makk_13.org::v1][2 Makk 13,1f]].[[file:2.Makk_13.org::v9][9]]-[[file:2.Makk_13.org::v26][26]]
 
-^{[[#fnm6][6]]} ℘ Lev 25,2-7
+[fn:6] [[file:Lev_25.org::v2][Lev 25,2]]-[[file:Lev_25.org::v7][7]]
 
-^{[[#fnm7][7]]} ℘ 6,14f; (55-63) 2 Makk 11,13-15 (38)
+[fn:7] [[v14][6,14f]]; (55-63) [[file:2.Makk_11.org::v13][2 Makk 11,13]]-[[file:2.Makk_11.org::v15][15]] (38)
