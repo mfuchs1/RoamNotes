@@ -1,33 +1,24 @@
-:PROPERTIES:
-:ID:       3eb644b7-f51f-4f8e-bfe1-c9b00eb4c308
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das erste Buch der Makkabäer* --
-[[file:1.Makk_1.html][1]] [[file:1.Makk_2.html][2]] *3*
-[[file:1.Makk_4.html][4]] [[file:1.Makk_5.html][5]] ...
-[[file:1.Makk_16.html][16]]
-
---------------
-
-* 1.Makk 3
-  :PROPERTIES:
-  :CUSTOM_ID: makk-3
-  :END:
+#+TITLE: 1 Makk 3 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-26 So 14:00]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Makk 3.html
 
 <<verses>>
 
 <<v1>>
-** Die Taten des Judas: 3,1 - 9,22
-   :PROPERTIES:
-   :CUSTOM_ID: die-taten-des-judas-31---922
-   :END:
-**** Das Loblied auf Judas: 3,1-9
-     :PROPERTIES:
-     :CUSTOM_ID: das-loblied-auf-judas-31-9
-     :END:
+* Die Taten des Judas: 3,1 - 9,22
+
+* Das Loblied auf Judas: 3,1-9
+
 1 An die Stelle des Mattatias trat sein Sohn Judas mit dem Beinamen der
-Makkabäer. ^{[[#fn1][1]]}
+Makkabäer. [fn:1]
 
 <<v2>>
 2 Alle seine Brüder unterstützten ihn, wie auch alle, die sich seinem
@@ -75,13 +66,10 @@ Vater angeschlossen hatten. Freudig kämpften sie für Israel.\\
 \\
 
 <<v10>>
-**** Abwehr heidnischer Angriffe: 3,10-26
-     :PROPERTIES:
-     :CUSTOM_ID: abwehr-heidnischer-angriffe-310-26
-     :END:
+* Abwehr heidnischer Angriffe: 3,10-26
+
 10 Apollonius sammelte Truppen aus den fremden Völkern und dazu ein
-großes Heer aus Samarien, um gegen Israel Krieg zu führen.
-^{[[#fn2][2]]}
+großes Heer aus Samarien, um gegen Israel Krieg zu führen. [fn:2]
 
 <<v11>>
 11 Als Judas davon erfuhr, zog er ihm entgegen und besiegte und erschlug
@@ -119,7 +107,7 @@ nichts gegessen.
 <<v18>>
 18 Judas antwortete: Es kann leicht sein, dass viele wenigen in die
 Hände fallen; für den Himmel macht es keinen Unterschied, ob er durch
-viele oder wenige Rettung bringt. ^{[[#fn3][3]]}
+viele oder wenige Rettung bringt. [fn:3]
 
 <<v19>>
 19 Denn der Sieg im Kampf liegt nicht an der Größe des Heeres, sondern
@@ -144,7 +132,7 @@ Feinde und Seron und sein Heer wurden vor seinen Augen aufgerieben.
 <<v24>>
 24 Sie verfolgten ihn von der Steige von Bet-Horon bis in die Ebene
 hinab und es fielen gegen achthundert Mann von ihnen; die Übrigen flohen
-ins Land der Philister. ^{[[#fn4][4]]}\\
+ins Land der Philister. [fn:4]\\
 \\
 
 <<v25>>
@@ -158,10 +146,8 @@ ins Land der Philister. ^{[[#fn4][4]]}\\
 \\
 
 <<v27>>
-**** Die Kriegsvorbereitungen des Antiochus Epiphanes: 3,27-37
-     :PROPERTIES:
-     :CUSTOM_ID: die-kriegsvorbereitungen-des-antiochus-epiphanes-327-37
-     :END:
+* Die Kriegsvorbereitungen des Antiochus Epiphanes: 3,27-37
+
 27 Als König Antiochus von diesen Ereignissen hörte, wurde er sehr
 zornig. Er schickte Boten aus und zog alle Streitkräfte seines Reiches
 zusammen: ein gewaltig großes Heer.
@@ -212,17 +198,15 @@ ansiedeln und das Land an sie verlosen.
 <<v37>>
 37 Die andere Hälfte der Truppen nahm der König mit sich; er brach im
 Jahr 147 von seiner Hauptstadt Antiochia auf, überquerte den Eufrat und
-marschierte in die östlichen Provinzen. ^{[[#fn5][5]]}\\
+marschierte in die östlichen Provinzen. [fn:5]\\
 \\
 
 <<v38>>
-**** Der Angriff des Gorgias und des Nikanor: 3,38-45
-     :PROPERTIES:
-     :CUSTOM_ID: der-angriff-des-gorgias-und-des-nikanor-338-45
-     :END:
+* Der Angriff des Gorgias und des Nikanor: 3,38-45
+
 38 Lysias aber wählte Ptolemäus aus, den Sohn des Dorymenes, außerdem
 Nikanor und Gorgias, tapfere Männer, die zu den Freunden des Königs
-gehörten, ^{[[#fn6][6]]}
+gehörten, [fn:6]
 
 <<v39>>
 39 und schickte sie mit vierzigtausend Mann und siebentausend Reitern
@@ -266,13 +250,11 @@ beten und Gnade und Mitleid zu erflehen.\\
 \\
 
 <<v46>>
-**** Der Bittgottesdienst in Mizpa: 3,46-60
-     :PROPERTIES:
-     :CUSTOM_ID: der-bittgottesdienst-in-mizpa-346-60
-     :END:
+* Der Bittgottesdienst in Mizpa: 3,46-60
+
 46 Sie versammelten sich also und gingen nach Mizpa. Das ist ein Ort,
 der Jerusalem gegenüber liegt und an dem die Israeliten früher eine
-Gebetsstätte hatten. ^{[[#fn7][7]]}
+Gebetsstätte hatten. [fn:7]
 
 <<v47>>
 47 Sie fasteten an jenem Tag, zogen Bußkleider an, streuten sich Staub
@@ -285,7 +267,7 @@ erhalten, so wie die fremden Völker ihre Götterbilder befragen.
 <<v49>>
 49 Auch brachten sie die priesterlichen Gewänder, die Erstlingsfrüchte
 und den Zehnten herbei, befahlen den Nasiräern, deren Zeit abgelaufen
-war, sich zu versammeln, ^{[[#fn8][8]]}
+war, sich zu versammeln, [fn:8]
 
 <<v50>>
 50 und schrien laut zum Himmel: Was sollen wir mit diesen Dingen und
@@ -312,7 +294,7 @@ fünfzig und zehn.
 <<v56>>
 56 Alle, die (kurz zuvor) ein Haus gebaut, eine Frau geheiratet oder
 Weinberge angelegt hatten oder die Angst hatten, ließ er nach Hause
-zurückkehren, wie es das Gesetz vorschreibt. ^{[[#fn9][9]]}
+zurückkehren, wie es das Gesetz vorschreibt. [fn:9]
 
 <<v57>>
 57 Danach brach das Heer auf und schlug südlich von Emmaus sein Lager
@@ -331,23 +313,23 @@ unser Volk und über das Heiligtum kommt.
 60 Doch wie der Himmel will, so soll es geschehen.\\
 \\
 
-^{[[#fnm1][1]]} ℘ (1-9) 2 Makk 8,1-7
+* Footnotes
 
-^{[[#fnm2][2]]} Nach Josephus Flavius war Apollonius Gouverneur von
-Samaria.
+[fn:1] (1-9) [[file:2.Makk_8.org::v1][2 Makk 8,1]]-[[file:2.Makk_8.org::v7][7]]
 
-^{[[#fnm3][3]]} ℘ 1 Sam 14,6
+[fn:2] Nach Josephus Flavius war Apollonius Gouverneur von Samaria.
 
-^{[[#fnm4][4]]} «Land der Philister» ist altertümliche Redeweise für das
+[fn:3] [[file:1.Sam_14.org::v6][1 Sam 14,6]]
+
+[fn:4] «Land der Philister» ist altertümliche Redeweise für das
 Küstengebiet am Mittelmeer. Davon ist der Name Palästina abgeleitet.
 
-^{[[#fnm5][5]]} die östlichen Provinzen: die Hochebene des Iran.
+[fn:5] die östlichen Provinzen: die Hochebene des Iran.
 
-^{[[#fnm6][6]]} ℘ 2 Makk 4,45; 1 Makk 7,26; 2 Makk 10,14; (38-45) 2 Makk
-8,8-15
+[fn:6] [[file:2.Makk_4.org::v45][2 Makk 4,45]]; [[file:1.Makk_7.org::v26][1 Makk 7,26]]; [[file:2.Makk_10.org::v14][2 Makk 10,14]]; (38-45) [[file:2.Makk_8.org::v8][2 Makk 8,8]]-[[file:2.Makk_8.org::v15][15]]
 
-^{[[#fnm7][7]]} ℘ Ri 20,1-3; 1 Sam 7,5f; (46-60) 2 Makk 8,16-23
+[fn:7] [[file:Ri_20.org::v1][Ri 20,1]]-[[file:Ri_20.org::v3][3]]; [[file:1.Sam_7.org::v5][1 Sam 7,5f]]; (46-60) [[file:2.Makk_8.org::v16][2 Makk 8,16]]-[[file:2.Makk_8.org::v23][23]]
 
-^{[[#fnm8][8]]} ℘ Dtn 26; Num 6
+[fn:8] [[file:Dtn_26.org][Dtn 26]]; [[file:Num_6.org][Num 6]]
 
-^{[[#fnm9][9]]} ℘ Dtn 20,5-9
+[fn:9] [[file:Dtn_20.org::v5][Dtn 20,5]]-[[file:Dtn_20.org::v9][9]]
