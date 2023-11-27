@@ -1,27 +1,20 @@
-:PROPERTIES:
-:ID:       0b499454-27fc-4ec9-a143-b2cc7d243c6b
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das erste Buch der Makkabäer* --
-[[file:1.Makk_1.html][1]] ... [[file:1.Makk_9.html][9]]
-[[file:1.Makk_10.html][10]] *11* [[file:1.Makk_12.html][12]]
-[[file:1.Makk_13.html][13]] ... [[file:1.Makk_16.html][16]]
-
---------------
-
-* 1.Makk 11
-  :PROPERTIES:
-  :CUSTOM_ID: makk-11
-  :END:
+#+TITLE: 1 Makk 11 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-27 Mo 13:06]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Makk 11.html
 
 <<verses>>
 
 <<v1>>
-**** Der Untergang Alexanders: 11,1-19
-     :PROPERTIES:
-     :CUSTOM_ID: der-untergang-alexanders-111-19
-     :END:
+* Der Untergang Alexanders: 11,1-19
+
 1 Damals zog der König von Ägypten Truppen zusammen, so zahlreich wie
 der Sand am Ufer des Meeres, dazu viele Schiffe; denn er wollte mit List
 die Herrschaft über das Reich Alexanders gewinnen, um es seinem Reich
@@ -41,7 +34,7 @@ Abteilung seiner Truppen als Besatzung dort.
 4 Als er nach Aschdod zog, zeigte man ihm den niedergebrannten Tempel
 Dagons und die durch das Feuer verwüstete Stadt und Umgebung von
 Aschdod. Dazu häufte man an seinem Weg die Leichen der Erschlagenen und
-Verbrannten aus dem Krieg mit Jonatan auf. ^{[[#fn1][1]]}
+Verbrannten aus dem Krieg mit Jonatan auf. [fn:1]
 
 <<v5>>
 5 Man erzählte dem König, was Jonatan getan hatte, um ihn in ein
@@ -57,8 +50,7 @@ dann kehrte er nach Jerusalem zurück.
 
 <<v8>>
 8 König Ptolemäus aber brachte alle Küstenstädte bis nach Seleuzia am
-Meer in seine Gewalt; denn er führte gegen Alexander Böses im Schild.
-^{[[#fn2][2]]}
+Meer in seine Gewalt; denn er führte gegen Alexander Böses im Schild. [fn:2]
 
 <<v9>>
 9 Dem König Demetrius ließ er durch Gesandte mitteilen: Wir wollen einen
@@ -110,10 +102,8 @@ niedergemacht.
 \\
 
 <<v20>>
-**** Das Bündnis zwischen Jonatan und Demetrius II.: 11,20-37
-     :PROPERTIES:
-     :CUSTOM_ID: das-bündnis-zwischen-jonatan-und-demetrius-ii.-1120-37
-     :END:
+* Das Bündnis zwischen Jonatan und Demetrius II.: 11,20-37
+
 20 Zur selben Zeit rief Jonatan die Männer von Judäa zusammen, um die
 Burg von Jerusalem zu belagern. Sie stellten viele Belagerungsmaschinen
 gegen sie auf.
@@ -181,7 +171,7 @@ Efraim, Lod und Ramatajim. Diese sind mit allem, was zu ihnen gehört,
 von Samarien abgetrennt und zu Judäa geschlagen worden. Für alle, die in
 Jerusalem opfern, gelte das als Ersatz für die königlichen Steuern, die
 der König bei ihnen bisher jährlich von den Erträgen der Felder und
-Bäume erhoben hat. ^{[[#fn3][3]]}
+Bäume erhoben hat. [fn:3]
 
 <<v35>>
 35 Wir überlassen ihnen auch alle unsere anderen Einkünfte, den Zehnten
@@ -198,10 +188,8 @@ aufgestellt werden.\\
 \\
 
 <<v38>>
-**** Jonatans Hilfe für Demetrius II.: 11,38-51
-     :PROPERTIES:
-     :CUSTOM_ID: jonatans-hilfe-für-demetrius-ii.-1138-51
-     :END:
+* Jonatans Hilfe für Demetrius II.: 11,38-51
+
 38 Als König Demetrius feststellte, dass unter seiner Herrschaft im Land
 Ruhe herrschte und dass niemand sich ihm widersetzte, schickte er alle
 seine Soldaten nach Hause, außer den Söldnertruppen, die er bei den
@@ -273,10 +261,8 @@ Jerusalem zurück.\\
 \\
 
 <<v52>>
-**** Jonatans Parteinahme für Antiochus VI.: 11,52-74
-     :PROPERTIES:
-     :CUSTOM_ID: jonatans-parteinahme-für-antiochus-vi.-1152-74
-     :END:
+* Jonatans Parteinahme für Antiochus VI.: 11,52-74
+
 52 König Demetrius hatte die Macht wieder fest in seiner Hand und das
 Land war ruhig unter seiner Herrschaft.
 
@@ -287,7 +273,7 @@ ihm hart zu.
 
 <<v54>>
 54 Danach kehrte Tryphon mit dem kleinen Antiochus zurück. Der Knabe
-trat die Herrschaft an und setzte sich die Krone auf. ^{[[#fn4][4]]}
+trat die Herrschaft an und setzte sich die Krone auf. [fn:4]
 
 <<v55>>
 55 Alle Truppen, die Demetrius davongejagt hatte, schlossen sich ihm an.
@@ -316,7 +302,7 @@ Standort hatten.
 und wandte sich dann gegen die Städte in der Küstenebene. Alle Truppen
 in Syrien schlossen sich ihm als Verbündete an. Als er vor Aschkelon
 erschien, bereiteten ihm die Bürger vor der Stadt einen glänzenden
-Empfang. ^{[[#fn5][5]]}
+Empfang. [fn:5]
 
 <<v61>>
 61 Von dort zog er nach Gaza. Doch die Einwohner von Gaza schlossen die
@@ -382,13 +368,15 @@ der Feinde bei Kedesch erreichten. Dort machten sie Halt.
 Darauf kehrte Jonatan nach Jerusalem zurück.\\
 \\
 
-^{[[#fnm1][1]]} ℘ 10,84f
+* Footnotes
 
-^{[[#fnm2][2]]} Seleuzia am Meer: Hafen der Stadt Antiochia.
+[fn:1] [[file:1.Makk_10.org::v84][10,84f]]
 
-^{[[#fnm3][3]]} ℘ 10,38
+[fn:2] Seleuzia am Meer: Hafen der Stadt Antiochia.
 
-^{[[#fnm4][4]]} Der «kleine Antiochus» ist Antiochus VI. Dionysos.
+[fn:3] [[file:1.Makk_10.org::v38][10,38]]
 
-^{[[#fnm5][5]]} Gemeint ist das Gebiet westlich des Eufrat; vgl. die
-Anmerkung zu 2 Sam 10,16.
+[fn:4] Der «kleine Antiochus» ist Antiochus VI. Dionysos.
+
+[fn:5] Gemeint ist das Gebiet westlich des Eufrat; vgl. die
+Anmerkung zu [[file:2.Sam_10.org::v16][2 Sam 10,16]].

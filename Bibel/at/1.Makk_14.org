@@ -1,21 +1,17 @@
-:PROPERTIES:
-:ID:       6c81c46f-dbca-4440-85df-494dfc2fb11b
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das erste Buch der Makkabäer* --
-[[file:1.Makk_1.html][1]] ... [[file:1.Makk_12.html][12]]
-[[file:1.Makk_13.html][13]] *14* [[file:1.Makk_15.html][15]]
-[[file:1.Makk_16.html][16]]
-
---------------
-
-* 1.Makk 14
-  :PROPERTIES:
-  :CUSTOM_ID: makk-14
-  :END:
+#+TITLE: 1 Makk 14 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-27 Mo 13:18]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Makk 14.html
 
 <<verses>>
+* 1.Makk 14
 
 <<v1>>
 1 Im Jahr 172 zog König Demetrius seine Truppen zusammen und brach nach
@@ -24,7 +20,7 @@ Medien auf, um Hilfstruppen für den Kampf gegen Tryphon zu gewinnen.
 <<v2>>
 2 Als Arsakes, der König von Persien und Medien, erfuhr, dass Demetrius
 in sein Gebiet eingedrungen war, sandte er einen seiner Feldherren mit
-dem Auftrag aus, Demetrius lebendig gefangen zu nehmen. ^{[[#fn1][1]]}
+dem Auftrag aus, Demetrius lebendig gefangen zu nehmen. [fn:1]
 
 <<v3>>
 3 Der Feldherr machte sich auf den Weg, schlug das Heer des Demetrius,
@@ -33,14 +29,12 @@ warf.\\
 \\
 
 <<v4>>
-**** Das Loblied auf Simeon: 14,4-15
-     :PROPERTIES:
-     :CUSTOM_ID: das-loblied-auf-simeon-144-15
-     :END:
+* Das Loblied auf Simeon: 14,4-15
+
 4 Das Land Judäa hatte Ruhe, solange Simeon lebte. /\\
  Er sorgte für das Wohl seines Volkes. /\\
  Sie freuten sich jeden Tag über seine Macht /\\
- und seinen Ruhm. ^{[[#fn2][2]]}\\
+ und seinen Ruhm. [fn:2]\\
 \\
 
 <<v5>>
@@ -50,7 +44,7 @@ warf.\\
 
 <<v6>>
 6 Er erweiterte das Gebiet seines Volkes /\\
- und gewann die Herrschaft über das ganze Land. ^{[[#fn3][3]]}\\
+ und gewann die Herrschaft über das ganze Land. [fn:3]\\
 \\
 
 <<v7>>
@@ -63,14 +57,14 @@ warf.\\
 <<v8>>
 8 Sie bebauten in Frieden ihr Land; /\\
  der Boden gab seinen Ertrag, /\\
- die Bäume auf dem Feld ihre Frucht. ^{[[#fn4][4]]}\\
+ die Bäume auf dem Feld ihre Frucht. [fn:4]\\
 \\
 
 <<v9>>
 9 Auf den Plätzen saßen die Alten; /\\
  alle sprachen über ihr Glück. /\\
  Die jungen Männer /\\
- gingen im Schmuck ihrer Waffen umher. ^{[[#fn5][5]]}\\
+ gingen im Schmuck ihrer Waffen umher. [fn:5]\\
 \\
 
 <<v10>>
@@ -86,7 +80,7 @@ warf.\\
 
 <<v12>>
 12 Jeder saß unter seinem Weinstock und seinem Feigenbaum /\\
- und niemand schreckte sie auf. ^{[[#fn6][6]]}\\
+ und niemand schreckte sie auf. [fn:6]\\
 \\
 
 <<v13>>
@@ -97,7 +91,7 @@ warf.\\
 <<v14>>
 14 Er stärkte alle Schwachen im Land /\\
  und setzte sich ein für das Gesetz. /\\
- Alle Verräter und Sünder aber rottete er aus. ^{[[#fn7][7]]}\\
+ Alle Verräter und Sünder aber rottete er aus. [fn:7]\\
 \\
 
 <<v15>>
@@ -106,10 +100,8 @@ warf.\\
 \\
 
 <<v16>>
-**** Die Erneuerung der Bündnisse mit Sparta und Rom: 14,16-24
-     :PROPERTIES:
-     :CUSTOM_ID: die-erneuerung-der-bündnisse-mit-sparta-und-rom-1416-24
-     :END:
+* Die Erneuerung der Bündnisse mit Sparta und Rom: 14,16-24
+
 16 Als man in Rom - und auch in Sparta - erfuhr, dass Jonatan tot war,
 war man sehr bestürzt.
 
@@ -121,7 +113,7 @@ seiner Hand,
 <<v18>>
 18 schrieben sie ihm auf Bronzetafeln einen Brief und boten ihm an, das
 Freundschaftsbündnis mit ihm zu erneuern, das sie mit seinen Brüdern
-Judas und Jonatan geschlossen hatten. ^{[[#fn8][8]]}
+Judas und Jonatan geschlossen hatten. [fn:8]
 
 <<v19>>
 19 Diese Botschaft wurde vor der Volksversammlung in Jerusalem verlesen.
@@ -152,14 +144,12 @@ sie an den Hohenpriester Simeon.
 <<v24>>
 24 Danach sandte Simeon den Numenius mit einem großen goldenen Schild,
 der tausend Minen wog, nach Rom, um das Bündnis mit den Römern zu
-bekräftigen. ^{[[#fn9][9]]}\\
+bekräftigen. [fn:9]\\
 \\
 
 <<v25>>
-**** Die Bestätigung Simeons durch das jüdische Volk: 14,25-49
-     :PROPERTIES:
-     :CUSTOM_ID: die-bestätigung-simeons-durch-das-jüdische-volk-1425-49
-     :END:
+* Die Bestätigung Simeons durch das jüdische Volk: 14,25-49
+
 25 Als man im Volk davon erfuhr, sagte man: Wie können wir Simeon und
 seinen Söhnen danken?
 
@@ -172,7 +162,7 @@ Bronzetafeln an, die man auf dem Berg Zion an Säulen befestigte
 <<v27>>
 27 und auf denen folgendes stand: Am achtzehnten Tag des Monats Elul im
 Jahr 172 - das ist im dritten Jahr der Regierung des großen
-Hohenpriesters Simeon in Asaramel - ^{[[#fn10][10]]}
+Hohenpriesters Simeon in Asaramel - [fn:10]
 
 <<v28>>
 28 wurde auf der großen Versammlung der Priester, des Volkes, der Führer
@@ -240,8 +230,7 @@ bereitet hatte.
 
 <<v41>>
 41 Darum beschlossen die Juden und ihre Priester, Simeon solle für immer
-ihr Anführer und Hoherpriester sein, bis ein wahrer Prophet auftrete.
-^{[[#fn11][11]]}
+ihr Anführer und Hoherpriester sein, bis ein wahrer Prophet auftrete. [fn:11]
 
 <<v42>>
 42 Auch solle er ihr Befehlshaber sein und für das Heiligtum Sorge
@@ -270,7 +259,7 @@ erlassen.
 <<v47>>
 47 Simeon nahm an; er willigte ein, Hoherpriester, Befehlshaber und
 Fürst der Juden und ihrer Priester zu sein und in allem den Vorsitz zu
-führen. ^{[[#fn12][12]]}
+führen. [fn:12]
 
 <<v48>>
 48 Sie ließen diese Urkunde auf Bronzetafeln schreiben und im Vorhof des
@@ -281,30 +270,32 @@ Tempels für alle sichtbar aufstellen.
 Söhne zu hinterlegen.\\
 \\
 
-^{[[#fnm1][1]]} Arsakes ist Mitridates I. (171-138 v. Chr.), der Gründer
+* Footnotes
+
+[fn:1] Arsakes ist Mitridates I. (171-138 v. Chr.), der Gründer
 des Partherreiches; er entriss Demetrius Medien und Persien.
 
-^{[[#fnm2][2]]} ℘ Ri 2,18; 3,11
+[fn:2] [[file:Ri_2.org::v18][Ri 2,18]]; [[file:Ri_3.org::v11][3,11]]
 
-^{[[#fnm3][3]]} ℘ Ex 34,24; Jes 54,2f
+[fn:3] [[file:Ex_34.org::v24][Ex 34,24]]; [[file:Jes_54.org::v2][Jes 54,2f]]
 
-^{[[#fnm4][4]]} ℘ Sach 8,12
+[fn:4] [[file:Sach_8.org::v12][Sach 8,12]]
 
-^{[[#fnm5][5]]} ℘ Sach 8,4f
+[fn:5] [[file:Sach_8.org::v4][Sach 8,4f]]
 
-^{[[#fnm6][6]]} ℘ Mi 4,4
+[fn:6] [[file:Mi_4.org::v4][Mi 4,4]]
 
-^{[[#fnm7][7]]} ℘ Ps 72,4
+[fn:7] [[file:Ps_72.org::v4][Ps 72,4]]
 
-^{[[#fnm8][8]]} ℘ 8,17-32; 12,3
+[fn:8] [[file:1.Makk_8.org::v17][8,17]]-[[file:1.Makk_8.org::v32][32]]; [[file:1.Makk_12.org::v3][12,3]]
 
-^{[[#fnm9][9]]} ℘ 15,15
+[fn:9] [[file:1.Makk_15.org::v15][15,15]]
 
-^{[[#fnm10][10]]} Asaramel ist hebräisch; es heißt entweder «Vorhof des
+[fn:10] Asaramel ist hebräisch; es heißt entweder «Vorhof des
 Volkes Gottes» oder ist verderbt aus sar-am-el (Fürst des Volkes
 Gottes).
 
-^{[[#fnm11][11]]} ℘ 4,46
+[fn:11] [[file:1.Makk_4.org::v46][4,46]]
 
-^{[[#fnm12][12]]} Diese Titelverleihung bedeutet einen großen Schritt
+[fn:12] Diese Titelverleihung bedeutet einen großen Schritt
 hin zur Autonomie.

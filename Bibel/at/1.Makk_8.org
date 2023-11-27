@@ -1,36 +1,29 @@
-:PROPERTIES:
-:ID:       1b76b9ee-1c61-4640-81c7-6cb5234556d0
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das erste Buch der Makkabäer* --
-[[file:1.Makk_1.html][1]] ... [[file:1.Makk_6.html][6]]
-[[file:1.Makk_7.html][7]] *8* [[file:1.Makk_9.html][9]]
-[[file:1.Makk_10.html][10]] ... [[file:1.Makk_16.html][16]]
-
---------------
-
-* 1.Makk 8
-  :PROPERTIES:
-  :CUSTOM_ID: makk-8
-  :END:
+#+TITLE: 1 Makk 8 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-27 Mo 12:48]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Makk 8.html
 
 <<verses>>
 
 <<v1>>
-**** Das Bündnis des Judas mit Rom: 8,1-32
-     :PROPERTIES:
-     :CUSTOM_ID: das-bündnis-des-judas-mit-rom-81-32
-     :END:
+* Das Bündnis des Judas mit Rom: 8,1-32
+
 1 Judas hörte, wie man von den Römern erzählte, sie seien geübt im
 Kriegführen, erwiesen allen, die zu ihnen hielten, Wohlwollen und
 schlössen Freundschaft mit jedem, der sie darum bitte. Sie seien in der
-Tat kriegstüchtige Männer. ^{[[#fn1][1]]}
+Tat kriegstüchtige Männer. [fn:1]
 
 <<v2>>
 2 Man berichtete ihm auch von ihren Feldzügen und von ihren kühnen
 Unternehmungen gegen die Galater, die sie unterworfen und
-tributpflichtig gemacht hatten, ^{[[#fn2][2]]}
+tributpflichtig gemacht hatten, [fn:2]
 
 <<v3>>
 3 ebenso von ihren Taten in Spanien: Dort hatten sie die Silber- und
@@ -105,7 +98,7 @@ gehorchen dem einen, ohne dass es Neid oder Eifersucht unter ihnen gibt.
 <<v17>>
 17 Judas wählte Eupolemus, den Sohn Johanans und Enkel des Koz, aus,
 sowie Jason, den Sohn Eleasars, und schickte sie nach Rom, um mit den
-Römern ein Freundschafts- und Waffenbündnis zu schließen, ^{[[#fn3][3]]}
+Römern ein Freundschafts- und Waffenbündnis zu schließen, [fn:3]
 
 <<v18>>
 18 damit das Joch von Judäa genommen werde; denn die Römer sahen ja, wie
@@ -162,7 +155,7 @@ Juden geschlossen haben.
 <<v30>>
 30 Wenn später die beiden Parteien etwas hinzufügen oder streichen
 wollen, können sie es nach ihrem Belieben tun. Die Zusätze oder
-Streichungen werden gültig sein. ^{[[#fn4][4]]}
+Streichungen werden gültig sein. [fn:4]
 
 <<v31>>
 31 Dem König Demetrius aber haben wir geschrieben wegen des Unrechts,
@@ -175,13 +168,15 @@ wir ihnen zu ihrem Recht und führen gegen dich Krieg zu Wasser und zu
 Land.\\
 \\
 
-^{[[#fnm1][1]]} 1-16: Das Lob auf die Römer steht in betontem Gegensatz
+* Footnotes
+
+[fn:1] 1-16: Das Lob auf die Römer steht in betontem Gegensatz
 zur Abneigung gegen die Griechen.
 
-^{[[#fnm2][2]]} Galater: jene Gallier, die um 200 v. Chr. südlich der
+[fn:2] Galater: jene Gallier, die um 200 v. Chr. südlich der
 Alpen wohnten.
 
-^{[[#fnm3][3]]} ℘ 12,1f; 15,15; 2 Makk 4,11
+[fn:3] [[file:1.Makk_12.org::v1][12,1f]]; [[file:1.Makk_15.org::v15][15,15]]; [[file:2.Makk_4.org::v11][2 Makk 4,11]]
 
-^{[[#fnm4][4]]} Der Vertrag entspricht der Politik des römischen Senats.
+[fn:4] Der Vertrag entspricht der Politik des römischen Senats.
 Den Juden brachte er kaum einen Vorteil.

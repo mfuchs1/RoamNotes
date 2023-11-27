@@ -1,30 +1,23 @@
-:PROPERTIES:
-:ID:       74fa952e-74d6-4a6e-92c6-21929a18d5a1
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das erste Buch der Makkabäer* --
-[[file:1.Makk_1.html][1]] ... [[file:1.Makk_8.html][8]]
-[[file:1.Makk_9.html][9]] *10* [[file:1.Makk_11.html][11]]
-[[file:1.Makk_12.html][12]] ... [[file:1.Makk_16.html][16]]
-
---------------
-
-* 1.Makk 10
-  :PROPERTIES:
-  :CUSTOM_ID: makk-10
-  :END:
+#+TITLE: 1 Makk 10 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-27 Mo 12:59]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Makk 10.html
 
 <<verses>>
 
 <<v1>>
-**** Das Bündnisangebot des Demetrius I.: 10,1-14
-     :PROPERTIES:
-     :CUSTOM_ID: das-bündnisangebot-des-demetrius-i.-101-14
-     :END:
+* Das Bündnisangebot des Demetrius I.: 10,1-14
+
 1 Im Jahr 160 zog Alexander Epiphanes, der Sohn des Antiochus, gegen
 Ptolemaïs und besetzte es. Die Einwohner nahmen ihn auf und er trat dort
-die Herrschaft an. ^{[[#fn1][1]]}
+die Herrschaft an. [fn:1]
 
 <<v2>>
 2 Als König Demetrius das hörte, sammelte er viele Truppen und zog gegen
@@ -65,8 +58,7 @@ Bauarbeiten und Ausbesserungen.
 
 <<v11>>
 11 Er gab den Handwerkern den Auftrag, den Berg Zion und die Stadtmauern
-mit Quadersteinen zu befestigen. Das führten sie auch aus.
-^{[[#fn2][2]]}
+mit Quadersteinen zu befestigen. Das führten sie auch aus. [fn:2]
 
 <<v12>>
 12 Darauf flohen die Fremden aus den Festungen, die Bakchides erbaut
@@ -81,10 +73,8 @@ abgefallen waren, einige zurück; dort fanden sie nämlich Zuflucht.\\
 \\
 
 <<v15>>
-**** Die Einsetzung Jonatans zum Hohenpriester durch Alexander: 10,15-21
-     :PROPERTIES:
-     :CUSTOM_ID: die-einsetzung-jonatans-zum-hohenpriester-durch-alexander-1015-21
-     :END:
+* Die Einsetzung Jonatans zum Hohenpriester durch Alexander: 10,15-21
+
 15 König Alexander erfuhr, was Demetrius Jonatan alles zugesichert
 hatte. Man berichtete ihm auch von den Kriegen und den Heldentaten
 Jonatans und seiner Brüder und von den zahlreichen Mühen, die sie auf
@@ -109,19 +99,17 @@ unser Freund zu sein.
 20 Darum ernennen wir dich heute zum Hohenpriester über dein Volk; du
 darfst den Titel Freund des Königs führen. Halte zu uns und bewahre uns
 die Freundschaft! Zugleich übersandte er ihm den Purpurmantel und einen
-goldenen Kranz. ^{[[#fn3][3]]}
+goldenen Kranz. [fn:3]
 
 <<v21>>
 21 Im siebten Monat des Jahres 160 legte Jonatan am Laubhüttenfest das
 heilige Gewand an. Er hob Truppen aus und verschaffte sich eine Menge
-Waffen. ^{[[#fn4][4]]}\\
+Waffen. [fn:4]\\
 \\
 
 <<v22>>
-**** Die Zugeständnisse des Demetrius I. an Jonatan: 10,22-45
-     :PROPERTIES:
-     :CUSTOM_ID: die-zugeständnisse-des-demetrius-i.-an-jonatan-1022-45
-     :END:
+* Die Zugeständnisse des Demetrius I. an Jonatan: 10,22-45
+
 22 Als Demetrius davon hörte, war er bestürzt. Er sagte: Was haben wir
 da gemacht!
 
@@ -153,7 +141,7 @@ machen.
 
 <<v29>>
 29 Von heute an erkläre ich euch für frei und erlasse allen Juden die
-Kopfsteuer, die Salzsteuer und die Lieferung der Kränze. ^{[[#fn5][5]]}
+Kopfsteuer, die Salzsteuer und die Lieferung der Kränze. [fn:5]
 
 <<v30>>
 30 Von heute an verzichte ich für immer auf den dritten Teil der Erträge
@@ -198,7 +186,7 @@ Gesetzen leben, ganz so, wie es der König für Judäa angeordnet hat.
 <<v38>>
 38 Die drei Bezirke, die von der Provinz Samarien abgetrennt und Judäa
 angeschlossen worden sind, sollen unter gemeinsamer Verwaltung zu Judäa
-gehören und nur dem Hohenpriester unterstellt sein. ^{[[#fn6][6]]}
+gehören und nur dem Hohenpriester unterstellt sein. [fn:6]
 
 <<v39>>
 39 Ptolemaïs und das angrenzende Gebiet vermache ich als Geschenk dem
@@ -236,10 +224,8 @@ schließlich auch die Mauerbauten in Judäa.\\
 \\
 
 <<v46>>
-**** Das Bündnis zwischen Jonatan und Alexander: 10,46-66
-     :PROPERTIES:
-     :CUSTOM_ID: das-bündnis-zwischen-jonatan-und-alexander-1046-66
-     :END:
+* Das Bündnis zwischen Jonatan und Alexander: 10,46-66
+
 46 Als Jonatan und das Volk diese Versprechungen hörten, glaubten sie
 ihnen nicht und gingen nicht darauf ein; denn sie dachten an das große
 Unheil, das er in Israel angerichtet, und in welche Not er sie gebracht
@@ -293,7 +279,7 @@ verschwägern, wie du geschrieben hast.
 
 <<v57>>
 57 Ptolemäus verließ Ägypten und nahm seine Tochter Kleopatra mit sich.
-Im Jahr 162 kam er nach Ptolemaïs. ^{[[#fn7][7]]}
+Im Jahr 162 kam er nach Ptolemaïs. [fn:7]
 
 <<v58>>
 58 Als König Alexander mit ihm zusammenkam, gab er ihm seine Tochter zur
@@ -338,10 +324,8 @@ zurück.\\
 \\
 
 <<v67>>
-**** Sieg Jonatans über ein Heer des Demetrius II.: 10,67-89
-     :PROPERTIES:
-     :CUSTOM_ID: sieg-jonatans-über-ein-heer-des-demetrius-ii.-1067-89
-     :END:
+* Sieg Jonatans über ein Heer des Demetrius II.: 10,67-89
+
 67 Im Jahr 165 kam Demetrius, der Sohn des Demetrius, aus Kreta in das
 Land seiner Väter.
 
@@ -367,7 +351,7 @@ bei mir befinden sich die Truppen aus den Städten.
 72 Frag doch nach und erkundige dich, wer ich bin und wer die Leute
 sind, die auf meiner Seite stehen. Man wird dir sagen, dass ihr uns
 nicht standhalten könnt. Schon zweimal wurden deine Vorfahren in ihrem
-Land in die Flucht geschlagen. ^{[[#fn8][8]]}
+Land in die Flucht geschlagen. [fn:8]
 
 <<v73>>
 73 In der Ebene wirst du dich auch diesmal gegen die Reiterei und gegen
@@ -419,7 +403,7 @@ von ihm in die Flucht geschlagen.
 <<v83>>
 83 Die Reiterei wurde über die ganze Ebene hin zersprengt und floh nach
 Aschdod; sie gingen in den Tempel Dagons, ihres Götzenbildes, um sich zu
-retten. ^{[[#fn9][9]]}
+retten. [fn:9]
 
 <<v84>>
 84 Jonatan steckte Aschdod und die Nachbarorte in Brand und plünderte
@@ -444,31 +428,32 @@ zurück.
 <<v89>>
 89 Er übersandte ihm eine goldene Spange, wie man sie Angehörigen der
 königlichen Familie verleiht; auch übergab er ihm die Stadt Ekron mit
-ihrem ganzen Gebiet zum Besitz. ^{[[#fn10][10]]}\\
+ihrem ganzen Gebiet zum Besitz. [fn:10]\\
 \\
 
-^{[[#fnm1][1]]} Alexander hieß in Wirklichkeit Balas; er gab sich als
+* Footnotes
+
+[fn:1] Alexander hieß in Wirklichkeit Balas; er gab sich als
 Sohn des Epiphanes aus und hatte mit dieser Täuschung Erfolg. - Zu
 Ptolemaïs: vgl. die Anmerkung zu 5,15.
 
-^{[[#fnm2][2]]} ℘ 2 Sam 5,9
+[fn:2] [[file:2.Sam_5.org::v9][2 Sam 5,9]]
 
-^{[[#fnm3][3]]} So vereinigt Jonatan das Amt des Hohenpriesters, des
+[fn:3] So vereinigt Jonatan das Amt des Hohenpriesters, des
 weltlichen Oberhauptes und des Heerführers in seiner Person.
 
-^{[[#fnm4][4]]} Nach der griechisch-seleuzidischen Zeitrechnung, d.h.
-152 v. Chr.
+[fn:4] Nach der griechisch-seleuzidischen Zeitrechnung, d.h. 152 v. Chr.
 
-^{[[#fnm5][5]]} Unter «Kränzen» verstand man Geschenke, die dem
+[fn:5] Unter «Kränzen» verstand man Geschenke, die dem
 Herrscher gemacht wurden.
 
-^{[[#fnm6][6]]} ℘ 10,31; 11,28-34
+[fn:6] [[v31][10,31]]; [[file:1.Makk_11.org::v28][11,28]]-[[file:1.Makk_11.org::v34][34]]
 
-^{[[#fnm7][7]]} 57f: Kleopatra: Tochter des Ptolemäus VI. Philometor.
+[fn:7] 57f: Kleopatra: Tochter des Ptolemäus VI. Philometor.
 
-^{[[#fnm8][8]]} ℘ 1 Sam 4,1-11
+[fn:8] [[file:1.Sam_4.org::v1][1 Sam 4,1]]-[[file:1.Sam_4.org::v11][11]]
 
-^{[[#fnm9][9]]} ℘ 1 Sam 5,1-5
+[fn:9] [[file:1.Sam_5.org::v1][1 Sam 5,1]]-[[file:1.Sam_5.org::v5][5]]
 
-^{[[#fnm10][10]]} Die «Angehörigen der königlichen Familie» sind eine
+[fn:10] Die «Angehörigen der königlichen Familie» sind eine
 Ehrenklasse, die höher als die «Freunde des Königs» stehen.

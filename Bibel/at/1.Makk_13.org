@@ -1,19 +1,16 @@
-:PROPERTIES:
-:ID:       5efc34bb-6387-4a6a-b42a-e29119a6dce4
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das erste Buch der Makkabäer* --
-[[file:1.Makk_1.html][1]] ... [[file:1.Makk_11.html][11]]
-[[file:1.Makk_12.html][12]] *13* [[file:1.Makk_14.html][14]]
-[[file:1.Makk_15.html][15]] [[file:1.Makk_16.html][16]]
-
---------------
+#+TITLE: 1 Makk 13 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-27 Mo 13:14]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Makk 13.html
 
 * 1.Makk 13
-  :PROPERTIES:
-  :CUSTOM_ID: makk-13
-  :END:
 
 <<verses>>
 
@@ -66,10 +63,8 @@ Heer nach Jafo. Dieser vertrieb die Einwohner und blieb in der Stadt.\\
 \\
 
 <<v12>>
-**** Tryphons Feldzug gegen Jerusalem und Jonatans Tod: 13,12-30
-     :PROPERTIES:
-     :CUSTOM_ID: tryphons-feldzug-gegen-jerusalem-und-jonatans-tod-1312-30
-     :END:
+* Tryphons Feldzug gegen Jerusalem und Jonatans Tod: 13,12-30
+
 12 Tryphon brach mit einem großen Heer von Ptolemaïs auf, um in Judäa
 einzufallen. Jonatan nahm er als Gefangenen mit sich.
 
@@ -106,8 +101,7 @@ sich, dass Tryphon ein Lügner war; denn er ließ Jonatan nicht frei.
 <<v20>>
 20 Danach rückte Tryphon heran, um in Judäa einzufallen und es zu
 verwüsten. Er machte dabei einen Umweg über Adora; aber Simeon trat ihm
-mit seinem Heer überall entgegen, wo er ins Land eindringen wollte.
-^{[[#fn1][1]]}
+mit seinem Heer überall entgegen, wo er ins Land eindringen wollte. [fn:1]
 
 <<v21>>
 21 Die Besatzung der Burg von Jerusalem schickte Boten zu Tryphon, die
@@ -153,12 +147,9 @@ Denkmal sollte für alle sichtbar sein, die auf dem Meer vorüberfahren.
 \\
 
 <<v31>>
-**** Das Bündnis zwischen Simeon und Demetrius II.: 13,31-42
-     :PROPERTIES:
-     :CUSTOM_ID: das-bündnis-zwischen-simeon-und-demetrius-ii.-1331-42
-     :END:
-31 Tryphon ließ den jungen König Antiochus heimtückisch ermorden,
-^{[[#fn2][2]]}
+* Das Bündnis zwischen Simeon und Demetrius II.: 13,31-42
+
+31 Tryphon ließ den jungen König Antiochus heimtückisch ermorden, [fn:2]
 
 <<v32>>
 32 trat seine Nachfolge an und setzte sich die Krone von Asien auf. Er
@@ -202,8 +193,7 @@ zu tun, sollen sie angenommen werden. Zwischen uns soll Friede
 herrschen.
 
 <<v41>>
-41 Im Jahr 170 wurde das Joch der fremden Völker von Israel genommen.
-^{[[#fn3][3]]}
+41 Im Jahr 170 wurde das Joch der fremden Völker von Israel genommen. [fn:3]
 
 <<v42>>
 42 Das Volk begann, Urkunden und Verträge mit der Formel einzuleiten: Im
@@ -212,14 +202,12 @@ Führers der Juden.\\
 \\
 
 <<v43>>
-**** Die endgültige Befreiung Israels: 13,43 - 14,3
-     :PROPERTIES:
-     :CUSTOM_ID: die-endgültige-befreiung-israels-1343---143
-     :END:
+* Die endgültige Befreiung Israels: 13,43 - 14,3
+
 43 Damals zog Simeon nach Geser, schloss die Stadt mit seinen Truppen
 ein, errichtete einen Belagerungsturm und ließ ihn an die Stadt
 heranschieben. Man schlug eine Bresche in einen Turm der Stadtmauer und
-besetzte ihn. ^{[[#fn4][4]]}
+besetzte ihn. [fn:4]
 
 <<v44>>
 44 Dann sprang die Mannschaft des Belagerungsturms in die Stadt hinein.
@@ -249,11 +237,11 @@ Haus in der Stadt.
 49 Die Besatzung der Burg von Jerusalem war von jeder Verbindung mit dem
 Land abgeschnitten; sie konnten weder etwas kaufen noch etwas verkaufen
 und hatten fast nichts mehr zu essen; eine beträchtliche Anzahl von
-ihnen kam durch den Hunger um. ^{[[#fn5][5]]}
+ihnen kam durch den Hunger um. [fn:5]
 
 <<v50>>
 50 Da baten sie Simeon um Frieden. Er gewährte ihn, vertrieb sie aber
-von dort und entsühnte die Burg von jeder Befleckung. ^{[[#fn6][6]]}
+von dort und entsühnte die Burg von jeder Befleckung. [fn:6]
 
 <<v51>>
 51 Am dreiundzwanzigsten Tag des zweiten Monats im Jahr 171 zogen die
@@ -272,15 +260,17 @@ noch stärker befestigen und nahm mit seinem Gefolge Wohnung in der Burg.
 war, machte er ihn zum Befehlshaber aller Streitkräfte und Johanan ließ
 sich in Geser nieder.
 
-^{[[#fnm1][1]]} Adora: südwestlich von Hebron; schon Rehabeam hatte es
+* Footnotes
+
+[fn:1] Adora: südwestlich von Hebron; schon Rehabeam hatte es
 befestigt (vgl. 2 Chr 11,9).
 
-^{[[#fnm2][2]]} ℘ 12,39
+[fn:2] [[file:1.Makk_12.org::v39][12,39]]
 
-^{[[#fnm3][3]]} ℘ Jer 30,8
+[fn:3] [[file:Jer_30.org::v8][Jer 30,8]]
 
-^{[[#fnm4][4]]} ℘ (43 - 14,3) 2 Makk 10,32-38
+[fn:4] (43 - 14,3) [[file:2.Makk_10.org::v32][2 Makk 10,32]]-[[file:2.Makk_10.org::v38][38]]
 
-^{[[#fnm5][5]]} ℘ 12,36
+[fn:5] [[file:1.Makk_12.org::v36][12,36]]
 
-^{[[#fnm6][6]]} ℘ 1,33-36
+[fn:6] [[file:1.Makk_1.org::v33][1,33]]-[[file:1.Makk_1.org::v36][36]]

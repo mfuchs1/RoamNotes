@@ -1,30 +1,23 @@
-:PROPERTIES:
-:ID:       e70618af-d45b-4a08-a54b-95a66108a521
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das erste Buch der Makkabäer* --
-[[file:1.Makk_1.html][1]] ... [[file:1.Makk_10.html][10]]
-[[file:1.Makk_11.html][11]] *12* [[file:1.Makk_13.html][13]]
-[[file:1.Makk_14.html][14]] ... [[file:1.Makk_16.html][16]]
-
---------------
-
-* 1.Makk 12
-  :PROPERTIES:
-  :CUSTOM_ID: makk-12
-  :END:
+#+TITLE: 1 Makk 12 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-27 Mo 13:10]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/1 Makk 12.html
 
 <<verses>>
 
 <<v1>>
-**** Jonatans Bündnisse mit Rom und Sparta: 12,1-23
-     :PROPERTIES:
-     :CUSTOM_ID: jonatans-bündnisse-mit-rom-und-sparta-121-23
-     :END:
+* Jonatans Bündnisse mit Rom und Sparta: 12,1-23
+
 1 Als Jonatan sah, dass die Zeit für ihn günstig war, wählte er einige
 Männer aus und sandte sie nach Rom, um den Freundschaftsvertrag mit den
-Römern zu bestätigen und zu erneuern. ^{[[#fn1][1]][[#fn2][2]]}
+Römern zu bestätigen und zu erneuern. [fn:1] [fn:2]
 
 <<v2>>
 2 Auch nach Sparta und nach anderen Orten schickte er Briefe gleicher
@@ -50,7 +43,7 @@ das ganze jüdische Volk grüßen ihre Brüder, die Spartaner.
 <<v7>>
 7 Schon vor längerer Zeit hat euer König Arëus an den Hohenpriester
 Onias einen Brief gerichtet, in dem steht, dass ihr unsere Brüder seid,
-wie aus der Abschrift hervorgeht. ^{[[#fn3][3]]}
+wie aus der Abschrift hervorgeht. [fn:3]
 
 <<v8>>
 8 Onias empfing den Abgesandten ehrenvoll und nahm den Brief entgegen,
@@ -58,7 +51,7 @@ in dem ausdrücklich vom Freundschaftsbündnis die Rede war.
 
 <<v9>>
 9 So etwas haben wir zwar nicht nötig; denn unser Trost sind die
-heiligen Bücher, die wir besitzen. ^{[[#fn4][4]]}
+heiligen Bücher, die wir besitzen. [fn:4]
 
 <<v10>>
 10 Dennoch wollten wir diese Botschaft an euch senden und die
@@ -123,10 +116,8 @@ gibt.\\
 \\
 
 <<v24>>
-**** Der Feldzug gegen die Truppen des Demetrius II.: 12,24-34
-     :PROPERTIES:
-     :CUSTOM_ID: der-feldzug-gegen-die-truppen-des-demetrius-ii.-1224-34
-     :END:
+* Der Feldzug gegen die Truppen des Demetrius II.: 12,24-34
+
 24 Jonatan erfuhr, dass die Feldherren des Demetrius mit einem noch
 größeren Heer als zuvor zurückgekehrt waren, um gegen ihn zu kämpfen.
 
@@ -177,10 +168,8 @@ hinein, um die Stadt zu bewachen.\\
 \\
 
 <<v35>>
-**** Die Belagerung der Burg von Jerusalem durch Jonatan: 12,35-38
-     :PROPERTIES:
-     :CUSTOM_ID: die-belagerung-der-burg-von-jerusalem-durch-jonatan-1235-38
-     :END:
+* Die Belagerung der Burg von Jerusalem durch Jonatan: 12,35-38
+
 35 Als Jonatan zurückgekehrt war, ließ er die Ältesten des Volkes
 zusammenkommen und beriet mit ihnen über die Anlage von Festungen in
 Judäa.
@@ -198,17 +187,15 @@ gab ihr den Namen Kafnata.
 
 <<v38>>
 38 Simeon baute Hadid in der Schefela aus, befestigte es und versah es
-mit Toren und die Tore mit Querbalken zum Verriegeln. ^{[[#fn5][5]]}\\
+mit Toren und die Tore mit Querbalken zum Verriegeln. [fn:5]\\
 \\
 
 <<v39>>
-**** Der Verrat des Tryphon an Jonatan: 12,39-52
-     :PROPERTIES:
-     :CUSTOM_ID: der-verrat-des-tryphon-an-jonatan-1239-52
-     :END:
+* Der Verrat des Tryphon an Jonatan: 12,39-52
+
 39 Tryphon strebte nach der Herrschaft über Asien und wollte sich selbst
 die Königskrone aufsetzen; deshalb trachtete er König Antiochus nach dem
-Leben. ^{[[#fn6][6]]}
+Leben. [fn:6]
 
 <<v40>>
 40 Doch er fürchtete, dass Jonatan das nicht zulassen und Krieg gegen
@@ -253,7 +240,7 @@ mit dem Schwert.
 
 <<v49>>
 49 Tryphon entsandte außerdem Fußvolk und Reiterei nach Galiläa und in
-die Große Ebene, um alle Truppen Jonatans niederzumachen. ^{[[#fn7][7]]}
+die Große Ebene, um alle Truppen Jonatans niederzumachen. [fn:7]
 
 <<v50>>
 50 Als diese merkten, dass Jonatan mit seinen Begleitern den Feinden in
@@ -271,34 +258,32 @@ in großer Trauer.\\
 \\
 
 <<v53>>
-** Die Taten Simeons: 12,53 - 16,24
-   :PROPERTIES:
-   :CUSTOM_ID: die-taten-simeons-1253---1624
-   :END:
-**** Die Wahl Simeons zum Anführer Israels: 12,53 - 13,11
-     :PROPERTIES:
-     :CUSTOM_ID: die-wahl-simeons-zum-anführer-israels-1253---1311
-     :END:
+* Die Taten Simeons: 12,53 - 16,24
+
+* Die Wahl Simeons zum Anführer Israels: 12,53 - 13,11
+
 53 Alle Völker ringsum versuchten, Israel zu vernichten. Denn sie sagten
 sich: Sie haben keinen Führer und Helfer mehr. Nun wollen wir gegen sie
-kämpfen und die Erinnerung an sie austilgen. ^{[[#fn8][8]]}
+kämpfen und die Erinnerung an sie austilgen. [fn:8]
 
-^{[[#fnm1][1]]} ℘ (1-2) 8,17-32
+* Footnotes
 
-^{[[#fnm2][2]]} Die Römer hatten nichts zur Unterstützung des Judas
+[fn:1] (1-2) [[file:1.Makk_8.org::v17][8,17]]-[[file:1.Makk_8.org::v32][32]]
+
+[fn:2] Die Römer hatten nichts zur Unterstützung des Judas
 Makkabäus getan. Auch diese Gesandtschaft blieb ohne Erfolg.
 
-^{[[#fnm3][3]]} ℘ 2 Makk 5,9
+[fn:3] [[file:2.Makk_5.org::v9][2 Makk 5,9]]
 
-^{[[#fnm4][4]]} die heiligen Bücher: Gemeint sind die Schriften des
+[fn:4] die heiligen Bücher: Gemeint sind die Schriften des
 Alten Testaments, die um diese Zeit zum Kanon vereinigt werden.
 
-^{[[#fnm5][5]]} Schefela: der an die Küstenebene anschließende hügelige
+[fn:5] Schefela: der an die Küstenebene anschließende hügelige
 Landstreifen, der dem judäischen Bergland vorgelagert ist.
 
-^{[[#fnm6][6]]} ℘ 11,39f
+[fn:6] [[file:1.Makk_11.org::v39][11,39f]]
 
-^{[[#fnm7][7]]} die Große Ebene: die Ebene von Megiddo, auch die «Ebene
+[fn:7] die Große Ebene: die Ebene von Megiddo, auch die «Ebene
 Jesreel» genannt.
 
-^{[[#fnm8][8]]} ℘ 5,1f
+[fn:8] [[file:1.Makk_5.org::v1][5,1f]]
