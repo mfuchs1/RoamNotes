@@ -1,33 +1,25 @@
-:PROPERTIES:
-:ID:       ad953e14-b024-4e27-9ce8-583ca9055e61
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch der Makkabäer* -- *1*
-[[file:2.Makk_2.html][2]] [[file:2.Makk_3.html][3]] ...
-[[file:2.Makk_15.html][15]]
-
---------------
-
-* 2.Makk 1
-  :PROPERTIES:
-  :CUSTOM_ID: makk-1
-  :END:
+#+TITLE: 2 Makk 1 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-27 Mo 21:55]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Makk 1.html
 
 <<verses>>
 
 <<v1>>
-** Briefe der Juden Jerusalems an die Juden in Ägypten: 1,1 - 2,18
-   :PROPERTIES:
-   :CUSTOM_ID: briefe-der-juden-jerusalems-an-die-juden-in-ägypten-11---218
-   :END:
-**** Der erste Brief zum Tempelweihfest: 1,1-9
-     :PROPERTIES:
-     :CUSTOM_ID: der-erste-brief-zum-tempelweihfest-11-9
-     :END:
+* Briefe der Juden Jerusalems an die Juden in Ägypten: 1,1 - 2,18
+
+* Der erste Brief zum Tempelweihfest: 1,1-9
+
 1 Wir, eure Brüder, die Juden aus Jerusalem und aus dem Land Judäa,
 grüßen euch, unsere Brüder, die Juden, die in Ägypten wohnen, und
-wünschen euch Frieden. ^{[[#fn1][1]]}
+wünschen euch Frieden. [fn:1]
 
 <<v2>>
 2 Gott möge euch Gutes erweisen und seines Bundes gedenken, den er mit
@@ -51,25 +43,22 @@ in der Not.
 <<v7>>
 7 Unter der Regierung des Demetrius, im Jahr 169, haben wir Juden euch
 geschrieben: In der höchsten Not, die in diesen Jahren über uns kam, als
-Jason und sein Anhang vom Heiligen Land und vom Königreich abfielen,
-^{[[#fn2][2]][[#fn3][3]]}
+Jason und sein Anhang vom Heiligen Land und vom Königreich abfielen, [fn:2] [fn:3]
 
 <<v8>>
 8 verbrannten sie das Tempeltor und vergossen unschuldiges Blut. Wir
 aber beteten zum Herrn und er hat uns erhört. So konnten wir wieder
 Brand- und Speiseopfer darbringen; wir zündeten die Leuchter an und
-legten die Schaubrote aus. ^{[[#fn4][4]]}
+legten die Schaubrote aus. [fn:4]
 
 <<v9>>
 9 Und nun begeht die Tage des Laubhüttenfestes im Monat Kislew!
-Geschrieben im Jahr 188. ^{[[#fn5][5]]}\\
+Geschrieben im Jahr 188. [fn:5]\\
 \\
 
 <<v10>>
-**** Der zweite Brief zum Tempelweihfest: 1,10 - 2,18
-     :PROPERTIES:
-     :CUSTOM_ID: der-zweite-brief-zum-tempelweihfest-110---218
-     :END:
+* Der zweite Brief zum Tempelweihfest: 1,10 - 2,18
+
 10 Die Bewohner Jerusalems und Judäas, der Hohe Rat und Judas wünschen
 dem Aristobul, dem Lehrer des Königs Ptolemäus, aus dem Geschlecht der
 gesalbten Priester, und den Juden Ägyptens Glück und Heil.
@@ -80,12 +69,12 @@ So sind wir bereit, selbst mit einem König zu streiten.
 
 <<v12>>
 12 Gott selbst nämlich hat alle verjagt, die gegen die Heilige Stadt
-gekämpft haben. ^{[[#fn6][6]]}
+gekämpft haben. [fn:6]
 
 <<v13>>
 13 Denn als der Fürst mit seinem Heer, das als unüberwindlich galt, nach
 Persien zog, fanden sie im Tempel der Nanäa den Tod. Die Priester der
-Nanäa hatten sie nämlich überlistet. ^{[[#fn7][7]]}
+Nanäa hatten sie nämlich überlistet. [fn:7]
 
 <<v14>>
 14 Unter dem Vorwand, sich mit der Göttin zu vermählen, war Antiochus
@@ -119,8 +108,7 @@ wieder Opfer darbrachte.
 19 Denn als unsere Väter nach Persien in die Verbannung geführt wurden,
 nahmen die Priester, die fromm geblieben waren, etwas von dem Feuer des
 Altars mit und verbargen es heimlich im Schacht eines leeren Brunnens.
-Sie versteckten es so, dass die Stelle allen unbekannt blieb.
-^{[[#fn8][8]]}
+Sie versteckten es so, dass die Stelle allen unbekannt blieb. [fn:8]
 
 <<v20>>
 20 Darüber vergingen viele Jahre. Doch als es Gott gefiel, sandte der
@@ -169,7 +157,7 @@ sollen die Heiden erkennen, dass du unser Gott bist.
 
 <<v29>>
 29 Pflanz dein Volk an deinem heiligen Ort ein! Denn so hat es Mose
-zugesagt. ^{[[#fn9][9]]}
+zugesagt. [fn:9]
 
 <<v30>>
 30 Die Priester begleiteten die Loblieder, die man sang, mit Musik.
@@ -198,29 +186,31 @@ die, denen er wohlgesinnt war.
 
 <<v36>>
 36 Die Leute um Nehemia nannten das Wasser Neftar, das heißt: Reinigung.
-Bei den meisten aber heißt es Neftai. ^{[[#fn10][10]]}
+Bei den meisten aber heißt es Neftai. [fn:10]
 
-^{[[#fnm1][1]]} Seit langem gab es jüdische Kolonien in Ägypten. Die am
+* Footnotes
+
+[fn:1] Seit langem gab es jüdische Kolonien in Ägypten. Die am
 meisten bekannte in Elefantine geht bis in die Anfänge des 6. Jh. v.
 Chr. zurück.
 
-^{[[#fnm2][2]]} ℘ 1 Makk 10,67; 2 Makk 4,7-22
+[fn:2] [[file:1.Makk_10.org::v67][1 Makk 10,67]]; [[file:2.Makk_4.org::v7][2 Makk 4,7]]-[[file:2.Makk_4.org::v22][22]]
 
-^{[[#fnm3][3]]} 7.9: Das Jahr 169 entspricht dem Jahr 143 v. Chr., das
-Jahr 188 dem Jahr 124 v. Chr. (vgl. die Anmerkung zu 1 Makk 1,10).
+[fn:3] 7.9: Das Jahr 169 entspricht dem Jahr 143 v. Chr., das
+Jahr 188 dem Jahr 124 v. Chr. (vgl. die Anmerkung zu [[file:1.Makk_1.org::v10][1 Makk 1,10]]).
 
-^{[[#fnm4][4]]} ℘ 1 Makk 4,38
+[fn:4] [[file:1.Makk_4.org::v38][1 Makk 4,38]]
 
-^{[[#fnm5][5]]} Mit dem Laubhüttenfest im Monat Kislew (Dezember) ist in
+[fn:5] Mit dem Laubhüttenfest im Monat Kislew (Dezember) ist in
 Wirklichkeit das Tempelweihfest gemeint.
 
-^{[[#fnm6][6]]} ℘ (12f) 9,1-29
+[fn:6] (12f) [[file:2.Makk_9.org::v1][9,1]]-[[file:2.Makk_9.org::v9][29]]
 
-^{[[#fnm7][7]]} Der Tempel der Nanäa, vergleichbar dem der Artemis von
+[fn:7] Der Tempel der Nanäa, vergleichbar dem der Artemis von
 Ephesus, den Antiochus IV. berauben wollte, befand sich in Elymaïs.
 
-^{[[#fnm8][8]]} ℘ Lev 6,5
+[fn:8] [[file:Lev_6.org::v9][Lev 6,5]]
 
-^{[[#fnm9][9]]} ℘ Dtn 30,3-5
+[fn:9] [[file:Dtn_30.org::v3][Dtn 30,3]]-[[file:Dtn_30.org::v5][5]]
 
-^{[[#fnm10][10]]} Neftar (= Erdöl): Manche lesen Naftan, andere Nafta.
+[fn:10] Neftar (= Erdöl): Manche lesen Naftan, andere Nafta.
