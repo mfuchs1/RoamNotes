@@ -1,30 +1,22 @@
-:PROPERTIES:
-:ID:       ae25bef8-e948-49b1-807e-402f74fc22c1
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Ijob* -- [[file:Ijob_1.html][1]] ...
-[[file:Ijob_3.html][3]] [[file:Ijob_4.html][4]] *5*
-[[file:Ijob_6.html][6]] [[file:Ijob_7.html][7]] ...
-[[file:Ijob_42.html][42]]
-
---------------
-
-* Ijob 5
-  :PROPERTIES:
-  :CUSTOM_ID: ijob-5
-  :END:
+#+TITLE: Ijob 5 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-28 Di 23:15]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ijob 5.html
 
 <<verses>>
 
 <<v1>>
-**** Die Verantwortlichkeit des Menschen: 5,1-7
-     :PROPERTIES:
-     :CUSTOM_ID: die-verantwortlichkeit-des-menschen-51-7
-     :END:
+* Die Verantwortlichkeit des Menschen: 5,1-7
+
 1 Ruf doch! Ist einer, der dir Antwort gibt? /\\
- An wen von den Heiligen willst du dich wenden?
-^{[[#fn1][1]][[#fn2][2]]}\\
+ An wen von den Heiligen willst du dich wenden? [fn:1] [fn:2]\\
 \\
 
 <<v2>>
@@ -39,7 +31,7 @@
 
 <<v4>>
 4 Weit weg vom Heil sind seine Kinder, /\\
- werden zertreten im Tor, sind ohne Helfer. ^{[[#fn3][3]][[#fn4][4]]}\\
+ werden zertreten im Tor, sind ohne Helfer. [fn:3] [fn:4]\\
 \\
 
 <<v5>>
@@ -55,21 +47,19 @@
 
 <<v7>>
 7 sondern der Mensch ist zur Mühsal geboren, /\\
- wie Feuerfunken, die hochfliegen. ^{[[#fn5][5]]}\\
+ wie Feuerfunken, die hochfliegen. [fn:5]\\
 \\
 
 <<v8>>
-**** Die Unterwerfung unter Gott: 5,8-27
-     :PROPERTIES:
-     :CUSTOM_ID: die-unterwerfung-unter-gott-58-27
-     :END:
+* Die Unterwerfung unter Gott: 5,8-27
+
 8 Ich aber, ich würde Gott befragen /\\
  und Gott meine Sache vorlegen,\\
 \\
 
 <<v9>>
 9 der Großes und Unergründliches tut, /\\
- Wunder, die niemand zählen kann. ^{[[#fn6][6]]}\\
+ Wunder, die niemand zählen kann. [fn:6]\\
 \\
 
 <<v10>>
@@ -79,7 +69,7 @@
 
 <<v11>>
 11 um Niedere hoch zu erheben, /\\
- damit Trauernde glücklich werden. ^{[[#fn7][7]]}\\
+ damit Trauernde glücklich werden. [fn:7]\\
 \\
 
 <<v12>>
@@ -94,7 +84,7 @@
 
 <<v14>>
 14 Am hellen Tag stoßen sie auf Finsternis, /\\
- am Mittag tappen sie umher wie in der Nacht. ^{[[#fn8][8]]}\\
+ am Mittag tappen sie umher wie in der Nacht. [fn:8]\\
 \\
 
 <<v15>>
@@ -104,17 +94,17 @@
 
 <<v16>>
 16 Hoffnung wird den Geringen zuteil, /\\
- die Bosheit muss ihr Maul verschließen. ^{[[#fn9][9]]}\\
+ die Bosheit muss ihr Maul verschließen. [fn:9]\\
 \\
 
 <<v17>>
 17 Ja, wohl dem Mann, den Gott zurechtweist. /\\
- Die Zucht des Allmächtigen verschmähe nicht! ^{[[#fn10][10]]}\\
+ Die Zucht des Allmächtigen verschmähe nicht! [fn:10]\\
 \\
 
 <<v18>>
 18 Denn er verwundet und er verbindet, /\\
- er schlägt, doch seine Hände heilen auch. ^{[[#fn11][11]]}\\
+ er schlägt, doch seine Hände heilen auch. [fn:11]\\
 \\
 
 <<v19>>
@@ -124,12 +114,12 @@
 
 <<v20>>
 20 In Hungerzeiten rettet er dich vom Tod, /\\
- im Krieg aus der Gewalt des Schwertes. ^{[[#fn12][12]]}\\
+ im Krieg aus der Gewalt des Schwertes. [fn:12]\\
 \\
 
 <<v21>>
 21 Du bist geborgen vor der Geißel der Zunge, /\\
- brauchst nicht zu bangen, dass Verwüstung kommt. ^{[[#fn13][13]]}\\
+ brauchst nicht zu bangen, dass Verwüstung kommt. [fn:13]\\
 \\
 
 <<v22>>
@@ -139,7 +129,7 @@
 
 <<v23>>
 23 Mit den Steinen des Feldes bist du verbündet, /\\
- die Tiere des Feldes werden Frieden mit dir halten. ^{[[#fn14][14]]}\\
+ die Tiere des Feldes werden Frieden mit dir halten. [fn:14]\\
 \\
 
 <<v24>>
@@ -149,7 +139,7 @@
 
 <<v25>>
 25 Du wirst erfahren, dass deine Nachkommen zahlreich sind, /\\
- deine Sprösslinge wie das Gras der Erde. ^{[[#fn15][15]]}\\
+ deine Sprösslinge wie das Gras der Erde. [fn:15]\\
 \\
 
 <<v26>>
@@ -159,39 +149,40 @@
 
 <<v27>>
 27 Ja, das haben wir erforscht, so ist es. /\\
- Wir haben es gehört. Nimm auch du es an! ^{[[#fn16][16]]}\\
+ Wir haben es gehört. Nimm auch du es an! [fn:16]\\
 \\
 
-^{[[#fnm1][1]]} ℘ Ps 89,6
+* Footnotes
 
-^{[[#fnm2][2]]} Die «Heiligen» sind die Engel im Hofstaat Gottes (vgl.
-die Anmerkung zu 1,6).
+[fn:1] [[file:Ps_89.org::v6][Ps 89,6]]
 
-^{[[#fnm3][3]]} ℘ Ps 109,10
+[fn:2] Die «Heiligen» sind die Engel im Hofstaat Gottes (vgl.
+die Anmerkung zu [[file:Ijob_1.org::v6][1,6]]).
 
-^{[[#fnm4][4]]} Das Stadttor ist der Ort der Gerichtsverhandlung.
+[fn:3] [[file:ps109::v10][Ps 109,10]]
 
-^{[[#fnm5][5]]} ℘ Gen 3,17-19
+[fn:4] Das Stadttor ist der Ort der Gerichtsverhandlung.
 
-^{[[#fnm6][6]]} ℘ 9,10
+[fn:5] [[file:Gen_3.org::v17][Gen 3,17]]-[[file:Gen_3.org::v19][19]]
 
-^{[[#fnm7][7]]} ℘ 1 Sam 2,7f
+[fn:6] [[file:Ijob_9.org::v10][9,10]]
 
-^{[[#fnm8][8]]} ℘ Joh 12,35
+[fn:7] [[file:1.Sam_2.org::v7][1 Sam 2,7f]]
 
-^{[[#fnm9][9]]} ℘ Ps 107,42
+[fn:8] [[file:~/RoamNotes/notes/Bibel/nt/Joh_12.org::v35][Joh 12,35]]
 
-^{[[#fnm10][10]]} ℘ Ps 94,12
+[fn:9] [[file:Ps_107.org::v42][Ps 107,42]]
 
-^{[[#fnm11][11]]} ℘ Dtn 32,39
+[fn:10] [[file:Ps_94.org::v12][Ps 94,12]]
 
-^{[[#fnm12][12]]} ℘ Ps 33,19
+[fn:11] [[file:Dtn_32.org::v39][Dtn 32,39]]
 
-^{[[#fnm13][13]]} ℘ Ps 12,3-5
+[fn:12] [[file:ps33:v19][Ps 33,19]]
 
-^{[[#fnm14][14]]} ℘ Jes 11,6-8; Hos 2,20
+[fn:13] [[file:Ps_12.org::v3][Ps 12,3]]-[[file:Ps_12.org::v5][5]]
 
-^{[[#fnm15][15]]} ℘ Dtn 28,4.11
+[fn:14] [[file:Jes_11.org::v6][Jes 11,6]]-[[file:Jes_11.org::v8][8]]; [[file:Hos_2.org::v20][Hos 2,20]]
 
-^{[[#fnm16][16]]} Wir haben es gehört: Text korr. nach G und S; H: Hör
-es!
+[fn:15] [[file:Dtn_28.org::v4][Dtn 28,4]].[[file:Dtn_28.org::v11][11]]
+
+[fn:16] Wir haben es gehört: Text korr. nach G und S; H: Hör es!

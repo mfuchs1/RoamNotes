@@ -1,31 +1,22 @@
-:PROPERTIES:
-:ID:       71c2e525-26c9-4f39-b08d-72d45c2b87d0
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Ijob* -- [[file:Ijob_1.html][1]]
-[[file:Ijob_2.html][2]] [[file:Ijob_3.html][3]] *4*
-[[file:Ijob_5.html][5]] [[file:Ijob_6.html][6]] ...
-[[file:Ijob_42.html][42]]
-
---------------
-
-* Ijob 4
-  :PROPERTIES:
-  :CUSTOM_ID: ijob-4
-  :END:
+#+TITLE: Ijob 4 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-28 Di 23:08]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ijob 4.html
 
 <<verses>>
 
 <<v1>>
-*** Die erste Rede des Elifas: 4,1 - 5,27
-    :PROPERTIES:
-    :CUSTOM_ID: die-erste-rede-des-elifas-41---527
-    :END:
-**** Die Vergeltung: 4,1-11
-     :PROPERTIES:
-     :CUSTOM_ID: die-vergeltung-41-11
-     :END:
+* Die erste Rede des Elifas: 4,1 - 5,27
+
+* Die Vergeltung: 4,1-11
+
 1 Da antwortete Elifas von Teman und sprach:\\
 \\
 
@@ -56,7 +47,7 @@
 
 <<v7>>
 7 Bedenk doch! Wer geht ohne Schuld zugrunde? /\\
- Wo werden Redliche im Stich gelassen? ^{[[#fn1][1]]}\\
+ Wo werden Redliche im Stich gelassen? [fn:1]\\
 \\
 
 <<v8>>
@@ -71,7 +62,7 @@
 
 <<v10>>
 10 Des Löwen Brüllen, des Leuen Knurren, /\\
- des Junglöwen Zähne werden enttäuscht. ^{[[#fn2][2]]}\\
+ des Junglöwen Zähne werden enttäuscht. [fn:2]\\
 \\
 
 <<v11>>
@@ -80,17 +71,15 @@
 \\
 
 <<v12>>
-**** Ein Traum: 4,12-21
-     :PROPERTIES:
-     :CUSTOM_ID: ein-traum-412-21
-     :END:
+* Ein Traum: 4,12-21
+
 12 Zu mir hat sich ein Wort gestohlen, /\\
  geflüstert hat es mein Ohr erreicht.\\
 \\
 
 <<v13>>
 13 Im Grübeln und bei Nachtgesichten, /\\
- wenn tiefer Schlaf die Menschen überfällt, ^{[[#fn3][3]]}\\
+ wenn tiefer Schlaf die Menschen überfällt, [fn:3]\\
 \\
 
 <<v14>>
@@ -106,12 +95,12 @@
 <<v16>>
 16 Er steht, ich kann sein Aussehen nicht erkennen, /\\
  eine Gestalt nur vor meinen Augen, /\\
- ich höre eine Stimme flüstern: ^{[[#fn4][4]]}\\
+ ich höre eine Stimme flüstern: [fn:4]\\
 \\
 
 <<v17>>
 17 Ist wohl ein Mensch vor Gott gerecht, /\\
- ein Mann vor seinem Schöpfer rein? ^{[[#fn5][5]]}\\
+ ein Mann vor seinem Schöpfer rein? [fn:5]\\
 \\
 
 <<v18>>
@@ -135,12 +124,14 @@
  sodass sie sterben ohne Einsicht?\\
 \\
 
-^{[[#fnm1][1]]} ℘ Spr 12,21
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ Spr 28,15
+[fn:1] [[file:Spr_12.org::v21][Spr 12,21]]
 
-^{[[#fnm3][3]]} ℘ 33,15
+[fn:2] [[file:Spr_28.org::v15][Spr 28,15]]
 
-^{[[#fnm4][4]]} ℘ 1 Kön 19,12
+[fn:3] [[file:Ijob_33.org::v15][33,15]]
 
-^{[[#fnm5][5]]} ℘ 15,14; Ps 143,2
+[fn:4] [[file:1.Kön_19.org::v12][1 Kön 19,12]]
+
+[fn:5] [[file:Ijob_15.org::v14][15,14]]; [[file:Ps_143.org::v2][Ps 143,2]]

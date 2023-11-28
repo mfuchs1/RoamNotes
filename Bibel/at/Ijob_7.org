@@ -1,29 +1,22 @@
-:PROPERTIES:
-:ID:       c8f7ce26-1d40-48fa-9353-02382e5f4823
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Ijob* -- [[file:Ijob_1.html][1]] ...
-[[file:Ijob_5.html][5]] [[file:Ijob_6.html][6]] *7*
-[[file:Ijob_8.html][8]] [[file:Ijob_9.html][9]] ...
-[[file:Ijob_42.html][42]]
-
---------------
-
-* Ijob 7
-  :PROPERTIES:
-  :CUSTOM_ID: ijob-7
-  :END:
+#+TITLE: Ijob 7 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-28 Di 23:36]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ijob 7.html
 
 <<verses>>
 
 <<v1>>
-**** Die Not des Lebens: 7,1-10
-     :PROPERTIES:
-     :CUSTOM_ID: die-not-des-lebens-71-10
-     :END:
+* Die Not des Lebens: 7,1-10
+
 1 Ist nicht Kriegsdienst des Menschen Leben auf der Erde? /\\
- Sind nicht seine Tage die eines Tagelöhners? ^{[[#fn1][1]]}\\
+ Sind nicht seine Tage die eines Tagelöhners? [fn:1]\\
 \\
 
 <<v2>>
@@ -39,23 +32,22 @@
 <<v4>>
 4 Lege ich mich nieder, sage ich: /\\
  Wann darf ich aufstehn? /\\
- Wird es Abend, bin ich gesättigt mit Unrast, bis es dämmert.
-^{[[#fn2][2]]}\\
+ Wird es Abend, bin ich gesättigt mit Unrast, bis es dämmert. [fn:2]\\
 \\
 
 <<v5>>
 5 Mein Leib ist gekleidet in Maden und Schorf, /\\
- meine Haut schrumpft und eitert. ^{[[#fn3][3]]}\\
+ meine Haut schrumpft und eitert. [fn:3]\\
 \\
 
 <<v6>>
 6 Schneller als das Weberschiffchen eilen meine Tage, /\\
- der Faden geht aus, sie schwinden dahin. ^{[[#fn4][4]][[#fn5][5]]}\\
+ der Faden geht aus, sie schwinden dahin. [fn:4] [fn:5]\\
 \\
 
 <<v7>>
 7 Denk daran, dass mein Leben nur ein Hauch ist. /\\
- Nie mehr schaut mein Auge Glück. ^{[[#fn6][6]]}\\
+ Nie mehr schaut mein Auge Glück. [fn:6]\\
 \\
 
 <<v8>>
@@ -65,7 +57,7 @@
 
 <<v9>>
 9 Die Wolke schwindet, vergeht, /\\
- so steigt nie mehr auf, wer zur Unterwelt fuhr. ^{[[#fn7][7]]}\\
+ so steigt nie mehr auf, wer zur Unterwelt fuhr. [fn:7]\\
 \\
 
 <<v10>>
@@ -74,10 +66,8 @@
 \\
 
 <<v11>>
-**** Die unbegreifliche Heimsuchung: 7,11-21
-     :PROPERTIES:
-     :CUSTOM_ID: die-unbegreifliche-heimsuchung-711-21
-     :END:
+* Die unbegreifliche Heimsuchung: 7,11-21
+
 11 So wehre ich nicht meinem Mund, /\\
  mit bedrängtem Geist will ich reden, /\\
  mit betrübter Seele will ich klagen.\\
@@ -85,7 +75,7 @@
 
 <<v12>>
 12 Bin ich das Meer, der Meeresdrache, /\\
- dass du gegen mich eine Wache stellst? ^{[[#fn8][8]]}\\
+ dass du gegen mich eine Wache stellst? [fn:8]\\
 \\
 
 <<v13>>
@@ -100,35 +90,34 @@
 
 <<v15>>
 15 Erwürgt zu werden, zöge ich vor, /\\
- den Tod diesem Totengerippe. ^{[[#fn9][9]]}\\
+ den Tod diesem Totengerippe. [fn:9]\\
 \\
 
 <<v16>>
 16 Ich mag nicht mehr. Ich will nicht ewig leben. /\\
- Lass ab von mir; denn nur ein Hauch sind meine Tage. ^{[[#fn10][10]]}\\
+ Lass ab von mir; denn nur ein Hauch sind meine Tage. [fn:10]\\
 \\
 
 <<v17>>
 17 Was ist der Mensch, dass du groß ihn achtest /\\
- und deinen Sinn auf ihn richtest, ^{[[#fn11][11]]}\\
+ und deinen Sinn auf ihn richtest, [fn:11]\\
 \\
 
 <<v18>>
 18 dass du ihn musterst jeden Morgen /\\
- und jeden Augenblick ihn prüfst? ^{[[#fn12][12]]}\\
+ und jeden Augenblick ihn prüfst? [fn:12]\\
 \\
 
 <<v19>>
 19 Wie lange schon schaust du nicht weg von mir, /\\
- lässt mich nicht los, sodass ich den Speichel schlucke?
-^{[[#fn13][13]]}\\
+ lässt mich nicht los, sodass ich den Speichel schlucke? [fn:13]\\
 \\
 
 <<v20>>
 20 Hab ich gefehlt? /\\
  Was tat ich dir, du Menschenwächter? /\\
  Warum stellst du mich vor dich als Zielscheibe hin? /\\
- Bin ich dir denn zur Last geworden? ^{[[#fn14][14]]}\\
+ Bin ich dir denn zur Last geworden? [fn:14]\\
 \\
 
 <<v21>>
@@ -138,30 +127,32 @@
  suchtest du mich, wäre ich nicht mehr da.\\
 \\
 
-^{[[#fnm1][1]]} ℘ 14,14
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ Koh 2,23; Sir 40,5
+[fn:1] [[file:Ijob_14.org::v14][14,14]]
 
-^{[[#fnm3][3]]} Text korr.; H: meine Hand schrumpft und wird verworfen.
+[fn:2] [[file:Koh_2.org::v23][Koh 2,23]]; [[file:Sir_40.org::v5][Sir 40,5]]
 
-^{[[#fnm4][4]]} ℘ Ps 39,6; Jes 38,12
+[fn:3] Text korr.; H: meine Hand schrumpft und wird verworfen.
 
-^{[[#fnm5][5]]} Text korr.; H: sie gehen zu Ende ohne Hoffnung.
+[fn:4] [[file:Ps_39.org::v6][Ps 39,6]]; [[file:Jes_38.org::v12][Jes 38,12]]
 
-^{[[#fnm6][6]]} ℘ Ps 78,39
+[fn:5] Text korr.; H: sie gehen zu Ende ohne Hoffnung.
 
-^{[[#fnm7][7]]} ℘ Weish 2,4
+[fn:6] [[file:Ps_78.org::v39][Ps 78,39]]
 
-^{[[#fnm8][8]]} Anklang an einen alten Mythos (vgl. 3,8).
+[fn:7] [[file:Weish_2.org::v4][Weish 2,4]]
 
-^{[[#fnm9][9]]} ℘ Tob 3,6
+[fn:8] Anklang an einen alten Mythos (vgl. [[file:Ijob_3.org::v8][3,8]]).
 
-^{[[#fnm10][10]]} ℘ Ps 144,4
+[fn:9] [[file:Tob_3.org::v6][Tob 3,6]]
 
-^{[[#fnm11][11]]} ℘ Ps 144,3
+[fn:10] [[file:Ps_144.org::v4][Ps 144,4]]
 
-^{[[#fnm12][12]]} ℘ Ps 17,3; 139
+[fn:11] [[file:Ps_144.org::v3][Ps 144,3]]
 
-^{[[#fnm13][13]]} ℘ Ps 39,14
+[fn:12] [[file:Ps_17.org::v3][Ps 17,3]]; [[file:Ps_139.org][139]]
 
-^{[[#fnm14][14]]} dir zur Last: H: mir zu Last.
+[fn:13] [[file:Ps_39.org::v14][Ps 39,14]]
+
+[fn:14] dir zur Last: H: mir zu Last.

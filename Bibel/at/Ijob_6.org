@@ -1,31 +1,22 @@
-:PROPERTIES:
-:ID:       ce32c9bb-2865-490c-9f0a-9779eed95674
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Ijob* -- [[file:Ijob_1.html][1]] ...
-[[file:Ijob_4.html][4]] [[file:Ijob_5.html][5]] *6*
-[[file:Ijob_7.html][7]] [[file:Ijob_8.html][8]] ...
-[[file:Ijob_42.html][42]]
-
---------------
-
-* Ijob 6
-  :PROPERTIES:
-  :CUSTOM_ID: ijob-6
-  :END:
+#+TITLE: Ijob 6 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-28 Di 23:31]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ijob 6.html
 
 <<verses>>
 
 <<v1>>
-*** Ijobs Gegenrede: 6,1 - 7,21
-    :PROPERTIES:
-    :CUSTOM_ID: ijobs-gegenrede-61---721
-    :END:
-**** Das unerträgliche Los: 6,1-13
-     :PROPERTIES:
-     :CUSTOM_ID: das-unerträgliche-los-61-13
-     :END:
+* Ijobs Gegenrede: 6,1 - 7,21
+
+* Das unerträgliche Los: 6,1-13
+
 1 Da antwortete Ijob und sprach:\\
 \\
 
@@ -42,7 +33,7 @@
 <<v4>>
 4 Die Pfeile des Allmächtigen stecken in mir, /\\
  mein Geist hat ihr Gift getrunken, /\\
- Gottes Schrecken stellen sich gegen mich. ^{[[#fn1][1]]}\\
+ Gottes Schrecken stellen sich gegen mich. [fn:1]\\
 \\
 
 <<v5>>
@@ -57,7 +48,7 @@
 
 <<v7>>
 7 Ich sträube mich, daran zu rühren, /\\
- das alles ist mir wie verdorbenes Brot. ^{[[#fn2][2]]}\\
+ das alles ist mir wie verdorbenes Brot. [fn:2]\\
 \\
 
 <<v8>>
@@ -92,22 +83,20 @@
 \\
 
 <<v14>>
-**** Die Enttäuschung über die Freunde: 6,14-30
-     :PROPERTIES:
-     :CUSTOM_ID: die-enttäuschung-über-die-freunde-614-30
-     :END:
+* Die Enttäuschung über die Freunde: 6,14-30
+
 14 Des Freundes Liebe gehört dem Verzagten, /\\
- auch wenn er den Allmächtigen nicht mehr fürchtet. ^{[[#fn3][3]]}\\
+ auch wenn er den Allmächtigen nicht mehr fürchtet. [fn:3]\\
 \\
 
 <<v15>>
 15 Meine Brüder sind trügerisch wie ein Bach, /\\
- wie Wasserläufe, die verrinnen; ^{[[#fn4][4]]}\\
+ wie Wasserläufe, die verrinnen; [fn:4]\\
 \\
 
 <<v16>>
 16 trüb sind sie vom Eis, /\\
- wenn über ihnen der Schnee schmilzt. ^{[[#fn5][5]]}\\
+ wenn über ihnen der Schnee schmilzt. [fn:5]\\
 \\
 
 <<v17>>
@@ -117,12 +106,12 @@
 
 <<v18>>
 18 Karawanen biegen ab vom Weg, /\\
- folgen ihnen in die Wüste und kommen um. ^{[[#fn6][6]]}\\
+ folgen ihnen in die Wüste und kommen um. [fn:6]\\
 \\
 
 <<v19>>
 19 Nach ihnen spähen Karawanen aus Tema, /\\
- auf sie vertrauen Handelszüge aus Saba. ^{[[#fn7][7]]}\\
+ auf sie vertrauen Handelszüge aus Saba. [fn:7]\\
 \\
 
 <<v20>>
@@ -152,7 +141,7 @@
 
 <<v25>>
 25 Wie wurden redliche Worte verhöhnt, /\\
- was kann euer Tadel rügen? ^{[[#fn8][8]]}\\
+ was kann euer Tadel rügen? [fn:8]\\
 \\
 
 <<v26>>
@@ -180,21 +169,22 @@
  oder schmeckt mein Gaumen das Schlechte nicht?\\
 \\
 
-^{[[#fnm1][1]]} ℘ Ps 38,3; 88,16
+* Footnotes
 
-^{[[#fnm2][2]]} Text korr.; H: Diese sind wie die Krankheit meines
-Brotes.
+[fn:1] [[file:Ps_38.org::v3][Ps 38,3]]; [[file:Ps_88.org::v16][88,16]]
 
-^{[[#fnm3][3]]} Übersetzung unsicher.
+[fn:2] Text korr.; H: Diese sind wie die Krankheit meines Brotes.
 
-^{[[#fnm4][4]]} ℘ Jer 15,18
+[fn:3] Übersetzung unsicher.
 
-^{[[#fnm5][5]]} schmilzt, wörtlich: sich verbirgt.
+[fn:4] [[file:Jer_15.org::v18][Jer 15,18]]
 
-^{[[#fnm6][6]]} Karawanen biegen ab vom Weg: Text korr.; H: Es werden
+[fn:5] schmilzt, wörtlich: sich verbirgt.
+
+[fn:6] Karawanen biegen ab vom Weg: Text korr.; H: Es werden
 abgebogen die Pfade ihres (= der Bäche) Weges.
 
-^{[[#fnm7][7]]} ℘ Jes 21,14
+[fn:7] [[file:Jes_21.org::v14][Jes 21,14]]
 
-^{[[#fnm8][8]]} Andere Übersetzungsmöglichkeit: Wie können redliche
+[fn:8] Andere Übersetzungsmöglichkeit: Wie können redliche
 Worte kränkend sein?
