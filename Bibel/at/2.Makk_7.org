@@ -1,31 +1,24 @@
-:PROPERTIES:
-:ID:       3182783f-0419-4695-875f-bfe5da401a66
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch der Makkabäer* --
-[[file:2.Makk_1.html][1]] ... [[file:2.Makk_5.html][5]]
-[[file:2.Makk_6.html][6]] *7* [[file:2.Makk_8.html][8]]
-[[file:2.Makk_9.html][9]] ... [[file:2.Makk_15.html][15]]
-
---------------
-
-* 2.Makk 7
-  :PROPERTIES:
-  :CUSTOM_ID: makk-7
-  :END:
+#+TITLE: 2 Makk 7 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-28 Di 17:28]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Makk 7.html
 
 <<verses>>
 
 <<v1>>
-**** Das Martyrium der sieben Brüder und ihrer Mutter: 7,1-42
-     :PROPERTIES:
-     :CUSTOM_ID: das-martyrium-der-sieben-brüder-und-ihrer-mutter-71-42
-     :END:
+* Das Martyrium der sieben Brüder und ihrer Mutter: 7,1-42
+
 1 Ein andermal geschah es, dass man sieben Brüder mit ihrer Mutter
 festnahm. Der König wollte sie zwingen, entgegen dem göttlichen Gesetz
 Schweinefleisch zu essen, und ließ sie darum mit Geißeln und Riemen
-peitschen. ^{[[#fn1][1]]}
+peitschen. [fn:1]
 
 <<v2>>
 2 Einer von ihnen ergriff für die andern das Wort und sagte: Was willst
@@ -51,7 +44,7 @@ zu, in edler Haltung zu sterben. Sie sagten:
 <<v6>>
 6 Gott der Herr schaut auf uns und gewiss hat er Erbarmen mit uns. Denn
 so hat es Mose klar gesagt in dem Lied, in dem er öffentlich das Volk
-anklagte: Und er wird mit seinen Dienern Erbarmen haben. ^{[[#fn2][2]]}
+anklagte: Und er wird mit seinen Dienern Erbarmen haben. [fn:2]
 
 <<v7>>
 7 Als der erste der Brüder auf diese Weise gestorben war, führten sie
@@ -66,8 +59,7 @@ wie der erste gefoltert.
 <<v9>>
 9 Als er in den letzten Zügen lag, sagte er: Du Unmensch! Du nimmst uns
 dieses Leben; aber der König der Welt wird uns zu einem neuen, ewigen
-Leben auferwecken, weil wir für seine Gesetze gestorben sind.
-^{[[#fn3][3]]}
+Leben auferwecken, weil wir für seine Gesetze gestorben sind. [fn:3]
 
 <<v10>>
 10 Nach ihm folterten sie den dritten. Als sie seine Zunge forderten,
@@ -126,7 +118,7 @@ Mut, redete jedem von ihnen in ihrer Muttersprache zu und sagte:
 <<v22>>
 22 Ich weiß nicht, wie ihr in meinem Leib entstanden seid, noch habe ich
 euch Atem und Leben geschenkt; auch habe ich keinen von euch aus den
-Grundstoffen zusammengefügt. ^{[[#fn4][4]]}
+Grundstoffen zusammengefügt. [fn:4]
 
 <<v23>>
 23 Nein, der Schöpfer der Welt hat den werdenden Menschen geformt, als
@@ -159,7 +151,7 @@ bis du nun so groß geworden bist.
 <<v28>>
 28 Ich bitte dich, mein Kind, schau dir den Himmel und die Erde an; sieh
 alles, was es da gibt, und erkenne: Gott hat das aus dem Nichts
-erschaffen und so entstehen auch die Menschen. ^{[[#fn5][5]]}
+erschaffen und so entstehen auch die Menschen. [fn:5]
 
 <<v29>>
 29 Hab keine Angst vor diesem Henker, sei deiner Brüder würdig und nimm
@@ -216,23 +208,25 @@ den anderen - so sehr hatte ihn der Hohn verletzt.
 Gottvertrauen.
 
 <<v41>>
-41 Zuletzt starb nach ihren Söhnen die Mutter. ^{[[#fn6][6]]}
+41 Zuletzt starb nach ihren Söhnen die Mutter. [fn:6]
 
 <<v42>>
 42 Soviel sei über die Opfergelage und die schlimmen Misshandlungen
 berichtet.\\
 \\
 
-^{[[#fnm1][1]]} ℘ Lev 11,7f
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ Dtn 32,36
+[fn:1] [[file:Lev_11.org::v7][Lev 11,7f]]
 
-^{[[#fnm3][3]]} ℘ 7,11.14.23.29.36; 12,43f; 14,46; Dan 12,2
+[fn:2] [[file:Dtn_32.org::v36][Dtn 32,36]]
 
-^{[[#fnm4][4]]} ℘ Ijob 10,8-12; Ps 139,13-15
+[fn:3] [[v11][7,11]].[[v14][14]].[[v23][23]].[[v29][29]].[[v36][36]]; [[file:2.Makk_12.org::v43][12,43f]]; [[file:2.Makk_14.org::v46][14,46]]; [[file:Dan_12.org::v2][Dan 12,2]]
 
-^{[[#fnm5][5]]} ℘ Ijob 26,7
+[fn:4] [[file:Ijob_10.org::v8][Ijob 10,8]]-[[file:Ijob_10.org::v12][12]]; [[file:Ps_139.org::v13][Ps 139,13]]-[[file:Ps_139.org::v15][15]]
 
-^{[[#fnm6][6]]} In der christlichen Überlieferung gelten die sieben
+[fn:5] [[file:Ijob_26.org::v7][Ijob 26,7]]
+
+[fn:6] In der christlichen Überlieferung gelten die sieben
 makkabäischen Brüder als Märtyrer, denen man im Mittelmeerraum viele
 Kirchen weihte.

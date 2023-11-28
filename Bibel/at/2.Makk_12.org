@@ -1,27 +1,20 @@
-:PROPERTIES:
-:ID:       ffb9fb69-3c8c-4675-8a89-d48bfd88d532
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch der Makkabäer* --
-[[file:2.Makk_1.html][1]] ... [[file:2.Makk_10.html][10]]
-[[file:2.Makk_11.html][11]] *12* [[file:2.Makk_13.html][13]]
-[[file:2.Makk_14.html][14]] [[file:2.Makk_15.html][15]]
-
---------------
-
-* 2.Makk 12
-  :PROPERTIES:
-  :CUSTOM_ID: makk-12
-  :END:
+#+TITLE: 2 Makk 12 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-28 Di 18:36]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Makk 12.html
 
 <<verses>>
 
 <<v1>>
-**** Die Rache an den Judenverfolgern in Jafo und Jamnia: 12,1-9
-     :PROPERTIES:
-     :CUSTOM_ID: die-rache-an-den-judenverfolgern-in-jafo-und-jamnia-121-9
-     :END:
+* Die Rache an den Judenverfolgern in Jafo und Jamnia: 12,1-9
+
 1 Nach dem Abschluss der Verträge kehrte Lysias zum König zurück. Die
 Juden begannen, wieder ihre Felder zu bestellen.
 
@@ -69,13 +62,11 @@ weit bis nach Jerusalem zu sehen.\\
 \\
 
 <<v10>>
-**** Die erfolgreichen Feldzüge des Judas jenseits des Jordan: 12,10-31
-     :PROPERTIES:
-     :CUSTOM_ID: die-erfolgreichen-feldzüge-des-judas-jenseits-des-jordan-1210-31
-     :END:
+* Die erfolgreichen Feldzüge des Judas jenseits des Jordan: 12,10-31
+
 10 Von dort zogen sie weiter gegen Timotheus. Sie waren gerade neun
 Stadien weit marschiert, da griffen fünftausend Araber mit fünfhundert
-Reitern Judas an. ^{[[#fn1][1]]}
+Reitern Judas an. [fn:1]
 
 <<v11>>
 11 Nach hitzigem Kampf gewannen die Männer des Judas die Oberhand; denn
@@ -103,7 +94,7 @@ sie, lästerten Gott und schrien unflätige Worte.
 15 Die Männer des Judas riefen den großen Herrn der Welt an, der Jericho
 zur Zeit Josuas ohne Rammböcke und Belagerungsmaschinen zu Boden
 geschmettert hatte. Dann stürmten sie mit dem Mut von Löwen gegen die
-Mauern an, ^{[[#fn2][2]]}
+Mauern an, [fn:2]
 
 <<v16>>
 16 und weil Gott es so wollte, konnten sie die Stadt einnehmen. Sie
@@ -163,7 +154,7 @@ zu retten, ließen sie ihn laufen.
 
 <<v26>>
 26 Darauf zog Judas gegen Karnajim und das Heiligtum der Atargatis und
-erschlug fünfundzwanzigtausend Menschen. ^{[[#fn3][3]]}
+erschlug fünfundzwanzigtausend Menschen. [fn:3]
 
 <<v27>>
 27 Als sie geschlagen und vernichtet waren, rückte Judas vor das stark
@@ -179,8 +170,7 @@ fünfundzwanzigtausend Menschen.
 
 <<v29>>
 29 Dann brachen sie auf und zogen in Eilmärschen von dort nach
-Skythopolis, das sechshundert Stadien von Jerusalem entfernt liegt.
-^{[[#fn4][4]]}
+Skythopolis, das sechshundert Stadien von Jerusalem entfernt liegt. [fn:4]
 
 <<v30>>
 30 Die Juden, die dort wohnten, stellten jedoch den Einwohnern von
@@ -194,13 +184,10 @@ Jerusalem, da das Wochenfest unmittelbar bevorstand.\\
 \\
 
 <<v32>>
-**** Die bestrafte Untreue einiger Juden und das Sühnopfer für die
-Toten: 12,32-45
-     :PROPERTIES:
-     :CUSTOM_ID: die-bestrafte-untreue-einiger-juden-und-das-sühnopfer-für-die-toten-1232-45
-     :END:
+* Die bestrafte Untreue einiger Juden und das Sühnopfer für die Toten: 12,32-45
+
 32 Nach dem sogenannten Pfingstfest zogen sie in Eilmärschen gegen
-Gorgias, den Befehlshaber der Idumäer. ^{[[#fn5][5]]}
+Gorgias, den Befehlshaber der Idumäer. [fn:5]
 
 <<v33>>
 33 Er rückte mit dreitausend Fußsoldaten und vierhundert Reitern aus.
@@ -238,8 +225,7 @@ sie inmitten ihrer Angehörigen in den Familiengräbern zu bestatten.
 <<v40>>
 40 Da entdeckten sie, dass alle Toten unter ihren Kleidern Amulette der
 Götter von Jamnia trugen, obwohl das den Juden vom Gesetz her verboten
-ist. Da wurde allen klar, dass die Männer deswegen gefallen waren,
-^{[[#fn6][6]]}
+ist. Da wurde allen klar, dass die Männer deswegen gefallen waren, [fn:6]
 
 <<v41>>
 41 und sie priesen nun alle das Wirken des Herrn, des gerechten
@@ -266,23 +252,25 @@ es nämlich überflüssig und sinnlos gewesen, für die Toten zu beten.
 45 Auch hielt er sich den herrlichen Lohn vor Augen, der für die
 hinterlegt ist, die in Frömmigkeit sterben. Ein heiliger und frommer
 Gedanke! Darum ließ er die Toten entsühnen, damit sie von der Sünde
-befreit werden. ^{[[#fn7][7]]}\\
+befreit werden. [fn:7]\\
 \\
 
-^{[[#fnm1][1]]} ℘ (10-31) 1 Makk 5,24-54
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ Jos 6,20
+[fn:1] (10-31) [[file:1.Makk_5.org::v24][1 Makk 5,24]]-[[file:1.Makk_5.org::v54][54]]
 
-^{[[#fnm3][3]]} Atargatis ist die große syrische Göttin, vergleichbar
+[fn:2] [[file:Jos_6.org::v20][Jos 6,20]]
+
+[fn:3] Atargatis ist die große syrische Göttin, vergleichbar
 der Astarte. Karnajim scheint das Heiligtum der gehörnten Astarte zu
 sein.
 
-^{[[#fnm4][4]]} Skythopolis ist der griechische Name für Bet-Schean.
+[fn:4] Skythopolis ist der griechische Name für Bet-Schean.
 
-^{[[#fnm5][5]]} ℘ 10,14
+[fn:5] [[file:2.Makk_10.org::v14][10,14]]
 
-^{[[#fnm6][6]]} ℘ Dtn 7,25
+[fn:6] [[file:Dtn_7.org::v25][Dtn 7,25]]
 
-^{[[#fnm7][7]]} In diesem Vers steht der einzige alttestamentliche
+[fn:7] In diesem Vers steht der einzige alttestamentliche
 Hinweis auf einen Zwischenzustand, der als Läuterungsort verstanden
 wird.

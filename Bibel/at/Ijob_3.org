@@ -1,32 +1,23 @@
-:PROPERTIES:
-:ID:       b0ed78cf-ef85-4dc8-b7ae-92e2f0b64e4b
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Ijob* -- [[file:Ijob_1.html][1]]
-[[file:Ijob_2.html][2]] *3* [[file:Ijob_4.html][4]]
-[[file:Ijob_5.html][5]] ... [[file:Ijob_42.html][42]]
-
---------------
-
-* Ijob 3
-  :PROPERTIES:
-  :CUSTOM_ID: ijob-3
-  :END:
+#+TITLE: Ijob 3 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-28 Di 22:07]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ijob 3.html
 
 <<verses>>
 
 <<v1>>
-*** Ijobs Klage 3,1-26
-    :PROPERTIES:
-    :CUSTOM_ID: ijobs-klage-31-26
-    :END:
-**** Die Last des Lebens: 3,1-26
-     :PROPERTIES:
-     :CUSTOM_ID: die-last-des-lebens-31-26
-     :END:
-1 Danach tat Ijob seinen Mund auf und verfluchte seinen Tag.
-^{[[#fn1][1]]}
+* Ijobs Klage 3,1-26
+
+* Die Last des Lebens: 3,1-26
+
+1 Danach tat Ijob seinen Mund auf und verfluchte seinen Tag. [fn:1]
 
 <<v2>>
 2 Ijob ergriff das Wort und sprach:\\
@@ -46,13 +37,13 @@
 <<v5>>
 5 Einfordern sollen ihn Dunkel und Finsternis, /\\
  Gewölk über ihn sich lagern, /\\
- Verfinsterung am Tag mache ihn schrecklich. ^{[[#fn2][2]]}\\
+ Verfinsterung am Tag mache ihn schrecklich. [fn:2]\\
 \\
 
 <<v6>>
 6 Jene Nacht, das Dunkel raffe sie hinweg, /\\
  sie reihe sich nicht in die Tage des Jahres, /\\
- sie füge sich nicht zur Zahl der Monde. ^{[[#fn3][3]]}\\
+ sie füge sich nicht zur Zahl der Monde. [fn:3]\\
 \\
 
 <<v7>>
@@ -62,7 +53,7 @@
 
 <<v8>>
 8 Verwünschen sollen sie die Verflucher der Tage, /\\
- die es verstehen, den Leviatan zu wecken. ^{[[#fn4][4]]}\\
+ die es verstehen, den Leviatan zu wecken. [fn:4]\\
 \\
 
 <<v9>>
@@ -79,7 +70,7 @@
 
 <<v11>>
 11 Warum starb ich nicht vom Mutterschoß weg, /\\
- kam ich aus dem Mutterleib und verschied nicht gleich? ^{[[#fn5][5]]}\\
+ kam ich aus dem Mutterleib und verschied nicht gleich? [fn:5]\\
 \\
 
 <<v12>>
@@ -94,7 +85,7 @@
 
 <<v14>>
 14 bei Königen, bei Ratsherren im Land, /\\
- die Grabkammern für sich erbauten, ^{[[#fn6][6]]}\\
+ die Grabkammern für sich erbauten, [fn:6]\\
 \\
 
 <<v15>>
@@ -104,7 +95,7 @@
 
 <<v16>>
 16 Wie die verscharrte Fehlgeburt wäre ich nicht mehr, /\\
- Kindern gleich, die das Licht nie geschaut. ^{[[#fn7][7]]}\\
+ Kindern gleich, die das Licht nie geschaut. [fn:7]\\
 \\
 
 <<v17>>
@@ -134,22 +125,22 @@
 
 <<v22>>
 22 Sie würden sich freuen über einen Hügel; /\\
- fänden sie ein Grab, sie würden frohlocken. ^{[[#fn8][8]]}\\
+ fänden sie ein Grab, sie würden frohlocken. [fn:8]\\
 \\
 
 <<v23>>
 23 Wozu Licht für den Mann auf verborgenem Weg, /\\
- den Gott von allen Seiten einschließt? ^{[[#fn9][9]]}\\
+ den Gott von allen Seiten einschließt? [fn:9]\\
 \\
 
 <<v24>>
 24 Bevor ich noch esse, kommt mir das Seufzen, /\\
- wie Wasser strömen meine Klagen hin. ^{[[#fn10][10]]}\\
+ wie Wasser strömen meine Klagen hin. [fn:10]\\
 \\
 
 <<v25>>
 25 Was mich erschreckte, das kam über mich, /\\
- wovor mir bangte, das traf mich auch. ^{[[#fn11][11]]}\\
+ wovor mir bangte, das traf mich auch. [fn:11]\\
 \\
 
 <<v26>>
@@ -157,26 +148,26 @@
  fiel neues Ungemach mich an.\\
 \\
 
-^{[[#fnm1][1]]} ℘ (1-12) Jer 20,14-18
+* Footnotes
 
-^{[[#fnm2][2]]} Verfinsterung am Tag: Text korr.; H: Bitternisse des
-Tags.
+[fn:1] (1-12) [[file:Jer_20.org::v14][Jer 20,14]]-[[file:Jer_20.org::v18][18]]
 
-^{[[#fnm3][3]]} sie reihe sich: Text korr. nach S und Vg; H: sie freue
-sich.
+[fn:2] Verfinsterung am Tag: Text korr.; H: Bitternisse des Tags.
 
-^{[[#fnm4][4]]} Anklang an einen alten Mythos (vgl. Ps 74,14).
+[fn:3] sie reihe sich: Text korr. nach S und Vg; H: sie freue sich.
 
-^{[[#fnm5][5]]} ℘ 10,18f; Koh 4,2; 6,3
+[fn:4] Anklang an einen alten Mythos (vgl. [[file:Ps_74.org::v14][Ps 74,14]]).
 
-^{[[#fnm6][6]]} ℘ Jes 14,9-11; Ez 32,18-32
+[fn:5] [[file:Ijob_10.org::v18][10,18f]]; [[file:Koh_4.org::v2][Koh 4,2]]; [[file:Koh_6.org::v3][6,3]]
 
-^{[[#fnm7][7]]} ℘ Ps 58,9
+[fn:6] [[file:Jes_14.org::v9][Jes 14,9]]-[[file:Jes_14.org::v11][11]]; [[file:Ez_32.org::v18][Ez 32,18]]-[[file:Ez_32.org::v32][32]]
 
-^{[[#fnm8][8]]} einen Hügel: Text korr.; H: ein Jauchzen.
+[fn:7] [[file:Ps_58.org::v9][Ps 58,9]]
 
-^{[[#fnm9][9]]} ℘ Klgl 3,2
+[fn:8] einen Hügel: Text korr.; H: ein Jauchzen.
 
-^{[[#fnm10][10]]} ℘ Ps 42,4
+[fn:9] [[file:Klgl_3.org::v2][Klgl 3,2]]
 
-^{[[#fnm11][11]]} ℘ Spr 10,24
+[fn:10] [[file:Ps_42.org::v4][Ps 42,4]]
+
+[fn:11] [[file:Spr_10.org::v24][Spr 10,24]]

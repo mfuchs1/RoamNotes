@@ -327,6 +327,8 @@ Alle Standard Kinder am Elternsprechtag zur Steffi
 <2023-11-28 Di 15:00-19:00>
 :END:
 
+[[denote:20231128T152836][Elternsprechtag]]
+
 * Termin Winterreifen
 :PROPERTIES:
 :calendar-id: matthiasfuchs01@gmail.com

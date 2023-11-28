@@ -1,22 +1,19 @@
-:PROPERTIES:
-:ID:       7dc13d6f-09b4-401a-818b-7c432bda6394
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Ijob* -- *1* [[file:Ijob_2.html][2]]
-[[file:Ijob_3.html][3]] ... [[file:Ijob_42.html][42]]
-
---------------
+#+TITLE: Ijob 1 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-28 Di 21:48]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ijob 1.html
 
 * Ijob 1
-  :PROPERTIES:
-  :CUSTOM_ID: ijob-1
-  :END:
 
-** Die Bücher der Lehrweisheit und die Psalmen
-   :PROPERTIES:
-   :CUSTOM_ID: die-bücher-der-lehrweisheit-und-die-psalmen
-   :END:
+* Die Bücher der Lehrweisheit und die Psalmen
+
 Das Buch Ijob, eines der Hauptwerke der Weltliteratur, ist nach seiner
 zentralen Gestalt benannt, da uns sein Verfasser unbekannt ist. Die uns
 heute vorliegende Form hat das Buch in nachexilischer Zeit gefunden. Man
@@ -93,17 +90,12 @@ Glaubensentscheidung an.\\
 <<verses>>
 
 <<v1>>
-** Die Rahmenerzählung: 1,1 - 2,10
-   :PROPERTIES:
-   :CUSTOM_ID: die-rahmenerzählung-11---210
-   :END:
-**** Ijobs Rechtlichkeit: 1,1-5
-     :PROPERTIES:
-     :CUSTOM_ID: ijobs-rechtlichkeit-11-5
-     :END:
+* Die Rahmenerzählung: 1,1 - 2,10
+
+* Ijobs Rechtlichkeit: 1,1-5
+
 1 Im Lande Uz lebte ein Mann mit Namen Ijob. Dieser Mann war untadelig
-und rechtschaffen; er fürchtete Gott und mied das Böse.
-^{[[#fn1][1]][[#fn2][2]]}
+und rechtschaffen; er fürchtete Gott und mied das Böse. [fn:1] [fn:2]
 
 <<v2>>
 2 Sieben Söhne und drei Töchter wurden ihm geboren.
@@ -111,7 +103,7 @@ und rechtschaffen; er fürchtete Gott und mied das Böse.
 <<v3>>
 3 Er besaß siebentausend Stück Kleinvieh, dreitausend Kamele,
 fünfhundert Joch Rinder und fünfhundert Esel, dazu zahlreiches Gesinde.
-An Ansehen übertraf dieser Mann alle Bewohner des Ostens. ^{[[#fn3][3]]}
+An Ansehen übertraf dieser Mann alle Bewohner des Ostens. [fn:3]
 
 <<v4>>
 4 Reihum hielten seine Söhne ein Gastmahl, ein jeder an seinem Tag in
@@ -123,20 +115,16 @@ mit ihnen zu essen und zu trinken.
 entsühnte sie. Früh am Morgen stand er auf und brachte so viele
 Brandopfer dar, wie er Kinder hatte. Denn Ijob sagte: Vielleicht haben
 meine Kinder gesündigt und Gott gelästert in ihrem Herzen. So tat Ijob
-jedes Mal. ^{[[#fn4][4]]}\\
+jedes Mal. [fn:4]\\
 \\
 
 <<v6>>
-*** Zwei Bewährungsproben: 1,6 - 2,10
-    :PROPERTIES:
-    :CUSTOM_ID: zwei-bewährungsproben-16---210
-    :END:
-**** Der Verlust des Reichtums: 1,6-22
-     :PROPERTIES:
-     :CUSTOM_ID: der-verlust-des-reichtums-16-22
-     :END:
+* Zwei Bewährungsproben: 1,6 - 2,10
+
+* Der Verlust des Reichtums: 1,6-22
+
 6 Nun geschah es eines Tages, da kamen die Gottessöhne, um vor den Herrn
-hinzutreten; unter ihnen kam auch der Satan. ^{[[#fn5][5]][[#fn6][6]]}
+hinzutreten; unter ihnen kam auch der Satan. [fn:5] [fn:6]
 
 <<v7>>
 7 Der Herr sprach zum Satan: Woher kommst du? Der Satan antwortete dem
@@ -158,7 +146,7 @@ weit ausgebreitet im Land.
 
 <<v11>>
 11 Aber streck nur deine Hand gegen ihn aus und rühr an all das, was
-sein ist; wahrhaftig, er wird dir ins Angesicht fluchen. ^{[[#fn7][7]]}
+sein ist; wahrhaftig, er wird dir ins Angesicht fluchen. [fn:7]
 
 <<v12>>
 12 Der Herr sprach zum Satan: Gut, all sein Besitz ist in deiner Hand,
@@ -181,7 +169,7 @@ scharfem Schwert. Ich ganz allein bin entronnen, um es dir zu berichten.
 16 Noch ist dieser am Reden, da kommt schon ein anderer und sagt: Feuer
 Gottes fiel vom Himmel, schlug brennend ein in die Schafe und Knechte
 und verzehrte sie. Ich ganz allein bin entronnen, um es dir zu
-berichten. ^{[[#fn8][8]]}
+berichten. [fn:8]
 
 <<v17>>
 17 Noch ist dieser am Reden, da kommt schon ein anderer und sagt: Die
@@ -208,7 +196,7 @@ auf die Erde und betete an.\\
 21 Dann sagte er: Nackt kam ich hervor aus dem Schoß meiner Mutter; /\\
  nackt kehre ich dahin zurück. /\\
  Der Herr hat gegeben, der Herr hat genommen; /\\
- gelobt sei der Name des Herrn. ^{[[#fn9][9]]}\\
+ gelobt sei der Name des Herrn. [fn:9]\\
 \\
 
 <<v22>>
@@ -216,26 +204,28 @@ auf die Erde und betete an.\\
 Gott.\\
 \\
 
-^{[[#fnm1][1]]} ℘ Ez 14,14.20; Gen 22,12
+* Footnotes
 
-^{[[#fnm2][2]]} Das Land Uz liegt vermutlich in Arabien (vgl. Gen 36,28;
-Klgl 4,21). Ijob ist ein schon früh belegter Name und bedeutet
+[fn:1] [[file:Ez_14.org::v14][Ez 14,14]].[[file:Ez_14.org::v20][20]]; [[file:Gen_22.org::v12][Gen 22,12]]
+
+[fn:2] Das Land Uz liegt vermutlich in Arabien (vgl. [[file:Gen_36.org::v28][Gen 36,28]];
+[[file:Klgl_4.org::v21][Klgl 4,21]]). Ijob ist ein schon früh belegter Name und bedeutet
 vielleicht «der Angefeindete».
 
-^{[[#fnm3][3]]} Die «Bewohner des Ostens» sind die Bewohner Arabiens.
+[fn:3] Die «Bewohner des Ostens» sind die Bewohner Arabiens.
 
-^{[[#fnm4][4]]} In H steht für «lästern» euphemistisch «segnen».
+[fn:4] In H steht für «lästern» euphemistisch «segnen».
 
-^{[[#fnm5][5]]} ℘ Sach 3,1f
+[fn:5] [[file:Sach_3.org::v1][Sach 3,1f]]
 
-^{[[#fnm6][6]]} Die «Gottessöhne» werden in G mit den Engeln
-gleichgesetzt. Sie gehören zum Hofstaat Jahwes (vgl. 38,7). In Ps 29,1
-wird dieselbe Wendung mit «die Himmlischen», in Ps 82,1 und 89,7 mit
+[fn:6] Die «Gottessöhne» werden in G mit den Engeln
+gleichgesetzt. Sie gehören zum Hofstaat Jahwes (vgl. [[file:Ijob_38.org::v7][38,7]]). In [[file:Ps_29.org::v1][Ps 29,1]]
+wird dieselbe Wendung mit «die Himmlischen», in [[file:Ps_82.org::v1][Ps 82,1]] und [[file:Ps_89.org::v7][89,7]] mit
 «Götter» wiedergegeben.
 
-^{[[#fnm7][7]]} Statt «fluchen» steht in H euphemistisch «segnen» (vgl.
-Anmerkung zu 1,5).
+[fn:7] Statt «fluchen» steht in H euphemistisch «segnen» (vgl.
+Anmerkung zu [[v5][1,5]]).
 
-^{[[#fnm8][8]]} Feuer Gottes: der Blitz (vgl. 2 Kön 1,10).
+[fn:8] Feuer Gottes: der Blitz (vgl. [[file:2.Kön_1.org::v10][2 Kön 1,10]]).
 
-^{[[#fnm9][9]]} ℘ Ps 22,10; Jes 44,2
+[fn:9] [[file:Ps_22.org::v10][Ps 22,10]]; [[file:Jes_44.org::v2][Jes 44,2]]

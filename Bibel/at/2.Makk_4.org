@@ -1,31 +1,22 @@
-:PROPERTIES:
-:ID:       1bd23bb6-51f2-4b8d-91af-8374690d00f1
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch der Makkabäer* --
-[[file:2.Makk_1.html][1]] [[file:2.Makk_2.html][2]]
-[[file:2.Makk_3.html][3]] *4* [[file:2.Makk_5.html][5]]
-[[file:2.Makk_6.html][6]] ... [[file:2.Makk_15.html][15]]
-
---------------
-
-* 2.Makk 4
-  :PROPERTIES:
-  :CUSTOM_ID: makk-4
-  :END:
+#+TITLE: 2 Makk 4 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-28 Di 15:08]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Makk 4.html
 
 <<verses>>
 
 <<v1>>
-** Der Einbruch der Sünde: 4,1-50
-   :PROPERTIES:
-   :CUSTOM_ID: der-einbruch-der-sünde-41-50
-   :END:
-**** Neue Umtriebe Simeons: 4,1-6
-     :PROPERTIES:
-     :CUSTOM_ID: neue-umtriebe-simeons-41-6
-     :END:
+* Der Einbruch der Sünde: 4,1-50
+
+* Neue Umtriebe Simeons: 4,1-6
+
 1 Der oben genannte Simeon, der den Tempelschatz und das Vaterland
 verraten hatte, verleumdete Onias, er sei es gewesen, der Heliodor habe
 schlagen lassen und der das Unheil ins Werk gesetzt habe.
@@ -55,13 +46,11 @@ Raserei ablassen.\\
 \\
 
 <<v7>>
-**** Die Einführung heidnischer Sitten in Jerusalem: 4,7-22
-     :PROPERTIES:
-     :CUSTOM_ID: die-einführung-heidnischer-sitten-in-jerusalem-47-22
-     :END:
+* Die Einführung heidnischer Sitten in Jerusalem: 4,7-22
+
 7 Seleukus starb und Antiochus mit dem Beinamen Epiphanes übernahm die
 Herrschaft. Da erschlich sich Jason, der Bruder des Onias, das
-Hohepriesteramt. ^{[[#fn1][1]]}
+Hohepriesteramt. [fn:1]
 
 <<v8>>
 8 Bei einer Unterredung versprach er dem König nämlich
@@ -77,8 +66,7 @@ antiochenische Bürgerrecht zu verleihen.
 
 <<v10>>
 10 Der König war einverstanden. Sobald Jason das Amt an sich gebracht
-hatte, führte er unter seinen Landsleuten die griechische Lebensart ein.
-^{[[#fn2][2]]}
+hatte, führte er unter seinen Landsleuten die griechische Lebensart ein. [fn:2]
 
 <<v11>>
 11 Er schaffte die günstigen Privilegien ab, die die Juden durch
@@ -86,7 +74,7 @@ Vermittlung des Johanan vom König erhalten hatten. Dieser Johanan war
 der Vater des Eupolemus, der als Gesandter nach Rom gegangen war, um
 dort ein Freundschaftsbündnis zu schließen. Jason hob die
 althergebrachte Verfassung auf und führte neue, widerrechtliche
-Gebräuche ein. ^{[[#fn3][3]]}
+Gebräuche ein. [fn:3]
 
 <<v12>>
 12 Absichtlich ließ er unmittelbar unterhalb der Burg eine Sportschule
@@ -148,14 +136,12 @@ seine Truppen wieder nach Phönizien ins Quartier.\\
 \\
 
 <<v23>>
-**** Das Hohepriesteramt in der Hand der Sünder: 4,23-29
-     :PROPERTIES:
-     :CUSTOM_ID: das-hohepriesteramt-in-der-hand-der-sünder-423-29
-     :END:
+* Das Hohepriesteramt in der Hand der Sünder: 4,23-29
+
 23 Drei Jahre darauf schickte Jason den Menelaus, den Bruder des vorhin
 erwähnten Simeon, zum König; er sollte ihm das Geld überbringen und
 schwebende Verhandlungen über wichtige Staatsgeschäfte zum Abschluss
-bringen. ^{[[#fn4][4]]}
+bringen. [fn:4]
 
 <<v24>>
 24 Menelaus verschaffte sich jedoch Empfehlungen an den König, trat als
@@ -190,10 +176,8 @@ zyprischen Truppen.\\
 \\
 
 <<v30>>
-**** Die Ermordung des rechtmäßigen Hohenpriesters: 4,30-38
-     :PROPERTIES:
-     :CUSTOM_ID: die-ermordung-des-rechtmäßigen-hohenpriesters-430-38
-     :END:
+* Die Ermordung des rechtmäßigen Hohenpriesters: 4,30-38
+
 30 In diesem Augenblick brach in den Städten Tarsus und Mallus ein
 Aufstand aus, weil sie Antiochis, der Nebenfrau des Königs, als Geschenk
 vermacht worden waren.
@@ -212,7 +196,7 @@ verkaufen können.
 <<v33>>
 33 Onias, der davon sichere Kenntnis erhalten hatte, tadelte ihn scharf;
 er hatte sich in einen Asylort bei Daphne, einem Vorort Antiochias,
-zurückgezogen. ^{[[#fn5][5]]}
+zurückgezogen. [fn:5]
 
 <<v34>>
 34 Menelaus ging deswegen zu Andronikus, sprach mit ihm unter vier Augen
@@ -220,7 +204,7 @@ und redete ihm zu, Onias aus dem Weg zu schaffen. Andronikus suchte
 Onias auf. Da er sich zur Hinterlist hatte verleiten lassen, erhob er
 die rechte Hand zum Schwur, reichte sie dann Onias und überredete ihn,
 trotz seines Argwohns den Ort zu verlassen. Dann ließ ihn Andronikus,
-ohne das Recht zu scheuen, auf der Stelle umbringen. ^{[[#fn6][6]]}
+ohne das Recht zu scheuen, auf der Stelle umbringen. [fn:6]
 
 <<v35>>
 35 Nicht nur die Juden, sondern auch viele aus anderen Völkern
@@ -246,10 +230,8 @@ verdienten Strafe vergolten.\\
 \\
 
 <<v39>>
-**** Der Raub am Tempelschatz: 4,39-50
-     :PROPERTIES:
-     :CUSTOM_ID: der-raub-am-tempelschatz-439-50
-     :END:
+* Der Raub am Tempelschatz: 4,39-50
+
 39 In der Stadt aber verging sich Lysimachus mit Wissen des Menelaus
 mehrmals am Tempelschatz. Als sich das Gerücht davon weit verbreitete,
 rottete sich das Volk gegen Lysimachus zusammen. Viele goldene Geräte
@@ -282,8 +264,7 @@ geschickt waren, vor ihm die Anklage.
 
 <<v45>>
 45 Menelaus war schon verloren; da versprach er Ptolemäus, dem Sohn des
-Dorymenes, viel Geld, damit er den König zu seinen Gunsten überrede.
-^{[[#fn7][7]]}
+Dorymenes, viel Geld, damit er den König zu seinen Gunsten überrede. [fn:7]
 
 <<v46>>
 46 Ptolemäus nahm also den König in einen Säulengang beiseite, als wolle
@@ -293,7 +274,7 @@ er ihn etwas ausruhen lassen, und stimmte ihn um.
 47 Darauf sprach der König den Menelaus, der an dem ganzen Unheil schuld
 war, von den Anklagepunkten frei; die Unglücklichen aber, die, selbst
 wenn sie vor Skythen gesprochen hätten, wegen erwiesener Unschuld
-freigesprochen worden wären, verurteilte er zum Tod. ^{[[#fn8][8]]}
+freigesprochen worden wären, verurteilte er zum Tod. [fn:8]
 
 <<v48>>
 48 Unverzüglich mussten sie die ungerechte Strafe erleiden, sie, die
@@ -310,19 +291,21 @@ Bosheit nahm immer mehr zu und er wurde zu einem großen Feind seiner
 Mitbürger.\\
 \\
 
-^{[[#fnm1][1]]} ℘ 1 Makk 1,10
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 1 Makk 1,11-15
+[fn:1] [[file:1.Makk_1.org::v10][1 Makk 1,10]]
 
-^{[[#fnm3][3]]} ℘ 1 Makk 8,17
+[fn:2] [[file:1.Makk_1.org::v11][1 Makk 1,11]]-[[file:1.Makk_1.org::v15][15]]
 
-^{[[#fnm4][4]]} ℘ 3,4; 4,1
+[fn:3] [[file:1.Makk_8.org::v17][1 Makk 8,17]]
 
-^{[[#fnm5][5]]} Daphne war ein Heiligtum der Götter Apollo und Artemis.
+[fn:4] [[file:2.Makk_3.org::v4][3,4]]; [[v1][4,1]]
 
-^{[[#fnm6][6]]} ℘ Dan 9,26
+[fn:5] Daphne war ein Heiligtum der Götter Apollo und Artemis.
 
-^{[[#fnm7][7]]} ℘ 8,8; 1 Makk 3,38
+[fn:6] [[file:Dan_6.org::v26][Dan 9,26]]
 
-^{[[#fnm8][8]]} Die Skythen waren ein wegen ihrer Grausamkeit
+[fn:7] [[file:2.Makk_8.org::v8][8,8]]; [[file:1.Makk_3.org::v38][1 Makk 3,38]]
+
+[fn:8] Die Skythen waren ein wegen ihrer Grausamkeit
 berüchtigtes Reitervolk am Schwarzen Meer (vgl. auch 7,4).

@@ -1,29 +1,22 @@
-:PROPERTIES:
-:ID:       8ead968f-3bab-4ec0-b5ac-a33f236af581
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch der Makkabäer* --
-[[file:2.Makk_1.html][1]] ... [[file:2.Makk_9.html][9]]
-[[file:2.Makk_10.html][10]] *11* [[file:2.Makk_12.html][12]]
-[[file:2.Makk_13.html][13]] ... [[file:2.Makk_15.html][15]]
-
---------------
-
-* 2.Makk 11
-  :PROPERTIES:
-  :CUSTOM_ID: makk-11
-  :END:
+#+TITLE: 2 Makk 11 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-28 Di 18:31]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Makk 11.html
 
 <<verses>>
 
 <<v1>>
-**** Der Sieg des Judas über Lysias: 11,1-12
-     :PROPERTIES:
-     :CUSTOM_ID: der-sieg-des-judas-über-lysias-111-12
-     :END:
+* Der Sieg des Judas über Lysias: 11,1-12
+
 1 Der Reichsverweser Lysias, des Königs Vormund und Verwandter, war über
-diese Ereignisse sehr verärgert. ^{[[#fn1][1]]}
+diese Ereignisse sehr verärgert. [fn:1]
 
 <<v2>>
 2 Er zog daher in kürzester Zeit an die achtzigtausend Mann zusammen,
@@ -46,8 +39,7 @@ hundertfünfzig Stadien von Jerusalem entfernt liegt, und bestürmte sie.
 <<v6>>
 6 Als die Leute des Makkabäers von der Belagerung der Festung erfuhren,
 flehten sie mit dem ganzen Volk unter Klagen und Weinen den Herrn an, er
-möge doch einen guten Engel schicken, um Israel zu retten.
-^{[[#fn2][2]]}
+möge doch einen guten Engel schicken, um Israel zu retten. [fn:2]
 
 <<v7>>
 7 Der Makkabäer griff als erster nach den Waffen und hielt eine
@@ -81,13 +73,11 @@ Flucht retten.\\
 \\
 
 <<v13>>
-**** Der Friedensschluss des Lysias mit den Juden: 11,13-38
-     :PROPERTIES:
-     :CUSTOM_ID: der-friedensschluss-des-lysias-mit-den-juden-1113-38
-     :END:
+* Der Friedensschluss des Lysias mit den Juden: 11,13-38
+
 13 Da Lysias jedoch nicht ohne Verstand war und über die erlittene
 Niederlage nachdachte, begriff er, dass die Hebräer unbesiegbar waren,
-weil der starke Gott auf ihrer Seite kämpfte. ^{[[#fn3][3]]}
+weil der starke Gott auf ihrer Seite kämpfte. [fn:3]
 
 <<v14>>
 14 Darum schickte er Unterhändler, die auf einen Friedensvertrag drängen
@@ -121,8 +111,7 @@ werde ich mich bemühen, euch Vorteile zu verschaffen.
 Unterhändlern aufgetragen, mit euch zu verhandeln.
 
 <<v21>>
-21 Lebt wohl! Im Jahr 148, am Vierundzwanzigsten des Monats Dioskorus.
-^{[[#fn4][4]]}
+21 Lebt wohl! Im Jahr 148, am Vierundzwanzigsten des Monats Dioskorus. [fn:4]
 
 <<v22>>
 22 Im Brief des Königs stand dies: König Antiochus grüßt seinen Bruder
@@ -131,7 +120,7 @@ Lysias.
 <<v23>>
 23 Nachdem unser Vater zu den Göttern hinübergegangen ist, wollen wir,
 dass die Untertanen des Reichs ungestört ihren Beschäftigungen nachgehen
-können. ^{[[#fn5][5]]}
+können. [fn:5]
 
 <<v24>>
 24 Andererseits haben wir erfahren, dass die Juden mit der von meinem
@@ -201,13 +190,15 @@ mit.
 38 Lebt wohl! Im Jahr 148, am Fünfzehnten des Monats Xanthikus.\\
 \\
 
-^{[[#fnm1][1]]} ℘ (1-12) 1 Makk 4,26-35
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ Ex 23,20
+[fn:1] (1-12) [[file:1.Makk_4.org::v26][1 Makk 4,26]]-[[file:1.Makk_4.org::v35][35]]
 
-^{[[#fnm3][3]]} ℘ (13-38) 1 Makk 6,55-63
+[fn:2] [[file:Ex_23.org::v20][Ex 23,20]]
 
-^{[[#fnm4][4]]} Gemeint ist das Frühjahr 164 v. Chr.
+[fn:3] (13-38) [[file:1.Makk_6.org::v55][1 Makk 6,55]]-[[file:1.Makk_6.org::v63][63]]
 
-^{[[#fnm5][5]]} Vergöttlichung und kultische Verehrung der Herrscher war
+[fn:4] Gemeint ist das Frühjahr 164 v. Chr.
+
+[fn:5] Vergöttlichung und kultische Verehrung der Herrscher war
 bei den Seleuziden ebenso üblich wie bei den Lagiden in Ägypten.

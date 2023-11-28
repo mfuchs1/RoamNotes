@@ -1,33 +1,25 @@
-:PROPERTIES:
-:ID:       931321cf-a71c-4747-ba9e-5787eb708829
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch der Makkabäer* --
-[[file:2.Makk_1.html][1]] ... [[file:2.Makk_12.html][12]]
-[[file:2.Makk_13.html][13]] *14* [[file:2.Makk_15.html][15]]
-
---------------
-
-* 2.Makk 14
-  :PROPERTIES:
-  :CUSTOM_ID: makk-14
-  :END:
+#+TITLE: 2 Makk 14 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-28 Di 21:15]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Makk 14.html
 
 <<verses>>
 
 <<v1>>
-** Der Feldzug Nikanors: 14,1 - 15,36
-   :PROPERTIES:
-   :CUSTOM_ID: der-feldzug-nikanors-141---1536
-   :END:
-**** Die Intrige des Hohenpriesters Alkimus gegen Judas: 14,1-14
-     :PROPERTIES:
-     :CUSTOM_ID: die-intrige-des-hohenpriesters-alkimus-gegen-judas-141-14
-     :END:
+* Der Feldzug Nikanors: 14,1 - 15,36
+
+* Die Intrige des Hohenpriesters Alkimus gegen Judas: 14,1-14
+
 1 Drei Jahre später erfuhren die Leute des Judas, dass Demetrius, der
 Sohn des Seleukus, mit starken Truppen und einer Flotte im Hafen von
-Tripolis gelandet sei. ^{[[#fn1][1]]}
+Tripolis gelandet sei. [fn:1]
 
 <<v2>>
 2 Antiochus und dessen Vormund Lysias habe er aus dem Weg räumen lassen
@@ -38,7 +30,7 @@ und das Land in seine Gewalt gebracht.
 Hoherpriester gewesen, hatte sich aber schon vor der Zeit der
 Religionsvermischung freiwillig unrein gemacht. Wie er wohl wusste,
 hatte er sich dadurch in eine ausweglose Lage gebracht, sodass er nie
-wieder an den heiligen Altar treten konnte. ^{[[#fn2][2]]}
+wieder an den heiligen Altar treten konnte. [fn:2]
 
 <<v4>>
 4 Darum kam er um das Jahr 151 zu König Demetrius und überreichte ihm
@@ -96,19 +88,16 @@ Missgeschick der Juden werde ihnen Glück bringen.\\
 \\
 
 <<v15>>
-**** Die Freundschaft zwischen Nikanor und Judas: 14,15-25
-     :PROPERTIES:
-     :CUSTOM_ID: die-freundschaft-zwischen-nikanor-und-judas-1415-25
-     :END:
+* Die Freundschaft zwischen Nikanor und Judas: 14,15-25
+
 15 Als die Juden vom Anmarsch Nikanors erfuhren und hörten, dass
 zusammen mit ihm die Heiden anrückten, streuten sie sich Erde auf das
 Haupt und flehten Gott an, der sein Volk für ewige Zeiten geschaffen hat
-und sich immer vor aller Welt sichtbar seines Erbteils annimmt.
-^{[[#fn3][3]]}
+und sich immer vor aller Welt sichtbar seines Erbteils annimmt. [fn:3]
 
 <<v16>>
 16 Auf Beschluss ihres Anführers brachen sie sofort auf und trafen bei
-dem Dorf Dessau auf die Feinde. ^{[[#fn4][4]]}
+dem Dorf Dessau auf die Feinde. [fn:4]
 
 <<v17>>
 17 Simeon, der Bruder des Judas, war zwar schon mit Nikanor
@@ -152,15 +141,13 @@ heiratete Juda und es ging ihm gut und er freute sich seines Lebens.\\
 \\
 
 <<v26>>
-**** Die Entzweiung zwischen Judas und Nikanor: 14,26-36
-     :PROPERTIES:
-     :CUSTOM_ID: die-entzweiung-zwischen-judas-und-nikanor-1426-36
-     :END:
+* Die Entzweiung zwischen Judas und Nikanor: 14,26-36
+
 26 Dem Alkimus blieb nicht verborgen, dass die beiden einander
 wohlgesinnt waren. Er verschaffte sich die abgeschlossenen Verträge,
 begab sich zu Demetrius und hinterbrachte ihm, Nikanor handle dem
 Staatswohl zuwider: Er habe Judas, den Feind seines Reiches, zum
-Nachfolger bestimmt. ^{[[#fn5][5]]}
+Nachfolger bestimmt. [fn:5]
 
 <<v27>>
 27 Der König war sehr aufgebracht und gereizt durch die Verleumdungen
@@ -215,10 +202,8 @@ Haus, das vor kurzem erst entsühnt wurde, unbefleckt in Ewigkeit.\\
 \\
 
 <<v37>>
-**** Der Tod Rasis: 14,37-46
-     :PROPERTIES:
-     :CUSTOM_ID: der-tod-rasis-1437-46
-     :END:
+* Der Tod Rasis: 14,37-46
+
 37 Unter den Ältesten der Stadt Jerusalem gab es einen Mann namens Rasi.
 Er war seinen Mitbürgern freundlich zugetan, stand in hohem Ansehen und
 hieß wegen seiner Güte Vater der Juden. Dieser Mann wurde bei Nikanor
@@ -242,7 +227,7 @@ Schlag zu versetzen.
 41 Schon waren die Truppen dabei, den Turm zu besetzen; sie versuchten,
 sich den Eingang durch das Hoftor mit Gewalt zu erzwingen, und riefen
 nach Feuer, um die Türen in Brand zu setzen. Rasi war von allen Seiten
-umzingelt. Da stürzte er sich in das Schwert; ^{[[#fn6][6]]}
+umzingelt. Da stürzte er sich in das Schwert; [fn:6]
 
 <<v42>>
 42 denn er wollte lieber in Ehren sterben als den Verruchten in die
@@ -268,22 +253,24 @@ Felsen.
 46 Fast schon verblutet, riss er sich die Eingeweide aus dem Leib,
 packte sie mit beiden Händen und schleuderte sie auf die Leute hinunter;
 dabei rief er den Herrn über Leben und Tod an, er möge sie ihm
-wiedergeben. So starb er. ^{[[#fn7][7]][[#fn8][8]]}\\
+wiedergeben. So starb er. [fn:7] [fn:8]\\
 \\
 
-^{[[#fnm1][1]]} ℘ (1-14) 1 Makk 7,1-26
+* Footnotes
 
-^{[[#fnm2][2]]} Alkimus hatte die griechische Lebensweise angenommen.
+[fn:1] (1-14) [[file:1.Makk_7.org::v1][1 Makk 7,1]]-[[file:1.Makk_7.org::v26][26]]
 
-^{[[#fnm3][3]]} ℘ (15-25) 1 Makk 7,27-29
+[fn:2] Alkimus hatte die griechische Lebensweise angenommen.
 
-^{[[#fnm4][4]]} ℘ 1 Makk 7,31f
+[fn:3] (15-25) [[file:1.Makk_7.org::v27][1 Makk 7,27]]-[[file:1.Makk_7.org::v29][29]]
 
-^{[[#fnm5][5]]} ℘ (26-36) 1 Makk 7,30-38
+[fn:4] [[file:1.Makk_7.org::v31][1 Makk 7,31f]]
 
-^{[[#fnm6][6]]} ℘ 1 Sam 31,4
+[fn:5] (26-36) [[file:1.Makk_7.org::v30][1 Makk 7,30]]-[[file:1.Makk_7.org::v38][38]]
 
-^{[[#fnm7][7]]} ℘ 7,11.14.23.29.36
+[fn:6] [[file:1.Sam_31.org::v4][1 Sam 31,4]]
 
-^{[[#fnm8][8]]} Selbstmord kommt in der Bibel nur in ganz aussichtslosen
-Lagen vor (vgl. 1 Sam 31,4).
+[fn:7] [[file:2.Makk_7.org::v11][7,11]].[[file:2.Makk_7.org::v14][14]].[[file:2.Makk_7.org::v23][23]].[[file:2.Makk_7.org::v29][29]].[[file:2.Makk_7.org::v36][36]]
+
+[fn:8] Selbstmord kommt in der Bibel nur in ganz aussichtslosen
+Lagen vor (vgl. [[file:1.Sam_31.org::v4][1 Sam 31,4]]).

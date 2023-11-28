@@ -1,33 +1,24 @@
-:PROPERTIES:
-:ID:       0fe7a34c-5984-4715-93fd-f0f37413be87
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch der Makkabäer* --
-[[file:2.Makk_1.html][1]] ... [[file:2.Makk_3.html][3]]
-[[file:2.Makk_4.html][4]] *5* [[file:2.Makk_6.html][6]]
-[[file:2.Makk_7.html][7]] ... [[file:2.Makk_15.html][15]]
-
---------------
-
-* 2.Makk 5
-  :PROPERTIES:
-  :CUSTOM_ID: makk-5
-  :END:
+#+TITLE: 2 Makk 5 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-28 Di 17:14]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Makk 5.html
 
 <<verses>>
 
 <<v1>>
-** Der Einbruch des Unheils: 5,1 - 7,42
-   :PROPERTIES:
-   :CUSTOM_ID: der-einbruch-des-unheils-51---742
-   :END:
-**** Ein Vorzeichen: 5,1-4
-     :PROPERTIES:
-     :CUSTOM_ID: ein-vorzeichen-51-4
-     :END:
+* Der Einbruch des Unheils: 5,1 - 7,42
+
+* Ein Vorzeichen: 5,1-4
+
 1 Um diese Zeit unternahm Antiochus seinen zweiten Feldzug gegen
-Ägypten. ^{[[#fn1][1]]}
+Ägypten. [fn:1]
 
 <<v2>>
 2 Da erschienen fast vierzig Tage lang über der ganzen Stadt Reiter, die
@@ -45,10 +36,8 @@ auf und man sah Rüstungen aller Art.
 \\
 
 <<v5>>
-**** Der Bürgerkrieg in Jerusalem: 5,5-10
-     :PROPERTIES:
-     :CUSTOM_ID: der-bürgerkrieg-in-jerusalem-55-10
-     :END:
+* Der Bürgerkrieg in Jerusalem: 5,5-10
+
 5 Es kam aber das falsche Gerücht auf, Antiochus sei gestorben. Da
 unternahm Jason mit nicht weniger als tausend Mann einen überraschenden
 Angriff auf die Stadt. Er drängte die Verteidiger auf der Mauer rasch in
@@ -76,7 +65,7 @@ des Vaterlandes und seiner Mitbürger, verschlug es ihn nach Ägypten.
 9 Und wie er viele Menschen aus ihrem Vaterland in die Fremde getrieben
 hatte, so kam er selbst in der Fremde um, nämlich bei den Spartanern, zu
 denen er übers Meer gefahren war, um bei ihnen Schutz zu finden; die
-Spartaner waren ja mit den Juden verwandt. ^{[[#fn2][2]]}
+Spartaner waren ja mit den Juden verwandt. [fn:2]
 
 <<v10>>
 10 So wie er viele ohne Grab hatte daliegen lassen, so trauerte jetzt
@@ -85,14 +74,11 @@ bei seinen Vätern.\\
 \\
 
 <<v11>>
-**** Der Überfall des heidnischen Königs: 5,11-20
-     :PROPERTIES:
-     :CUSTOM_ID: der-überfall-des-heidnischen-königs-511-20
-     :END:
+* Der Überfall des heidnischen Königs: 5,11-20
+
 11 Als dem König zu Ohren kam, was geschehen war, glaubte er, Judäa
 wolle von ihm abfallen. Wütend wie ein wildes Tier brach er daher mit
-seinem Heer von Ägypten auf und nahm die Stadt mit Waffengewalt ein.
-^{[[#fn3][3]]}
+seinem Heer von Ägypten auf und nahm die Stadt mit Waffengewalt ein. [fn:3]
 
 <<v12>>
 12 Er befahl seinen Soldaten, alle, die ihnen begegneten, rücksichtslos
@@ -121,7 +107,7 @@ raffte er mit unreinen Händen zusammen.
 <<v17>>
 17 In seinem Übermut erkannte Antiochus nicht, dass der Herr nur für
 eine kurze Zeit zornig war, weil die Einwohner der Stadt gesündigt
-hatten, und deswegen nicht auf den Ort achtete. ^{[[#fn4][4]]}
+hatten, und deswegen nicht auf den Ort achtete. [fn:4]
 
 <<v18>>
 18 Hätten sich die Juden damals nicht in viele Sünden verstrickt, dann
@@ -142,10 +128,8 @@ wiederhergestellt.\\
 \\
 
 <<v21>>
-**** Jerusalem in der Hand der Heiden: 5,21-27
-     :PROPERTIES:
-     :CUSTOM_ID: jerusalem-in-der-hand-der-heiden-521-27
-     :END:
+* Jerusalem in der Hand der Heiden: 5,21-27
+
 21 Antiochus also ließ tausendachthundert Talente aus dem Tempel
 schaffen und zog eilig ab nach Antiochia. In seiner Vermessenheit
 glaubte er, das Land schiffbar und das Meer gangbar machen zu können -
@@ -166,7 +150,7 @@ denn er hasste die jüdischen Bürger.
 24 Außerdem schickte der König den Anführer der Mysier, Apollonius, mit
 einem Heer von zweiundzwanzigtausend Mann; er hatte ihm befohlen, alle
 wehrfähigen Männer umzubringen, die Frauen und Kinder aber in die
-Sklaverei zu verkaufen. ^{[[#fn5][5]]}
+Sklaverei zu verkaufen. [fn:5]
 
 <<v25>>
 25 Als Apollonius in Jerusalem ankam, spielte er zunächst den
@@ -183,17 +167,19 @@ und erschlugen viele Menschen.
 27 Judas aber, mit dem Beinamen der Makkabäer, schloss sich mit neun
 Gefährten zusammen und zog sich in die Wüste zurück. Er lebte mit seinen
 Leuten in den Bergen wie die Tiere. Sie ernährten sich die ganze Zeit
-nur von Pflanzen, um nicht ebenfalls unrein zu werden. ^{[[#fn6][6]]}\\
+nur von Pflanzen, um nicht ebenfalls unrein zu werden. [fn:6]\\
 \\
 
-^{[[#fnm1][1]]} ℘ 1 Makk 1,17
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 1 Makk 12,7
+[fn:1] [[file:1.Makk_1.org::v17][1 Makk 1,17]]
 
-^{[[#fnm3][3]]} ℘ (11-16) 1 Makk 1,20-24
+[fn:2] [[file:1.Makk_12.org::v7][1 Makk 12,7]]
 
-^{[[#fnm4][4]]} ℘ 6,12-17
+[fn:3] (11-16) [[file:1.Makk_1.org::v20][1 Makk 1,20]]-[[file:1.Makk_1.org::v24][24]]
 
-^{[[#fnm5][5]]} ℘ (24-26) 1 Makk 1,29f
+[fn:4] [[file:2.Makk_6.org::v12][6,12]]-[[file:2.Makk_6.org::v17][17]]
 
-^{[[#fnm6][6]]} ℘ 1 Makk 2,28; Hebr 11,38
+[fn:5] (24-26) [[file:1.Makk_1.org::v29][1 Makk 1,29f]]
+
+[fn:6] [[file:1.Makk_2.org::v28][1 Makk 2,28]]; [[file:~/RoamNotes/notes/Bibel/nt/Hebr_11.org::v38][Hebr 11,38]]

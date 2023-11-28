@@ -1,30 +1,22 @@
-:PROPERTIES:
-:ID:       4cdf9407-f0c3-44aa-aadb-ae7841bce999
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das zweite Buch der Makkabäer* --
-[[file:2.Makk_1.html][1]] ... [[file:2.Makk_8.html][8]]
-[[file:2.Makk_9.html][9]] *10* [[file:2.Makk_11.html][11]]
-[[file:2.Makk_12.html][12]] ... [[file:2.Makk_15.html][15]]
-
---------------
-
-* 2.Makk 10
-  :PROPERTIES:
-  :CUSTOM_ID: makk-10
-  :END:
+#+TITLE: 2 Makk 10 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-28 Di 18:22]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/2 Makk 10.html
 
 <<verses>>
 
 <<v1>>
-**** Die Reinigung des entweihten Tempels: 10,1-8
-     :PROPERTIES:
-     :CUSTOM_ID: die-reinigung-des-entweihten-tempels-101-8
-     :END:
+* Die Reinigung des entweihten Tempels: 10,1-8
+
 1 Der Makkabäer aber und seine Leute konnten unter der Führung des Herrn
-das Heiligtum und die Stadt wieder in Besitz nehmen.
-^{[[#fn1][1]][[#fn2][2]]}
+das Heiligtum und die Stadt wieder in Besitz nehmen. [fn:1] [fn:2]
 
 <<v2>>
 2 Sie rissen die Altäre ein, die die Heiden auf dem Tempelplatz
@@ -41,7 +33,7 @@ konnten. Auch bemühten sie sich um Räucherwerk, Leuchter und Schaubrote.
 sie nie wieder in solches Unglück gerieten. Für den Fall, dass sie noch
 einmal sündigen sollten, wollten sie lieber von ihm selbst in Güte
 gezüchtigt werden als in die Hände frecher und barbarischer Heiden
-fallen. ^{[[#fn3][3]]}
+fallen. [fn:3]
 
 <<v5>>
 5 Es traf sich, dass die Reinigung des Tempels auf den gleichen Tag
@@ -51,8 +43,7 @@ fünfundzwanzigsten Kislew.
 <<v6>>
 6 Sie feierten acht Tage lang ein fröhliches Fest nach Art des
 Laubhüttenfestes; dabei dachten sie daran, dass sie noch vor kurzem das
-Laubhüttenfest wie wilde Tiere in den Höhlen der Berge verbracht hatten.
-^{[[#fn4][4]]}
+Laubhüttenfest wie wilde Tiere in den Höhlen der Berge verbracht hatten. [fn:4]
 
 <<v7>>
 7 Sie nahmen Stäbe, die sie mit grünen Blättern umwunden hatten, in die
@@ -67,14 +58,10 @@ habe.\\
 \\
 
 <<v9>>
-** Die Ereignisse unter Antiochus Eupator: 10,9 - 13,26
-   :PROPERTIES:
-   :CUSTOM_ID: die-ereignisse-unter-antiochus-eupator-109---1326
-   :END:
-**** Der Regierungsantritt des Antiochus Eupator: 10,9-13
-     :PROPERTIES:
-     :CUSTOM_ID: der-regierungsantritt-des-antiochus-eupator-109-13
-     :END:
+* Die Ereignisse unter Antiochus Eupator: 10,9 - 13,26
+
+* Der Regierungsantritt des Antiochus Eupator: 10,9-13
+
 9 So starb Antiochus, den man Epiphanes nannte.
 
 <<v10>>
@@ -86,13 +73,12 @@ welches Unheil aus den kriegerischen Verwicklungen entstand.
 11 Als Eupator seine Herrschaft antrat, ernannte er einen Mann namens
 Lysias zum Reichsverweser; außerdem machte er ihn zum Befehlshaber über
 Zölesyrien und Phönizien und zum Oberkommandierenden über die dort
-liegenden Truppen. ^{[[#fn5][5]]}
+liegenden Truppen. [fn:5]
 
 <<v12>>
 12 Ptolemäus, mit dem Zunamen Makron, hatte als erster den Juden
 Gerechtigkeit widerfahren lassen, weil ihnen so viel Unrecht geschehen
-war; er hatte versucht, den Streit mit ihnen friedlich beizulegen.
-^{[[#fn6][6]]}
+war; er hatte versucht, den Streit mit ihnen friedlich beizulegen. [fn:6]
 
 <<v13>>
 13 Seine Vertrauten verklagten ihn deswegen bei Eupator. Schon vorher
@@ -103,18 +89,15 @@ Ehren verwalten konnte, machte er seinem Leben durch Gift ein Ende.\\
 \\
 
 <<v14>>
-**** Die Kämpfe mit den Idumäern und mit Timotheus: 10,14-38
-     :PROPERTIES:
-     :CUSTOM_ID: die-kämpfe-mit-den-idumäern-und-mit-timotheus-1014-38
-     :END:
+* Die Kämpfe mit den Idumäern und mit Timotheus: 10,14-38
+
 14 Gorgias wurde Befehlshaber in dieser Gegend; er warb Söldner an und
-führte Krieg gegen die Juden, wo er nur konnte. ^{[[#fn7][7]]}
+führte Krieg gegen die Juden, wo er nur konnte. [fn:7]
 
 <<v15>>
 15 Außer ihm machten auch die Idumäer, die eine Reihe gut gelegener
 Festungen besaßen, den Juden zu schaffen. Sie hatten Flüchtlinge aus
-Jerusalem bei sich aufgenommen und begannen, Krieg zu führen.
-^{[[#fn8][8]]}
+Jerusalem bei sich aufgenommen und begannen, Krieg zu führen. [fn:8]
 
 <<v16>>
 16 Die Männer um den Makkabäer hielten einen Bittgottesdienst ab und
@@ -129,7 +112,7 @@ Dabei töteten sie mindestens zwanzigtausend Mann.
 <<v18>>
 18 Nicht weniger als neuntausend Mann konnten sich in zwei stark
 befestigte Burgen flüchten, die für eine Belagerung mit allem aufs Beste
-ausgerüstet waren. ^{[[#fn9][9]]}
+ausgerüstet waren. [fn:9]
 
 <<v19>>
 19 Der Makkabäer zog ab, da seine Anwesenheit an einem anderen Ort
@@ -157,8 +140,7 @@ den beiden Festungen über zwanzigtausend Mann.
 <<v24>>
 24 Timotheus - derselbe, den die Juden schon einmal geschlagen hatten
 sammelte ein großes Söldnerheer und brachte auch ziemlich viel Reiterei
-aus der Provinz Asien zusammen. Damit rückte er an, um Judäa zu erobern.
-^{[[#fn10][10]]}
+aus der Provinz Asien zusammen. Damit rückte er an, um Judäa zu erobern. [fn:10]
 
 <<v25>>
 25 Als er schon in der Nähe war, riefen die Männer des Makkabäers Gott
@@ -167,8 +149,7 @@ um Hilfe an, streuten sich Erde auf das Haupt und zogen Bußgewänder an.
 <<v26>>
 26 Sie warfen sich vor den Stufen des Brandopferaltars nieder und baten
 den, der ihnen wieder gnädig war, ihren Feinden feindlich gesinnt zu
-sein und ihren Widersachern zu widerstehen, wie das Gesetz sagt.
-^{[[#fn11][11]]}
+sein und ihren Widersachern zu widerstehen, wie das Gesetz sagt. [fn:11]
 
 <<v27>>
 27 Nach diesem Gebet nahmen sie ihre Waffen, verließen die Stadt und
@@ -229,25 +210,27 @@ nieder, ebenso seinen Bruder Chäreas und den Apollophanes.
 für Israel getan und ihnen den Sieg geschenkt hatte.\\
 \\
 
-^{[[#fnm1][1]]} ℘ (1-8) 1 Makk 4,36-61
+* Footnotes
 
-^{[[#fnm2][2]]} 1-8: Im Herbst 164 v. Chr. starb Antiochus; im Dezember
+[fn:1] (1-8) [[file:1.Makk_4.org::v36][1 Makk 4,36]]-[[file:1.Makk_4.org::v61][61]]
+
+[fn:2] 1-8: Im Herbst 164 v. Chr. starb Antiochus; im Dezember
 des gleichen Jahres wurde der Tempel gereinigt.
 
-^{[[#fnm3][3]]} ℘ 2 Sam 24,14; 1 Chr 21,13
+[fn:3] [[file:2.Sam_24.org::v14][2 Sam 24,14]]; [[file:1.Chr_21.org::v13][1 Chr 21,13]]
 
-^{[[#fnm4][4]]} ℘ 5,27
+[fn:4] [[file:2.Makk_5.org::v27][5,27]]
 
-^{[[#fnm5][5]]} ℘ 1 Makk 3,32f; 6,17
+[fn:5] [[file:1.Makk_3.org::v32][1 Makk 3,32f]]; [[file:1.Makk_6.org::v17][6,17]]
 
-^{[[#fnm6][6]]} ℘ 4,45
+[fn:6] [[file:2.Makk_4.org::v45][4,45]]
 
-^{[[#fnm7][7]]} ℘ 1 Makk 3,38
+[fn:7] [[file:1.Makk_3.org::v38][1 Makk 3,38]]
 
-^{[[#fnm8][8]]} ℘ 1 Makk 5,3
+[fn:8] [[file:1.Makk_5.org::v3][1 Makk 5,3]]
 
-^{[[#fnm9][9]]} ℘ 1 Makk 5,4f
+[fn:9] [[file:1.Makk_5.org::v4][1 Makk 5,4f]]
 
-^{[[#fnm10][10]]} ℘ 1 Makk 5,6f; 2 Makk 8,30; 12,10.21-25
+[fn:10] [[file:1.Makk_5.org::v6][1 Makk 5,6f]]; [[file:2.Makk_8.org::v30][2 Makk 8,30]]; [[file:2.Makk_12.org::v10][12,10]].[[file:2.Makk_12.org::v21][21]]-[[file:2.Makk_12.org::v25][25]]
 
-^{[[#fnm11][11]]} ℘ Ex 23,22
+[fn:11] [[file:Ex_23.org::v22][Ex 23,22]]
