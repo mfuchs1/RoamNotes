@@ -1,6 +1,6 @@
 #+title:      Elternsprechtag
 #+date:       [2023-11-28 Di 15:28]
-#+filetags:   :Project:schule:
+#+filetags:   :schule:
 #+identifier: 20231128T152836
 #+CATEGORY: golling
 
@@ -26,13 +26,23 @@ In meine Stunde kam der KV einer Nachbarklasse: Tobias hat eine leere Plastikfla
 
 Ich hab ihn öfters ermahnt - er wiederholt meine Worte wie ein Papagei.
 
-* Kerstin Jochinger (Schüler Rudolf Jochinger, 1b)
-SCHEDULED: <2023-11-28 Di 18:37-18:44>
+* DONE Kerstin Jochinger (Schüler Rudolf Jochinger, 1b)
+CLOSED: [2023-11-29 Mi 07:34] SCHEDULED: <2023-11-28 Di 18:37-18:44>
+:LOGBOOK:
+- State "DONE"       from              [2023-11-29 Mi 07:34]
+:END:
 
 Bin ich überfragt - wer ist das?
 
-* Monika Malter (Schüler Leonhard Malter, 2a) 
-SCHEDULED: <2023-11-28 Di 18:44-18:51>
+* DONE Monika Malter (Schüler Leonhard Malter, 2a) 
+CLOSED: [2023-11-29 Mi 07:34] SCHEDULED: <2023-11-28 Di 18:44-18:51>
+:LOGBOOK:
+- State "DONE"       from              [2023-11-29 Mi 07:34]
+:END:
 
-* Herr Struber (Schülerin Valentina Struber, 2b)
+* DONE Herr Struber (Schülerin Valentina Struber, 2b)
+CLOSED: [2023-11-29 Mi 07:34]
+:LOGBOOK:
+- State "DONE"       from              [2023-11-29 Mi 07:34]
+:END:
 Fand es zu Beginn des Schuljahres sehr schade, als Valentina gemeint hat, dass sie sich abmelden will. Da sie die beste Schülerin in dieser Klasse in Religion ist. 

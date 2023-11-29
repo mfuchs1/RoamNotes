@@ -1,30 +1,23 @@
-:PROPERTIES:
-:ID:       551c96d4-3f4c-40db-95ea-3043060caa18
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Ijob* -- [[file:Ijob_1.html][1]] ...
-[[file:Ijob_15.html][15]] [[file:Ijob_16.html][16]] *17*
-[[file:Ijob_18.html][18]] [[file:Ijob_19.html][19]] ...
-[[file:Ijob_42.html][42]]
-
---------------
-
-* Ijob 17
-  :PROPERTIES:
-  :CUSTOM_ID: ijob-17
-  :END:
+#+TITLE: Ijob 17 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-29 Mi 22:40]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ijob 17.html
 
 <<verses>>
 
 <<v1>>
-**** Die Klage des Verhöhnten: 17,1-10
-     :PROPERTIES:
-     :CUSTOM_ID: die-klage-des-verhöhnten-171-10
-     :END:
+* Die Klage des Verhöhnten: 17,1-10
+
 1 Mein Geist ist verwirrt, /\\
  meine Tage sind ausgelöscht, /\\
- nur Gräber bleiben mir. ^{[[#fn1][1]]}\\
+ nur Gräber bleiben mir. [fn:1]\\
 \\
 
 <<v2>>
@@ -49,18 +42,17 @@
 
 <<v6>>
 6 Zum Spott für die Leute stellte er mich hin, /\\
- ich wurde einer, dem man ins Gesicht spuckt.
-^{[[#fn2][2]][[#fn3][3]]}\\
+ ich wurde einer, dem man ins Gesicht spuckt. [fn:2] [fn:3]\\
 \\
 
 <<v7>>
 7 Vor Kummer ist mein Auge matt, /\\
- all meine Glieder schwinden wie Schatten dahin. ^{[[#fn4][4]]}\\
+ all meine Glieder schwinden wie Schatten dahin. [fn:4]\\
 \\
 
 <<v8>>
 8 Darüber entsetzen sich die Redlichen, /\\
- der Reine empört sich über den Ruchlosen. ^{[[#fn5][5]]}\\
+ der Reine empört sich über den Ruchlosen. [fn:5]\\
 \\
 
 <<v9>>
@@ -74,33 +66,31 @@
 \\
 
 <<v11>>
-**** Die Not des Verzweifelten: 17,11-16
-     :PROPERTIES:
-     :CUSTOM_ID: die-not-des-verzweifelten-1711-16
-     :END:
+* Die Not des Verzweifelten: 17,11-16
+
 11 Dahin sind meine Tage, /\\
  zunichte meine Pläne, meine Herzenswünsche.\\
 \\
 
 <<v12>>
 12 Sie machen mir die Nacht zum Tag, /\\
- das Licht nähert sich dem Dunkel. ^{[[#fn6][6]]}\\
+ das Licht nähert sich dem Dunkel. [fn:6]\\
 \\
 
 <<v13>>
 13 Ich habe keine Hoffnung. /\\
  Die Unterwelt wird mein Haus, /\\
- in der Finsternis breite ich mein Lager aus. ^{[[#fn7][7]]}\\
+ in der Finsternis breite ich mein Lager aus. [fn:7]\\
 \\
 
 <<v14>>
 14 Zur Grube rufe ich: Mein Vater bist du!, /\\
- Meine Mutter, meine Schwester!, zum Wurm. ^{[[#fn8][8]]}\\
+ Meine Mutter, meine Schwester!, zum Wurm. [fn:8]\\
 \\
 
 <<v15>>
 15 Wo ist dann meine Hoffnung /\\
- und wo mein Glück? Wer kann es schauen? ^{[[#fn9][9]][[#fn10][10]]}\\
+ und wo mein Glück? Wer kann es schauen? [fn:9] [fn:10]\\
 \\
 
 <<v16>>
@@ -108,22 +98,24 @@
  sinken wir vereint in den Staub?\\
 \\
 
-^{[[#fnm1][1]]} ℘ Ps 143,4
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 30,9
+[fn:1] [[file:Ps_143.org::v4][Ps 143,4]]
 
-^{[[#fnm3][3]]} Zum Spott: Text korr.
+[fn:2] [[file:Ijob_30.org::v9][30,9]]
 
-^{[[#fnm4][4]]} schwinden dahin: Text korr.
+[fn:3] Zum Spott: Text korr.
 
-^{[[#fnm5][5]]} ℘ Jes 52,15
+[fn:4] schwinden dahin: Text korr.
 
-^{[[#fnm6][6]]} ℘ 11,17; Joh 8,12
+[fn:5] [[file:Jes_52.org::v15][Jes 52,15]]
 
-^{[[#fnm7][7]]} ℘ Ps 88,19
+[fn:6] [[file:Ijob_11.org::v17][11,17]]; [[file:~/RoamNotes/notes/Bibel/nt/Joh_8.org::v12][Joh 8,12]]
 
-^{[[#fnm8][8]]} ℘ Sir 10,11
+[fn:7] [[file:Ps_88.org::v19][Ps 88,19]]
 
-^{[[#fnm9][9]]} ℘ 19,10
+[fn:8] [[file:Sir_10.org::v11][Sir 10,11]]
 
-^{[[#fnm10][10]]} mein Glück: Text korr. nach G; H: meine Hoffnung.
+[fn:9] [[file:Ijob_19.org::v10][19,10]]
+
+[fn:10] mein Glück: Text korr. nach G; H: meine Hoffnung.

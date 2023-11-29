@@ -1,31 +1,22 @@
-:PROPERTIES:
-:ID:       1fdb4234-b6e3-4d7d-9627-894b8d33e28e
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Ijob* -- [[file:Ijob_1.html][1]] ...
-[[file:Ijob_18.html][18]] [[file:Ijob_19.html][19]] *20*
-[[file:Ijob_21.html][21]] [[file:Ijob_22.html][22]] ...
-[[file:Ijob_42.html][42]]
-
---------------
-
-* Ijob 20
-  :PROPERTIES:
-  :CUSTOM_ID: ijob-20
-  :END:
+#+TITLE: Ijob 20 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-29 Mi 23:04]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ijob 20.html
 
 <<verses>>
 
 <<v1>>
-*** Die zweite Rede Zofars: 20,1-29
-    :PROPERTIES:
-    :CUSTOM_ID: die-zweite-rede-zofars-201-29
-    :END:
-**** Ijobs unbegründeter Vorwurf: 20,1-3
-     :PROPERTIES:
-     :CUSTOM_ID: ijobs-unbegründeter-vorwurf-201-3
-     :END:
+* Die zweite Rede Zofars: 20,1-29
+
+* Ijobs unbegründeter Vorwurf: 20,1-3
+
 1 Da antwortete Zofar von Naama und sprach:\\
 \\
 
@@ -40,10 +31,8 @@
 \\
 
 <<v4>>
-**** Das Schicksal des Frevlers: 20,4-29
-     :PROPERTIES:
-     :CUSTOM_ID: das-schicksal-des-frevlers-204-29
-     :END:
+* Das Schicksal des Frevlers: 20,4-29
+
 4 Weißt du das nicht von Urzeit her, /\\
  seit Gott Menschen auf die Erde gesetzt hat:\\
 \\
@@ -55,7 +44,7 @@
 
 <<v6>>
 6 Steigt auch sein Übermut zum Himmel /\\
- und rührt sein Kopf bis ans Gewölk, ^{[[#fn1][1]]}\\
+ und rührt sein Kopf bis ans Gewölk, [fn:1]\\
 \\
 
 <<v7>>
@@ -66,7 +55,7 @@
 <<v8>>
 8 Wie ein Traum verfliegt er /\\
  und ist nicht mehr zu finden, /\\
- wird weggescheucht wie ein Gesicht der Nacht. ^{[[#fn2][2]]}\\
+ wird weggescheucht wie ein Gesicht der Nacht. [fn:2]\\
 \\
 
 <<v9>>
@@ -86,7 +75,7 @@
 
 <<v12>>
 12 Schmeckt süß das Böse in seinem Mund, /\\
- birgt er es unter seiner Zunge, ^{[[#fn3][3]]}\\
+ birgt er es unter seiner Zunge, [fn:3]\\
 \\
 
 <<v13>>
@@ -106,23 +95,23 @@
 
 <<v16>>
 16 Das Gift von Nattern saugt er ein, /\\
- es tötet ihn der Viper Zunge. ^{[[#fn4][4]]}\\
+ es tötet ihn der Viper Zunge. [fn:4]\\
 \\
 
 <<v17>>
 17 Nicht darf er Bäche von Öl schauen, /\\
- nicht Flüsse, die von Milch und Honig fließen. ^{[[#fn5][5]]}\\
+ nicht Flüsse, die von Milch und Honig fließen. [fn:5]\\
 \\
 
 <<v18>>
 18 Zurückgeben muss er seinen Gewinn, /\\
  genießen darf er ihn nicht, /\\
- darf sich nicht freuen am ertauschten Gut. ^{[[#fn6][6]]}\\
+ darf sich nicht freuen am ertauschten Gut. [fn:6]\\
 \\
 
 <<v19>>
 19 Denn Arme schlug er nieder, ließ sie liegen, /\\
- raubte das Haus, das er nicht gebaut. ^{[[#fn7][7]]}\\
+ raubte das Haus, das er nicht gebaut. [fn:7]\\
 \\
 
 <<v20>>
@@ -137,7 +126,7 @@
 
 <<v22>>
 22 Trotz vollen Überflusses kommt er in Not, /\\
- die ganze Wucht des Elends fällt ihn an. ^{[[#fn8][8]]}\\
+ die ganze Wucht des Elends fällt ihn an. [fn:8]\\
 \\
 
 <<v23>>
@@ -160,7 +149,7 @@
 <<v26>>
 26 Nur finsteres Unheil ist für ihn aufbewahrt, /\\
  Feuer, von niemand entfacht, verzehrt ihn, /\\
- frisst noch den letzten Mann in seinem Zelt. ^{[[#fn9][9]]}\\
+ frisst noch den letzten Mann in seinem Zelt. [fn:9]\\
 \\
 
 <<v27>>
@@ -170,32 +159,34 @@
 
 <<v28>>
 28 Die Flut wälzt sein Haus hinweg, /\\
- Wasserströme am Tag seines Zorns. ^{[[#fn10][10]]}\\
+ Wasserströme am Tag seines Zorns. [fn:10]\\
 \\
 
 <<v29>>
 29 Das ist des Frevlers Anteil von Gott, /\\
- das Erbe, das Gott ihm zuspricht. ^{[[#fn11][11]]}\\
+ das Erbe, das Gott ihm zuspricht. [fn:11]\\
 \\
 
-^{[[#fnm1][1]]} ℘ Ps 37,35
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ Ps 73,20
+[fn:1] [[file:Ps_37.org::v35][Ps 37,35]]
 
-^{[[#fnm3][3]]} ℘ Spr 20,17; Sir 40,30
+[fn:2] [[file:Ps_73.org::v20][Ps 73,20]]
 
-^{[[#fnm4][4]]} ℘ Dtn 32,33
+[fn:3] [[file:Spr_20.org::v17][Spr 20,17]]; [[file:Sir_40.org::v30][Sir 40,30]]
 
-^{[[#fnm5][5]]} von Öl: Text korr.
+[fn:4] [[file:Dtn_32.org::v33][Dtn 32,33]]
 
-^{[[#fnm6][6]]} ℘ Ps 109,11
+[fn:5] von Öl: Text korr.
 
-^{[[#fnm7][7]]} ℘ Ps 109,16
+[fn:6] [[file:Ps_109.org::v11][Ps 109,11]]
 
-^{[[#fnm8][8]]} ℘ 21,17
+[fn:7] [[file:Ps_109.org::v16][Ps 109,16]]
 
-^{[[#fnm9][9]]} ℘ 15,23.34
+[fn:8] [[file:Ijob_21.org::v17][21,17]]
 
-^{[[#fnm10][10]]} seines Zorns: des Zorns Gottes.
+[fn:9] [[file:Ijob_15.org::v23][15,23]].[[file:Ijob_15.org::v34][34]]
 
-^{[[#fnm11][11]]} ℘ 27,13
+[fn:10] seines Zorns: des Zorns Gottes.
+
+[fn:11] [[file:Ijob_27.org::v13][27,13]]

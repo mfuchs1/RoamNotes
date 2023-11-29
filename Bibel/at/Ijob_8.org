@@ -1,31 +1,22 @@
-:PROPERTIES:
-:ID:       50498fed-70df-42a0-afab-00fe65e52f01
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Ijob* -- [[file:Ijob_1.html][1]] ...
-[[file:Ijob_6.html][6]] [[file:Ijob_7.html][7]] *8*
-[[file:Ijob_9.html][9]] [[file:Ijob_10.html][10]] ...
-[[file:Ijob_42.html][42]]
-
---------------
-
-* Ijob 8
-  :PROPERTIES:
-  :CUSTOM_ID: ijob-8
-  :END:
+#+TITLE: Ijob 8 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-29 Mi 14:15]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ijob 8.html
 
 <<verses>>
 
 <<v1>>
-*** Die erste Rede Bildads: 8,1-22
-    :PROPERTIES:
-    :CUSTOM_ID: die-erste-rede-bildads-81-22
-    :END:
-**** Das Gesetz der Vergeltung: 8,1-7
-     :PROPERTIES:
-     :CUSTOM_ID: das-gesetz-der-vergeltung-81-7
-     :END:
+* Die erste Rede Bildads: 8,1-22
+
+* Das Gesetz der Vergeltung: 8,1-7
+
 1 Da antwortete Bildad von Schuach und sprach:\\
 \\
 
@@ -36,7 +27,7 @@
 
 <<v3>>
 3 Beugt etwa Gott das Recht /\\
- oder beugt der Allmächtige die Gerechtigkeit? ^{[[#fn1][1]]}\\
+ oder beugt der Allmächtige die Gerechtigkeit? [fn:1]\\
 \\
 
 <<v4>>
@@ -61,12 +52,10 @@
 \\
 
 <<v8>>
-**** Das Zeugnis der Erfahrung: 8,8-22
-     :PROPERTIES:
-     :CUSTOM_ID: das-zeugnis-der-erfahrung-88-22
-     :END:
+* Das Zeugnis der Erfahrung: 8,8-22
+
 8 Ja, frag nur das frühere Geschlecht /\\
- und merk dir, was die Väter erforschten. ^{[[#fn2][2]]}\\
+ und merk dir, was die Väter erforschten. [fn:2]\\
 \\
 
 <<v9>>
@@ -91,7 +80,7 @@
 
 <<v13>>
 13 So enden alle, die Gott vergessen, /\\
- des Ruchlosen Hoffen wird zunichte. ^{[[#fn3][3]][[#fn4][4]]}\\
+ des Ruchlosen Hoffen wird zunichte. [fn:3] [fn:4]\\
 \\
 
 <<v14>>
@@ -136,15 +125,17 @@
 
 <<v22>>
 22 Deine Hasser werden sich kleiden in Schmach, /\\
- das Zelt der Frevler besteht nicht mehr. ^{[[#fn5][5]]}\\
+ das Zelt der Frevler besteht nicht mehr. [fn:5]\\
 \\
 
-^{[[#fnm1][1]]} ℘ 34,10-12; Dtn 32,4
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 15,18; Ps 78,3f
+[fn:1] [[file:Ijob_34.org::v10][34,10]]-[[file:Ijob_34.org::v12][12]]; [[file:Dtn_32.org::v4][Dtn 32,4]]
 
-^{[[#fnm3][3]]} ℘ Spr 10,28
+[fn:2] [[file:Ijob_15.org::v18][15,18]]; [[file:Ps_78.org::v3][Ps 78,3f]]
 
-^{[[#fnm4][4]]} Wörtlich: So sind die Wege aller.
+[fn:3] [[file:Spr_10.org::v28][Spr 10,28]]
 
-^{[[#fnm5][5]]} ℘ Ps 6,11; Spr 14,11
+[fn:4] Wörtlich: So sind die Wege aller.
+
+[fn:5] [[file:Ps_6.org::v11][Ps 6,11]]; [[file:Spr_14.org::v11][Spr 14,11]]

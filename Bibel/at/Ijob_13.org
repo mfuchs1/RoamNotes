@@ -1,34 +1,27 @@
-:PROPERTIES:
-:ID:       60208605-57a3-45d4-9f54-0cb0b820bf6d
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Ijob* -- [[file:Ijob_1.html][1]] ...
-[[file:Ijob_11.html][11]] [[file:Ijob_12.html][12]] *13*
-[[file:Ijob_14.html][14]] [[file:Ijob_15.html][15]] ...
-[[file:Ijob_42.html][42]]
-
---------------
-
-* Ijob 13
-  :PROPERTIES:
-  :CUSTOM_ID: ijob-13
-  :END:
+#+TITLE: Ijob 13 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-29 Mi 22:08]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ijob 13.html
 
 <<verses>>
 
 <<v1>>
-**** Das leere Gerede der Freunde: 13,1-12
-     :PROPERTIES:
-     :CUSTOM_ID: das-leere-gerede-der-freunde-131-12
-     :END:
+* Das leere Gerede der Freunde: 13,1-12
+
 1 Seht, all das hat mein Auge gesehen, /\\
  mein Ohr gehört und wohl gemerkt.\\
 \\
 
 <<v2>>
 2 Was ihr wisst, weiß ich auch; /\\
- ich falle nicht ab im Vergleich mit euch. ^{[[#fn1][1]]}\\
+ ich falle nicht ab im Vergleich mit euch. [fn:1]\\
 \\
 
 <<v3>>
@@ -82,17 +75,15 @@
 \\
 
 <<v13>>
-**** Die Verteidigung der eigenen Unschuld: 13,13-28
-     :PROPERTIES:
-     :CUSTOM_ID: die-verteidigung-der-eigenen-unschuld-1313-28
-     :END:
+* Die Verteidigung der eigenen Unschuld: 13,13-28
+
 13 Schweigt vor mir, damit ich reden kann. /\\
  Dann komme auf mich, was mag.\\
 \\
 
 <<v14>>
 14 Meinen Leib nehme ich zwischen die Zähne, /\\
- in meine Hand leg ich mein Leben. ^{[[#fn2][2]]}\\
+ in meine Hand leg ich mein Leben. [fn:2]\\
 \\
 
 <<v15>>
@@ -142,42 +133,44 @@
 
 <<v24>>
 24 Warum verbirgst du dein Angesicht /\\
- und siehst mich an als deinen Feind? ^{[[#fn3][3]]}\\
+ und siehst mich an als deinen Feind? [fn:3]\\
 \\
 
 <<v25>>
 25 Verwehtes Laub willst du noch scheuchen, /\\
- dürre Spreu noch forttreiben? ^{[[#fn4][4]]}\\
+ dürre Spreu noch forttreiben? [fn:4]\
 \\
 
 <<v26>>
 26 Denn Bitterkeit verschreibst du mir, /\\
- teilst mir die Sünden meiner Jugend zu. ^{[[#fn5][5]]}\\
+ teilst mir die Sünden meiner Jugend zu. [fn:5]\\
 \\
 
 <<v27>>
 27 In den Block legst du meine Füße, /\\
  du überwachst auch alle meine Pfade /\\
- und zeichnest einen Strich um meiner Füße Sohlen. ^{[[#fn6][6]]}\\
+ und zeichnest einen Strich um meiner Füße Sohlen. [fn:6]\\
 \\
 
 <<v28>>
 28 Er selbst zerfällt wie Verfaultes, /\\
- dem Kleide gleich, das die Motte fraß. ^{[[#fn7][7]][[#fn8][8]]}\\
+ dem Kleide gleich, das die Motte fraß. [fn:7] [fn:8]\\
 \\
 
-^{[[#fnm1][1]]} ℘ 12,3
+* Footnotes
 
-^{[[#fnm2][2]]} Sinn: Ich riskiere mein Leben.
+[fn:1] [[file:Ijob_12.org::v3][12,3]]
 
-^{[[#fnm3][3]]} ℘ Ps 44,25; 88,15; Ijob 33,10
+[fn:2] Sinn: Ich riskiere mein Leben.
 
-^{[[#fnm4][4]]} ℘ Ps 83,14
+[fn:3] [[file:Ps_44.org::v25][Ps 44,25]]; [[file:Ps_88.org::v15][88,15]]; [[file:Ijob_33.org::v10][Ijob 33,10]]
 
-^{[[#fnm5][5]]} ℘ Ps 25,7
+[fn:4] [[file:Ps_89.org::v14][Ps 83,14]]
 
-^{[[#fnm6][6]]} ℘ 33,11
+[fn:5] [[file:Ps_25.org::v7][Ps 25,7]]
 
-^{[[#fnm7][7]]} ℘ Ps 39,12; Jes 50,9; 51,8
+[fn:6] [[file:Ijob_33.org::v11][33,11]]
 
-^{[[#fnm8][8]]} Der Vers leitet 14,1-6 ein.
+[fn:7] [[file:Ps_39.org::v12][Ps 39,12]]; [[file:Jes_50.org::v9][Jes 50,9]]; [[file:Jes_51.org::v8][51,8]]
+
+[fn:8] Der Vers leitet 14,1-6 ein.

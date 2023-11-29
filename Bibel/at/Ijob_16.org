@@ -1,31 +1,22 @@
-:PROPERTIES:
-:ID:       79b463c8-efd1-46db-9232-1677144c7ccb
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Ijob* -- [[file:Ijob_1.html][1]] ...
-[[file:Ijob_14.html][14]] [[file:Ijob_15.html][15]] *16*
-[[file:Ijob_17.html][17]] [[file:Ijob_18.html][18]] ...
-[[file:Ijob_42.html][42]]
-
---------------
-
-* Ijob 16
-  :PROPERTIES:
-  :CUSTOM_ID: ijob-16
-  :END:
+#+TITLE: Ijob 16 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-29 Mi 22:33]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ijob 16.html
 
 <<verses>>
 
 <<v1>>
-*** Ijobs Gegenrede: 16,1 - 17,16
-    :PROPERTIES:
-    :CUSTOM_ID: ijobs-gegenrede-161---1716
-    :END:
-**** Die leidigen Tröster: 16,1-5
-     :PROPERTIES:
-     :CUSTOM_ID: die-leidigen-tröster-161-5
-     :END:
+* Ijobs Gegenrede: 16,1 - 17,16
+
+* Die leidigen Tröster: 16,1-5
+
 1 Da antwortete Ijob und sprach:\\
 \\
 
@@ -48,14 +39,12 @@
 
 <<v5>>
 5 Ich könnte euch stärken mit meinem Mund, /\\
- nicht sparen das Beileid meiner Lippen. ^{[[#fn1][1]]}\\
+ nicht sparen das Beileid meiner Lippen. [fn:1]\\
 \\
 
 <<v6>>
-**** Gottes ungerechter Angriff: 16,6-17
-     :PROPERTIES:
-     :CUSTOM_ID: gottes-ungerechter-angriff-166-17
-     :END:
+* Gottes ungerechter Angriff: 16,6-17
+
 6 Rede ich, hört doch mein Schmerz nicht auf; /\\
  schweige ich, so weicht er nicht vor mir.\\
 \\
@@ -75,7 +64,7 @@
 <<v9>>
 9 Sein Zorn zerreißt, befehdet mich, /\\
  knirscht gegen mich mit den Zähnen, /\\
- mein Gegner schärft die Augen gegen mich. ^{[[#fn2][2]]}\\
+ mein Gegner schärft die Augen gegen mich. [fn:2]\\
 \\
 
 <<v10>>
@@ -92,13 +81,13 @@
 <<v12>>
 12 In Ruhe lebte ich, da hat er mich erschüttert, /\\
  mich im Nacken gepackt, mich zerschmettert, /\\
- mich als Zielscheibe für sich aufgestellt. ^{[[#fn3][3]]}\\
+ mich als Zielscheibe für sich aufgestellt. [fn:3]\\
 \\
 
 <<v13>>
 13 Seine Pfeile umschwirren mich, /\\
  schonungslos durchbohrt er mir die Nieren, /\\
- schüttet meine Galle zur Erde. ^{[[#fn4][4]]}\\
+ schüttet meine Galle zur Erde. [fn:4]\\
 \\
 
 <<v14>>
@@ -118,21 +107,19 @@
 
 <<v17>>
 17 Doch kein Unrecht klebt an meinen Händen /\\
- und mein Gebet ist lauter. ^{[[#fn5][5]]}\\
+ und mein Gebet ist lauter. [fn:5]\\
 \\
 
 <<v18>>
-**** Der Zeuge im Himmel: 16,18-22
-     :PROPERTIES:
-     :CUSTOM_ID: der-zeuge-im-himmel-1618-22
-     :END:
+* Der Zeuge im Himmel: 16,18-22
+
 18 O Erde, deck mein Blut nicht zu /\\
- und ohne Ruhstatt sei mein Hilfeschrei! ^{[[#fn6][6]][[#fn7][7]]}\\
+ und ohne Ruhstatt sei mein Hilfeschrei! [fn:6] [fn:7]\\
 \\
 
 <<v19>>
 19 Nun aber, seht, im Himmel ist mein Zeuge, /\\
- mein Bürge in den Höhen. ^{[[#fn8][8]]}\\
+ mein Bürge in den Höhen. [fn:8]\\
 \\
 
 <<v20>>
@@ -148,24 +135,26 @@
 <<v22>>
 22 Denn nur noch wenig Jahre werden kommen, /\\
  dann muss ich den Pfad beschreiten, /\\
- auf dem man nicht wiederkehrt. ^{[[#fn9][9]]}\\
+ auf dem man nicht wiederkehrt. [fn:9]\\
 \\
 
-^{[[#fnm1][1]]} nicht: Text korr. nach G.
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 18,4
+[fn:1] nicht: Text korr. nach G.
 
-^{[[#fnm3][3]]} ℘ Klgl 3,11
+[fn:2] [[file:Ijob_18.org::v4][18,4]]
 
-^{[[#fnm4][4]]} ℘ 6,4
+[fn:3] [[file:Klgl_3.org::v11][Klgl 3,11]]
 
-^{[[#fnm5][5]]} ℘ 33,9
+[fn:4] [[file:Ijob_6.org::v4][6,4]]
 
-^{[[#fnm6][6]]} ℘ Ps 9,13; Offb 6,10
+[fn:5] [[file:Ijob_33.org::v9][33,9]]
 
-^{[[#fnm7][7]]} Anspielung an die Blutrache: Das nicht von Erde bedeckte
+[fn:6] [[file:Ps_9.org::v13][Ps 9,13]]; [[file:~/RoamNotes/notes/Bibel/nt/Offb_6.org::v10][Offb 6,10]]
+
+[fn:7] Anspielung an die Blutrache: Das nicht von Erde bedeckte
 Blut schreit nach Rache (vgl. Gen 4,10).
 
-^{[[#fnm8][8]]} ℘ 19,25
+[fn:8] [[file:Ijob_19.org::v25][19,25]]
 
-^{[[#fnm9][9]]} ℘ 10,21
+[fn:9] [[file:Ijob_10.org::v21][10,21]]

@@ -1,31 +1,22 @@
-:PROPERTIES:
-:ID:       de0534f3-36e1-4dcd-8b53-1c9f3bb7cf12
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Ijob* -- [[file:Ijob_1.html][1]] ...
-[[file:Ijob_16.html][16]] [[file:Ijob_17.html][17]] *18*
-[[file:Ijob_19.html][19]] [[file:Ijob_20.html][20]] ...
-[[file:Ijob_42.html][42]]
-
---------------
-
-* Ijob 18
-  :PROPERTIES:
-  :CUSTOM_ID: ijob-18
-  :END:
+#+TITLE: Ijob 18 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-29 Mi 22:46]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ijob 18.html
 
 <<verses>>
 
 <<v1>>
-*** Die zweite Rede Bildads: 18,1-21
-    :PROPERTIES:
-    :CUSTOM_ID: die-zweite-rede-bildads-181-21
-    :END:
-**** Die Selbstverteidigung Bildads: 18,1-4
-     :PROPERTIES:
-     :CUSTOM_ID: die-selbstverteidigung-bildads-181-4
-     :END:
+* Die zweite Rede Bildads: 18,1-21
+
+* Die Selbstverteidigung Bildads: 18,1-4
+
 1 Da antwortete Bildad von Schuach und sprach:\\
 \\
 
@@ -46,12 +37,10 @@
 \\
 
 <<v5>>
-**** Das Schicksal des Frevlers: 18,5-21
-     :PROPERTIES:
-     :CUSTOM_ID: das-schicksal-des-frevlers-185-21
-     :END:
+* Das Schicksal des Frevlers: 18,5-21
+
 5 Ja, der Frevler Licht erlischt, /\\
- die Flamme seines Feuers strahlt nicht auf. ^{[[#fn1][1]]}\\
+ die Flamme seines Feuers strahlt nicht auf. [fn:1]\\
 \\
 
 <<v6>>
@@ -61,12 +50,12 @@
 
 <<v7>>
 7 Eng wird sein gewaltiger Schritt, /\\
- sein eigner Plan bringt ihn zu Fall. ^{[[#fn2][2]]}\\
+ sein eigner Plan bringt ihn zu Fall. [fn:2]\\
 \\
 
 <<v8>>
 8 Denn mit seinen Füßen gerät er ins Netz /\\
- und über Flechtwerk schreitet er dahin. ^{[[#fn3][3]][[#fn4][4]]}\\
+ und über Flechtwerk schreitet er dahin. [fn:3] [fn:4]\\
 \\
 
 <<v9>>
@@ -81,7 +70,7 @@
 
 <<v11>>
 11 Ringsum ängstigen ihn Schrecken /\\
- und scheuchen ihn auf Schritt und Tritt. ^{[[#fn5][5]]}\\
+ und scheuchen ihn auf Schritt und Tritt. [fn:5]\\
 \\
 
 <<v12>>
@@ -91,18 +80,17 @@
 
 <<v13>>
 13 Es frisst die Glieder seines Leibes, /\\
- seine Glieder frisst des Todes Erstgeborener. ^{[[#fn6][6]]}\\
+ seine Glieder frisst des Todes Erstgeborener. [fn:6]\\
 \\
 
 <<v14>>
 14 Ausgerissen wird aus seinem Zelt die Zuversicht, /\\
- du treibst ihn fort zum König der Schrecken.
-^{[[#fn7][7]][[#fn8][8]]}\\
+ du treibst ihn fort zum König der Schrecken. [fn:7] [fn:8]\\
 \\
 
 <<v15>>
 15 Ihm Fremdes wohnt in seinem Zelt, /\\
- Schwefel wird auf seinen Hof gestreut. ^{[[#fn9][9]]}\\
+ Schwefel wird auf seinen Hof gestreut. [fn:9]\\
 \\
 
 <<v16>>
@@ -112,7 +100,7 @@
 
 <<v17>>
 17 Sein Andenken schwindet von der Erde, /\\
- kein Name bleibt ihm weit und breit. ^{[[#fn10][10]]}\\
+ kein Name bleibt ihm weit und breit. [fn:10]\\
 \\
 
 <<v18>>
@@ -122,7 +110,7 @@
 
 <<v19>>
 19 Kein Spross, kein Stamm bleibt ihm in seinem Volk, /\\
- am Ort seines Aufenthaltes keiner, der ihn überlebt. ^{[[#fn11][11]]}\\
+ am Ort seines Aufenthaltes keiner, der ihn überlebt. [fn:11]\\
 \\
 
 <<v20>>
@@ -135,26 +123,28 @@
  mit dem Ort des Menschen, der Gott nicht kennt.\\
 \\
 
-^{[[#fnm1][1]]} ℘ 21,17
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ Ps 18,37; Spr 4,12
+[fn:1] [[file:Ijob_21.org::v21][21,17]]
 
-^{[[#fnm3][3]]} ℘ 22,10; Ps 35,7f; 140,6
+[fn:2] [[file:Ps_18.org::v37][Ps 18,37]]; [[file:Spr_14.org::v12][Spr 4,12]]
 
-^{[[#fnm4][4]]} Gemeint ist das Flechtwerk, das als Gitter über die
+[fn:3] [[file:Ijob_22.org::v10][22,10]]; [[file:Ps_35.org::v7][Ps 35,7f]]; [[file:Ps_140.org::v6][140,6]]
+
+[fn:4] Gemeint ist das Flechtwerk, das als Gitter über die
 Fanggrube gelegt wird.
 
-^{[[#fnm5][5]]} ℘ 15,21; Weish 17,10-14
+[fn:5] [[file:Ijob_15.org::v21][15,21]]; [[file:Weish_17.org::v10][Weish 17,10]]-[[file:Weish_17.org::v14][14]]
 
-^{[[#fnm6][6]]} «Des Todes Erstgeborener» ist wohl die Pest als
+[fn:6] «Des Todes Erstgeborener» ist wohl die Pest als
 schlimmste Krankheit.
 
-^{[[#fnm7][7]]} ℘ Ps 52,7
+[fn:7] [[file:Ps_52.org::v7][Ps 52,7]]
 
-^{[[#fnm8][8]]} «König der Schrecken» steht für das Totenreich.
+[fn:8] «König der Schrecken» steht für das Totenreich.
 
-^{[[#fnm9][9]]} ℘ Dtn 29,22; Ps 11,6; Jes 34,9
+[fn:9] [[file:Dtn_29.org::v22][Dtn 29,22]]; [[file:Ps_11.org::v6][Ps 11,6]]; [[file:Jes_34.org::v9][Jes 34,9]]
 
-^{[[#fnm10][10]]} ℘ Ps 9,6; 34,17; Spr 10,7
+[fn:10] [[file:Ps_9.org::v6][Ps 9,6]]; [[file:Ps_34.org::v17][34,17]]; [[file:Spr_10.org::v7][Spr 10,7]]
 
-^{[[#fnm11][11]]} ℘ Ps 37,28; 109,13
+[fn:11] [[file:Ps_37.org::v28][Ps 37,28]]; [[file:Ps_109.org::v13][109,13]]

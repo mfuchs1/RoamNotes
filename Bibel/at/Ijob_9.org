@@ -1,37 +1,28 @@
-:PROPERTIES:
-:ID:       5e05b2e6-86af-42a1-aa09-6a19c473fe8c
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Ijob* -- [[file:Ijob_1.html][1]] ...
-[[file:Ijob_7.html][7]] [[file:Ijob_8.html][8]] *9*
-[[file:Ijob_10.html][10]] [[file:Ijob_11.html][11]] ...
-[[file:Ijob_42.html][42]]
-
---------------
-
-* Ijob 9
-  :PROPERTIES:
-  :CUSTOM_ID: ijob-9
-  :END:
+#+TITLE: Ijob 9 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-29 Mi 14:22]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ijob 9.html
 
 <<verses>>
 
 <<v1>>
-*** Ijobs Gegenrede: 9,1 - 10,22
-    :PROPERTIES:
-    :CUSTOM_ID: ijobs-gegenrede-91---1022
-    :END:
-**** Gottes Macht: 9,1-13
-     :PROPERTIES:
-     :CUSTOM_ID: gottes-macht-91-13
-     :END:
+* Ijobs Gegenrede: 9,1 - 10,22
+
+* Gottes Macht: 9,1-13
+
 1 Da antwortete Ijob und sprach:\\
 \\
 
 <<v2>>
 2 Wahrhaftig weiß ich, dass es so ist: /\\
- Wie wäre ein Mensch bei Gott im Recht! ^{[[#fn1][1]]}\\
+ Wie wäre ein Mensch bei Gott im Recht! [fn:1]\\
 \\
 
 <<v3>>
@@ -46,17 +37,17 @@
 
 <<v5>>
 5 Er versetzt Berge; sie merken es nicht, /\\
- dass er in seinem Zorn sie umstürzt. ^{[[#fn2][2]]}\\
+ dass er in seinem Zorn sie umstürzt. [fn:2]\\
 \\
 
 <<v6>>
 6 Er erschüttert die Erde an ihrem Ort, /\\
- sodass ihre Säulen erzittern. ^{[[#fn3][3]]}\\
+ sodass ihre Säulen erzittern. [fn:3]\\
 \\
 
 <<v7>>
 7 Er spricht zur Sonne, sodass sie nicht strahlt, /\\
- er versiegelt die Sterne. ^{[[#fn4][4]]}\\
+ er versiegelt die Sterne. [fn:4]\\
 \\
 
 <<v8>>
@@ -66,35 +57,32 @@
 
 <<v9>>
 9 Er schuf das Sternbild des Bären, den Orion, /\\
- das Siebengestirn, die Kammern des Südens. ^{[[#fn5][5]]}\\
+ das Siebengestirn, die Kammern des Südens. [fn:5]\\
 \\
 
 <<v10>>
 10 Er schuf so Großes, es ist nicht zu erforschen, /\\
- Wunderdinge, sie sind nicht zu zählen. ^{[[#fn6][6]]}\\
+ Wunderdinge, sie sind nicht zu zählen. [fn:6]\\
 \\
 
 <<v11>>
 11 Zieht er an mir vorüber, ich seh ihn nicht, /\\
- fährt er daher, ich merk ihn nicht. ^{[[#fn7][7]]}\\
+ fährt er daher, ich merk ihn nicht. [fn:7]\\
 \\
 
 <<v12>>
 12 Rafft er hinweg, wer hält ihn zurück? /\\
- Wer darf zu ihm sagen: Was tust du da? ^{[[#fn8][8]]}\\
+ Wer darf zu ihm sagen: Was tust du da? [fn:8]\\
 \\
 
 <<v13>>
 13 Gott hält seinen Zorn nicht zurück, /\\
- unter ihm mussten selbst Rahabs Helfer sich beugen.
-^{[[#fn9][9]][[#fn10][10]]}\\
+ unter ihm mussten selbst Rahabs Helfer sich beugen. [fn:9] [fn:10]\\
 \\
 
 <<v14>>
-**** Die Ohnmacht des Menschen: 9,14-35
-     :PROPERTIES:
-     :CUSTOM_ID: die-ohnmacht-des-menschen-914-35
-     :END:
+* Die Ohnmacht des Menschen: 9,14-35
+
 14 Wie sollte denn ich ihm entgegnen, /\\
  wie meine Worte gegen ihn wählen?\\
 \\
@@ -136,7 +124,7 @@
 
 <<v22>>
 22 Einerlei; so sag ich es denn: /\\
- Schuldlos wie schuldig bringt er um. ^{[[#fn11][11]]}\\
+ Schuldlos wie schuldig bringt er um. [fn:11]\\
 \\
 
 <<v23>>
@@ -152,7 +140,7 @@
 
 <<v25>>
 25 Schneller als ein Läufer eilen meine Tage, /\\
- sie fliehen dahin und schauen kein Glück. ^{[[#fn12][12]]}\\
+ sie fliehen dahin und schauen kein Glück. [fn:12]\\
 \\
 
 <<v26>>
@@ -177,7 +165,7 @@
 
 <<v30>>
 30 Wollte ich auch mit Schnee mich waschen, /\\
- meine Hände mit Lauge reinigen, ^{[[#fn13][13]]}\\
+ meine Hände mit Lauge reinigen, [fn:13]\\
 \\
 
 <<v31>>
@@ -188,7 +176,7 @@
 <<v32>>
 32 Denn du bist kein Mensch wie ich, /\\
  dem ich entgegnen könnte: /\\
- Lasst uns zusammen zum Gericht gehen! ^{[[#fn14][14]]}\\
+ Lasst uns zusammen zum Gericht gehen! [fn:14]\\
 \\
 
 <<v33>>
@@ -198,7 +186,7 @@
 
 <<v34>>
 34 Er nehme von mir seine Rute, /\\
- sein Schrecken soll mich weiter nicht ängstigen; ^{[[#fn15][15]]}\\
+ sein Schrecken soll mich weiter nicht ängstigen; [fn:15]\\
 \\
 
 <<v35>>
@@ -206,34 +194,36 @@
  Doch so ist es nicht um mich bestellt.\\
 \\
 
-^{[[#fnm1][1]]} ℘ Ps 143,2
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ Ps 46,3; Jes 13,13
+[fn:1] [[file:Ps_143.org::v2][Ps 143,2]]
 
-^{[[#fnm3][3]]} Die Erde steht nach israelitischer Anschauung auf Säulen
-(vgl. Ps 75,4).
+[fn:2] [[file:Ps_46.org::v3][Ps 46,3]]; [[file:Jes_13.org::v13][Jes 13,13]]
 
-^{[[#fnm4][4]]} ℘ Bar 3,34f
+[fn:3] Die Erde steht nach israelitischer Anschauung auf Säulen
+(vgl. [[file:Ps_75.org::v4][Ps 75,4]]).
 
-^{[[#fnm5][5]]} ℘ Am 5,8
+[fn:4] [[file:Bar_3.org::v34][Bar 3,34f]]
 
-^{[[#fnm6][6]]} ℘ 5,9
+[fn:5] [[file:Am_5.org::v8][Am 5,8]]
 
-^{[[#fnm7][7]]} ℘ 23,8f
+[fn:6] [[file:Ijob_5.org::v9][5,9]]
 
-^{[[#fnm8][8]]} ℘ Weish 12,12
+[fn:7] [[file:Ijob_23.org::v8][23,8f]]
 
-^{[[#fnm9][9]]} ℘ 26,12; Ps 89,11
+[fn:8] [[file:Weish_12.org::v12][Weish 12,12]]
 
-^{[[#fnm10][10]]} Rahab ist Name für das Urchaos oder für das mythische
+[fn:9] [[file:Ijob_26.org::v12][26,12]]; [[file:Ps_89.org::v11][Ps 89,11]]
+
+[fn:10] Rahab ist Name für das Urchaos oder für das mythische
 Chaosmeer.
 
-^{[[#fnm11][11]]} ℘ Koh 9,2
+[fn:11] [[file:Koh_9.org::v2][Koh 9,2]]
 
-^{[[#fnm12][12]]} ℘ Weish 5,9
+[fn:12] [[file:Weish_5.org::v9][Weish 5,9]]
 
-^{[[#fnm13][13]]} ℘ Ps 51,9; Jes 1,18; Jer 2,22
+[fn:13] [[file:Ps_51.org::v9][Ps 51,9]]; [[file:Jes_1.org::v18][Jes 1,18]]; [[file:Jer_2.org::v22][Jer 2,22]]
 
-^{[[#fnm14][14]]} ℘ Koh 6,10
+[fn:14] [[file:Koh_6.org::v10][Koh 6,10]]
 
-^{[[#fnm15][15]]} ℘ 13,21
+[fn:15] [[file:Ijob_13.org::v21][13,21]]

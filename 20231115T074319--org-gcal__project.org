@@ -7,18 +7,6 @@
 
 * Kletterkurs Gabriel
 :PROPERTIES:
-:ETag:     "3401269697296000"
-:LOCATION: Kletterhalle Salzburg, Wasserfeldstraße, Salzburg
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 6kq68cb16gp68bb16gp32b9kchj3ebb164pjeb9jc4ojeob26ti3aob16o_20231024T141500Z/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2023-10-24 Di 16:15-17:45>
-:END:
-
-* Kletterkurs Gabriel
-:PROPERTIES:
 :ETag:     "3399772356090000"
 :LOCATION: Kletterhalle Salzburg, Wasserfeldstraße, Salzburg
 :calendar-id: matthiasfuchs01@gmail.com
@@ -333,10 +321,32 @@ Alle Standard Kinder am Elternsprechtag zur Steffi
 :PROPERTIES:
 :calendar-id: matthiasfuchs01@gmail.com
 :org-gcal-managed: org
-:ETag:     "3401464733778000"
+:ETag:     "3402489525948000"
 :entry-id: 41ag8lgukmq2abo99073l6do7c/matthiasfuchs01@gmail.com
 :END:
 :org-gcal:
-<2023-11-29 Mi 16:30-17:30>
+<2023-11-29 Mi 15:30-16:30>
+:END:
+
+* Supplierstunde 4abc M
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3402479659426000"
+:entry-id: su9ra78qmhdm64uqnp4ble9o4c/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2023-11-29 Mi 09:35-10:25>
+:END:
+
+* VS Hallein-Burgfried GTS
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3402489679174000"
+:entry-id: i2g0k7qqko9v0dgsio6rj1rn58/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2023-11-29 Mi 13:00-13:50>
 :END:
 

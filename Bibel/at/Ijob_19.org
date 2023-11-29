@@ -1,31 +1,22 @@
-:PROPERTIES:
-:ID:       ffe5bb49-8044-455b-8f4d-7ac1c5ea503a
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Ijob* -- [[file:Ijob_1.html][1]] ...
-[[file:Ijob_17.html][17]] [[file:Ijob_18.html][18]] *19*
-[[file:Ijob_20.html][20]] [[file:Ijob_21.html][21]] ...
-[[file:Ijob_42.html][42]]
-
---------------
-
-* Ijob 19
-  :PROPERTIES:
-  :CUSTOM_ID: ijob-19
-  :END:
+#+TITLE: Ijob 19 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-29 Mi 22:56]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ijob 19.html
 
 <<verses>>
 
 <<v1>>
-*** Ijobs Gegenrede: 19,1-29
-    :PROPERTIES:
-    :CUSTOM_ID: ijobs-gegenrede-191-29
-    :END:
-**** Die Zurückweisung der Schmähung: 19,1-5
-     :PROPERTIES:
-     :CUSTOM_ID: die-zurückweisung-der-schmähung-191-5
-     :END:
+* Ijobs Gegenrede: 19,1-29
+
+* Die Zurückweisung der Schmähung: 19,1-5
+
 1 Da antwortete Ijob und sprach:\\
 \\
 
@@ -50,17 +41,15 @@
 \\
 
 <<v6>>
-**** Das unbegreifliche Verhalten Gottes: 19,6-12
-     :PROPERTIES:
-     :CUSTOM_ID: das-unbegreifliche-verhalten-gottes-196-12
-     :END:
+* Das unbegreifliche Verhalten Gottes: 19,6-12
+
 6 Erkennt doch, dass Gott mich niederdrückt, /\\
  da er sein Netz rings um mich warf.\\
 \\
 
 <<v7>>
 7 Schrei ich: Gewalt!, wird mir keine Antwort, /\\
- rufe ich um Hilfe, gibt es kein Recht. ^{[[#fn1][1]]}\\
+ rufe ich um Hilfe, gibt es kein Recht. [fn:1]\\
 \\
 
 <<v8>>
@@ -70,17 +59,17 @@
 
 <<v9>>
 9 Meiner Ehre hat er mich entkleidet, /\\
- die Krone mir vom Haupt genommen. ^{[[#fn2][2]]}\\
+ die Krone mir vom Haupt genommen. [fn:2]\\
 \\
 
 <<v10>>
 10 Er brach mich ringsum nieder, ich muss dahin; /\\
- er riss mein Hoffen aus wie einen Baum. ^{[[#fn3][3]]}\\
+ er riss mein Hoffen aus wie einen Baum. [fn:3]\\
 \\
 
 <<v11>>
 11 Sein Zorn ist gegen mich entbrannt, /\\
- gleich seinen Gegnern gelte ich ihm. ^{[[#fn4][4]]}\\
+ gleich seinen Gegnern gelte ich ihm. [fn:4]\\
 \\
 
 <<v12>>
@@ -90,12 +79,10 @@
 \\
 
 <<v13>>
-**** Die Entfremdung der Verwandten und Freunde: 19,13-22
-     :PROPERTIES:
-     :CUSTOM_ID: die-entfremdung-der-verwandten-und-freunde-1913-22
-     :END:
+* Die Entfremdung der Verwandten und Freunde: 19,13-22
+
 13 Meine Brüder hat er von mir entfernt, /\\
- meine Bekannten sind mir entfremdet. ^{[[#fn5][5]]}\\
+ meine Bekannten sind mir entfremdet. [fn:5]\\
 \\
 
 <<v14>>
@@ -125,7 +112,7 @@
 
 <<v19>>
 19 Alle meine Gefährten verabscheuen mich, /\\
- die ich liebe, lehnen sich gegen mich auf. ^{[[#fn6][6]]}\\
+ die ich liebe, lehnen sich gegen mich auf. [fn:6]\\
 \\
 
 <<v20>>
@@ -144,10 +131,8 @@
 \\
 
 <<v23>>
-**** Ijobs Hoffnung und Vertrauen: 19,23-29
-     :PROPERTIES:
-     :CUSTOM_ID: ijobs-hoffnung-und-vertrauen-1923-29
-     :END:
+* Ijobs Hoffnung und Vertrauen: 19,23-29
+
 23 Dass doch meine Worte geschrieben würden, /\\
  in einer Inschrift eingegraben\\
 \\
@@ -159,18 +144,18 @@
 
 <<v25>>
 25 Doch ich, ich weiß: mein Erlöser lebt, /\\
- als Letzter erhebt er sich über dem Staub. ^{[[#fn7][7]]}\\
+ als Letzter erhebt er sich über dem Staub. [fn:7]\\
 \\
 
 <<v26>>
 26 Ohne meine Haut, die so zerfetzte, /\\
- und ohne mein Fleisch werde ich Gott schauen. ^{[[#fn8][8]]}\\
+ und ohne mein Fleisch werde ich Gott schauen. [fn:8]\\
 \\
 
 <<v27>>
 27 Ihn selber werde ich dann für mich schauen; /\\
  meine Augen werden ihn sehen, nicht mehr fremd. /\\
- Danach sehnt sich mein Herz in meiner Brust. ^{[[#fn9][9]]}\\
+ Danach sehnt sich mein Herz in meiner Brust. [fn:9]\\
 \\
 
 <<v28>>
@@ -181,26 +166,28 @@
 <<v29>>
 29 dann bangt für euch selber vor dem Schwert; /\\
  denn heftiger Zorn verdient das Schwert, /\\
- damit ihr wisst: Es gibt ein Gericht. ^{[[#fn10][10]]}\\
+ damit ihr wisst: Es gibt ein Gericht. [fn:10]\\
 \\
 
-^{[[#fnm1][1]]} ℘ Klgl 3,7-9; Hab 1,2
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 29,14
+[fn:1] [[file:Klgl_3.org::v7][Klgl 3,7]]-[[file:Klgl_3.org::v9][9]]; [[file:Hab_1.org::v2][Hab 1,2]]
 
-^{[[#fnm3][3]]} ℘ 14,7f
+[fn:2] [[file:Ijob_29.org::v14][29,14]]
 
-^{[[#fnm4][4]]} ℘ 33,10
+[fn:3] [[file:Ijob_14.org::v7][14,7f]]
 
-^{[[#fnm5][5]]} ℘ Ps 31,12; 38,12; 69,9; 88,19
+[fn:4] [[file:Ijob_33.org::v10][33,10]]
 
-^{[[#fnm6][6]]} ℘ Ps 41,10; Sir 6,8
+[fn:5] [[file:Ps_32.org::v12][Ps 31,12]]; [[file:Ps_38.org::v12][38,12]]; [[file:Ps_69.org::v9][69,9]]; [[file:Ps_88.org::v19][88,19]]
 
-^{[[#fnm7][7]]} ℘ 16,19
+[fn:6] [[file:Ps_41.org::v10][Ps 41,10]]; [[file:Sir_6.org::v8][Sir 6,8]]
 
-^{[[#fnm8][8]]} H unklar.
+[fn:7] [[file:Ijob_16.org::v19][16,19]]
 
-^{[[#fnm9][9]]} Für «Herz» steht in H «Nieren» als Sitz des
+[fn:8] H unklar.
+
+[fn:9] Für «Herz» steht in H «Nieren» als Sitz des
 Seelenlebens.
 
-^{[[#fnm10][10]]} ℘ Ps 58,12
+[fn:10] [[file:Ps_58.org::v12][Ps 58,12]]

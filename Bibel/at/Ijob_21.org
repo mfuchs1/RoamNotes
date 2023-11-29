@@ -1,31 +1,22 @@
-:PROPERTIES:
-:ID:       45d19b49-1d43-4a76-8a24-bb2c47386d24
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Ijob* -- [[file:Ijob_1.html][1]] ...
-[[file:Ijob_19.html][19]] [[file:Ijob_20.html][20]] *21*
-[[file:Ijob_22.html][22]] [[file:Ijob_23.html][23]] ...
-[[file:Ijob_42.html][42]]
-
---------------
-
-* Ijob 21
-  :PROPERTIES:
-  :CUSTOM_ID: ijob-21
-  :END:
+#+TITLE: Ijob 21 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-11-30 Do 00:05]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ijob 21.html
 
 <<verses>>
 
 <<v1>>
-*** Ijobs Gegenrede: 21,1-34
-    :PROPERTIES:
-    :CUSTOM_ID: ijobs-gegenrede-211-34
-    :END:
-**** Die Bitte um Geduld: 21,1-6
-     :PROPERTIES:
-     :CUSTOM_ID: die-bitte-um-geduld-211-6
-     :END:
+* Ijobs Gegenrede: 21,1-34
+
+* Die Bitte um Geduld: 21,1-6
+
 1 Da antwortete Ijob und sprach:\\
 \\
 
@@ -36,17 +27,17 @@
 
 <<v3>>
 3 Ertragt mich, sodass ich reden kann. /\\
- Habe ich geredet, dann könnt ihr spotten. ^{[[#fn1][1]]}\\
+ Habe ich geredet, dann könnt ihr spotten. [fn:1]\\
 \\
 
 <<v4>>
 4 Richt ich an Menschen meine Klage, /\\
- hab ich nicht Grund zur Ungeduld? ^{[[#fn2][2]]}\\
+ hab ich nicht Grund zur Ungeduld? [fn:2]\\
 \\
 
 <<v5>>
 5 Wendet euch mir zu und erstarrt /\\
- und legt die Hand auf den Mund! ^{[[#fn3][3]]}\\
+ und legt die Hand auf den Mund! [fn:3]\\
 \\
 
 <<v6>>
@@ -55,12 +46,10 @@
 \\
 
 <<v7>>
-**** Das Glück des Frevlers: 21,7-21
-     :PROPERTIES:
-     :CUSTOM_ID: das-glück-des-frevlers-217-21
-     :END:
+* Das Glück des Frevlers: 21,7-21
+
 7 Warum bleiben Frevler am Leben, /\\
- werden alt und stark an Kraft? ^{[[#fn4][4]]}\\
+ werden alt und stark an Kraft? [fn:4]\\
 \\
 
 <<v8>>
@@ -85,22 +74,22 @@
 
 <<v12>>
 12 Sie singen zu Pauke und Harfe, /\\
- erfreuen sich am Klang der Flöte, ^{[[#fn5][5]]}\\
+ erfreuen sich am Klang der Flöte, [fn:5]\\
 \\
 
 <<v13>>
 13 verbrauchen ihre Tage im Glück /\\
- und fahren voll Ruhe ins Totenreich. ^{[[#fn6][6]]}\\
+ und fahren voll Ruhe ins Totenreich. [fn:6]\\
 \\
 
 <<v14>>
 14 Und doch sagten sie zu Gott: Weiche von uns! /\\
- Deine Wege wollen wir nicht kennen. ^{[[#fn7][7]]}\\
+ Deine Wege wollen wir nicht kennen. [fn:7]\\
 \\
 
 <<v15>>
 15 Was ist der Allmächtige, dass wir ihm dienen, /\\
- was nützt es uns, wenn wir ihn angehen? ^{[[#fn8][8]]}\\
+ was nützt es uns, wenn wir ihn angehen? [fn:8]\\
 \\
 
 <<v16>>
@@ -111,37 +100,34 @@
 <<v17>>
 17 Wie oft erlischt der Frevler Lampe, /\\
  kommt Unheil über sie, /\\
- teilt er Verderben zu in seinem Zorn? ^{[[#fn9][9]]}\\
+ teilt er Verderben zu in seinem Zorn? [fn:9]\\
 \\
 
 <<v18>>
 18 Wie oft werden sie wie Stroh vor dem Wind, /\\
- wie Spreu, die der Sturm entführt? ^{[[#fn10][10]]}\\
+ wie Spreu, die der Sturm entführt? [fn:10]\\
 \\
 
 <<v19>>
 19 Nicht dessen Kindern spare Gott sein Unheil auf, /\\
- ihm selbst vergelte er, sodass er es spürt. ^{[[#fn11][11]]}\\
+ ihm selbst vergelte er, sodass er es spürt. [fn:11]\\
 \\
 
 <<v20>>
 20 Mit eigenen Augen soll er sein Unglück schauen, /\\
- vom Grimm des Allmächtigen soll er trinken.
-^{[[#fn12][12]][[#fn13][13]]}\\
+ vom Grimm des Allmächtigen soll er trinken. [fn:12] [fn:13]\\
 \\
 
 <<v21>>
 21 Denn was kümmert ihn sein Haus, wenn er dahin ist, /\\
- wenn abgeschnitten seiner Monde Zahl? ^{[[#fn14][14]]}\\
+ wenn abgeschnitten seiner Monde Zahl? [fn:14]\\
 \\
 
 <<v22>>
-**** Der trügerische Trost: 21,22-34
-     :PROPERTIES:
-     :CUSTOM_ID: der-trügerische-trost-2122-34
-     :END:
+* Der trügerische Trost: 21,22-34
+
 22 Darf man Gott Erkenntnis lehren, /\\
- ihn, der die Erhabenen richtet? ^{[[#fn15][15]]}\\
+ ihn, der die Erhabenen richtet? [fn:15]\\
 \\
 
 <<v23>>
@@ -151,7 +137,7 @@
 
 <<v24>>
 24 Seine Schenkel sind voll von Fett, /\\
- getränkt mit Mark sind seine Knochen. ^{[[#fn16][16]]}\\
+ getränkt mit Mark sind seine Knochen. [fn:16]\\
 \\
 
 <<v25>>
@@ -161,7 +147,7 @@
 
 <<v26>>
 26 Zusammen liegen sie im Staub /\\
- und Gewürm deckt beide zu. ^{[[#fn17][17]]}\\
+ und Gewürm deckt beide zu. [fn:17]\\
 \\
 
 <<v27>>
@@ -181,7 +167,7 @@
 
 <<v30>>
 30 Dass am Unglückstag der Böse verschont wird, /\\
- weggebracht am Tag des Zorns. ^{[[#fn18][18]]}\\
+ weggebracht am Tag des Zorns. [fn:18]\\
 \\
 
 <<v31>>
@@ -205,38 +191,40 @@
  Eure Antworten bleiben Betrug.\\
 \\
 
-^{[[#fnm1][1]]} könnt ihr: Text korr.; H: kannst du.
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 6,26
+[fn:1] könnt ihr: Text korr.; H: kannst du.
 
-^{[[#fnm3][3]]} ℘ 29,9; 40,4
+[fn:2] [[file:Ijob_6.org::v26][6,26]]
 
-^{[[#fnm4][4]]} ℘ Ps 73,3-12; Jer 12,1f; Mal 3,15.18
+[fn:3] [[file:Ijob_29.org::v9][29,9]]; [[file:Ijob_40.org::v4][40,4]]
 
-^{[[#fnm5][5]]} ℘ Jes 5,12; Am 6,5
+[fn:4] [[file:Ps_73.org::v3][Ps 73,3]]-[[file:Ps_73.org::v12][12]]; [[file:Jer_12.org::v1][Jer 12,1f]]; [[file:Mal_3.org::v15][Mal 3,15]].[[file:Mal_3.org::v18][18]]
 
-^{[[#fnm6][6]]} ℘ Ps 73,3
+[fn:5] [[file:Jes_5.org::v12][Jes 5,12]]; [[file:Am_6.org::v5][Am 6,5]]
 
-^{[[#fnm7][7]]} ℘ 22,17; Ps 95,10
+[fn:6] [[file:Ps_73.org::v3][Ps 73,3]]
 
-^{[[#fnm8][8]]} ℘ Mal 3,14f
+[fn:7] [[file:Ijob_22.org::v17][22,17]]; [[file:Ps_95.org::v10][Ps 95,10]]
 
-^{[[#fnm9][9]]} ℘ 18,5
+[fn:8] [[file:Mal_3.org::v14][Mal 3,14f]]
 
-^{[[#fnm10][10]]} ℘ Ps 1,4
+[fn:9] [[file:Ijob_18.org::v5][18,5]]
 
-^{[[#fnm11][11]]} Nicht: Text korr.
+[fn:10] [[file:Ps_1.org::v4][Ps 1,4]]
 
-^{[[#fnm12][12]]} ℘ Ps 75,9
+[fn:11] Nicht: Text korr.
 
-^{[[#fnm13][13]]} Unglück: Übersetzung unsicher.
+[fn:12] [[file:Ps_75.org::v9][Ps 75,9]]
 
-^{[[#fnm14][14]]} ℘ 14,21f; Koh 9,5f
+[fn:13] Unglück: Übersetzung unsicher.
 
-^{[[#fnm15][15]]} ℘ Jes 40,13
+[fn:14] [[file:Ijob_14.org::v21][14,21f]]; [[file:Koh_9.org::v5][Koh 9,5f]]
 
-^{[[#fnm16][16]]} Schenkel: Übersetzung unsicher.
+[fn:15] [[file:Jes_40.org::v13][Jes 40,13]]
 
-^{[[#fnm17][17]]} ℘ Koh 9,2f
+[fn:16] Schenkel: Übersetzung unsicher.
 
-^{[[#fnm18][18]]} ℘ Röm 2,3-6
+[fn:17] [[file:Koh_9.org::v2][Koh 9,2f]]
+
+[fn:18] [[file:~/RoamNotes/notes/Bibel/nt/Röm_2.org::v3][Röm 2,3]]-[[file:Koh_9.org::v6][6]]
