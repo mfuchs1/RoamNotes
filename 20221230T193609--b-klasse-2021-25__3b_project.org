@@ -28,6 +28,15 @@ RB Doppelseite
 Wie deute ich einen Text - Bsp.: Schöpfungstext Gen 2
 RB Doppelseite
 
+Nicht gemacht:
+- Philipp
+- Jonas
+- Fabian
+- Kristina
+
+- Hinduismus:
+  
+
 * 3B [KV Lena ]
 #+Name: 2021-students
 | First    | Last               | Name                     | Note | Mitarbeit | Heft | LZK |
@@ -565,4 +574,20 @@ In der 3b ist der RU nahezu unmöglich: ein Teil der Klasse, va die Bruschen zie
 Die Vorlauten werde ich auffordern, selber zu einem religiösen Thema eine Gesprächsrunde vorzubereiten. Dies fließt in ihre Note ein. Wenn auch das ins Lächerliche gezogen wird - schlechte Note. Keine Mitarbeit - auch schlechte Note. Kollektivstrafen gibt's keine.
 
 Störenfriede dürfen ab jetzt Texte abschreiben und diese werden von den Eltern unterzeichnet.
+
+** [[denote:20230624T232959][[SW16] Eine mythische Erzählung deuten]]
+:PROPERTIES:
+:CAPTURED: [2023-11-30 Do 11:13]
+:CLASS: [2023-11-30 Do 10:40] 4. Stunde
+:END:
+
+Es wird nicht besser; letzte Stunde [2023-11-29 Mi 11:35-12:25] hab ich den Schülern eine kleine HÜ aufgegeben. Nicht einmal untereinander zeigen sie gegenseitigen Respekt, hören nicht zu. Auf einfache Fragen geben sie keine Antworten. Gebe ich Erklärungen - Gelächter, Privatgespräche, etc, ... - man spürt direkt greifbar das allgemeine Desinteresse.
+
+Also hab ich sie die Buchseite abschreiben lassen - ihre HÜ stellen sie nächste Stunde vor. Man geht auf ihre Wünsche ein - nicht einmal das wird honoriert. Also ist's egal, was ich mache? Allgemeine Frage an Kirche: wozu eigentlich noch den RU? Er wird von den Schülern nicht wertgeschätzt, es ist dem Großteil mehr als egal; selbst Themen wie Ethik, Weltreligionen, ... alles nicht einmal wurscht. Was soll ich noch sagen? 
+
+Nächste Stunde: LZK? Kahoot mit Klarnamen, zählt für die Mitarbeit?
+
+Aber aufgeben darf ich nicht - sonst trampeln sie mir auf der Nase herum. Daher geht nur die harte Schiene. Schade - aber es geht nur so. 
+
+
 
