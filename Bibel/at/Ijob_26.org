@@ -1,31 +1,22 @@
-:PROPERTIES:
-:ID:       b980f680-1b39-4a7f-bfec-96d528f6d859
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Ijob* -- [[file:Ijob_1.html][1]] ...
-[[file:Ijob_24.html][24]] [[file:Ijob_25.html][25]] *26*
-[[file:Ijob_27.html][27]] [[file:Ijob_28.html][28]] ...
-[[file:Ijob_42.html][42]]
-
---------------
-
-* Ijob 26
-  :PROPERTIES:
-  :CUSTOM_ID: ijob-26
-  :END:
+#+TITLE: Ijob 26 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-12-02 Sa 18:14]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ijob 26.html
 
 <<verses>>
 
 <<v1>>
-*** Ijobs Gegenrede: 26,1 - 27,23
-    :PROPERTIES:
-    :CUSTOM_ID: ijobs-gegenrede-261---2723
-    :END:
-**** Leere Worte ohne Wahrheit: 26,1-4
-     :PROPERTIES:
-     :CUSTOM_ID: leere-worte-ohne-wahrheit-261-4
-     :END:
+* Ijobs Gegenrede: 26,1 - 27,23
+
+* Leere Worte ohne Wahrheit: 26,1-4
+
 1 Da antwortete Ijob und sprach:\\
 \\
 
@@ -45,17 +36,15 @@
 \\
 
 <<v5>>
-**** Die Größe der Allmacht Gottes: 26,5-14
-     :PROPERTIES:
-     :CUSTOM_ID: die-größe-der-allmacht-gottes-265-14
-     :END:
+* Die Größe der Allmacht Gottes: 26,5-14
+
 5 Die Totengeister zittern drunten, /\\
- die Wasser mit ihren Bewohnern. ^{[[#fn1][1]]}\\
+ die Wasser mit ihren Bewohnern. [fn:1]\\
 \\
 
 <<v6>>
 6 Nackt liegt die Unterwelt vor ihm, /\\
- keine Hülle deckt den Abgrund. ^{[[#fn2][2]]}\\
+ keine Hülle deckt den Abgrund. [fn:2]\\
 \\
 
 <<v7>>
@@ -75,7 +64,7 @@
 
 <<v10>>
 10 Eine Grenze zieht er rund um die Wasser /\\
- bis an den Rand von Licht und Finsternis. ^{[[#fn3][3]]}\\
+ bis an den Rand von Licht und Finsternis. [fn:3]\\
 \\
 
 <<v11>>
@@ -85,31 +74,33 @@
 
 <<v12>>
 12 Durch seine Kraft stellt still er das Meer, /\\
- durch seine Klugheit zerschmettert er Rahab. ^{[[#fn4][4]]}\\
+ durch seine Klugheit zerschmettert er Rahab. [fn:4]\\
 \\
 
 <<v13>>
 13 Durch seinen Hauch wird heiter der Himmel, /\\
- seine Hand durchbohrt die flüchtige Schlange. ^{[[#fn5][5]]}\\
+ seine Hand durchbohrt die flüchtige Schlange. [fn:5]\\
 \\
 
 <<v14>>
 14 Siehe, das sind nur die Säume seines Waltens; /\\
  wie ein Flüstern ist das Wort, /\\
  das wir von ihm vernehmen. Doch das Donnern seiner Macht, /\\
- wer kann es begreifen? ^{[[#fn6][6]]}\\
+ wer kann es begreifen? [fn:6]\\
 \\
 
-^{[[#fnm1][1]]} 5-14: Dritte Rede Zofars: 27,7-23 / 24,18-25. Die
-Abschnitte 26,1-4 / 27,1-6 gehören wohl zu Ijobs Schlussrede und sind
+* Footnotes
+
+[fn:1] 5-14: Dritte Rede Zofars: [[file:Ijob_27.org::v7][27,7]]-[[file:Ijob_27.org::v23][23]] / [[file:Ijob_24.org::v18][24,18]]-[[file:Ijob_24.org::v25][25]]. Die
+Abschnitte [[v1][26,1]]-[[v4][4]] / [[file:Ijob_27.org::v1][27,1]]-[[file:Ijob_27.org::v6][6]] gehören wohl zu Ijobs Schlussrede und sind
 also vor 29,1 einzuordnen.
 
-^{[[#fnm2][2]]} ℘ Ps 139,8.11f; Spr 15,11
+[fn:2] [[file:Ps_139.org::v8][Ps 139,8]].[[file:Ps_139.org::v11][11f]]; [[file:Spr_15.org::v11][Spr 15,11]]
 
-^{[[#fnm3][3]]} ℘ Gen 1,7.14
+[fn:3] [[file:Gen_1.org::v7][Gen 1,7]].[[file:Gen_1.org::v14][14]]
 
-^{[[#fnm4][4]]} ℘ 7,12; 9,13; Jes 51,9f
+[fn:4] [[file:Ijob_7.org::v12][7,12]]; [[file:Ijob_9.org::v13][9,13]]; [[file:Jes_51.org::v9][Jes 51,9f]]
 
-^{[[#fnm5][5]]} ℘ Jes 27,1
+[fn:5] [[file:Jes_27.org::v1][Jes 27,1]]
 
-^{[[#fnm6][6]]} ℘ Sir 43,32
+[fn:6] [[file:Sir_43.org::v32][Sir 43,32]]

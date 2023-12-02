@@ -1,44 +1,37 @@
-:PROPERTIES:
-:ID:       d5088116-14cd-4efa-a55e-dd9fdf954180
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Ijob* -- [[file:Ijob_1.html][1]] ...
-[[file:Ijob_22.html][22]] [[file:Ijob_23.html][23]] *24*
-[[file:Ijob_25.html][25]] [[file:Ijob_26.html][26]] ...
-[[file:Ijob_42.html][42]]
-
---------------
-
-* Ijob 24
-  :PROPERTIES:
-  :CUSTOM_ID: ijob-24
-  :END:
+#+TITLE: Ijob 24 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-12-02 Sa 17:44]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ijob 24.html
 
 <<verses>>
 
 <<v1>>
-**** Der Übermut der Sünder: 24,1-17
-     :PROPERTIES:
-     :CUSTOM_ID: der-übermut-der-sünder-241-17
-     :END:
+* Der Übermut der Sünder: 24,1-17
+
 1 Warum hat der Allmächtige keine Fristen bestimmt? /\\
  Warum schauen, die ihn kennen, seine Gerichtstage nicht?\\
 \\
 
 <<v2>>
 2 Jene verrücken die Grenzen, /\\
- rauben Herden und führen sie zur Weide. ^{[[#fn1][1]]}\\
+ rauben Herden und führen sie zur Weide. [fn:1]\\
 \\
 
 <<v3>>
 3 Den Esel der Waisen treiben sie fort, /\\
- pfänden das Rind der Witwe. ^{[[#fn2][2]]}\\
+ pfänden das Rind der Witwe. [fn:2]\\
 \\
 
 <<v4>>
 4 Vom Weg drängen sie die Armen, /\\
- es verbergen sich alle Gebeugten des Landes. ^{[[#fn3][3]]}\\
+ es verbergen sich alle Gebeugten des Landes. [fn:3]\\
 \\
 
 <<v5>>
@@ -55,7 +48,7 @@
 
 <<v7>>
 7 Nackt verbringen sie die Nacht, ohne Kleider, /\\
- haben keine Decke in der Kälte. ^{[[#fn4][4]]}\\
+ haben keine Decke in der Kälte. [fn:4]\\
 \\
 
 <<v8>>
@@ -81,25 +74,25 @@
 <<v12>>
 12 Aus der Stadt stöhnen Sterbende, /\\
  der Erschlagenen Leben schreit laut. /\\
- Doch Gott achtet nicht auf ihr Flehen. ^{[[#fn5][5]][[#fn6][6]]}\\
+ Doch Gott achtet nicht auf ihr Flehen. [fn:5] [fn:6]\\
 \\
 
 <<v13>>
 13 Sie sind die Rebellen gegen das Licht; /\\
  sie nehmen seine Wege nicht wahr, /\\
- bleiben nicht auf seinen Pfaden. ^{[[#fn7][7]]}\\
+ bleiben nicht auf seinen Pfaden. [fn:7]\\
 \\
 
 <<v14>>
 14 Ist kein Licht, erhebt sich der Mörder, /\\
  tötet Elende und Arme; /\\
- in der Nacht gleicht er dem Dieb. ^{[[#fn8][8]][[#fn9][9]]}\\
+ in der Nacht gleicht er dem Dieb. [fn:8] [fn:9]\\
 \\
 
 <<v15>>
 15 Auch des Ehebrechers Auge achtet auf Dämmerung. /\\
  Kein Auge, sagt er, soll mich erspähen!, /\\
- eine Hülle legt er aufs Gesicht. ^{[[#fn10][10]]}\\
+ eine Hülle legt er aufs Gesicht. [fn:10]\\
 \\
 
 <<v16>>
@@ -114,13 +107,11 @@
 \\
 
 <<v18>>
-**** Das Ende der Frevler: 24,18-25
-     :PROPERTIES:
-     :CUSTOM_ID: das-ende-der-frevler-2418-25
-     :END:
+* Das Ende der Frevler: 24,18-25
+
 18 Schnell reißt ihn das Wasser fort; /\\
  verflucht ist ihr Anteil auf Erden; /\\
- nicht wendet er den Weg den Weinbergen zu. ^{[[#fn11][11]]}\\
+ nicht wendet er den Weg den Weinbergen zu. [fn:11]\\
 \\
 
 <<v19>>
@@ -152,7 +143,7 @@
 <<v24>>
 24 Sie kommen hoch für kurze Zeit, dann ist es aus. /\\
  Sie werden umgebogen, alle mit der Faust gepackt /\\
- und wie Ährenspitzen abgeschnitten. ^{[[#fn12][12]]}\\
+ und wie Ährenspitzen abgeschnitten. [fn:12]\\
 \\
 
 <<v25>>
@@ -160,28 +151,30 @@
  und bringt meine Rede zum Schweigen?\\
 \\
 
-^{[[#fnm1][1]]} ℘ Dtn 27,17
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ Dtn 24,17
+[fn:1] [[file:Dtn_27.org::v17c][Dtn 27,17c]]
 
-^{[[#fnm3][3]]} ℘ Dtn 15,11
+[fn:2] [[file:Dtn_27.org::v17][Dtn 24,17]]
 
-^{[[#fnm4][4]]} ℘ Dtn 24,12f
+[fn:3] [[file:Dtn_15.org::v11][Dtn 15,11]]
 
-^{[[#fnm5][5]]} ℘ Offb 6,10f
+[fn:4] [[file:Dtn_24.org::v12][Dtn 24,12f]]
 
-^{[[#fnm6][6]]} Sterbende: Text korr. nach S; H: Menschen.
+[fn:5] [[file:~/RoamNotes/notes/Bibel/nt/Offb_6.org::v10][Offb 6,10f]]
 
-^{[[#fnm7][7]]} ℘ 38,15; Joh 3,20; Eph 5,8-14
+[fn:6] Sterbende: Text korr. nach S; H: Menschen.
 
-^{[[#fnm8][8]]} ℘ Ps 10,8f
+[fn:7] [[file:Ijob_38.org::v15][38,15]]; [[file:~/RoamNotes/notes/Bibel/nt/Joh_3.org::v20][Joh 3,20]]; [[file:~/RoamNotes/notes/Bibel/nt/Eph_5.org::v8][Eph 5,8]]-[[file:~/RoamNotes/notes/Bibel/nt/Eph_5.org::v14][14]]
 
-^{[[#fnm9][9]]} Ist kein Licht: Text korr.; H: Bei Licht (= Bei Tage).
+[fn:8] [[file:Ps_10.org::v8][Ps 10,8f]]
 
-^{[[#fnm10][10]]} ℘ Spr 7,9f
+[fn:9] Ist kein Licht: Text korr.; H: Bei Licht (= Bei Tage).
 
-^{[[#fnm11][11]]} 18-25: In den Kapiteln 24 - 27 ist die Reihenfolge des
+[fn:10] [[file:Spr_7.org::v9][Spr 7,9f]]
+
+[fn:11] 18-25: In den Kapiteln [[file:Ijob_24.org][24]] - [[file:Ijob_27.org][27]] ist die Reihenfolge des
 Textes vermutlich gestört. Ein logischer Ablauf und ein besseres
-Verständnis ergibt sich, wenn man liest: Dritte Rede Bildads: 25,1-6.
+Verständnis ergibt sich, wenn man liest: Dritte Rede Bildads: [[file:Ijob_25.org::v1][25,1]]-[[file:Ijob_25.org::v6][6]].
 
-^{[[#fnm12][12]]} ℘ 30,4
+[fn:12] [[file:Ijob_30.org::v4][30,4]]

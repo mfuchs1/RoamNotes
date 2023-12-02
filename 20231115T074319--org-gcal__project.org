@@ -10,18 +10,6 @@
 :ETag:     "3399772356090000"
 :LOCATION: Kletterhalle Salzburg, Wasserfeldstraße, Salzburg
 :calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 6kq68cb16gp68bb16gp32b9kchj3ebb164pjeb9jc4ojeob26ti3aob16o_20231031T151500Z/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2023-10-31 Di 16:15-17:45>
-:END:
-
-* Kletterkurs Gabriel
-:PROPERTIES:
-:ETag:     "3399772356090000"
-:LOCATION: Kletterhalle Salzburg, Wasserfeldstraße, Salzburg
-:calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 6kq68cb16gp68bb16gp32b9kchj3ebb164pjeb9jc4ojeob26ti3aob16o_20231107T151500Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
 :END:
@@ -193,9 +181,9 @@
 <2023-11-24 Fr 15:30-16:00>
 :END:
 
-* Klavierunterricht Leopold
+* Klavierunterricht Leopold (heute abgesagt)
 :PROPERTIES:
-:ETag:     "3400427633514000"
+:ETag:     "3402838060720000"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 30aa01o19s7lr20mnh2dvnlq7p_20231201T143000Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -348,5 +336,27 @@ Alle Standard Kinder am Elternsprechtag zur Steffi
 :END:
 :org-gcal:
 <2023-11-29 Mi 13:00-13:50>
+:END:
+
+* Ileana Schicker (Elternsprechtag)
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3402837401384000"
+:entry-id: f7isd36hon5s6mfj3e01jbfvc0/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2023-12-01 Fr 15:20-15:28>
+:END:
+
+* Florian Hofer (Elternsprechtag)
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3402837543592000"
+:entry-id: 93hmvekh0g3rt3fsa3c7br2tp0/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2023-12-01 Fr 16:08-16:16>
 :END:
 

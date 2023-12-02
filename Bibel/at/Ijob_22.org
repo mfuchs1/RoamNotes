@@ -172,35 +172,35 @@
 
 * Footnotes
 
-[fn:1] 35,7; Lk 17,7-10
+[fn:1] [[file:Ijob_35.org::v7][35,7]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_17.org::v7][Lk 17,7]]-[[file:~/RoamNotes/notes/Bibel/nt/Lk_17.org::v10][10]]
 
-[fn:2] Ex 22,25f; Dtn 24,12f
+[fn:2] [[file:Ex_22.org::v25][Ex 22,25f]]; [[file:Dtn_24.org::v12][Dtn 24,12f]]
 
-[fn:3] Jes 58,7; Ez 18,7; Mt 25,42
+[fn:3] [[file:Jes_58.org::v7][Jes 58,7]]; [[file:Ez_18.org::v7][Ez 18,7]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_25.org::v42][Mt 25,42]]
 
 [fn:4] Andere Übersetzungsmöglichkeiten: der Erfolgreiche, der
 Mächtige.
 
-[fn:5] Ex 22,21f
+[fn:5] [[file:Ex_22.org::v21][Ex 22,21f]]
 
-[fn:6] 18,8-11; 19,6
+[fn:6] [[file:Ijob_18.org::v8][18,8]]-[[file:Ijob_18.org::v11][11]]; [[file:Ijob_19.org::v6][19,6]]
 
-[fn:7] Ps 69,2f
+[fn:7] [[file:Ps_69.org::v2][Ps 69,2f]]
 
-[fn:8] Jes 40,26
+[fn:8] [[file:Jes_40.org::v26][Jes 40,26]]
 
-[fn:9] 35,13; Ps 73,11; Jes 29,15
+[fn:9] [[file:Ijob_36.org::v13][35,13]]; [[file:Ps_73.org::v11][Ps 73,11]]; [[file:Jes_29.org::v15][Jes 29,15]]
 
-[fn:10] Sir 24,5; Jer 23,23f
+[fn:10] [[file:Sir_24.org::v5][Sir 24,5]]; [[file:Jer_23.org::v23][Jer 23,23f]]
 
-[fn:11] 21,14
+[fn:11] [[file:Ijob_21.org::v14][21,14]]
 
 [fn:12] von uns: Text korr.; H: von ihnen.
 
 [fn:13] ihm: Text korr.; H: mir.
 
-[fn:14] Ps 58,11
+[fn:14] [[file:Ps_58.org::v11][Ps 58,11]]
 
-[fn:15] 27,10
+[fn:15] [[file:Ijob_27.org::v10][27,10]]
 
-[fn:16] Ps 18,28; Jes 2,11-17; Lk 1,52f; 1 Petr 5,5
+[fn:16] [[file:Ps_18.org::v28][Ps 18,28]]; [[file:Jes_2.org::v11][Jes 2,11]]-[[file:Jes_2.org::v17][17]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_1.org::v52][Lk 1,52f]]; [[file:~/RoamNotes/notes/Bibel/nt/1.Petr_5.org::v5][1 Petr 5,5]]

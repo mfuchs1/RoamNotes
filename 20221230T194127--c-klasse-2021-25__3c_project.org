@@ -30,7 +30,7 @@ Schüler erstellen zu verschiedenen Themen Kahoots! ...
 Wie deute ich einen Text - Bsp.: Schöpfungstext Gen 2
 RB Doppelseite
 
-Schüler erarbeiten sich Themen selbständig; erstellen ein Kahoot.
+Schüler erarbeiten sich Themen selbständig; erstellen ein Kahoot. Bei einigen Gruppen hat das Kahoot nicht geklappt, sind rein technische Probleme. Hoffentlich sind sie bis heute gelöst. 
 
 
 * 3C [KV Daniela Schwaighofer]
@@ -591,3 +591,13 @@ Schüler erarbeiten sich Themen selbständig; erstellen ein Kahoot.
 PERIOD: [2023-02-03 Fr 08:40]
 
 Die Kinder arbeiten sehr konzentriert, ach, wie ist das entspannend. - Es gibt sie eben doch, die schönen Stunden.
+
+** Verschiedene Themen, ...
+:PROPERTIES:
+:CAPTURED: [2023-11-30 Do 12:19]
+:CLASS: [2023-11-30 Do 11:35] 5. Stunde
+:END:
+
+Heute ist ein Tag zum Vergessen; die Kahoots der Kinder funktionieren nicht, oder sind voller gravierender Fehler (Inhalt), oder sie nehmen das Thema nicht ernst. Sie müssen das verbessern bis zum nächsten Mal - mit Note.
+
+

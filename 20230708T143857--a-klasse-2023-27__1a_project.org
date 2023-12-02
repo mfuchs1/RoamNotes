@@ -24,7 +24,8 @@ Film über Abraham - heute fertig.
 * 1a 12:30-13:20
 <%%(org-class 2023 9 14 2024 7 8 4 44)>
 
-Kapitel 2
+Kapitel 3; Palästina, das Land der Bibel. (S. 48 - 49)
+
 
 * 1A MINT [KV Mirjam Seiwald]
 #+Name: 2021-students

@@ -1,31 +1,22 @@
-:PROPERTIES:
-:ID:       844c47dc-533a-42de-9caa-f3709f33f3f1
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Ijob* -- [[file:Ijob_1.html][1]] ...
-[[file:Ijob_23.html][23]] [[file:Ijob_24.html][24]] *25*
-[[file:Ijob_26.html][26]] [[file:Ijob_27.html][27]] ...
-[[file:Ijob_42.html][42]]
-
---------------
-
-* Ijob 25
-  :PROPERTIES:
-  :CUSTOM_ID: ijob-25
-  :END:
+#+TITLE: Ijob 26 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-12-02 Sa 18:13]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ijob 26.html
 
 <<verses>>
 
 <<v1>>
-*** Die dritte Rede Bildads 25,1-6
-    :PROPERTIES:
-    :CUSTOM_ID: die-dritte-rede-bildads-251-6
-    :END:
-**** Die Sündhaftigkeit aller Menschen: 25,1-6
-     :PROPERTIES:
-     :CUSTOM_ID: die-sündhaftigkeit-aller-menschen-251-6
-     :END:
+* Die dritte Rede Bildads 25,1-6
+
+* Die Sündhaftigkeit aller Menschen: 25,1-6
+
 1 Da antwortete Bildad von Schuach und sprach:\\
 \\
 
@@ -41,7 +32,7 @@
 
 <<v4>>
 4 Wie wäre ein Mensch gerecht vor Gott, /\\
- wie wäre rein der vom Weib Geborene? ^{[[#fn1][1]]}\\
+ wie wäre rein der vom Weib Geborene? [fn:1]\\
 \\
 
 <<v5>>
@@ -54,4 +45,6 @@
  der Menschensohn, der Wurm.\\
 \\
 
-^{[[#fnm1][1]]} ℘ 4,17; 15,14
+* Footnotes
+
+[fn:1] [[file:Ijob_4.org::v17][4,17]]; [[file:Ijob_15.org::v14][15,14]]
