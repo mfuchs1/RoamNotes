@@ -1,31 +1,22 @@
-:PROPERTIES:
-:ID:       082bdf66-7202-4d4a-9962-b549c0d8b208
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Ijob* -- [[file:Ijob_1.html][1]] ...
-[[file:Ijob_34.html][34]] [[file:Ijob_35.html][35]] *36*
-[[file:Ijob_37.html][37]] [[file:Ijob_38.html][38]] ...
-[[file:Ijob_42.html][42]]
-
---------------
-
-* Ijob 36
-  :PROPERTIES:
-  :CUSTOM_ID: ijob-36
-  :END:
+#+TITLE: Ijob 36 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-12-02 Sa 23:18]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ijob 36.html
 
 <<verses>>
 
 <<v1>>
-*** Die vierte Rede Elihus: 36,1 - 37,24
-    :PROPERTIES:
-    :CUSTOM_ID: die-vierte-rede-elihus-361---3724
-    :END:
-**** Über die Vergeltung Gottes: 36,1-14
-     :PROPERTIES:
-     :CUSTOM_ID: über-die-vergeltung-gottes-361-14
-     :END:
+* Die vierte Rede Elihus: 36,1 - 37,24
+
+* Über die Vergeltung Gottes: 36,1-14
+
 1 Dann fuhr Elihu fort und sprach:\\
 \\
 
@@ -57,12 +48,12 @@
 <<v7>>
 7 Er wendet seine Augen nicht von dem Gerechten; /\\
  Könige auf dem Thron: /\\
- für immer setzt er sie ein, sie werden groß. ^{[[#fn1][1]]}\\
+ für immer setzt er sie ein, sie werden groß. [fn:1]\\
 \\
 
 <<v8>>
 8 Doch sind in Fesseln sie geschlagen, /\\
- gefangen in des Elends Stricken, ^{[[#fn2][2]]}\\
+ gefangen in des Elends Stricken, [fn:2]\\
 \\
 
 <<v9>>
@@ -93,14 +84,12 @@
 
 <<v14>>
 14 Jung schon muss ihre Seele sterben, /\\
- wie das Leben der Lustknaben ist ihr Leben. ^{[[#fn3][3]]}\\
+ wie das Leben der Lustknaben ist ihr Leben. [fn:3]\\
 \\
 
 <<v15>>
-**** Über das Leid: 36,15-21
-     :PROPERTIES:
-     :CUSTOM_ID: über-das-leid-3615-21
-     :END:
+* Über das Leid: 36,15-21
+
 15 Den Geplagten rettet Gott durch seine Plage /\\
  und öffnet durch Bedrängnis sein Ohr.\\
 \\
@@ -123,7 +112,7 @@
 
 <<v19>>
 19 Wird dein Schreien aus der Not dich führen /\\
- und alle Anstrengungen voll Kraft? ^{[[#fn4][4]]}\\
+ und alle Anstrengungen voll Kraft? [fn:4]\\
 \\
 
 <<v20>>
@@ -137,17 +126,15 @@
 \\
 
 <<v22>>
-**** Über Gottes Größe: 36,22-33
-     :PROPERTIES:
-     :CUSTOM_ID: über-gottes-größe-3622-33
-     :END:
+* Über Gottes Größe: 36,22-33
+
 22 Sieh, groß ist Gott in seiner Macht. /\\
- Wer ist ein Lehrer wie er? ^{[[#fn5][5]]}\\
+ Wer ist ein Lehrer wie er? [fn:5]\\
 \\
 
 <<v23>>
 23 Wer will ihm weisen seinen Weg? /\\
- Wer kann ihm sagen: Du tust Unrecht? ^{[[#fn6][6]]}\\
+ Wer kann ihm sagen: Du tust Unrecht? [fn:6]\\
 \\
 
 <<v24>>
@@ -162,12 +149,12 @@
 
 <<v26>>
 26 Sieh, Gott ist groß, nicht zu begreifen, /\\
- unerforschlich ist die Zahl seiner Jahre. ^{[[#fn7][7]]}\\
+ unerforschlich ist die Zahl seiner Jahre. [fn:7]\\
 \\
 
 <<v27>>
 27 Denn er zieht die Wassertropfen herauf, /\\
- als Regen ergießen sie sich aus der Flut. ^{[[#fn8][8]]}\\
+ als Regen ergießen sie sich aus der Flut. [fn:8]\\
 \\
 
 <<v28>>
@@ -177,7 +164,7 @@
 
 <<v29>>
 29 Wer gar versteht der Wolke Schweben, /\\
- den Donnerhall aus seinem Zelt? ^{[[#fn9][9]][[#fn10][10]]}\\
+ den Donnerhall aus seinem Zelt? [fn:9] [fn:10]\\
 \\
 
 <<v30>>
@@ -187,7 +174,7 @@
 
 <<v31>>
 31 Denn damit richtet er die Völker, /\\
- gibt Speise in reicher Fülle. ^{[[#fn11][11]]}\\
+ gibt Speise in reicher Fülle. [fn:11]\\
 \\
 
 <<v32>>
@@ -197,30 +184,31 @@
 
 <<v33>>
 33 Ihn kündigt an sein Donnerhall, /\\
- wenn er im Zorn gegen den Frevel eifert. ^{[[#fn12][12]]}\\
+ wenn er im Zorn gegen den Frevel eifert. [fn:12]\\
 \\
 
-^{[[#fnm1][1]]} ℘ Dan 4,14
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 2 Chr 33,11-13; Ps 107,10
+[fn:1] [[file:Dan_4.org::v14][Dan 4,14]]
 
-^{[[#fnm3][3]]} Anspielung an die sakrale Prostitution im kanaanäischen
-Kult.
+[fn:2] [[file:2.Chr_33.org::v11][2 Chr 33,11]]-[[file:2.Chr_33.org::v13][13]]; [[file:Ps_107.org::v10][Ps 107,10]]
 
-^{[[#fnm4][4]]} 19f: Sinn unklar.
+[fn:3] Anspielung an die sakrale Prostitution im kanaanäischen Kult.
 
-^{[[#fnm5][5]]} ℘ Ps 95,3; Dan 2,47
+[fn:4] 19f: Sinn unklar.
 
-^{[[#fnm6][6]]} ℘ Jes 40,13; Röm 11,33f
+[fn:5] [[file:Ps_95.org::v3][Ps 95,3]]; [[file:Dan_2.org::v47][Dan 2,47]]
 
-^{[[#fnm7][7]]} ℘ Ps 145,3
+[fn:6] [[file:Jes_40.org::v13][Jes 40,13]]; [[file:~/RoamNotes/notes/Bibel/nt/Röm_11.org::v33][Röm 11,33f]]
 
-^{[[#fnm8][8]]} ℘ 28,25f
+[fn:7] [[file:Ps_145.org::v3][Ps 145,3]]
 
-^{[[#fnm9][9]]} ℘ Ps 18,10-15
+[fn:8] [[file:Ijob_28.org::v25][28,25f]]
 
-^{[[#fnm10][10]]} Wer: Text korr. - Schweben: Text korr.
+[fn:9] [[file:Ps_18.org::v10][Ps 18,10]]-[[file:Ps_18.org::v15][15]]
 
-^{[[#fnm11][11]]} ℘ Ps 104,13f
+[fn:10] Wer: Text korr. - Schweben: Text korr.
 
-^{[[#fnm12][12]]} Text korr.
+[fn:11] [[file:Ps_104.org::v13][Ps 104,13f]]
+
+[fn:12] Text korr.

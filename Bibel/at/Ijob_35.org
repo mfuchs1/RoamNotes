@@ -1,31 +1,22 @@
-:PROPERTIES:
-:ID:       800e8547-b27b-4be2-8b66-30e89e5acafa
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Ijob* -- [[file:Ijob_1.html][1]] ...
-[[file:Ijob_33.html][33]] [[file:Ijob_34.html][34]] *35*
-[[file:Ijob_36.html][36]] [[file:Ijob_37.html][37]] ...
-[[file:Ijob_42.html][42]]
-
---------------
-
-* Ijob 35
-  :PROPERTIES:
-  :CUSTOM_ID: ijob-35
-  :END:
+#+TITLE: Ijob 35 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-12-02 Sa 23:15]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ijob 35.html
 
 <<verses>>
 
 <<v1>>
-*** Die dritte Rede Elihus: 35,1-16
-    :PROPERTIES:
-    :CUSTOM_ID: die-dritte-rede-elihus-351-16
-    :END:
-**** Gottes Überlegenheit: 35,1-8
-     :PROPERTIES:
-     :CUSTOM_ID: gottes-überlegenheit-351-8
-     :END:
+* Die dritte Rede Elihus: 35,1-16
+
+* Gottes Überlegenheit: 35,1-8
+
 1 Dann ergriff Elihu das Wort und sprach:\\
 \\
 
@@ -36,7 +27,7 @@
 
 <<v3>>
 3 Du sagst: Was nützt es mir, /\\
- was habe ich davon, dass ich nicht sündige? ^{[[#fn1][1]][[#fn2][2]]}\\
+ was habe ich davon, dass ich nicht sündige? [fn:1] [fn:2]\\
 \\
 
 <<v4>>
@@ -56,7 +47,7 @@
 
 <<v7>>
 7 Tust du recht, was gibst du ihm /\\
- oder was empfängt er aus deiner Hand? ^{[[#fn3][3]]}\\
+ oder was empfängt er aus deiner Hand? [fn:3]\\
 \\
 
 <<v8>>
@@ -65,10 +56,8 @@
 \\
 
 <<v9>>
-**** Gottes Langmut: 35,9-16
-     :PROPERTIES:
-     :CUSTOM_ID: gottes-langmut-359-16
-     :END:
+* Gottes Langmut: 35,9-16
+
 9 Sie schreien über der Bedrücker Menge, /\\
  rufen um Hilfe unter dem Arm der Großen.\\
 \\
@@ -90,7 +79,7 @@
 
 <<v13>>
 13 Wahrhaftig umsonst, Gott hört es nicht /\\
- und der Allmächtige sieht es nicht an. ^{[[#fn4][4]]}\\
+ und der Allmächtige sieht es nicht an. [fn:4]\\
 \\
 
 <<v14>>
@@ -108,10 +97,12 @@
  macht große Worte im Unverstand.\\
 \\
 
-^{[[#fnm1][1]]} ℘ 7,20
+* Footnotes
 
-^{[[#fnm2][2]]} mir: Text korr.; H: dir.
+[fn:1] [[file:Ijob_7.org::v20][7,20]]
 
-^{[[#fnm3][3]]} ℘ 22,3; Lk 17,10
+[fn:2] mir: Text korr.; H: dir.
 
-^{[[#fnm4][4]]} ℘ 22,13
+[fn:3] [[file:Ijob_22.org::v3][22,3]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_17.org::v10][Lk 17,10]]
+
+[fn:4] [[file:Ijob_22.org::v13][22,13]]

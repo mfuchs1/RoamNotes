@@ -1,27 +1,20 @@
-:PROPERTIES:
-:ID:       89ad0eea-b97a-4210-8156-fd129cc958c6
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Ijob* -- [[file:Ijob_1.html][1]] ...
-[[file:Ijob_31.html][31]] [[file:Ijob_32.html][32]] *33*
-[[file:Ijob_34.html][34]] [[file:Ijob_35.html][35]] ...
-[[file:Ijob_42.html][42]]
-
---------------
-
-* Ijob 33
-  :PROPERTIES:
-  :CUSTOM_ID: ijob-33
-  :END:
+#+TITLE: Ijob 33 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-12-02 Sa 22:28]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ijob 33.html
 
 <<verses>>
 
 <<v1>>
-**** Die Zusammenfassung der Argumente Ijobs: 33,1-13
-     :PROPERTIES:
-     :CUSTOM_ID: die-zusammenfassung-der-argumente-ijobs-331-13
-     :END:
+* Die Zusammenfassung der Argumente Ijobs: 33,1-13
+
 1 Du aber, Ijob, hör doch auf meine Rede, /\\
  all meinen Worten leih dein Ohr!\\
 \\
@@ -38,7 +31,7 @@
 
 <<v4>>
 4 Gottes Geist hat mich erschaffen, /\\
- der Atem des Allmächtigen mir das Leben gegeben. ^{[[#fn1][1]]}\\
+ der Atem des Allmächtigen mir das Leben gegeben. [fn:1]\\
 \\
 
 <<v5>>
@@ -48,7 +41,7 @@
 
 <<v6>>
 6 Schau, ich bin wie du vor Gott, /\\
- auch ich bin nur aus Lehm geformt. ^{[[#fn2][2]]}\\
+ auch ich bin nur aus Lehm geformt. [fn:2]\\
 \\
 
 <<v7>>
@@ -63,17 +56,17 @@
 
 <<v9>>
 9 Rein bin ich und ohne Sünde, /\\
- makellos und ohne Schuld. ^{[[#fn3][3]]}\\
+ makellos und ohne Schuld. [fn:3]\\
 \\
 
 <<v10>>
 10 Vorwürfe sucht Gott gegen mich zu finden, /\\
- er sieht mich an als seinen Feind. ^{[[#fn4][4]]}\\
+ er sieht mich an als seinen Feind. [fn:4]\\
 \\
 
 <<v11>>
 11 Meine Füße legt er in den Block, /\\
- er überwacht alle meine Pfade. ^{[[#fn5][5]]}\\
+ er überwacht alle meine Pfade. [fn:5]\\
 \\
 
 <<v12>>
@@ -83,14 +76,12 @@
 
 <<v13>>
 13 Weshalb hast du mit ihm gehadert, /\\
- weil er all deinen Worten nicht erwidert? ^{[[#fn6][6]]}\\
+ weil er all deinen Worten nicht erwidert? [fn:6]\\
 \\
 
 <<v14>>
-**** Gottes vielfältige Zeichen: 33,14-33
-     :PROPERTIES:
-     :CUSTOM_ID: gottes-vielfältige-zeichen-3314-33
-     :END:
+* Gottes vielfältige Zeichen: 33,14-33
+
 14 Denn einmal redet Gott /\\
  und zweimal, man achtet nicht darauf.\\
 \\
@@ -98,17 +89,17 @@
 <<v15>>
 15 Im Traum, im Nachtgesicht, /\\
  wenn tiefer Schlaf auf die Menschen fällt, /\\
- im Schlummer auf dem Lager, ^{[[#fn7][7]]}\\
+ im Schlummer auf dem Lager, [fn:7]\\
 \\
 
 <<v16>>
 16 da öffnet er der Menschen Ohr /\\
- und schreckt sie auf durch Warnung, ^{[[#fn8][8]]}\\
+ und schreckt sie auf durch Warnung, [fn:8]\\
 \\
 
 <<v17>>
 17 um von seinem Tun den Menschen abzubringen, /\\
- den Hochmut aus dem Manne auszutreiben, ^{[[#fn9][9]]}\\
+ den Hochmut aus dem Manne auszutreiben, [fn:9]\\
 \\
 
 <<v18>>
@@ -118,18 +109,18 @@
 
 <<v19>>
 19 Er wird gemahnt durch Schmerz auf seinem Lager /\\
- und ständig ist Kampf in seinen Gliedern. ^{[[#fn10][10]]}\\
+ und ständig ist Kampf in seinen Gliedern. [fn:10]\\
 \\
 
 <<v20>>
 20 Am Brot verspürt sein Leben Ekel /\\
- und seine Seele an der Lieblingsspeise. ^{[[#fn11][11]]}\\
+ und seine Seele an der Lieblingsspeise. [fn:11]\\
 \\
 
 <<v21>>
 21 Es schwindet sein Fleisch, man sieht's nicht mehr. /\\
  Abgemagert bis auf die Knochen, /\\
- die man sonst nicht sieht. ^{[[#fn12][12]]}\\
+ die man sonst nicht sieht. [fn:12]\\
 \\
 
 <<v22>>
@@ -151,7 +142,7 @@
 
 <<v25>>
 25 dann blüht sein Fleisch in Jugendfrische, /\\
- zu Jugendtagen kehrt er zurück. ^{[[#fn13][13]]}\\
+ zu Jugendtagen kehrt er zurück. [fn:13]\\
 \\
 
 <<v26>>
@@ -178,7 +169,7 @@
 
 <<v30>>
 30 um fern zu halten seine Seele von dem Grab, /\\
- um ihm zu leuchten mit dem Licht des Lebens. ^{[[#fn14][14]]}\\
+ um ihm zu leuchten mit dem Licht des Lebens. [fn:14]\\
 \\
 
 <<v31>>
@@ -196,30 +187,32 @@
  Schweig still, damit ich dich Weisheit lehre.\\
 \\
 
-^{[[#fnm1][1]]} ℘ Gen 2,7
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 10,8
+[fn:1] [[file:Gen_2.org::v7][Gen 2,7]]
 
-^{[[#fnm3][3]]} ℘ 10,7; 16,17; 23,10; 27,5
+[fn:2] [[file:Ijob_10.org::v8][10,8]]
 
-^{[[#fnm4][4]]} ℘ 13,24; 19,11
+[fn:3] [[file:Ijob_10.org::v7][10,7]]; [[file:Ijob_16.org::v17][16,17]]; [[file:Ijob_23.org::v10][23,10]]; [[file:Ijob_27.org::v5][27,5]]
 
-^{[[#fnm5][5]]} ℘ 13,27
+[fn:4] [[file:Ijob_13.org::v24][13,24]]; [[file:Ijob_19.org::v11][19,11]]
 
-^{[[#fnm6][6]]} deinen: Text korr.; H: seinen.
+[fn:5] [[file:Ijob_13.org::v27][13,27]]
 
-^{[[#fnm7][7]]} ℘ 4,12-16
+[fn:6] deinen: Text korr.; H: seinen.
 
-^{[[#fnm8][8]]} schreckt sie auf durch Warnung: Text korr.
+[fn:7] [[file:Ijob_4.org::v12][4,12]]-[[file:Ijob_4.org::v16][16]]
 
-^{[[#fnm9][9]]} von seinem Tun: Text korr. - auszutreiben: Text korr.
+[fn:8] schreckt sie auf durch Warnung: Text korr.
 
-^{[[#fnm10][10]]} ℘ Spr 3,12
+[fn:9] von seinem Tun: Text korr. - auszutreiben: Text korr.
 
-^{[[#fnm11][11]]} ℘ Ps 107,18
+[fn:10] [[file:Spr_3.org::v12][Spr 3,12]]
 
-^{[[#fnm12][12]]} ℘ 19,20
+[fn:11] [[file:Ps_107.org::v18][Ps 107,18]]
 
-^{[[#fnm13][13]]} ℘ Ps 103,5
+[fn:12] [[file:Ijob_19.org::v20][19,20]]
 
-^{[[#fnm14][14]]} ℘ Ps 56,14
+[fn:13] [[file:Ps_103.org::v5][Ps 103,5]]
+
+[fn:14] [[file:Ps_56.org::v14][Ps 56,14]]

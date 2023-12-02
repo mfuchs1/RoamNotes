@@ -1,27 +1,20 @@
-:PROPERTIES:
-:ID:       4e855c36-e723-4354-8a34-55ee8ad746f1
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Ijob* -- [[file:Ijob_1.html][1]] ...
-[[file:Ijob_28.html][28]] [[file:Ijob_29.html][29]] *30*
-[[file:Ijob_31.html][31]] [[file:Ijob_32.html][32]] ...
-[[file:Ijob_42.html][42]]
-
---------------
-
-* Ijob 30
-  :PROPERTIES:
-  :CUSTOM_ID: ijob-30
-  :END:
+#+TITLE: Ijob 30 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-12-02 Sa 21:43]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ijob 30.html
 
 <<verses>>
 
 <<v1>>
-**** Die schreckliche Gegenwart: 30,1-31
-     :PROPERTIES:
-     :CUSTOM_ID: die-schreckliche-gegenwart-301-31
-     :END:
+* Die schreckliche Gegenwart: 30,1-31
+
 1 Jetzt aber lachen über mich, /\\
  die jünger sind als ich an Tagen, /\\
  deren Väter ich nicht für wert geachtet, /\\
@@ -41,7 +34,7 @@
 
 <<v4>>
 4 Sie pflücken Salzmelde im Gesträuch /\\
- und Ginsterwurzeln sind ihr Brot. ^{[[#fn1][1]]}\\
+ und Ginsterwurzeln sind ihr Brot. [fn:1]\\
 \\
 
 <<v5>>
@@ -66,7 +59,7 @@
 
 <<v9>>
 9 Jetzt aber bin ich ihr Spottlied, /\\
- bin zum Klatsch für sie geworden. ^{[[#fn2][2]]}\\
+ bin zum Klatsch für sie geworden. [fn:2]\\
 \\
 
 <<v10>>
@@ -82,12 +75,12 @@
 <<v12>>
 12 Zur rechten Seite erhebt sich eine Schar, /\\
  treibt meine Füße weg, /\\
- wirft gegen mich ihre Unheilsdämme auf. ^{[[#fn3][3]]}\\
+ wirft gegen mich ihre Unheilsdämme auf. [fn:3]\\
 \\
 
 <<v13>>
 13 Meinen Pfad reißen sie auf, helfen zu meinem Verderben /\\
- und niemand wehrt ihnen. ^{[[#fn4][4]]}\\
+ und niemand wehrt ihnen. [fn:4]\\
 \\
 
 <<v14>>
@@ -113,27 +106,27 @@
 
 <<v18>>
 18 Mit Allgewalt packt er mich am Kleid, /\\
- schnürt wie der Gürtel des Rocks mich ein. ^{[[#fn5][5]]}\\
+ schnürt wie der Gürtel des Rocks mich ein. [fn:5]\\
 \\
 
 <<v19>>
 19 Er warf mich in den Lehm, /\\
- sodass ich Staub und Asche gleiche. ^{[[#fn6][6]]}\\
+ sodass ich Staub und Asche gleiche. [fn:6]\\
 \\
 
 <<v20>>
 20 Ich schreie zu dir und du erwiderst mir nicht; /\\
- ich stehe da, doch du achtest nicht auf mich. ^{[[#fn7][7]]}\\
+ ich stehe da, doch du achtest nicht auf mich. [fn:7]\\
 \\
 
 <<v21>>
 21 Du wandelst dich zum grausamen Feind gegen mich, /\\
- mit deiner starken Hand befehdest du mich. ^{[[#fn8][8]]}\\
+ mit deiner starken Hand befehdest du mich. [fn:8]\\
 \\
 
 <<v22>>
 22 Du hebst mich in den Wind, fährst mich dahin, /\\
- lässt mich zergehen im Sturmgebraus. ^{[[#fn9][9]]}\\
+ lässt mich zergehen im Sturmgebraus. [fn:9]\\
 \\
 
 <<v23>>
@@ -143,7 +136,7 @@
 
 <<v24>>
 24 Doch nicht an Trümmer legt er die Hand. - /\\
- Schreit man nicht um Hilfe beim Untergang? ^{[[#fn10][10]]}\\
+ Schreit man nicht um Hilfe beim Untergang? [fn:10]\\
 \\
 
 <<v25>>
@@ -173,7 +166,7 @@
 
 <<v30>>
 30 Die Haut an mir ist schwarz, /\\
- von Fieberglut brennen meine Knochen. ^{[[#fn11][11]]}\\
+ von Fieberglut brennen meine Knochen. [fn:11]\\
 \\
 
 <<v31>>
@@ -181,24 +174,26 @@
  mein Flötenspiel zum Klagelied.\\
 \\
 
-^{[[#fnm1][1]]} Die Salzmelde ist ein salzig schmeckendes Kraut.
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ Ps 69,13; Klgl 3,14
+[fn:1] Die Salzmelde ist ein salzig schmeckendes Kraut.
 
-^{[[#fnm3][3]]} ℘ Ps 109,6
+[fn:2] [[file:Ps_69.org::v13][Ps 69,13]]; [[file:Klgl_3.org::v14][Klgl 3,14]]
 
-^{[[#fnm4][4]]} wehrt: Text korr.; H: hilft.
+[fn:3] [[file:Ps_109.org::v6][Ps 109,6]]
 
-^{[[#fnm5][5]]} packt er: Text korr.
+[fn:4] wehrt: Text korr.; H: hilft.
 
-^{[[#fnm6][6]]} Er warf mich: Text korr.
+[fn:5] packt er: Text korr.
 
-^{[[#fnm7][7]]} nicht: Text korr.
+[fn:6] Er warf mich: Text korr.
 
-^{[[#fnm8][8]]} ℘ 34,6
+[fn:7] nicht: Text korr.
 
-^{[[#fnm9][9]]} ℘ Ps 109,23
+[fn:8] [[file:Ijob_34.org::v6][34,6]]
 
-^{[[#fnm10][10]]} Übersetzung unsicher.
+[fn:9] [[file:Ps_109.org::v23][Ps 109,23]]
 
-^{[[#fnm11][11]]} ℘ Ps 119,83; Klgl 3,4
+[fn:10] Übersetzung unsicher.
+
+[fn:11] [[file:Ps_119.org::v83][Ps 119,83]]; [[file:Klgl_3.org::v4][Klgl 3,4]]
