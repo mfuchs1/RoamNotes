@@ -227,36 +227,36 @@
 [fn:1] 1-39,30: In diesen beiden Kapiteln ist die Nachwirkung
 der sog. weisheitlichen Listenwissenschaft des Alten Orient erkennbar.
 
-[fn:2] 42,3; Jdt 8,12; Jes 40,13
+[fn:2] [[file:Ijob_42.org::v3][42,3]]; [[file:Jdt_8.org::v12][Jdt 8,12]]; [[file:Jes_40.org::v13][Jes 40,13]]
 
-[fn:3] Jes 40,12
+[fn:3] [[file:Jes_40.org::v12][Jes 40,12]]
 
-[fn:4] Sach 1,16
+[fn:4] [[file:Sach_1.org::v16][Sach 1,16]]
 
-[fn:5] Ps 118,22
+[fn:5] [[file:Ps_118.org::v22][Ps 118,22]]
 
-[fn:6] Ps 19,2; 148,2f; Bar 3,34f
+[fn:6] [[file:Ps_19.org::v2][Ps 19,2]]; [[file:Ps_148.org::v2][148,2f]]; [[file:Bar_3.org::v34][Bar 3,34f]]
 
-[fn:7] 2 Makk 9,8; Ps 33,7
+[fn:7] [[file:2.Makk_9.org::v8][2 Makk 9,8]]; [[file:Ps_33.org::v7][Ps 33,7]]
 
 [fn:8] Wer: Text korr.
 
-[fn:9] Ps 65,8; 104,6-9; Spr 8,29
+[fn:9] [[file:Ps_65.org::v8][Ps 65,8]]; [[file:Ps_104.org::v6][104,6]]-[[file:Ps_104.org::v9][9]]; [[file:Spr_8.org::v29][Spr 8,29]]
 
 [fn:10] sie führst: Text korr.; H: begreifst.
 
-[fn:11] Ps 147,17; Sir 43,14f
+[fn:11] [[file:Ps_147.org::v17][Ps 147,17]]; [[file:Sir_43.org::v14][Sir 43,14f]]
 
-[fn:12] Ex 9,18-26
+[fn:12] [[file:Ex_9.org::v18][Ex 9,18]]-[[file:Ex_9.org::v26][26]]
 
-[fn:13] Jes 30,30
+[fn:13] [[file:Jes_30.org::v30][Jes 30,30]]
 
 [fn:14] erstarren, wörtlich: verbergen sich.
 
-[fn:15] 9,9; Am 5,8
+[fn:15] [[file:Ijob_9.org::v9][9,9]]; [[file:Am_5.org::v8][Am 5,8]]
 
-[fn:16] Bar 3,35
+[fn:16] [[file:Bar_3.org::v35][Bar 3,35]]
 
-[fn:17] Ps 104,21f
+[fn:17] [[file:Ps_104.org::v21][Ps 104,21f]]
 
-[fn:18] Ps 147,9
+[fn:18] [[file:Ps_147.org::v9][Ps 147,9]]

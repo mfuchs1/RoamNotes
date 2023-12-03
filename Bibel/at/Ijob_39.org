@@ -1,19 +1,16 @@
-:PROPERTIES:
-:ID:       46b9d5e0-b769-43f0-9350-4414215cabd1
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Ijob* -- [[file:Ijob_1.html][1]] ...
-[[file:Ijob_37.html][37]] [[file:Ijob_38.html][38]] *39*
-[[file:Ijob_40.html][40]] [[file:Ijob_41.html][41]]
-[[file:Ijob_42.html][42]]
-
---------------
+#+TITLE: Ijob 39 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-12-03 So 00:08]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ijob 39.html
 
 * Ijob 39
-  :PROPERTIES:
-  :CUSTOM_ID: ijob-39
-  :END:
 
 <<verses>>
 
@@ -80,7 +77,7 @@
 <<v13>>
 13 Lustig schlägt die Straußenhenne die Flügel. /\\
  Ist ihre Schwinge darum so /\\
- wie die des Storches und Falken? ^{[[#fn1][1]][[#fn2][2]]}\\
+ wie die des Storches und Falken? [fn:1] [fn:2]\\
 \\
 
 <<v14>>
@@ -147,7 +144,7 @@
 <<v26>>
 26 Kommt es von deiner Einsicht, /\\
  dass der Falke sich aufschwingt /\\
- und nach Süden seine Flügel ausbreitet? ^{[[#fn3][3]]}\\
+ und nach Süden seine Flügel ausbreitet? [fn:3]\\
 \\
 
 <<v27>>
@@ -167,13 +164,15 @@
 
 <<v30>>
 30 Nach Blut schon gieren seine Jungen; /\\
- wo Erschlagene sind, ist er zur Stelle. ^{[[#fn4][4]]}\\
+ wo Erschlagene sind, ist er zur Stelle. [fn:4]\\
 \\
 
-^{[[#fnm1][1]]} Sinn von H unklar.
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ (13-16) Klgl 4,3
+[fn:1] Sinn von H unklar.
 
-^{[[#fnm3][3]]} ℘ Jer 8,7
+[fn:2] (13-16) [[file:Klgl_4.org::v3][Klgl 4,3]]
 
-^{[[#fnm4][4]]} ℘ Mt 24,28
+[fn:3] [[file:Jer_8.org::v7][Jer 8,7]]
+
+[fn:4] [[file:~/RoamNotes/notes/Bibel/nt/Mt_24.org::v28][Mt 24,28]]

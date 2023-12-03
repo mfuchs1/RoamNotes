@@ -1,25 +1,20 @@
-:PROPERTIES:
-:ID:       5021b1ba-f49f-4647-92c0-f46d875c6bab
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Ijob* -- [[file:Ijob_1.html][1]] ...
-[[file:Ijob_40.html][40]] [[file:Ijob_41.html][41]] *42*
-
---------------
-
-* Ijob 42
-  :PROPERTIES:
-  :CUSTOM_ID: ijob-42
-  :END:
+#+TITLE: Ijob 42 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-12-03 So 00:17]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ijob 42.html
 
 <<verses>>
 
 <<v1>>
-*** Ijobs Umkehr und Unterwerfung: 42,1-6
-    :PROPERTIES:
-    :CUSTOM_ID: ijobs-umkehr-und-unterwerfung-421-6
-    :END:
+* Ijobs Umkehr und Unterwerfung: 42,1-6
+
 1 Da antwortete Ijob dem Herrn und sprach:\\
 \\
 
@@ -31,7 +26,7 @@
 <<v3>>
 3 Wer ist es, der ohne Einsicht den Rat verdunkelt? /\\
  So habe ich denn im Unverstand geredet über Dinge, /\\
- die zu wunderbar für mich und unbegreiflich sind. ^{[[#fn1][1]]}\\
+ die zu wunderbar für mich und unbegreiflich sind. [fn:1]\\
 \\
 
 <<v4>>
@@ -46,18 +41,14 @@
 
 <<v6>>
 6 Darum widerrufe ich und atme auf, /\\
- in Staub und Asche. ^{[[#fn2][2]]}\\
+ in Staub und Asche. [fn:2]\\
 \\
 
 <<v7>>
-** Die Rahmenerzählung: 42,7-17
-   :PROPERTIES:
-   :CUSTOM_ID: die-rahmenerzählung-427-17
-   :END:
-**** Ijobs Rechtfertigung: 42,7-9
-     :PROPERTIES:
-     :CUSTOM_ID: ijobs-rechtfertigung-427-9
-     :END:
+* Die Rahmenerzählung: 42,7-17
+
+* Ijobs Rechtfertigung: 42,7-9
+
 7 Als der Herr diese Worte zu Ijob gesprochen hatte, sagte der Herr zu
 Elifas von Teman: Mein Zorn ist entbrannt gegen dich und deine beiden
 Gefährten; denn ihr habt nicht recht von mir geredet wie mein Knecht
@@ -77,20 +68,18 @@ auf Ijob.\\
 \\
 
 <<v10>>
-**** Ijobs neues Glück: 42,10-17
-     :PROPERTIES:
-     :CUSTOM_ID: ijobs-neues-glück-4210-17
-     :END:
+* Ijobs neues Glück: 42,10-17
+
 10 Der Herr wendete das Geschick Ijobs, als er für seinen Nächsten
 Fürbitte einlegte; und der Herr mehrte den Besitz Ijobs auf das
-Doppelte. ^{[[#fn3][3]]}
+Doppelte. [fn:3]
 
 <<v11>>
 11 Da kamen zu ihm alle seine Brüder, alle seine Schwestern und alle
 seine früheren Bekannten und speisten mit ihm in seinem Haus. Sie
 bezeigten ihm ihr Mitleid und trösteten ihn wegen all des Unglücks, das
 der Herr über ihn gebracht hatte. Ein jeder schenkte ihm eine Kesita und
-einen goldenen Ring. ^{[[#fn4][4]]}
+einen goldenen Ring. [fn:4]
 
 <<v12>>
 12 Der Herr aber segnete die spätere Lebenszeit Ijobs mehr als seine
@@ -102,36 +91,38 @@ Joch Rinder und tausend Esel.
 
 <<v14>>
 14 Die erste nannte er Jemima, die zweite Kezia und die dritte
-Keren-Happuch. ^{[[#fn5][5]]}
+Keren-Happuch. [fn:5]
 
 <<v15>>
 15 Man fand im ganzen Land keine schöneren Frauen als die Töchter Ijobs;
-ihr Vater gab ihnen Erbbesitz unter ihren Brüdern. ^{[[#fn6][6]]}
+ihr Vater gab ihnen Erbbesitz unter ihren Brüdern. [fn:6]
 
 <<v16>>
 16 Ijob lebte danach noch hundertvierzig Jahre; er sah seine Kinder und
-Kindeskinder, vier Geschlechter. ^{[[#fn7][7]]}
+Kindeskinder, vier Geschlechter. [fn:7]
 
 <<v17>>
-17 Dann starb Ijob, hochbetagt und satt an Lebenstagen. ^{[[#fn8][8]]}\\
+17 Dann starb Ijob, hochbetagt und satt an Lebenstagen. [fn:8]\\
 \\
 
-^{[[#fnm1][1]]} ℘ 38,2
+* Footnotes
 
-^{[[#fnm2][2]]} widerrufe ich, wörtlich: verwerfe ich. - und atme auf:
+[fn:1] [[file:Ijob_38.org::v2][38,2]]
+
+[fn:2] widerrufe ich, wörtlich: verwerfe ich. - und atme auf:
 übersetzt nach der dem betreffenden hebräischen Wort entsprechenden
 arabischen Wurzel.
 
-^{[[#fnm3][3]]} ℘ Jak 5,11
+[fn:3] [[file:~/RoamNotes/notes/Bibel/nt/Jak_5.org::v11][Jak 5,11]]
 
-^{[[#fnm4][4]]} Kesita: ursprünglich altes Metallgewicht unbekannter
+[fn:4] Kesita: ursprünglich altes Metallgewicht unbekannter
 Schwere, später Zahlungsmittel. - Ring: ein Nasenreif oder ein Ohrring.
 
-^{[[#fnm5][5]]} Die Namen der drei Töchter bedeuten: Täubchen, Zimtblüte
+[fn:5] Die Namen der drei Töchter bedeuten: Täubchen, Zimtblüte
 und Schminkhörnchen.
 
-^{[[#fnm6][6]]} ℘ Ps 144,12
+[fn:6] [[file:Ps_144.org::v12][Ps 144,12]]
 
-^{[[#fnm7][7]]} ℘ Ps 128,6
+[fn:7] [[file:Ps_128.org::v6][Ps 128,6]]
 
-^{[[#fnm8][8]]} ℘ Gen 25,8
+[fn:8] [[file:Gen_25.org::v8][Gen 25,8]]

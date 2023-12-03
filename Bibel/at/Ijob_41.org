@@ -1,18 +1,16 @@
-:PROPERTIES:
-:ID:       d932c7c1-785e-4c9b-a838-5b4c4cda1587
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Ijob* -- [[file:Ijob_1.html][1]] ...
-[[file:Ijob_39.html][39]] [[file:Ijob_40.html][40]] *41*
-[[file:Ijob_42.html][42]]
-
---------------
+#+TITLE: Ijob 41 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-12-03 So 00:15]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ijob 41.html
 
 * Ijob 41
-  :PROPERTIES:
-  :CUSTOM_ID: ijob-41
-  :END:
 
 <<verses>>
 
@@ -28,12 +26,12 @@
 
 <<v3>>
 3 Wer begegnete ihm und bliebe heil? /\\
- Unter dem ganzen Himmel gibt es so einen nicht. ^{[[#fn1][1]]}\\
+ Unter dem ganzen Himmel gibt es so einen nicht. [fn:1]\\
 \\
 
 <<v4>>
 4 Ich will nicht schweigen von seinen Gliedern, /\\
- wie groß und mächtig, wie wohlgeschaffen es ist. ^{[[#fn2][2]]}\\
+ wie groß und mächtig, wie wohlgeschaffen es ist. [fn:2]\\
 \\
 
 <<v5>>
@@ -43,12 +41,12 @@
 
 <<v6>>
 6 Wer öffnet die Tore seines Mauls? /\\
- Rings um seine Zähne lagert Schrecken. ^{[[#fn3][3]]}\\
+ Rings um seine Zähne lagert Schrecken. [fn:3]\\
 \\
 
 <<v7>>
 7 Reihen von Schilden sind sein Rücken, /\\
- verschlossen mit Siegel aus Kieselstein. ^{[[#fn4][4]]}\\
+ verschlossen mit Siegel aus Kieselstein. [fn:4]\\
 \\
 
 <<v8>>
@@ -73,7 +71,7 @@
 
 <<v12>>
 12 Rauch dampft aus seinen Nüstern /\\
- wie aus kochendem, heißem Topf. ^{[[#fn5][5]][[#fn6][6]]}\\
+ wie aus kochendem, heißem Topf. [fn:5] [fn:6]\\
 \\
 
 <<v13>>
@@ -147,14 +145,16 @@
  König ist es über alle stolzen Tiere.\\
 \\
 
-^{[[#fnm1][1]]} ihm: Text korr.; H: mir.
+* Footnotes
 
-^{[[#fnm2][2]]} Sinn von H unklar.
+[fn:1] ihm: Text korr.; H: mir.
 
-^{[[#fnm3][3]]} Maul, wörtlich: Gesicht.
+[fn:2] Sinn von H unklar.
 
-^{[[#fnm4][4]]} sein Rücken: Text korr.; H: sein Hochmut.
+[fn:3] Maul, wörtlich: Gesicht.
 
-^{[[#fnm5][5]]} ℘ Offb 9,17
+[fn:4] sein Rücken: Text korr.; H: sein Hochmut.
 
-^{[[#fnm6][6]]} Sinn von H unklar.
+[fn:5] [[file:~/RoamNotes/notes/Bibel/nt/Offb_9.org::v17][Offb 9,17]]
+
+[fn:6] Sinn von H unklar.

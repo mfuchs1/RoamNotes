@@ -1,34 +1,29 @@
-:PROPERTIES:
-:ID:       a51be7f7-dc27-4674-91d9-f0e600d25041
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Die Psalmen* -- [[file:Ps_1.html][1]] *2*
-[[file:Ps_3.html][3]] [[file:Ps_4.html][4]] ...
-[[file:Ps_150.html][150]]
-
---------------
+#+TITLE: Ps 2 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-12-03 So 13:42]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ps 2.html
 
 * Ps 2
-  :PROPERTIES:
-  :CUSTOM_ID: ps-2
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Der Herr und sein Gesalbter
-     :PROPERTIES:
-     :CUSTOM_ID: der-herr-und-sein-gesalbter
-     :END:
+* Der Herr und sein Gesalbter
+
 1 Warum toben die Völker, /\\
- warum machen die Nationen vergebliche Pläne? ^{[[#fn1][1]]}\\
+ warum machen die Nationen vergebliche Pläne? [fn:1]\\
 \\
 
 <<v2>>
 2 Die Könige der Erde stehen auf, /\\
- die Großen haben sich verbündet gegen den Herrn und seinen Gesalbten.
-^{[[#fn2][2]]}\\
+ die Großen haben sich verbündet gegen den Herrn und seinen Gesalbten. [fn:2]\\
 \\
 
 <<v3>>
@@ -38,7 +33,7 @@
 
 <<v4>>
 4 Doch er, der im Himmel thront, lacht, /\\
- der Herr verspottet sie. ^{[[#fn3][3]]}\\
+ der Herr verspottet sie. [fn:3]\\
 \\
 
 <<v5>>
@@ -54,17 +49,17 @@
 <<v7>>
 7 Den Beschluss des Herrn will ich kundtun. /\\
  Er sprach zu mir: «Mein Sohn bist du. /\\
- Heute habe ich dich gezeugt. ^{[[#fn4][4]]}\\
+ Heute habe ich dich gezeugt. [fn:4]\\
 \\
 
 <<v8>>
 8 Fordre von mir und ich gebe dir die Völker zum Erbe, /\\
- die Enden der Erde zum Eigentum. ^{[[#fn5][5]][[#fn6][6]]}\\
+ die Enden der Erde zum Eigentum. [fn:5] [fn:6]\\
 \\
 
 <<v9>>
 9 Du wirst sie zerschlagen mit eiserner Keule, /\\
- wie Krüge aus Ton wirst du sie zertrümmern.» ^{[[#fn7][7]]}\\
+ wie Krüge aus Ton wirst du sie zertrümmern.» [fn:7]\\
 \\
 
 <<v10>>
@@ -74,7 +69,7 @@
 
 <<v11>>
 11 Dient dem Herrn in Furcht /\\
- und küsst ihm mit Beben die Füße, ^{[[#fn8][8]]}\\
+ und küsst ihm mit Beben die Füße, [fn:8]\\
 \\
 
 <<v12>>
@@ -84,19 +79,21 @@ ist entbrannt. /\\
  Wohl allen, die ihm vertrauen!\\
 \\
 
-^{[[#fnm1][1]]} ℘ Offb 11,18; Apg 4,25f
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ Offb 19,19
+[fn:1] [[file:~/RoamNotes/notes/Bibel/nt/Offb_11.org::v18][Offb 11,18]]; [[file:~/RoamNotes/notes/Bibel/nt/Apg_4.org::v25][Apg 4,25f]]
 
-^{[[#fnm3][3]]} ℘ 59,9
+[fn:2] [[file:~/RoamNotes/notes/Bibel/nt/Offb_19.org::v19][Offb 19,19]]
 
-^{[[#fnm4][4]]} ℘ 89,27f; Apg 13,33; Hebr 1,5; 5,5
+[fn:3] [[file:Ps_59.org::v9][59,9]]
 
-^{[[#fnm5][5]]} ℘ (8-9) 72,8; Offb 2,26f
+[fn:4] [[file:Ps_89.org::v27][89,27f]]; [[file:~/RoamNotes/notes/Bibel/nt/Apg_13.org::v33][Apg 13,33]]; [[file:~/RoamNotes/notes/Bibel/nt/Hebr_1.org::v5][Hebr 1,5]]; [[file:~/RoamNotes/notes/Bibel/nt/Hebr_5.org::v5][5,5]]
 
-^{[[#fnm6][6]]} dir: ergänzt nach G und S.
+[fn:5] (8-9) [[file:Ps_72.org::v8][72,8]]; [[file:~/RoamNotes/notes/Bibel/nt/Offb_2.org::v26][Offb 2,26f]]
 
-^{[[#fnm7][7]]} ℘ 110,5f; Offb 12,5; 19,15
+[fn:6] dir: ergänzt nach G und S.
 
-^{[[#fnm8][8]]} Text korr.; H ist kaum verständlich: und jauchzt mit
+[fn:7] [[file:Ps_110.org::v5][110,5f]]; [[file:~/RoamNotes/notes/Bibel/nt/Offb_12.org::v5][Offb 12,5]]; [[file:~/RoamNotes/notes/Bibel/nt/Offb_19.org::v15][19,15]]
+
+[fn:8] Text korr.; H ist kaum verständlich: und jauchzt mit
 Beben, küsst den Sohn (in H zum Teil bereits V. 12).
