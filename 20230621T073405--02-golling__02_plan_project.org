@@ -79,8 +79,11 @@ CLOSED: [2023-11-27 Mo 08:40] SCHEDULED: <2023-11-20 Mo>
 - State "DONE"       from              [2023-11-27 Mo 08:40]
 :END:
 
-** [[denote:20230619T211834][[SW12] Ich verurteile dich nicht]]
-SCHEDULED: <2023-11-27 Mo>
+** DONE [[denote:20230619T211834][[SW12] Ich verurteile dich nicht]]
+CLOSED: [2023-12-04 Mo 10:10] SCHEDULED: <2023-11-27 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2023-12-04 Mo 10:10]
+:END:
 
 ** [[denote:20230619T211950][[SW13] Kinder haben Rechte]]
 SCHEDULED: <2023-12-04 Mo>

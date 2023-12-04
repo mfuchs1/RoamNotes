@@ -1,33 +1,28 @@
-:PROPERTIES:
-:ID:       3fe4db7e-7cbd-4800-961a-08e2e25f763d
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Die Psalmen* -- [[file:Ps_1.html][1]] ...
-[[file:Ps_14.html][14]] [[file:Ps_15.html][15]] *16*
-[[file:Ps_17.html][17]] [[file:Ps_18.html][18]] ...
-[[file:Ps_150.html][150]]
-
---------------
+#+TITLE: Ps 16 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-12-04 Mo 22:11]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ps 16.html
 
 * Ps 16
-  :PROPERTIES:
-  :CUSTOM_ID: ps-16
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Gott, der Anteil seiner Getreuen
-     :PROPERTIES:
-     :CUSTOM_ID: gott-der-anteil-seiner-getreuen
-     :END:
+* Gott, der Anteil seiner Getreuen
+
 1 [Ein Lied Davids.] Behüte mich, Gott, denn ich vertraue dir. /\\
 \\
 
 <<v2>>
 2 Ich sage zum Herrn: «Du bist mein Herr; /\\
- mein ganzes Glück bist du allein.» ^{[[#fn1][1]][[#fn2][2]]}\\
+ mein ganzes Glück bist du allein.» [fn:1] [fn:2]\\
 \\
 
 <<v3>>
@@ -43,12 +38,12 @@
 
 <<v5>>
 5 Du, Herr, gibst mir das Erbe und reichst mir den Becher; /\\
- du hältst mein Los in deinen Händen. ^{[[#fn3][3]]}\\
+ du hältst mein Los in deinen Händen. [fn:3]\\
 \\
 
 <<v6>>
 6 Auf schönem Land fiel mir mein Anteil zu. /\\
- Ja, mein Erbe gefällt mir gut. ^{[[#fn4][4]][[#fn5][5]]}\\
+ Ja, mein Erbe gefällt mir gut. [fn:4] [fn:5]\\
 \\
 
 <<v7>>
@@ -58,7 +53,7 @@
 
 <<v8>>
 8 Ich habe den Herrn beständig vor Augen. /\\
- Er steht mir zur Rechten, ich wanke nicht. ^{[[#fn6][6]]}\\
+ Er steht mir zur Rechten, ich wanke nicht. [fn:6]\\
 \\
 
 <<v9>>
@@ -68,27 +63,29 @@
 
 <<v10>>
 10 Denn du gibst mich nicht der Unterwelt preis; /\\
- du lässt deinen Frommen das Grab nicht schauen. ^{[[#fn7][7]]}\\
+ du lässt deinen Frommen das Grab nicht schauen. [fn:7]\\
 \\
 
 <<v11>>
 11 Du zeigst mir den Pfad zum Leben. /\\
  Vor deinem Angesicht herrscht Freude in Fülle, /\\
- zu deiner Rechten Wonne für alle Zeit. ^{[[#fn8][8]]}\\
+ zu deiner Rechten Wonne für alle Zeit. [fn:8]\\
 \\
 
-^{[[#fnm1][1]]} ℘ 73,25
+* Footnotes
 
-^{[[#fnm2][2]]} 2-4: Sinn von H ist nicht ganz klar.
+[fn:1] [[file:Ps_73.org::v25][73,25]]
 
-^{[[#fnm3][3]]} ℘ 23,5
+[fn:2] 2-4: Sinn von H ist nicht ganz klar.
 
-^{[[#fnm4][4]]} ℘ 73,26
+[fn:3] [[file:Ps_23.org::v5][23,5]]
 
-^{[[#fnm5][5]]} mein: ergänzt nach G und S.
+[fn:4] [[file:Ps_73.org::v26][73,26]]
 
-^{[[#fnm6][6]]} ℘ (8-11) Apg 2,25-28
+[fn:5] mein: ergänzt nach G und S.
 
-^{[[#fnm7][7]]} ℘ Apg 2,31; 13,35
+[fn:6] (8-11) [[file:~/RoamNotes/notes/Bibel/nt/Apg_2.org::v25][Apg 2,25-28]]
 
-^{[[#fnm8][8]]} ℘ 25,4
+[fn:7] [[file:~/RoamNotes/notes/Bibel/nt/Apg_2.org::v31][Apg 2,31]]; [[file:~/RoamNotes/notes/Bibel/nt/Apg_13.org::v35][13,35]]
+
+[fn:8] [[file:Ps_25.org::v4][25,4]]

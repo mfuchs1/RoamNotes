@@ -78,8 +78,11 @@ CLOSED: [2023-11-27 Mo 08:40] SCHEDULED: <2023-11-20 Mo>
 - State "DONE"       from              [2023-11-27 Mo 08:40]
 :END:
 
-** [[denote:20230619T090127][[SW12] Beginn Advent - Singen von Adventliedern]]
-SCHEDULED: <2023-11-27 Mo>
+** DONE [[denote:20230619T090127][[SW12] Beginn Advent - Singen von Adventliedern]]
+CLOSED: [2023-12-04 Mo 10:10] SCHEDULED: <2023-11-27 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2023-12-04 Mo 10:10]
+:END:
 
 ** [[denote:20230619T090707][[SW13] Maria Empfängnis (8.12.)]]
 SCHEDULED: <2023-12-04 Mo>

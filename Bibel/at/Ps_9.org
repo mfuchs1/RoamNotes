@@ -1,33 +1,29 @@
-:PROPERTIES:
-:ID:       7974bb05-c827-42d3-8f6f-2e5517959a99
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Die Psalmen* -- [[file:Ps_1.html][1]] ...
-[[file:Ps_7.html][7]] [[file:Ps_8.html][8]] *9* [[file:Ps_10.html][10]]
-[[file:Ps_11.html][11]] ... [[file:Ps_150.html][150]]
-
---------------
+#+TITLE: Ps 9 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-12-03 So 21:20]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ps 9.html
 
 * Ps 9
-  :PROPERTIES:
-  :CUSTOM_ID: ps-9
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Gott, der Retter der Armen und Bedrängten
-     :PROPERTIES:
-     :CUSTOM_ID: gott-der-retter-der-armen-und-bedrängten
-     :END:
+* Gott, der Retter der Armen und Bedrängten
+
 1 [Für den Chormeister. Nach der Weise «Stirb für den Sohn!» Ein Psalm
 Davids.]\\
 \\
 
 <<v2>>
 2 Ich will dir danken, Herr, aus ganzem Herzen, /\\
- verkünden will ich all deine Wunder. ^{[[#fn1][1]]}\\
+ verkünden will ich all deine Wunder. [fn:1]\\
 \\
 
 <<v3>>
@@ -62,7 +58,7 @@ Davids.]\\
 
 <<v9>>
 9 Er richtet den Erdkreis gerecht, /\\
- er spricht den Völkern das Urteil, das sie verdienen. ^{[[#fn2][2]]}\\
+ er spricht den Völkern das Urteil, das sie verdienen. [fn:2]\\
 \\
 
 <<v10>>
@@ -77,35 +73,33 @@ Davids.]\\
 
 <<v12>>
 12 Singt dem Herrn, der thront auf dem Zion, /\\
- verkündet unter den Völkern seine Taten! ^{[[#fn3][3]]}\\
+ verkündet unter den Völkern seine Taten! [fn:3]\\
 \\
 
 <<v13>>
 13 Denn er, der jede Blutschuld rächt, denkt an die Armen /\\
- und ihren Notschrei vergisst er nicht. ^{[[#fn4][4]]}\\
+ und ihren Notschrei vergisst er nicht. [fn:4]\\
 \\
 
 <<v14>>
 14 Sei mir gnädig in meiner Not; /\\
  Herr, sieh doch, wie sie mich hassen! Führ mich herauf von den Pforten
-des Todes, / ^{[[#fn5][5]]}\\
+des Todes, / [fn:5]\\
 \\
 
 <<v15>>
 15 damit ich all deinen Ruhm verkünde in den Toren von Zion /\\
- und frohlocke, weil du mir hilfst. ^{[[#fn6][6]]}\\
+ und frohlocke, weil du mir hilfst. [fn:6]\\
 \\
 
 <<v16>>
 16 Völker versanken in der Grube, die sie selber gegraben; /\\
- im Netz, das sie heimlich gelegt, hat ihr Fuß sich verfangen.
-^{[[#fn7][7]]}\\
+ im Netz, das sie heimlich gelegt, hat ihr Fuß sich verfangen. [fn:7]\\
 \\
 
 <<v17>>
 17 Kundgetan hat sich der Herr: Er hielt sein Gericht; /\\
- im eigenen Werk hat sich der Frevler verstrickt. [Zwischenspiel. Sela]
-^{[[#fn8][8]]}\\
+ im eigenen Werk hat sich der Frevler verstrickt. [Zwischenspiel. Sela] [fn:8]\\
 \\
 
 <<v18>>
@@ -120,8 +114,7 @@ des Todes, / ^{[[#fn5][5]]}\\
 
 <<v20>>
 20 Erheb dich, Herr, damit nicht der Mensch triumphiert, /\\
- damit die Völker gerichtet werden vor deinem Angesicht.
-^{[[#fn9][9]]}\\
+ damit die Völker gerichtet werden vor deinem Angesicht. [fn:9]\\
 \\
 
 <<v21>>
@@ -129,21 +122,23 @@ des Todes, / ^{[[#fn5][5]]}\\
  Erkennen sollen die Völker: Sie sind nur Menschen. [Sela]\\
 \\
 
-^{[[#fnm1][1]]} ℘ 138,1
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 96,13
+[fn:1] [[file:Ps_138.org::v1][138,1]]
 
-^{[[#fnm3][3]]} ℘ 108,4
+[fn:2] [[file:Ps_96.org::v13][96,13]]
 
-^{[[#fnm4][4]]} ℘ Ijob 34,28
+[fn:3] [[file:Ps_108.org::v4][108,4]]
 
-^{[[#fnm5][5]]} ℘ 30,4; 49,16; 56,14; 68,21; 71,20; 86,13; 116,8; Weish
-16,13; Jona 2,7
+[fn:4] [[file:Ijob_34.org::v28][Ijob 34,28]]
 
-^{[[#fnm6][6]]} Wörtlich: in den Toren der Tochter Zion.
+[fn:5] [[file:Ps_30.org::v4][30,4]]; [[file:Ps_49.org::v16][49,16]]; [[file:Ps_56.org::v14][56,14]]; [[file:Ps_68.org::v21][68,21]]; [[file:Ps_71.org::v20][71,20]]; [[file:Ps_86.org::v13][86,13]]; [[file:Ps_116.org::v8][116,8]];
+[[file:Weish_16.org::v13][Weish 16,13]]; [[file:Jona_2.org::v7][Jona 2,7]]
 
-^{[[#fnm7][7]]} ℘ 7,16
+[fn:6] Wörtlich: in den Toren der Tochter Zion.
 
-^{[[#fnm8][8]]} Wörtlich: im Werk seiner Hände, er fängt den Frevler.
+[fn:7] [[file:Ps_7.org::v16][7,16]]
 
-^{[[#fnm9][9]]} ℘ 7,7
+[fn:8] Wörtlich: im Werk seiner Hände, er fängt den Frevler.
+
+[fn:9] [[file:Ps_7.org::v7][7,7]]

@@ -1,27 +1,22 @@
-:PROPERTIES:
-:ID:       e49626bf-37f6-42ba-9f5b-fc1ae6adc080
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Die Psalmen* -- [[file:Ps_1.html][1]] ...
-[[file:Ps_15.html][15]] [[file:Ps_16.html][16]] *17*
-[[file:Ps_18.html][18]] [[file:Ps_19.html][19]] ...
-[[file:Ps_150.html][150]]
-
---------------
+#+TITLE: Ps 17 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-12-04 Mo 22:15]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ps 17.html
 
 * Ps 17
-  :PROPERTIES:
-  :CUSTOM_ID: ps-17
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Das Gebet eines Verfolgten
-     :PROPERTIES:
-     :CUSTOM_ID: das-gebet-eines-verfolgten
-     :END:
+* Das Gebet eines Verfolgten
+
 1 [Ein Gebet Davids.] Höre, Herr, die gerechte Sache, /\\
  achte auf mein Flehen, /\\
  vernimm mein Gebet von Lippen ohne Falsch!\\
@@ -35,13 +30,12 @@
 <<v3>>
 3 Prüfst du mein Herz, /\\
  suchst du mich heim in der Nacht und erprobst mich, /\\
- dann findest du an mir kein Unrecht. Mein Mund verging sich nicht, /
-^{[[#fn1][1]][[#fn2][2]]}\\
+ dann findest du an mir kein Unrecht. Mein Mund verging sich nicht, / [fn:1] [fn:2]\\
 \\
 
 <<v4>>
 4 trotz allem, was die Menschen auch treiben; /\\
- ich halte mich an das Wort deiner Lippen. ^{[[#fn3][3]]}\\
+ ich halte mich an das Wort deiner Lippen. [fn:3]\\
 \\
 
 <<v5>>
@@ -56,13 +50,12 @@
 
 <<v7>>
 7 Wunderbar erweise deine Huld! /\\
- Du rettest alle, die sich an deiner Rechten vor den Feinden bergen.
-^{[[#fn4][4]]}\\
+ Du rettest alle, die sich an deiner Rechten vor den Feinden bergen. [fn:4]\\
 \\
 
 <<v8>>
 8 Behüte mich wie den Augapfel, den Stern des Auges, /\\
- birg mich im Schatten deiner Flügel ^{[[#fn5][5]]}\\
+ birg mich im Schatten deiner Flügel [fn:5]\\
 \\
 
 <<v9>>
@@ -72,17 +65,17 @@
 
 <<v10>>
 10 Sie haben ihr hartes Herz verschlossen, /\\
- sie führen stolze Worte im Mund, ^{[[#fn6][6]]}\\
+ sie führen stolze Worte im Mund, [fn:6]\\
 \\
 
 <<v11>>
 11 sie lauern mir auf, jetzt kreisen sie mich ein; /\\
- sie trachten danach, mich zu Boden zu strecken, ^{[[#fn7][7]]}\\
+ sie trachten danach, mich zu Boden zu strecken, [fn:7]\\
 \\
 
 <<v12>>
 12 so wie der Löwe voll Gier ist zu zerreißen, /\\
- wie der junge Löwe, der im Hinterhalt lauert. ^{[[#fn8][8]]}\\
+ wie der junge Löwe, der im Hinterhalt lauert. [fn:8]\\
 \\
 
 <<v13>>
@@ -95,33 +88,34 @@
  vor denen, die im Leben schon alles haben. Du füllst ihren Leib mit
 Gütern, /\\
  auch ihre Söhne werden noch satt /\\
- und hinterlassen den Enkeln, was übrig bleibt.
-^{[[#fn9][9]][[#fn10][10]]}\\
+ und hinterlassen den Enkeln, was übrig bleibt. [fn:9] [fn:10]\\
 \\
 
 <<v15>>
 15 Ich aber will in Gerechtigkeit dein Angesicht schauen, /\\
- mich satt sehen an deiner Gestalt, wenn ich erwache. ^{[[#fn11][11]]}\\
+ mich satt sehen an deiner Gestalt, wenn ich erwache. [fn:11]\\
 \\
 
-^{[[#fnm1][1]]} ℘ 139,1; Ijob 7,18; 23,10
+* Footnotes
 
-^{[[#fnm2][2]]} findest du: Text korr. nach G und S.
+[fn:1] [[file:Ps_139.org::v1][139,1]]; [[file:Ijob_7.org::v18][Ijob 7,18]]; [[file:Ps_23.org::v10][23,10]]
 
-^{[[#fnm3][3]]} ℘ (4-5) Ijob 23,11f
+[fn:2] findest du: Text korr. nach G und S.
 
-^{[[#fnm4][4]]} ℘ (7-8) 36,8; 57,2; 61,5; 63,8; 91,4; Ex 37,9; Mt 23,37
+[fn:3] (4-5) [[file:Ijob_23.org::v11][Ijob 23,11f]]
 
-^{[[#fnm5][5]]} ℘ Dtn 32,10; Sach 2,12
+[fn:4] (7-8) [[file:Ps_36.org::v8][36,8]]; [[file:Ps_57.org::v2][57,2]]; [[file:Ps_61.org::v5][61,5]]; [[file:Ps_63.org::v8][63,8]]; [[file:Ps_91.org::v4][91,4]]; [[file:Ex_37.org::v9][Ex 37,9]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_23.org::v37][Mt 23,37]]
 
-^{[[#fnm6][6]]} ihr hartes Herz, wörtlich: ihr Fett.
+[fn:5] [[file:Dtn_32.org::v10][Dtn 32,10]]; [[file:Sach_2.org::v12][Sach 2,12]]
 
-^{[[#fnm7][7]]} sie lauern mir auf: Text korr.; H: unsere Schritte.
+[fn:6] ihr hartes Herz, wörtlich: ihr Fett.
 
-^{[[#fnm8][8]]} ℘ 7,3; 10,9; 22,14.22; 35,17; 57,5; 58,7
+[fn:7] sie lauern mir auf: Text korr.; H: unsere Schritte.
 
-^{[[#fnm9][9]]} ℘ 73,12
+[fn:8] [[file:Ps_7.org::v3][7,3]]; [[file:Ps_10.org::v9][10,9]]; [[file:Ps_22.org::v14][22,14]].[[file:Ps_22.org::v22][22]]; [[file:Ps_35.org::v17][35,17]]; [[file:Ps_57.org::v5][57,5]]; [[file:Ps_58.org::v7][58,7]]
 
-^{[[#fnm10][10]]} ist verderbt.
+[fn:9] [[file:Ps_73.org::v12][73,12]]
 
-^{[[#fnm11][11]]} ℘ Num 12,8; Offb 22,4
+[fn:10] ist verderbt.
+
+[fn:11] [[file:Num_12.org::v8][Num 12,8]]; [[file:~/RoamNotes/notes/Bibel/nt/Offb_22.org::v4][Offb 22,4]]

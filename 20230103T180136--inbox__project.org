@@ -158,10 +158,13 @@ CLOSED: [2023-11-20 Mo 09:40] DEADLINE: <2023-11-19 So 20:00>
 
 [[denote:20231114T160144]]
 
-* TODO Kahoot zum Thema Schöpfungsmythen
-DEADLINE: <2023-12-03 So>
+* DONE Kahoot zum Thema Schöpfungsmythen
+CLOSED: [2023-12-04 Mo 09:57] DEADLINE: <2023-12-03 So>
 :PROPERTIES:
 :CAPTURED: [2023-11-30 Do 11:23]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-12-04 Mo 09:57]
 :END:
 
 [[denote:20221230T193609]]

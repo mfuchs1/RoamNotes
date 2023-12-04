@@ -1,42 +1,35 @@
-:PROPERTIES:
-:ID:       53791796-dcde-41ae-a9ed-f8d0e3f1e5c2
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Die Psalmen* -- [[file:Ps_1.html][1]] ...
-[[file:Ps_16.html][16]] [[file:Ps_17.html][17]] *18*
-[[file:Ps_19.html][19]] [[file:Ps_20.html][20]] ...
-[[file:Ps_150.html][150]]
-
---------------
+#+TITLE: Ps 18 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-12-04 Mo 22:25]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ps 18.html
 
 * Ps 18
-  :PROPERTIES:
-  :CUSTOM_ID: ps-18
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Ein Danklied des Königs für Rettung und Sieg
-     :PROPERTIES:
-     :CUSTOM_ID: ein-danklied-des-königs-für-rettung-und-sieg
-     :END:
+* Ein Danklied des Königs für Rettung und Sieg
+
 1 [Für den Chormeister. Von David, dem Knecht des Herrn, der dem Herrn
 die Worte dieses Liedes sang an dem Tag, als ihn der Herr aus der Gewalt
-all seiner Feinde und aus der Hand Sauls errettet hatte.
-^{[[#fn1][1]]}\\
+all seiner Feinde und aus der Hand Sauls errettet hatte. [fn:1]\\
 \\
 
 <<v2>>
-2 Er sprach:] Ich will dich rühmen, Herr, meine Stärke, /
-^{[[#fn2][2]]}\\
+2 Er sprach:] Ich will dich rühmen, Herr, meine Stärke, / [fn:2]\\
 \\
 
 <<v3>>
 3 Herr, du mein Fels, meine Burg, mein Retter, mein Gott, meine Feste,
 in der ich mich berge, /\\
- mein Schild und sicheres Heil, meine Zuflucht. ^{[[#fn3][3]]}\\
+ mein Schild und sicheres Heil, meine Zuflucht. [fn:3]\\
 \\
 
 <<v4>>
@@ -46,7 +39,7 @@ in der ich mich berge, /\\
 
 <<v5>>
 5 Mich umfingen die Fesseln des Todes, /\\
- mich erschreckten die Fluten des Verderbens. ^{[[#fn4][4]]}\\
+ mich erschreckten die Fluten des Verderbens. [fn:4]\\
 \\
 
 <<v6>>
@@ -64,23 +57,23 @@ in der ich mich berge, /\\
 <<v8>>
 8 Da wankte und schwankte die Erde, /\\
  die Grundfesten der Berge erbebten. /\\
- Sie wankten, denn sein Zorn war entbrannt. ^{[[#fn5][5]]}\\
+ Sie wankten, denn sein Zorn war entbrannt. [fn:5]\\
 \\
 
 <<v9>>
 9 Rauch stieg aus seiner Nase auf, /\\
  aus seinem Mund kam verzehrendes Feuer, /\\
- glühende Kohlen sprühten aus von ihm. ^{[[#fn6][6]]}\\
+ glühende Kohlen sprühten aus von ihm. [fn:6]\\
 \\
 
 <<v10>>
 10 Er neigte den Himmel und fuhr herab, /\\
- zu seinen Füßen dunkle Wolken. ^{[[#fn7][7]]}\\
+ zu seinen Füßen dunkle Wolken. [fn:7]\\
 \\
 
 <<v11>>
 11 Er fuhr auf dem Kerub und flog daher; /\\
- er schwebte auf den Flügeln des Windes. ^{[[#fn8][8]]}\\
+ er schwebte auf den Flügeln des Windes. [fn:8]\\
 \\
 
 <<v12>>
@@ -90,30 +83,28 @@ in der ich mich berge, /\\
 
 <<v13>>
 13 Von seinem Glanz erstrahlten die Wolken, /\\
- Hagel fiel nieder und glühende Kohlen. ^{[[#fn9][9]]}\\
+ Hagel fiel nieder und glühende Kohlen. [fn:9]\\
 \\
 
 <<v14>>
 14 Da ließ der Herr den Donner im Himmel erdröhnen, /\\
- der Höchste ließ seine Stimme erschallen.
-^{[[#fn10][10]][[#fn11][11]]}\\
+ der Höchste ließ seine Stimme erschallen. [fn:10] [fn:11]\\
 \\
 
 <<v15>>
 15 Er schoss seine Pfeile und streute sie, /\\
- er schleuderte Blitze und jagte sie dahin. ^{[[#fn12][12]]}\\
+ er schleuderte Blitze und jagte sie dahin. [fn:12]\\
 \\
 
 <<v16>>
 16 Da wurden sichtbar die Tiefen des Meeres, /\\
  die Grundfesten der Erde wurden entblößt vor deinem Drohen, Herr, /\\
- vor dem Schnauben deines zornigen Atems.
-^{[[#fn13][13]][[#fn14][14]]}\\
+ vor dem Schnauben deines zornigen Atems. [fn:13] [fn:14]\\
 \\
 
 <<v17>>
 17 Er griff aus der Höhe herab und fasste mich, /\\
- zog mich heraus aus gewaltigen Wassern. ^{[[#fn15][15]]}\\
+ zog mich heraus aus gewaltigen Wassern. [fn:15]\\
 \\
 
 <<v18>>
@@ -128,7 +119,7 @@ in der ich mich berge, /\\
 
 <<v20>>
 20 Er führte mich hinaus ins Weite, /\\
- er befreite mich, denn er hatte an mir Gefallen. ^{[[#fn16][16]]}\\
+ er befreite mich, denn er hatte an mir Gefallen. [fn:16]\\
 \\
 
 <<v21>>
@@ -168,28 +159,28 @@ in der ich mich berge, /\\
 
 <<v28>>
 28 Dem bedrückten Volk bringst du Heil, /\\
- doch die Blicke der Stolzen zwingst du nieder. ^{[[#fn17][17]]}\\
+ doch die Blicke der Stolzen zwingst du nieder. [fn:17]\\
 \\
 
 <<v29>>
 29 Du, Herr, lässt meine Leuchte erstrahlen, /\\
- mein Gott macht meine Finsternis hell. ^{[[#fn18][18]]}\\
+ mein Gott macht meine Finsternis hell. [fn:18]\\
 \\
 
 <<v30>>
 30 Mit dir erstürme ich Wälle, /\\
- mit meinem Gott überspringe ich Mauern. ^{[[#fn19][19]]}\\
+ mit meinem Gott überspringe ich Mauern. [fn:19]\\
 \\
 
 <<v31>>
 31 Vollkommen ist Gottes Weg, /\\
  das Wort des Herrn ist im Feuer geläutert. /\\
- Ein Schild ist er für alle, die sich bei ihm bergen. ^{[[#fn20][20]]}\\
+ Ein Schild ist er für alle, die sich bei ihm bergen. [fn:20]\\
 \\
 
 <<v32>>
 32 Denn wer ist Gott als allein der Herr, /\\
- wer ist ein Fels, wenn nicht unser Gott? ^{[[#fn21][21]]}\\
+ wer ist ein Fels, wenn nicht unser Gott? [fn:21]\\
 \\
 
 <<v33>>
@@ -199,23 +190,23 @@ in der ich mich berge, /\\
 
 <<v34>>
 34 Er ließ mich springen schnell wie Hirsche, /\\
- auf hohem Weg ließ er mich gehen. ^{[[#fn22][22]][[#fn23][23]]}\\
+ auf hohem Weg ließ er mich gehen. [fn:22] [fn:23]\\
 \\
 
 <<v35>>
 35 Er lehrte meine Hände zu kämpfen, /\\
- meine Arme, den ehernen Bogen zu spannen. ^{[[#fn24][24]]}\\
+ meine Arme, den ehernen Bogen zu spannen. [fn:24]\\
 \\
 
 <<v36>>
 36 Du gabst mir deine Hilfe zum Schild, /\\
  deine Rechte stützt mich; /\\
- du neigst dich mir zu und machst mich groß. ^{[[#fn25][25]]}\\
+ du neigst dich mir zu und machst mich groß. [fn:25]\\
 \\
 
 <<v37>>
 37 Du schaffst meinen Schritten weiten Raum, /\\
- meine Knöchel wanken nicht. ^{[[#fn26][26]]}\\
+ meine Knöchel wanken nicht. [fn:26]\\
 \\
 
 <<v38>>
@@ -231,13 +222,12 @@ Füßen.\\
 
 <<v40>>
 40 Du hast mich zum Kampf mit Kraft umgürtet, /\\
- hast alle in die Knie gezwungen, die sich gegen mich erhoben.
-^{[[#fn27][27]]}\\
+ hast alle in die Knie gezwungen, die sich gegen mich erhoben. [fn:27]\\
 \\
 
 <<v41>>
 41 Meine Feinde hast du zur Flucht gezwungen; /\\
- ich konnte die vernichten, die mich hassen. ^{[[#fn28][28]]}\\
+ ich konnte die vernichten, die mich hassen. [fn:28]\\
 \\
 
 <<v42>>
@@ -253,7 +243,7 @@ Füßen.\\
 <<v44>>
 44 Du rettest mich vor zahllosem Kriegsvolk, /\\
  du machst mich zum Haupt über ganze Völker. Stämme, die ich früher
-nicht kannte, sind mir nun untertan. / ^{[[#fn29][29]][[#fn30][30]]}\\
+nicht kannte, sind mir nun untertan. / [fn:29] [fn:30]\\
 \\
 
 <<v45>>
@@ -262,18 +252,17 @@ Fremde, /\\
 \\
 
 <<v46>>
-46 sie kommen zitternd aus ihren Burgen hervor.
-^{[[#fn31][31]][[#fn32][32]]}\\
+46 sie kommen zitternd aus ihren Burgen hervor. [fn:31] [fn:32]\\
 \\
 
 <<v47>>
 47 Es lebt der Herr! Mein Fels sei gepriesen. /\\
- Der Gott meines Heils sei hoch erhoben; ^{[[#fn33][33]]}\\
+ Der Gott meines Heils sei hoch erhoben; [fn:33]\\
 \\
 
 <<v48>>
 48 denn Gott verschaffte mir Vergeltung /\\
- und unterwarf mir die Völker. ^{[[#fn34][34]]}\\
+ und unterwarf mir die Völker. [fn:34]\\
 \\
 
 <<v49>>
@@ -284,85 +273,87 @@ Fremde, /\\
 
 <<v50>>
 50 Darum will ich dir danken, Herr, vor den Völkern, /\\
- ich will deinem Namen singen und spielen. ^{[[#fn35][35]]}\\
+ ich will deinem Namen singen und spielen. [fn:35]\\
 \\
 
 <<v51>>
 51 Seinem König verlieh er große Hilfe, /\\
  Huld erwies er seinem Gesalbten, /\\
- David und seinem Stamm auf ewig. ^{[[#fn36][36]]}\\
+ David und seinem Stamm auf ewig. [fn:36]\\
 \\
 
-^{[[#fnm1][1]]} ℘ (1-51) 2 Sam 22,1-51
+* Footnotes
 
-^{[[#fnm2][2]]} Text korr.; H: Ich will dich lieben.
+[fn:1] (1-51) [[file:2.Sam_22.org::v1][2 Sam 22,1-51]]
 
-^{[[#fnm3][3]]} ℘ 92,16; 27,5; 31,3; 3,4
+[fn:2] Text korr.; H: Ich will dich lieben.
 
-^{[[#fnm4][4]]} ℘ 42,8; (5-7) 116,3f
+[fn:3] [[file:Ps_92.org::v16][92,16]]; [[file:Ps_27.org::v5][27,5]]; [[file:Ps_31.org::v3][31,3]]; [[file:Ps_3.org::v4][3,4]]
 
-^{[[#fnm5][5]]} ℘ 68,9
+[fn:4] [[file:Ps_42.org::v8][42,8]]; (5-7) [[file:Ps_116.org::v3][116,3f]]
 
-^{[[#fnm6][6]]} ℘ 97,3; Ex 19,18
+[fn:5] [[file:Ps_68.org::v9][68,9]]
 
-^{[[#fnm7][7]]} ℘ (10-17) 144,5-7
+[fn:6] [[file:Ps_97.org::v3][97,3]]; [[file:Ex_19.org::v18][Ex 19,18]]
 
-^{[[#fnm8][8]]} ℘ 99,1; 104,3
+[fn:7] (10-17) [[file:Ps_144.org::v5][144,5-7]]
 
-^{[[#fnm9][9]]} die Wolken: Text korr. nach G und 2 Sam 22,14.
+[fn:8] [[file:Ps_99.org::v1][99,1]]; [[file:Ps_104.org::v3][104,3]]
 
-^{[[#fnm10][10]]} ℘ (14-15) 77,18f
+[fn:9] die Wolken: Text korr. nach G und [[file:2.Sam_22.org::v14][2 Sam 22,14]].
 
-^{[[#fnm11][11]]} Text korr. nach G und 2 Sam 22,14; H fügt am Schluss
+[fn:10] (14-15) [[file:Ps_77.org::v18][77,18f]]
+
+[fn:11] Text korr. nach G und [[file:2.Sam_22.org::v14][2 Sam 22,14]]; H fügt am Schluss
 hinzu: Hagel und glühende Kohlen.
 
-^{[[#fnm12][12]]} Text korr. nach 2 Sam 22,15.
+[fn:12] Text korr. nach [[file:2.Sam_22.org::v15][2 Sam 22,15]].
 
-^{[[#fnm13][13]]} ℘ 77,17; Ex 15,8
+[fn:13] [[file:Ps_77.org::v17][77,17]]; [[file:Ex_15.org::v8][Ex 15,8]]
 
-^{[[#fnm14][14]]} Text korr.; H: des Wassers des Meeres.
+[fn:14] Text korr.; H: des Wassers des Meeres.
 
-^{[[#fnm15][15]]} ℘ 32,6; 144,7
+[fn:15] [[file:Ps_32.org::v6][32,6]]; [[file:Ps_144.org::v7][144,7]]
 
-^{[[#fnm16][16]]} ℘ 31,9
+[fn:16] [[file:Ps_31.org::v9][31,9]]
 
-^{[[#fnm17][17]]} ℘ Ijob 22,29
+[fn:17] [[file:Ijob_22.org::v29][Ijob 22,29]]
 
-^{[[#fnm18][18]]} ℘ Ijob 29,3
+[fn:18] [[file:Ijob_29.org::v3][Ijob 29,3]]
 
-^{[[#fnm19][19]]} Text korr.; H ist unklar.
+[fn:19] Text korr.; H ist unklar.
 
-^{[[#fnm20][20]]} ℘ 25,4; 12,7; 3,4; Spr 30,5
+[fn:20] [[file:Ps_25.org::v4][25,4]]; [[file:Ps_12.org::v7][12,7]]; [[file:Ps_3.org::v4][3,4]]; [[file:Spr_30.org::v5][Spr 30,5]]
 
-^{[[#fnm21][21]]} ℘ Jes 44,8; Ps 92,16
+[fn:21] [[file:Jes_44.org::v8][Jes 44,8]]; [[file:Ps_92.org::v16][Ps 92,16]]
 
-^{[[#fnm22][22]]} ℘ Hab 3,19; Jes 58,14
+[fn:22] [[file:Hab_3.org::v19][Hab 3,19]]; [[file:Jes_58.org::v14][Jes 58,14]]
 
-^{[[#fnm23][23]]} Wörtlich: auf meinen Höhen.
+[fn:23] Wörtlich: auf meinen Höhen.
 
-^{[[#fnm24][24]]} ℘ 144,1
+[fn:24] [[file:Ps_144.org::v1][144,1]]
 
-^{[[#fnm25][25]]} Text korr.; in H andere Vokalisierung.
+[fn:25] Text korr.; in H andere Vokalisierung.
 
-^{[[#fnm26][26]]} ℘ Ijob 18,7
+[fn:26] [[file:Ijob_18.org::v7][Ijob 18,7]]
 
-^{[[#fnm27][27]]} alle: ergänzt nach G.
+[fn:27] alle: ergänzt nach G.
 
-^{[[#fnm28][28]]} ℘ 21,13
+[fn:28] [[file:Ps_21.org::v13][21,13]]
 
-^{[[#fnm29][29]]} ℘ 2,8
+[fn:29] [[file:Ps_2.org::v8][2,8]]
 
-^{[[#fnm30][30]]} Text leicht korr.
+[fn:30] Text leicht korr.
 
-^{[[#fnm31][31]]} ℘ Mi 7,17
+[fn:31] [[file:Mi_7.org::v17][Mi 7,17]]
 
-^{[[#fnm32][32]]} Text korr.; in H geht eine zusätzliche Verszeile (46a)
+[fn:32] Text korr.; in H geht eine zusätzliche Verszeile (46a)
 voraus: Die Söhne der Fremde verschmachten und kommen.
 
-^{[[#fnm33][33]]} ℘ 92,16
+[fn:33] [[file:Ps_92.org::v16][92,16]]
 
-^{[[#fnm34][34]]} ℘ 144,2
+[fn:34] [[file:Ps_144.org::v2][144,2]]
 
-^{[[#fnm35][35]]} ℘ 108,4; 7,18; Röm 15,9
+[fn:35] [[file:Ps_108.org::v4][108,4]]; [[file:Ps_7.org::v18][7,18]]; [[file:~/RoamNotes/notes/Bibel/nt/Röm_15.org::V9][Röm 15,9]]
 
-^{[[#fnm36][36]]} ℘ 20,7; 89,29f; 144,10
+[fn:36] [[file:Ps_20.org::v7][20,7]]; [[file:Ps_89.org::v29][89,29f]]; [[file:Ps_144.org::v10][144,10]]
