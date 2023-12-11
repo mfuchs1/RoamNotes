@@ -20,26 +20,12 @@
 * 4a 10:40-11:30
 <%%(org-class 2023 9 11 2024 7 5 1 44)>
 
-Gruppenarbeit von letzter Stunde vorstellen.
+Bibel? Propheten...
 
-Nicco, Adrian und Anna müssen ihre Arbeit schriftlich neu machen und ordentlich abgeben [sonst kann ich das restliche Jahr vergessen; sie werden gar nix mehr machen]. 
-
-Biblische Propheten - Gruppenarbeit; 
 
 * 4a 08:40-09:30
 <%%(org-class 2023 9 12 2024 7 6 2 44)>
 
-Letzte Deadline - kommt nix - bestenfalls ein Dreier in Religion.
-
-Gruppenarbeit:
-- Anna + Hannah: Weihnachten (NT, Bräuche, Geschichte)
-- Lena: Edith Stein
-- Arthur: Ostern (NT / AT; Bräuche)
-- Nico, Adrian, Luis: Anne Frank 
-- Christina, Kristina, Emma: Hl. Nikolaus - 2
-- Stefan, Thomas, Manuel: Krampus + Perchten
-- Andre-Leon: Kreuzzüge: super PPP / Kahoot hat leider nicht funktioniert. - 1
-- Noah, Thomas, Fabian: Kampf gegen Rassismus am Bsp von Mohammed Ali
 
 
 * 4A [KV Magdalena Pürrer]
@@ -383,6 +369,13 @@ Luis, Adrian und Niko machen so gut wie gar nichts. Niko schon - jetzt. Luis und
 |         2 |           3 |   2 |         3 |        2.5 |
 #+TBLFM: $5=vmean($1..$4)
 
+*** PPP - Anne Frank
+:PROPERTIES:
+:CAPTURED: [2023-12-05 Di 08:53]
+:CLASS: [2023-12-05 Di 08:53] 2. Stunde
+:END:
+
+Nico und seine Gruppe (Luis und Adrian) haben meinen Auftrag nicht erfüllt und die PPP über Anne Frank nicht verbessert. Konsequenzen? Note auf diese Arbeit: 4.
 
 ** Emma Sunkler
 :PROPERTIES:

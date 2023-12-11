@@ -84,8 +84,11 @@ CLOSED: [2023-12-04 Mo 10:10] SCHEDULED: <2023-11-27 Mo>
 - State "DONE"       from              [2023-12-04 Mo 10:10]
 :END:
 
-** [[denote:20230619T090707][[SW13] Maria Empfängnis (8.12.)]]
-SCHEDULED: <2023-12-04 Mo>
+** DONE [[denote:20230619T090707][[SW13] Maria Empfängnis (8.12.)]]
+CLOSED: [2023-12-10 So 23:26] SCHEDULED: <2023-12-04 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2023-12-10 So 23:26]
+:END:
 
 ** [[denote:20230619T090758][[SW14] Ave Maria]]
 SCHEDULED: <2023-12-11 Mo>

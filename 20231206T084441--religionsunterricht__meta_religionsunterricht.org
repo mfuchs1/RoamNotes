@@ -1,0 +1,79 @@
+#+title:      Religionsunterricht
+#+date:       [2023-12-06 Mi 08:44]
+#+filetags:   :meta:religionsunterricht:
+#+identifier: 20231206T084441
+
+
+* Gedanken
+
+** Burnout?
+:PROPERTIES:
+:CAPTURED: [2023-12-06 Mi 10:00]
+:END:
+Im Moment geht's mir sehr schlecht. So ziemlich alles ist entmutigend. Den Schülern interessiert das Fach gar nicht. Besonders die drei vierten Klassen: Null Bock auf alles. Selbst Themen, die sie selbst auswählen, bearbeiten sie halbherzig, die Ergebnisse sind großteils erbärmlich. Klassische RU Themen gehen sowieso nicht. Die Klasse 3b gehört hier ebenfalls dazu. In der 3a hat das Arbeiten vor Kurzem ganz gut geklappt; aber ich kann auch nicht immer Gruppenarbeit machen. 
+
+Disziplinär wird es von Jahr zu Jahr schlimmer. Einziges Interesse sind PC, Games, Handy - man sieht kein Kind draußen spielen (in Golling, wie in Grödig). Fast alle sitzen vorm PC und zocken - so wie ihre Eltern. 
+
+Warum soll ich mich für Kinder aufreiben und die Frohe Botschaft von Jesus verkünden, wenn diesen Kindern alles egal ist, sie dieser Botschaft gleichgültig gegenüber stehen und dann noch den Lehrer respektlos behandeln? Muss ich mir das gefallen lassen?
+
+Meine Direktorin stärkt mich da gar nicht, sondern will mir vorschreiben, was ich unterrichten soll: "Sicher keine Bibelthemen wie zB Propheten; sondern Ethik, deshalb habe ich ja auch diese Mappe gekauft."
+
+Sollte ich mich zum Wechsel entscheiden: es wäre eben meine x-te Entscheidung, die quasi daneben geht. 
+
+
+** Selbständigkeit
+:PROPERTIES:
+:CAPTURED: [2023-12-06 Mi 13:24]
+:END:
+Das war heute wieder ein schwieriger Tag; wie erziehe ich Kinder zur Selbständigkeit? Die Kinder erwarten, dass ihnen alles auf dem Silbertablet präesentiert wird. Eine HÜ in Religion machen einige Schüler "ins Handy"; ein anderer bringt nur Stichworte auf einem "Kaaszettel"; zwei Mädels eineinhalb Seiten ausgedruckt, offensichtlich copy+paste aus Wikipedia. Also muss ich in einer dritten Klasse explizit jeden Arbeitsschritt angeben. Manchmal auch in einer vierten Klasse!
+
+** Workflow
+:PROPERTIES:
+:CAPTURED: [2023-12-06 Mi 20:06]
+:END:
+Ich sollte mir einen Workflow überlegen, der etwas einfacher ist. Im Moment ist das Alles ziemlich unübersichtlich. War es mit =org-roam= besser? Der Wegfall der database ist hingegen schon ein Vorteil.
+
+Reflexionen zu bestimmten Schülern kann ich mit =org-capture= zu dem betreffenden Schüler eintragen. Auch ein Eintrag in eine Tabelle ist möglich.
+
+Wie verwalte ich aber meine eigenen Gedanken zum Unterricht? Hier in dieser Datei - die einzelnen Headlines kann ich per Auswahl anzeigen lassen, oder? Und wenn ich mir Gedanken zu bestimmten Themen mache - dann erstelle ich eine neue Notiz, oder erweitere bereits bestehende.
+
+
+* TODOs
+
+** TODO Berufswechsel
+:PROPERTIES:
+:CAPTURED: [2023-12-06 Mi 11:23]
+:END:
+Wo liegen meine Stärken und Schwächen? Warum ist es im Moment so frustrierend?
+
+Talentecheck (online ist nicht seriös)
+
+Alternative Jobs:
+- Schulform wechseln: zB in die VS als RL
+- Oder: Fach wechseln; dafür werde ich wohl eine Zusatzausbildung machen müssen.
+- Schulbuchverlage
+- Erwachsenenbildung
+- Jugendeinrichtungen
+- Buchhandel?
+- Journalismus?
+- oder ganz was anderes (wofür ich eine neue Ausbildung absolvieren müsste)
+
+Vor einem Berufswechsel hab ich ziemliche Angst; würde es als erneutes Scheitern erleben. Und dann kommt die finanzielle Unsicherheit dazu. Und: ob ich überhaupt einen anderen Job finden werde?
+
+Sollte ich bleiben - dann muss sich radikal was ändern? Da ich dies von den Kindern nicht erwarten kann - muss ich mich radikal ändern. Wie immer ... hmpf!
+
+** TODO Workflow
+:PROPERTIES:
+:CAPTURED: [2023-12-06 Mi 20:24]
+:END:
+
+was ist zu tun?
+
+* Ähnliche Notizen
+
+#+BEGIN: denote-links :regexp "Unterricht" :missing-only t
+- [[denote:20231020T091020][Ablauf Unterricht]]
+#+END:
+
+
+

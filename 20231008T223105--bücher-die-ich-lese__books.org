@@ -93,9 +93,12 @@ Liste von Büchern, die ich lese:
 :LOCATION:  Darmstadt
 :END:
 
-
-
-
-
-
+* Hybris und Nemesis
+:PROPERTIES:
+:CAPTURED: [2023-12-06 Mi 13:40]
+:AUTHOR: Rainer Mausfeld
+:YEAR:  2023
+:EDITOR:  Westend Verlag 
+:LOCATION:  Neu-Isenburg
+:END:
 

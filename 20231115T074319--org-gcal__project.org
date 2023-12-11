@@ -360,3 +360,14 @@ Alle Standard Kinder am Elternsprechtag zur Steffi
 <2023-12-01 Fr 16:08-16:16>
 :END:
 
+* Supplierstunde 2a PH
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3403791901150000"
+:entry-id: l8kpfu054rd8faoobm4dgplmcc/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2023-12-07 Do 07:45-08:35>
+:END:
+
