@@ -17,7 +17,7 @@
 [[denote:20230621T073521][03 Golling]]
 
 * 3b 11:35-12:25
-<%%(org-class 2023 9 13 2024 7 7 3 44)>
+<%%(org-class 2023 9 13 2024 7 7 3 50)>
 
 Wie deute ich einen Text - Bsp.: Schöpfungstext Gen 2
 RB Doppelseite

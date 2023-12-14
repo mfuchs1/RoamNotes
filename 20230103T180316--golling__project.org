@@ -8,7 +8,7 @@
 * Tasks
 
 ** Sprechstunde 09:35-10:25
-<%%(org-class 2023 9 12 2024 7 6 3 48)>
+<%%(org-class 2023 9 12 2024 7 6 3 50)>
 
 ** Supplierstunde 1a BE / Textiles Werken
 <2023-09-22 Fr 09:35>--<2023-09-22 Fr 10:25>
@@ -32,7 +32,7 @@ Teilbestätigung: Nur bei den geleiferten Büchern die Menge eingeben. ALLE ANDE
 Ordner anlegen: Pro Klasse, dann Fächer. Oder pro Fach, innerhalb pro Klasse?
 
 ** VS Hallein-Burgfried GTS 13:55-14:45
-<%%(org-class 2023 9 13 2024 7 7 3 44)>
+<%%(org-class 2023 9 13 2024 7 7 3 50)>
 
 ** Fachkonferenz Hallein Neualm
 <2023-10-02 Mo 15:00>--<2023-10-02 Mo 18:15>
@@ -45,6 +45,7 @@ Gotik Museum - Essen
 <2023-11-17 Fr 09:35>--<2023-11-17 Fr 10:25>
 
 Idee von Martin: aus Ton mit Keksformen Sterne, etc ausstechen, brennen ... als Weihnachtsdeko.
+
 
 * Alte Termine
 
