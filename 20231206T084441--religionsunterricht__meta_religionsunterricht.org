@@ -37,6 +37,17 @@ Reflexionen zu bestimmten Schülern kann ich mit =org-capture= zu dem betreffend
 
 Wie verwalte ich aber meine eigenen Gedanken zum Unterricht? Hier in dieser Datei - die einzelnen Headlines kann ich per Auswahl anzeigen lassen, oder? Und wenn ich mir Gedanken zu bestimmten Themen mache - dann erstelle ich eine neue Notiz, oder erweitere bereits bestehende.
 
+** Berufung
+:PROPERTIES:
+:CAPTURED: [2023-12-14 Do 12:49]
+:END:
+The Chosen - 3. Staffel - Zu Zweit:
+"Um Großes zu tun, brauchst du nichts fühlen. - Jesus braucht uns nicht, er will uns."
+
+Wo trage ich eigentlich meine laufenden Gednken ein? Idee: =inbox.org=
+
+Begegnung Jesus mit (dem kleinen) Jakobus Thaddäus? - so stark; ... Warum soll jemand wie Jakobus, der humpelt, Kranke heilen? Er selbst hat Jesus noch nie um seine Heilung gebeten? ... "Du hast mich nicht geheilt. - Möchtest du geheilt werden? - Nur wenn es möglich ist. - Du weißt, dass es möglich ist. - Hör mir gut zu: Nach dem Willen des Vaters könnte ich dich heilen; es gibt schon so viele. Aber deine Geschichte: du bist nicht geheilt, und verkündest Gott. Leid und Schmerz geduldig ertragen und die Ewigkeit ohne Leiden. - ..."
+
 
 * TODOs
 

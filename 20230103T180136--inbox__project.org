@@ -170,3 +170,20 @@ CLOSED: [2023-12-04 Mo 09:57] DEADLINE: <2023-12-03 So>
 [[denote:20221230T193609]]
 
 ... als LZK mit / für Benotung. Schüler müssen sich unter Klarnamen anmelden.
+
+* DONE Berufung
+CLOSED: [2023-12-15 Fr 08:54] DEADLINE: <2023-12-14 Do 19:00>
+:PROPERTIES:
+:CAPTURED: [2023-12-14 Do 12:24]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-12-15 Fr 08:54]
+:END:
+
+[[denote:20231214T122040]]
+
+The Chosen - 3. Staffel - Zu Zweit:
+"Um Großes zu tun, brauchst du nichts fühlen. - Jesus braucht uns nicht, er will uns."
+
+Wo trage ich eigentlich meine laufenden Gednken ein? Idee: =inbox.org=
+

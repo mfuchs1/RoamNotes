@@ -7,18 +7,6 @@
 
 * Kletterkurs Gabriel
 :PROPERTIES:
-:ETag:     "3402348051977000"
-:LOCATION: Kletterhalle Salzburg, Wasserfeldstraße, Salzburg
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 6kq68cb16gp68bb16gp32b9kchj3ebb164pjeb9jc4ojeob26ti3aob16o_20231114T151500Z/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2023-11-14 Di 16:15-17:45>
-:END:
-
-* Kletterkurs Gabriel
-:PROPERTIES:
 :ETag:     "3402181145041000"
 :LOCATION: Kletterhalle Salzburg, Wasserfeldstraße, Salzburg
 :calendar-id: matthiasfuchs01@gmail.com
@@ -111,17 +99,6 @@
 :END:
 :org-gcal:
 <2024-01-02 Di 16:15-17:45>
-:END:
-
-* Konferenz
-:PROPERTIES:
-:ETag:     "3404594396310000"
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 10eavh4g40n48u8uedtltjqft0/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2023-11-14 Di 16:00-18:00>
 :END:
 
 * Gottesdienst St. Peter
@@ -370,6 +347,16 @@ Alle Standard Kinder am Elternsprechtag zur Steffi
 <2023-12-13 Mi 07:30-14:30>
 :END:
 
+* Leopold abholen (Coq en Pate)
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3405132979554000"
+:entry-id: fuoievm86pmste1f5oaufr2j0c/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2023-12-14 Do 16:30-17:00>
+:END:
 
 * Adventfeier VS Grödig
 :PROPERTIES:
@@ -380,17 +367,6 @@ Alle Standard Kinder am Elternsprechtag zur Steffi
 :END:
 :org-gcal:
 <2023-12-13 Mi 16:40-18:00>
-:END:
-
-* Lesen und Beten
-:PROPERTIES:
-:ETag:     "3404594392852000"
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: g7icufndo3h6rv7g880viba988/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2023-11-12 So 22:00-23:00>
 :END:
 
 * Klavierunterricht Leopold
@@ -500,10 +476,54 @@ Alle Standard Kinder am Elternsprechtag zur Steffi
 :PROPERTIES:
 :calendar-id: matthiasfuchs01@gmail.com
 :org-gcal-managed: org
-:ETag:     "3404824957798000"
+:ETag:     "3405253834432000"
 :entry-id: 6hhdq3ctnpdp8hevjdk8qgoav4/matthiasfuchs01@gmail.com
 :END:
 :org-gcal:
 <2023-12-12 Di 21:30-22:00>
+:END:
+
+* Leopold bei Oma abholen - Klavierunterricht
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3405254047596000"
+:entry-id: 1rjfbjdnvl34hgmpsb46nfi87g/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2023-12-15 Fr 14:30-15:30>
+:END:
+
+* Hl. Messe Dom + Gebetsabend (Beichte)
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3405643671340000"
+:entry-id: cmq5ge5aom7kbujn1jfm17fopc/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2023-12-17 So 18:15-19:45>
+:END:
+
+* Gabriel lernt D (Omi und Opa)
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3405647604424000"
+:entry-id: eu22t2a598sgvq7v16hjgalfuk/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2023-12-17 So 14:30-16:30>
+:END:
+
+* Weihnachtsgottesdienst
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3405648010442000"
+:entry-id: 8f0cvnjcg6vhcebcg6mjcepoao/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2023-12-22 Fr 11:30-12:00>
 :END:
 

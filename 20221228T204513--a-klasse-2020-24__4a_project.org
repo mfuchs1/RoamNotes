@@ -20,17 +20,13 @@
 * 4a 10:40-11:30
 <%%(org-class 2023 9 11 2024 7 5 1 44)>
 
-Bibel? Propheten...
-Doku auf YouTube?
+The Chosen - ...
 
-V.a.: BibleProject - deutsch.
+- Weihnachtsgottesdienst ::
+  Wer aus den vierten Klassen könnte Fürbitten bzw Kyrietexte schreiben und vorlesen?
+  Fürbitten sind sicher leichter zu erstellen. Ich werde sie hinterher verbessern?
+  Kyrietexte nehme ich aus dem Gotteslob und lasse sie vorlesen.
 
-Moderne Propheten:
-- Mahatmi Ghandi
-- Martin Luther King
-- Rigoberta Menchu
-- Oscar Romero
-- ...
 
 * 4a 08:40-09:30
 <%%(org-class 2023 9 12 2024 7 6 2 44)>

@@ -25,42 +25,33 @@ RB Doppelseite
 * 3b 10:40-11:30
 <%%(org-class 2023 9 14 2024 7 8 4 44)>
 
-Wie deute ich einen Text - Bsp.: Schöpfungstext Gen 2
-RB Doppelseite
-
-Nicht gemacht:
-- Philipp
-- Jonas
-- Fabian
-- Kristina
-
-- Hinduismus:
+The Chosen - Episode (Zu Zweit)
   
 
 * 3B [KV Lena ]
 #+Name: 2021-students
-| First    | Last               | Name                     | Note | Mitarbeit | Heft | LZK |
-|----------+--------------------+--------------------------+------+-----------+------+-----|
-| Anja     | Breinlinger        | [[Anja Breinlinger][Anja Breinlinger]]         |      |           |      |     |
-| Dalya    | Durukan            | [[Dalya Durukan][Dalya Durukan]]            |      |           |      |     |
-| Tobias   | Egger              | [[Tobias Egger][Tobias Egger]]             |      |           |      |     |
-| Azra     | Hant               | [[Azra Hant][Azra Hant]]                |      |           |      |     |
-| Hannah   | Hauser             | [[Hannah Hauser][Hannah Hauser]]            |      |           |      |     |
-| Matthias | Holler             | [[Matthias Holler][Matthias Holler]]          |      |         3 |    3 |   3 |
-| Andreas  | Hollweger          | [[Andreas Hollweger][Andreas Hollweger]]        |      |           |      |     |
-| Andrea   | Ivanovic           | [[Andrea Ivanovic][Andrea Ivanovic]]          |      |           |      |     |
-| Jonas    | Jarnig             | [[Jonas Jarnig][Jonas Jarnig]]             |      |         3 |    3 |   3 |
-| Fabian   | Klöß               | [[Fabian Klöß][Fabian Klöß]]              |      |           |      |     |
-| Evelyn   | Nestler            | [[Evelyn Nestler][Evelyn Nestler]]           |      |           |      |     |
-| Julia    | Schlager-Weidinger | [[Julia Schlager-Weidinger][Julia Schlager-Weidinger]] |      |           |      |     |
-| Felix    | Schmegner          | [[Felix Schmegner][Felix Schmegner]]          |      |           |      |     |
-| Annika   | Schmitzberger      | [[Annika Schmitzberger][Annika Schmitzberger]]     |      |           |      |     |
-| Kristina | Sokic              | [[Kristina Sokic][Kristina Sokic]]           |      |           |      |     |
-| Augustin | Sommer             | [[Augustin Sommer][Augustin Sommer]]          |      |         3 |    3 |   3 |
-| Phillipp | Spagolla           | [[Phillipp Spagolla][Phillipp Spagolla]]        |      |           |      |     |
-| Emma     | Tikvic             | [[Emma Tikvic][Emma Tikvic]]              |      |           |      |     |
-| Selina   | Weiss              | [[Selina Weiss][Selina Weiss]]             |      |           |      |     |
-| Samuel   | Wittner            | [[Samuel Wittner][Samuel Wittner]]           |      |           |      |     |
+| First    | Last               | Name                     | Note | Mitarbeit     | Heft | LZK |
+|----------+--------------------+--------------------------+------+---------------+------+-----|
+| Anja     | Breinlinger        | [[Anja Breinlinger][Anja Breinlinger]]         |      |               |      |     |
+| Dalya    | Durukan            | [[Dalya Durukan][Dalya Durukan]]            |      |               |      |     |
+| Tobias   | Egger              | [[Tobias Egger][Tobias Egger]]             |      | HÜ nix        |      |     |
+| Azra     | Hant               | [[Azra Hant][Azra Hant]]                |      |               |      |     |
+| Hannah   | Hauser             | [[Hannah Hauser][Hannah Hauser]]            |      |               |      |     |
+| Matthias | Holler             | [[Matthias Holler][Matthias Holler]]          |      | 3             |    3 |   3 |
+| Andreas  | Hollweger          | [[Andreas Hollweger][Andreas Hollweger]]        |      |               |      |     |
+| Andrea   | Ivanovic           | [[Andrea Ivanovic][Andrea Ivanovic]]          |      |               |      |     |
+| Jonas    | Jarnig             | [[Jonas Jarnig][Jonas Jarnig]]             |      | HÜ nix      3 |    3 |   3 |
+| Fabian   | Klöß               | [[Fabian Klöß][Fabian Klöß]]              |      | HÜ nix        |      |     |
+| Evelyn   | Nestler            | [[Evelyn Nestler][Evelyn Nestler]]           |      |               |      |     |
+| Julia    | Schlager-Weidinger | [[Julia Schlager-Weidinger][Julia Schlager-Weidinger]] |      |               |      |     |
+| Felix    | Schmegner          | [[Felix Schmegner][Felix Schmegner]]          |      |               |      |     |
+| Annika   | Schmitzberger      | [[Annika Schmitzberger][Annika Schmitzberger]]     |      |               |      |     |
+| Kristina | Sokic              | [[Kristina Sokic][Kristina Sokic]]           |      |               |      |     |
+| Augustin | Sommer             | [[Augustin Sommer][Augustin Sommer]]          |      | 3             |    3 |   3 |
+| Phillipp | Spagolla           | [[Phillipp Spagolla][Phillipp Spagolla]]        |      |               |      |     |
+| Emma     | Tikvic             | [[Emma Tikvic][Emma Tikvic]]              |      |               |      |     |
+| Selina   | Weiss              | [[Selina Weiss][Selina Weiss]]             |      |               |      |     |
+| Samuel   | Wittner            | [[Samuel Wittner][Samuel Wittner]]           |      |               |      |     |
 #+TBLFM: $4=vmean($5..$>)
 #+TBLFM: $3='(concat "[[" $1 " " $2 "][" $1 " " $2 "]]")
 #+TBLFM: $5='(identity remote(2021-22-Mitarbeit,@@#$2))

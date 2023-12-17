@@ -91,8 +91,11 @@ CLOSED: [2023-12-10 So 23:26] SCHEDULED: <2023-12-04 Mo>
 - State "DONE"       from              [2023-12-10 So 23:26]
 :END:
 
-** [[denote:20230619T212033][[SW14] Übungsteil: Und jetzt ich ...! / Das nehme ich mit]]
-SCHEDULED: <2023-12-11 Mo>
+** DONE [[denote:20230619T212033][[SW14] Übungsteil: Und jetzt ich ...! / Das nehme ich mit]]
+CLOSED: [2023-12-17 So 15:01] SCHEDULED: <2023-12-11 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2023-12-17 So 15:01]
+:END:
 
 ** [[denote:20230619T212125][[SW15] Von Gott sprechen]]
 SCHEDULED: <2023-12-18 Mo>
