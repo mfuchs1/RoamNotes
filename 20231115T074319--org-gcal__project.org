@@ -101,40 +101,6 @@
 <2024-01-02 Di 16:15-17:45>
 :END:
 
-* Gottesdienst St. Peter
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3404594394132000"
-:entry-id: kt8e1e0qlk9l157vejdhd326j8/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2023-11-19 So 10:15-11:15>
-:END:
-
-* Lesen und Beten
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3404594395252000"
-:entry-id: uamf39h4keqtpdoupj0qf7uju0/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2023-11-15 Mi 21:00-22:00>
-:END:
-
-
-* Klavierunterricht Leopold
-:PROPERTIES:
-:ETag:     "3404594422880000"
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 30aa01o19s7lr20mnh2dvnlq7p_20231117T143000Z/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2023-11-17 Fr 15:30-16:00>
-:END:
-
 * Klavierunterricht Leopold
 :PROPERTIES:
 :ETag:     "3404594422880000"
@@ -525,5 +491,88 @@ Alle Standard Kinder am Elternsprechtag zur Steffi
 :END:
 :org-gcal:
 <2023-12-22 Fr 11:30-12:00>
+:END:
+
+[[denote:20231217T231423][Weihnachtsgottesdienst]]
+
+* Supplierstunde 1a D (mit Mirjam)
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3405702352120000"
+:entry-id: r4vlaeqeg56enod454ueftm398/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2023-12-18 Mo 08:40-09:30>
+:END:
+
+* Vorbereitung Gottesdienst
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3406007444938000"
+:entry-id: ca5g7k1abl9ngu9u6jtlhpbijg/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2023-12-22 Fr 10:40-11:30>
+:END:
+
+* Lesen und Beten
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3406007572956000"
+:entry-id: 5octk1flk895hbg34rfe8mrog0/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2023-12-19 Di 21:00-22:00>
+:END:
+
+* Probe Gottesdienst (Barbara, Nina, ich)
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3406181434906000"
+:entry-id: mntbb14lh7u0e6oocc0a599u7o/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2023-12-19 Di 09:35-10:25>
+
+Mit meinem Auto die Instrumente in die Kirche bringen.
+:END:
+
+* Supplierstunde 1a M (mit Nina, statt Eva)
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3406120386838000"
+:entry-id: go5rrasjjfl870b2h40hbnht30/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2023-12-20 Mi 09:35-10:25>
+
+Statistik, Auswertung von Diagrammen, ...
+:END:
+
+* Weihnachtsfest MMS Grödig (Gabriel)
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3406181498118000"
+:entry-id: s5fb86r398g1or42gs32chsgfo/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2023-12-20 Mi 19:00-20:30>
+:END:
+
+* Gabriel zum Fest
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3406181587792000"
+:entry-id: mj57j831tch74hgs3ptr0efd30/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2023-12-20 Mi 18:15-18:30>
 :END:
 

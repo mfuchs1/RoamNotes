@@ -1,0 +1,25 @@
+#+title:      Fürbitten
+#+date:       [2023-12-21 Do 23:30]
+#+filetags:   :weihnachten:
+#+identifier: 20231221T233044
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+OPTIONS: num:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Fürbitten.html
+
+* Fürbitten
+
+- Lieber Gott, wir bitten für alle Familien dieser Erde,\\
+  dass Weihnachten für sie voller Friede, Freude und Gemeinschaft ist.
+  
+- Lieber Gott ich bitte dich,\\
+  dass alle Kriege dieser Welt zu Ende gehen und für immer Frieden herrscht.
+  
+- Lieber Gott wir bitten für die Verstorbenen,\\
+  lass sie in Ruhe und Frieden bei dir weiterleben.

@@ -1,6 +1,6 @@
 #+title:      Religionsunterricht
 #+date:       [2023-12-06 Mi 08:44]
-#+filetags:   :meta:religionsunterricht:
+#+filetags:   :meta:
 #+identifier: 20231206T084441
 
 
@@ -47,6 +47,18 @@ The Chosen - 3. Staffel - Zu Zweit:
 Wo trage ich eigentlich meine laufenden Gednken ein? Idee: =inbox.org=
 
 Begegnung Jesus mit (dem kleinen) Jakobus Thaddäus? - so stark; ... Warum soll jemand wie Jakobus, der humpelt, Kranke heilen? Er selbst hat Jesus noch nie um seine Heilung gebeten? ... "Du hast mich nicht geheilt. - Möchtest du geheilt werden? - Nur wenn es möglich ist. - Du weißt, dass es möglich ist. - Hör mir gut zu: Nach dem Willen des Vaters könnte ich dich heilen; es gibt schon so viele. Aber deine Geschichte: du bist nicht geheilt, und verkündest Gott. Leid und Schmerz geduldig ertragen und die Ewigkeit ohne Leiden. - ..."
+
+** Weihnachten
+:PROPERTIES:
+:CAPTURED: [2023-12-20 Mi 14:09]
+:END:
+Mir geht's wirklich nicht gut. Je näher Weihnachten kommt, desto größer wird der Stesslevel. Vor allem dieser Druck, Geschenke machen zu *müssen*, ist erdrückend.
+
+Auch wenn viele sagen: "Zu Weihnachten geht es doch nicht um Geschenke!" - so erwartet doch jeder Geschenke. Nur mal so ein Gedanke: Stell Dir vor - Du würdest wirklich gar kein (persönliches) Geschenk erhalten - was würde das mit dir machen? Wäre das immer noch ein schönes Fest für dich? Wirklich? Wenn du mit "Ja" antwortest: Hast du das schon einmal erlebt? Ich bin mir nicht so sicher. Ich habe es erlebt: vor ca zwei Jahren. Kein persönliches Geschenk! Und das Gefühl ist wirklich sch...
+
+Und diese Weihnachten kann ich meinen Kindern eigentlich nix schenken, da mein Konto es nicht hergibt. Ich könnte, aber dann wird mein Konto eben sehr rot. Und meine Frau wünscht sich einen Monent der Entspannung zu zweit. Das heißt: Hotel, Restaurant, Kino, etc... kostet eben alles Geld. Das ich nicht habe...
+
+Und das alles, gepaart mit der depperten Situation in der Schule, ist einfach zu viel für mich.
 
 
 * TODOs

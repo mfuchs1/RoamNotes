@@ -1,34 +1,29 @@
-:PROPERTIES:
-:ID:       57b7d154-ee30-48ae-a350-796bd7f95d4c
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Die Psalmen* -- [[file:Ps_1.html][1]] ...
-[[file:Ps_32.html][32]] [[file:Ps_33.html][33]] *34*
-[[file:Ps_35.html][35]] [[file:Ps_36.html][36]] ...
-[[file:Ps_150.html][150]]
-
---------------
+#+TITLE: Ps 34 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-12-22 Fr 09:36]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ps 34.html
 
 * Ps 34
-  :PROPERTIES:
-  :CUSTOM_ID: ps-34
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Unter Gottes Schutz
-     :PROPERTIES:
-     :CUSTOM_ID: unter-gottes-schutz
-     :END:
+* Unter Gottes Schutz
+
 1 [Von David, als er sich vor Abimelech wahnsinnig stellte und dieser
-ihn fortjagte und er ging.] ^{[[#fn1][1]]}\\
+ihn fortjagte und er ging.] [fn:1]\\
 \\
 
 <<v2>>
 2 Ich will den Herrn allezeit preisen; /\\
- immer sei sein Lob in meinem Mund. ^{[[#fn2][2]]}\\
+ immer sei sein Lob in meinem Mund. [fn:2]\\
 \\
 
 <<v3>>
@@ -48,22 +43,22 @@ ihn fortjagte und er ging.] ^{[[#fn1][1]]}\\
 
 <<v6>>
 6 Blickt auf zu ihm, so wird euer Gesicht leuchten /\\
- und ihr braucht nicht zu erröten. ^{[[#fn3][3]]}\\
+ und ihr braucht nicht zu erröten. [fn:3]\\
 \\
 
 <<v7>>
 7 Da ist ein Armer; er rief und der Herr erhörte ihn. /\\
- Er half ihm aus all seinen Nöten. ^{[[#fn4][4]]}\\
+ Er half ihm aus all seinen Nöten. [fn:4]\\
 \\
 
 <<v8>>
 8 Der Engel des Herrn umschirmt alle, die ihn fürchten und ehren, /\\
- und er befreit sie. ^{[[#fn5][5]]}\\
+ und er befreit sie. [fn:5]\\
 \\
 
 <<v9>>
 9 Kostet und seht, wie gütig der Herr ist; /\\
- wohl dem, der zu ihm sich flüchtet! ^{[[#fn6][6]]}\\
+ wohl dem, der zu ihm sich flüchtet! [fn:6]\\
 \\
 
 <<v10>>
@@ -73,8 +68,7 @@ ihn fortjagte und er ging.] ^{[[#fn1][1]]}\\
 
 <<v11>>
 11 Reiche müssen darben und hungern; /\\
- wer aber den Herrn sucht, braucht kein Gut zu entbehren.
-^{[[#fn7][7]][[#fn8][8]]}\\
+ wer aber den Herrn sucht, braucht kein Gut zu entbehren. [fn:7] [fn:8]\\
 \\
 
 <<v12>>
@@ -84,7 +78,7 @@ ihn fortjagte und er ging.] ^{[[#fn1][1]]}\\
 
 <<v13>>
 13 Wer ist der Mensch, der das Leben liebt /\\
- und gute Tage zu sehen wünscht? ^{[[#fn9][9]]}\\
+ und gute Tage zu sehen wünscht? [fn:9]\\
 \\
 
 <<v14>>
@@ -94,32 +88,32 @@ ihn fortjagte und er ging.] ^{[[#fn1][1]]}\\
 
 <<v15>>
 15 Meide das Böse und tu das Gute; /\\
- suche Frieden und jage ihm nach! ^{[[#fn10][10]]}\\
+ suche Frieden und jage ihm nach! [fn:10]\\
 \\
 
 <<v16>>
 16 Die Augen des Herrn blicken auf die Gerechten, /\\
- seine Ohren hören ihr Schreien. ^{[[#fn11][11]]}\\
+ seine Ohren hören ihr Schreien. [fn:11]\\
 \\
 
 <<v17>>
 17 Das Antlitz des Herrn richtet sich gegen die Bösen, /\\
- um ihr Andenken von der Erde zu tilgen. ^{[[#fn12][12]]}\\
+ um ihr Andenken von der Erde zu tilgen. [fn:12]\\
 \\
 
 <<v18>>
 18 Schreien die Gerechten, so hört sie der Herr; /\\
- er entreißt sie all ihren Ängsten. ^{[[#fn13][13]]}\\
+ er entreißt sie all ihren Ängsten. [fn:13]\\
 \\
 
 <<v19>>
 19 Nahe ist der Herr den zerbrochenen Herzen, /\\
- er hilft denen auf, die zerknirscht sind. ^{[[#fn14][14]]}\\
+ er hilft denen auf, die zerknirscht sind. [fn:14]\\
 \\
 
 <<v20>>
 20 Der Gerechte muss viel leiden, /\\
- doch allem wird der Herr ihn entreißen. ^{[[#fn15][15]]}\\
+ doch allem wird der Herr ihn entreißen. [fn:15]\\
 \\
 
 <<v21>>
@@ -137,33 +131,35 @@ ihn fortjagte und er ging.] ^{[[#fn1][1]]}\\
  straflos bleibt, wer zu ihm sich flüchtet.\\
 \\
 
-^{[[#fnm1][1]]} ℘ 1 Sam 21,11-16
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 145,2
+[fn:1] [[file:1.Sam_21.org::v11][1 Sam 21,11-16]]
 
-^{[[#fnm3][3]]} euer Gesicht: Text korr.; H: ihr Gesicht.
+[fn:2] [[file:Ps_145.org::v2][145,2]]
 
-^{[[#fnm4][4]]} ℘ 91,15
+[fn:3] euer Gesicht: Text korr.; H: ihr Gesicht.
 
-^{[[#fnm5][5]]} ℘ 35,5f; 91,11; Gen 32,2f; Ex 14,19
+[fn:4] [[file:Ps_91.org::v15][91,15]]
 
-^{[[#fnm6][6]]} ℘ 1 Petr 2,3
+[fn:5] [[file:Ps_35.org::v5][35,5f]]; [[file:Ps_91.org::v11][91,11]]; [[file:Gen_32.org::v2][Gen 32,2f]]; [[file:Ex_14.org::v19][Ex 14,19]]
 
-^{[[#fnm7][7]]} ℘ Lk 1,53
+[fn:6] [[file:~/RoamNotes/notes/Bibel/nt/1.Petr_2.org::v3][1 Petr 2,3]]
 
-^{[[#fnm8][8]]} Reiche: Text korr. nach G und S; H: junge Löwen.
+[fn:7] [[file:~/RoamNotes/notes/Bibel/nt/Lk_1.org::v53][Lk 1,53]]
 
-^{[[#fnm9][9]]} ℘ (13-17) 1 Petr 3,10-12
+[fn:8] Reiche: Text korr. nach G und S; H: junge Löwen.
 
-^{[[#fnm10][10]]} ℘ 37,27; Spr 3,7; Hebr 12,14
+[fn:9] (13-17) [[file:~/RoamNotes/notes/Bibel/nt/1.Petr_3.org::v10][1 Petr 3,10-12]]
 
-^{[[#fnm11][11]]} ℘ 33,18
+[fn:10] [[file:Ps_37.org::v27][37,27]]; [[file:Spr_3.org::v7][Spr 3,7]]; [[file:~/RoamNotes/notes/Bibel/nt/Hebr_12.org::v14][Hebr 12,14]]
 
-^{[[#fnm12][12]]} ℘ 109,15; Ijob 18,17
+[fn:11] 33,18
 
-^{[[#fnm13][13]]} die Gerechten: ergänzt nach G, S und der aramäischen
+[fn:12] 109,15; Ijob 18,17
+
+[fn:13] die Gerechten: ergänzt nach G, S und der aramäischen
 Übersetzung.
 
-^{[[#fnm14][14]]} ℘ 51,19; 145,18
+[fn:14] 51,19; 145,18
 
-^{[[#fnm15][15]]} ℘ 2 Kor 1,5
+[fn:15] 2 Kor 1,5

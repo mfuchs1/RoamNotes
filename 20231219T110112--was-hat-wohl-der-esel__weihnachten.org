@@ -1,0 +1,47 @@
+#+title:      Was hat wohl der Esel 
+#+date:       [2023-12-19 Di 11:01]
+#+filetags:   :weihnachten:
+#+identifier: 20231219T110112
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Was hat wohl der Esel.html
+
+1. Was hat wohl der Esel gedacht,\\
+   in der heiligen Nacht,\\
+   als er plötzlich die Fremden sah im Stall?\\
+   Vielleicht hat er Mitleid verspürt,\\
+   hat das Bild ihn gerührt\\
+   und er rückte zur Seite, sehr sozial?\\
+
+   Vielleicht aber packte ihn die Empörung,\\
+   welch eine nächtliche Ruhestörung!\\
+   "Kaum schlaf ich Esel mal ein\\
+   schon kommen hier Leute herein".\\
+
+2. Und dann lag da vor ihm das Kind\\
+   und er dachte jetzt sind es schon drei,\\
+   was ist das für eine Nacht?!\\
+   Da hält mir das Kind doch zu letzt\\
+   meine Krippe besetzt\\
+   und er polterte völlig aufgebracht:\\
+
+   "Ich lass ja so manches mit mir geschehen,\\
+   doch wenn sie mir an mein Futter gehen,\\
+   ist mit der Liebe vorbei"\\
+   und er dachte an Stallmeuterei.\\
+
+3. Er wusste ja nicht wer das war,\\
+   den die Frau dort gebar,\\
+   hatte niemals gehört von Gottes Sohn!\\
+   Doch wir wissen alle Bescheid\\
+   und benehmen uns heut noch genau wie der Esel\\
+   damals schon:\\
+
+   Denn Jesus darf uns nicht vom Schlaf abhalten,\\
+   nicht unsern teuersten Besitz verwalten!\\
+   Doch wer ihm die Tür auf macht,\\
+   der hat jeden Tag heilige Nacht!

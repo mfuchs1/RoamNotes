@@ -1,0 +1,34 @@
+#+title:      Notes on Emacs
+#+date:       [2023-12-21 Do 08:40]
+#+filetags:   :emacs:
+#+identifier: 20231221T084054
+
+* Install and try Vertico, consult and consult-org-roam
+
+[[https://systemcrafters.cc/emacs-tips/streamline-completions-with-vertico/][System Crafters - Vertico]]
+
+[[https://github.com/minad/vertico][Github - Vertico]]
+
+[[https://github.com/minad/consult][Github - consult]]
+
+[[https://github.com/jgru/consult-org-roam][Github - consult-org-roam]]
+
+Ich hab den Schritt gewagt - bis jetzt bin ich sehr zufrieden. Der Umstieg war spannend und ich habe für alle bisherigen helm-Funktionen Alternativen in Vertico / Consult gefunden. Laut den Beschreibungen verwenden beide Pakete die vorhandenen Funtkionen in Emacs. Außerdem ist Vertico modular aufgebaut, es ladet nur jene Funtkionen, die man benötigt bzw konfiguriert. Helm hingegen bringt seine eigene "Struktur" mit und ist va voll-gestopft mit Funktionen, auch mit jenen, die man persönlich nicht braucht.
+
+Mir kommt vor, dass Vertico eine bessere Performance hat - aber der Unterschied mag auch eine rein subjektive Wahrnehmung sein.
+
+Es ist jedes Mal ein großes Aha-Erlebnis, wenn ich neue Funtkionen in Emacs entdecke. Emacs ist doch tatsächlich eine großartige Software!
+
+Bei meinem ersten Versuch klappte Vertico & Co noch nicht auf eine Weise, die mich zufrieden gestellt hatte. Durch einen Fehler in meiner Konfiguration habe ich Emacs komplett neu installiert und von Anfang an auf Vertico gesetzt. Und siehe da: jetzt rennt das Ganze ziemlich stabil. Außerdem ist es immer gut, etwas Neues in Emacs auszuprobieren - ich lerne immer wieder dazu. Das hält lebendig. Ich habe noch orderless hinzugefügt, weiters citar / citar-org-roam, consult-notes, ... jetzt passt es ziemlich gut. Gefällt mir im Ganzen besser als helm.
+
+Der kleine Wermutstropfen, dass ich zuerst mu4e öffnen muss, ein Mail mit =org-roam-capture= verlinken muss - damit später org-insert-link funtkioniert, hat ein Gutes: ich lese aufmerksamer meine Mails.
+
+* Von Org-Roam zu Denote
+
+Ich habe einen weiteren Schritt gewagt: =org-roam= (und seine dazugehörigen Pakete) habe ich aus meiner init.el entfernt und durch das großartige Paket =denote.el= ersetzt. Die =org-roam-capture= - Tempples habe ich in =org-capture= integriert. Dadurch hat sich nicht nur die Startzeit von Emacs wesentlich verbessert (von 2.5 Sekunden auf ca 1.12 Sekunden), auch die allgemeine Performance ist viel schneller und prompter.
+
+=org-protocol= hat nicht mehr gut funktioniert, da war =org-roam-protocol= doch besser. Nun habe ich es mit =org-protocol-capture-html= geschafft. Falls es komische Meldungen geben sollte, kann ich dies mit einem 'M-x server-start' wieder beheben.
+
+Des weiteren hab ich org-agenda derart verbessert: nur jene Denote-files, die "project" als keyword / filetag besitzen, werden als org-agenda-file in die agenda geladen. Für den Stundenplan habe ich die einzelnen Stunden auf die 10 Klassen-Denote-files verteilt. Somit kann ich, wenn ich in einer bestimten Klasse bin, beim Anklicken der betreffenden Stunde in der agenda, direkt das Klassen-file öffnen. Dort befindet sich die aktuelle Stundenvorbereitung, die Schülerliste, etc. 
+
+Ich hab ein wenig mit Hyperbole experimentiert - aber darin keinen Gewinn entdeckt. Außerdem ist das Paket riesig (an Speicherplatz: fast 1GB!). Also: wieder deinstalliert. Es kann für manche wirklich gut sein. Ich werde mich erst mit Denote und dem neuen Setup anfreunden, bevor ich Neues ausprobiere.

@@ -27,6 +27,9 @@ The Chosen - ...
   Fürbitten sind sicher leichter zu erstellen. Ich werde sie hinterher verbessern?
   Kyrietexte nehme ich aus dem Gotteslob und lasse sie vorlesen.
 
+  Wer möchte die Lesung lesen?
+
+  [[denote:20231217T231423][Weihnachtsgottesdienst]]
 
 * 4a 08:40-09:30
 <%%(org-class 2023 9 12 2024 7 6 2 44)>
