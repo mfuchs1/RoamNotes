@@ -153,13 +153,13 @@ ihn fortjagte und er ging.] [fn:1]\\
 
 [fn:10] [[file:Ps_37.org::v27][37,27]]; [[file:Spr_3.org::v7][Spr 3,7]]; [[file:~/RoamNotes/notes/Bibel/nt/Hebr_12.org::v14][Hebr 12,14]]
 
-[fn:11] 33,18
+[fn:11] [[file:Ps_33.org::v18][33,18]]
 
-[fn:12] 109,15; Ijob 18,17
+[fn:12] [[file:Ps_109.org::v15][109,15]]; [[file:Ijob_18.org::v17][Ijob 18,17]]
 
 [fn:13] die Gerechten: ergänzt nach G, S und der aramäischen
 Übersetzung.
 
-[fn:14] 51,19; 145,18
+[fn:14] [[file:Ps_51.org::v19][51,19]]; [[file:Ps_145.org::v18][145,18]]
 
-[fn:15] 2 Kor 1,5
+[fn:15] [[file:~/RoamNotes/notes/Bibel/nt/2.Kor_1.org::v5][2 Kor 1,5]]

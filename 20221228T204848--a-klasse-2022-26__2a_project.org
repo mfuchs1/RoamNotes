@@ -18,7 +18,7 @@
 
 
 * 2a 13:25-14:15
-<%%(org-class 2023 9 11 2024 7 5 1 51)>
+<%%(org-class 2023 9 11 2024 7 5 1 52)>
 
 Abraham / Isaak / Jakob:
 seine 12 Söhne;
@@ -31,7 +31,7 @@ S. 64 + 65.
 - Lösung mithilfe von S. 75: Hebräisch; oder [[file:Bibel/at/Gen_35.org::v23][Gen 35,23]]-[[file:Bibel/at/Gen_35.org::v26][26]]. (6)
 
 * 2a 09:35-10:25
-<%%(org-class 2023 9 12 2024 7 6 2 51)>
+<%%(org-class 2023 9 12 2024 7 6 2 52)>
 
 
 * 2A MINT [KV Manuela Singer]

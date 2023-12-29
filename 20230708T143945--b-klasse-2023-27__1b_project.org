@@ -18,12 +18,12 @@
 
 
 * 1b 12:30-13:20
-<%%(org-class 2023 9 12 2024 7 6 2 44)>
+<%%(org-class 2023 9 12 2024 7 6 2 52)>
 
 Kapitel 2
 
 * 1b 07:45-08:35
-<%%(org-class 2023 9 15 2024 7 9 5 44)>
+<%%(org-class 2023 9 15 2024 7 9 5 52)>
 
 Kapitel 2
 Gute Gedanken / Ist da jemand?

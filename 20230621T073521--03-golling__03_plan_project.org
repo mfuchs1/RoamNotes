@@ -101,8 +101,11 @@ CLOSED: [2023-12-17 So 15:01] SCHEDULED: <2023-12-11 Mo>
 ** [[denote:20230624T194213][[SW15] Biblische Schöpfungserzählungen]] 
 SCHEDULED: <2023-12-18 Mo>
 
-** [[denote:20230624T232959][[SW16] Eine mythische Erzählung deuten]] (Ferien)
-SCHEDULED: <2023-12-25 Mo>
+** DONE [[denote:20230624T232959][[SW16] Eine mythische Erzählung deuten]] (Ferien)
+CLOSED: [2023-12-25 Mo 23:01] SCHEDULED: <2023-12-25 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2023-12-25 Mo 23:01]
+:END:
 
 ** [[denote:20230624T233108][[SW17] Schöpfungsmythen andere Religionen und Kulturen]] (Ferien)
 SCHEDULED: <2024-01-01 Mo>

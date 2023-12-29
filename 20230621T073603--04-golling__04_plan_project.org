@@ -101,8 +101,11 @@ CLOSED: [2023-12-17 So 15:01] SCHEDULED: <2023-12-11 Mo>
 ** [[denote:20230711T003933][[SW15] Gott wird Mensch]]
 SCHEDULED: <2023-12-18 Mo>
 
-** [[denote:20230711T120821][[SW16] Weihnachtsferien]]
-SCHEDULED: <2023-12-25 Mo>
+** DONE [[denote:20230711T120821][[SW16] Weihnachtsferien]]
+CLOSED: [2023-12-25 Mo 23:01] SCHEDULED: <2023-12-25 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2023-12-25 Mo 23:01]
+:END:
 
 ** [[denote:20230711T004254][[SW17] Naturwissenschaft Theologie]]
 SCHEDULED: <2024-01-01 Mo>

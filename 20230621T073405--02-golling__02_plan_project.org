@@ -100,8 +100,11 @@ CLOSED: [2023-12-17 So 15:01] SCHEDULED: <2023-12-11 Mo>
 ** [[denote:20230619T212125][[SW15] Von Gott sprechen]]
 SCHEDULED: <2023-12-18 Mo>
 
-** [SW16] Ferien
-SCHEDULED: <2023-12-25 Mo>
+** DONE [SW16] Ferien
+CLOSED: [2023-12-25 Mo 23:01] SCHEDULED: <2023-12-25 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2023-12-25 Mo 23:01]
+:END:
 
 
 ** [SW17] Ferien_2

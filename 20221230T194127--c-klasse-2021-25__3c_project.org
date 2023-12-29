@@ -17,12 +17,12 @@
 [[denote:20230621T073521][03 Golling]]
 
 * 3c 11:35-12:25
-<%%(org-class 2023 9 14 2024 7 8 4 44)>
+<%%(org-class 2023 9 14 2024 7 8 4 52)>
 
 Film Ratatouille
 
 * 3c 10:40-11:30
-<%%(org-class 2023 9 15 2024 7 9 5 51)>
+<%%(org-class 2023 9 15 2024 7 9 5 52)>
 
 (entfällt) Wer kann statt mir mit der Klasse zum Gottesdienst gehen.
 
