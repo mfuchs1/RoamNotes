@@ -1,34 +1,28 @@
-:PROPERTIES:
-:ID:       c860b08b-084a-41e3-abdf-c7116f3a7906
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Die Psalmen* -- [[file:Ps_1.html][1]] ...
-[[file:Ps_34.html][34]] [[file:Ps_35.html][35]] *36*
-[[file:Ps_37.html][37]] [[file:Ps_38.html][38]] ...
-[[file:Ps_150.html][150]]
-
---------------
+#+TITLE: Ps 36 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2023-12-29 Fr 22:48]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ps 36.html
 
 * Ps 36
-  :PROPERTIES:
-  :CUSTOM_ID: ps-36
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Gott, die Quelle des Lebens
-     :PROPERTIES:
-     :CUSTOM_ID: gott-die-quelle-des-lebens
-     :END:
+* Gott, die Quelle des Lebens
+
 1 [Für den Chormeister. Von David, dem Knecht des Herrn.]\\
 \\
 
 <<v2>>
 2 Der Frevler spricht: «Ich bin entschlossen zum Bösen.» /\\
- In seinen Augen gibt es kein Erschrecken vor Gott.
-^{[[#fn1][1]][[#fn2][2]]}\\
+ In seinen Augen gibt es kein Erschrecken vor Gott. [fn:1] [fn:2]\\
 \\
 
 <<v3>>
@@ -43,12 +37,12 @@
 
 <<v5>>
 5 Unheil plant er auf seinem Lager, /\\
- er betritt schlimme Wege und scheut nicht das Böse. ^{[[#fn3][3]]}\\
+ er betritt schlimme Wege und scheut nicht das Böse. [fn:3]\\
 \\
 
 <<v6>>
 6 Herr, deine Güte reicht, so weit der Himmel ist, /\\
- deine Treue, so weit die Wolken ziehn. ^{[[#fn4][4]]}\\
+ deine Treue, so weit die Wolken ziehn. [fn:4]\\
 \\
 
 <<v7>>
@@ -59,17 +53,17 @@ Tieren. /\\
 
 <<v8>>
 8 Gott, wie köstlich ist deine Huld! Die Menschen bergen sich im
-Schatten deiner Flügel, / ^{[[#fn5][5]]}\\
+Schatten deiner Flügel, / [fn:5]\\
 \\
 
 <<v9>>
 9 sie laben sich am Reichtum deines Hauses; /\\
- du tränkst sie mit dem Strom deiner Wonnen. ^{[[#fn6][6]]}\\
+ du tränkst sie mit dem Strom deiner Wonnen. [fn:6]\\
 \\
 
 <<v10>>
 10 Denn bei dir ist die Quelle des Lebens, /\\
- in deinem Licht schauen wir das Licht. ^{[[#fn7][7]]}\\
+ in deinem Licht schauen wir das Licht. [fn:7]\\
 \\
 
 <<v11>>
@@ -87,16 +81,18 @@ Schatten deiner Flügel, / ^{[[#fn5][5]]}\\
  sie werden niedergestoßen und können nie wieder aufstehn.\\
 \\
 
-^{[[#fnm1][1]]} ℘ 14,1; Röm 3,18
+* Footnotes
 
-^{[[#fnm2][2]]} Text korr. nach G.
+[fn:1] [[file:Ps_14.org::v1][14,1]]; [[file:~/RoamNotes/notes/Bibel/nt/Röm_3.org::v18][Röm 3,18]]
 
-^{[[#fnm3][3]]} ℘ Mi 2,1
+[fn:2] Text korr. nach G.
 
-^{[[#fnm4][4]]} ℘ 57,11; 108,5
+[fn:3] [[file:Mi_2.org::v1][Mi 2,1]]
 
-^{[[#fnm5][5]]} ℘ 17,7f
+[fn:4] [[file:Ps_57.org::v11][57,11]]; [[file:Ps_108.org::v5][108,5]]
 
-^{[[#fnm6][6]]} ℘ 65,5; 46,5
+[fn:5] [[file:Ps_17.org::v7][17,7f]]
 
-^{[[#fnm7][7]]} ℘ 16,11; 97,11; Jer 2,13; Joh 4,14
+[fn:6] [[file:Ps_65.org::v5][65,5]]; [[file:Ps_46.org::v5][46,5]]
+
+[fn:7] [[file:Ps_16.org::v11][16,11]]; [[file:Ps_97.org::v11][97,11]]; [[file:Jer_2.org::v13][Jer 2,13]]; [[file:~/RoamNotes/notes/Bibel/nt/Joh_4.org::v14][Joh 4,14]]
