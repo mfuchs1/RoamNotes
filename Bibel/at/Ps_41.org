@@ -1,33 +1,28 @@
-:PROPERTIES:
-:ID:       39cb98d5-43bb-4765-ba7c-2c2406a5105d
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Die Psalmen* -- [[file:Ps_1.html][1]] ...
-[[file:Ps_39.html][39]] [[file:Ps_40.html][40]] *41*
-[[file:Ps_42.html][42]] [[file:Ps_43.html][43]] ...
-[[file:Ps_150.html][150]]
-
---------------
+#+TITLE: Ps 41 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-01-02 Di 22:36]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ps 41.html
 
 * Ps 41
-  :PROPERTIES:
-  :CUSTOM_ID: ps-41
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Das Gebet eines Kranken und Verfolgten
-     :PROPERTIES:
-     :CUSTOM_ID: das-gebet-eines-kranken-und-verfolgten
-     :END:
+* Das Gebet eines Kranken und Verfolgten
+
 1 [Für den Chormeister. Ein Psalm Davids.]\\
 \\
 
 <<v2>>
 2 Wohl dem, der sich des Schwachen annimmt; /\\
- zur Zeit des Unheils wird der Herr ihn retten. ^{[[#fn1][1]]}\\
+ zur Zeit des Unheils wird der Herr ihn retten. [fn:1]\\
 \\
 
 <<v3>>
@@ -43,12 +38,12 @@
 
 <<v5>>
 5 Ich sagte: Herr, sei mir gnädig, /\\
- heile mich; denn ich habe gegen dich gesündigt. ^{[[#fn2][2]]}\\
+ heile mich; denn ich habe gegen dich gesündigt. [fn:2]\\
 \\
 
 <<v6>>
 6 Meine Feinde reden böse über mich: /\\
- «Wann stirbt er endlich und wann vergeht sein Name?» ^{[[#fn3][3]]}\\
+ «Wann stirbt er endlich und wann vergeht sein Name?» [fn:3]\\
 \\
 
 <<v7>>
@@ -70,7 +65,7 @@
 
 <<v10>>
 10 Auch mein Freund, dem ich vertraute, /\\
- der mein Brot aß, hat gegen mich geprahlt. ^{[[#fn4][4]][[#fn5][5]]}\\
+ der mein Brot aß, hat gegen mich geprahlt. [fn:4] [fn:5]\\
 \\
 
 <<v11>>
@@ -90,17 +85,19 @@
 
 <<v14>>
 14 Gepriesen sei der Herr, der Gott Israels, /\\
- von Ewigkeit zu Ewigkeit. Amen, ja amen. ^{[[#fn6][6]]}\\
+ von Ewigkeit zu Ewigkeit. Amen, ja amen. [fn:6]\\
 \\
 
-^{[[#fnm1][1]]} ℘ Spr 14,21; Mt 5,7
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 6,3
+[fn:1] [[file:Spr_14.org::v21][Spr 14,21]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_5.org::v7][Mt 5,7]]
 
-^{[[#fnm3][3]]} ℘ 22,7f; 44,14f; 71,7; 89,51; 102,9; 109,25; 123,3f
+[fn:2] [[file:Ps_6.org::v3][6,3]]
 
-^{[[#fnm4][4]]} ℘ 31,12; Obd 7; Joh 13,18
+[fn:3] [[file:Ps_22.org::v7][22,7f]]; [[file:Ps_44.org::v14][44,14f]]; [[file:Ps_71.org::v7][71,7]]; [[file:Ps_89.org::v51][89,51]]; [[file:Ps_102.org::v9][102,9]]; [[file:Ps_109.org::v25][109,25]]; [[file:Ps_123.org::v3][123,3f]]
 
-^{[[#fnm5][5]]} Text korr.
+[fn:4] [[file:Ps_31.org::v12][31,12]]; [[file:Obd_1.org::v7][Obd 7]]; [[file:~/RoamNotes/notes/Bibel/nt/Joh_13.org::v18][Joh 13,18]]
 
-^{[[#fnm6][6]]} ℘ Neh 9,5
+[fn:5] Text korr.
+
+[fn:6] [[file:Neh_9.org::v5][Neh 9,5]]

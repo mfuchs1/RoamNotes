@@ -241,46 +241,46 @@ ausgetilgt, /\\
 
 [fn:7] [[file:~/RoamNotes/notes/Bibel/nt/Eph_4.org::v26][Eph 4,26]]
 
-[fn:8] 25,13
+[fn:8] [[file:Ps_25.org::v13][25,13]]
 
-[fn:9] Ijob 20,8f
+[fn:9] [[file:Ijob_20.org::v8][Ijob 20,8f]]
 
-[fn:10] Mt 5,5
+[fn:10] [[file:~/RoamNotes/notes/Bibel/nt/Mt_5.org::v5][Mt 5,5]]
 
-[fn:11] 59,9; Ijob 18,20
+[fn:11] [[file:Ps_59.org::v9][59,9]]; [[file:Ijob_18.org::v20][Ijob 18,20]]
 
-[fn:12] 11,2
+[fn:12] [[file:Ps_11.org::v2][11,2]]
 
-[fn:13] Spr 15,16; 16,8
+[fn:13] [[file:Spr_15.org::v16][Spr 15,16]]; [[file:Spr_16.org::v8][16,8]]
 
-[fn:14] 10,15
+[fn:14] [[file:Ps_10.org::v15][10,15]]
 
-[fn:15] 33,19
+[fn:15] [[file:Ps_33.org::v19][33,19]]
 
-[fn:16] 68,3
+[fn:16] [[file:Ps_68.org::v3][68,3]]
 
-[fn:17] Spr 2,21f
+[fn:17] [[file:Spr_2.org::v21][Spr 2,21f]]
 
-[fn:18] 145,14; Spr 24,16
+[fn:18] [[file:Ps_145.org::v14][145,14]]; [[file:Spr_24.org::v16][Spr 24,16]]
 
-[fn:19] 34,15; Am 5,14
+[fn:19] [[file:Ps_34.org::v15][34,15]]; [[file:Am_5.org::v14][Am 5,14]]
 
 [fn:20] sinngemäß umgestellt; Text korr.; H: sie werden für
 immer bewahrt.
 
-[fn:21] 25,13; Jes 60,21
+[fn:21] [[file:Ps_25.org::v13][25,13]]; [[file:Jes_60.org::v21][Jes 60,21]]
 
-[fn:22] Spr 10,31
+[fn:22] [[file:Spr_10.org::v31][Spr 10,31]]
 
-[fn:23] 40,9
+[fn:23] [[file:Ps_40.org::v9][40,9]]
 
-[fn:24] 11,2
+[fn:24] [[file:Ps_11.org::v2][11,2]]
 
-[fn:25] 92,8; (35-36) Ijob 20,6f
+[fn:25] [[file:Ps_92.org::v8][92,8]]; (35-36) [[file:Ijob_20.org::v6][Ijob 20,6f]]
 
 [fn:26] Text korr.; H: und er entwickelte sich wie eine
 lebenskräftige Pflanze.
 
 [fn:27] Text korr. nach G, S und Hieronymus; H: ging er vorüber.
 
-[fn:28] 46,2
+[fn:28] [[file:Ps_46.org::v2][46,2]]
