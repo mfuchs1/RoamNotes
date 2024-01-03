@@ -1,26 +1,23 @@
-:PROPERTIES:
-:ID:       1c2f0b3e-3e60-4a93-ad7e-6f16807d562f
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Die Psalmen* -- [[file:Ps_1.html][1]] ...
-[[file:Ps_41.html][41]] [[file:Ps_42.html][42]] *43*
-[[file:Ps_44.html][44]] [[file:Ps_45.html][45]] ...
-[[file:Ps_150.html][150]]
-
---------------
+#+TITLE: Ps 43 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-01-03 Mi 20:28]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ps 43.html
 
 * Ps 43
-  :PROPERTIES:
-  :CUSTOM_ID: ps-43
-  :END:
 
 <<verses>>
 
 <<v1>>
 1 Verschaff mir Recht, o Gott, /\\
  und führe meine Sache gegen ein treuloses Volk! /\\
- Rette mich vor bösen und tückischen Menschen! ^{[[#fn1][1]]}\\
+ Rette mich vor bösen und tückischen Menschen! [fn:1]\\
 \\
 
 <<v2>>
@@ -33,27 +30,29 @@
 3 Sende dein Licht und deine Wahrheit, /\\
  damit sie mich leiten; sie sollen mich führen zu deinem heiligen Berg
 /\\
- und zu deiner Wohnung. ^{[[#fn2][2]]}\\
+ und zu deiner Wohnung. [fn:2]\\
 \\
 
 <<v4>>
 4 So will ich zum Altar Gottes treten, zum Gott meiner Freude. /\\
  Jauchzend will ich dich auf der Harfe loben, /\\
- Gott, mein Gott. ^{[[#fn3][3]]}\\
+ Gott, mein Gott. [fn:3]\\
 \\
 
 <<v5>>
 5 Meine Seele, warum bist du betrübt /\\
  und bist so unruhig in mir? Harre auf Gott; denn ich werde ihm noch
 danken, /\\
- meinem Gott und Retter, auf den ich schaue. ^{[[#fn4][4]]}\\
+ meinem Gott und Retter, auf den ich schaue. [fn:4]\\
 \\
 
-^{[[#fnm1][1]]} Ps 42 und 43 bilden ein einziges Lied, wie der Kehrvers
+* Footnotes
+
+[fn:1] Ps 42 und 43 bilden ein einziges Lied, wie der Kehrvers
 42,6.12 und 43,5 zeigt.
 
-^{[[#fnm2][2]]} ℘ 97,11
+[fn:2] [[file:Ps_97.org::v11][97,11]]
 
-^{[[#fnm3][3]]} Text korr.; H: zum Gott der Freude meines Jubels.
+[fn:3] Text korr.; H: zum Gott der Freude meines Jubels.
 
-^{[[#fnm4][4]]} Text korr. wie in 42,6d und 12d.
+[fn:4] Text korr. wie in 42,6d und 12d.

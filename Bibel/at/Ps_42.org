@@ -1,4 +1,4 @@
-#+TITLE: Ps 43 
+#+TITLE: Ps 42 
 #+AUTHOR: Matthias Fuchs
 #+EMAIL: matthiasfuchs01@gmail.com
 #+DATE: [2024-01-02 Di 22:50]
@@ -8,7 +8,7 @@
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
-#+export_file_name: ~/RoamNotes/exports/Ps 43.html
+#+export_file_name: ~/RoamNotes/exports/Ps 42.html
 
 * Ps 42
 

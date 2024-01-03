@@ -1,27 +1,22 @@
-:PROPERTIES:
-:ID:       fdd459cf-090d-4fe0-8ba6-8ec03e31bde9
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Die Psalmen* -- [[file:Ps_1.html][1]] ...
-[[file:Ps_42.html][42]] [[file:Ps_43.html][43]] *44*
-[[file:Ps_45.html][45]] [[file:Ps_46.html][46]] ...
-[[file:Ps_150.html][150]]
-
---------------
+#+TITLE: Ps 44 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-01-03 Mi 22:25]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+export_file_name: ~/RoamNotes/exports/Ps 44.html
 
 * Ps 44
-  :PROPERTIES:
-  :CUSTOM_ID: ps-44
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Klage in Kriegsnot
-     :PROPERTIES:
-     :CUSTOM_ID: klage-in-kriegsnot
-     :END:
+* Klage in Kriegsnot
+
 1 [Für den Chormeister. Ein Weisheitslied der Korachiter.]\\
 \\
 
@@ -29,30 +24,30 @@
 2 Gott, wir hörten es mit eigenen Ohren, /\\
  unsere Väter erzählten uns von dem Werk, das du in ihren Tagen
 vollbracht hast, /\\
- in den Tagen der Vorzeit. ^{[[#fn1][1]]}\\
+ in den Tagen der Vorzeit. [fn:1]\\
 \\
 
 <<v3>>
 3 Mit eigener Hand hast du Völker vertrieben, /\\
  sie aber eingepflanzt. Du hast Nationen zerschlagen, /\\
- sie aber ausgesät. ^{[[#fn2][2]]}\\
+ sie aber ausgesät. [fn:2]\\
 \\
 
 <<v4>>
 4 Denn sie gewannen das Land nicht mit ihrem Schwert, /\\
  noch verschaffte ihr Arm ihnen den Sieg; nein, deine Rechte war es,
 dein Arm und dein leuchtendes Angesicht; /\\
- denn du hattest an ihnen Gefallen. ^{[[#fn3][3]]}\\
+ denn du hattest an ihnen Gefallen. [fn:3]\\
 \\
 
 <<v5>>
 5 Du, mein König und mein Gott, /\\
- du bist es, der Jakob den Sieg verleiht. ^{[[#fn4][4]][[#fn5][5]]}\\
+ du bist es, der Jakob den Sieg verleiht. [fn:4] [fn:5]\\
 \\
 
 <<v6>>
 6 Mit dir stoßen wir unsere Bedränger nieder, /\\
- in deinem Namen zertreten wir unsere Gegner. ^{[[#fn6][6]]}\\
+ in deinem Namen zertreten wir unsere Gegner. [fn:6]\\
 \\
 
 <<v7>>
@@ -72,28 +67,27 @@ dein Arm und dein leuchtendes Angesicht; /\\
 
 <<v10>>
 10 Doch nun hast du uns verstoßen und mit Schmach bedeckt, /\\
- du ziehst nicht mit unserm Heer in den Kampf. ^{[[#fn7][7]]}\\
+ du ziehst nicht mit unserm Heer in den Kampf. [fn:7]\\
 \\
 
 <<v11>>
 11 Du lässt uns vor unsern Bedrängern fliehen /\\
- und Menschen, die uns hassen, plündern uns aus. ^{[[#fn8][8]]}\\
+ und Menschen, die uns hassen, plündern uns aus. [fn:8]\\
 \\
 
 <<v12>>
 12 Du gibst uns preis wie Schlachtvieh, /\\
- unter die Völker zerstreust du uns. ^{[[#fn9][9]]}\\
+ unter die Völker zerstreust du uns. [fn:9]\\
 \\
 
 <<v13>>
 13 Du verkaufst dein Volk um ein Spottgeld /\\
- und hast an dem Erlös keinen Gewinn. ^{[[#fn10][10]]}\\
+ und hast an dem Erlös keinen Gewinn. [fn:10]\\
 \\
 
 <<v14>>
 14 Du machst uns zum Schimpf für die Nachbarn, /\\
- zu Spott und Hohn bei allen, die rings um uns wohnen.
-^{[[#fn11][11]]}\\
+ zu Spott und Hohn bei allen, die rings um uns wohnen. [fn:11]\\
 \\
 
 <<v15>>
@@ -140,22 +134,22 @@ dein Arm und dein leuchtendes Angesicht; /\\
 <<v23>>
 23 Nein, um deinetwillen werden wir getötet Tag für Tag, /\\
  behandelt wie Schafe, /\\
- die man zum Schlachten bestimmt hat. ^{[[#fn12][12]]}\\
+ die man zum Schlachten bestimmt hat. [fn:12]\\
 \\
 
 <<v24>>
 24 Wach auf! Warum schläfst du, Herr? /\\
- Erwache, verstoß nicht für immer! ^{[[#fn13][13]]}\\
+ Erwache, verstoß nicht für immer! [fn:13]\\
 \\
 
 <<v25>>
 25 Warum verbirgst du dein Gesicht, /\\
- vergisst unsere Not und Bedrängnis? ^{[[#fn14][14]]}\\
+ vergisst unsere Not und Bedrängnis? [fn:14]\\
 \\
 
 <<v26>>
 26 Unsere Seele ist in den Staub hinabgebeugt, /\\
- unser Leib liegt am Boden. ^{[[#fn15][15]][[#fn16][16]]}\\
+ unser Leib liegt am Boden. [fn:15] [fn:16]\\
 \\
 
 <<v27>>
@@ -163,34 +157,36 @@ dein Arm und dein leuchtendes Angesicht; /\\
  In deiner Huld erlöse uns!\\
 \\
 
-^{[[#fnm1][1]]} ℘ 78,3; Dtn 4,9; 2 Sam 7,22f
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 78,55; 80,9
+[fn:1] [[file:Ps_78.org::v3][78,3]]; [[file:Dtn_4.org::v9][Dtn 4,9]]; [[file:2.Sam_7.org::v22][2 Sam 7,22f]]
 
-^{[[#fnm3][3]]} ℘ Dtn 8,17f; Jos 24,12; 4,7
+[fn:2] [[file:Ps_78.org::v55][78,55]]; [[file:Ps_80.org::v9][80,9]]
 
-^{[[#fnm4][4]]} ℘ 5,3
+[fn:3] [[file:Dtn_8.org::v17][Dtn 8,17f]]; [[file:Jos_24.org::v12][Jos 24,12]]; [[file:Ps_4.org::v7][4,7]]
 
-^{[[#fnm5][5]]} Text korr.
+[fn:4] [[file:Ps_5.org::v3][5,3]]
 
-^{[[#fnm6][6]]} ℘ 60,14
+[fn:5] Text korr.
 
-^{[[#fnm7][7]]} ℘ 60,12
+[fn:6] [[file:Ps_60.org::v14][60,14]]
 
-^{[[#fnm8][8]]} ℘ Dtn 28,25
+[fn:7] [[file:Ps_60.org::v12][60,12]]
 
-^{[[#fnm9][9]]} ℘ Dtn 28,64
+[fn:8] [[file:Dtn_28.org::v25][Dtn 28,25]]
 
-^{[[#fnm10][10]]} ℘ Jes 52,3
+[fn:9] [[file:Dtn_28.org::v64][Dtn 28,64]]
 
-^{[[#fnm11][11]]} ℘ 79,4; 80,7
+[fn:10] [[file:Jes_52.org::v3][Jes 52,3]]
 
-^{[[#fnm12][12]]} ℘ Röm 8,36
+[fn:11] [[file:Ps_79.org::v4][79,4]]; [[file:Ps_80.org::v7][80,7]]
 
-^{[[#fnm13][13]]} ℘ 74,1; 83,2
+[fn:12] [[file:~/RoamNotes/notes/Bibel/nt/Röm_8.org::v36][Röm 8,36]]
 
-^{[[#fnm14][14]]} ℘ 89,47; Ijob 13,24
+[fn:13] [[file:Ps_74.org::v1][74,1]]; [[file:Ps_83.org::v2][83,2]]
 
-^{[[#fnm15][15]]} ℘ 7,6; 119,25
+[fn:14] [[file:Ps_89.org::v47][89,47]]; [[file:Ijob_13.org::v24][Ijob 13,24]]
 
-^{[[#fnm16][16]]} Wörtlich: klebt am Boden.
+[fn:15] [[file:Ps_7.org::v6][7,6]]; [[file:Ps_119.org::v25][119,25]]
+
+[fn:16] Wörtlich: klebt am Boden.
