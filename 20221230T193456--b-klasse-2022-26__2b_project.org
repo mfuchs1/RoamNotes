@@ -2,6 +2,7 @@
 #+date:       [2022-12-30 Fr 19:34]
 #+filetags:   :2b:Project:
 #+identifier: 20221230T193456
+#+STARTUP: showall
 #+CATEGORY: golling
 #+LANGUAGE: de
 #+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
@@ -22,37 +23,41 @@ Lucian, Stefan, +?
 * 2b 10:40-11:30
 <%%(org-class 2023 9 12 2024 7 6 2 52)>
 
-Gott - Offenbarung - Volk Israel
-
-Aufbau der Bibel.
+Übungsteil: Bibel AT / Hebräisch
 
 * 2b 10:40-11:30
+:PROPERTIES:
+:CUSTOM_ID: 2b 10:40
+:ID:       ea738b9c-c6f9-421f-8439-0f25e2f0e7b2
+:END:
 <%%(org-class 2023 9 13 2024 7 7 3 52)>
 
-Letzte Stunde [2023-11-28 Di] haben wir das erste und den Beginn des zweiten Kapitels des Johannes-Evangeliums gelesen. Hier weiter?
+Übungsteil: Bibel AT / Hebräisch
+
+Beginn: viertes Kapitel (Zeichen, Symbole - Sakrament)
 
 * 2B [KV Martin Pock]
 
 #+Name: 2021-students
 | First     | Last       | Name               | Note | Mitarbeit | Heft | LZK |
 |-----------+------------+--------------------+------+-----------+------+-----|
-| *Lorenz   | Aschauer   | [[Lorenz Aschauer][Lorenz Aschauer]]    |    2 |           |      |     |
+| Lorenz    | Aschauer   | [[Lorenz Aschauer][Lorenz Aschauer]]    |    2 |           |      |     |
 | Emma      | Gonschorek | [[Emma Gonschorek][Emma Gonschorek]]    |    1 |           |      |     |
 | Marie     | Hofer      | [[Marie Hofer][Marie Hofer]]        |    1 |           |      |     |
 | Nena      | Langenfeld | [[Nena Langenfeld][Nena Langenfeld]]    |    1 |           |      |     |
-| *Bernhard | Neureiter  | [[Bernhard Neureiter][Bernhard Neureiter]] |    2 |           |      |     |
+| Bernhard  | Neureiter  | [[Bernhard Neureiter][Bernhard Neureiter]] |    2 |           |      |     |
 | Manuel    | Reiter     | [[Manuel Reiter][Manuel Reiter]]      |    1 |           |      |     |
 | Emma      | Riebler    | [[Emma Riebler][Emma Riebler]]       |    1 |           |      |     |
 | Annika    | Seiwald    | [[Annika Seiwald][Annika Seiwald]]     |    1 |           |      |     |
-| *Valerian | Seling     | [[Valerian Seling][Valerian Seling]]    |    2 |           |      |     |
+| Valerian  | Seling     | [[Valerian Seling][Valerian Seling]]    |    2 |           |      |     |
 | Theresa   | Steiner    | [[Theresa Steiner][Theresa Steiner]]    |    1 |           |      |     |
 | Valentina | Struber    | [[Valentina Struber][Valentina Struber]]  |    1 |           |      |     |
 | Felix     | Wenger     | [[Felix Wenger][Felix Wenger]]       |    1 |           |      |     |
 | Leon      | Zemmer     | [[Leon Zemmer][Leon Zemmer]]        |    1 |           |      |     |
 | Fabian    | Zorzi      | [[Fabian Zorzi][Fabian Zorzi]]       |    1 |           |      |     |
-#+TBLFM: $4=vmean($5..$>)
+#+TBLFM: $4=vmean($5..$>);%.0f
 #+TBLFM: $3='(concat "[[" $1 " " $2 "][" $1 " " $2 "]]")
-#+TBLFM: $5='(identity remote(2021-22-Mitarbeit,@@#$2)) 
+#+TBLFM: $5='(identity remote(Mitarbeit,@@#$2)) 
 
 #+BEGIN_SRC python :var table=2021-students :results output raw
   print('* Mitarbeit')
@@ -64,13 +69,15 @@ Letzte Stunde [2023-11-28 Di] haben wir das erste und den Beginn des zweiten Kap
       print(':PROPERTIES:')
       print(':EMAIL: ' '[[mailto: ' + first + ' ' + last + ' <' + email + '>]]')
       print(':EXPORT_FILE_NAME: ' '~/RoamNotes/exports/'  + first +  '_'  + last +  '.html')
+      print(':ID: ' + first + '' + last + '')
       print(':END: ')
+      print('#+Name: ' + first + '' + last + '')
+      print('|-------+-------+------+---------|')
+      print('| Datum | Topic | Note | Notizen |')
+      print('|-------+-------+------+---------|')
       print('\n')
-      print('|-----------------------+-----------+-------------------------+---------------|')
-      print('| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |')
-      print('|-----------------------+-----------+-------------------------+---------------|')
-      print('\n')
-      print('*** Note ' + first + ' ' + last)
+      print('*** Note ' + first + ' ' + last + '')
+      print('#+Name: Note_' + first + '' + last + '')
       print('|-----------+-------------+-----+-----------+------------|')
       print('| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |')
       print('|-----------+-------------+-----+-----------+------------|')
@@ -85,15 +92,17 @@ Letzte Stunde [2023-11-28 Di] haben wir das erste und den Beginn des zweiten Kap
 :PROPERTIES:
 :EMAIL: [[mailto: Lorenz Aschauer <Lorenz.Aschauer@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Lorenz_Aschauer.html
+:ID: LorenzAschauer
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+#+Name: LorenzAschauer
+|-----------------------+-------------------------+------+-------------|
+| Datum                 | Topic                   | Note | Notizen     |
+|-----------------------+-------------------------+------+-------------|
+| [2024-01-10 Mi 11:07] | [[denote:20230624T235412][[SW28] Übungsteil Kap 3]] |    1 | sehr bemüht |
 
 
 *** Note Lorenz Aschauer
+#+Name: Note_LorenzAschauer
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -105,15 +114,16 @@ Letzte Stunde [2023-11-28 Di] haben wir das erste und den Beginn des zweiten Kap
 :PROPERTIES:
 :EMAIL: [[mailto: Emma Gonschorek <Emma.Gonschorek@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Emma_Gonschorek.html
+:ID: EmmaGonschorek
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+#+Name: EmmaGonschorek
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Emma Gonschorek
+#+Name: Note_EmmaGonschorek
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -125,15 +135,16 @@ Letzte Stunde [2023-11-28 Di] haben wir das erste und den Beginn des zweiten Kap
 :PROPERTIES:
 :EMAIL: [[mailto: Marie Hofer <Marie.Hofer@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Marie_Hofer.html
+:ID: MarieHofer
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+#+Name: MarieHofer
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Marie Hofer
+#+Name: Note_MarieHofer
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -145,15 +156,16 @@ Letzte Stunde [2023-11-28 Di] haben wir das erste und den Beginn des zweiten Kap
 :PROPERTIES:
 :EMAIL: [[mailto: Nena Langenfeld <Nena.Langenfeld@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Nena_Langenfeld.html
+:ID: NenaLangenfeld
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+#+Name: NenaLangenfeld
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Nena Langenfeld
+#+Name: Note_NenaLangenfeld
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -165,15 +177,16 @@ Letzte Stunde [2023-11-28 Di] haben wir das erste und den Beginn des zweiten Kap
 :PROPERTIES:
 :EMAIL: [[mailto: Bernhard Neureiter <Bernhard.Neureiter@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Bernhard_Neureiter.html
+:ID: BernhardNeureiter
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+#+Name: BernhardNeureiter
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Bernhard Neureiter
+#+Name: Note_BernhardNeureiter
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -185,15 +198,16 @@ Letzte Stunde [2023-11-28 Di] haben wir das erste und den Beginn des zweiten Kap
 :PROPERTIES:
 :EMAIL: [[mailto: Manuel Reiter <Manuel.Reiter@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Manuel_Reiter.html
+:ID: ManuelReiter
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+#+Name: ManuelReiter
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Manuel Reiter
+#+Name: Note_ManuelReiter
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -205,15 +219,16 @@ Letzte Stunde [2023-11-28 Di] haben wir das erste und den Beginn des zweiten Kap
 :PROPERTIES:
 :EMAIL: [[mailto: Emma Riebler <Emma.Riebler@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Emma_Riebler.html
+:ID: EmmaRiebler
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+#+Name: EmmaRiebler
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Emma Riebler
+#+Name: Note_EmmaRiebler
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -225,15 +240,16 @@ Letzte Stunde [2023-11-28 Di] haben wir das erste und den Beginn des zweiten Kap
 :PROPERTIES:
 :EMAIL: [[mailto: Annika Seiwald <Annika.Seiwald@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Annika_Seiwald.html
+:ID: AnnikaSeiwald
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+#+Name: AnnikaSeiwald
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Annika Seiwald
+#+Name: Note_AnnikaSeiwald
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -245,44 +261,37 @@ Letzte Stunde [2023-11-28 Di] haben wir das erste und den Beginn des zweiten Kap
 :PROPERTIES:
 :EMAIL: [[mailto: Valerian Seling <Valerian.Seling@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Valerian_Seling.html
+:ID: ValerianSeling
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
-
-
-*** [[denote:20230619T211254][[SW06] Typisch Mann, typisch Frau?]]
-:PROPERTIES:
-:CAPTURED: [2023-10-18 Mi 10:51]
-:CLASS: [2023-10-18 Mi 10:40] 4. Stunde
-:END:
-
-Valerian hat zum wiederholten Mal sein Heft nicht am Tisch liegen; jetzt sucht er es, macht dabei viel Lärm. Das lenkt va die drei Burschen (Manuel, Felix und Leon) ab.
-
+#+Name: ValerianSeling
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Valerian Seling
+#+Name: Note_ValerianSeling
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
 |         2 |           3 |   2 |         3 |        2.5 |
 #+TBLFM: $5=vmean($1..$4)
 
+
 ** Theresa Steiner
 :PROPERTIES:
 :EMAIL: [[mailto: Theresa Steiner <Theresa.Steiner@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Theresa_Steiner.html
+:ID: TheresaSteiner
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+#+Name: TheresaSteiner
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Theresa Steiner
+#+Name: Note_TheresaSteiner
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -294,15 +303,16 @@ Valerian hat zum wiederholten Mal sein Heft nicht am Tisch liegen; jetzt sucht e
 :PROPERTIES:
 :EMAIL: [[mailto: Valentina Struber <Valentina.Struber@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Valentina_Struber.html
+:ID: ValentinaStruber
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+#+Name: ValentinaStruber
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Valentina Struber
+#+Name: Note_ValentinaStruber
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -314,15 +324,16 @@ Valerian hat zum wiederholten Mal sein Heft nicht am Tisch liegen; jetzt sucht e
 :PROPERTIES:
 :EMAIL: [[mailto: Felix Wenger <Felix.Wenger@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Felix_Wenger.html
+:ID: FelixWenger
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+#+Name: FelixWenger
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Felix Wenger
+#+Name: Note_FelixWenger
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -334,15 +345,16 @@ Valerian hat zum wiederholten Mal sein Heft nicht am Tisch liegen; jetzt sucht e
 :PROPERTIES:
 :EMAIL: [[mailto: Leon Zemmer <Leon.Zemmer@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Leon_Zemmer.html
+:ID: LeonZemmer
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+#+Name: LeonZemmer
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Leon Zemmer
+#+Name: Note_LeonZemmer
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -354,15 +366,16 @@ Valerian hat zum wiederholten Mal sein Heft nicht am Tisch liegen; jetzt sucht e
 :PROPERTIES:
 :EMAIL: [[mailto: Fabian Zorzi <Fabian.Zorzi@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Fabian_Zorzi.html
+:ID: FabianZorzi
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+#+Name: FabianZorzi
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Fabian Zorzi
+#+Name: Note_FabianZorzi
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -377,21 +390,21 @@ Valerian hat zum wiederholten Mal sein Heft nicht am Tisch liegen; jetzt sucht e
 #+Name: Mitarbeit
 | Name               | Note | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |--------------------+------+---+---+---+---+---+---+---+---+---+----|
-| [[Lorenz Aschauer][Lorenz Aschauer]]    |      |   |   |   |   |   |   |   |   |   |    |
-| [[Emma Gonschorek][Emma Gonschorek]]    |      |   |   |   |   |   |   |   |   |   |    |
-| [[Marie Hofer][Marie Hofer]]        |      |   |   |   |   |   |   |   |   |   |    |
-| [[Nena Langenfeld][Nena Langenfeld]]    |      |   |   |   |   |   |   |   |   |   |    |
-| [[Bernhard Neureiter][Bernhard Neureiter]] |      |   |   |   |   |   |   |   |   |   |    |
-| [[Manuel Reiter][Manuel Reiter]]      |      |   |   |   |   |   |   |   |   |   |    |
-| [[Emma Riebler][Emma Riebler]]       |      |   |   |   |   |   |   |   |   |   |    |
-| [[Annika Seiwald][Annika Seiwald]]     |      |   |   |   |   |   |   |   |   |   |    |
-| [[Valerian Seling][Valerian Seling]]    |      |   |   |   |   |   |   |   |   |   |    |
-| [[Theresa Steiner][Theresa Steiner]]    |      |   |   |   |   |   |   |   |   |   |    |
-| [[Valentina Struber][Valentina Struber]]  |      |   |   |   |   |   |   |   |   |   |    |
-| [[Felix Wenger][Felix Wenger]]       |      |   |   |   |   |   |   |   |   |   |    |
-| [[Leon Zemmer][Leon Zemmer]]        |      |   |   |   |   |   |   |   |   |   |    |
-| [[Fabian Zorzi][Fabian Zorzi]]       |      |   |   |   |   |   |   |   |   |   |    |
-#+TBLFM: $2=vmean($3..$>)
+| [[Lorenz Aschauer][Lorenz Aschauer]]    |    1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  1 |
+| [[Emma Gonschorek][Emma Gonschorek]]    |    1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  1 |
+| [[Marie Hofer][Marie Hofer]]        |    1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  1 |
+| [[Nena Langenfeld][Nena Langenfeld]]    |    1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  1 |
+| [[Bernhard Neureiter][Bernhard Neureiter]] |    2 | 2 | 2 | 2 | 2 | 2 | 1 | 1 | 2 | 2 |  2 |
+| [[Manuel Reiter][Manuel Reiter]]      |    2 | 2 | 1 | 1 | 2 | 2 | 1 | 2 | 1 | 2 |  2 |
+| [[Emma Riebler][Emma Riebler]]       |    1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  1 |
+| [[Annika Seiwald][Annika Seiwald]]     |    1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  1 |
+| [[Valerian Seling][Valerian Seling]]    |    2 | 2 | 2 | 2 | 1 | 2 | 2 | 1 | 1 | 1 |  1 |
+| [[Theresa Steiner][Theresa Steiner]]    |    1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  1 |
+| [[Valentina Struber][Valentina Struber]]  |    1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  1 |
+| [[Felix Wenger][Felix Wenger]]       |    1 | 2 | 1 | 2 | 1 | 2 | 1 | 2 | 1 | 1 |  1 |
+| [[Leon Zemmer][Leon Zemmer]]        |    1 | 1 | 2 | 1 | 1 | 1 | 2 | 1 | 2 | 1 |  2 |
+| [[Fabian Zorzi][Fabian Zorzi]]       |    2 | 1 | 2 | 1 | 2 | 2 | 1 | 1 | 2 | 1 |  2 |
+#+TBLFM: $2=vmean($3..$>);%.0f
 #+TBLFM: $1='(identity remote(2021-students,@@#$3))
 
 

@@ -2,6 +2,7 @@
 #+date:       [2022-12-28 Mi 20:41]
 #+filetags:   :4c:Project:
 #+identifier: 20221228T204149
+#+STARTUP: showall
 #+CATEGORY: golling
 #+LANGUAGE: de
 #+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
@@ -20,15 +21,12 @@
 * 4c 14:20-15:10
 <%%(org-class 2023 9 11 2024 7 5 1 52)>
 
-(Mit letzter Gruppenarbeit schon fertig?)
-Gruppenarbeit biblische Propheten
+"Ratatouille" fertig schauen...
 
-YouTube: Videos / Bible Project (Propheten / Amos oder Jeremia)
-  
 * 4c 09:35-10:25
 <%%(org-class 2023 9 14 2024 7 8 4 52)>
 
-Film - Ratatouille
+
 
 * 4C [KV Gertraud Ellmaier]
 
@@ -66,61 +64,232 @@ Film - Ratatouille
       print(':PROPERTIES:')
       print(':EMAIL: ' '[[mailto: ' + first + ' ' + last + ' <' + email + '>]]')
       print(':EXPORT_FILE_NAME: ' '~/RoamNotes/exports/'  + first +  '_'  + last +  '.html')
+      print(':ID: ' + first + '' + last + '')
       print(':END: ')
-      print('\n')
-      print('|-----------------------+-----------+-------------------------+---------------|')
-      print('| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |')
-      print('|-----------------------+-----------+-------------------------+---------------|')
-      print('\n')
-      print('*** Note ' + first + ' ' + last)
-      print('|-----------+-------------+-----+-----------+------------|')
-      print('| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |')
-      print('|-----------+-------------+-----+-----------+------------|')
-      print('|         2 |           3 |   2 |         3 |        2.5 |')
-      print('#+TBLFM: $5=vmean($1..$4)')
+      print('#+Name: ' + first + '' + last + '')
+      print('|-------+-------+------+---------|')
+      print('| Datum | Topic | Note | Notizen |')
+      print('|-------+-------+------+---------|')
       print('\n')
 #+END_SRC
 
 #+RESULTS:
 * Mitarbeit
-** Zlatko Atanasov
+** Laura Gschiel
 :PROPERTIES:
-:EMAIL: [[mailto: Zlatko Atanasov <Zlatko.Atanasov@golling.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Zlatko_Atanasov.html
+:EMAIL: [[mailto: Laura Gschiel <Laura.Gschiel@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Laura_Gschiel.html
+:ID: LauraGschiel
 :END: 
+#+Name: LauraGschiel
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+** Fabian Hansmann
+:PROPERTIES:
+:EMAIL: [[mailto: Fabian Hansmann <Fabian.Hansmann@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Fabian_Hansmann.html
+:ID: FabianHansmann
+:END: 
+#+Name: FabianHansmann
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
-*** Note Zlatko Atanasov
-|-----------+-------------+-----+-----------+------------|
-| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
-|-----------+-------------+-----+-----------+------------|
-|         2 |           3 |   2 |         3 |        2.5 |
-#+TBLFM: $5=vmean($1..$4)
+** Victoria Kappacher
+:PROPERTIES:
+:EMAIL: [[mailto: Victoria Kappacher <Victoria.Kappacher@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Victoria_Kappacher.html
+:ID: VictoriaKappacher
+:END: 
+#+Name: VictoriaKappacher
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
+** Annika-Sophie Lienbacher
+:PROPERTIES:
+:EMAIL: [[mailto: Annika-Sophie Lienbacher <Annika-Sophie.Lienbacher@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Annika-Sophie_Lienbacher.html
+:ID: Annika-SophieLienbacher
+:END: 
+#+Name: Annika-SophieLienbacher
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+** Alexander Loipold
+:PROPERTIES:
+:EMAIL: [[mailto: Alexander Loipold <Alexander.Loipold@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Alexander_Loipold.html
+:ID: AlexanderLoipold
+:END: 
+#+Name: AlexanderLoipold
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+** Andreas Meisl
+:PROPERTIES:
+:EMAIL: [[mailto: Andreas Meisl <Andreas.Meisl@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Andreas_Meisl.html
+:ID: AndreasMeisl
+:END: 
+#+Name: AndreasMeisl
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+** Nikola Moser
+:PROPERTIES:
+:EMAIL: [[mailto: Nikola Moser <Nikola.Moser@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Nikola_Moser.html
+:ID: NikolaMoser
+:END: 
+#+Name: NikolaMoser
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+** Josip Perkovic
+:PROPERTIES:
+:EMAIL: [[mailto: Josip Perkovic <Josip.Perkovic@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Josip_Perkovic.html
+:ID: JosipPerkovic
+:END: 
+#+Name: JosipPerkovic
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+** Anna Pichler
+:PROPERTIES:
+:EMAIL: [[mailto: Anna Pichler <Anna.Pichler@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Anna_Pichler.html
+:ID: AnnaPichler
+:END: 
+#+Name: AnnaPichler
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+** Lukas Rettenbacher
+:PROPERTIES:
+:EMAIL: [[mailto: Lukas Rettenbacher <Lukas.Rettenbacher@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Lukas_Rettenbacher.html
+:ID: LukasRettenbacher
+:END: 
+#+Name: LukasRettenbacher
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+** Sebastian Rettenbacher
+:PROPERTIES:
+:EMAIL: [[mailto: Sebastian Rettenbacher <Sebastian.Rettenbacher@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Sebastian_Rettenbacher.html
+:ID: SebastianRettenbacher
+:END: 
+#+Name: SebastianRettenbacher
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+** Mia Russegger
+:PROPERTIES:
+:EMAIL: [[mailto: Mia Russegger <Mia.Russegger@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Mia_Russegger.html
+:ID: MiaRussegger
+:END: 
+#+Name: MiaRussegger
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+** Melanie Schröcker
+:PROPERTIES:
+:EMAIL: [[mailto: Melanie Schröcker <Melanie.Schröcker@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Melanie_Schröcker.html
+:ID: MelanieSchröcker
+:END: 
+#+Name: MelanieSchröcker
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+** Hannah Seiwald
+:PROPERTIES:
+:EMAIL: [[mailto: Hannah Seiwald <Hannah.Seiwald@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Hannah_Seiwald.html
+:ID: HannahSeiwald
+:END: 
+#+Name: HannahSeiwald
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+** Thomas Siller
+:PROPERTIES:
+:EMAIL: [[mailto: Thomas Siller <Thomas.Siller@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Thomas_Siller.html
+:ID: ThomasSiller
+:END: 
+#+Name: ThomasSiller
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+** Theresa Sunkler
+:PROPERTIES:
+:EMAIL: [[mailto: Theresa Sunkler <Theresa.Sunkler@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Theresa_Sunkler.html
+:ID: TheresaSunkler
+:END: 
+#+Name: TheresaSunkler
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+** Celine Zuchristian
+:PROPERTIES:
+:EMAIL: [[mailto: Celine Zuchristian <Celine.Zuchristian@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Celine_Zuchristian.html
+:ID: CelineZuchristian
+:END: 
+#+Name: CelineZuchristian
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+
+
+* Mitarbeit_2
 ** Laura Gschiel
 :PROPERTIES:
 :EMAIL: [[mailto: Laura Gschiel <Laura.Gschiel@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Laura_Gschiel.html
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
-
-
-*** Note Laura Gschiel
-|-----------+-------------+-----+-----------+------------|
-| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
-|-----------+-------------+-----+-----------+------------|
-|         2 |           3 |   2 |         3 |        2.5 |
-#+TBLFM: $5=vmean($1..$4)
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 ** Fabian Hansmann
@@ -128,19 +297,9 @@ Film - Ratatouille
 :EMAIL: [[mailto: Fabian Hansmann <Fabian.Hansmann@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Fabian_Hansmann.html
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
-
-
-*** Note Fabian Hansmann
-|-----------+-------------+-----+-----------+------------|
-| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
-|-----------+-------------+-----+-----------+------------|
-|         2 |           3 |   2 |         3 |        2.5 |
-#+TBLFM: $5=vmean($1..$4)
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 ** Victoria Kappacher
@@ -148,19 +307,9 @@ Film - Ratatouille
 :EMAIL: [[mailto: Victoria Kappacher <Victoria.Kappacher@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Victoria_Kappacher.html
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
-
-
-*** Note Victoria Kappacher
-|-----------+-------------+-----+-----------+------------|
-| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
-|-----------+-------------+-----+-----------+------------|
-|         2 |           3 |   2 |         3 |        2.5 |
-#+TBLFM: $5=vmean($1..$4)
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 ** Annika-Sophie Lienbacher
@@ -168,19 +317,9 @@ Film - Ratatouille
 :EMAIL: [[mailto: Annika-Sophie Lienbacher <Annika-Sophie.Lienbacher@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Annika-Sophie_Lienbacher.html
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
-
-
-*** Note Annika-Sophie Lienbacher
-|-----------+-------------+-----+-----------+------------|
-| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
-|-----------+-------------+-----+-----------+------------|
-|         2 |           3 |   2 |         3 |        2.5 |
-#+TBLFM: $5=vmean($1..$4)
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 ** Alexander Loipold
@@ -188,19 +327,9 @@ Film - Ratatouille
 :EMAIL: [[mailto: Alexander Loipold <Alexander.Loipold@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Alexander_Loipold.html
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
-
-
-*** Note Alexander Loipold
-|-----------+-------------+-----+-----------+------------|
-| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
-|-----------+-------------+-----+-----------+------------|
-|         2 |           3 |   2 |         3 |        2.5 |
-#+TBLFM: $5=vmean($1..$4)
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 ** Andreas Meisl
@@ -208,19 +337,9 @@ Film - Ratatouille
 :EMAIL: [[mailto: Andreas Meisl <Andreas.Meisl@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Andreas_Meisl.html
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
-
-
-*** Note Andreas Meisl
-|-----------+-------------+-----+-----------+------------|
-| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
-|-----------+-------------+-----+-----------+------------|
-|         2 |           3 |   2 |         3 |        2.5 |
-#+TBLFM: $5=vmean($1..$4)
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 ** Nikola Moser
@@ -228,39 +347,9 @@ Film - Ratatouille
 :EMAIL: [[mailto: Nikola Moser <Nikola.Moser@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Nikola_Moser.html
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
-
-
-*** Note Nikola Moser
-|-----------+-------------+-----+-----------+------------|
-| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
-|-----------+-------------+-----+-----------+------------|
-|         2 |           3 |   2 |         3 |        2.5 |
-#+TBLFM: $5=vmean($1..$4)
-
-
-** Maid Mujkic
-:PROPERTIES:
-:EMAIL: [[mailto: Maid Mujkic <Maid.Mujkic@golling.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Maid_Mujkic.html
-:END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
-
-
-*** Note Maid Mujkic
-|-----------+-------------+-----+-----------+------------|
-| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
-|-----------+-------------+-----+-----------+------------|
-|         2 |           3 |   2 |         3 |        2.5 |
-#+TBLFM: $5=vmean($1..$4)
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 ** Josip Perkovic
@@ -268,19 +357,9 @@ Film - Ratatouille
 :EMAIL: [[mailto: Josip Perkovic <Josip.Perkovic@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Josip_Perkovic.html
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
-
-
-*** Note Josip Perkovic
-|-----------+-------------+-----+-----------+------------|
-| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
-|-----------+-------------+-----+-----------+------------|
-|         2 |           3 |   2 |         3 |        2.5 |
-#+TBLFM: $5=vmean($1..$4)
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 ** Anna Pichler
@@ -288,19 +367,9 @@ Film - Ratatouille
 :EMAIL: [[mailto: Anna Pichler <Anna.Pichler@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Anna_Pichler.html
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
-
-
-*** Note Anna Pichler
-|-----------+-------------+-----+-----------+------------|
-| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
-|-----------+-------------+-----+-----------+------------|
-|         2 |           3 |   2 |         3 |        2.5 |
-#+TBLFM: $5=vmean($1..$4)
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 ** Lukas Rettenbacher
@@ -308,19 +377,9 @@ Film - Ratatouille
 :EMAIL: [[mailto: Lukas Rettenbacher <Lukas.Rettenbacher@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Lukas_Rettenbacher.html
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
-
-
-*** Note Lukas Rettenbacher
-|-----------+-------------+-----+-----------+------------|
-| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
-|-----------+-------------+-----+-----------+------------|
-|         2 |           3 |   2 |         3 |        2.5 |
-#+TBLFM: $5=vmean($1..$4)
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 ** Sebastian Rettenbacher
@@ -328,19 +387,9 @@ Film - Ratatouille
 :EMAIL: [[mailto: Sebastian Rettenbacher <Sebastian.Rettenbacher@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Sebastian_Rettenbacher.html
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
-
-
-*** Note Sebastian Rettenbacher
-|-----------+-------------+-----+-----------+------------|
-| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
-|-----------+-------------+-----+-----------+------------|
-|         2 |           3 |   2 |         3 |        2.5 |
-#+TBLFM: $5=vmean($1..$4)
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 ** Mia Russegger
@@ -348,19 +397,9 @@ Film - Ratatouille
 :EMAIL: [[mailto: Mia Russegger <Mia.Russegger@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Mia_Russegger.html
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
-
-
-*** Note Mia Russegger
-|-----------+-------------+-----+-----------+------------|
-| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
-|-----------+-------------+-----+-----------+------------|
-|         2 |           3 |   2 |         3 |        2.5 |
-#+TBLFM: $5=vmean($1..$4)
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 ** Melanie Schröcker
@@ -368,19 +407,9 @@ Film - Ratatouille
 :EMAIL: [[mailto: Melanie Schröcker <Melanie.Schröcker@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Melanie_Schröcker.html
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
-
-
-*** Note Melanie Schröcker
-|-----------+-------------+-----+-----------+------------|
-| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
-|-----------+-------------+-----+-----------+------------|
-|         2 |           3 |   2 |         3 |        2.5 |
-#+TBLFM: $5=vmean($1..$4)
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 ** Hannah Seiwald
@@ -388,19 +417,9 @@ Film - Ratatouille
 :EMAIL: [[mailto: Hannah Seiwald <Hannah.Seiwald@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Hannah_Seiwald.html
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
-
-
-*** Note Hannah Seiwald
-|-----------+-------------+-----+-----------+------------|
-| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
-|-----------+-------------+-----+-----------+------------|
-|         2 |           3 |   2 |         3 |        2.5 |
-#+TBLFM: $5=vmean($1..$4)
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 ** Thomas Siller
@@ -408,19 +427,9 @@ Film - Ratatouille
 :EMAIL: [[mailto: Thomas Siller <Thomas.Siller@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Thomas_Siller.html
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
-
-
-*** Note Thomas Siller
-|-----------+-------------+-----+-----------+------------|
-| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
-|-----------+-------------+-----+-----------+------------|
-|         2 |           3 |   2 |         3 |        2.5 |
-#+TBLFM: $5=vmean($1..$4)
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 ** Theresa Sunkler
@@ -428,39 +437,9 @@ Film - Ratatouille
 :EMAIL: [[mailto: Theresa Sunkler <Theresa.Sunkler@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Theresa_Sunkler.html
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
-
-
-*** Note Theresa Sunkler
-|-----------+-------------+-----+-----------+------------|
-| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
-|-----------+-------------+-----+-----------+------------|
-|         2 |           3 |   2 |         3 |        2.5 |
-#+TBLFM: $5=vmean($1..$4)
-
-
-** Yasir Tigli
-:PROPERTIES:
-:EMAIL: [[mailto: Yasir Tigli <Yasir.Tigli@golling.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Yasir_Tigli.html
-:END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
-
-
-*** Note Yasir Tigli
-|-----------+-------------+-----+-----------+------------|
-| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
-|-----------+-------------+-----+-----------+------------|
-|         2 |           3 |   2 |         3 |        2.5 |
-#+TBLFM: $5=vmean($1..$4)
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 ** Celine Zuchristian
@@ -468,20 +447,9 @@ Film - Ratatouille
 :EMAIL: [[mailto: Celine Zuchristian <Celine.Zuchristian@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Celine_Zuchristian.html
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
-
-
-*** Note Celine Zuchristian
-|-----------+-------------+-----+-----------+------------|
-| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
-|-----------+-------------+-----+-----------+------------|
-|         2 |           3 |   2 |         3 |        2.5 |
-#+TBLFM: $5=vmean($1..$4)
-
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 

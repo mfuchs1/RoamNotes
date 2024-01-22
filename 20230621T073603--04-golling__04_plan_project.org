@@ -98,8 +98,11 @@ CLOSED: [2023-12-17 So 15:01] SCHEDULED: <2023-12-11 Mo>
 - State "DONE"       from              [2023-12-17 So 15:01]
 :END:
 
-** [[denote:20230711T003933][[SW15] Gott wird Mensch]]
-SCHEDULED: <2023-12-18 Mo>
+** DONE [[denote:20230711T003933][[SW15] Gott wird Mensch]]
+CLOSED: [2024-01-05 Fr 18:44] SCHEDULED: <2023-12-18 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-01-05 Fr 18:44]
+:END:
 
 ** DONE [[denote:20230711T120821][[SW16] Weihnachtsferien]]
 CLOSED: [2023-12-25 Mo 23:01] SCHEDULED: <2023-12-25 Mo>
@@ -107,21 +110,35 @@ CLOSED: [2023-12-25 Mo 23:01] SCHEDULED: <2023-12-25 Mo>
 - State "DONE"       from              [2023-12-25 Mo 23:01]
 :END:
 
-** [[denote:20230711T004254][[SW17] Naturwissenschaft Theologie]]
-SCHEDULED: <2024-01-01 Mo>
+** DONE [[denote:20230711T004254][[SW17] Naturwissenschaft Theologie]]
+CLOSED: [2024-01-05 Fr 18:44] SCHEDULED: <2024-01-01 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-01-05 Fr 18:44]
+:END:
 
-** [[denote:20230711T004403][[SW18] Glaube und Kunst]]
-SCHEDULED: <2024-01-08 Mo>
+** DONE [[denote:20230711T004403][[SW18] Glaube und Kunst]]
+CLOSED: [2024-01-14 So 21:53] SCHEDULED: <2024-01-08 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-01-14 So 21:53]
+:END:
 
-** [[denote:20230711T004435][[SW19] Glaube und POP-Kultur]]
+** DONE [[denote:20230711T004435][[SW19] Glaube und POP-Kultur]]
+CLOSED: [2024-01-21 So 16:53] SCHEDULED: <2024-01-15 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-01-21 So 16:53]
+:END:
 
 ** [[denote:20230711T004503][[SW20] Philosophie]]
+SCHEDULED: <2024-01-22 Mo>
 
 ** [[denote:20230711T004531][[SW21] Philosophie - Teil 2]]
+SCHEDULED: <2024-01-29 Mo>
 
 ** [[denote:20230711T004603][[SW22] Film (Semester)]]
+SCHEDULED: <2024-02-05 Mo>
 
 ** [[denote:20230711T140703][[SW23] Semesterferien]]
+SCHEDULED: <2024-02-12 Mo>
 
 ** [[denote:20230711T004656][[SW24] Geltende Normen / persönliche Entscheidungen]]
 

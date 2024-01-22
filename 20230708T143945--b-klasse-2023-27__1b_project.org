@@ -3,6 +3,7 @@
 #+filetags:   :1b:Project:
 #+identifier: 20230708T143945
 #+CATEGORY: golling
+#+STARTUP: showall
 #+LANGUAGE: de
 #+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
 #+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) NEXT(x) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) CANCELED(c@)
@@ -18,11 +19,17 @@
 
 
 * 1b 12:30-13:20
+:PROPERTIES:
+:ID:       d1a8103e-d94e-4abe-868e-0dc7c88401b5
+:END:
 <%%(org-class 2023 9 12 2024 7 6 2 52)>
 
 Kapitel 2
 
 * 1b 07:45-08:35
+:PROPERTIES:
+:ID:       22eebb3a-fcdf-446b-8c02-adab50b5c75e
+:END:
 <%%(org-class 2023 9 15 2024 7 9 5 52)>
 
 Kapitel 2
@@ -57,9 +64,9 @@ Gute Gedanken / Ist da jemand?
 | Pia       | Stoß          | [[Pia Stoß][Pia Stoß]]             |      |           |      |     |
 | Illija    | Zivkovic      | [[Illija Zivkovic][Illija Zivkovic]]      |      |           |      |     |
 |-----------+---------------+----------------------+------+-----------+------+-----|
-#+TBLFM: $4=vmean($5..$>)
+#+TBLFM: $4=vmean($5..$>);%.0f
 #+TBLFM: $3='(concat "[[" $1 " " $2 "][" $1 " " $2 "]]")
-#+TBLFM: $5='(identity remote(2021-22-Mitarbeit,@@#$2))
+#+TBLFM: $5='(identity remote(Mitarbeit,@@#$2))
 
 #+BEGIN_SRC python :var table=2021-students :results output raw
   print('* Mitarbeit')
@@ -71,13 +78,15 @@ Gute Gedanken / Ist da jemand?
       print(':PROPERTIES:')
       print(':EMAIL: ' '[[mailto: ' + first + ' ' + last + ' <' + email + '>]]')
       print(':EXPORT_FILE_NAME: ' '~/RoamNotes/exports/'  + first +  '_'  + last +  '.html')
+      print(':ID: ' + first + '' + last + '')
       print(':END: ')
+      print('#+Name: ' + first + '' + last + '')
+      print('|-------+-------+------+---------|')
+      print('| Datum | Topic | Note | Notizen |')
+      print('|-------+-------+------+---------|')
       print('\n')
-      print('|-----------------------+-----------+-------------------------+---------------|')
-      print('| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |')
-      print('|-----------------------+-----------+-------------------------+---------------|')
-      print('\n')
-      print('*** Note ' + first + ' ' + last)
+      print('*** Note ' + first + ' ' + last + '')
+      print('#+Name: Note_' + first + '' + last + '')
       print('|-----------+-------------+-----+-----------+------------|')
       print('| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |')
       print('|-----------+-------------+-----+-----------+------------|')
@@ -92,15 +101,16 @@ Gute Gedanken / Ist da jemand?
 :PROPERTIES:
 :EMAIL: [[mailto: Julia Anthofer <Julia.Anthofer@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Julia_Anthofer.html
+:ID: JuliaAnthofer
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+#+Name: JuliaAnthofer
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Julia Anthofer
+#+Name: Note_JuliaAnthofer
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -112,15 +122,16 @@ Gute Gedanken / Ist da jemand?
 :PROPERTIES:
 :EMAIL: [[mailto: Marko Davidovic <Marko.Davidovic@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Marko_Davidovic.html
+:ID: MarkoDavidovic
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+#+Name: MarkoDavidovic
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Marko Davidovic
+#+Name: Note_MarkoDavidovic
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -132,15 +143,16 @@ Gute Gedanken / Ist da jemand?
 :PROPERTIES:
 :EMAIL: [[mailto: Simon Hager <Simon.Hager@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Simon_Hager.html
+:ID: SimonHager
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+#+Name: SimonHager
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Simon Hager
+#+Name: Note_SimonHager
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -152,15 +164,16 @@ Gute Gedanken / Ist da jemand?
 :PROPERTIES:
 :EMAIL: [[mailto: Emma Hansmann <Emma.Hansmann@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Emma_Hansmann.html
+:ID: EmmaHansmann
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+#+Name: EmmaHansmann
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Emma Hansmann
+#+Name: Note_EmmaHansmann
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -172,15 +185,16 @@ Gute Gedanken / Ist da jemand?
 :PROPERTIES:
 :EMAIL: [[mailto: Magdalena Höllbacher <Magdalena.Höllbacher@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Magdalena_Höllbacher.html
+:ID: MagdalenaHöllbacher
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+#+Name: MagdalenaHöllbacher
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Magdalena Höllbacher
+#+Name: Note_MagdalenaHöllbacher
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -192,15 +206,16 @@ Gute Gedanken / Ist da jemand?
 :PROPERTIES:
 :EMAIL: [[mailto: Julia Höllweger <Julia.Höllweger@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Julia_Höllweger.html
+:ID: JuliaHöllweger
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+#+Name: JuliaHöllweger
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Julia Höllweger
+#+Name: Note_JuliaHöllweger
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -212,15 +227,16 @@ Gute Gedanken / Ist da jemand?
 :PROPERTIES:
 :EMAIL: [[mailto: Rudolf Jochinger <Rudolf.Jochinger@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Rudolf_Jochinger.html
+:ID: RudolfJochinger
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+#+Name: RudolfJochinger
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Rudolf Jochinger
+#+Name: Note_RudolfJochinger
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -232,15 +248,16 @@ Gute Gedanken / Ist da jemand?
 :PROPERTIES:
 :EMAIL: [[mailto: Laura Klausner <Laura.Klausner@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Laura_Klausner.html
+:ID: LauraKlausner
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+#+Name: LauraKlausner
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Laura Klausner
+#+Name: Note_LauraKlausner
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -252,15 +269,16 @@ Gute Gedanken / Ist da jemand?
 :PROPERTIES:
 :EMAIL: [[mailto: Sophia Korten <Sophia.Korten@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Sophia_Korten.html
+:ID: SophiaKorten
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+#+Name: SophiaKorten
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Sophia Korten
+#+Name: Note_SophiaKorten
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -272,15 +290,16 @@ Gute Gedanken / Ist da jemand?
 :PROPERTIES:
 :EMAIL: [[mailto: Lisa Kronreif <Lisa.Kronreif@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Lisa_Kronreif.html
+:ID: LisaKronreif
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+#+Name: LisaKronreif
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Lisa Kronreif
+#+Name: Note_LisaKronreif
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -292,15 +311,16 @@ Gute Gedanken / Ist da jemand?
 :PROPERTIES:
 :EMAIL: [[mailto: Peter Kronreif <Peter.Kronreif@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Peter_Kronreif.html
+:ID: PeterKronreif
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+#+Name: PeterKronreif
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Peter Kronreif
+#+Name: Note_PeterKronreif
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -312,15 +332,16 @@ Gute Gedanken / Ist da jemand?
 :PROPERTIES:
 :EMAIL: [[mailto: Anna-Mae Leierer <Anna-Mae.Leierer@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Anna-Mae_Leierer.html
+:ID: Anna-MaeLeierer
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+#+Name: Anna-MaeLeierer
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Anna-Mae Leierer
+#+Name: Note_Anna-MaeLeierer
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -332,15 +353,16 @@ Gute Gedanken / Ist da jemand?
 :PROPERTIES:
 :EMAIL: [[mailto: Neureiter Benjamin <Neureiter.Benjamin@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Neureiter_Benjamin.html
+:ID: NeureiterBenjamin
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+#+Name: NeureiterBenjamin
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Neureiter Benjamin
+#+Name: Note_NeureiterBenjamin
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -352,15 +374,16 @@ Gute Gedanken / Ist da jemand?
 :PROPERTIES:
 :EMAIL: [[mailto: Paula Neureiter <Paula.Neureiter@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Paula_Neureiter.html
+:ID: PaulaNeureiter
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+#+Name: PaulaNeureiter
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Paula Neureiter
+#+Name: Note_PaulaNeureiter
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -372,15 +395,16 @@ Gute Gedanken / Ist da jemand?
 :PROPERTIES:
 :EMAIL: [[mailto: Raphael Neureiter <Raphael.Neureiter@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Raphael_Neureiter.html
+:ID: RaphaelNeureiter
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+#+Name: RaphaelNeureiter
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Raphael Neureiter
+#+Name: Note_RaphaelNeureiter
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -392,15 +416,16 @@ Gute Gedanken / Ist da jemand?
 :PROPERTIES:
 :EMAIL: [[mailto: Sebastian Neureiter <Sebastian.Neureiter@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Sebastian_Neureiter.html
+:ID: SebastianNeureiter
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+#+Name: SebastianNeureiter
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Sebastian Neureiter
+#+Name: Note_SebastianNeureiter
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -412,15 +437,16 @@ Gute Gedanken / Ist da jemand?
 :PROPERTIES:
 :EMAIL: [[mailto: Sophie Schieferer <Sophie.Schieferer@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Sophie_Schieferer.html
+:ID: SophieSchieferer
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+#+Name: SophieSchieferer
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Sophie Schieferer
+#+Name: Note_SophieSchieferer
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -432,15 +458,16 @@ Gute Gedanken / Ist da jemand?
 :PROPERTIES:
 :EMAIL: [[mailto: Klara Schmitzberger <Klara.Schmitzberger@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Klara_Schmitzberger.html
+:ID: KlaraSchmitzberger
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+#+Name: KlaraSchmitzberger
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Klara Schmitzberger
+#+Name: Note_KlaraSchmitzberger
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -452,15 +479,16 @@ Gute Gedanken / Ist da jemand?
 :PROPERTIES:
 :EMAIL: [[mailto: Elisabeth Seigmann <Elisabeth.Seigmann@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Elisabeth_Seigmann.html
+:ID: ElisabethSeigmann
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+#+Name: ElisabethSeigmann
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Elisabeth Seigmann
+#+Name: Note_ElisabethSeigmann
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -472,15 +500,16 @@ Gute Gedanken / Ist da jemand?
 :PROPERTIES:
 :EMAIL: [[mailto: Bianca Spagolla <Bianca.Spagolla@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Bianca_Spagolla.html
+:ID: BiancaSpagolla
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+#+Name: BiancaSpagolla
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Bianca Spagolla
+#+Name: Note_BiancaSpagolla
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -492,15 +521,16 @@ Gute Gedanken / Ist da jemand?
 :PROPERTIES:
 :EMAIL: [[mailto: Pia Stoß <Pia.Stoß@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Pia_Stoß.html
+:ID: PiaStoß
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+#+Name: PiaStoß
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Pia Stoß
+#+Name: Note_PiaStoß
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -512,22 +542,21 @@ Gute Gedanken / Ist da jemand?
 :PROPERTIES:
 :EMAIL: [[mailto: Illija Zivkovic <Illija.Zivkovic@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Illija_Zivkovic.html
+:ID: IllijaZivkovic
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+#+Name: IllijaZivkovic
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Illija Zivkovic
+#+Name: Note_IllijaZivkovic
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
 |         2 |           3 |   2 |         3 |        2.5 |
 #+TBLFM: $5=vmean($1..$4)
-
-
 
 
 
@@ -559,7 +588,7 @@ Gute Gedanken / Ist da jemand?
 | [[Bianca Spagolla][Bianca Spagolla]]      |      |   |   |   |   |   |   |   |   |   |    |    |
 | [[Pia Stoß][Pia Stoß]]             |      |   |   |   |   |   |   |   |   |   |    |    |
 | [[Illija Zivkovic][Illija Zivkovic]]      |      |   |   |   |   |   |   |   |   |   |    |    |
-#+TBLFM: $2=vmean($3..$>)
+#+TBLFM: $2=vmean($3..$>);%.0f
 #+TBLFM: $1='(identity remote(2021-students,@@#$3))
 
 

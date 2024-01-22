@@ -97,8 +97,11 @@ CLOSED: [2023-12-17 So 15:01] SCHEDULED: <2023-12-11 Mo>
 - State "DONE"       from              [2023-12-17 So 15:01]
 :END:
 
-** [[denote:20230619T212125][[SW15] Von Gott sprechen]]
-SCHEDULED: <2023-12-18 Mo>
+** DONE [[denote:20230619T212125][[SW15] Von Gott sprechen]]
+CLOSED: [2024-01-05 Fr 18:43] SCHEDULED: <2023-12-18 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-01-05 Fr 18:43]
+:END:
 
 ** DONE [SW16] Ferien
 CLOSED: [2023-12-25 Mo 23:01] SCHEDULED: <2023-12-25 Mo>
@@ -107,27 +110,41 @@ CLOSED: [2023-12-25 Mo 23:01] SCHEDULED: <2023-12-25 Mo>
 :END:
 
 
-** [SW17] Ferien_2
-SCHEDULED: <2024-01-01 Mo>
+** DONE [SW17] Ferien_2
+CLOSED: [2024-01-05 Fr 18:44] SCHEDULED: <2024-01-01 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-01-05 Fr 18:44]
+:END:
 
 
-** [[denote:20230619T212222][[SW18] Übergang: Gott zeigt sich den Menschen]]
-SCHEDULED: <2024-01-08 Mo>
+** DONE [[denote:20230619T212222][[SW18] Übergang: Gott zeigt sich den Menschen]]
+CLOSED: [2024-01-14 So 21:53] SCHEDULED: <2024-01-08 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-01-14 So 21:53]
+:END:
 
 
-** [[denote:20230619T212302][[SW19] Abraham und Sara – Gott ruft]]
+** DONE [[denote:20230619T212302][[SW19] Abraham und Sara – Gott ruft]]
+CLOSED: [2024-01-21 So 16:53] SCHEDULED: <2024-01-15 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-01-21 So 16:53]
+:END:
 
 
 ** [[denote:20230619T212337][[SW20] Isaak – Gott prüft]]
+SCHEDULED: <2024-01-22 Mo>
 
 
 ** [[denote:20230619T212407][[SW21] Jakob – Gott streitet]]
+SCHEDULED: <2024-01-29 Mo>
 
 
 ** [[denote:20230619T212439][[SW22] Whg Semester-Stoff / Film]]
+SCHEDULED: <2024-02-05 Mo>
 
 
 ** [SW23] Semesterferien
+SCHEDULED: <2024-02-12 Mo>
 
 
 ** [[denote:20230619T212459][[SW24] Geschichte und Geschichten]]

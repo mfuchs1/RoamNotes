@@ -1,47 +1,43 @@
-:PROPERTIES:
-:ID:       e018aac0-7d36-4df0-9d30-725a8c2fe0c9
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Die Psalmen* -- [[file:Ps_1.html][1]] ...
-[[file:Ps_50.html][50]] [[file:Ps_51.html][51]] *52*
-[[file:Ps_53.html][53]] [[file:Ps_54.html][54]] ...
-[[file:Ps_150.html][150]]
-
---------------
+#+TITLE: Ps 52 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-01-12 Fr 23:41]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 52.html
 
 * Ps 52
-  :PROPERTIES:
-  :CUSTOM_ID: ps-52
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Die Überheblichkeit des Bösen - das Vertrauen des Frommen
-     :PROPERTIES:
-     :CUSTOM_ID: die-überheblichkeit-des-bösen---das-vertrauen-des-frommen
-     :END:
+* Die Überheblichkeit des Bösen - das Vertrauen des Frommen
+
 1 [Für den Chormeister. Ein Weisheitslied Davids,
 
 <<v2>>
 2 als der Edomiter Doëg zu Saul kam und ihm meldete: David ist in das
-Haus des Ahimelech gegangen.] ^{[[#fn1][1]]}\\
+Haus des Ahimelech gegangen.] [fn:1]\\
 \\
 
 <<v3>>
 3 Was rühmst du dich deiner Bosheit, du Mann der Gewalt, /\\
- was prahlst du allzeit vor dem Frommen? ^{[[#fn2][2]]}\\
+ was prahlst du allzeit vor dem Frommen? [fn:2]\\
 \\
 
 <<v4>>
 4 Du Ränkeschmied, du planst Verderben; /\\
- deine Zunge gleicht einem scharfen Messer. ^{[[#fn3][3]]}\\
+ deine Zunge gleicht einem scharfen Messer. [fn:3]\\
 \\
 
 <<v5>>
 5 Du liebst das Böse mehr als das Gute /\\
- und Lüge mehr als wahrhaftige Rede. [Sela] ^{[[#fn4][4]]}\\
+ und Lüge mehr als wahrhaftige Rede. [Sela] [fn:4]\\
 \\
 
 <<v6>>
@@ -52,48 +48,50 @@ Haus des Ahimelech gegangen.] ^{[[#fn1][1]]}\\
 <<v7>>
 7 Darum wird Gott dich verderben für immer, /\\
  dich packen und herausreißen aus deinem Zelt, /\\
- dich entwurzeln aus dem Land der Lebenden. [Sela] ^{[[#fn5][5]]}\\
+ dich entwurzeln aus dem Land der Lebenden. [Sela] [fn:5]\\
 \\
 
 <<v8>>
 8 Gerechte werden es sehen und sich fürchten; /\\
- sie werden über ihn lachen und sagen: ^{[[#fn6][6]]}\\
+ sie werden über ihn lachen und sagen: [fn:6]\\
 \\
 
 <<v9>>
 9 «Seht, das ist der Mann, /\\
  der nicht zu Gott seine Zuflucht nahm; auf seinen großen Reichtum hat
 er sich verlassen /\\
- und auf seinen Frevel gebaut.» ^{[[#fn7][7]]}\\
+ und auf seinen Frevel gebaut.» [fn:7]\\
 \\
 
 <<v10>>
 10 Ich aber bin im Haus Gottes wie ein grünender Ölbaum; /\\
- auf Gottes Huld vertraue ich immer und ewig. ^{[[#fn8][8]]}\\
+ auf Gottes Huld vertraue ich immer und ewig. [fn:8]\\
 \\
 
 <<v11>>
 11 Ich danke dir, Herr, in Ewigkeit; /\\
  denn du hast das alles vollbracht. Ich hoffe auf deinen Namen im Kreis
 der Frommen; /\\
- denn du bist gütig. ^{[[#fn9][9]]}\\
+ denn du bist gütig. [fn:9]\\
 \\
 
-^{[[#fnm1][1]]} ℘ 1 Sam 22,9f
+* Footnotes
 
-^{[[#fnm2][2]]} Text korr. nach S; H erlaubt auch die Übersetzung: Was
+[fn:1] [[file:1.Sam_22.org::v9][1 Sam 22,9f]]
+
+[fn:2] Text korr. nach S; H erlaubt auch die Übersetzung: Was
 rühmst du dich, dass Gottes Huld allezeit (auf deiner Seite) ist.
 
-^{[[#fnm3][3]]} ℘ 59,8; (4-6) 12,3-5
+[fn:3] [[file:Ps_59.org::v8][59,8]]; (4-6) [[file:Ps_12.org::v3][12,3-5]]
 
-^{[[#fnm4][4]]} ℘ Jer 9,4; Joh 3,19f
+[fn:4] [[file:Jer_9.org::v4][Jer 9,4]]; [[file:~/RoamNotes/notes/Bibel/nt/Joh_3.org::v19][Joh 3,19f]]
 
-^{[[#fnm5][5]]} ℘ 27,13; Ijob 18,14
+[fn:5] [[file:Ps_27.org::v13][27,13]]; [[file:Ijob_18.org::v14][Ijob 18,14]]
 
-^{[[#fnm6][6]]} ℘ 58,11; 91,8; Ijob 22,19
+[fn:6] [[file:Ps_58.org::v11][58,11]]; [[file:Ps_91.org::v8][91,8]]; [[file:Ijob_22.org::v19][Ijob 22,19]]
 
-^{[[#fnm7][7]]} ℘ 49,7
+[fn:7] [[file:Ps_49.org::v7][49,7]]
 
-^{[[#fnm8][8]]} ℘ 92,13-16
+[fn:8] [[file:Ps_92.org::v13][92,13-16]]
 
-^{[[#fnm9][9]]} ℘ 54,8
+[fn:9] [[file:Ps_54.org::v8][54,8]]

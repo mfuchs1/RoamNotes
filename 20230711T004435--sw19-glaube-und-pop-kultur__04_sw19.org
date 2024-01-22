@@ -2,14 +2,24 @@
 #+date:       [2023-07-11 Di 00:44]
 #+filetags:   :04:sw19:
 #+identifier: 20230711T004435
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Glaube und POP Kultur.html
 
 
 * Kompetenzbeschreibung
-[[#C5]] Religiöse und weltanschauliche Vielfalt in Gesellschaft und Kultur - Medien, Kunst und Kultur im Kontext religiöser Weltwahrnehmung interpretieren, beurteilen und gestalten können
-[[#C5_KB1]] Die Schüler können Kunst als Möglichkeit religiöser Weltdeutung verstehen und ihr eigenes kreatives Potential entfalten.
+ Religiöse und weltanschauliche Vielfalt in Gesellschaft und Kultur - Medien, Kunst und Kultur im Kontext religiöser Weltwahrnehmung interpretieren, beurteilen und gestalten können
+ Die Schüler können Kunst als Möglichkeit religiöser Weltdeutung verstehen und ihr eigenes kreatives Potential entfalten.
 
 * AH / UH
-[[#C5_UH1]] Religion in der Populärkultur
+Religion in der Populärkultur
 
 * Wiederholung
 
@@ -22,45 +32,29 @@ christlicher Glaube in der POP-Kultur:
  - Radio: Radio Maria, Air1, K-Love, ...
  - ...
 
-Texte aus der Apokalypse; viele verlieren die Hoffnung. Oder soll man das gar nicht thematisieren?
 
-Welche Themen wollen die Scüler der 4A / 4B?
-
-4A:
-[[id:b446d5d2-0c67-49f5-ad28-0fd73931ca65][Philosophie für kinder]]
-
-Philosophische Fragestellungen:
- - Kunst / Arbeit
-   Stoff, Materie, Werkzeug, (vollendetes) Werk
-   Inspiration, Geduld, Zeit, Talent, ...
-   Idee 
-   
- - Freundschaft
-   ...Liebe
-   Arten der Liebe
-   Tugenden
-   Finalität /
-
- - Politik / Gemeinschaft
-
- - Materie / Stoff
-
- - Mensch als lebendiges Wesen / Seele
-   Gefühle
-   Sinne
-   Geist (Vernunft, Wille)
-   
- - Sein: Dasein / Wassein
-   Aristoteles "Metaphysik"
-   Substanz / Finalität
-
- - "philosphie première" - Weisheit / "das Erste Wesen, das ist Religionen Gott nennen"
+ 
+** Das Schöpfungs- und Lebensmotiv
+- Motivierende Leitfragen :: Woher kommt das Leben? Warum bin ich da? Warum bin ich nicht nicht da? Was gibt meinem Leben Sinn?
+  
+- Biblischer Kontext :: Das Leben kommt von Gott (Ps 104); Gott als lebensspendende Kraft (Ez 38; Ez 40); Gott als Bewahrer und Beschützer des Lebens (Ps 23); die Erschaffung der Welt aus dem Nichts (Gen 1); die neue Kreatur Mensch in Jesus Christus (Gal 6,15); die ständige Erneuerung des Menschen (2Kor 4,16).
+  
+- Motivationspotenzial :: Es ist schön zu wissen, da zu sein, genauso gut könnte man ja auch nicht sein, die Freude am Leben ist die Urkraft alles Lebendigen. Das Erleben auch des anderen Lebens lässt erstaunen, dass die Welt existiert, das ist alles nicht selbstverständlich. Die Erfahrung, dass ich mein Leben nicht mir selbst verdanke, lässt mich dankbar werden.
 
 
-[[id:8deae3a8-726d-430a-ad2e-0a13af90fd2e][Kunst_Glaube]]
+** Das Weisheitsmotiv
+- Motivierende Leitfragen :: Warum gibt es eine unsichtbare Ordnung, die Leben erhält? Warum versinkt die Welt nicht im Chaos? Gibt es eine Weltformel, mit deren Hilfe sich systemische Intelligenz erschließen lässt? Was passiert, wenn sich chaotische Kräfte unkontrolliert durchsetzen?
+  
+- Biblischer Kontext :: Gott hat die Welt erschaffen, eine Leben ermöglichende Ordnung und Rationalität bestimmt alle Dinge (Joh 1); Gott garantiert lebenserhaltende Ordnung inmitten einer bedrohten Schöpfung (Gen 8,22); die Weisheit ist verborgen, für den Menschen nicht auffindbar, nur Gott weiß den Weg zu ihr (Ez 28); Die Krise der Erfahrungsweisheit führt zur Sehnsucht nach Offenenbarungsweisheit (Spr 6-9); Christus wird mit der Weisheit identifiziert, gerät aber in größere Spannung zur Welt (Lk 11,49-51); Unmündige, Mühselige und Beladene hingegen erhalten Zugang zur Weisheit Gottes (Mt 11,25-30; 1 Kor 1,26f.); die Weisheit bleibt unerkannt und führt zur Kreuzigung des Herrn (1Kor 2,8).
+  
+- Motivationspotenzial :: Die lebensförderliche, nie gänzlich zu erfassende Ordnungskraft in der Welt ist erstaunlich und entlastend zugleich: Der Mensch muss nicht das Maß aller Dinge sein, die Welt könnte auch ohne ihn existieren, das entlastet, relativiert und beugt Überheblichkeit vor. Gleichzeitig ermöglicht sie die Freude an der Entdeckung dieser (geheimen) Ordnung und ermutigt den Menschen zum Ausleben seiner eigenen Rationalität und zum entdeckenden Lernen.
 
-4B
-[[id:c7dbb513-0b61-4ee1-b299-9cd372b5e19c][Sekten]]
-
+** Das Wundermotiv
+- Motivierende Leitfragen :: Woher kommen unvorhersehbare Ereignisse? Wieso kann ich nicht alles rational erklären, was dennoch geschieht? Was sind das für Ereignisse, die die Naturgesetze durchbrechen? Wieso geschieht manches wie ein Wunder?
+  
+- Biblischer Kontext :: Gott erscheint Mose im brennenden Dornbusch, der nicht verzehrt wird
+  (Ex 3); der Prophet Elia wird entrückt in den Himmel mit einem feurigen Wagen (2Kön 2); das Volk Israel wird wunderhaft befreit (Ex 14); Jesus und seine Jünger vollziehen Wunder durch Handlung (Mk 5,34;10,52; Lk 17,19 etc.) oder durch Wort (Mk 11,22-25, 1Kor 13,2) und als Protest gegen das Leid (1Kor 12,28); durch das Wunder der Auferstehung wird der Tod besiegt (1Kor 15; Lk 24); der Glaube versetzt Berge (Mk 11,22).
+  
+- Motivationspotenzial :: Das Unvorhergesehene kann helfen, der Glaube daran spendet Trost und Hoffnung, dass niemand von vornherein aufgegeben ist, das Wundererleben gehört elementar zum Leben dazu. Es kann nicht alles allein durch die Ratio beziehungsweise die binäre Logik erklärt werden.
 
 * Hefteintrag

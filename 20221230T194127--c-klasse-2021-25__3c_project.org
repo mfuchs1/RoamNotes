@@ -2,6 +2,7 @@
 #+date:       [2022-12-30 Fr 19:41]
 #+filetags:   :3c:Project:
 #+identifier: 20221230T194127
+#+STARTUP: showall
 #+CATEGORY: golling
 #+LANGUAGE: de
 #+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
@@ -24,7 +25,7 @@ Film Ratatouille
 * 3c 10:40-11:30
 <%%(org-class 2023 9 15 2024 7 9 5 52)>
 
-(entfällt) Wer kann statt mir mit der Klasse zum Gottesdienst gehen.
+Kahoot / ...
 
 * 3C [KV Daniela Schwaighofer]
 
@@ -69,12 +70,12 @@ Film Ratatouille
       print(':EMAIL: ' '[[mailto: ' + first + ' ' + last + ' <' + email + '>]]')
       print(':EXPORT_FILE_NAME: ' '~/RoamNotes/exports/'  + first +  '_'  + last +  '.html')
       print(':END: ')
+      print('|-------+-------+------+---------|')
+      print('| Datum | Topic | Note | Notizen |')
+      print('|-------+-------+------+---------|')
       print('\n')
-      print('|-----------------------+-----------+-------------------------+---------------|')
-      print('| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |')
-      print('|-----------------------+-----------+-------------------------+---------------|')
-      print('\n')
-      print('*** Note ' + first + ' ' + last)
+      print('*** Note ' + first + ' ' + last + '')
+      print('#+Name: Note_' + first + '' + last + '')
       print('|-----------+-------------+-----+-----------+------------|')
       print('| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |')
       print('|-----------+-------------+-----+-----------+------------|')
@@ -90,14 +91,13 @@ Film Ratatouille
 :EMAIL: [[mailto: Leonie Auer <Leonie.Auer@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Leonie_Auer.html
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Leonie Auer
+#+Name: Note_LeonieAuer
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -110,14 +110,13 @@ Film Ratatouille
 :EMAIL: [[mailto: Selena Chmelik <Selena.Chmelik@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Selena_Chmelik.html
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Selena Chmelik
+#+Name: Note_SelenaChmelik
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -130,14 +129,13 @@ Film Ratatouille
 :EMAIL: [[mailto: Sarah Dick <Sarah.Dick@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Sarah_Dick.html
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Sarah Dick
+#+Name: Note_SarahDick
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -150,14 +148,13 @@ Film Ratatouille
 :EMAIL: [[mailto: Maximilian Eberl <Maximilian.Eberl@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Maximilian_Eberl.html
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Maximilian Eberl
+#+Name: Note_MaximilianEberl
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -170,14 +167,13 @@ Film Ratatouille
 :EMAIL: [[mailto: Ana Ferreira Leite <Ana.Ferreira Leite@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Ana_Ferreira Leite.html
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Ana Ferreira Leite
+#+Name: Note_AnaFerreira Leite
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -190,14 +186,13 @@ Film Ratatouille
 :EMAIL: [[mailto: Lotta Huber <Lotta.Huber@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Lotta_Huber.html
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Lotta Huber
+#+Name: Note_LottaHuber
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -210,14 +205,13 @@ Film Ratatouille
 :EMAIL: [[mailto: Sena Korkmaz <Sena.Korkmaz@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Sena_Korkmaz.html
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Sena Korkmaz
+#+Name: Note_SenaKorkmaz
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -230,14 +224,13 @@ Film Ratatouille
 :EMAIL: [[mailto: Anja Lindenthaler <Anja.Lindenthaler@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Anja_Lindenthaler.html
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Anja Lindenthaler
+#+Name: Note_AnjaLindenthaler
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -250,14 +243,13 @@ Film Ratatouille
 :EMAIL: [[mailto: Anna Loidl <Anna.Loidl@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Anna_Loidl.html
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Anna Loidl
+#+Name: Note_AnnaLoidl
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -270,14 +262,13 @@ Film Ratatouille
 :EMAIL: [[mailto: Karlo Lukacevic <Karlo.Lukacevic@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Karlo_Lukacevic.html
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Karlo Lukacevic
+#+Name: Note_KarloLukacevic
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -290,14 +281,13 @@ Film Ratatouille
 :EMAIL: [[mailto: Mufidin Matkic <Mufidin.Matkic@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Mufidin_Matkic.html
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Mufidin Matkic
+#+Name: Note_MufidinMatkic
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -310,14 +300,13 @@ Film Ratatouille
 :EMAIL: [[mailto: Paulina Montellano <Paulina.Montellano@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Paulina_Montellano.html
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Paulina Montellano
+#+Name: Note_PaulinaMontellano
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -330,14 +319,13 @@ Film Ratatouille
 :EMAIL: [[mailto: Tobias Neureiter <Tobias.Neureiter@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Tobias_Neureiter.html
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Tobias Neureiter
+#+Name: Note_TobiasNeureiter
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -350,14 +338,13 @@ Film Ratatouille
 :EMAIL: [[mailto: Serah Prömer <Serah.Prömer@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Serah_Prömer.html
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Serah Prömer
+#+Name: Note_SerahPrömer
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -370,14 +357,13 @@ Film Ratatouille
 :EMAIL: [[mailto: Melanie Scherer <Melanie.Scherer@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Melanie_Scherer.html
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Melanie Scherer
+#+Name: Note_MelanieScherer
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -390,14 +376,13 @@ Film Ratatouille
 :EMAIL: [[mailto: Ivana Sokic <Ivana.Sokic@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Ivana_Sokic.html
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Ivana Sokic
+#+Name: Note_IvanaSokic
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -410,14 +395,13 @@ Film Ratatouille
 :EMAIL: [[mailto: Lauren Steinberger <Lauren.Steinberger@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Lauren_Steinberger.html
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Lauren Steinberger
+#+Name: Note_LaurenSteinberger
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -430,14 +414,13 @@ Film Ratatouille
 :EMAIL: [[mailto: Jonuz Velijoski <Jonuz.Velijoski@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Jonuz_Velijoski.html
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Jonuz Velijoski
+#+Name: Note_JonuzVelijoski
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -450,14 +433,13 @@ Film Ratatouille
 :EMAIL: [[mailto: Hannah Vorderleitner <Hannah.Vorderleitner@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Hannah_Vorderleitner.html
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Hannah Vorderleitner
+#+Name: Note_HannahVorderleitner
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -470,14 +452,13 @@ Film Ratatouille
 :EMAIL: [[mailto: Jakob Wallinger <Jakob.Wallinger@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Jakob_Wallinger.html
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Jakob Wallinger
+#+Name: Note_JakobWallinger
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -490,14 +471,13 @@ Film Ratatouille
 :EMAIL: [[mailto: Katharina Wallinger <Katharina.Wallinger@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Katharina_Wallinger.html
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Katharina Wallinger
+#+Name: Note_KatharinaWallinger
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -510,14 +490,13 @@ Film Ratatouille
 :EMAIL: [[mailto: Paula Weißenbacher <Paula.Weißenbacher@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Paula_Weißenbacher.html
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Paula Weißenbacher
+#+Name: Note_PaulaWeißenbacher
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -530,14 +509,13 @@ Film Ratatouille
 :EMAIL: [[mailto: Yaren Yavuzer <Yaren.Yavuzer@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Yaren_Yavuzer.html
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Yaren Yavuzer
+#+Name: Note_YarenYavuzer
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|

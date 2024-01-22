@@ -96,8 +96,11 @@ CLOSED: [2023-12-17 So 15:01] SCHEDULED: <2023-12-11 Mo>
 - State "DONE"       from              [2023-12-17 So 15:01]
 :END:
 
-** [[denote:20230619T091059][[SW15] Jesus ist geboren / Weihnachtsgottesdienst]]
-SCHEDULED: <2023-12-18 Mo>
+** DONE [[denote:20230619T091059][[SW15] Jesus ist geboren / Weihnachtsgottesdienst]]
+CLOSED: [2024-01-05 Fr 18:43] SCHEDULED: <2023-12-18 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-01-05 Fr 18:43]
+:END:
 
 ** DONE [SW16] Ferien
 SCHEDULED: <2023-12-25 Mo>
@@ -105,18 +108,29 @@ SCHEDULED: <2023-12-25 Mo>
 ** DONE [SW17] Ferien
 SCHEDULED: <2024-01-01 Mo>
 
-** [[denote:20230619T091440][[SW18] Jesus, der Mensch - Jesus der Christus]]
-SCHEDULED: <2024-01-08 Mo>
+** DONE [[denote:20230619T091440][[SW18] Jesus, der Mensch - Jesus der Christus]]
+CLOSED: [2024-01-14 So 21:53] SCHEDULED: <2024-01-08 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-01-14 So 21:53]
+:END:
 
-** [[denote:20230619T091611][[SW19] Bibel: Mit der Bibel arbeiten]]
+** DONE [[denote:20230619T091611][[SW19] Bibel: Mit der Bibel arbeiten]]
+CLOSED: [2024-01-21 So 16:53] SCHEDULED: <2024-01-15 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-01-21 So 16:53]
+:END:
 
 ** [[denote:20230619T091723][[SW20] Für einen treuen Freund gibt es keinen Preis]]
+SCHEDULED: <2024-01-22 Mo>
 
 ** [[denote:20230619T091826][[SW21] David und Jonathan]]
+SCHEDULED: <2024-01-29 Mo>
 
 ** [[denote:20230619T091911][[SW22] Wiederholung / Film]]
+SCHEDULED: <2024-02-05 Mo>
 
-** DONE [SW23] Semsterferien
+** [SW23] Semsterferien
+SCHEDULED: <2024-02-12 Mo>
 
 ** [[denote:20230619T092006][[SW24] Eine Kirche die uns verbindet / Menschen beten]]
 

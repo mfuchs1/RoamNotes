@@ -98,8 +98,11 @@ CLOSED: [2023-12-17 So 15:01] SCHEDULED: <2023-12-11 Mo>
 - State "DONE"       from              [2023-12-17 So 15:01]
 :END:
 
-** [[denote:20230624T194213][[SW15] Biblische Schöpfungserzählungen]] 
-SCHEDULED: <2023-12-18 Mo>
+** DONE [[denote:20230624T194213][[SW15] Biblische Schöpfungserzählungen]] 
+CLOSED: [2024-01-05 Fr 18:44] SCHEDULED: <2023-12-18 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-01-05 Fr 18:44]
+:END:
 
 ** DONE [[denote:20230624T232959][[SW16] Eine mythische Erzählung deuten]] (Ferien)
 CLOSED: [2023-12-25 Mo 23:01] SCHEDULED: <2023-12-25 Mo>
@@ -107,21 +110,35 @@ CLOSED: [2023-12-25 Mo 23:01] SCHEDULED: <2023-12-25 Mo>
 - State "DONE"       from              [2023-12-25 Mo 23:01]
 :END:
 
-** [[denote:20230624T233108][[SW17] Schöpfungsmythen andere Religionen und Kulturen]] (Ferien)
-SCHEDULED: <2024-01-01 Mo>
+** DONE [[denote:20230624T233108][[SW17] Schöpfungsmythen andere Religionen und Kulturen]] (Ferien)
+CLOSED: [2024-01-05 Fr 18:44] SCHEDULED: <2024-01-01 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-01-05 Fr 18:44]
+:END:
 
-** [[denote:20230624T233349][[SW18] Übungsteil Kap 2]]
-SCHEDULED: <2024-01-08 Mo>
+** DONE [[denote:20230624T233349][[SW18] Übungsteil Kap 2]]
+CLOSED: [2024-01-14 So 21:53] SCHEDULED: <2024-01-08 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-01-14 So 21:53]
+:END:
 
-** [[denote:20230624T234138][[SW19] Grenzenlose Freiheit]]
+** DONE [[denote:20230624T234138][[SW19] Grenzenlose Freiheit]]
+CLOSED: [2024-01-21 So 16:53] SCHEDULED: <2024-01-15 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-01-21 So 16:53]
+:END:
 
 ** [[denote:20230624T234237][[SW20] Die Sehnsucht nach Freiheit]]
+SCHEDULED: <2024-01-22 Mo>
 
 ** [[denote:20230624T234513][[SW21] Befreiender Glaube]]
+SCHEDULED: <2024-01-29 Mo>
 
 ** [[denote:20230624T234706][[SW22] Israel ein unterdrücktes Volk / Exodus Wunder der Befreiung]]
+SCHEDULED: <2024-02-05 Mo>
 
-** [[denote:20230624T234950][[SW23] Eine bleibende Erfahrung]]
+** [[denote:20230624T234950][[SW23] Eine bleibende Erfahrung]] (Semsterferien)
+SCHEDULED: <2024-02-12 Mo>
 
 ** [[denote:20230624T235040][[SW24] Dekalog - die Freiheit sichern]]
 

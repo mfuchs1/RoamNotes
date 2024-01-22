@@ -1,0 +1,16 @@
+#+title:      Link to a heading
+#+date:       [2024-01-20 Sa 21:55]
+#+filetags:   :test:
+#+identifier: 20240120T215526
+
+hier ein Text
+
+* first heading
+:PROPERTIES:
+:ID:       d4bfbfc3-9cff-44b2-9ee9-9cfe1f708c8b
+:END:
+
+* second heading
+:PROPERTIES:
+:ID:       f1cd01b3-8f38-4e4d-a461-2ec00beb5174
+:END:

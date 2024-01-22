@@ -1,8 +1,9 @@
 #+title:      Religionsunterricht
 #+date:       [2023-12-06 Mi 08:44]
-#+filetags:   :meta:
+#+filetags:   :meta:Project:
 #+identifier: 20231206T084441
-
+#+CATEGORY: RU_meta
+#+STARTUP: showall
 
 * Gedanken
 
@@ -60,8 +61,31 @@ Und diese Weihnachten kann ich meinen Kindern eigentlich nix schenken, da mein K
 
 Und das alles, gepaart mit der depperten Situation in der Schule, ist einfach zu viel für mich.
 
+** [[denote:20230711T004403][[SW18] Glaube und Kunst]]
+:PROPERTIES:
+:CAPTURED: [2024-01-10 Mi 08:59]
+:SUBJECT: [[denote:20230711T004403][[SW18] Glaube und Kunst]]
+:END:
 
-* TODOs
+"Nicht einmal Ethik" interessiert die Schüler. Ich bin überzeugt, dass die Schüler gar nix mehr interessiert. Die Reaktionen und die Haltung der Kinder ist "verachtend, milde lächelnd, fadisiert, gleichgültig, ...".
+
+Und zwar egal, ob Gruppenarbeit, zu zweit, alleine, ... Während ich rede, führen die Schüler Privatgespräche, null Teilnahme am Unterricht.
+
+Ich hab dann auch kein Interesse mehr, irgend etwas noch zu tun. Natürlich kann ich die Kinder alles selbst erarbeiten lassen und dann die Ergebnisse beurteilen. Aber: ist das zielführend? Liebestank auffüllen? Da fehlt es prinzipiell an jedem Respekt mir gegenüber.
+
+Was soll ich tun, damit wenigstens ich nicht untergehe? Jobwechseln? Unterricht komplett ändern? Wie? ...
+
+Ist der Zug nicht ohnehin schon komplett abgefahren?
+
+** [[denote:20221228T204513][A Klasse 2020-24]]
+:PROPERTIES:
+:CAPTURED: [2024-01-15 Mo 13:50]
+:SUBJECT: [[denote:20221228T204513][A Klasse 2020-24]]
+:END:
+
+An Adrian, Luis und Nico einen perönlichen Brief schreiben:
+Laut derzeitigem Stand würden sie ein Genügend erhalten... nur mehr eine Stunde als Chance; dann unterschrieben an die Eltern.
+* Tasks
 
 ** TODO Berufswechsel
 :PROPERTIES:
@@ -89,14 +113,33 @@ Sollte ich bleiben - dann muss sich radikal was ändern? Da ich dies von den Kin
 :PROPERTIES:
 :CAPTURED: [2023-12-06 Mi 20:24]
 :END:
-
 was ist zu tun?
 
-* Ähnliche Notizen
+** TODO Material
+:PROPERTIES:
+:CAPTURED: [2024-01-05 Fr 18:33]
+:SUBJECT: [[denote:20221230T193456][B Klasse 2022-26]]
+:END:
+Was brauche ich?
 
-#+BEGIN: denote-links :regexp "Unterricht" :missing-only t
-- [[denote:20231020T091020][Ablauf Unterricht]]
-#+END:
+** DONE Material besorgen
+CLOSED: [2024-01-08 Mo 08:15] DEADLINE: <2024-01-05 Fr 21:00>
+:PROPERTIES:
+:CAPTURED: [2024-01-05 Fr 18:39]
+:SUBJECT: [[denote:20230708T143857][A Klasse 2023-27]]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2024-01-08 Mo 08:15]
+:END:
 
-
+** DONE Schreiben an Luis, Adrian und Nico bzgl RU Note
+CLOSED: [2024-01-16 Di 22:06] DEADLINE: <2024-01-16 Di 13:00>
+:PROPERTIES:
+:CAPTURED: [2024-01-15 Mo 23:06]
+:SUBJECT: 
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2024-01-16 Di 22:06]
+:END:
+Zuerst perönlich, nächste Stunde allerletzte Chance; wenn nicht - unterschrieben von Eltern zurück.
 

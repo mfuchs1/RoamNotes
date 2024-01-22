@@ -2,6 +2,7 @@
 #+date:       [2022-12-30 Fr 19:37]
 #+filetags:   :4b:Project:
 #+identifier: 20221230T193718
+#+STARTUP: showall
 #+CATEGORY: golling
 #+LANGUAGE: de
 #+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
@@ -23,36 +24,52 @@ Biblische Propheten;
 
 [[file:~/NMS_Golling/Propheten/Propheten Gruppenarbeit.pdf]]
 
-Videos / Bible Project (YouTube)
+Videos / Bible Project (YouTube);
+
+[[denote:20230711T004403][[SW18] Glaube und Kunst]]
+
 
 * 4b 07:45-08:35
 <%%(org-class 2023 9 13 2024 7 7 3 52)>
 
-Film "Ratatouille"?
+Ethik ...
 
+*Schüler* sollen arbeiten; nicht ich.
+
+Materialsammlung zu Thema "Ethik":
+
+[[https://reli-ethik-blog.de/das-gedankenexperiment-eine-zentrale-methode-im-ethik-und-philosophieunterricht/]]
+
+[[https://solus-christus.portacaeli.de/Export/LinkedDocuments/Paulus%20Ethik%20-%20Liebe%20aus%20Freiheit%20durch%20Christus.pdf]]
+
+[[https://www.schule-bw.de/faecher-und-schularten/gesellschaftswissenschaftliche-und-philosophische-faecher/ethik/unterricht-materialien-und-medien/ethik_9_10/lebensaufgaben-und-selbstbestimmung/sterben_tod/unterrichtsmaterialien]]
+
+[[https://www.schule-bw.de/faecher-und-schularten/gesellschaftswissenschaftliche-und-philosophische-faecher/ethik/unterricht-materialien-und-medien/ethik_9_10/lebensaufgaben-und-selbstbestimmung/sterben_tod/unterrichtsmaterialien]]
+
+[[https://lehrerfortbildung-bw.de/u_gewi/ethik/gym/bp2016/fb5/4_rel/1_christ/selig/]]
 
 
 * 4B [KV Erwin Essl]
 
 #+Name: 2021-students
-| First       | Last         | Name                  | Note | Mitarbeit | Heft | LZK |
-|-------------+--------------+-----------------------+------+-----------+------+-----|
-| *Maximilian | Fischhofer   | [[Maximilian Fischhofer][Maximilian Fischhofer]] |      |           |      |     |
-| Hannah      | Höllbacher   | [[Hannah Höllbacher][Hannah Höllbacher]]     |      |           |      |     |
-| *Leon       | Keser        | [[Leon Keser][Leon Keser]]            |      |           |      |     |
-| *Thomas     | Krallinger   | [[Thomas Krallinger][Thomas Krallinger]]     |      |           |      |     |
-| Fabian      | Lienbacher   | [[Fabian Lienbacher][Fabian Lienbacher]]     |      |           |      |     |
-| Lena        | Malter       | [[Lena Malter][Lena Malter]]           |      |           |      |     |
-| Sophia      | Mayr         | [[Sophia Mayr][Sophia Mayr]]           |      |           |      |     |
-| Florian     | Peroutka     | [[Florian Peroutka][Florian Peroutka]]      |      |           |      |     |
-| *Andreas    | Rußegger     | [[Andreas Rußegger][Andreas Rußegger]]      |      |           |      |     |
-| Valerie     | Schönauer    | [[Valerie Schönauer][Valerie Schönauer]]     |      |           |      |     |
-| Marlene     | Seidl        | [[Marlene Seidl][Marlene Seidl]]         |      |           |      |     |
-| Anna        | Spitzelseder | [[Anna Spitzelseder][Anna Spitzelseder]]     |      |           |      |     |
-| Florian     | Steiner      | [[Florian Steiner][Florian Steiner]]       |      |           |      |     |
-| Karin       | Struber      | [[Karin Struber][Karin Struber]]         |      |           |      |     |
-| *Lukas      | Wagenhofer   | [[Lukas Wagenhofer][Lukas Wagenhofer]]      |      |           |      |     |
-#+TBLFM: $4=vmean($5..$>)
+| First      | Last         | Name                  | Note | Mitarbeit | Heft | LZK |
+|------------+--------------+-----------------------+------+-----------+------+-----|
+| Maximilian | Fischhofer   | [[Maximilian Fischhofer][Maximilian Fischhofer]] |    2 |         2 |    2 |     |
+| Hannah     | Höllbacher   | [[Hannah Höllbacher][Hannah Höllbacher]]     |    1 |         1 |    1 |     |
+| Leon       | Keser        | [[Leon Keser][Leon Keser]]            |    3 |         3 |    3 |     |
+| Thomas     | Krallinger   | [[Thomas Krallinger][Thomas Krallinger]]     |    1 |         1 |    1 |     |
+| Fabian     | Lienbacher   | [[Fabian Lienbacher][Fabian Lienbacher]]     |    2 |         2 |    2 |     |
+| Lena       | Malter       | [[Lena Malter][Lena Malter]]           |    1 |         1 |    1 |     |
+| Sophia     | Mayr         | [[Sophia Mayr][Sophia Mayr]]           |    1 |         1 |    1 |     |
+| Florian    | Peroutka     | [[Florian Peroutka][Florian Peroutka]]      |    1 |         1 |    1 |     |
+| Andreas    | Rußegger     | [[Andreas Rußegger][Andreas Rußegger]]      |    2 |         2 |    2 |     |
+| Valerie    | Schönauer    | [[Valerie Schönauer][Valerie Schönauer]]     |    1 |         1 |    1 |     |
+| Marlene    | Seidl        | [[Marlene Seidl][Marlene Seidl]]         |    1 |         1 |    1 |     |
+| Anna       | Spitzelseder | [[Anna Spitzelseder][Anna Spitzelseder]]     |    1 |         1 |    1 |     |
+| Florian    | Steiner      | [[Florian Steiner][Florian Steiner]]       |    1 |         1 |    1 |     |
+| Karin      | Struber      | [[Karin Struber][Karin Struber]]         |    1 |         1 |    1 |     |
+| Lukas      | Wagenhofer   | [[Lukas Wagenhofer][Lukas Wagenhofer]]      |    2 |         2 |    2 |     |
+#+TBLFM: $4=vmean($5..$>);%.0f
 #+TBLFM: $3='(concat "[[" $1 " " $2 "][" $1 " " $2 "]]")
 #+TBLFM: $5='(identity remote(Mitarbeit,@@#$2))
 
@@ -66,13 +83,15 @@ Film "Ratatouille"?
       print(':PROPERTIES:')
       print(':EMAIL: ' '[[mailto: ' + first + ' ' + last + ' <' + email + '>]]')
       print(':EXPORT_FILE_NAME: ' '~/RoamNotes/exports/'  + first +  '_'  + last +  '.html')
+      print(':ID: ' + first + '' + last + '')
       print(':END: ')
+      print('#+Name: ' + first + '' + last + '')
+      print('|-------+-------+------+---------|')
+      print('| Datum | Topic | Note | Notizen |')
+      print('|-------+-------+------+---------|')
       print('\n')
-      print('|-----------------------+-----------+-------------------------+---------------|')
-      print('| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |')
-      print('|-----------------------+-----------+-------------------------+---------------|')
-      print('\n')
-      print('*** Note ' + first + ' ' + last)
+      print('*** Note ' + first + ' ' + last + '')
+      print('#+Name: Note_' + first + '' + last + '')
       print('|-----------+-------------+-----+-----------+------------|')
       print('| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |')
       print('|-----------+-------------+-----+-----------+------------|')
@@ -87,22 +106,13 @@ Film "Ratatouille"?
 :PROPERTIES:
 :EMAIL: [[mailto: Maximilian Fischhofer <Maximilian.Fischhofer@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Maximilian_Fischhofer.html
+:ID: MaximilianFischhofer
 :END: 
+#+Name: MaximilianFischhofer
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
-
-|-----------------------+-----------+-------------------+----------------|
-| Datum / UE            | Stunde    | Thema             | Anmerkungen    |
-|-----------------------+-----------+-------------------+----------------|
-| [2023-10-25 Mi 08:00] | 1. Stunde | [[denote:20230711T003559][[SW09] Hinduismus]] | Gute Mitarbeit |
-|                       |           |                   |                |
-
-
-*** Note Maximilian Fischhofer
-|-----------+-------------+-----+-----------+------------|
-| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
-|-----------+-------------+-----+-----------+------------|
-|         2 |           3 |   2 |         3 |        2.5 |
-#+TBLFM: $5=vmean($1..$4)
 
 *** [[denote:20230711T003213][[SW03] Sinn der Arbeit]]
 :PROPERTIES:
@@ -114,19 +124,28 @@ Maxi stört den Unterricht: er faltet zwei (ziemlich große) Papierflieger, arbe
 
 Maxi schreibt die HO ab und lässt diese unterschreiben.
 
+*** Note Maximilian Fischhofer
+#+Name: Note_MaximilianFischhofer
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
 ** Hannah Höllbacher
 :PROPERTIES:
 :EMAIL: [[mailto: Hannah Höllbacher <Hannah.Höllbacher@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Hannah_Höllbacher.html
+:ID: HannahHöllbacher
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+#+Name: HannahHöllbacher
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Hannah Höllbacher
+#+Name: Note_HannahHöllbacher
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -138,17 +157,12 @@ Maxi schreibt die HO ab und lässt diese unterschreiben.
 :PROPERTIES:
 :EMAIL: [[mailto: Leon Keser <Leon.Keser@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Leon_Keser.html
+:ID: LeonKeser
 :END: 
-
-|-----------------------+-----------+------------+----------------------|
-| Datum / UE            | Stunde    | Thema      | Anmerkungen          |
-|-----------------------+-----------+------------+----------------------|
-| [2023-09-19 Di 08:00] | 1. Stunde | Berufung   | Papierflieger        |
-|                       |           |            |                      |
-| [2023-10-25 Mi 08:00] | 1. Stunde | Hinduismus | Versäumtes nachholen |
-
-
-
+#+Name: LeonKeser
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 *** [[denote:20230711T002844][[SW01] Jesus ist die Quelle unseres Lebens]]
 :PROPERTIES:
@@ -170,7 +184,7 @@ Leon hat während den Unterricht durch das Falten eines Papierfliegers gestört.
 
 Was ist zu tun? Leon leidet unter ADHS (wie stark?). Andererseits kann dies keine Ausrede für störendes Verhalten sein. Ich werde mit seiner Mutter reden. (Ich denke dabei auch an Gabriel...)
 
-**** DONE [#A] Leons Mutter kontaktieren (SchoolFox)
+*** DONE [#A] Leons Mutter kontaktieren (SchoolFox)
 CLOSED: [2023-09-25 Mo 10:24]
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2023-09-25 Mo 10:24]
@@ -178,14 +192,6 @@ CLOSED: [2023-09-25 Mo 10:24]
 - State "DONE"       from "TODO"       [2023-09-25 Mo 10:20]
 :END:
 
-
-
-*** Note Leon Keser
-|-----------+-------------+-----+-----------+------------|
-| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
-|-----------+-------------+-----+-----------+------------|
-|         2 |           3 |   2 |         3 |        2.5 |
-#+TBLFM: $5=vmean($1..$4)
 
 *** [[denote:20230711T003213][[SW03] Sinn der Arbeit]]
 :PROPERTIES:
@@ -204,19 +210,29 @@ Leon redet viel, stört andere; schreibt nix. Ist dies seine Schwäche? Wie arbe
 Gespräch mit Manuela Gruder: Leon muss Versäumtes nachholen; va die Mindmap zum Thema "Konfuzius".
 
 
+*** Note Leon Keser
+#+Name: Note_LeonKeser
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
 ** Thomas Krallinger
 :PROPERTIES:
 :EMAIL: [[mailto: Thomas Krallinger <Thomas.Krallinger@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Thomas_Krallinger.html
+:ID: ThomasKrallinger
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+#+Name: ThomasKrallinger
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Thomas Krallinger
+#+Name: Note_ThomasKrallinger
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -228,15 +244,16 @@ Gespräch mit Manuela Gruder: Leon muss Versäumtes nachholen; va die Mindmap zu
 :PROPERTIES:
 :EMAIL: [[mailto: Fabian Lienbacher <Fabian.Lienbacher@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Fabian_Lienbacher.html
+:ID: FabianLienbacher
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+#+Name: FabianLienbacher
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Fabian Lienbacher
+#+Name: Note_FabianLienbacher
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -248,15 +265,16 @@ Gespräch mit Manuela Gruder: Leon muss Versäumtes nachholen; va die Mindmap zu
 :PROPERTIES:
 :EMAIL: [[mailto: Lena Malter <Lena.Malter@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Lena_Malter.html
+:ID: LenaMalter
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+#+Name: LenaMalter
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Lena Malter
+#+Name: Note_LenaMalter
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -268,15 +286,16 @@ Gespräch mit Manuela Gruder: Leon muss Versäumtes nachholen; va die Mindmap zu
 :PROPERTIES:
 :EMAIL: [[mailto: Sophia Mayr <Sophia.Mayr@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Sophia_Mayr.html
+:ID: SophiaMayr
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+#+Name: SophiaMayr
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Sophia Mayr
+#+Name: Note_SophiaMayr
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -288,15 +307,16 @@ Gespräch mit Manuela Gruder: Leon muss Versäumtes nachholen; va die Mindmap zu
 :PROPERTIES:
 :EMAIL: [[mailto: Florian Peroutka <Florian.Peroutka@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Florian_Peroutka.html
+:ID: FlorianPeroutka
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+#+Name: FlorianPeroutka
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Florian Peroutka
+#+Name: Note_FlorianPeroutka
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -308,15 +328,16 @@ Gespräch mit Manuela Gruder: Leon muss Versäumtes nachholen; va die Mindmap zu
 :PROPERTIES:
 :EMAIL: [[mailto: Andreas Rußegger <Andreas.Rußegger@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Andreas_Rußegger.html
+:ID: AndreasRußegger
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+#+Name: AndreasRußegger
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Andreas Rußegger
+#+Name: Note_AndreasRußegger
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -328,15 +349,16 @@ Gespräch mit Manuela Gruder: Leon muss Versäumtes nachholen; va die Mindmap zu
 :PROPERTIES:
 :EMAIL: [[mailto: Valerie Schönauer <Valerie.Schönauer@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Valerie_Schönauer.html
+:ID: ValerieSchönauer
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+#+Name: ValerieSchönauer
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Valerie Schönauer
+#+Name: Note_ValerieSchönauer
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -348,15 +370,16 @@ Gespräch mit Manuela Gruder: Leon muss Versäumtes nachholen; va die Mindmap zu
 :PROPERTIES:
 :EMAIL: [[mailto: Marlene Seidl <Marlene.Seidl@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Marlene_Seidl.html
+:ID: MarleneSeidl
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+#+Name: MarleneSeidl
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Marlene Seidl
+#+Name: Note_MarleneSeidl
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -368,15 +391,16 @@ Gespräch mit Manuela Gruder: Leon muss Versäumtes nachholen; va die Mindmap zu
 :PROPERTIES:
 :EMAIL: [[mailto: Anna Spitzelseder <Anna.Spitzelseder@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Anna_Spitzelseder.html
+:ID: AnnaSpitzelseder
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+#+Name: AnnaSpitzelseder
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Anna Spitzelseder
+#+Name: Note_AnnaSpitzelseder
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -388,15 +412,16 @@ Gespräch mit Manuela Gruder: Leon muss Versäumtes nachholen; va die Mindmap zu
 :PROPERTIES:
 :EMAIL: [[mailto: Florian Steiner <Florian.Steiner@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Florian_Steiner.html
+:ID: FlorianSteiner
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+#+Name: FlorianSteiner
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Florian Steiner
+#+Name: Note_FlorianSteiner
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -408,15 +433,16 @@ Gespräch mit Manuela Gruder: Leon muss Versäumtes nachholen; va die Mindmap zu
 :PROPERTIES:
 :EMAIL: [[mailto: Karin Struber <Karin.Struber@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Karin_Struber.html
+:ID: KarinStruber
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+#+Name: KarinStruber
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Karin Struber
+#+Name: Note_KarinStruber
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -428,15 +454,16 @@ Gespräch mit Manuela Gruder: Leon muss Versäumtes nachholen; va die Mindmap zu
 :PROPERTIES:
 :EMAIL: [[mailto: Lukas Wagenhofer <Lukas.Wagenhofer@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Lukas_Wagenhofer.html
+:ID: LukasWagenhofer
 :END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
+#+Name: LukasWagenhofer
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
 
 
 *** Note Lukas Wagenhofer
+#+Name: Note_LukasWagenhofer
 |-----------+-------------+-----+-----------+------------|
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
@@ -444,27 +471,31 @@ Gespräch mit Manuela Gruder: Leon muss Versäumtes nachholen; va die Mindmap zu
 #+TBLFM: $5=vmean($1..$4)
 
 
+
+
+
+
 * Mitarbeittabelle
 # In diese Tabelle trage ich die Mitarbeit während 10 Schulwochen ein. Danach kann ich mit der ersten Tabellenformel die aktuelle Durchschnittsnote errechnen. Diese kann ich in die obige Tabelle übernehmen. Nach 23 Wochen (dh einem Semster) müsste ich die Tabelle wieder leeren - hm, gibt es keine bessere Lösung? Eine Tabelle mit allen 43 Schulwochen wäre zu groß. Mit 'C-c TAB' kann ich einzelne Spalten ein- und ausklappen. Wie geht das mit mehreren Spalten?
 #+Name: Mitarbeit
 | Name                  | Note | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
 |-----------------------+------+---+---+---+---+---+---+---+---+---+----|
-| [[Maximilian Fischhofer][Maximilian Fischhofer]] |      |   |   |   |   |   |   |   |   |   |    |
-| [[Hannah Höllbacher][Hannah Höllbacher]]     |      |   |   |   |   |   |   |   |   |   |    |
-| [[Leon Keser][Leon Keser]]            |      |   |   |   |   |   |   |   |   |   |    |
-| [[Thomas Krallinger][Thomas Krallinger]]     |      |   |   |   |   |   |   |   |   |   |    |
-| [[Fabian Lienbacher][Fabian Lienbacher]]     |      |   |   |   |   |   |   |   |   |   |    |
-| [[Lena Malter][Lena Malter]]           |      |   |   |   |   |   |   |   |   |   |    |
-| [[Sophia Mayr][Sophia Mayr]]           |      |   |   |   |   |   |   |   |   |   |    |
-| [[Florian Peroutka][Florian Peroutka]]      |      |   |   |   |   |   |   |   |   |   |    |
-| [[Andreas Rußegger][Andreas Rußegger]]      |      |   |   |   |   |   |   |   |   |   |    |
-| [[Valerie Schönauer][Valerie Schönauer]]     |      |   |   |   |   |   |   |   |   |   |    |
-| [[Marlene Seidl][Marlene Seidl]]         |      |   |   |   |   |   |   |   |   |   |    |
-| [[Anna Spitzelseder][Anna Spitzelseder]]     |      |   |   |   |   |   |   |   |   |   |    |
-| [[Florian Steiner][Florian Steiner]]       |      |   |   |   |   |   |   |   |   |   |    |
-| [[Karin Struber][Karin Struber]]         |      |   |   |   |   |   |   |   |   |   |    |
-| [[Lukas Wagenhofer][Lukas Wagenhofer]]      |      |   |   |   |   |   |   |   |   |   |    |
-#+TBLFM: $2=vmean($3..$>)
+| [[Maximilian Fischhofer][Maximilian Fischhofer]] |    2 | 2 | 2 | 3 | 2 | 3 | 2 | 3 | 3 | 2 |  3 |
+| [[Hannah Höllbacher][Hannah Höllbacher]]     |    1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  1 |
+| [[Leon Keser][Leon Keser]]            |    3 | 3 | 3 | 3 | 2 | 3 | 2 | 2 | 2 | 3 |  3 |
+| [[Thomas Krallinger][Thomas Krallinger]]     |    1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  1 |
+| [[Fabian Lienbacher][Fabian Lienbacher]]     |    2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 |  2 |
+| [[Lena Malter][Lena Malter]]           |    1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  1 |
+| [[Sophia Mayr][Sophia Mayr]]           |    1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  1 |
+| [[Florian Peroutka][Florian Peroutka]]      |    1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  1 |
+| [[Andreas Rußegger][Andreas Rußegger]]      |    2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 |  2 |
+| [[Valerie Schönauer][Valerie Schönauer]]     |    1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  1 |
+| [[Marlene Seidl][Marlene Seidl]]         |    1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  1 |
+| [[Anna Spitzelseder][Anna Spitzelseder]]     |    1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  1 |
+| [[Florian Steiner][Florian Steiner]]       |    1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  1 |
+| [[Karin Struber][Karin Struber]]         |    1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  1 |
+| [[Lukas Wagenhofer][Lukas Wagenhofer]]      |    2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 |  2 |
+#+TBLFM: $2=vmean($3..$>);%.0f
 #+TBLFM: $1='(identity remote(2021-students,@@#$3))
 
 * Reflexionen

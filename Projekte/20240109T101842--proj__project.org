@@ -1,0 +1,14 @@
+#+title:      Proj
+#+date:       [2024-01-09 Di 10:18]
+#+filetags:   :project:
+#+identifier: 20240109T101842
+#+STARTUP: showall
+
+* Link to 
+denote-link / URL: 
+
+* Ideas or Citation:
+
+* Tasks
+
+

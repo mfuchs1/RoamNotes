@@ -3,41 +3,31 @@
 #+filetags:   :capture:
 #+identifier: 20231218T081552
 
-* Wie das Statistische Bundesamt die Zahlen zur Übersterblichkeit verfälscht hat - 
+* Bildung ohne Schule - 
+:PROPERTIES:
+:CREATED: [2024-01-05 Fr 19:30]
+:SOURCE: https://multipolar-magazin.de/artikel/bildung-ohne-schule
+:END:
+In Deutschland gibt es Schätzungen zufolge 1.000 Freilerner – Kinder, die unter Anleitung ihrer Eltern lernen, ohne eine Schule zu besuchen. In Österreich sind es rund 150, dazu kommen dort einige Tausend sogenannte „Homeschooler“. Was steckt dahinter?
 
-- Source :: https://multipolar-magazin.de/artikel/destatis-uebersterblichkeit
+* Das Corona-Tribunal - apolut.net 
+:PROPERTIES:
+:CREATED: [2024-01-05 Fr 19:32]
+:SOURCE: https://apolut.net/das-corona-tribunal/
+:END:
+War´s das? Nach drei Jahren schwerster Beschädigungen der Demokratie bis hin zur Abschaffung, der Liquidierung, des Grundgesetzes durch eine Bund-Länderkonferenz, der Malträtierung unserer Kinder durch Isolierung, Bildungskastration und Maskenquälerei – soll es das jetzt gewesen sein? Nach drei Jahren der Krankheitsdiktatur, der Mediengleichschaltung, der Zwangs-Spritzung mit einem Stoff, der bestenfalls nicht sehr schädlich ist und in vielen Fällen zum Tod geführt hat; da soll die Schwammdrüber-Zeit beginnen?
 
-- Created :: [2023-12-18 Mo 10:02]
+* Kathedrale von Autun – Wikipedia
+:PROPERTIES:
+:CREATED: [2024-01-08 Mo 08:46]
+:SOURCE: [[https://de.wikipedia.org/wiki/Kathedrale_von_Autun]]
+:END:
+Die Kathedrale von Autun ist eine romanische Bischofskirche für das Bistum Autun in der Bourgogne-Franche-Comté. Die dreischiffige Basilika ist dem Patronat des heiligen Lazarus anvertraut. Mit reichem Fassadenschmuck markiert sie den höchsten Platz der Oberstadt von Autun. Seit 1949 trägt sie den Titel einer päpstlichen Basilica minor. Das Kulturdenkmal wurde 1840 als Monument historique klassifiziert. 
 
-Von einer Übersterblichkeit wird gesprochen, wenn in einem Zeitraum mehr Menschen versterben als erwartet. Es wird ein Vorhersagewert (Anzahl der erwarteten Verstorbenen) mit dem Realwert (tatsächlich Verstorbene) verglichen. Ist die Differenz beider Werte positiv, so spricht man von Übersterblichkeit. 
-
-* Steht Gesundheitsminister Lauterbach weiterhin zu seiner Aussage der „nebenwirkungsfreien“ Covid19-Impfung? 
-
-- Source :: https://www.nachdenkseiten.de/?p=108263
-
-- Created :: [2023-12-18 Mo 10:03]
-
-Die Europäische Arzneimittel-Agentur (EMA) hat in einem Schreiben auf die Anfrage mehrerer EU-Parlamentarier dargelegt, dass von Beginn an klar war, dass die COVID-19-Impfstoffe nur dem Schutz der geimpften Person und nicht dem Fremdschutz dienen. Dazu hätten auch keinerlei Daten von den Herstellern vorgelegen. Ebenso spricht die EMA davon, dass sie im Zusammenhang mit der Impfung von zahlreichen Nebenwirkungen ausgeht. 
-
-* Argentiniens neuer Präsident Milei bereitet Bevölkerung auf „Schocktherapie” vor 
-
-- Source :: https://www.nachdenkseiten.de/?p=108277
-
-- Created :: [2023-12-18 Mo 10:06]
-
-Der neue Präsident Argentiniens, Javier Milei, hat dem Land anlässlich
-seiner Amtseinführung seine Agenda und sein Regierungskabinett
-vorgestellt. „Heute beginnt in Argentinien eine neue Ära, heute endet
-eine lange Ära des Niedergangs, und wir beginnen mit dem Wiederaufbau
-des Landes”, erklärte der sich selbst als „anarchokapitalistisch”
-bezeichnende Milei. Der Weg einer Schocktherapie sei dafür der einzig
-mögliche. Von Stephan Hollensteiner.
-
-* „Gemeinsam für den Frieden“ 
-
-- Source :: https://www.nachdenkseiten.de/?p=108298
-
-- Created :: [2023-12-18 Mo 10:09]
-
-Die Resolution 377 A(V) der UN-Vollversammlung (UNGA) besagt, dass alle UN-Mitgliedsstaaten innerhalb von 24 Stunden zu einer „dringenden Sondersitzung“ einberufen werden können, „wenn der Sicherheitsrat wegen fehlender Einstimmigkeit der ständigen Mitglieder seine Hauptverantwortung für die Wahrung des Weltfriedens und der internationalen Sicherheit in einem Fall nicht wahrnimmt, in dem eine Bedrohung des Friedens, ein Friedensbruch oder eine Angriffshandlung vorzuliegen scheint (….)“. Die Resolution trägt den Titel „Gemeinsam für den Frieden“ und wurde erstmals am 3. November 1950 angenommen. Damals ging es um den Korea-Krieg.
+* Traum der Könige, Burgund, römische Baukunst
+:PROPERTIES:
+:CREATED: [2024-01-08 Mo 09:31]
+:SOURCE: https://www.kunst-meditation.it/gislebertus-traum-der-konige/
+:END:
+Das romanische Kapitell „Traum der Könige“ in der Kathedrale von Autun in Burgund gehört zu den berühmtesten Darstellungen dieser Art. Meister Gislebertus hat es um 1220 aus Stein gemeißelt. Zu sehen sind der Engel Gabriel und die Heiligen drei Könige. Über ihnen schwebt der Stern von Bethlehem. Mit dem ausgestreckten Zeigefinger der linken Hand weist der Engel energisch auf den Stern, mit dem Zeigefinger der rechten Hand berührt er zart den Ringfinger des obersten Königs. Das Thema ist nicht der Schlaf oder der Traum der drei Könige, sondern das Erwachen aus der Dunkelheit und der Aufbruch in das Licht!
 

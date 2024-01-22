@@ -5,8 +5,8 @@
 #+options: timestamp:t title:t toc:t todo:t |:t
 #+title: presentation
 #+date: <2023-10-02 Mo>
-#+author: Accountname
-#+email: Accountname@gmail.com
+#+author: Matthias Fuchs
+#+email: matthiasfuchs01@gmail.com
 #+language: en
 #+select_tags: export
 #+exclude_tags: noexport
@@ -18,7 +18,7 @@
 #+latex_header: \mode<beamer>{\usetheme{Madrid}}
 #+OPTIONS: H:2
 #+COLUMNS: %40ITEM %10BEAMER_env(Env) %9BEAMER_envargs(Env Args) %4BEAMER_col(Col) %10BEAMER_extra(Extra)
-#+export_file_name: ~/RoamNotes/exports/4c.html
+#+export_file_name: ~/RoamNotes/exports/presentation.html
 
 * Introduction
 ** A simple slide

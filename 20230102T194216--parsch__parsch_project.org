@@ -25,28 +25,27 @@ Dieses Schuljahr werde ich das nimmer machen. Ich werde zwar keinen Stoff pauken
 
 
 * 2b 3b 4a 14:30-15:20
-<%%(org-class 2023 9 18 2024 7 5 4 52)>
+<%%(org-class 2023 9 18 2024 7 5 4 03)>
 Themen aus dem YouCat Glaubenskurs
 
 arte doku über James Webb Teleskop;
 
 
 * 2b 3b 4a 15:25-16:15
-<%%(org-class 2023 9 11 2024 7 5 4 52)>
+<%%(org-class 2023 9 11 2024 7 5 4 03)>
 Film "Abraham"... (Bluetooth Box mitnehmen)
 
 * Schülerliste
 
 #+Name: 2021-students
-| First  | Last        | Name             | Klasse  | Note | Mitarbeit | Heft | LZK |
-|--------+-------------+------------------+---------+------+-----------+------+-----|
-| Enas   | Safarizadeh | [[Enas Safarizadeh][Enas Safarizadeh]] |         |      |           |      |     |
-| Edmund | Atherton    | [[Edmund Atherton][Edmund Atherton]]  | 2b      |      |           |      |     |
-| Ramona | Streibl     | [[Ramona Streibl][Ramona Streibl]]   | 3b      |      |           |      |     |
-| Simon  | Wippel      | [[Simon Wippel][Simon Wippel]]     | 3b      |      |           |      |     |
-| Ketrin | Serban      | [[Ketrin Serban][Ketrin Serban]]    | 4a/1DFK |      |           |      |     |
-|--------+-------------+------------------+---------+------+-----------+------+-----|
-#+TBLFM: $5=vmean($6..$8)
+| First  | Last        | Name             | Klasse | Note | Mitarbeit | Heft | LZK |
+|--------+-------------+------------------+--------+------+-----------+------+-----|
+| Enas   | Safarizadeh | [[Enas Safarizadeh][Enas Safarizadeh]] |        |      |           |      |     |
+| Edmund | Atherton    | [[Edmund Atherton][Edmund Atherton]]  | 2b     |      |           |      |     |
+| Lena   | Voggenhuber | [[Lena Voggenhuber][Lena Voggenhuber]] | 4b     |      |           |      |     |
+| Ramona | Streibl     | [[Ramona Streibl][Ramona Streibl]]   | 3b     |      |           |      |     |
+|--------+-------------+------------------+--------+------+-----------+------+-----|
+#+TBLFM: $5=vmean($6..$8);%.0f
 #+TBLFM: $3='(concat "[[" $1 " " $2 "][" $1 " " $2 "]]")
 #+TBLFM: $7='(identity remote(2021-22-Mitarbeit,@@#$2)) 
 
@@ -117,6 +116,26 @@ Film "Abraham"... (Bluetooth Box mitnehmen)
 #+TBLFM: $5=vmean($1..$4)
 
 
+** Lena Voggenhuber
+:PROPERTIES:
+:EMAIL: [[mailto: Lena Voggenhuber <Lena.Voggenhuber@ms-parsch.at>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Lena_Voggenhuber.html
+:END: 
+
+
+|-----------------------+-----------+-------------------------+---------------|
+| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
+|-----------------------+-----------+-------------------------+---------------|
+
+
+*** Note Lena Voggenhuber
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
 ** Ramona Streibl
 :PROPERTIES:
 :EMAIL: [[mailto: Ramona Streibl <Ramona.Streibl@ms-parsch.at>]]
@@ -136,47 +155,17 @@ Film "Abraham"... (Bluetooth Box mitnehmen)
 |         2 |           3 |   2 |         3 |        2.5 |
 #+TBLFM: $5=vmean($1..$4)
 
-
-** Simon Wippel
-:PROPERTIES:
-:EMAIL: [[mailto: Simon Wippel <Simon.Wippel@ms-parsch.at>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Simon_Wippel.html
-:END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
-
-
-*** Note Simon Wippel
-|-----------+-------------+-----+-----------+------------|
-| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
-|-----------+-------------+-----+-----------+------------|
-|         2 |           3 |   2 |         3 |        2.5 |
-#+TBLFM: $5=vmean($1..$4)
-
-
-** Ketrin Serban
-:PROPERTIES:
-:EMAIL: [[mailto: Ketrin Serban <Ketrin.Serban@ms-parsch.at>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Ketrin_Serban.html
-:END: 
-
-
-|-----------------------+-----------+-------------------------+---------------|
-| Datum / UE            | Stunde    | Thema                   | Anmerkungen   |
-|-----------------------+-----------+-------------------------+---------------|
-
-
-*** Note Ketrin Serban
-|-----------+-------------+-----+-----------+------------|
-| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
-|-----------+-------------+-----+-----------+------------|
-|         2 |           3 |   2 |         3 |        2.5 |
-#+TBLFM: $5=vmean($1..$4)
-
-
+* Mitarbeittabelle
+# In diese Tabelle trage ich die Mitarbeit während 10 Schulwochen ein. Danach kann ich mit der ersten Tabellenformel die aktuelle Durchschnittsnote errechnen. Diese kann ich in die obige Tabelle übernehmen. Nach 23 Wochen (dh einem Semster) müsste ich die Tabelle wieder leeren - hm, gibt es keine bessere Lösung? Eine Tabelle mit allen 43 Schulwochen wäre zu groß. Mit 'C-c TAB' kann ich einzelne Spalten ein- und ausklappen. Wie geht das mit mehreren Spalten?
+#+Name: Mitarbeit
+| Name             | Note | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|------------------+------+---+---+---+---+---+---+---+---+---+----|
+| [[Enas Safarizadeh][Enas Safarizadeh]] |      |   |   |   |   |   |   |   |   |   |    |
+| [[Edmund Atherton][Edmund Atherton]]  |      |   |   |   |   |   |   |   |   |   |    |
+| [[Lena Voggenhuber][Lena Voggenhuber]] |      |   |   |   |   |   |   |   |   |   |    |
+| [[Ramona Streibl][Ramona Streibl]]   |      |   |   |   |   |   |   |   |   |   |    |
+#+TBLFM: $2=vmean($3..$>);%.0f
+#+TBLFM: $1='(identity remote(2021-students,@@#$3))
 
 
 
