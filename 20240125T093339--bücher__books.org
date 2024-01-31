@@ -1,0 +1,9 @@
+#+title:      Bücher
+#+date:       [2024-01-25 Do 09:33]
+#+filetags:   :books:
+#+identifier: 20240125T093339
+#+STARTUP: showall
+
+Bücher die dich lese; Gedanken und Notizen dazu; ...
+
+

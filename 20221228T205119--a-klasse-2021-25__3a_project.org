@@ -25,6 +25,7 @@
 <%%(org-class 2023 9 15 2024 7 9 5 52)>
 
 Spiel "activity"?
+Doku "Judentum"
 
 
 * 3A [KV Bernhard Moser]

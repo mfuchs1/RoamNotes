@@ -17,13 +17,12 @@
 * Jahresplanung
 [[denote:20230621T073405][02 Golling]]
 
-Wer hat sich abgemeldet?
-Lucian, Stefan, +?
 
 * 2b 10:40-11:30
 <%%(org-class 2023 9 12 2024 7 6 2 52)>
 
-Übungsteil: Bibel AT / Hebräisch
+Übungsteil vierter Teil:
+Sakramente
 
 * 2b 10:40-11:30
 :PROPERTIES:
@@ -32,9 +31,8 @@ Lucian, Stefan, +?
 :END:
 <%%(org-class 2023 9 13 2024 7 7 3 52)>
 
-Übungsteil: Bibel AT / Hebräisch
-
-Beginn: viertes Kapitel (Zeichen, Symbole - Sakrament)
+Übungsteil vierter Teil:
+Sakramente
 
 * 2B [KV Martin Pock]
 

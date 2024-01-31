@@ -1,0 +1,143 @@
+#+title:      Themen vierte Klassen
+#+date:       [2024-01-30 Di 10:14]
+#+filetags:   :04:
+#+identifier: 20240130T101420
+#+STARTUP: showall
+#+CATEGORY: golling
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) NEXT(x) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) CANCELED(c@)
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width \linewidth
+#+OPTIONS: toc:nil
+#+export_file_name: ~/RoamNotes/exports/Themen vierte Klassen.html
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+
+
+* Einleitung
+Die Schüler der 4a und der 4b haben folgende Themen aufgeschrieben. Ich habe sie nach Bereiche geordnet. Ausgangspunkt dieser Maßnahme war die offenm zur Schau gestellte Gleichgültigkeit und das Desinteresse, die Null-Bock-Mentalität. (Liegt es an meiner Stimme?) Interessanterweise kommen dann doh jene Themen, die ich vorbereitet habe oder geplant habe.
+
+Nur werden diese Themen dieses Mal die Schüler selber erarbeiten. Ich stelle maximal die Materialien zur Verfügung.
+
+Für welche Themen gibt es (fast) ausgearbeitete Stunden? 
+
+* Themen
+
+** Kirche
+
+*** 4a
+- Ostern (Hintergrund, Warum?, etc...)
+- Weg zur Auferstehung zeichnen
+- Pfingsten
+- Weihnachten (Perchten, Nikolaus)
+- Firmung, Taufe, Erstkommunion, ...
+- Trauung (was passiert da? worauf man eingeht? ...)
+
+
+*** 4b
+- Geschichte: Kreuzzüge
+- Gottesdienste, Ablauf (Bedeutung)
+- Feierlichkeiten
+  
+** Jesus, Gott, ...
+- Ostern (Warum, weshalb, wieso?)
+- Darstellung Gottes
+
+
+** Bibel
+
+*** 4a
+- Arche Noah
+- Mose
+- 7 Trompeten (Offb)
+- Brief des Jakobus, an Titus (Paulusbriefe, ...)
+- Evangelium nach Matthäus (NT)
+
+
+*** 4b
+- Entstehung der Bibel 
+
+** Religionen
+
+*** 4a
+- Wie entstand Religion überhaupt? Warum? Wieso?
+- Andere Religionen und deren Götter
+- religiöse Kultur anderer Länder
+- Religion früher
+
+- Religionen in Golling und Scheffau
+
+  Für jede Religion eine Seite gestalten (Katholisch, Isalm, Buddhismus, ...)
+  
+- andere Religionen
+- Buddhismus
+- Wiedergeburt
+- Kharma
+
+- Judentum (Anne Frank, ... )
+  
+- Islam
+  
+- Was bedeuten religiöse Symbole?
+
+
+*** 4b
+- Wie sind Religionen entstanden?
+- Verhalten von Jugendlichen auf Religionen (Gott verachten, ...)
+- Weltreligionen
+- orthodoxe Christen
+- Bräuche anderer Religionen
+- verschiedene Religionen (Vergleich?)
+
+  
+** Mensch
+- Gesellschaft / Wirtschaft / Mensch
+- Menschen und Tiere
+- Ethik und Moral
+
+** Wissenschaft und Glaube
+
+** Brauchtum
+- Ostern
+- Fronleichnam
+
+** Geschichte und Kunst
+
+*** 4a
+- Verfolgung der Christen während der NS-Diktatur (Anne Frank, P. Kolbe, ...)
+- Inkas, Azteken
+- Anne Frank (Judentum)
+
+
+*** 4b
+- Kreuzzüge
+- berühmte (christliche) Kunstwerke
+
+* Umsetzung
+- Gruppenarbeit, alleine, ...
+- Hefteintrag,
+- PPP, ...
+- Referat, ...
+
+
+* Tasks
+
+** TODO Bücher besorgen [0/10]
+- [ ] Religion allgemein
+- [ ] "fremde" Kulturen und Religionen
+- [ ] Ethik und Moral
+- [ ] Christentum und Judentum während der NS Zeit
+- [ ] Religiöse Symbole
+- [ ] Bibelarbeit an der Schule
+- [ ] Anne Frank
+- [ ] P. Maximilian-Maria Kolbe
+- [ ] Buddhismus, Hinduismus, Konfuzianismus
+- [ ] Christliche Kunst, Meisterwerke, Kunstgeschichte, Epochen, ...
+
+
+** TODO Andere Materialien [0/4]
+- [ ] Flipchart Papier für Plakate
+- [ ] Marker
+- [ ] PC
+- [ ] etc

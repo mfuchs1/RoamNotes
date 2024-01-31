@@ -27,6 +27,8 @@
 Aristoteles / Epikur / Sokrates?
 Arbeitsblätter
 
+Bin mir echt unsicher, ob dieses Thema "interessant" ist.
+
 Utopien / Dystopien / Apokalypse
 
 - Utopie :: gute, positive, hoffnungsvolle, meist verklärte Sicht in die Zukunft
@@ -43,13 +45,17 @@ Filme
 - Elysium
 - ...
 
+Buch der Offenbarung gemeinsam lesen? Hab letztens schon im großen Überblick gemacht.
+
+Zu Beginn der Stunde bin ich ohnehin mit Adrian, Luis und Nico beschäftigt. Und dann? Film / Doku?
+
+  
 * 4a 08:40-09:30
 <%%(org-class 2023 9 12 2024 7 6 2 52)>
 
-[[denote:20230711T004503][[SW20] Philosophie]]
+Gemeinsam die "Offenbarung des Johannes" lesen.
+[Kommentar von P. Biob?]
 
-Aristoteles / Epikur / Sokrates?
-Arbeitsblätter
 
 * 4A [KV Magdalena Pürrer]
 
@@ -60,7 +66,7 @@ Arbeitsblätter
 | Manuel     | Irrnberger  | [[Manuel Irrnberger][Manuel Irrnberger]]     |    1 |         1 |    1 |   1 |
 | Tobias     | Kappel      | [[Tobias Kappel][Tobias Kappel]]         |    1 |         1 |    1 |   1 |
 | Luis       | Korten      | [[Luis Korten][Luis Korten]]           |    3 |         3 |    3 |   4 |
-| Adrian     | Lamprecht   | [[Adrian Lamprecht][Adrian Lamprecht]]      |    3 |         3 |    3 |   4 |
+| Adrian     | Lamprecht   | [[Adrian Lamprecht][Adrian Lamprecht]]      |    4 |         4 |    3 |   4 |
 | Noah       | Linhuber    | [[Noah Linhuber][Noah Linhuber]]         |    1 |         1 |    1 |   1 |
 | Hanna      | Maier       | [[Hanna Maier][Hanna Maier]]           |    1 |         1 |    1 |   1 |
 | Melissa    | Neudorfer   | [[Melissa Neudorfer][Melissa Neudorfer]]     |    1 |         1 |    1 |   1 |
@@ -516,7 +522,7 @@ Nico war kooperativ und hat mir seine Quellen gesagt. Er macht die PPP mit seine
 | [[Manuel Irrnberger][Manuel Irrnberger]]     | 1    |   |   |   |   |   |   |   |   |   |    |
 | [[Tobias Kappel][Tobias Kappel]]         | 1    |   |   |   |   |   |   |   |   |   |    |
 | [[Luis Korten][Luis Korten]]           | 3    |   |   |   |   |   |   |   |   |   |    |
-| [[Adrian Lamprecht][Adrian Lamprecht]]      | 3    |   |   |   |   |   |   |   |   |   |    |
+| [[Adrian Lamprecht][Adrian Lamprecht]]      | 4    |   |   |   |   |   |   |   |   |   |    |
 | [[Noah Linhuber][Noah Linhuber]]         | 1    |   |   |   |   |   |   |   |   |   |    |
 | [[Hanna Maier][Hanna Maier]]           | 1    |   |   |   |   |   |   |   |   |   |    |
 | [[Melissa Neudorfer][Melissa Neudorfer]]     | 1    |   |   |   |   |   |   |   |   |   |    |
@@ -535,26 +541,26 @@ Nico war kooperativ und hat mir seine Quellen gesagt. Er macht die PPP mit seine
 
 * PPP
 #+Name: 2021-presentation-marks
-| Name                  | Notes | Presentation            | Percentage | Reason |
-|-----------------------+-------+-------------------------+------------+--------|
-| [[Stefan Gonschorek][Stefan Gonschorek]]     |     2 | Jesaja                  |            |        |
-| [[Manuel Irrnberger][Manuel Irrnberger]]     |     2 | Jesaja                  |            |        |
-| [[Tobias Kappel][Tobias Kappel]]         |     1 | Jeremia                 |            |        |
-| [[Luis Korten][Luis Korten]]           |       | Nathan (nicht fetig)    |            |        |
-| [[Adrian Lamprecht][Adrian Lamprecht]]      |       | (fehlt)                 |            |        |
-| [[Noah Linhuber][Noah Linhuber]]         |     1 | Jeremia                 |            |        |
-| [[Hanna Maier][Hanna Maier]]           |     2 | Mirjam                  |            |        |
-| [[Melissa Neudorfer][Melissa Neudorfer]]     |     2 | Mirjam                  |            |        |
-| [[Arthur Schattauer][Arthur Schattauer]]     |     1 | Nathan                  |            |        |
-| [[Fabian Schober][Fabian Schober]]        |     1 | Jeremia                 |            |        |
-| [[Kristina Seidl][Kristina Seidl]]        |     2 | Jona                    |            |        |
-| [[Anna Steiner][Anna Steiner]]          |     2 | Mirjam                  |            |        |
-| [[Andre-Leon Stippler][Andre-Leon Stippler]]   |     2 | Amos                    |            |        |
-| [[Nico Straßer][Nico Straßer]]          |       | Nathan (nicht fertigen) |            |        |
-| [[Emma Sunkler][Emma Sunkler]]          |     2 | Jona                    |            |        |
-| [[Christina Unterrainer][Christina Unterrainer]] |     2 | Jona                    |            |        |
-| [[Thomas Wenger][Thomas Wenger]]         |     2 | Jesaja                  |            |        |
-| [[Lena Zorzi][Lena Zorzi]]            |     2 | Amos                    |            |        |
+| Name                  | Notes | Presentation          | Percentage | Reason |
+|-----------------------+-------+-----------------------+------------+--------|
+| [[Stefan Gonschorek][Stefan Gonschorek]]     |     2 | Jesaja                |            |        |
+| [[Manuel Irrnberger][Manuel Irrnberger]]     |     2 | Jesaja                |            |        |
+| [[Tobias Kappel][Tobias Kappel]]         |     1 | Jeremia               |            |        |
+| [[Luis Korten][Luis Korten]]           |     3 | Nathan (nicht fetig)  |            |        |
+| [[Adrian Lamprecht][Adrian Lamprecht]]      |     5 | (fehlt)               |            |        |
+| [[Noah Linhuber][Noah Linhuber]]         |     1 | Jeremia               |            |        |
+| [[Hanna Maier][Hanna Maier]]           |     2 | Mirjam                |            |        |
+| [[Melissa Neudorfer][Melissa Neudorfer]]     |     2 | Mirjam                |            |        |
+| [[Arthur Schattauer][Arthur Schattauer]]     |     1 | Nathan                |            |        |
+| [[Fabian Schober][Fabian Schober]]        |     1 | Jeremia               |            |        |
+| [[Kristina Seidl][Kristina Seidl]]        |     2 | Jona                  |            |        |
+| [[Anna Steiner][Anna Steiner]]          |     2 | Mirjam                |            |        |
+| [[Andre-Leon Stippler][Andre-Leon Stippler]]   |     2 | Amos                  |            |        |
+| [[Nico Straßer][Nico Straßer]]          |     3 | Nathan (nicht fertig) |            |        |
+| [[Emma Sunkler][Emma Sunkler]]          |     2 | Jona                  |            |        |
+| [[Christina Unterrainer][Christina Unterrainer]] |     2 | Jona                  |            |        |
+| [[Thomas Wenger][Thomas Wenger]]         |     2 | Jesaja                |            |        |
+| [[Lena Zorzi][Lena Zorzi]]            |     2 | Amos                  |            |        |
 #+TBLFM: $1='(identity remote(2021-students,@@#$3))
 
 * Reflexionen
@@ -609,6 +615,29 @@ Nicco & Co machen nix? Aufregen? Nein - wozu? Arthur und Nicco (Gruppe) müssen 
 :CLASS: [2023-12-11 Mo 10:40] 4. Stunde
 :END:
 
-Wie "immer": Nicco, Adrian und Luis machen sich eine lustige Stunde, arbeiten äußerst undisziplinert; werden nach Leistung benotet.
+Wie "immer": Nicco, Adrian und Luis machen sich eine lustige Stunde, arbeiten äußerst undisziplinert; werden nach Leistung benotet. 
+
+** [[denote:20230711T003732][[SW12] Biblische Propheten]]
+:PROPERTIES:
+:CAPTURED: [2024-01-29 Mo 09:22]
+:END:
+Nico und Luis haben endlich die beiden PPP's über Anne Frank und Nathan nachgeliefert. Von Adrian kam noch nichts.
+
+Die PPP über Anne Frank ist (scheinbar) wirklich von ihnen (Luis und Nico).
+
+Die PPP über Nathan haben die Schüler eine ähniche Arbeit wie zuletzt abgeliefert. Der Sprachgebrauch passt nicht zu den Schülern (zu geschwollen; klingt eher nach ChatGPT, oder kopiert aus dem Internet / Foren, ...). Es kommt mehrmals der Ausdruck "Nathan in der Bibel" vor, als ob es sich um einen Eigennamen handeln würde.
+
+Tipp von Christoph: unterstreiche ein paar der Schlüsselworte und lasse sie dir von Luis und Nico erklären.
+
+** [[denote:20230711T003903][[SW14] Ein neuer Himmel, eine neue Erde]]
+:PROPERTIES:
+:CAPTURED: [2024-01-30 Di 09:21]
+:END:
+Es ist so schwer. Totales Desinteresse, aber viel stören. Nachdem wirklich niemamd auch nur irgendwas zum Unterricht beigetragen hat: jeder soll mindestens 5 Themen notieren, welche die Schüler bearbeiten werden. "Komischerweise" kamen zB von Niko, Adrian und Luis va Themen aus der Bibel. Wundert das?
+
+Bin gespannt, was da kommen wird.
+
+Ich werde die Themen ordnen und dann mit den Schülern umsetzen. Hier die vollständige Liste:
+[[denote:20240130T101420][Themen vierte Klassen]]
 
 

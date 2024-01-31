@@ -17,36 +17,25 @@
 * Jahresplanung
 [[denote:20230621T073603][04 Golling]]
 
+
 * 4b 07:45-08:35
 <%%(org-class 2023 9 12 2024 7 6 2 52)>
 
-Biblische Propheten;
+Buch der Offenbarung lesen - Kommentar:
+[[file:~/NMS_Golling/Bibel_NT/Arbeitsblaetter_zur_Offenbarung.pdf]]
 
-[[file:~/NMS_Golling/Propheten/Propheten Gruppenarbeit.pdf]]
-
-Videos / Bible Project (YouTube);
-
-[[denote:20230711T004403][[SW18] Glaube und Kunst]]
-
-
+Themenwünsche:
+- Poltitk (Israel, Palästina)
+- Schwarzmarkt (illegale Wirstchaft)
+- Wir Kinder vom Bahnhof Zoo
+  
 * 4b 07:45-08:35
 <%%(org-class 2023 9 13 2024 7 7 3 52)>
 
-Ethik ...
+Gemeinsam die "Offenbarung des Johannes" lesen.
+[Kommentar von P. Biob?]
 
-*Schüler* sollen arbeiten; nicht ich.
-
-Materialsammlung zu Thema "Ethik":
-
-[[https://reli-ethik-blog.de/das-gedankenexperiment-eine-zentrale-methode-im-ethik-und-philosophieunterricht/]]
-
-[[https://solus-christus.portacaeli.de/Export/LinkedDocuments/Paulus%20Ethik%20-%20Liebe%20aus%20Freiheit%20durch%20Christus.pdf]]
-
-[[https://www.schule-bw.de/faecher-und-schularten/gesellschaftswissenschaftliche-und-philosophische-faecher/ethik/unterricht-materialien-und-medien/ethik_9_10/lebensaufgaben-und-selbstbestimmung/sterben_tod/unterrichtsmaterialien]]
-
-[[https://www.schule-bw.de/faecher-und-schularten/gesellschaftswissenschaftliche-und-philosophische-faecher/ethik/unterricht-materialien-und-medien/ethik_9_10/lebensaufgaben-und-selbstbestimmung/sterben_tod/unterrichtsmaterialien]]
-
-[[https://lehrerfortbildung-bw.de/u_gewi/ethik/gym/bp2016/fb5/4_rel/1_christ/selig/]]
+[[denote:20230711T003903][[SW14] Ein neuer Himmel, eine neue Erde]]
 
 
 * 4B [KV Erwin Essl]
@@ -343,8 +332,6 @@ Gespräch mit Manuela Gruder: Leon muss Versäumtes nachholen; va die Mindmap zu
 |-----------+-------------+-----+-----------+------------|
 |         2 |           3 |   2 |         3 |        2.5 |
 #+TBLFM: $5=vmean($1..$4)
-
-
 ** Valerie Schönauer
 :PROPERTIES:
 :EMAIL: [[mailto: Valerie Schönauer <Valerie.Schönauer@golling.schule>]]
@@ -579,4 +566,12 @@ Ich betrete die Klasse; grüße; wir beten. Ich beginne den Film, und alle reden
 Ich werde das nimmer machen. Ab nähstem Schuljahr verlasse ich die Schule. Hat den Vorteil eines gesicherten Einkommens und 9 Wochen Sommerferien, etc. Aber: die Kinder! Die Administration!
 
 Ich bitte eine Schülerin, meinen Schlüssel zu holen. Kommt zurück und knallt mir den Schlüssel vor die Nase. Ich mag nimmer!
+
+** [[denote:20230711T003903][[SW14] Ein neuer Himmel, eine neue Erde]]
+:PROPERTIES:
+:CAPTURED: [2024-01-24 Mi 14:11]
+:END:
+
+Hu, das war heute besonders anstregend - und zwar in allen Klassen, und während der Supplierstunde GSP in der 3a.
+
 

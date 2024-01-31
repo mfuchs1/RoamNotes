@@ -165,73 +165,6 @@
 <2024-02-06 Di 16:15-17:45>
 :END:
 
-* Einkaufen (Europark)
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3411058199558000"
-:entry-id: 1vkba5lks1vhdoe4saisonrhoc/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2023-12-23 Sa 10:00-12:00>
-:END:
-
-* Einkaufen II (Europark)
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3407563730904000"
-:entry-id: 36uqjjnq94tgalh3a3pqu5gl78/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2023-12-23 Sa 14:15-15:15>
-:END:
-
-* Spaziergang mit Kindern
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3411058204076000"
-:entry-id: e0pttd8gl16b0mdlk2q3c145p8/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2023-12-24 So 17:30-18:30>
-:END:
-
-* Weihnachten
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3411058200784000"
-:entry-id: jph7pp11o5po1q2p0qc7f9mol4/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2023-12-24 So 18:30-21:30>
-:END:
-
-* Christmette (Franziskaner)
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3407563732598000"
-:entry-id: l54qevtdu1psag2vglqoejgous/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2023-12-24 So 23:00>--<2023-12-25 Mo 00:00>
-:END:
-
-* Mittagessen bei Klaus, Genevieve
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3411058205120000"
-:entry-id: h50rbg8holjdidlb1houjmqaqo/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2023-12-26 Di 12:00-14:00>
-:END:
-
-
 * Geburtstag Leopold (2017)
 :PROPERTIES:
 :ETag:     "3152352526060000"
@@ -452,5 +385,108 @@ Schularbeit - Bernhard fragen.
 :END:
 :org-gcal:
 <2024-01-22 Mo 15:30-16:00>
+:END:
+
+* Supplierstunde 3a GSP
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3412156298932000"
+:entry-id: 8gr7glk5qd5tvgsr22r1vqhl78/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2024-01-24 Mi 09:35-10:25>
+
+GS 3a à Schulbuch Seite 156 gemeinsam durchlesen und besprechen. Anschließend die Aufgaben auf Seite 157 machen  
+:END:
+
+* Supplierstunde 1b M
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3412169740432000"
+:entry-id: tl4fq71jhhlt47thvekjd12ua0/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2024-01-25 Do 08:40-09:30>
+:END:
+
+* Supplierstunde 2b PH (statt Christian)
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3412510626092000"
+:entry-id: mfmtbf1639hl6c32d8035vv3mo/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2024-01-26 Fr 08:40-09:30>
+
+Ph-Test: Felix, Stefan, Robin fehlt.
+:END:
+
+* Lesen und Beten
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3412574803508000"
+:entry-id: lojbe4673d7r9njtbtltfgj11o/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2024-01-26 Fr 21:00-22:00>
+:END:
+
+* Gottesdienst St. Peter
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3412799983496000"
+:entry-id: 1ipuo97436q2nnjondh1d11hr0/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2024-01-28 So 10:15-11:15>
+:END:
+
+* Mittagessen bei Genevieve und Klaus
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3412800089068000"
+:entry-id: ks5kda6tpi0tpfg2b1e77a9sv8/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2024-01-28 So 13:00-15:00>
+:END:
+
+* Gabriel Lernen (BU / GSP)
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3412800234044000"
+:entry-id: 20c0dld2cbb2u0l5hdna831i2k/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2024-01-28 So 15:30-17:00>
+:END:
+
+* Supplierstunde 2b M
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3413373607446000"
+:entry-id: 6moeok7eehpca6hho43mco1550/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2024-02-02 Fr 09:35-10:25>
+:END:
+
+* Semesterkonferenz (Noten)
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3413465643468000"
+:entry-id: 853qb3iumktc5gtaja3kjqlros/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2024-02-05 Mo 16:00-17:30>
 :END:
 

@@ -2,6 +2,7 @@
 #+date:       [2023-06-21 Mi 07:36]
 #+filetags:   :04:plan:Project:
 #+identifier: 20230621T073603
+#+STARTUP: showall
 #+CATEGORY: Topic 04
 
 * Klassen
@@ -18,7 +19,6 @@ CLOSED: [2023-09-25 Mo 10:33]
 :LOGBOOK:
 - State "DONE"       from              [2023-09-25 Mo 10:33]
 :END:
-<2023-09-11 Mo>
 
 ** DONE [[denote:20230711T003116][[SW02] Die Berufung als Quelle meines Lebens]]
 CLOSED: [2023-09-25 Mo 08:33] SCHEDULED: <2023-09-18 Mo>
@@ -128,8 +128,11 @@ CLOSED: [2024-01-21 So 16:53] SCHEDULED: <2024-01-15 Mo>
 - State "DONE"       from              [2024-01-21 So 16:53]
 :END:
 
-** [[denote:20230711T004503][[SW20] Philosophie]]
-SCHEDULED: <2024-01-22 Mo>
+** DONE [[denote:20230711T004503][[SW20] Philosophie]]
+CLOSED: [2024-01-28 So 00:59] SCHEDULED: <2024-01-22 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-01-28 So 00:59]
+:END:
 
 ** [[denote:20230711T004531][[SW21] Philosophie - Teil 2]]
 SCHEDULED: <2024-01-29 Mo>

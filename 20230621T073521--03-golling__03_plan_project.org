@@ -2,6 +2,7 @@
 #+date:       [2023-06-21 Mi 07:35]
 #+filetags:   :03:plan:Project:
 #+identifier: 20230621T073521
+#+STARTUP: showall
 #+CATEGORY: Topic 03
 
 * Klassen
@@ -128,8 +129,11 @@ CLOSED: [2024-01-21 So 16:53] SCHEDULED: <2024-01-15 Mo>
 - State "DONE"       from              [2024-01-21 So 16:53]
 :END:
 
-** [[denote:20230624T234237][[SW20] Die Sehnsucht nach Freiheit]]
-SCHEDULED: <2024-01-22 Mo>
+** DONE [[denote:20230624T234237][[SW20] Die Sehnsucht nach Freiheit]]
+CLOSED: [2024-01-28 So 00:59] SCHEDULED: <2024-01-22 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-01-28 So 00:59]
+:END:
 
 ** [[denote:20230624T234513][[SW21] Befreiender Glaube]]
 SCHEDULED: <2024-01-29 Mo>

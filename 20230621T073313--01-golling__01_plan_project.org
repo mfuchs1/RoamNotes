@@ -2,6 +2,7 @@
 #+date:       [2023-06-21 Mi 07:33]
 #+filetags:   :01:plan:Project:
 #+identifier: 20230621T073313
+#+STARTUP: showall
 #+CATEGORY: Topic 01
 
 * Klassen
@@ -120,8 +121,11 @@ CLOSED: [2024-01-21 So 16:53] SCHEDULED: <2024-01-15 Mo>
 - State "DONE"       from              [2024-01-21 So 16:53]
 :END:
 
-** [[denote:20230619T091723][[SW20] Für einen treuen Freund gibt es keinen Preis]]
-SCHEDULED: <2024-01-22 Mo>
+** DONE [[denote:20230619T091723][[SW20] Für einen treuen Freund gibt es keinen Preis]]
+CLOSED: [2024-01-28 So 00:58] SCHEDULED: <2024-01-22 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-01-28 So 00:58]
+:END:
 
 ** [[denote:20230619T091826][[SW21] David und Jonathan]]
 SCHEDULED: <2024-01-29 Mo>

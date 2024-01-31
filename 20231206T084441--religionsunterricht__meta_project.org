@@ -4,8 +4,17 @@
 #+identifier: 20231206T084441
 #+CATEGORY: RU_meta
 #+STARTUP: showall
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Religionsunterricht.html
 
 * Gedanken
+Der Text ist nicht ganz genau unter dem Headline.
 
 ** Burnout?
 :PROPERTIES:
@@ -66,7 +75,6 @@ Und das alles, gepaart mit der depperten Situation in der Schule, ist einfach zu
 :CAPTURED: [2024-01-10 Mi 08:59]
 :SUBJECT: [[denote:20230711T004403][[SW18] Glaube und Kunst]]
 :END:
-
 "Nicht einmal Ethik" interessiert die Schüler. Ich bin überzeugt, dass die Schüler gar nix mehr interessiert. Die Reaktionen und die Haltung der Kinder ist "verachtend, milde lächelnd, fadisiert, gleichgültig, ...".
 
 Und zwar egal, ob Gruppenarbeit, zu zweit, alleine, ... Während ich rede, führen die Schüler Privatgespräche, null Teilnahme am Unterricht.
@@ -82,9 +90,40 @@ Ist der Zug nicht ohnehin schon komplett abgefahren?
 :CAPTURED: [2024-01-15 Mo 13:50]
 :SUBJECT: [[denote:20221228T204513][A Klasse 2020-24]]
 :END:
-
 An Adrian, Luis und Nico einen perönlichen Brief schreiben:
 Laut derzeitigem Stand würden sie ein Genügend erhalten... nur mehr eine Stunde als Chance; dann unterschrieben an die Eltern.
+
+** Themenvorschläge
+:PROPERTIES:
+:CAPTURED: [2024-01-22 Mo 09:48]
+:END:
+Noch offene Themen aus dem Lehrplan:
+
+- Sehnsüchte und Lebensträume, persönliche und berufliche Ziele, Utopien und Dystopien
+
+- Erfahrungen von Scheitern und Neubeginn, Passionsgeschichte und Osterevangelium, Bedeutung des Kreuzes, österlicher Glaube als christliche Lebenshaltung
+
+- Biblische Symbolik für den Geist Gottes, Vielfalt der Charismen Pfingstereignis (Apg 2)
+  Ängste überwinden und Begabungen leben
+
+- Lebensgestaltung in Freiheit, Befähigung zur oder Verlust der Eigenverantwortung, Gewaltstrukturen in ldeologien und Missbrauch von Religion und Autorität, Fundamentalismus
+
+** Pausenaufsicht 2. Stock, Mi
+:PROPERTIES:
+:CAPTURED: [2024-01-24 Mi 14:20]
+:END:
+Das war heute ein Wirbel: einige Schüler der 3a, 4c und 4a waren im zweiten Stock. Ein paar Burschen aus der 4b brüllten meinen Familiennamen durch das ganze Stockwerk. Volles Chaos. Das geht alleine nicht. Frechheit von Seiten der Schüler.
+
+** Unterrichtsvorbereitung
+:PROPERTIES:
+:CAPTURED: [2024-01-25 Do 12:10]
+:END:
+Ich sollte die Vorbereitung umstellen; dass die SW im Titel der Dateien steht, engt das Anpassen in der Jahresplanung sehr ein. Auf der Homepage des Schulbuches gibt es Jahresplanungen. Ich könnte diese Einteilung beibehalten. Soll ich das ändern? Das wäre eine zu große Arbeit...
+
+Vorschlag? ...
+
+Ist die Tabellenform der Jahresplanung die bessere Variante? Die Jahresplanung gibt nur einen groben Überblick. Daher bleibe ich bei meiner Einteilung und die SW bleibt im Dateinamen.
+
 * Tasks
 
 ** TODO Berufswechsel
@@ -104,6 +143,7 @@ Alternative Jobs:
 - Buchhandel?
 - Journalismus?
 - oder ganz was anderes (wofür ich eine neue Ausbildung absolvieren müsste)
+- Politik?!
 
 Vor einem Berufswechsel hab ich ziemliche Angst; würde es als erneutes Scheitern erleben. Und dann kommt die finanzielle Unsicherheit dazu. Und: ob ich überhaupt einen anderen Job finden werde?
 

@@ -2,6 +2,7 @@
 #+date:       [2023-06-21 Mi 07:34]
 #+filetags:   :02:plan:Project:
 #+identifier: 20230621T073405
+#+STARTUP: showall
 #+CATEGORY: Topic 02
 
 * Klassen
@@ -131,8 +132,11 @@ CLOSED: [2024-01-21 So 16:53] SCHEDULED: <2024-01-15 Mo>
 :END:
 
 
-** [[denote:20230619T212337][[SW20] Isaak – Gott prüft]]
-SCHEDULED: <2024-01-22 Mo>
+** DONE [[denote:20230619T212337][[SW20] Isaak – Gott prüft]]
+CLOSED: [2024-01-28 So 00:58] SCHEDULED: <2024-01-22 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-01-28 So 00:58]
+:END:
 
 
 ** [[denote:20230619T212407][[SW21] Jakob – Gott streitet]]

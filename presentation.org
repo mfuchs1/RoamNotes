@@ -15,7 +15,7 @@
 #+startup: beamer
 #+LaTeX_CLASS: beamer
 #+LaTeX_CLASS_OPTIONS: [bigger]
-#+latex_header: \mode<beamer>{\usetheme{Madrid}}
+#+latex_header: \mode<beamer>{\usetheme{Montpellier}}
 #+OPTIONS: H:2
 #+COLUMNS: %40ITEM %10BEAMER_env(Env) %9BEAMER_envargs(Env Args) %4BEAMER_col(Col) %10BEAMER_extra(Extra)
 #+export_file_name: ~/RoamNotes/exports/presentation.html
