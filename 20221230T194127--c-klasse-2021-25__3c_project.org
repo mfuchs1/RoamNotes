@@ -18,7 +18,7 @@
 [[denote:20230621T073521][03 Golling]]
 
 * 3c 11:35-12:25
-<%%(org-class 2023 9 14 2024 7 8 4 52)>
+<%%(org-class 2023 9 14 2024 7 8 4 06)>
 
 Film Ratatouille
 

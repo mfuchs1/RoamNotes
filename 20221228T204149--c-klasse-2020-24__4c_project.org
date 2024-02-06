@@ -19,20 +19,21 @@
 
 
 * 4c 14:20-15:10
-<%%(org-class 2023 9 11 2024 7 5 1 52)>
+<%%(org-class 2023 9 11 2024 7 5 1 06)>
 
 Spiel "Werwölfe" - so cool!
 
 * 4c 09:35-10:25
-<%%(org-class 2023 9 14 2024 7 8 4 52)>
+<%%(org-class 2023 9 14 2024 7 8 4 06)>
 
 Buch der Offenbarung lesen;
 
-Wandteppiche "Apokalypse" aus ... (Frankreich).
+Wandteppiche "Apokalypse" aus ... (Frankreich). Gibt's noch andere ABs zum Thema Offenbarung des Johannes / Apokalypse?
 
+Einfach miteinander lesen; Fragen stellen?
+[[denote:20240201T084513][Apokalypse]]
 
-* 4C [KV Gertraud Ellmaier]
-
+* 4C [KV Gertraud Ellmauer]
 #+Name: 2021-students
 | First         | Last         | Name                     | Note | Mitarbeit | Heft | LZK |
 |---------------+--------------+--------------------------+------+-----------+------+-----|

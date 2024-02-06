@@ -21,8 +21,7 @@
 * 2b 10:40-11:30
 <%%(org-class 2023 9 12 2024 7 6 2 52)>
 
-Übungsteil vierter Teil:
-Sakramente
+Film "Auf dem Weg zur Schule"
 
 * 2b 10:40-11:30
 :PROPERTIES:
@@ -31,8 +30,7 @@ Sakramente
 :END:
 <%%(org-class 2023 9 13 2024 7 7 3 52)>
 
-Übungsteil vierter Teil:
-Sakramente
+Film "Auf dem Weg zur Schule"
 
 * 2B [KV Martin Pock]
 

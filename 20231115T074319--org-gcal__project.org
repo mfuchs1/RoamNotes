@@ -483,10 +483,101 @@ Ph-Test: Felix, Stefan, Robin fehlt.
 :PROPERTIES:
 :calendar-id: matthiasfuchs01@gmail.com
 :org-gcal-managed: org
-:ETag:     "3413465643468000"
+:ETag:     "3414073926136000"
 :entry-id: 853qb3iumktc5gtaja3kjqlros/matthiasfuchs01@gmail.com
 :END:
 :org-gcal:
-<2024-02-05 Mo 16:00-17:30>
+<2024-02-05 Mo 15:00-17:30>
+:END:
+* Besuch bei Monika (Bad Dürrnberg)
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3414073561242000"
+:entry-id: sbkrit5pdkucjcp55b19oghkn4/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2024-02-04 So 11:30-13:30>
+:END:
+
+* Hl. Messe (Franziskaner)
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3414073681870000"
+:entry-id: adnneippshi846beu52l4go3e8/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2024-02-04 So 19:00-20:00>
+:END:
+
+* Supplierstunde 4a CH (Christian)
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3414332622290000"
+:entry-id: 08qpt7ocbls195a9b6h1jgobko/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2024-02-06 Di 09:35-10:25>
+:END:
+
+* Supplierstunde 3b TD
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3414403871380000"
+:entry-id: cfaslhd7si33gaulgbjtg4vfes/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2024-02-06 Di 11:35-12:25>
+
+AB "Jeans" / Teams
+:END:
+
+* Supplierstunde 3a GPB
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3414505073888000"
+:entry-id: 3lsamle5eku7qg4drl0kug13rc/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2024-02-07 Mi 09:35-10:25>
+
+Geschichte Profi 3 S. 158 u. 159 (Österreich + EU)
+:END:
+
+* Supplierstunde 4c M
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3414239240410000"
+:entry-id: b2eiv7eefbbl8goibqntheq0ts/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2024-02-08 Do 08:40-09:30>
+:END:
+
+* Supplierstunde KU-BFD-WL
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3414239363196000"
+:entry-id: onm6hd7mt2blhl37u9vki846t8/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2024-02-08 Do 11:35-12:25>
+:END:
+
+* Unsinniger Donnerstag - Fasching Golling
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3414239970854000"
+:entry-id: ha44kqbbtalgbfalj920ojrdjg/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2024-02-08 Do 10:00-12:00>
 :END:
 

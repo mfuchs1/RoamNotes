@@ -134,8 +134,11 @@ CLOSED: [2024-01-28 So 00:59] SCHEDULED: <2024-01-22 Mo>
 - State "DONE"       from              [2024-01-28 So 00:59]
 :END:
 
-** [[denote:20230711T004531][[SW21] Philosophie - Teil 2]]
-SCHEDULED: <2024-01-29 Mo>
+** DONE [[denote:20230711T004531][[SW21] Philosophie - Teil 2]]
+CLOSED: [2024-02-02 Fr 08:54] SCHEDULED: <2024-01-29 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-02-02 Fr 08:54]
+:END:
 
 ** [[denote:20230711T004603][[SW22] Film (Semester)]]
 SCHEDULED: <2024-02-05 Mo>

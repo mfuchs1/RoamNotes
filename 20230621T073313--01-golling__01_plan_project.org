@@ -127,8 +127,11 @@ CLOSED: [2024-01-28 So 00:58] SCHEDULED: <2024-01-22 Mo>
 - State "DONE"       from              [2024-01-28 So 00:58]
 :END:
 
-** [[denote:20230619T091826][[SW21] David und Jonathan]]
-SCHEDULED: <2024-01-29 Mo>
+** DONE [[denote:20230619T091826][[SW21] David und Jonathan]]
+CLOSED: [2024-02-02 Fr 08:54] SCHEDULED: <2024-01-29 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-02-02 Fr 08:54]
+:END:
 
 ** [[denote:20230619T091911][[SW22] Wiederholung / Film]]
 SCHEDULED: <2024-02-05 Mo>

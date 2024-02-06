@@ -22,7 +22,7 @@
 :ID:       1b2c43cf-a313-4e6d-8fba-2eec21260937
 :CUSTOM_ID: 2a_Mo
 :END:
-<%%(org-class 2023 9 11 2024 7 5 1 52)>
+<%%(org-class 2023 9 11 2024 7 5 1 06)>
 
 Kapitel 4: Zeichen und Symbole [[denote:20221226T110823][Sakramente]]
 
@@ -34,7 +34,7 @@ S. 86-87: Was sind Sakramente? [[denote:20230619T214024][[SW31] Was ist ein Sakr
 :ID:       1f91dcae-5de9-42d0-b2cf-81f79c0b9539
 :CUSTOM_ID: 2a_Di
 :END:
-<%%(org-class 2023 9 12 2024 7 6 2 52)>
+<%%(org-class 2023 9 12 2024 7 6 2 06)>
 
 
 * 2A MINT [KV Manuela Singer]

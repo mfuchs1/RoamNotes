@@ -26,7 +26,7 @@ Kapitel 3 - Impuls S. 56 - 57
 [[file:~/NMS_Golling/Religion_für_uns/Serviceteil_3.pdf]]
 
 * 3b 10:40-11:30
-<%%(org-class 2023 9 14 2024 7 8 4 52)>
+<%%(org-class 2023 9 14 2024 7 8 4 06)>
 
 Kapitel 3 - Impuls S. 56 - 57
 "Befreiender Glaube"
@@ -146,6 +146,20 @@ Kapitel 3 - Impuls S. 56 - 57
 | Datum | Topic | Note | Notizen |
 |-------+-------+------+---------|
 
+Allgemeine Bemerkungen:
+- trotz mehrmaliger Aufforderungen hat er öfters seine U-Materialien nicht da
+- ist "generell" respektlos, geradezu frech; mind. zweimal persönlich; ...
+- tut seine Ansichten kund, die oft sehr diskriminierend gegenüber andersdenkenden sind (FPÖ Wähler dürfen nicht mehr zur Wahl gehen; nur Intelligente dürfen wählen gehen; ...)
+- er lügt
+- oftmaliges provokantes Verhalten
+- durch sein Verhalten stört er den Unterricht massivst
+- Gott sei Dank muss ich nicht immer eingreifen, da seine Mitschüler ihn korrigieren und ihm ihre Meinung geigen.
+  
+- Was geht da noch? Wo endet die "Meinungsfreiheit"? darf ein Schüler im Namen der Meinungsfreiheit andere Menschen diffamieren? Ist das nur jugendlicher Leichtsinn, Pubertät?
+- Wenn bei Tobi ... diagnostiziert wurde - was bedeutet dies für uns?
+- Generell: wie ernst nehmen Kinder noch die Verhaltensnoten?
+- Andererseits: warum gibt es keine Verhaltensnoten mehr in der vierten Klasse? Was hat das für Wirkung auf das Verhalten der Schüler? Meine Erfahrung: keine gute.
+- 
 
 *** Note Tobias Egger
 #+Name: Note_TobiasEgger
@@ -154,6 +168,8 @@ Kapitel 3 - Impuls S. 56 - 57
 |-----------+-------------+-----+-----------+------------|
 |         2 |           3 |   2 |         3 |        2.5 |
 #+TBLFM: $5=vmean($1..$4)
+
+
 
 
 ** Azra Hant

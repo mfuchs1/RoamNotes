@@ -139,8 +139,11 @@ CLOSED: [2024-01-28 So 00:58] SCHEDULED: <2024-01-22 Mo>
 :END:
 
 
-** [[denote:20230619T212407][[SW21] Jakob – Gott streitet]]
-SCHEDULED: <2024-01-29 Mo>
+** DONE [[denote:20230619T212407][[SW21] Jakob – Gott streitet]]
+CLOSED: [2024-02-02 Fr 08:54] SCHEDULED: <2024-01-29 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-02-02 Fr 08:54]
+:END:
 
 
 ** [[denote:20230619T212439][[SW22] Whg Semester-Stoff / Film]]
