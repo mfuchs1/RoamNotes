@@ -1,0 +1,9 @@
+#+title:      Ukraine
+#+date:       [2024-02-09 Fr 09:40]
+#+filetags:   :politics:
+#+identifier: 20240209T094019
+
+[[file:~/.emacs.d/init.el::display-buffer-reuse-mode-window display-buffer-below-selected]]
+
+aha, so geht das jetzt.
+

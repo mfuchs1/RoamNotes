@@ -1,0 +1,126 @@
+#+title:      Fastenzeit
+#+date:       [2024-02-14 Mi 11:03]
+#+filetags:   :kirche:
+#+identifier: 20240214T110307
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) NEXT(x) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) CANCELED(c@)
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width \linewidth
+#+OPTIONS: toc:nil
+#+export_file_name: ~/RoamNotes/exports/Fastenzeit.html
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+
+* Bedeutung, Herkunft
+40 Tage Vorbereitung auf Ostern; beginnt mit dem Aschermittwoch, endet mit (?)
+
+Geht zurück auf: "40" ist in der Bibel immer eine Zeit der Läuterung, Buße, Vorbereitung (Sintflut dauert 40 Tage; Mose bleibt 40 Tage auf dem Berg Sinai; Volk Israel muss 40 Jahre durch die Wüste wandern; Elija wandert 40 Tage zum Berg Sinai; Jesus fastet 40 Tage in der Wüste; ...)
+
+Unsere 40tägige Fastenzeit geht auf die 40 Tage Fasten Jesu in der Wüste zurück.
+
+Geschichte (YouTube):
+[[https://www.youtube.com/watch?v=9LF0HuEO4k0][Mortifikation 101 - Fastenzeit auf katholisch. Ein "How to"!]]
+
+[[https://www.youtube.com/watch?v=w4nzdN4Rhj0][Warum ausgerechnet 40 Tage? Eine kurze Geschichte der Fastenzeit]]
+
+[[https://www.youtube.com/watch?v=VZC-MYWK-A8][Über die Verhüllungskunst der Passionszeit und das Nagen am Hungertuch]]
+
+[[https://www.youtube.com/watch?v=-CpduWwZfEs][Wo kauft man die Asche für den Aschermittwoch? Über Palmbuschen und katholisches Recycling]]
+
+[[https://www.youtube.com/watch?v=FNGvSeT4WqM][Katholisch für Anfänger - Was ist die Fastenzeit?]]
+
+
+* Biblisches
+Diese Lesungen geben die Tonalität der Fastenzeit an: es geht um neue Ausrichtung auf Gott hin, mit altbewährten Mitteln: Gebet, Fasten, Almosen. Fasten = nix Essen. Verzicht muss auch was kosten. Wofür faste ich? Welches Ziel? Fasten ist nicht Diät für die Bikini-Figurs, sondern weniger essen, damit Geist frei wird für Gott.
+Fasten als Buße über begagene Sünden; UND: Fasten als Stärkung des Willens.
+
+In der Fastenzeit finden wir oft Lesungen aus den Propheten, die zur Umkehr, Sehnsucht (Suche) nach Gott, Gerechtigkeit, Gebet, etc, ... aufrufen.
+
+Versuchung Jesu:
+- [[file:Bibel/nt/Mt_4.org::v1][Mt 4,1-11]]
+
+** Lesungen des Aschermittwoch:
+- [[file:Bibel/at/Joel_2.org::v12][Joël 2,12–18]]
+  Zur 1. Lesung   Zur Zeit des Propheten Joël wurde das Land Juda so von Heuschrecken verwüstet, dass nichts zu essen übrig blieb; auch für die täglichen Opfer im Tempel war nichts mehr da (1, 1–12). Der Prophet sieht in den Heuschrecken die Vorboten eines noch größeren Strafgerichts (2, 1–2). Darum ruft er zur Buße auf. Nicht eine liturgische Bußfeier soll es sein, sondern eine wirkliche Bekehrung: eine Hinwendung des ganzen Menschen zum barmherzigen Gott. „Vielleicht“ hat er Mitleid und wendet das Unheil ab. „Vielleicht“: Der schuldige Mensch hat keinen Anspruch, aber er darf hoffen. Zwei Gründe hat Gott, sein Volk zu verschonen: 1. seine erbarmende Liebe, 2. seine eigene Ehre; die Heiden würden ja spotten, wenn Jahwe sein Volk zugrunde gehen ließe. Das ist freilich eine volkstümliche Gottesvorstellung, die nicht auf der Höhe der großen Propheten steht.
+  
+- [[file:Bibel/at/Ps_51.org][Ps 51]]
+  König Davids Bußpsalm nach seinem Vergehen gegen Gott (Batseba, Urija): [[file:Bibel/at/2.Sam_11.org][2 Sam 11]].
+  Gott sandte seinen Propheten Natan zu David: cf [[file:Bibel/at/2.Sam_12.org][2 Sam 12]]
+  
+- [[file:Bibel/nt/2.Kor_5.org::v20][2 Kor 5,20]] – [[file:Bibel/nt/2.Kor_6.org::v2][6,2]]
+  Zur 2. Lesung   Die neue Schöpfung ist nicht abgeschlossen; sie ist im Werden bis zum Tag der Vollendung. Bis dahin hat Gott das „Wort der Versöhnung“ Menschen aufgetragen, die seine „Botschafter“ sind. Sie sollen den Menschen immer wieder sagen, was Gott für uns getan hat und was sich daraus an Möglichkeiten und auch an Forderungen ergibt.
+  
+- [[file:Bibel/nt/Mt_6.org::v1][Mt 6,1–6]].[[file:Bibel/nt/Mt_6.org::v16][16–18]]
+  Zum Evangelium   Die „Gerechtigkeit“, wie Jesus sie versteht (V. 1), hat nur die eine große Sorge, mit dem Willen Gottes übereinzustimmen. Almosengeben, Beten und Fasten sind drei Äußerungen der Frömmigkeit, in denen drei Grundhaltungen des Menschen zum Ausdruck kommen und sich in ihrer Echtheit bewähren müssen: im Fasten die Demut vor Gott, im Beten die Hoffnung und im Almosen die Liebe. Alle drei sind nichts wert, wenn der Mensch nicht mit reiner Absicht Gott sucht. Der Heuchler hat im Endgericht nichts mehr zu erwarten, das wird eindringlich gesagt in dem dreimaligen „Amen, ich sage euch …“ (6, 2.5.16).
+
+- Die Religionsgeschichte :: weist die Asche als Bild der Vergänglichkeit und als Zeichen der Trauer und der Buße aus. Sich das Haupt mit Asche zu bestreuen galt nicht nur bei den Israeliten, sondern auch bei Ägyptern, Arabern und Griechen als ausdrucksvolle Gebärde der Klage. Von hier aus versteht man die altkirchliche Sitte, dass öffentliche Sünder im rauen Gewand und mit Asche bestreut ihre Bußzeit antraten. Man konnte sich für diese Sitte auf Gewohnheiten berufen, die mehrfach im Alten und Neuen Testament geschildert sind: Ps 102, 10; Jes 58, 5; Mt 11, 21 u. a. Seit dem 7. Jahrhundert ist der Aschermittwoch als Tag der Bußeröffnung bezeugt. Von diesem Tag bis zum Gründonnerstag wurde von der eigentlichen Eucharistiefeier ausgeschlossen und mit schweren Bußleistungen belegt, wer eine Kapitalsünde begangen hatte. Damit waren wohl nicht nur Unzucht, Mord und Glaubensabfall gemeint, sondern alles, was heute noch beim Durchschnittsmenschen als auch subjektiv schweres Vergehen präsumiert werden kann … Als die Einrichtung der öffentlichen Buße mehr und mehr an Bedeutung verlor und endlich ganz verschwand, blieb jene Zeremonie in ihrer Grundform als sinnvolle Einführung aller Gläubigen in die große Bußzeit der Kirche bestehen. Diese Übung hatte sich gewiss schon eine beträchtliche Zeit eingebürgert, als Papst Urban II. auf der Synode von Benevent 1091 es als eine Pflicht der Gläubigen bezeichnete, am Beginn der Fastenzeit sich in der Kirche mit Asche bestreuen zu lassen. (Alfons Auer)
+
+  
+** Lesungen Erster Fastensonntag
+- [[file:Bibel/at/Gen_9.org::v8][Gen 9,8–15]]
+  ZUR 1. LESUNG   Die Sintflut war das Gericht Gottes über eine aus der Ordnung geratene Welt. Aber nach dem Gericht gewährt Gott einen neuen Anfang; er schließt einen Bund mit Noach und der ganzen Menschheit. Trotz des Bösen, das auch in Zukunft geschehen wird, will er die Erde nicht wieder verwüsten. Das ist eine Aussage des Glaubens und der Hoffnung, gültig auch für spätere Zeiten des Gerichts und des scheinbar unvermeidlichen Untergangs. Gottes Treue bleibt bestehen.
+  
+- [[file:Bibel/at/Ps_25.org][Ps 25]]
+  
+- [[file:Bibel/nt/1.Petr_3.org::v18][1 Petr 3,18–22]]
+  ZUR 2. LESUNG   Die Lesung aus dem ersten Petrusbrief enthält Grundaussagen über den christlichen Glauben. Christus ist gestorben für die Sünden der Welt; er ist in das Reich des Todes hinabgestiegen, und er ist von den Toten auferstanden. Nachdem Christus bis in den Tod hinein den Weg der Menschen gegangen ist, kann der Mensch durch die Taufe den Weg zum Leben gehen. Die Taufe wird hier als Gegenbild der Sintflut gesehen. Sie gewährt das reine Gewissen und orientiert den Menschen dorthin, wohin Christus vorausgegangen ist.
+  
+- [[file:Bibel/nt/Mk_1.org::v12][Mk 1,12–15]]
+  ZUM EVANGELIUM   Nach der Taufe Jesu berichtet das Markusevangelium kurz über die vierzig Tage in der Wüste und über das erste Auftreten Jesu in Galiläa. Der Widersacher hat keine Gewalt über ihn, den ganz Heiligen. Engel und Tiere dienen ihm, dem neuen Menschen. Jesus ruft das „Evangelium Gottes“ aus; es gibt Rettung für den, der an das Evangelium glaubt. Glaube und Umkehr sind Forderungen Gottes an den Menschen, und es sind zugleich seine Gaben.
+
+- DISZIPLIN :: Um das Herz gezielt auf etwas auszurichten, bedarf es nicht nur eines ehrlichen Wollens, sondern auch einer festen Entschlossenheit. Disziplin gehört wesentlich zur Jüngerschaft. Die Übung geistlicher Disziplin schärft unser Wahrnehmungsvermögen für die leise, sanfte Stimme Gottes.
+  Jesus hörte ständig auf den Vater, achtete ständig aufmerksam auf seine Stimme, war ständig bereit, seinen Weisungen zu folgen. Jesus war „ganz Ohr“. Darin besteht das Eigentliche des Gebets: ganz Ohr für Gott zu sein. Den innersten Kern allen Betens stellt dieses Hören dar, dieses gehorsame Stehen in der Gegenwart Gottes. (Henri Nouwen)
+
+* Bräuche
+
+* Pädagogik / Themen
+
+** Erklärung und Bedeutung der Bräuche
+
+** Bibel lesen
+- Propheten; Gen 9 (Bund mit Noah), Gen 15 (Abraham); Lev 19; ...
+- Ps 1, 19, 25, 34, 51, 63, 86, ...
+- Evangelium
+
+Lesungen aus der Liturgie
+
+** Fastenvorsatz
+- Süßigkeiten
+- Handy, Internet, PC, Videospiele, ...
+- mehr Gebet, ...
+- Almosen
+- Lektüre
+- weniger Fleisch
+- etc
+
+** gemeinsames Fasten für (Arme?)
+
+** Gerechtigkeit / Barmherzigkeit
+- persönlich
+- sozial
+
+** Wie erlöst uns Jesus?
+Heilsgeschichte in der Bibel
+
+Umgang mit eigener Schuld
+
+Ungerechte Strukturen in unserer Gesellschaft 
+
+* Stundenvorschläge
+Siehe Themen der 4. Klassen:
+
+[[denote:20240130T101420][Themen vierte Klassen]]
+
+* Material
+
+** YouTube Videos (kathmedia)
+[[https://www.youtube.com/watch?v=9LF0HuEO4k0][Mortifikation 101 - Fastenzeit auf katholisch. Ein "How to"!]]
+
+[[https://www.youtube.com/watch?v=w4nzdN4Rhj0][Warum ausgerechnet 40 Tage? Eine kurze Geschichte der Fastenzeit]]
+
+[[https://www.youtube.com/watch?v=VZC-MYWK-A8][Über die Verhüllungskunst der Passionszeit und das Nagen am Hungertuch]]
+
+[[https://www.youtube.com/watch?v=-CpduWwZfEs][Wo kauft man die Asche für den Aschermittwoch? Über Palmbuschen und katholisches Recycling]]
+
+

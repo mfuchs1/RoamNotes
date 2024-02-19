@@ -22,7 +22,7 @@
 :PROPERTIES:
 :ID:       d1a8103e-d94e-4abe-868e-0dc7c88401b5
 :END:
-<%%(org-class 2023 9 12 2024 7 6 2 52)>
+<%%(org-class 2023 9 12 2024 7 6 2 07)>
 
 Film "Auf dem Weg zur Schule"
 
@@ -30,9 +30,11 @@ Film "Auf dem Weg zur Schule"
 :PROPERTIES:
 :ID:       22eebb3a-fcdf-446b-8c02-adab50b5c75e
 :END:
-<%%(org-class 2023 9 15 2024 7 9 5 52)>
+<%%(org-class 2023 9 15 2024 7 9 5 07)>
 
 [[denote:20230619T145033][[SW31] Ich gehöre dazu / ein gemeinsamer Glaube]]
+
+Spiel: Activity / Film "Auf dem Weg zur Schule"
 
 * 1B [KV Gertraud Viertbauer]
 #+Name: 2021-students

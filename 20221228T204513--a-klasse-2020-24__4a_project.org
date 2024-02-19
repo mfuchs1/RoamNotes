@@ -20,12 +20,35 @@
 
 
 * 4a 10:40-11:30
-<%%(org-class 2023 9 11 2024 7 5 1 52)>
+<%%(org-class 2023 9 11 2024 7 5 1 07)>
 
-Film?
+[[denote:20240214T110307][Fastenzeit]]
+
+Versuchung Jesu:
+- [[file:Bibel/nt/Mt_4.org::v1][Mt 4,1-11]]
+
+[[denote:20240130T101420][Themen vierte Klassen]]
+
+** Kirche
+- Ostern (Hintergrund, Warum?, etc...)
+- Weg zur Auferstehung zeichnen
+
+
+** Bibel
+- Arche Noah
+- Mose
+- 7 Trompeten (Offb)
+- Brief des Jakobus, an Titus (Paulusbriefe, ...)
+- Evangelium nach Matthäus (NT)
+- Texte aus der Literatur, die wir ohne die Hl. Schrift nicht verstehen können. Dafür gibt es, so denke ich, sehr viele Belege. Müsste sie nur finden ...
+
+
+** Geschichte
+- Verfolgung der Christen während der NS-Diktatur (Anne Frank, P. Kolbe, ...)
+
   
 * 4a 08:40-09:30
-<%%(org-class 2023 9 12 2024 7 6 2 52)>
+<%%(org-class 2023 9 12 2024 7 6 2 07)>
 
 
 

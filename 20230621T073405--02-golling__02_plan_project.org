@@ -146,12 +146,18 @@ CLOSED: [2024-02-02 Fr 08:54] SCHEDULED: <2024-01-29 Mo>
 :END:
 
 
-** [[denote:20230619T212439][[SW22] Whg Semester-Stoff / Film]]
-SCHEDULED: <2024-02-05 Mo>
+** DONE [[denote:20230619T212439][[SW22] Whg Semester-Stoff / Film]]
+CLOSED: [2024-02-13 Di 14:23] SCHEDULED: <2024-02-05 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-02-13 Di 14:23]
+:END:
 
 
-** [SW23] Semesterferien
-SCHEDULED: <2024-02-12 Mo>
+** DONE [SW23] Semesterferien
+CLOSED: [2024-02-13 Di 14:23] SCHEDULED: <2024-02-12 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-02-13 Di 14:23]
+:END:
 
 
 ** [[denote:20230619T212459][[SW24] Geschichte und Geschichten]]

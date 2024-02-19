@@ -19,7 +19,7 @@
 
 
 * 4b 07:45-08:35
-<%%(org-class 2023 9 12 2024 7 6 2 52)>
+<%%(org-class 2023 9 12 2024 7 6 2 07)>
 
 Buch der Offenbarung lesen - Kommentar:
 [[file:~/NMS_Golling/Bibel_NT/Arbeitsblaetter_zur_Offenbarung.pdf]]
@@ -28,13 +28,17 @@ Themenwünsche:
 - Poltitk (Israel, Palästina)
 - Schwarzmarkt (illegale Wirtschaft)
 - Wir Kinder vom Bahnhof Zoo
-  
+
+[[denote:20240130T101420][Themen vierte Klassen]]
+
+[[denote:20240214T110307][Fastenzeit]]
+
 * 4b 07:45-08:35
-<%%(org-class 2023 9 13 2024 7 7 3 52)>
+<%%(org-class 2023 9 13 2024 7 7 3 07)>
 
-Ice Age 5 (weiter und fertig
+[[denote:20240130T101420][Themen vierte Klassen]]
 
-[[denote:20230711T003903][[SW14] Ein neuer Himmel, eine neue Erde]]
+[[denote:20240214T110307][Fastenzeit]]
 
 
 * 4B [KV Erwin Essl]

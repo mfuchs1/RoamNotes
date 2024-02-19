@@ -27,6 +27,22 @@ CLOSED: [2024-01-22 Mo 08:26] DEADLINE: <2024-01-21 So 17:04>
 :END:
 [[denote:20240120T220015][Links]]
 
+** DONE [#A] Supplierplan checken (Sokrates-Web)
+CLOSED: [2024-02-18 So 22:39] DEADLINE: <2024-02-18 So 21:00>
+:PROPERTIES:
+:CAPTURED: [2024-02-18 So 00:01]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2024-02-18 So 22:39]
+:END:
+
+** TODO [#A] Frau Weninger kontaktieren (Schulbücher)
+DEADLINE: <2024-02-19 Mo 10:25>
+:PROPERTIES:
+:CAPTURED: [2024-02-19 Mo 08:50]
+:END:
+[[mailto: "Elisabeth Weninger" <elisabeth.weninger@motzko.at>]]
+
 * Tasks [Mails]
 :PROPERTIES:
 :CATEGORY: TODO Mails

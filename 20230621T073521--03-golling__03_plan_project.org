@@ -141,11 +141,17 @@ CLOSED: [2024-02-02 Fr 08:54] SCHEDULED: <2024-01-29 Mo>
 - State "DONE"       from              [2024-02-02 Fr 08:54]
 :END:
 
-** [[denote:20230624T234706][[SW22] Israel ein unterdrücktes Volk / Exodus Wunder der Befreiung]]
-SCHEDULED: <2024-02-05 Mo>
+** DONE [[denote:20230624T234706][[SW22] Israel ein unterdrücktes Volk / Exodus Wunder der Befreiung]]
+CLOSED: [2024-02-13 Di 14:23] SCHEDULED: <2024-02-05 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-02-13 Di 14:23]
+:END:
 
-** [[denote:20230624T234950][[SW23] Eine bleibende Erfahrung]] (Semsterferien)
-SCHEDULED: <2024-02-12 Mo>
+** DONE [[denote:20230624T234950][[SW23] Eine bleibende Erfahrung]] (Semsterferien)
+CLOSED: [2024-02-13 Di 14:23] SCHEDULED: <2024-02-12 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-02-13 Di 14:23]
+:END:
 
 ** [[denote:20230624T235040][[SW24] Dekalog - die Freiheit sichern]]
 
