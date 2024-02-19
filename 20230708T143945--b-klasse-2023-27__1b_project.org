@@ -35,6 +35,7 @@ Film "Auf dem Weg zur Schule"
 [[denote:20230619T145033][[SW31] Ich gehöre dazu / ein gemeinsamer Glaube]]
 
 Spiel: Activity / Film "Auf dem Weg zur Schule"
+neue Zeile...
 
 * 1B [KV Gertraud Viertbauer]
 #+Name: 2021-students
