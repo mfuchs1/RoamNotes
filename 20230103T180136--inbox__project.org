@@ -36,10 +36,13 @@ CLOSED: [2024-02-18 So 22:39] DEADLINE: <2024-02-18 So 21:00>
 - State "DONE"       from "TODO"       [2024-02-18 So 22:39]
 :END:
 
-** TODO [#A] Frau Weninger kontaktieren (Schulbücher)
-DEADLINE: <2024-02-19 Mo 10:25>
+** DONE [#A] Frau Weninger kontaktieren (Schulbücher)
+CLOSED: [2024-02-20 Di 07:45] DEADLINE: <2024-02-19 Mo 10:25>
 :PROPERTIES:
 :CAPTURED: [2024-02-19 Mo 08:50]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2024-02-20 Di 07:45]
 :END:
 [[mailto: "Elisabeth Weninger" <elisabeth.weninger@motzko.at>]]
 

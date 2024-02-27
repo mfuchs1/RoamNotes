@@ -145,45 +145,68 @@ CLOSED: [2024-02-13 Di 14:23] SCHEDULED: <2024-02-12 Mo>
 - State "DONE"       from              [2024-02-13 Di 14:23]
 :END:
 
-** [[denote:20230619T092006][[SW24] Eine Kirche die uns verbindet / Menschen beten]]
+** DONE [[denote:20230619T092006][[SW24] Eine Kirche die uns verbindet / Menschen beten]]
+CLOSED: [2024-02-23 Fr 21:21] SCHEDULED: <2024-02-19 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-02-23 Fr 21:21]
+:END:
 
 ** [[denote:20230619T092126][[SW25] Über mein Leben nachdenken / Impuls: Dankbar sein]]
+SCHEDULED: <2024-02-26 Mo>
 
 ** [[denote:20230619T092443][[SW26] Arten von Gebeten / mit dem Körper beten]]
+SCHEDULED: <2024-03-04 Mo>
 
 ** [[denote:20230619T092702][[SW27] Vielfalt unseres Betens / wie wir beten können]]
+SCHEDULED: <2024-03-11 Mo>
    
 ** [[denote:20230619T092912][[SW28] Die Bitten unseres Lebens / Das Vaterunser]]
+SCHEDULED: <2024-03-18 Mo>
 
-** [[denote:20230619T144913][[SW29] Die Gemeinschaft der Glaubenden]]
+** [SW29] Osterferien1
+SCHEDULED: <2024-03-25 Mo>
 
 ** DONE [SW30] Karwoche / Osterferien
+SCHEDULED: <2024-04-01 Mo>
 
 ** [[denote:20230619T145033][[SW31] Ich gehöre dazu / ein gemeinsamer Glaube]]
+SCHEDULED: <2024-04-08 Mo>
 
 ** [[denote:20230619T145125][[SW32] Jesus ist auferstanden / Osterfestkreis (Kap 5.7)]]
+SCHEDULED: <2024-04-15 Mo>
 
 ** [[denote:20230619T145222][[SW33] Gottes Gegenwart feiern / Übungsteil]]
+SCHEDULED: <2024-04-22 Mo>
 
 ** [[denote:20230619T145319][[SW34] Eine Welt die uns prägt / Die Feste unserer Welt]]
+SCHEDULED: <2024-04-29 Mo>
 
 ** [[denote:20230619T145418][[SW35] Durstrecken unseres Lebens / Grund zu feiern]]
+SCHEDULED: <2024-05-06 Mo>
 
 ** [[denote:20230619T145518][[SW36] Lauf des Lebens / das Kirchenjahr]]
+SCHEDULED: <2024-05-13 Mo>
 
 ** [[denote:20230619T145559][[SW37] Feste im Kirchenjahr / Übungsteil]]
+SCHEDULED: <2024-05-20 Mo>
 
 ** [[denote:20230619T145640][[SW38] Vielfalt, die uns eint / Wo ich Zuhause bin]]
+SCHEDULED: <2024-05-27 Mo>
 
 ** [[denote:20230619T145734][[SW39] Unsere Vielfalt]]
+SCHEDULED: <2024-06-03 Mo>
 
 ** [[denote:20230619T145818][[SW40] Vielfalt der Reigionen]]
+SCHEDULED: <2024-06-10 Mo>
 
 ** [[denote:20230619T145913][[SW41] Weltreligionen / Drei Konfessionen stellen sich vor]]
+SCHEDULED: <2024-06-17 Mo>
 
 ** [[denote:20230619T150019][[SW42] Übungsteil]]
+SCHEDULED: <2024-06-24 Mo>
 
 ** [[denote:20230623T174332][[SW43] Schulgottesdienst]]
+SCHEDULED: <2024-07-01 Mo>
 
 
 * Kompetenzbereiche und Kompetenzdimensionen

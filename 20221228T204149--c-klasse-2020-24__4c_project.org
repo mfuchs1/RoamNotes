@@ -23,12 +23,12 @@
 
 [[denote:20240130T101420][Themen vierte Klassen]]
 
-[[denote:20240214T110307][Fastenzeit]]
+Arche Noah - Film mit Russell Crow.
 
 * 4c 09:35-10:25
 <%%(org-class 2023 9 14 2024 7 8 4 07)>
 
-
+Arche Noah - Film mit Russell Crow.
 
 * 4C [KV Gertraud Ellmauer]
 #+Name: 2021-students

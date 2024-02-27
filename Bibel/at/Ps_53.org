@@ -1,29 +1,24 @@
-:PROPERTIES:
-:ID:       7d39980a-ad65-4ba6-ab2c-3245b4053017
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Die Psalmen* -- [[file:Ps_1.html][1]] ...
-[[file:Ps_51.html][51]] [[file:Ps_52.html][52]] *53*
-[[file:Ps_54.html][54]] [[file:Ps_55.html][55]] ...
-[[file:Ps_150.html][150]]
-
---------------
+#+TITLE: Ps 53 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-02-27 Di 17:43]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 53.html
 
 * Ps 53
-  :PROPERTIES:
-  :CUSTOM_ID: ps-53
-  :END:
-
 <<verses>>
 
 <<v1>>
-**** Die Torheit der Gottesleugner
-     :PROPERTIES:
-     :CUSTOM_ID: die-torheit-der-gottesleugner
-     :END:
+* Die Torheit der Gottesleugner
+
 1 [Für den Chormeister. Nach der Weise «Krankheit». Ein Weisheitslied
-Davids.] ^{[[#fn1][1]]}\\
+Davids.] [fn:1]\\
 \\
 
 <<v2>>
@@ -39,7 +34,7 @@ Davids.] ^{[[#fn1][1]]}\\
 
 <<v4>>
 4 Alle sind sie abtrünnig und verdorben, /\\
- keiner tut Gutes, auch nicht ein Einziger. ^{[[#fn2][2]]}\\
+ keiner tut Gutes, auch nicht ein Einziger. [fn:2]\\
 \\
 
 <<v5>>
@@ -52,7 +47,7 @@ Davids.] ^{[[#fn1][1]]}\\
 6 Es trifft sie Furcht und Schrecken, /\\
  obwohl doch nichts zu fürchten ist. Deinen Bedrängern hat Gott die
 Glieder zerschlagen. /\\
- Gott lässt sie scheitern, denn er hat sie verworfen. ^{[[#fn3][3]]}\\
+ Gott lässt sie scheitern, denn er hat sie verworfen. [fn:3]\\
 \\
 
 <<v7>>
@@ -61,10 +56,11 @@ Glieder zerschlagen. /\\
  dann jubelt Jakob, dann freut sich Israel.\\
 \\
 
-^{[[#fnm1][1]]} ℘ (1-7) Ps 14
+* Footnotes
 
-^{[[#fnm2][2]]} Text korr. nach G und der aramäischen Übersetzung; vgl.
-auch 14,3.
+[fn:1] (1-7) [[file:Ps_14.org][Ps 14]]
 
-^{[[#fnm3][3]]} Wörtlich: Gott zerstreut die Gebeine deines Belagerers.
+[fn:2] Text korr. nach G und der aramäischen Übersetzung; vgl. auch [[file:Ps_14.org::v3][14,3]].
+
+[fn:3] Wörtlich: Gott zerstreut die Gebeine deines Belagerers.
 Text korr. nach G.

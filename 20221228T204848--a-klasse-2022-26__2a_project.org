@@ -26,6 +26,7 @@
 
 [[denote:20240214T110307][Fastenzeit]]
 
+Übungsteil Sakramente / Kahoot zum Thema.
 
 * 2a 09:35-10:25
 :PROPERTIES:
@@ -33,6 +34,9 @@
 :CUSTOM_ID: 2a_Di
 :END:
 <%%(org-class 2023 9 12 2024 7 6 2 07)>
+
+Neues Thema / oder in der Bibel?
+Oder Film?
 
 
 * 2A MINT [KV Manuela Singer]

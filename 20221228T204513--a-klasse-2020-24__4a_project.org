@@ -14,7 +14,6 @@
 #+AUTHOR: Matthias Fuchs
 #+EMAIL: matthiasfuchs01@gmail.com
 
-
 * Jahresplanung
 [[denote:20230621T073603][04 Golling]]
 
@@ -22,34 +21,28 @@
 * 4a 10:40-11:30
 <%%(org-class 2023 9 11 2024 7 5 1 07)>
 
-[[denote:20240214T110307][Fastenzeit]]
-
-Versuchung Jesu:
-- [[file:Bibel/nt/Mt_4.org::v1][Mt 4,1-11]]
-
 [[denote:20240130T101420][Themen vierte Klassen]]
 
-** Kirche
-- Ostern (Hintergrund, Warum?, etc...)
-- Weg zur Auferstehung zeichnen
+Leider erst das nächste Mal - bitte Film auf USB-Drive kopieren!
+Arche Noah - Film mit Russell Crow. Hm, der Film ist doch recht düster, oder?
 
+Kahoot über Bibel (AT / NT)
 
-** Bibel
-- Arche Noah
-- Mose
-- 7 Trompeten (Offb)
-- Brief des Jakobus, an Titus (Paulusbriefe, ...)
-- Evangelium nach Matthäus (NT)
-- Texte aus der Literatur, die wir ohne die Hl. Schrift nicht verstehen können. Dafür gibt es, so denke ich, sehr viele Belege. Müsste sie nur finden ...
-
-
-** Geschichte
-- Verfolgung der Christen während der NS-Diktatur (Anne Frank, P. Kolbe, ...)
-
-  
 * 4a 08:40-09:30
 <%%(org-class 2023 9 12 2024 7 6 2 07)>
 
+Religionen:
+- ihre Entstehung
+- woher kommt die Religion überhaupt?
+
+Bücher aus Bibliothek?
+- Atlas der Weltreligionen
+- memo: Christentum
+- memo: Islam
+- Brockhaus: "Religion"
+- Jugendlexikon: "Religion"
+- YouCat Glaubenskurs (die ersten 4-5 Kapitel)
+- YouCat Firmbuch: "Was wir über Gott wissen können"
 
 
 * 4A [KV Magdalena Pürrer]

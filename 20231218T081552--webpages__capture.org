@@ -1,6 +1,7 @@
 #+title:      Webpages
 #+date:       [2023-12-18 Mo 08:15]
 #+filetags:   :capture:
+#+STARTUP: showall
 #+identifier: 20231218T081552
 
 * Bildung ohne Schule - 
@@ -31,3 +32,46 @@ Die Kathedrale von Autun ist eine romanische Bischofskirche für das Bistum Autu
 :END:
 Das romanische Kapitell „Traum der Könige“ in der Kathedrale von Autun in Burgund gehört zu den berühmtesten Darstellungen dieser Art. Meister Gislebertus hat es um 1220 aus Stein gemeißelt. Zu sehen sind der Engel Gabriel und die Heiligen drei Könige. Über ihnen schwebt der Stern von Bethlehem. Mit dem ausgestreckten Zeigefinger der linken Hand weist der Engel energisch auf den Stern, mit dem Zeigefinger der rechten Hand berührt er zart den Ringfinger des obersten Königs. Das Thema ist nicht der Schlaf oder der Traum der drei Könige, sondern das Erwachen aus der Dunkelheit und der Aufbruch in das Licht!
 
+* [[https://tkp.at/2024/02/20/australien-erlaubt-gen-banane/][Australien erlaubt Gen-Banane]] :website:
+
+[2024-02-20 Di 21:19] 
+
+Für die Wissenschaftler ist es die erste gentechnisch veränderte Banane der Welt, die für Konsumenten zugelassen wurde.
+
+* Australien erlaubt Gen-Banane
+:PROPERTIES:
+:CREATED: [2024-02-20 Di 21:19]
+:SOURCE: https://tkp.at/2024/02/20/australien-erlaubt-gen-banane/
+:END:
+Australische Kunden werden bald gentechnische manipulierte Bananen im Supermarkt vorgesetzt bekommen. Die GMO-Banane, die gegen die sogenannte „Panama-Krankheit“ resistent sein soll, darf freigesetzt werden und wurde für den menschlichen Konsum erlaubt. Die Sorte QCAV-4 ist laut den Wissenschaftlern die „erste gentechnisch veränderte Banane der Welt und wird die erste gentechnisch veränderte Frucht sein, die von der australischen Regierung für den Anbau in Australien zugelassen wird“. Die GMO-Banane könnte langfristig die klassischen Bananen auch in Europa ablösen.
+
+* [[https://tkp.at/2024/02/20/australien-erlaubt-gen-banane/][Australien erlaubt Gen-Banane]] :website:
+
+[2024-02-20 Di 21:26] 
+
+** Australien erlaubt Gen-Banane
+:PROPERTIES:
+:CUSTOM_ID: australien-erlaubt-gen-banane
+:CLASS: title-heading-left fusion-responsive-typography-calculated
+:style: margin:0;--fontSize:38;line-height:1.15;
+:END:
+
+20. Februar 2024von [[https://tkp.at/autoren/thomas-oysmueller/][Thomas Oysmüller]]2,4 Minuten Lesezeit
+
+*Für die Wissenschaftler ist es die erste gentechnisch veränderte Banane der Welt, die für Konsumenten zugelassen wurde.*
+
+Australische Kunden werden bald gentechnische manipulierte Bananen im Supermarkt vorgesetzt bekommen. Die GMO-Banane, die gegen die sogenannte „Panama-Krankheit“ resistent sein soll, darf freigesetzt werden und wurde für den menschlichen Konsum erlaubt. Die Sorte QCAV-4 ist laut den Wissenschaftlern die „erste gentechnisch veränderte Banane der Welt und wird die erste gentechnisch veränderte Frucht sein, die von der australischen Regierung für den Anbau in Australien zugelassen wird“. Die GMO-Banane könnte langfristig die klassischen Bananen auch in Europa ablösen.
+
+<<taboola-mid-article-thumbnails>>
+
+**** Gen-Zeitalter
+:PROPERTIES:
+:CUSTOM_ID: gen-zeitalter
+:CLASS: fusion-responsive-typography-calculated
+:style: --fontSize: 20; line-height: 1.2;
+:fontsize: 20
+:lineheight: 24px
+:END:
+Die Banane ist durch die Panama-Krankheit (TR4), eine Pilzkrankheit, die den Bananenstauden die Nährstoffe entzieht und letztlich tötet, weltweit bedroht. Die Gen-Banane, wird als „Reserveoption“ verkauft und als „wichtiger Schritt zum Aufbau eines Sicherheitsnetzes für die weltweiten Cavendish-Bananen vor TR4.“ Zum Essen sei sie „sicher“, heißt es in einem Nebensatz im aktuellen Bericht im Fachmagazin /[[https://www.abc.net.au/news/2024-02-16/australia-approves-first-genetically-modified-banana-panama-tr4/103476986?utm_source=Live+Audience&utm_campaign=379f11e430-briefing-dy-20240219&utm_medium=email&utm_term=0_b27a691814-379f11e430-51699044][Nature]]/ zur Zulassung.
+
+Man habe „ein Bananengen von einer Banane auf eine andere übertragen“, was „nicht ungewöhnliches“ sei, heißt es aus der Wissenschaft. Bisher sei TR4 in Australien auch „ziemlich gut unter Kontrolle“, die GMO-Banane wird also nicht gebraucht: „Das kann sich jedoch ändern, so dass dies wirklich unser Sicherheitsnetz ist“, sagte Professor Dale, der die Forschung leitet.

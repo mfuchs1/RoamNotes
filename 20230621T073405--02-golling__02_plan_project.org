@@ -159,51 +159,69 @@ CLOSED: [2024-02-13 Di 14:23] SCHEDULED: <2024-02-12 Mo>
 - State "DONE"       from              [2024-02-13 Di 14:23]
 :END:
 
-
-** [[denote:20230619T212459][[SW24] Geschichte und Geschichten]]
+** DONE [[denote:20230619T212459][[SW24] Geschichte und Geschichten]]
+CLOSED: [2024-02-23 Fr 21:21] SCHEDULED: <2024-02-19 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-02-23 Fr 21:21]
+:END:
 
 ** [[denote:20230619T213448][[SW25] Die Welt des Alten Testaments]]
+SCHEDULED: <2024-02-26 Mo>
 
 ** [[denote:20230619T213605][[SW26] Übungsteil: Und jetzt ich Das nehme ich mit]]
+SCHEDULED: <2024-03-04 Mo>
 
 ** [[denote:20230619T213701][[SW27] Eine Sprache in Bildern / Zeichen und Symbole]]
+SCHEDULED: <2024-03-11 Mo>
 
 ** [[denote:20230619T213839][[SW28] Impuls: Symbole sprechen lassen]]
+SCHEDULED: <2024-03-18 Mo>
 
-** [[denote:20230619T213939][[SW29] Übergang: Das sichtbare Symbol / Die spürbare Wirkung]]
+** [SW29] Osterferien2
+SCHEDULED: <2024-03-25 Mo>
 
 ** [SW30] Karwoche / Osterferien
-
+SCHEDULED: <2024-04-01 Mo>
 
 ** [[denote:20230619T214024][[SW31] Was ist ein Sakrament?]]
+SCHEDULED: <2024-04-08 Mo>
 
 ** [[denote:20230619T214113][[SW32] Sakramente: Symbole und Zeichen erschließen]]
+SCHEDULED: <2024-04-15 Mo>
 
 ** [[denote:20230619T214230][[SW33] Übungsteil: Und jetzt ich / Das nehme ich mit!]]
+SCHEDULED: <2024-04-22 Mo>
 
 ** [[denote:20230619T214323][[SW34] Religion prägt / Bräuche und Traditionen]]
+SCHEDULED: <2024-04-29 Mo>
  
 ** [[denote:20230619T214453][[SW35] Unter dem Schutz Marias]]
+SCHEDULED: <2024-05-06 Mo>
 
 ** [[denote:20230619T214614][[SW36] Übergang: Die Kirche – das Haus Gottes]]
+SCHEDULED: <2024-05-13 Mo>
 
 ** [[denote:20230619T214705][[SW37] Kirchenraum: Gottes Haus erkunden]]
+SCHEDULED: <2024-05-20 Mo>
 
 ** [[denote:20230619T214749][[SW38] Das Judentum: Ein Überblick]]
+SCHEDULED: <2024-05-27 Mo>
 
 ** [[denote:20230619T214855][[SW39] Die Erwartung des Messias]]
+SCHEDULED: <2024-06-03 Mo>
 
 ** [[denote:20230619T215023][[SW40] Feste und Feiern]]
+SCHEDULED: <2024-06-10 Mo>
 
 ** [[denote:20230619T215054][[SW41] Die Synagoge]]
-<2023-06-19 Mo>
+SCHEDULED: <2024-06-17 Mo>
 
 ** [[denote:20230619T215155][[SW42] Übungsteil: Und jetzt ich Das nehme ich mit]]
-<2023-06-26 Mo>
-
+SCHEDULED: <2024-06-24 Mo>
 
 ** [[denote:20230619T215240][[SW43] Schulgottesdienst]]
-<2023-07-03 Mo>
+SCHEDULED: <2024-07-01 Mo>
+
 
 *  Kompetenzbereiche und Kompetenzdimensionen
 

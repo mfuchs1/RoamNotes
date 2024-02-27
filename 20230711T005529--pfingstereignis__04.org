@@ -1,6 +1,6 @@
-#+title:      [SW39] Pfingstereignis
+#+title:      Pfingstereignis
 #+date:       [2023-07-11 Di 00:55]
-#+filetags:   :04:sw39:
+#+filetags:   :04:
 #+identifier: 20230711T005529
 
 

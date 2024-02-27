@@ -24,7 +24,7 @@
 :END:
 <%%(org-class 2023 9 12 2024 7 6 2 07)>
 
-Film "Auf dem Weg zur Schule"
+Eucharistie
 
 * 1b 07:45-08:35
 :PROPERTIES:
@@ -32,10 +32,7 @@ Film "Auf dem Weg zur Schule"
 :END:
 <%%(org-class 2023 9 15 2024 7 9 5 07)>
 
-[[denote:20230619T145033][[SW31] Ich gehöre dazu / ein gemeinsamer Glaube]]
-
-Spiel: Activity / Film "Auf dem Weg zur Schule"
-neue Zeile...
+Eucharistie - Übungsteil
 
 * 1B [KV Gertraud Viertbauer]
 #+Name: 2021-students

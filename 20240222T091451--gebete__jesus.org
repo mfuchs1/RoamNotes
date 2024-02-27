@@ -1,0 +1,63 @@
+#+title:      Gebete
+#+date:       [2024-02-22 Do 09:14]
+#+filetags:   :jesus:
+#+identifier: 20240222T091451
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Gebete.html
+
+Heilige Maria, Mutter Gottes,\\
+du hast der Welt\\
+das wahre Licht geschenkt,\\
+Jesus, deinen Sohn — Gottes Sohn.\\
+Du hast dich ganz\\
+dem Ruf Gottes überantwortet\\
+und bist so zum Quell der Güte geworden,\\
+die aus ihm strömt.\\
+Zeige uns Jesus. Führe uns zu ihm.\\
+Lehre uns ihn kennen und ihn lieben,\\
+damit auch wir selbst\\
+wahrhaft Liebende\\
+und Quelle lebendigen Wassers\\
+werden können\\
+inmitten einer dürstenden Welt.
+
+
+Komm, Schöpfer Geist, kehr bei uns ein,\\
+besuch das Herz der Kinder dein:\\
+Die deine Macht erschaffen hat,\\
+erfülle nun mit deiner Gnad´.\\
+
+Der du der Tröster wirst genannt,\\
+vom höchsten Gott ein Gnadenpfand,\\
+du Lebensbrunn, Licht, Lieb und Glut,\\
+der Seele Salbung, höchstes Gut.\\
+
+O Schatz, der siebenfältig ziert,\\
+o Finger Gottes, der uns führt,\\
+Geschenk, vom Vater zugesagt,\\
+du, der die Zungen reden macht.\\
+
+Zünd an in uns des Lichtes Schein,\\
+gieß Liebe in die Herzen ein,\\
+stärk unsres Leibs Gebrechlichkeit\\
+mit deiner Kraft zu jeder Zeit.\\
+
+Treib weit von uns des Feinds Gewalt,\\
+in deinem Frieden uns erhalt,\\
+dass wir, geführt von deinem Licht,\\
+in Sünd und Elend fallen nicht.\\
+
+Den Vater auf dem ew´gen Thron\\
+lehr uns erkennen und den Sohn;\\
+dich, beider Geist, sei´n wir bereit,\\
+zu preisen gläubig alle Zeit.\\
+
+Dem Vater Lob im höchsten Thron\\
+und seinem auferstandnen Sohn,\\
+dem Tröster auch sei Lob geweiht\\
+jetzt und in alle Ewigkeit.\\
+Amen. 

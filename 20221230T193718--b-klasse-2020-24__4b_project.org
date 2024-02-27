@@ -21,17 +21,22 @@
 * 4b 07:45-08:35
 <%%(org-class 2023 9 12 2024 7 6 2 07)>
 
-Buch der Offenbarung lesen - Kommentar:
-[[file:~/NMS_Golling/Bibel_NT/Arbeitsblaetter_zur_Offenbarung.pdf]]
-
-Themenwünsche:
-- Poltitk (Israel, Palästina)
-- Schwarzmarkt (illegale Wirtschaft)
-- Wir Kinder vom Bahnhof Zoo
-
 [[denote:20240130T101420][Themen vierte Klassen]]
 
-[[denote:20240214T110307][Fastenzeit]]
+Religionen:
+- ihre Entstehung
+- woher kommt die Religion überhaupt?
+
+Bücher aus Bibliothek?
+- Atlas der Weltreligionen
+- memo: Christentum
+- memo: Islam
+- Brockhaus: "Religion"
+- Jugendlexikon: "Religion"
+- YouCat Glaubenskurs (die ersten 4-5 Kapitel)
+- YouCat Firmbuch: "Was wir über Gott wissen können"
+
+
 
 * 4b 07:45-08:35
 <%%(org-class 2023 9 13 2024 7 7 3 07)>
@@ -40,6 +45,15 @@ Themenwünsche:
 
 [[denote:20240214T110307][Fastenzeit]]
 
+Religionen:
+- ihre Entstehung
+- woher kommt die Religion überhaupt?
+
+Geschichte:
+- Kreuzzüge
+
+Bibel:
+- Arche Noach
 
 * 4B [KV Erwin Essl]
 

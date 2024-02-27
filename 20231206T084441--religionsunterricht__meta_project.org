@@ -54,7 +54,7 @@ Wie verwalte ich aber meine eigenen Gedanken zum Unterricht? Hier in dieser Date
 The Chosen - 3. Staffel - Zu Zweit:
 "Um Großes zu tun, brauchst du nichts fühlen. - Jesus braucht uns nicht, er will uns."
 
-Wo trage ich eigentlich meine laufenden Gednken ein? Idee: =inbox.org=
+Wo trage ich eigentlich meine laufenden Gedanken ein? Idee: =inbox.org=
 
 Begegnung Jesus mit (dem kleinen) Jakobus Thaddäus? - so stark; ... Warum soll jemand wie Jakobus, der humpelt, Kranke heilen? Er selbst hat Jesus noch nie um seine Heilung gebeten? ... "Du hast mich nicht geheilt. - Möchtest du geheilt werden? - Nur wenn es möglich ist. - Du weißt, dass es möglich ist. - Hör mir gut zu: Nach dem Willen des Vaters könnte ich dich heilen; es gibt schon so viele. Aber deine Geschichte: du bist nicht geheilt, und verkündest Gott. Leid und Schmerz geduldig ertragen und die Ewigkeit ohne Leiden. - ..."
 
@@ -124,6 +124,17 @@ Vorschlag? ...
 
 Ist die Tabellenform der Jahresplanung die bessere Variante? Die Jahresplanung gibt nur einen groben Überblick. Daher bleibe ich bei meiner Einteilung und die SW bleibt im Dateinamen.
 
+** Berufliche Weiterbildung
+:PROPERTIES:
+:CAPTURED: [2024-02-23 Fr 22:46]
+:END:
+Da mich meine Direktorin heute gebeten hat, eine Mathematik Stunde in einer vierten Klasse zu supplieren, habe ich meinen Wunsch geäußert, mich als Mathematik Lehrer weiterbilden zu wollen. Das wäre durchaus möglich, ich solle mich an die BD wenden, dort gäbe es eine Dame, die sich darum kümmere - meinte sie.
+
+Ich finde es eine reizvolle Idde, die mir sehr gefällt; auch für später, in der Pension, lässt sich dadurch gutes Geld verdienen, etc.
+
+Ich werde mich auf jeden Fall darum kümmern und mich erkundigen.
+
+
 * Tasks
 
 ** TODO Berufswechsel
@@ -183,3 +194,13 @@ CLOSED: [2024-01-16 Di 22:06] DEADLINE: <2024-01-16 Di 13:00>
 :END:
 Zuerst perönlich, nächste Stunde allerletzte Chance; wenn nicht - unterschrieben von Eltern zurück.
 
+** TODO [#A] Bücher zum Thema "Religion/Entstehung"
+DEADLINE: <2024-02-29 Do 22:00>
+:PROPERTIES:
+:CAPTURED: [2024-02-27 Di 07:59]
+:SUBJECT: [[denote:20221230T193718][B Klasse 2020-24]]
+:END:
+KPH Bibliothek fragen; sollte ich dort geeignete Bücher finde, ist die Schulbibliothek an der MS Golling interessiert (Mirjam Seiwald). Dafür gibt es ein Budget.
+
+ZVAB: [[file:20231206T084441--religionsunterricht__meta_project.org][Religionsgeschichte von P. D. Chantepie de la Saussaye]]
+(va 4. Auflage von 1925, 2 Bände; die ersten drei Auflagen erschienen vor dem Tod des Autors. Die vierte Auflage wurde stark überarbeitet und beinhaltet Artikel und Beiträge von namhaften Experten.)

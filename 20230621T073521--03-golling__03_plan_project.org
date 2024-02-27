@@ -153,47 +153,69 @@ CLOSED: [2024-02-13 Di 14:23] SCHEDULED: <2024-02-12 Mo>
 - State "DONE"       from              [2024-02-13 Di 14:23]
 :END:
 
-** [[denote:20230624T235040][[SW24] Dekalog - die Freiheit sichern]]
+** DONE [[denote:20230624T235040][[SW24] Dekalog - die Freiheit sichern]]
+CLOSED: [2024-02-23 Fr 21:21] SCHEDULED: <2024-02-19 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-02-23 Fr 21:21]
+:END:
 
 ** [[denote:20230624T235141][[SW25] Die Goldene Regel - Liebe deinen Nächsten]]
+SCHEDULED: <2024-02-26 Mo>
 
 ** [[denote:20230624T235230][[SW26] Liebe deine Feinde]]
+SCHEDULED: <2024-03-04 Mo>
 
 ** [[denote:20230624T235325][[SW27] Das Reich Gottes - Gleichnisse deuten]]
+SCHEDULED: <2024-03-11 Mo>
 
 ** [[denote:20230624T235412][[SW28] Übungsteil Kap 3]]
+SCHEDULED: <2024-03-18 Mo>
 
-** [[denote:20230624T235530][[SW29] Besondere Tage - Mein ganz besonderer Tag]]
+** [SW29] Osterferien3
+SCHEDULED: <2024-03-25 Mo>
 
 ** [[denote:20230624T235841][[SW30] Der Sonntag - Zeugen der Vergangenheit]]
+SCHEDULED: <2024-04-01 Mo>
 
 ** [[denote:20230624T235956][[SW31] Die ersten Christen - Petrus]]
+SCHEDULED: <2024-04-08 Mo>
 
 ** [[denote:20230625T000110][[SW32] Paulus - eine Botschaft für alle / Frauen im frühen Christentum]]
+SCHEDULED: <2024-04-15 Mo>
 
 ** [[denote:20230625T000208][[SW33] Auf dem Weg zur Weltreligion - Schriftliche Quellen]]
+SCHEDULED: <2024-04-22 Mo>
 
 ** [[denote:20230625T000607][[SW34] Die Kirche das Volk Gottes / Das Leben Gott schenken]]
+SCHEDULED: <2024-04-29 Mo>
 
 ** [[denote:20230625T000724][[SW35] Übungsteil Kap 4]]
+SCHEDULED: <2024-05-06 Mo>
 
 ** [[denote:20230625T000821][[SW36] Mein digitaler Begleiter / Beten mit dem Handy]]
+SCHEDULED: <2024-05-13 Mo>
 
 ** [[denote:20230625T000918][[SW37] Wem folge ich / Alles für ein Like]]
+SCHEDULED: <2024-05-20 Mo>
 
 ** [[denote:20230625T001024][[SW38] Wem kann ich glauben / Fake News erkennen]]
+SCHEDULED: <2024-05-27 Mo>
 
 ** [[denote:20230625T001157][[SW39] Übungsteil Kap 4]]
+SCHEDULED: <2024-06-03 Mo>
 
 ** [[denote:20230625T001358][[SW40] Glaube hat viele Gesichter / Salam Beten für den Frieden]]
+SCHEDULED: <2024-06-10 Mo>
 
 ** [[denote:20230625T001538][[SW41] Muhammad - Der Koran]]
+SCHEDULED: <2024-06-17 Mo>
 
 ** [[denote:20230625T001710][[SW42] Glaube und Leben / Feste / Moschee / Symbole]]
-<2023-06-26 Mo>
+SCHEDULED: <2024-06-24 Mo>
 
-** Schulgottesdienst
-<2023-07-03 Mo>
+** [SW43] Schulgottesdienst
+SCHEDULED: <2024-07-01 Mo>
+
 
 
 * Kompetenzbereiche und Kompetenzdimensionen
