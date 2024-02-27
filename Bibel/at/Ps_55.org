@@ -1,27 +1,23 @@
-:PROPERTIES:
-:ID:       a4cd9e3a-e572-4d10-ad5d-83f5a76ee08d
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Die Psalmen* -- [[file:Ps_1.html][1]] ...
-[[file:Ps_53.html][53]] [[file:Ps_54.html][54]] *55*
-[[file:Ps_56.html][56]] [[file:Ps_57.html][57]] ...
-[[file:Ps_150.html][150]]
-
---------------
+#+TITLE: Ps 55 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-02-27 Di 17:52]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 55.html
 
 * Ps 55
-  :PROPERTIES:
-  :CUSTOM_ID: ps-55
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Klage und Vertrauen eines Alleingelassenen
-     :PROPERTIES:
-     :CUSTOM_ID: klage-und-vertrauen-eines-alleingelassenen
-     :END:
+* Klage und Vertrauen eines Alleingelassenen
+
 1 [Für den Chormeister. Mit Saitenspiel. Ein Weisheitslied Davids.]\\
 \\
 
@@ -39,7 +35,7 @@
 4 Das Geschrei der Feinde macht mich verstört; /\\
  mir ist angst, weil mich die Frevler bedrängen. Sie überhäufen mich mit
 Unheil /\\
- und befehden mich voller Grimm. ^{[[#fn1][1]]}\\
+ und befehden mich voller Grimm. [fn:1]\\
 \\
 
 <<v5>>
@@ -59,7 +55,7 @@ Unheil /\\
 
 <<v8>>
 8 Weit fort möchte ich fliehen, /\\
- die Nacht verbringen in der Wüste. [Sela] ^{[[#fn2][2]]}\\
+ die Nacht verbringen in der Wüste. [Sela] [fn:2]\\
 \\
 
 <<v9>>
@@ -69,7 +65,7 @@ Unheil /\\
 
 <<v10>>
 10 Entzweie sie, Herr, verwirr ihre Sprache! /\\
- Denn in der Stadt sehe ich Gewalttat und Hader. ^{[[#fn3][3]]}\\
+ Denn in der Stadt sehe ich Gewalttat und Hader. [fn:3]\\
 \\
 
 <<v11>>
@@ -86,12 +82,12 @@ Unheil /\\
 13 Denn nicht mein Feind beschimpft mich, /\\
  das würde ich ertragen; nicht ein Mann, der mich hasst, tritt frech
 gegen mich auf, /\\
- vor ihm könnte ich mich verbergen. ^{[[#fn4][4]]}\\
+ vor ihm könnte ich mich verbergen. [fn:4]\\
 \\
 
 <<v14>>
 14 Nein, du bist es, ein Mensch aus meiner Umgebung, /\\
- mein Freund, mein Vertrauter, ^{[[#fn5][5]]}\\
+ mein Freund, mein Vertrauter, [fn:5]\\
 \\
 
 <<v15>>
@@ -102,7 +98,7 @@ gegen mich auf, /\\
 <<v16>>
 16 Der Tod soll sie überfallen, /\\
  lebend sollen sie hinabfahren ins Totenreich. /\\
- Denn ihre Häuser und Herzen sind voller Bosheit. ^{[[#fn6][6]]}\\
+ Denn ihre Häuser und Herzen sind voller Bosheit. [fn:6]\\
 \\
 
 <<v17>>
@@ -118,14 +114,14 @@ gegen mich auf, /\\
 <<v19>>
 19 Er befreit mich, bringt mein Leben in Sicherheit /\\
  vor denen, die gegen mich kämpfen, /\\
- wenn es auch viele sind, die gegen mich angehen. ^{[[#fn7][7]]}\\
+ wenn es auch viele sind, die gegen mich angehen. [fn:7]\\
 \\
 
 <<v20>>
 20 Gott hört mich und beugt sie nieder, /\\
  er, der als König thront seit Ewigkeit. [Sela] Denn sie kehren nicht um
 /\\
- und fürchten Gott nicht. ^{[[#fn8][8]]}\\
+ und fürchten Gott nicht. [fn:8]\\
 \\
 
 <<v21>>
@@ -137,38 +133,40 @@ gegen mich auf, /\\
 22 Glatt wie Butter sind seine Reden, /\\
  doch in seinem Herzen sinnt er auf Streit; seine Worte sind linder als
 Öl /\\
- und sind doch gezückte Schwerter. ^{[[#fn9][9]]}\\
+ und sind doch gezückte Schwerter. [fn:9]\\
 \\
 
 <<v24>>
 24 Du aber, Gott, wirst sie hinabstürzen in die tiefste Grube. /\\
  Gewalttätige und Betrüger erreichen nicht die Mitte ihres Lebens. /\\
- Ich aber setze mein Vertrauen auf dich. ^{[[#fn10][10]]}\\
+ Ich aber setze mein Vertrauen auf dich. [fn:10]\\
 \\
 
 <<v23>>
 23 Wirf deine Sorge auf den Herrn, er hält dich aufrecht! /\\
- Er lässt den Gerechten niemals wanken. ^{[[#fn11][11]]}\\
+ Er lässt den Gerechten niemals wanken. [fn:11]\\
 \\
 
-^{[[#fnm1][1]]} Wörtlich: Sie lassen Unheil auf mich herabfallen.
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ Jer 9,1
+[fn:1] Wörtlich: Sie lassen Unheil auf mich herabfallen.
 
-^{[[#fnm3][3]]} ℘ Jer 5,1; 6,6; Zef 3,1
+[fn:2] [[file:Jer_9.org::v1][Jer 9,1]]
 
-^{[[#fnm4][4]]} ℘ (13-14) 31,12
+[fn:3] [[file:Jer_5.org::v1][Jer 5,1]]; [[file:Jer_6.org::v6][6,6]]; [[file:Zef_3.org::v1][Zef 3,1]]
 
-^{[[#fnm5][5]]} ℘ Jer 9,3.7; Mt 26,21-24
+[fn:4] (13-14) [[file:Ps_31.org::v12][31,12]]
 
-^{[[#fnm6][6]]} ℘ 49,15; Num 16,33; Jes 5,14
+[fn:5] [[file:Jer_9.org::v3][Jer 9,3]].[[file:Jer_9.org::v7][7]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_26.org::v21][Mt 26,21-24]]
 
-^{[[#fnm7][7]]} H ist verderbt.
+[fn:6] [[file:Ps_49.org::v15][49,15]]; Num 16,33; Jes 5,14
 
-^{[[#fnm8][8]]} ℘ 93,2
+[fn:7] H ist verderbt.
 
-^{[[#fnm9][9]]} ℘ 57,5; 62,5; 64,4
+[fn:8] 93,2
 
-^{[[#fnm10][10]]} ℘ 102,25
+[fn:9] 57,5; 62,5; 64,4
 
-^{[[#fnm11][11]]} ℘ 37,5; 1 Petr 5,7
+[fn:10] 102,25
+
+[fn:11] 37,5; 1 Petr 5,7
