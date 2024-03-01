@@ -159,13 +159,13 @@ gegen mich auf, /\\
 
 [fn:5] [[file:Jer_9.org::v3][Jer 9,3]].[[file:Jer_9.org::v7][7]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_26.org::v21][Mt 26,21-24]]
 
-[fn:6] [[file:Ps_49.org::v15][49,15]]; Num 16,33; Jes 5,14
+[fn:6] [[file:Ps_49.org::v15][49,15]]; [[file:Num_16.org::v33][Num 16,33]]; [[file:Jes_5.org::v14][Jes 5,14]]
 
 [fn:7] H ist verderbt.
 
-[fn:8] 93,2
+[fn:8] [[file:Ps_93.org::v2][93,2]]
 
-[fn:9] 57,5; 62,5; 64,4
+[fn:9] [[file:Ps_57.org::v5][57,5]]; [[file:Ps_62.org::v5][62,5]]; [[file:Ps_64.org::v4][64,4]]
 
 [fn:10] 102,25
 

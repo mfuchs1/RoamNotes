@@ -27,9 +27,9 @@
 * 3b 10:40-11:30
 <%%(org-class 2023 9 14 2024 7 8 4 07)>
 
-Eventuell "Polizei Workshop"
-
- 
+Goldene Regel, Bergpredigt:
+- RB
+- AB: [[file:~/NMS_Golling/Bibel_NT/Die Bergpredigt Jesu.odt][Bergpredigt Jesu]]
 
 * 3B [KV Lena ]
 #+Name: 2021-students
