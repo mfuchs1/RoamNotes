@@ -158,8 +158,11 @@ CLOSED: [2024-02-23 Fr 21:21] SCHEDULED: <2024-02-19 Mo>
 - State "DONE"       from              [2024-02-23 Fr 21:21]
 :END:
 
-** [[denote:20230711T004734][[SW25] Gruppendruck]]
-SCHEDULED: <2024-02-26 Mo>
+** DONE [[denote:20230711T004734][[SW25] Gruppendruck]]
+CLOSED: [2024-03-02 Sa 11:25] SCHEDULED: <2024-02-26 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-03-02 Sa 11:25]
+:END:
 
 ** [[denote:20230711T004758][[SW26] Jesus legt das Gesetz aus]]
 SCHEDULED: <2024-03-04 Mo>

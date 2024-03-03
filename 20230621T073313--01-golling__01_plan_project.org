@@ -151,8 +151,11 @@ CLOSED: [2024-02-23 Fr 21:21] SCHEDULED: <2024-02-19 Mo>
 - State "DONE"       from              [2024-02-23 Fr 21:21]
 :END:
 
-** [[denote:20230619T092126][[SW25] Über mein Leben nachdenken / Impuls: Dankbar sein]]
-SCHEDULED: <2024-02-26 Mo>
+** DONE [[denote:20230619T092126][[SW25] Über mein Leben nachdenken / Impuls: Dankbar sein]]
+CLOSED: [2024-03-02 Sa 11:25] SCHEDULED: <2024-02-26 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-03-02 Sa 11:25]
+:END:
 
 ** [[denote:20230619T092443][[SW26] Arten von Gebeten / mit dem Körper beten]]
 SCHEDULED: <2024-03-04 Mo>

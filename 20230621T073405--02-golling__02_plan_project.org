@@ -165,8 +165,11 @@ CLOSED: [2024-02-23 Fr 21:21] SCHEDULED: <2024-02-19 Mo>
 - State "DONE"       from              [2024-02-23 Fr 21:21]
 :END:
 
-** [[denote:20230619T213448][[SW25] Die Welt des Alten Testaments]]
-SCHEDULED: <2024-02-26 Mo>
+** DONE [[denote:20230619T213448][[SW25] Die Welt des Alten Testaments]]
+CLOSED: [2024-03-02 Sa 11:25] SCHEDULED: <2024-02-26 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-03-02 Sa 11:25]
+:END:
 
 ** [[denote:20230619T213605][[SW26] Übungsteil: Und jetzt ich Das nehme ich mit]]
 SCHEDULED: <2024-03-04 Mo>
