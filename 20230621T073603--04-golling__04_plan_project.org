@@ -164,8 +164,11 @@ CLOSED: [2024-03-02 Sa 11:25] SCHEDULED: <2024-02-26 Mo>
 - State "DONE"       from              [2024-03-02 Sa 11:25]
 :END:
 
-** [[denote:20230711T004758][[SW26] Jesus legt das Gesetz aus]]
-SCHEDULED: <2024-03-04 Mo>
+** DONE [[denote:20230711T004758][[SW26] Jesus legt das Gesetz aus]]
+CLOSED: [2024-03-11 Mo 10:14] SCHEDULED: <2024-03-04 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-03-11 Mo 10:14]
+:END:
 
 ** [[denote:20230711T004914][[SW27] Passionsgeschichte]]
 SCHEDULED: <2024-03-11 Mo>

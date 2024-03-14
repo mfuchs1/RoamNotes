@@ -157,8 +157,11 @@ CLOSED: [2024-03-02 Sa 11:25] SCHEDULED: <2024-02-26 Mo>
 - State "DONE"       from              [2024-03-02 Sa 11:25]
 :END:
 
-** [[denote:20230619T092443][[SW26] Arten von Gebeten / mit dem Körper beten]]
-SCHEDULED: <2024-03-04 Mo>
+** DONE [[denote:20230619T092443][[SW26] Arten von Gebeten / mit dem Körper beten]]
+CLOSED: [2024-03-11 Mo 10:14] SCHEDULED: <2024-03-04 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-03-11 Mo 10:14]
+:END:
 
 ** [[denote:20230619T092702][[SW27] Vielfalt unseres Betens / wie wir beten können]]
 SCHEDULED: <2024-03-11 Mo>

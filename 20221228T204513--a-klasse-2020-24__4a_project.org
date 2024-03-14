@@ -23,30 +23,10 @@
 
 [[denote:20240130T101420][Themen vierte Klassen]]
 
-Leider erst das nächste Mal - bitte Film auf USB-Drive kopieren!
-Arche Noah - Film mit Russell Crow. Hm, der Film ist doch recht düster, oder?
-
-Kahoot über Bibel (AT / NT)
-
-Jesus legt das Gesetz aus:
-- Bergpredigt
-- die goldene Regel
-
-Die Religionen und ihre Entstehung
-- im Allgemeinen finden sich kaum wirklich gute Dokus
-- bleiben also va Dokus und Infos zu konkreten Religionen
-- Ägypten, Summerer, ...
-- Turm von Jericho; 9000 v. Chr.
+Bibel lesen:
+- Lk ab 9,51 (?) ...
+- Lk 10 / 11: Vater Unser; Feldrede
 - 
-
-Sehr interessant, wenn auch hoch anspruchsvoll:
-[[https://www.youtube.com/watch?v=jGaLB1CSmGw][Prof. Dr. Martin Laube: Der Ursprung der Religion]]
-
-Göbekli Tepe
-[[https://www.youtube.com/watch?v=rXLN_GNJ2kE][6.000 Jahre älter als Stonehenge - Göbekli Tepe - Ursprünge einer verschwundenen Zivilisation]]
-
-Entzifferung der Hieroglyphen
-[[https://www.youtube.com/watch?v=71yALh7KJ9Q][Das Geheimnis der Hieroglyphen | Doku HD Reupload | ARTE]]
 
 * 4a 08:40-09:30
 <%%(org-class 2023 9 12 2024 7 6 2 07)>
@@ -647,5 +627,11 @@ Bin gespannt, was da kommen wird.
 
 Ich werde die Themen ordnen und dann mit den Schülern umsetzen. Hier die vollständige Liste:
 [[denote:20240130T101420][Themen vierte Klassen]]
+
+** [[denote:20221228T204513][A Klasse 2020-24]]
+:PROPERTIES:
+:CAPTURED: [2024-03-12 Di 09:16]
+:END:
+Wow, was soll ich noch machen? Egal - es interessiert sie nicht; zumindest ein Großteil der Klasse. Thema, Einzelarbeit, in kleinen Gruppen, ... wa soll ich noch ändern?
 
 

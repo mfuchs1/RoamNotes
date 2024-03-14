@@ -713,10 +713,56 @@ Zusammenfassung einer Sage schreiben, auf Zeit (30min)
 :PROPERTIES:
 :calendar-id: matthiasfuchs01@gmail.com
 :org-gcal-managed: org
-:ETag:     "3418836810774000"
+:ETag:     "3418990843566000"
 :entry-id: kfo5gqr1m81sjochue4h6umlfs/matthiasfuchs01@gmail.com
 :END:
 :org-gcal:
 <2024-03-03 So 14:30-16:30>
+:END:
+
+* Supplierstunde 1a M (mit Bernadette)
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3419535721896000"
+:entry-id: 2sg8m5ohvtt8b6a2ld24e27iso/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2024-03-06 Mi 09:35-10:25>
+:END:
+
+* Beten und Lesen
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3419953424954000"
+:entry-id: qfikrfccrs45334hbcjjhrnssg/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2024-03-08 Fr 21:30-22:30>
+:END:
+
+* Beten und Lesen
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3420031345820000"
+:entry-id: rp3c9cgbkfojugm3745oj4bcik/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2024-03-09 Sa 21:30-22:30>
+:END:
+
+* Autowerkstatt Köppl kontakieren
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3420622944890000"
+:entry-id: shvbo15pu520m7aupbq4eppql0/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2024-03-13 Mi 08:40-09:10>
+
+Ähnliches Problem wie letztes Mal: EPS; Service + Pickerl.
 :END:
 

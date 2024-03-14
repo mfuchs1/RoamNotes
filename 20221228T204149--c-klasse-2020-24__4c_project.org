@@ -30,6 +30,8 @@
 
 [[denote:20240130T101420][Themen vierte Klassen]]
 
+Bibel LK
+
 * 4C [KV Gertraud Ellmauer]
 #+Name: 2021-students
 | First         | Last         | Name                     | Note | Mitarbeit | Heft | LZK |

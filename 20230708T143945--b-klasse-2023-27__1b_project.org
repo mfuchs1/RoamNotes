@@ -24,7 +24,10 @@
 :END:
 <%%(org-class 2023 9 12 2024 7 6 2 07)>
 
-Eucharistie
+Eucharistie - Übungsteil
+
+Einschub - Jesus Weg nach Jerusalem / Ostern
+einfach Bibel lesen ...
 
 * 1b 07:45-08:35
 :PROPERTIES:
@@ -32,7 +35,8 @@ Eucharistie
 :END:
 <%%(org-class 2023 9 15 2024 7 9 5 07)>
 
-Eucharistie - Übungsteil
+Einschub - Jesus Weg nach Jerusalem / Ostern
+einfach Bibel lesen ...
 
 * 1B [KV Gertraud Viertbauer]
 #+Name: 2021-students
