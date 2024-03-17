@@ -4,9 +4,10 @@
 #+identifier: 20230708T143945
 #+CATEGORY: golling
 #+STARTUP: showall
+#+STARTUP: logdone
+#+STARTUP: lognotedone
 #+LANGUAGE: de
 #+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) NEXT(x) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) CANCELED(c@)
 #+SETUPFILE: ~/RoamNotes/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width \linewidth
 #+OPTIONS: toc:nil

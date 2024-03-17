@@ -177,8 +177,11 @@ CLOSED: [2024-03-11 Mo 10:14] SCHEDULED: <2024-03-04 Mo>
 - State "DONE"       from              [2024-03-11 Mo 10:14]
 :END:
 
-** [[denote:20230619T213701][[SW27] Eine Sprache in Bildern / Zeichen und Symbole]]
-SCHEDULED: <2024-03-11 Mo>
+** DONE [[denote:20230619T213701][[SW27] Eine Sprache in Bildern / Zeichen und Symbole]]
+CLOSED: [2024-03-16 Sa 23:58] SCHEDULED: <2024-03-11 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-03-16 Sa 23:58]
+:END:
 
 ** [[denote:20230619T213839][[SW28] Impuls: Symbole sprechen lassen]]
 SCHEDULED: <2024-03-18 Mo>

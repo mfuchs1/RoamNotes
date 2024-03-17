@@ -170,8 +170,11 @@ CLOSED: [2024-03-11 Mo 10:14] SCHEDULED: <2024-03-04 Mo>
 - State "DONE"       from              [2024-03-11 Mo 10:14]
 :END:
 
-** [[denote:20230711T004914][[SW27] Passionsgeschichte]]
-SCHEDULED: <2024-03-11 Mo>
+** DONE [[denote:20230711T004914][[SW27] Passionsgeschichte]]
+CLOSED: [2024-03-16 Sa 23:58] SCHEDULED: <2024-03-11 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-03-16 Sa 23:58]
+:END:
 
 ** [[denote:20230711T004953][[SW28] Kreuzweg]]
 SCHEDULED: <2024-03-18 Mo>

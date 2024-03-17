@@ -766,3 +766,14 @@ Zusammenfassung einer Sage schreiben, auf Zeit (30min)
 Ähnliches Problem wie letztes Mal: EPS; Service + Pickerl.
 :END:
 
+* Hl. Messe (Dom Salzburg)
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3421414123150000"
+:entry-id: qjo12uc739j3blp4cpdg0e2ea8/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2024-03-17 So 18:15-19:15>
+:END:
+

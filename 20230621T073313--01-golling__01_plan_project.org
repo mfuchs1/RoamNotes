@@ -163,8 +163,11 @@ CLOSED: [2024-03-11 Mo 10:14] SCHEDULED: <2024-03-04 Mo>
 - State "DONE"       from              [2024-03-11 Mo 10:14]
 :END:
 
-** [[denote:20230619T092702][[SW27] Vielfalt unseres Betens / wie wir beten können]]
-SCHEDULED: <2024-03-11 Mo>
+** DONE [[denote:20230619T092702][[SW27] Vielfalt unseres Betens / wie wir beten können]]
+CLOSED: [2024-03-16 Sa 23:58] SCHEDULED: <2024-03-11 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-03-16 Sa 23:58]
+:END:
    
 ** [[denote:20230619T092912][[SW28] Die Bitten unseres Lebens / Das Vaterunser]]
 SCHEDULED: <2024-03-18 Mo>

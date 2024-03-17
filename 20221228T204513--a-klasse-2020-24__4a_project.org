@@ -3,10 +3,11 @@
 #+filetags:   :4a:Project:
 #+identifier: 20221228T204513
 #+STARTUP: showall
+#+STARTUP: logdone
+#+STARTUP: lognotedone
 #+CATEGORY: golling
 #+LANGUAGE: de
 #+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
-#+TODO: TODO(t) STARTED(s!) WAITING(w@/!) APPT(a) PROJ(p) NOTIZ(n) NEXT(x) BESPROCHEN(b) DELEGATED(g@/!) | DONE(d!) CANCELED(c@)
 #+SETUPFILE: ~/RoamNotes/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width \linewidth
 #+OPTIONS: toc:nil
@@ -26,7 +27,7 @@
 Bibel lesen:
 - Lk ab 9,51 (?) ...
 - Lk 10 / 11: Vater Unser; Feldrede
-- 
+- ...
 
 * 4a 08:40-09:30
 <%%(org-class 2023 9 12 2024 7 6 2 07)>
