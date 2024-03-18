@@ -25,10 +25,11 @@
 :END:
 <%%(org-class 2023 9 12 2024 7 6 2 07)>
 
-Eucharistie - Übungsteil
-
-Einschub - Jesus Weg nach Jerusalem / Ostern
-einfach Bibel lesen ...
+Bibel lesen:
+- Joh 12 (Weizenkorn bringt Frucht)
+- Joh 8: Ehebrecherin
+- Lk (Passionsgeschichte)
+- Warum das Kreuz?
 
 * 1b 07:45-08:35
 :PROPERTIES:

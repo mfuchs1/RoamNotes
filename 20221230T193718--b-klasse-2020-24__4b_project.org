@@ -24,30 +24,11 @@
 
 [[denote:20240130T101420][Themen vierte Klassen]]
 
-Religionen:
-- ihre Entstehung
-- woher kommt die Religion überhaupt?
-
-Bücher aus Bibliothek?
-- Atlas der Weltreligionen
-- memo: Christentum
-- memo: Islam
-- Brockhaus: "Religion"
-- Jugendlexikon: "Religion"
-- YouCat Glaubenskurs (die ersten 4-5 Kapitel)
-- YouCat Firmbuch: "Was wir über Gott wissen können"
-
-Göbekli Tepe [45min]
-[[https://www.youtube.com/watch?v=rXLN_GNJ2kE][6.000 Jahre älter als Stonehenge - Göbekli Tepe - Ursprünge einer verschwundenen Zivilisation]]
-
-[[denote:20240305T080432][Göpekli Tepe]]
-
-Vgl. mit Bibel? Entstehung des Judentums? ...
-Was sollen die Schüler machen? Hefteintrag?
-
-Was war in Göbekli Tepe der große Umbruch? (Mensch sieht sich über den Tieren; zuerst die Religion, dann die Landwitschaft)
-
-Was erzählt die Bibel über den Ursprung der Menschen (Schöpfung)?
+Bibel lesen:
+- Joh 12 (Weizenkorn bringt Frucht)
+- Joh 8: Ehebrecherin
+- Lk (Passionsgeschichte)
+- Warum das Kreuz?
 
 * 4b 07:45-08:35
 <%%(org-class 2023 9 13 2024 7 7 3 07)>
