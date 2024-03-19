@@ -1,0 +1,17 @@
+* TODO Alle Pakete installieren
+
+Neuer Emacs from Scratch
+Was brauche ich, was nicht?
+
+Zuerst die Pakete installieren
+
+Liste der Pakete cf ~early-init.el~
+Aus dem neuen early-init.el die Paketliste entfernen
+
+
+* TODO init.el
+
+Pakete configs hineinschreiben 
+
+* TODO early-init.el
+* TODO emacs-custom.el

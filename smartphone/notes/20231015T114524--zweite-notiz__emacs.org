@@ -1,0 +1,23 @@
+#+title:      Zweite Notiz
+#+date:       [2023-10-15 Sun 11:45]
+#+filetags:   :emacs:
+#+identifier: 20231015T114524
+
+Ich bin mit den Kindern am Spielplatz.
+
+* Streit
+Wie gehe ich mit Streitereien zwischen den Kindern um?
+
+* Emacs on Termux
+Wunderbar - Emacs läuft großartig auf Termux, mit
+Termux, vertico, marginalia, orderless, consult und embark.
+
+so jetzt sollte =visual-line-mode= aktiviert sein. wenn ich jetzt.... jawohl.
+
+* Notizen von Android auf PC übertragen
+Das habe ich noch nicht gelöst.
+
+** Ah das klappt
+So die =org-hide-leading-stars= brauche ich nicht. Oder vielleicht ist das in Termux nicht notwendig. Emacs in Termux ist echt cool.
+
+

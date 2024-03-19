@@ -1,0 +1,9 @@
+#+title:      Erste Notiz
+#+date:       [2023-10-15 Sun 11:06]
+#+filetags:   :emacs:
+#+identifier: 20231015T110621
+
+Das ist so cool. Jetzt funktioniert Emacs auch auf termux, sogar mit einigen Paketen vom PC: =denote=, =vertico=, =consult=, etc
+
+Auch =org-agenda= und =org-capture= hab ich eingerichtet.
+

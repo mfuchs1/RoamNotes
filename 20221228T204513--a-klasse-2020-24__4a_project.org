@@ -26,6 +26,7 @@
 
 Bibel lesen:
 - Joh 12 (Weizenkorn bringt Frucht)
+  [[denote:20240318T092342][Joh 8 Kommentar]]
 - Joh 8: Ehebrecherin
 - Lk (Passionsgeschichte)
 - Warum das Kreuz?
@@ -635,5 +636,11 @@ Ich werde die Themen ordnen und dann mit den Schülern umsetzen. Hier die vollst
 :CAPTURED: [2024-03-12 Di 09:16]
 :END:
 Wow, was soll ich noch machen? Egal - es interessiert sie nicht; zumindest ein Großteil der Klasse. Thema, Einzelarbeit, in kleinen Gruppen, ... wa soll ich noch ändern?
+
+** [[denote:20221228T204513][A Klasse 2020-24]]
+:PROPERTIES:
+:CAPTURED: [2024-03-19 Di 10:23]
+:END:
+Gestern war es wieder furchtbar - die Schüler ignorieren mich total, wie als wäre ich Luft. Während ich rede, quatschen sie untereinander. Heute hab ich ihnen den Film "Im Wendekreis des Kreuzes" gezeigt. Vll werde ich in den kommenden Stunden schriftliche Aufträge geben. Und sie dann dementsprechend benoten.
 
 
