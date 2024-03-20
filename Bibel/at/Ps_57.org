@@ -1,36 +1,33 @@
-:PROPERTIES:
-:ID:       774867d3-6c77-469b-9748-f07b1dc5b898
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Die Psalmen* -- [[file:Ps_1.html][1]] ...
-[[file:Ps_55.html][55]] [[file:Ps_56.html][56]] *57*
-[[file:Ps_58.html][58]] [[file:Ps_59.html][59]] ...
-[[file:Ps_150.html][150]]
+#+TITLE: Ps 57 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-03-20 Mi 09:33]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 57.html
 
---------------
 
 * Ps 57
-  :PROPERTIES:
-  :CUSTOM_ID: ps-57
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Geborgenheit im Schutz Gottes
-     :PROPERTIES:
-     :CUSTOM_ID: geborgenheit-im-schutz-gottes
-     :END:
+* Geborgenheit im Schutz Gottes
+
 1 [Für den Chormeister. Nach der Weise «Zerstöre nicht!». Ein Lied
-Davids, als er vor Saul in die Höhle floh.] ^{[[#fn1][1]]}\\
+Davids, als er vor Saul in die Höhle floh.] [fn:1]\\
 \\
 
 <<v2>>
 2 Sei mir gnädig, o Gott, sei mir gnädig; /\\
  denn ich flüchte mich zu dir. Im Schatten deiner Flügel finde ich
 Zuflucht, /\\
- bis das Unheil vorübergeht. ^{[[#fn2][2]]}\\
+ bis das Unheil vorübergeht. [fn:2]\\
 \\
 
 <<v3>>
@@ -47,13 +44,13 @@ Zuflucht, /\\
 <<v5>>
 5 Ich muss mich mitten unter Löwen lagern, /\\
  die gierig auf Menschen sind. Ihre Zähne sind Spieße und Pfeile, /\\
- ein scharfes Schwert ihre Zunge. ^{[[#fn3][3]]}\\
+ ein scharfes Schwert ihre Zunge. [fn:3]\\
 \\
 
 <<v7>>
 7 Sie haben meinen Schritten ein Netz gelegt /\\
  und meine Seele gebeugt. Sie haben mir eine Grube gegraben; /\\
- doch fielen sie selbst hinein. [Sela] ^{[[#fn4][4]][[#fn5][5]]}\\
+ doch fielen sie selbst hinein. [Sela] [fn:4] [fn:5]\\
 \\
 
 <<v6>>
@@ -64,23 +61,23 @@ Zuflucht, /\\
 <<v8>>
 8 Mein Herz ist bereit, o Gott, /\\
  mein Herz ist bereit, /\\
- ich will dir singen und spielen. ^{[[#fn6][6]]}\\
+ ich will dir singen und spielen. [fn:6]\\
 \\
 
 <<v9>>
 9 Wach auf, meine Seele! /\\
  Wacht auf, Harfe und Saitenspiel! /\\
- Ich will das Morgenrot wecken. ^{[[#fn7][7]]}\\
+ Ich will das Morgenrot wecken. [fn:7]\\
 \\
 
 <<v10>>
 10 Ich will dich vor den Völkern preisen, Herr, /\\
- dir vor den Nationen lobsingen. ^{[[#fn8][8]]}\\
+ dir vor den Nationen lobsingen. [fn:8]\\
 \\
 
 <<v11>>
 11 Denn deine Güte reicht, so weit der Himmel ist, /\\
- deine Treue, so weit die Wolken ziehn. ^{[[#fn9][9]]}\\
+ deine Treue, so weit die Wolken ziehn. [fn:9]\\
 \\
 
 <<v12>>
@@ -88,21 +85,23 @@ Zuflucht, /\\
  deine Herrlichkeit erscheine über der ganzen Erde.\\
 \\
 
-^{[[#fnm1][1]]} ℘ 1 Sam 22,1; 24,4
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 17,7f
+[fn:1] [[file:1.Sam_22.org::v1][1 Sam 22,1]]; [[file:1.Sam_24.org::v4][24,4]]
 
-^{[[#fnm3][3]]} ℘ 17,12; 55,22; 59,8
+[fn:2] [[file:Ps_17.org::v7][17,7f]]
 
-^{[[#fnm4][4]]} ℘ 140,6; 7,16
+[fn:3] [[file:Ps_17.org::v12][17,12]]; [[file:Ps_55.org::v22][55,22]]; [[file:Ps_59.org::v8][59,8]]
 
-^{[[#fnm5][5]]} sie haben meine Seele gebeugt: Text korr. nach G; H hat
+[fn:4] [[file:Ps_140.org::v6][140,6]]; [[file:Ps_7.org::v16][7,16]]
+
+[fn:5] sie haben meine Seele gebeugt: Text korr. nach G; H hat
 die Einzahl: er hat . . . gebeugt.
 
-^{[[#fnm6][6]]} ℘ 7,18; (8-12) 108,2-6
+[fn:6] [[file:Ps_7.org::v18][7,18]]; (8-12) [[file:Ps_108.org::v2][108,2-6]]
 
-^{[[#fnm7][7]]} ℘ Ijob 38,12
+[fn:7] [[file:Ijob_38.org::v12][Ijob 38,12]]
 
-^{[[#fnm8][8]]} ℘ 7,18; 108,4
+[fn:8] [[file:Ps_7.org::v18][7,18]]; [[file:Ps_108.org::v4][108,4]]
 
-^{[[#fnm9][9]]} ℘ 36,6
+[fn:9] [[file:Ps_36.org::v6][36,6]]
