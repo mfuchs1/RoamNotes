@@ -23,22 +23,31 @@
 :PROPERTIES:
 :ID:       d1a8103e-d94e-4abe-868e-0dc7c88401b5
 :END:
-<%%(org-class 2023 9 12 2024 7 6 2 07)>
+<%%(org-class 2023 9 12 2024 7 6 2 13)>
 
-Bibel lesen:
-- Joh 12 (Weizenkorn bringt Frucht)
-- Joh 8: Ehebrecherin
-- Lk (Passionsgeschichte)
-- Warum das Kreuz?
+Ostern - Bibel-"Session"
+- Joh 20
+- Lk 24
+- 1 Kor 16
+- Apg 2
+
+Video kathmedia "Jesus Glauben - Folge 14 - Über Skepsis, Walfische und die Auferstehung"
+[[https://www.youtube.com/watch?v=37G_apGr12Y]]
 
 * 1b 07:45-08:35
 :PROPERTIES:
 :ID:       22eebb3a-fcdf-446b-8c02-adab50b5c75e
 :END:
-<%%(org-class 2023 9 15 2024 7 9 5 07)>
+<%%(org-class 2023 9 15 2024 7 9 5 13)>
 
-Einschub - Jesus Weg nach Jerusalem / Ostern
-einfach Bibel lesen ...
+Ostern - Bibel-"Session"
+- Joh 20
+- Lk 24
+- 1 Kor 16
+- Apg 2
+
+Video kathmedia "Jesus Glauben - Folge 14 - Über Skepsis, Walfische und die Auferstehung"
+[[https://www.youtube.com/watch?v=37G_apGr12Y]]
 
 * 1B [KV Gertraud Viertbauer]
 #+Name: 2021-students

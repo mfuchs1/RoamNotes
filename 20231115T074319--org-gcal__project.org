@@ -29,7 +29,7 @@
 
 * Kletterkurs Gabriel
 :PROPERTIES:
-:ETag:     "3417985764057000"
+:ETag:     "3422192995278000"
 :LOCATION: Kletterhalle Salzburg, Wasserfeldstraße, Salzburg
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 6kq68cb16gp68bb16gp32b9kchj3ebb164pjeb9jc4ojeob26ti3aob16o_20240130T151500Z/matthiasfuchs01@gmail.com
@@ -608,18 +608,6 @@ Opa fragen bzgl alter Tastatur / Unix-PC?
 :ETag:     "3418043911300000"
 :LOCATION: Kletterhalle Salzburg, Wasserfeldstraße, Salzburg
 :calendar-id: matthiasfuchs01@gmail.com
-:entry-id: j0ch638tq5g295fhsof3n97jpc_20240326T153000Z/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2024-03-26 Di 16:30-18:00>
-:END:
-
-* Kletterkurs Gabriel
-:PROPERTIES:
-:ETag:     "3418043911300000"
-:LOCATION: Kletterhalle Salzburg, Wasserfeldstraße, Salzburg
-:calendar-id: matthiasfuchs01@gmail.com
 :entry-id: j0ch638tq5g295fhsof3n97jpc_20240402T143000Z/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
 :END:
@@ -775,5 +763,80 @@ Zusammenfassung einer Sage schreiben, auf Zeit (30min)
 :END:
 :org-gcal:
 <2024-03-17 So 18:15-19:15>
+:END:
+
+* Ostergottesdienst MS Golling
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3422193053940000"
+:entry-id: om05vbk6mn4rtu786ea5ukgjsk/matthiasfuchs01@gmail.com
+:CUSTOM_ID: h:4f8b0e4e-0a6e-468b-8814-98516d9ded63
+:END:
+:org-gcal:
+<2024-03-22 Fr 12:00-12:45>
+:END:
+
+* Beten und Lesen
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3423145848070000"
+:entry-id: uoe5qhjq7urcmgsi0p4icl8ua8/matthiasfuchs01@gmail.com
+:CUSTOM_ID: h:51346df1-bcd8-4cc5-a90f-8e119a942540
+:END:
+:org-gcal:
+<2024-03-27 Mi 22:00-23:00>
+:END:
+
+* Gründonnerstag - Messe vom Letzten Abendmahl
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3423280743768000"
+:entry-id: b9gtqisv4lm1jadqaslap0mi20/matthiasfuchs01@gmail.com
+:CUSTOM_ID: h:ba29fdcc-0cbe-4b66-ab32-8e48048e5174
+:END:
+:org-gcal:
+<2024-03-28 Do 19:00-20:00>
+
+Franziskaner Salzburg
+:END:
+
+* Feier vom Leiden und Sterben Jesu
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3423146443170000"
+:entry-id: 2m50ev8jrqum6866h8h5bijp2g/matthiasfuchs01@gmail.com
+:CUSTOM_ID: h:f2a0c396-f9cf-48e4-9c9e-2112f2240b46
+:END:
+:org-gcal:
+<2024-03-29 Fr 15:00-16:00>
+
+Franziskaner Salzburg
+:END:
+
+* Osternacht (Dom)
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3423146512706000"
+:entry-id: trf6oaa4509iqa49gu1c46f0tk/matthiasfuchs01@gmail.com
+:CUSTOM_ID: h:c22b3ffd-e7d2-4ec3-85a4-52ace0e15b84
+:END:
+:org-gcal:
+<2024-03-30 Sa 21:00-23:00>
+:END:
+
+* Ostersonntag (Franziskaner)
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3423146660818000"
+:entry-id: senmpb8k5nsssik7f8ve8njtgs/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2024-03-31 So 19:00-20:00>
 :END:
 

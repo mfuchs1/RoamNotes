@@ -46,6 +46,22 @@ CLOSED: [2024-02-20 Di 07:45] DEADLINE: <2024-02-19 Mo 10:25>
 :END:
 [[mailto: "Elisabeth Weninger" <elisabeth.weninger@motzko.at>]]
 
+** TODO [#A] Beitrag zur Diskussion bzgl Schulgottesdienste
+DEADLINE: <2024-04-09 Di 16:00>
+:PROPERTIES:
+:CAPTURED: [2024-03-22 Fr 10:12]
+:END:
+Statement von Birgit:
+- Wir gehen nur viermal im Jahr in die Kirche
+- es geht um die Vermittlung von Werten; Religion und Ethik tragen hier einen wesentlichen Beitrag zur Entwicklung(sphase) der Kinder bei.
+- Es hat schon einen scheinheiligen Beigeschmack, wenn die Kinder (und wir uns) sich zu Ostern und Weihnachten Geschenke machen - aber in die Kirche gehen (was diesen Festen erst den wirklichen Sinn gibt) - das wäre wieder zu viel. Wir profitieren von diesen Festen: Freizeit, Entspannung, Erholung, Zeit mit der Familie, etc. - von der religiösen Bedeutung ganz zu schweigen.
+- Als Lehrer haben wir im Vergleich zu anderen Branchen sehr viele freie Tage.
+- In diesem Fall sollten wir unsere persönlichen Befindlichkeiten hinten anstellen können und an die Kinder denken.
+- Was sind uns unsere Werte wert? Gerade in dieser Zeit erhalten sie eine immer größere Bedeutung.
+- Es gibt die zwhn Gebote; schon im Sinne einer Ethik sollten wir uns daran halten; wie viel besser wäre da unsere Welt.
+- ... weitere Gedanken?
+  
+
 * Tasks [Mails]
 :PROPERTIES:
 :CATEGORY: TODO Mails

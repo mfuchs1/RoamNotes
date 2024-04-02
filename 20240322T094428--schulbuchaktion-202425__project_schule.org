@@ -1,0 +1,33 @@
+#+title:      Schulbuchaktion 2024/25
+#+date:       [2024-03-22 Fr 09:44]
+#+filetags:   :Project:schule:
+#+identifier: 20240322T094428
+#+CATEGORY: Schulbücher
+
+* TODO [#A] Schulbuchlisten pro Fach [4/10]
+DEADLINE: <2024-04-12 Fr>
+- [X] Mathematik
+  Wenn möglich ein Lösungsheft (nicht digital) in Lehrerstärke für Erarbeitungsteil
+- [ ] Deutsch
+- [ ] Englisch
+- [ ] Musik
+- [X] Geografie
+- [X] Geschichte
+- [ ] Biologie
+- [ ] Physik / Chemie
+- [X] Religion (katholisch)
+- [ ] Religion (islam)
+
+
+* TODO [#A] Schulbücher bestellen [0/4]
+DEADLINE: <2024-04-12 Fr>
+- [ ] auf der Homepage Klassen anlegen; Daten übernehmen?
+- [ ] Bücher eintragen
+- [ ] Zuweisen (Buchhandel)
+- [ ] Bestellung abschicken
+
+
+* TODO Schulbücher angekommen [0/3]
+- [ ] bestätigen?
+- [ ] Austeilen (pro Klasse)
+- [ ] Reduktionen

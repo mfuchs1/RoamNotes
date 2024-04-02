@@ -177,11 +177,17 @@ CLOSED: [2024-03-16 Sa 23:58] SCHEDULED: <2024-03-11 Mo>
 - State "DONE"       from              [2024-03-16 Sa 23:58]
 :END:
 
-** [[denote:20230624T235412][[SW28] Übungsteil Kap 3]]
-SCHEDULED: <2024-03-18 Mo>
+** DONE [[denote:20230624T235412][[SW28] Übungsteil Kap 3]]
+CLOSED: [2024-03-27 Mi 21:53] SCHEDULED: <2024-03-18 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-03-27 Mi 21:53]
+:END:
 
-** [SW29] Osterferien3
-SCHEDULED: <2024-03-25 Mo>
+** DONE [SW29] Osterferien3
+CLOSED: [2024-04-01 Mo 15:50] SCHEDULED: <2024-03-25 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-04-01 Mo 15:50]
+:END:
 
 ** [[denote:20230624T235841][[SW30] Der Sonntag - Zeugen der Vergangenheit]]
 SCHEDULED: <2024-04-01 Mo>

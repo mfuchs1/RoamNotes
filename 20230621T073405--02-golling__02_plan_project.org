@@ -183,14 +183,23 @@ CLOSED: [2024-03-16 Sa 23:58] SCHEDULED: <2024-03-11 Mo>
 - State "DONE"       from              [2024-03-16 Sa 23:58]
 :END:
 
-** [[denote:20230619T213839][[SW28] Impuls: Symbole sprechen lassen]]
-SCHEDULED: <2024-03-18 Mo>
+** DONE [[denote:20230619T213839][[SW28] Impuls: Symbole sprechen lassen]]
+CLOSED: [2024-03-27 Mi 21:53] SCHEDULED: <2024-03-18 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-03-27 Mi 21:53]
+:END:
 
-** [SW29] Osterferien2
-SCHEDULED: <2024-03-25 Mo>
+** DONE [SW29] Osterferien2
+CLOSED: [2024-04-01 Mo 15:50] SCHEDULED: <2024-03-25 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-04-01 Mo 15:50]
+:END:
 
 ** [SW30] Karwoche / Osterferien
-SCHEDULED: <2024-04-01 Mo>
+CLOSED: [2024-04-01 Mo 15:52] SCHEDULED: <2024-04-01 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-04-01 Mo 15:52]
+:END:
 
 ** [[denote:20230619T214024][[SW31] Was ist ein Sakrament?]]
 SCHEDULED: <2024-04-08 Mo>

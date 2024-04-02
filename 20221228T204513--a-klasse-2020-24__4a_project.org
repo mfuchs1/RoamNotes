@@ -20,7 +20,7 @@
 
 
 * 4a 10:40-11:30
-<%%(org-class 2023 9 11 2024 7 5 1 07)>
+<%%(org-class 2023 9 11 2024 7 5 1 14)>
 
 [[denote:20240130T101420][Themen vierte Klassen]]
 
@@ -32,7 +32,7 @@ Bibel lesen:
 - Warum das Kreuz?
 
 * 4a 08:40-09:30
-<%%(org-class 2023 9 12 2024 7 6 2 07)>
+<%%(org-class 2023 9 12 2024 7 6 2 14)>
 
 Religionen:
 - ihre Entstehung

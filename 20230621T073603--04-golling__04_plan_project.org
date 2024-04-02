@@ -176,11 +176,17 @@ CLOSED: [2024-03-16 Sa 23:58] SCHEDULED: <2024-03-11 Mo>
 - State "DONE"       from              [2024-03-16 Sa 23:58]
 :END:
 
-** [[denote:20230711T004953][[SW28] Kreuzweg]]
-SCHEDULED: <2024-03-18 Mo>
+** DONE [[denote:20230711T004953][[SW28] Kreuzweg]]
+CLOSED: [2024-03-27 Mi 21:53] SCHEDULED: <2024-03-18 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-03-27 Mi 21:53]
+:END:
 
-** [SW29] Osterferien4
-SCHEDULED: <2024-03-25 Mo>
+** DONE [SW29] Osterferien4
+CLOSED: [2024-04-01 Mo 15:50] SCHEDULED: <2024-03-25 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-04-01 Mo 15:50]
+:END:
 
 ** [[denote:20230711T005055][[SW30] Karwoche / Osterferien]]
 SCHEDULED: <2024-04-01 Mo>

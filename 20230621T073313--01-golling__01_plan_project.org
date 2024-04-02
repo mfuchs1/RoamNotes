@@ -169,13 +169,19 @@ CLOSED: [2024-03-16 Sa 23:58] SCHEDULED: <2024-03-11 Mo>
 - State "DONE"       from              [2024-03-16 Sa 23:58]
 :END:
    
-** [[denote:20230619T092912][[SW28] Die Bitten unseres Lebens / Das Vaterunser]]
-SCHEDULED: <2024-03-18 Mo>
+** DONE [[denote:20230619T092912][[SW28] Die Bitten unseres Lebens / Das Vaterunser]]
+CLOSED: [2024-03-27 Mi 21:53] SCHEDULED: <2024-03-18 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-03-27 Mi 21:53]
+:END:
 
-** [SW29] Osterferien1
-SCHEDULED: <2024-03-25 Mo>
+** DONE [SW29] Osterferien1
+CLOSED: [2024-04-01 Mo 15:50] SCHEDULED: <2024-03-25 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-04-01 Mo 15:50]
+:END:
 
-** DONE [SW30] Karwoche / Osterferien
+** [SW30] Karwoche / Osterferien
 SCHEDULED: <2024-04-01 Mo>
 
 ** [[denote:20230619T145033][[SW31] Ich gehöre dazu / ein gemeinsamer Glaube]]

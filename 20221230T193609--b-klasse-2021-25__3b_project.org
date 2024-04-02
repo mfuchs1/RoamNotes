@@ -19,21 +19,28 @@
 [[denote:20230621T073521][03 Golling]]
 
 * 3b 11:35-12:25
-<%%(org-class 2023 9 13 2024 7 7 3 07)>
+<%%(org-class 2023 9 13 2024 7 7 3 13)>
 
 [[file:~/NMS_Golling/Religion_für_uns/Serviceteil_3.pdf]]
 
-Bibel lesen:
-- Joh 12 (Weizenkorn bringt Frucht)
-- Joh 8: Ehebrecherin
-- Lk (Passionsgeschichte)
-- Warum das Kreuz?
+- Firmung / Vorbereitung ::
+  - "Die Geschichte der Auferstehung" - S. 48
+  - "Forschungsreise zum Heiligen Geist" - S. 52
+  - "Was passiert bei der Firmung?" - S. 98
+
 
 * 3b 10:40-11:30
-<%%(org-class 2023 9 14 2024 7 8 4 07)>
+:PROPERTIES:
+:CUSTOM_ID: h:11b2f6de-d807-4806-a6ff-909c48803749
+:END:
+<%%(org-class 2023 9 14 2024 7 8 4 13)>
 
-Religionsbuch "Reich Gottes", ab S. 68
-Gleichnisse Jesu, ...
+- Firmung / Vorbereitung ::
+  - "Die Geschichte der Auferstehung" - S. 48
+  - "Forschungsreise zum Heiligen Geist" - S. 52
+  - "Was passiert bei der Firmung?" - S. 98
+
+
 
 * 3B [KV Lena ]
 #+Name: 2021-students
@@ -168,7 +175,13 @@ Allgemeine Bemerkungen:
 |         2 |           3 |   2 |         3 |        2.5 |
 #+TBLFM: $5=vmean($1..$4)
 
+*** [[denote:20221226T114556][Reich Gottes Gleichnisse]]
+:PROPERTIES:
+:CAPTURED: [2024-03-20 Mi 12:08]
+:END:
+Stört, redet viel, macht quietschende Geräusche, wiederholt meine Sätze wie ein Papagei, ... (Tobi eben) - arbeitet aber nicht.
 
+Genauso erfüllt meinen anderen Arbeitsauftrag nicht (RB S. 73; Lückentext).
 
 
 ** Azra Hant
