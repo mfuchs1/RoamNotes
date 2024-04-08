@@ -605,7 +605,7 @@ Opa fragen bzgl alter Tastatur / Unix-PC?
 
 * Kletterkurs Gabriel
 :PROPERTIES:
-:ETag:     "3418043911300000"
+:ETag:     "3422061118220000"
 :LOCATION: Kletterhalle Salzburg, Wasserfeldstraße, Salzburg
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: j0ch638tq5g295fhsof3n97jpc_20240402T143000Z/matthiasfuchs01@gmail.com
@@ -613,6 +613,17 @@ Opa fragen bzgl alter Tastatur / Unix-PC?
 :END:
 :org-gcal:
 <2024-04-02 Di 16:30-18:00>
+:END:
+
+* SEL Gespräch Gabriel
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3425115611850000"
+:entry-id: hl87bp3dsomt98l3akio7vfin8/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2024-04-09 Di 17:00-18:00>
 :END:
 
 * Kletterkurs Gabriel

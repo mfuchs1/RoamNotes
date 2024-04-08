@@ -24,27 +24,35 @@
 
 [[denote:20240130T101420][Themen vierte Klassen]]
 
-Bibel lesen:
-- Joh 12 (Weizenkorn bringt Frucht)
-- Joh 8: Ehebrecherin
-- Lk (Passionsgeschichte)
-- Warum das Kreuz?
+[[denote:20230711T005146][[SW32] Jesus ist auferstanden]]
+
+Ostern - Bibel-"Session"
+- Joh 20
+- Lk 24
+- 1 Kor 16
+- Apg 2
+
+Video kathmedia "Jesus Glauben - Folge 14 - Über Skepsis, Walfische und die Auferstehung"
+[[https://www.youtube.com/watch?v=37G_apGr12Y]]
+
+Doku? ...
+Film "Im Wendekreis des Kreuzes"
+[[https://www.youtube.com/watch?v=4gLKtoFjPgI]]
+
+** Zeugnis von Torsten Hartung:
+Hr. Hartung wächst in einer Familie auf, die von Gewalt geprägt ist. Eines Tages entscheidet er sich, vom Opfer zum Täter zu werden und wird zu einem gefürchteten Schläger, landet oft im Gefängnis. Als er wieder einmal frei ist, wird er Chef einer kriminellen Vereinigung, die Luxus-Autos nach Russland und Arabien verkauft. 
+
+Er kommt in Einzelhaft und wird zu 15 Jahren Gefängnis verurteilt. Dort begegnet er Gott. Es beginnt ein längerer Heilungsprozess; er lässt sich taufen, weiht sich der Muttergottes. Nach dem Ende seiner Haftstrafe fährt er für 3 Wochen nach Südkorea, gibt in den Gemeinden Zeugnis. Er heiratet und arbeitet nun Vollzeit ehrenamtlich für Gott. Er leitet einen Seelsorge-Verein, der jugendliche Straftäter begleitet.
+
+Sein Zeugnis geht wirklich unter die Haut:
+
+[[https://www.youtube.com/watch?v=lpfXmymNQBI]]
 
 * 4c 09:35-10:25
 <%%(org-class 2023 9 14 2024 7 8 4 14)>
 
 [[denote:20240130T101420][Themen vierte Klassen]]
 
-Bibel LK
-
-Die sieben letzten Worte Jesu am Kreuz
-- [[file:Bibel/nt/Lk_23.org::v34][Lk 23,34]]
-- [[file:Bibel/nt/Lk_23.org::v43][Lk 23,43]]
-- [[file:Bibel/nt/Joh_19.org::v26][Joh 19,26-27]]
-- [[file:Bibel/nt/Mt_27.org::v46][Mt 27,46]]
-- [[file:Bibel/nt/Joh_19.org::v28][Joh 19,28]]
-- [[file:Bibel/nt/Joh_19.org::v30][Joh 19,30]]
-- [[file:Bibel/nt/Lk_23.org::v46][Lk 23,46]]
 
 
 * 4C [KV Gertraud Ellmauer]

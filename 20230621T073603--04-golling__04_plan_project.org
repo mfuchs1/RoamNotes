@@ -188,8 +188,11 @@ CLOSED: [2024-04-01 Mo 15:50] SCHEDULED: <2024-03-25 Mo>
 - State "DONE"       from              [2024-04-01 Mo 15:50]
 :END:
 
-** [[denote:20230711T005055][[SW30] Karwoche / Osterferien]]
-SCHEDULED: <2024-04-01 Mo>
+** DONE [[denote:20230711T005055][[SW30] Karwoche / Osterferien]]
+CLOSED: [2024-04-08 Mo 08:12] SCHEDULED: <2024-04-01 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-04-08 Mo 08:12]
+:END:
 
 ** [[denote:20230711T005113][[SW31] Osterevangelium - Warum musste Jesus sterben?]]
 SCHEDULED: <2024-04-08 Mo>
