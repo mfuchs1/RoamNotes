@@ -11,12 +11,15 @@ DEADLINE: <2024-04-12 Fr>
 - [X] Deutsch
 - [X] Englisch
 - [ ] Musik
+  Wird da eig. etwas bestellt? Das Liederbuch, oder?
 - [X] Geografie
 - [X] Geschichte
 - [X] Biologie
 - [ ] Physik / Chemie
+  Christian fragen.
 - [X] Religion (katholisch)
 - [ ] Religion (islam)
+  Wen frage ich hier?
 
 
 * TODO [#A] Schulbücher bestellen [1/5]
