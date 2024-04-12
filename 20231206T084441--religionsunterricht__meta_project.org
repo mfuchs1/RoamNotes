@@ -12,9 +12,25 @@
 #+STARTUP: fnadjust
 #+STARTUP: showall
 #+export_file_name: ~/RoamNotes/exports/Religionsunterricht.html
+#+REVEAL_ROOT: /home/matthias/reveal.js
+#+REVEAL_EXTRA_CSS: ./local.css
+#+REVEAL_INIT_OPTIONS: width:1920, height:1080
+#+REVEAL_PLUGINS: (notes)
+
 
 * Gedanken
-Der Text ist nicht ganz genau unter dem Headline.
+Der Text ist nicht ganz genau unter dem Headline. Und der Text geht weiter. Der Text ist nicht ganz genau unter dem Headline. Und der Text geht weiter. Der Text ist nicht ganz genau unter dem Headline. Und der Text geht weiter. Der Text ist nicht ganz genau unter dem Headline. Und der Text geht weiter. Der Text ist nicht ganz genau unter dem Headline. Und der Text geht weiter.
+
+#+BEGIN_NOTES
+  Enter speaker notes here.
+#+END_NOTES
+
+#+ATTR_REVEAL: :frag (appear) 
+   - I will grow.
+   - I will shrink.
+   - I rolled in.
+   - I will fade out.
+   - I don't fragment.
 
 ** Burnout?
 :PROPERTIES:

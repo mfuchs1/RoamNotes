@@ -189,8 +189,11 @@ CLOSED: [2024-04-01 Mo 15:50] SCHEDULED: <2024-03-25 Mo>
 - State "DONE"       from              [2024-04-01 Mo 15:50]
 :END:
 
-** [[denote:20230624T235841][[SW30] Der Sonntag - Zeugen der Vergangenheit]]
-SCHEDULED: <2024-04-01 Mo>
+** DONE [[denote:20230624T235841][[SW30] Der Sonntag - Zeugen der Vergangenheit]]
+CLOSED: [2024-04-09 Di 08:47] SCHEDULED: <2024-04-01 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-04-09 Di 08:47]
+:END:
 
 ** [[denote:20230624T235956][[SW31] Die ersten Christen - Petrus]]
 SCHEDULED: <2024-04-08 Mo>

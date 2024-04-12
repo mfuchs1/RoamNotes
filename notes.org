@@ -25,3 +25,9 @@ Mit meinen Gedanken.
 :CAPTURED: [2024-03-28 Do 17:04]
 :END:
 mit meinen Gedanken...
+
+* noch ein Eintrag
+:PROPERTIES:
+:CAPTURED: [2024-04-10 Mi 13:10]
+:END:
+Warum hab ich diese ~capture-template~? 

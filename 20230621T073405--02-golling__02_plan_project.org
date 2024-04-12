@@ -195,9 +195,10 @@ CLOSED: [2024-04-01 Mo 15:50] SCHEDULED: <2024-03-25 Mo>
 - State "DONE"       from              [2024-04-01 Mo 15:50]
 :END:
 
-** [SW30] Karwoche / Osterferien
-CLOSED: [2024-04-01 Mo 15:52] SCHEDULED: <2024-04-01 Mo>
+** DONE [SW30] Karwoche / Osterferien
+CLOSED: [2024-04-09 Di 08:46] SCHEDULED: <2024-04-01 Mo>
 :LOGBOOK:
+- State "DONE"       from              [2024-04-09 Di 08:46]
 - State "DONE"       from              [2024-04-01 Mo 15:52]
 :END:
 

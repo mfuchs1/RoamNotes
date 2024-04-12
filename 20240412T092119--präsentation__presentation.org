@@ -1,0 +1,77 @@
+#+title:      Präsentation
+#+date:       [2024-04-12 Fr 09:21]
+#+filetags:   :presentation:
+#+identifier: 20240412T092119
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Präsentation.html
+#+REVEAL_ROOT: /home/matthias/reveal.js
+#+REVEAL_EXTRA_CSS: ./local.css
+#+REVEAL_INIT_OPTIONS: width:1920, height:1080
+#+REVEAL_PLUGINS: (notes)
+
+* Meine erste Präsentation mit ~reveal.ls~
+Darunter kommt mein Text, meine Gedanken. Es ist möglich, ~speaker notes~ einzufügen.
+
+#+BEGIN_NOTES
+  Enter speaker notes here.
+#+END_NOTES
+
+** Aufzählungen
+Weiters gibt es Aufzählungen
+
+#+BEGIN_NOTES
+  Enter speaker notes here. Und noch etwas....
+#+END_NOTES
+
+#+ATTR_REVEAL: :frag (appear) 
+- erstes Ding
+- ein zweites
+- ein drittes
+
+
+** Highlights für Code
+Das übernimmt das Emacs theme (wenn ~htmlize.el~ installiert ist)
+
+#+BEGIN_NOTES
+  Enter speaker notes here. Und so weiter ....
+#+END_NOTES
+
+#+begin_src elisp
+    (defun dw/minibuffer-backward-kill (arg)
+      "When minibuffer is completing a file name delete up to parent
+      folder, otherwise delete a character backward"
+      (interactive "p")
+      (if minibuffer-completing-file-name
+          ;; Borrowed from https://github.com/raxod502/selectrum/issues/498#issuecomment-803283608
+          (if (string-match-p "/." (minibuffer-contents))
+              (zap-up-to-char (- arg) ?/)
+            (delete-minibuffer-contents))
+        (delete-char arg)))
+
+    (use-package vertico
+      :ensure t
+      :bind (:map vertico-map
+                  ("C-j" . vertico-next)
+                  ("C-k" . vertico-previous)
+                  ("C-f" . vertico-exit)
+                  :map minibuffer-local-map
+                  ("M-h" . backward-kill-word)
+                  ("<backspace>" . dw/minibuffer-backward-kill))
+      :config
+      (setq vertico-cycle t)
+      (setq vertico-resize nil)
+      (vertico-mode 1))
+  #+end_src
+  
+
+* Und ein Schluß
+Gedanken zum Abschluß.
+
+#+BEGIN_NOTES
+  Enter speaker notes here.
+#+END_NOTES

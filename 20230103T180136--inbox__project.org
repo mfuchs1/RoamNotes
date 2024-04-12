@@ -46,10 +46,13 @@ CLOSED: [2024-02-20 Di 07:45] DEADLINE: <2024-02-19 Mo 10:25>
 :END:
 [[mailto: "Elisabeth Weninger" <elisabeth.weninger@motzko.at>]]
 
-** TODO [#A] Beitrag zur Diskussion bzgl Schulgottesdienste
-DEADLINE: <2024-04-09 Di 16:00>
+** DONE [#A] Beitrag zur Diskussion bzgl Schulgottesdienste
+CLOSED: [2024-04-09 Di 09:34] DEADLINE: <2024-04-09 Di 16:00>
 :PROPERTIES:
 :CAPTURED: [2024-03-22 Fr 10:12]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2024-04-09 Di 09:34]
 :END:
 Statement von Birgit:
 - Wir gehen nur viermal im Jahr in die Kirche
@@ -60,8 +63,51 @@ Statement von Birgit:
 - Was sind uns unsere Werte wert? Gerade in dieser Zeit erhalten sie eine immer größere Bedeutung.
 - Es gibt die zwhn Gebote; schon im Sinne einer Ethik sollten wir uns daran halten; wie viel besser wäre da unsere Welt.
 - ... weitere Gedanken?
-  
 
+** DONE dired move one directory up / back 
+CLOSED: [2024-04-09 Di 08:47] DEADLINE: <2024-04-08 Mo 20:00>
+:PROPERTIES:
+:CAPTURED: [2024-04-08 Mo 09:45]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2024-04-09 Di 08:47]
+:END:
+[[file:~/.emacs.d/init.el::;;; dired]]
+
+Ich hatte doch einmal diese Funktion mit backspace? von System Crafters? Zuhause aufm Desktop Rechner nachschauen. Entweder gibt's die Funktion im aktuellen ~init.el~, oder in den alten config-Dateien.
+
+- Note :: Auf dem Desktop-PC (XFCE) hab im ~init.el~ file die passende Funktion gefunden:
+
+  #+begin_src elisp
+    (defun dw/minibuffer-backward-kill (arg)
+      "When minibuffer is completing a file name delete up to parent
+      folder, otherwise delete a character backward"
+      (interactive "p")
+      (if minibuffer-completing-file-name
+          ;; Borrowed from https://github.com/raxod502/selectrum/issues/498#issuecomment-803283608
+          (if (string-match-p "/." (minibuffer-contents))
+              (zap-up-to-char (- arg) ?/)
+            (delete-minibuffer-contents))
+        (delete-char arg)))
+
+    (use-package vertico
+      :ensure t
+      :bind (:map vertico-map
+                  ("C-j" . vertico-next)
+                  ("C-k" . vertico-previous)
+                  ("C-f" . vertico-exit)
+                  :map minibuffer-local-map
+                  ("M-h" . backward-kill-word)
+                  ("<backspace>" . dw/minibuffer-backward-kill))
+      :config
+      (setq vertico-cycle t)
+      (setq vertico-resize nil)
+      (vertico-mode 1))
+  #+end_src
+Ich
+Allerdings beklagt Emacs nach dem Kompelieren, dass diese Funktion ~dw/minibuffer-backward-kill~ mehrmals definiert werde? Diese Warnung (Gott sei Dank nur eine solche) verstehe ich nicht, und hab auch noch keine Antwort gefunden.
+
+  
 * Tasks [Mails]
 :PROPERTIES:
 :CATEGORY: TODO Mails
