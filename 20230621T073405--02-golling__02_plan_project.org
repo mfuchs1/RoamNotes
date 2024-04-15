@@ -202,8 +202,11 @@ CLOSED: [2024-04-09 Di 08:46] SCHEDULED: <2024-04-01 Mo>
 - State "DONE"       from              [2024-04-01 Mo 15:52]
 :END:
 
-** [[denote:20230619T214024][[SW31] Was ist ein Sakrament?]]
-SCHEDULED: <2024-04-08 Mo>
+** DONE [[denote:20230619T214024][[SW31] Was ist ein Sakrament?]]
+CLOSED: [2024-04-13 Sa 22:17] SCHEDULED: <2024-04-08 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-04-13 Sa 22:17]
+:END:
 
 ** [[denote:20230619T214113][[SW32] Sakramente: Symbole und Zeichen erschließen]]
 SCHEDULED: <2024-04-15 Mo>

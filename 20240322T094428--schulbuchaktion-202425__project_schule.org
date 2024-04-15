@@ -8,27 +8,34 @@
 DEADLINE: <2024-04-12 Fr>
 - [X] Mathematik
   Wenn möglich ein Lösungsheft (nicht digital) in Lehrerstärke für Erarbeitungsteil
+  Bernadette: ein Exemplar "Zahlen bitte e + E Book+" (nur eines)
 - [X] Deutsch
+  "Vielfach Deutsch Grammatik" 1-4, nur ein Exemplar, für L.
 - [X] Englisch
 - [ ] Musik
+  "Club Musik"
   Wird da eig. etwas bestellt? Das Liederbuch, oder?
 - [X] Geografie
 - [X] Geschichte
 - [X] Biologie
 - [ ] Physik / Chemie
+  "Mehrfach Chemie" (AH allgm)
   Christian fragen.
 - [X] Religion (katholisch)
 - [ ] Religion (islam)
   Wen frage ich hier?
 
 
-* TODO [#A] Schulbücher bestellen [1/5]
+* TODO [#A] Schulbücher bestellen [2/6]
 DEADLINE: <2024-04-12 Fr>
 - [X] Schülerlisten aus Sokrates erstellen
-- [ ] auf der Homepage Klassen anlegen; Daten übernehmen?
+- [X] auf der Homepage Klassen anlegen; Daten übernehmen?
 - [ ] Bücher eintragen
+- [ ] Budget abgleichen? Digital / Normal?
 - [ ] Zuweisen (Buchhandel)
 - [ ] Bestellung abschicken
+
+  Leider ist schon wieder das Budget für das Digitale weit überschritten. Entweder manche Bücher ins "normale" Bücherbudget eintragen; oder einige Lehrer fragen, ob wir statt E-Books+ normale E-Books bestellen können. (Frau Weninger fragen)
 
 
 * TODO Schulbücher angekommen [0/3]

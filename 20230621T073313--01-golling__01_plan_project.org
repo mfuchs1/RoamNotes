@@ -187,8 +187,11 @@ CLOSED: [2024-04-09 Di 08:46] SCHEDULED: <2024-04-01 Mo>
 - State "DONE"       from              [2024-04-09 Di 08:46]
 :END:
 
-** [[denote:20230619T145033][[SW31] Ich gehöre dazu / ein gemeinsamer Glaube]]
-SCHEDULED: <2024-04-08 Mo>
+** DONE [[denote:20230619T145033][[SW31] Ich gehöre dazu / ein gemeinsamer Glaube]]
+CLOSED: [2024-04-13 Sa 22:17] SCHEDULED: <2024-04-08 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-04-13 Sa 22:17]
+:END:
 
 ** [[denote:20230619T145125][[SW32] Jesus ist auferstanden / Osterfestkreis (Kap 5.7)]]
 SCHEDULED: <2024-04-15 Mo>

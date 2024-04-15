@@ -194,8 +194,11 @@ CLOSED: [2024-04-08 Mo 08:12] SCHEDULED: <2024-04-01 Mo>
 - State "DONE"       from              [2024-04-08 Mo 08:12]
 :END:
 
-** [[denote:20230711T005113][[SW31] Osterevangelium - Warum musste Jesus sterben?]]
-SCHEDULED: <2024-04-08 Mo>
+** DONE [[denote:20230711T005113][[SW31] Osterevangelium - Warum musste Jesus sterben?]]
+CLOSED: [2024-04-13 Sa 22:17] SCHEDULED: <2024-04-08 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-04-13 Sa 22:17]
+:END:
 
 ** [[denote:20230711T005146][[SW32] Jesus ist auferstanden]]
 SCHEDULED: <2024-04-15 Mo>

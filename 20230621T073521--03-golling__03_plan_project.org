@@ -195,8 +195,11 @@ CLOSED: [2024-04-09 Di 08:47] SCHEDULED: <2024-04-01 Mo>
 - State "DONE"       from              [2024-04-09 Di 08:47]
 :END:
 
-** [[denote:20230624T235956][[SW31] Die ersten Christen - Petrus]]
-SCHEDULED: <2024-04-08 Mo>
+** DONE [[denote:20230624T235956][[SW31] Die ersten Christen - Petrus]]
+CLOSED: [2024-04-13 Sa 22:17] SCHEDULED: <2024-04-08 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-04-13 Sa 22:17]
+:END:
 
 ** [[denote:20230625T000110][[SW32] Paulus - eine Botschaft für alle / Frauen im frühen Christentum]]
 SCHEDULED: <2024-04-15 Mo>
