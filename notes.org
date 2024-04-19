@@ -9,6 +9,10 @@
 #+OPTIONS: toc:nil
 #+STARTUP: fnadjust
 #+startup: content
+#+REVEAL_ROOT: /home/matthias/reveal.js
+#+REVEAL_EXTRA_CSS: ./local.css
+#+REVEAL_INIT_OPTIONS: width:1920, height:1080
+#+REVEAL_PLUGINS: (notes)
 #+export_file_name: ~/RoamNotes/exports/notes.html
 
 * Idee von diesem Interview mit prot
@@ -31,3 +35,13 @@ mit meinen Gedanken...
 :CAPTURED: [2024-04-10 Mi 13:10]
 :END:
 Warum hab ich diese ~capture-template~? 
+
+* Use ~org-coursepack~ to create teaching material
+:PROPERTIES:
+:CAPTURED: [2024-04-17 Mi 14:28]
+:END:
+- source :: https://github.com/joonro/Org-Coursepack
+- documentation :: https://joonro.github.io/Org-Coursepack/index.html
+
+Vielleicht kann dies hilfreich für meine neue Stelle in Abtenau sein?
+

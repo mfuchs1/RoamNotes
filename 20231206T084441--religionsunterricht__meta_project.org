@@ -12,11 +12,6 @@
 #+STARTUP: fnadjust
 #+STARTUP: showall
 #+export_file_name: ~/RoamNotes/exports/Religionsunterricht.html
-#+REVEAL_ROOT: /home/matthias/reveal.js
-#+REVEAL_EXTRA_CSS: ./local.css
-#+REVEAL_INIT_OPTIONS: width:1920, height:1080
-#+REVEAL_PLUGINS: (notes)
-
 
 * Gedanken
 Der Text ist nicht ganz genau unter dem Headline. Und der Text geht weiter. Der Text ist nicht ganz genau unter dem Headline. Und der Text geht weiter. Der Text ist nicht ganz genau unter dem Headline. Und der Text geht weiter. Der Text ist nicht ganz genau unter dem Headline. Und der Text geht weiter. Der Text ist nicht ganz genau unter dem Headline. Und der Text geht weiter.
@@ -31,6 +26,7 @@ Der Text ist nicht ganz genau unter dem Headline. Und der Text geht weiter. Der 
    - I rolled in.
    - I will fade out.
    - I don't fragment.
+     
 
 ** Burnout?
 :PROPERTIES:
@@ -150,6 +146,14 @@ Ich finde es eine reizvolle Idde, die mir sehr gefällt; auch für später, in d
 
 Ich werde mich auf jeden Fall darum kümmern und mich erkundigen.
 
+** Use ~org-coursepack~ to create teaching material
+:PROPERTIES:
+:CAPTURED: [2024-04-17 Mi 14:31]
+:END:
+- source :: https://github.com/joonro/Org-Coursepack
+- documentation :: https://joonro.github.io/Org-Coursepack/index.html
+
+Vielleicht kann dies hilfreich für meine neue Stelle in Abtenau sein?
 
 * Tasks
 
