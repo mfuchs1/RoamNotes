@@ -26,7 +26,6 @@ Der Text ist nicht ganz genau unter dem Headline. Und der Text geht weiter. Der 
    - I rolled in.
    - I will fade out.
    - I don't fragment.
-     
 
 ** Burnout?
 :PROPERTIES:

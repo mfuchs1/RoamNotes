@@ -193,8 +193,11 @@ CLOSED: [2024-04-13 Sa 22:17] SCHEDULED: <2024-04-08 Mo>
 - State "DONE"       from              [2024-04-13 Sa 22:17]
 :END:
 
-** [[denote:20230619T145125][[SW32] Jesus ist auferstanden / Osterfestkreis (Kap 5.7)]]
-SCHEDULED: <2024-04-15 Mo>
+** DONE [[denote:20230619T145125][[SW32] Jesus ist auferstanden / Osterfestkreis (Kap 5.7)]]
+CLOSED: [2024-04-19 Fr 23:41] SCHEDULED: <2024-04-15 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-04-19 Fr 23:41]
+:END:
 
 ** [[denote:20230619T145222][[SW33] Gottes Gegenwart feiern / Übungsteil]]
 SCHEDULED: <2024-04-22 Mo>

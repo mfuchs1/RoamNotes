@@ -200,8 +200,11 @@ CLOSED: [2024-04-13 Sa 22:17] SCHEDULED: <2024-04-08 Mo>
 - State "DONE"       from              [2024-04-13 Sa 22:17]
 :END:
 
-** [[denote:20230711T005146][[SW32] Jesus ist auferstanden]]
-SCHEDULED: <2024-04-15 Mo>
+** DONE [[denote:20230711T005146][[SW32] Jesus ist auferstanden]]
+CLOSED: [2024-04-19 Fr 23:41] SCHEDULED: <2024-04-15 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-04-19 Fr 23:41]
+:END:
 
 ** [[denote:20230711T005250][[SW33] (neues Thema finden)]]
 SCHEDULED: <2024-04-22 Mo>

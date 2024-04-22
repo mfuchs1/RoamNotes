@@ -21,7 +21,7 @@
 [[denote:20230621T073313][01 Golling]]
 
 * 1a 11:35-12:25
-<%%(org-class 2023 9 12 2024 7 6 2 13)>
+<%%(org-class 2023 9 12 2024 7 6 2 18)>
 Ostern - Bibel-"Session"
 - Joh 20
 - Lk 24

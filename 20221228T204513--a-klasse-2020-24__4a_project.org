@@ -20,7 +20,10 @@
 
 
 * 4a 10:40-11:30
-<%%(org-class 2023 9 11 2024 7 5 1 14)>
+:PROPERTIES:
+:CUSTOM_ID: h:7b9e2eb5-775f-4306-98b1-72622367630c
+:END:
+<%%(org-class 2023 9 11 2024 7 5 1 18)>
 
 [[denote:20240130T101420][Themen vierte Klassen]]
 
@@ -48,6 +51,9 @@ Sein Zeugnis geht wirklich unter die Haut:
 
 [[https://www.youtube.com/watch?v=lpfXmymNQBI]]
 
+
+** Film "Augustinus"
+Ab der Bekehrung?
 
 * 4a 08:40-09:30
 <%%(org-class 2023 9 12 2024 7 6 2 14)>

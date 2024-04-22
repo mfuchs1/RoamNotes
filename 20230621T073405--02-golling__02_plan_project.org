@@ -208,8 +208,11 @@ CLOSED: [2024-04-13 Sa 22:17] SCHEDULED: <2024-04-08 Mo>
 - State "DONE"       from              [2024-04-13 Sa 22:17]
 :END:
 
-** [[denote:20230619T214113][[SW32] Sakramente: Symbole und Zeichen erschließen]]
-SCHEDULED: <2024-04-15 Mo>
+** DONE [[denote:20230619T214113][[SW32] Sakramente: Symbole und Zeichen erschließen]]
+CLOSED: [2024-04-19 Fr 23:41] SCHEDULED: <2024-04-15 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-04-19 Fr 23:41]
+:END:
 
 ** [[denote:20230619T214230][[SW33] Übungsteil: Und jetzt ich / Das nehme ich mit!]]
 SCHEDULED: <2024-04-22 Mo>

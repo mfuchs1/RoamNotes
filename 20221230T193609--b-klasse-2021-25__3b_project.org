@@ -33,7 +33,7 @@
 :PROPERTIES:
 :CUSTOM_ID: h:11b2f6de-d807-4806-a6ff-909c48803749
 :END:
-<%%(org-class 2023 9 14 2024 7 8 4 13)>
+<%%(org-class 2023 9 14 2024 7 8 4 17)>
 
 - Firmung / Vorbereitung ::
   - "Die Geschichte der Auferstehung" - S. 48

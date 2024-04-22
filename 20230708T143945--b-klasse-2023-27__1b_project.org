@@ -23,7 +23,7 @@
 :PROPERTIES:
 :ID:       d1a8103e-d94e-4abe-868e-0dc7c88401b5
 :END:
-<%%(org-class 2023 9 12 2024 7 6 2 13)>
+<%%(org-class 2023 9 12 2024 7 6 2 18)>
 
 Ostern - Bibel-"Session"
 - Joh 20
