@@ -37,6 +37,9 @@
 
 
 * 3A [KV Bernhard Moser]
+:PROPERTIES:
+:CUSTOM_ID: h:93a698c2-00bf-4e63-90d0-788fd08fe19d
+:END:
 
 #+Name: 2021-students
 | First    | Last         | Name                | Note | Heft | Mitarbeit | LZK |
@@ -285,6 +288,7 @@
 
 
 ** Carolina Schlager
+SCHEDULED: <2024-04-25 Do 17:10-17:20>
 :PROPERTIES:
 :EMAIL: [[mailto: Carolina Schlager <Carolina.Schlager@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Carolina_Schlager.html
@@ -621,5 +625,12 @@ Hier kommt der Text hin - als Test. Dh für Reflexionen, etc wähle ich das Ziel
 :CAPTURED: [2024-01-08 Mo 13:04]
 :END:
 Hui, das war heute wieder etwas anstrengender - diese Klasse braucht dringend Beschäftigung. Trotzdem ...
+
+** [[denote:20221228T205119::#h:93a698c2-00bf-4e63-90d0-788fd08fe19d][A Klasse 2021-25::3A [KV Bernhard Moser]​]]
+:PROPERTIES:
+:CAPTURED: [2024-04-22 Mo 12:22]
+:END:
+Das war heute wieder die Vollkatastrophe! Kein normaler Unterricht möglich. Was bin ich froh, von hier bald wegzukommen. Auch wenn es in Abtenau ähnlich sein sollte. Die gesamte Klasse hat die Buchseite abschreiben "müssen". Ihr ständiges "Entschuldigung" nutzt mit gar nichts, wenn sich das Verhalten nie ändert.
+
 
 

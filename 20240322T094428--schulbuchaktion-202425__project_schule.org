@@ -1,3 +1,6 @@
+:PROPERTIES:
+:CUSTOM_ID: h:593fe483-4844-4cdc-933a-0fb3c5f61ef4
+:END:
 #+title:      Schulbuchaktion 2024/25
 #+date:       [2024-03-22 Fr 09:44]
 #+filetags:   :Project:schule:

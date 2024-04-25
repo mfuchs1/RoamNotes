@@ -3,7 +3,6 @@
 #+filetags:   :meta:Project:
 #+identifier: 20231206T084441
 #+CATEGORY: RU_meta
-#+STARTUP: showall
 #+LANGUAGE: de
 #+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
 #+SETUPFILE: ~/RoamNotes/config/latex_setup.org

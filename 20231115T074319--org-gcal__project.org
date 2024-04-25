@@ -403,37 +403,42 @@ Franziskaner Salzburg
 :PROPERTIES:
 :calendar-id: matthiasfuchs01@gmail.com
 :org-gcal-managed: org
-:ETag:     "3427536914540000"
+:ETag:     "3427878792266000"
 :entry-id: 9ieqq0iagnbevrqcmltf6on69o/matthiasfuchs01@gmail.com
 :CUSTOM_ID: h:48cba87f-6480-4bdc-a893-040193b21e8b
 :END:
 :org-gcal:
 <2024-04-24 Mi 09:35-10:25>
 
-M Standard AHS
+M Standard AHS; Funktionen S. 164+165, Merktext, Übungen 720a+b;
+[[file:~/Downloads/Supplierung Mathe 24_25_04.pdf]]
 :END:
 
 * Supplierstunde 1a DG (mit Daniela)
 :PROPERTIES:
 :calendar-id: matthiasfuchs01@gmail.com
 :org-gcal-managed: org
-:ETag:     "3427534154104000"
+:ETag:     "3428056738754000"
 :entry-id: 25nef22cp7d3vktacm40pmt0lo/matthiasfuchs01@gmail.com
 :CUSTOM_ID: h:ce4c506b-99d4-4ae2-952f-a17a31bb8388
 :END:
 :org-gcal:
 <2024-04-25 Do 11:35-12:25>
+
+Mit Daniela: Schreibtrainer, Word;
 :END:
 
 * Supplierstunde 1a TD (statt Erwin, mit Barbara)
 :PROPERTIES:
 :calendar-id: matthiasfuchs01@gmail.com
 :org-gcal-managed: org
-:ETag:     "3427534259286000"
+:ETag:     "3428056954230000"
 :entry-id: ki4thuo88dsm49h2qmj4tjhfk0/matthiasfuchs01@gmail.com
 :END:
 :org-gcal:
 <2024-04-26 Fr 09:35-10:25>
+
+Barbara weiß Bescheid
 :END:
 
 * Elternsprechtag
@@ -505,5 +510,19 @@ M Standard AHS
 :END:
 :org-gcal:
 <2024-04-26 Fr 07:45-14:00>
+:END:
+
+* Supplierstunde 4a PH
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3428056673384000"
+:entry-id: sshhtnvgma8886a6723769l7d4/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2024-04-25 Do 10:40-11:30>
+
+Referate Drogen
+[[file:~/Downloads/Microsoft PowerPoint-Präsentation (neu).pdf]]
 :END:
 

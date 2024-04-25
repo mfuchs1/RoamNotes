@@ -20,6 +20,9 @@
 
 
 * 4b 07:45-08:35
+:PROPERTIES:
+:CUSTOM_ID: h:7dde735d-9b21-4e68-ad0f-58151bcdf164
+:END:
 <%%(org-class 2023 9 12 2024 7 6 2 14)>
 
 [[denote:20240130T101420][Themen vierte Klassen]]
@@ -50,22 +53,15 @@ Sein Zeugnis geht wirklich unter die Haut:
 [[https://www.youtube.com/watch?v=lpfXmymNQBI]]
 
 * 4b 07:45-08:35
+:PROPERTIES:
+:CUSTOM_ID: h:7c3a13ae-36d0-4756-a172-57037ad0e254
+:END:
 <%%(org-class 2023 9 13 2024 7 7 3 14)>
 
 [[denote:20240130T101420][Themen vierte Klassen]]
 
-Ostern - Bibel-"Session"
-- Joh 20
-- Lk 24
-- 1 Kor 16
-- Apg 2
+Hab heute keinen Plan; was wollen die Schüler machen? Lasse sie lernen: E Checkup; GW Test; Text für Theater auswendig lernen; 
 
-Video kathmedia "Jesus Glauben - Folge 14 - Über Skepsis, Walfische und die Auferstehung"
-[[https://www.youtube.com/watch?v=37G_apGr12Y]]
-
-Doku? ...
-Film "Im Wendekreis des Kreuzes"
-[[https://www.youtube.com/watch?v=4gLKtoFjPgI]]
 
 * 4B [KV Erwin Essl]
 
@@ -518,7 +514,6 @@ Gespräch mit Manuela Gruder: Leon muss Versäumtes nachholen; va die Mindmap zu
 
 ** [[denote:20221226T113745][Dialog zw Theologie und Naturwissenschaften]]
 PERIOD: [2023-02-02 Do 08:40]
-
 Diese Stunde war echt grausam - fast die gesamte Klasse, va die Burschen haben mich komplett ingnoriert. Als ich "endlich" die Stimme erhob, haben sich ein paar der Burschen diebisch darüber gefreut (ist das nicht dämonisch?). Die Stunden in dieser Klasse lassen mich jedesmal erschöpft zurück.
 
 Mit Manuela Gruber haben wir darüber gesprochen. Die Kinder werden pro Jahrgang nicht braver, eher schlimmer. Ich muss auf mich schauen - so viele Lehrer geben erschöpft und ausgebrannt auf. Deshalb: schau auf dich, damit dir dies nicht passiert. An manchen Tagen kann Manuela mir helfen, sie wird dann draußen sitzen und jene Schüler abfangen, die ich hinausschicke.
@@ -535,7 +530,6 @@ Reli-Note ist peinlich für Familie. Ich hab meinen Standpunkt dargelegt.
 
 ** [[denote:20230323T100317][[SW28] Was ist das Kreuz für dich?]]
 PERIOD: [2023-03-23 Do 08:40]
-
 Das war heute emotional sehr anstrengend. Die erste Hälfte der Stunde war "buisness as usual": extrem störendes Verhalten der Schüler, teilweise bereits "Lehrer ignorieren". Ich hab in der Folge die Schüler "ignoriert", da schreien nix nutzt. Nach einer sehr emotionalen Rede meinerseits war der Rest der Stunde wesentlich besser.
 
 Thema: Sinn und Bedeutung der Arbeit für den Menschen - In D: Arbeitsbedingungen in den großen Textilfirmen; BO Tage der Schüler; Pleite von zwei Modefirmen; Pleite dreier großen Banken (SVB, noch eine andere US Bank, Credit Suisse, ...)
@@ -555,7 +549,6 @@ Maxi ändert sich gar nicht - scheinbar ist die Reli Note Zuhause völlig egal. 
 :CAPTURED: [2023-09-27 Mi 08:06]
 :CLASS: [2023-09-27 Mi 08:00] 1. Stunde
 :END:
-
 Wie kontrolliere und benote ich die Gruppenarbeit der letzten beiden Tage? Eventuell kann ich vorschlagen, bis zu Beginn der nächsten Woche das Heft in Ordnung zu bringen.
 
 ** [[denote:20230711T003702][[SW11] Chinesische Traditionen]]
@@ -573,7 +566,6 @@ Ab nächster Woche muss ich den "Stil" ändern: kurzer Film, dann viel Gruppenar
 :CAPTURED: [2023-10-17 Di 08:28]
 :CLASS: [2023-10-17 Di 08:28] 1. Stunde
 :END:
-
 Was soll ich machen? Einen Film zeigen nutzt gar nix - alle Schüler reden laut. Null Interesse. Mache ich eine normale Stunde - keine Mitarbeit. Aufregen? Nutzt nix. Nächste Stunde müssen die Schüler eine Heftseite gestalten. 
 
 ** [[denote:20230711T003559][[SW09] Hinduismus]]
@@ -581,7 +573,6 @@ Was soll ich machen? Einen Film zeigen nutzt gar nix - alle Schüler reden laut.
 :CAPTURED: [2023-10-25 Mi 08:24]
 :CLASS: [2023-10-25 Mi 07:45] 1. Stunde
 :END:
-
 Hm, was muss ich noch tun? Was ändern? Dieses ständige Quatschen, nicht Aufpassen, ... in der 4b. Jetzt ist's für diese Stunde schon zu spät.
 
 ** Es reicht!
@@ -589,7 +580,6 @@ Hm, was muss ich noch tun? Was ändern? Dieses ständige Quatschen, nicht Aufpas
 :CAPTURED: [2023-12-20 Mi 07:56]
 :CLASS: [2023-12-20 Mi 07:45] 1. Stunde
 :END:
-
 Ich betrete die Klasse; grüße; wir beten. Ich beginne den Film, und alle reden sehr laut. Keiner kommt auf die Idee, von selbst einmal ruhig zu werden.....
 
 Ich werde das nimmer machen. Ab nähstem Schuljahr verlasse ich die Schule. Hat den Vorteil eines gesicherten Einkommens und 9 Wochen Sommerferien, etc. Aber: die Kinder! Die Administration!
@@ -600,7 +590,10 @@ Ich bitte eine Schülerin, meinen Schlüssel zu holen. Kommt zurück und knallt 
 :PROPERTIES:
 :CAPTURED: [2024-01-24 Mi 14:11]
 :END:
-
 Hu, das war heute besonders anstregend - und zwar in allen Klassen, und während der Supplierstunde GSP in der 3a.
 
-
+** [[denote:20221230T193718::#h:7c3a13ae-36d0-4756-a172-57037ad0e254][B Klasse 2020-24::4b 07:45-08:35]]
+:PROPERTIES:
+:CAPTURED: [2024-04-24 Mi 08:24]
+:END:
+Ich frag mich: ob die Schüler (zB der 4b) nicht mehr Momente brauchen, wo sie miteinander reden können? Erlebnisse aus ihrem Alltag erzählen können? Dh Freundschaften vertiefen können?

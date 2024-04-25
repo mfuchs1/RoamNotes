@@ -45,3 +45,14 @@ Warum hab ich diese ~capture-template~?
 
 Vielleicht kann dies hilfreich für meine neue Stelle in Abtenau sein?
 
+* Note taking
+:PROPERTIES:
+:CAPTURED: [2024-04-23 Di 10:37]
+:END:
+Wie macht das ~note-taking~ am ehesten Sinn? Das ~diary~ hat einen anderen Zweck als Notizen. ~diary~ ist ein Tagebuch (Was passierte an diesem Tag? Gefühle, Ereignisse, Gedanken, ...).
+
+Notizen verfolgen ein komplett anderes Ziel: was hier notiert wird, dient einer späteren Weiterverarbeitung, dem Aufbau einer "Wissensdatenbank", in der die vesrchiedenen Notizen untereinander verbunden sind. Einige sammeln alle Notizen in einem einzigen file, andere legen pro Notiz ein eigenen file an.
+
+Der Beginn sollte einfach und klar sein. Beginne mit einem einzelnen file. Später wird es von selbst konplexer. 
+
+
