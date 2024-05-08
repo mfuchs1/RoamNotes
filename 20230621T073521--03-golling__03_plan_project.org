@@ -207,11 +207,17 @@ CLOSED: [2024-04-19 Fr 23:41] SCHEDULED: <2024-04-15 Mo>
 - State "DONE"       from              [2024-04-19 Fr 23:41]
 :END:
 
-** [[denote:20230625T000208][[SW33] Auf dem Weg zur Weltreligion - Schriftliche Quellen]]
-SCHEDULED: <2024-04-22 Mo>
+** DONE [[denote:20230625T000208][[SW33] Auf dem Weg zur Weltreligion - Schriftliche Quellen]]
+CLOSED: [2024-04-27 Sa 00:16] SCHEDULED: <2024-04-22 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-04-27 Sa 00:16]
+:END:
 
-** [[denote:20230625T000607][[SW34] Die Kirche das Volk Gottes / Das Leben Gott schenken]]
-SCHEDULED: <2024-04-29 Mo>
+** DONE [[denote:20230625T000607][[SW34] Die Kirche das Volk Gottes / Das Leben Gott schenken]]
+CLOSED: [2024-05-06 Mo 09:47] SCHEDULED: <2024-04-29 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-05-06 Mo 09:47]
+:END:
 
 ** [[denote:20230625T000724][[SW35] Übungsteil Kap 4]]
 SCHEDULED: <2024-05-06 Mo>

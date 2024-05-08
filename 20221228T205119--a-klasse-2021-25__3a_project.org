@@ -19,22 +19,37 @@
 [[denote:20230621T073521][03 Golling]]
 
 * 3a 11:35-12:25
-<%%(org-class 2023 9 11 2024 7 5 1 14)>
+:PROPERTIES:
+:CUSTOM_ID: h:75b991b3-c33c-446a-8c1f-b7d543e6316f
+:END:
+<%%(org-class 2023 9 11 2024 7 5 1 20)>
 
 [[file:~/NMS_Golling/Religion_für_uns/Serviceteil_3.pdf]]
 
 [[denote:20230625T000110][[SW32] Paulus - eine Botschaft für alle / Frauen im frühen Christentum]]
 
+Petrus / Paulus: S. 84+85 im RB;
+Petrus:
+- Steckbrief anhand von Bibelstellen erstellen
+- Warum gerieten die ersten Christen mit Juden in Konflikt?
 
+Paulus:
+- An welche Gemeinden schrieb Paulus Briefe?
+- Seine Reisen und sein Wirken?
+
+Nächste Stunde  Hefte einsammeln.
   
 * 3a 11:35-12:25
-<%%(org-class 2023 9 15 2024 7 9 5 13)>
+:PROPERTIES:
+:CUSTOM_ID: h:78099737-a780-46fc-928d-d076186b9980
+:END:
+<%%(org-class 2023 9 15 2024 7 9 5 19)>
 
-[[file:~/NMS_Golling/Religion_für_uns/Serviceteil_3.pdf]]
+Hefte kontrollieren
 
-[[denote:20230625T000110][[SW32] Paulus - eine Botschaft für alle / Frauen im frühen Christentum]]
+Arbeitsaufträge bzgl Paulus.
 
-
+arte doku "Vatikan (Petrus in Rom)"
 
 * 3A [KV Bernhard Moser]
 :PROPERTIES:
@@ -287,13 +302,16 @@
 #+TBLFM: $5=vmean($1..$4)
 
 
-** Carolina Schlager
-SCHEDULED: <2024-04-25 Do 17:10-17:20>
+** DONE Carolina Schlager
+CLOSED: [2024-04-27 Sa 00:16] SCHEDULED: <2024-04-25 Do 17:10-17:20>
 :PROPERTIES:
 :EMAIL: [[mailto: Carolina Schlager <Carolina.Schlager@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Carolina_Schlager.html
 :ID: CarolinaSchlager
 :END: 
+:LOGBOOK:
+- State "DONE"       from              [2024-04-27 Sa 00:16]
+:END:
 #+Name: CarolinaSchlager
 |-------+-------+------+---------|
 | Datum | Topic | Note | Notizen |
@@ -632,5 +650,21 @@ Hui, das war heute wieder etwas anstrengender - diese Klasse braucht dringend Be
 :END:
 Das war heute wieder die Vollkatastrophe! Kein normaler Unterricht möglich. Was bin ich froh, von hier bald wegzukommen. Auch wenn es in Abtenau ähnlich sein sollte. Die gesamte Klasse hat die Buchseite abschreiben "müssen". Ihr ständiges "Entschuldigung" nutzt mit gar nichts, wenn sich das Verhalten nie ändert.
 
+** [[denote:20221228T205119::#h:75b991b3-c33c-446a-8c1f-b7d543e6316f][A Klasse 2021-25::3a 11:35-12:25]]
+:PROPERTIES:
+:CAPTURED: [2024-04-29 Mo 12:10]
+:END:
+Wer arbeitet nicht?
+- Karlo, Marko, Lorenz, Johanna, Matteo, Oliver, (Laurenz),
 
+Nächste Stunde  werde ich die Hefte einsammeln und benoten (dieser Arbeitsauftrag über Petrus / Paulus).
 
+** [[denote:20221228T205119::#h:75b991b3-c33c-446a-8c1f-b7d543e6316f][A Klasse 2021-25::3a 11:35-12:25]]
+:PROPERTIES:
+:CAPTURED: [2024-05-06 Mo 12:03]
+:END:
+Da ist kein normaler Unterricht möglich; alles wir ins Lächerliche gezogen. Einfachste Fragen werden nicht beantwortet; ständige Verarschung meinerseits. Johanna geht "natürlich" die Füllfeder kaputt, etc. Fange ich zu rden an, redet beinahe die gesamte Klasse, etc. Es ist nicht mehr auszuhalten!
+
+Fazit: ich lasse alle arbeiten, sammle am Ende der Stunde die Hefte ein und benote sie. Es gibt von meiner Seite kein Entgegenkommen mehr, meine Nettigkeit wurde bis jetzt nur ausgenutzt. 
+
+Wie geht man mit Kindern / Schülern um, die vieles ins Lächerliche ziehen? Wie können sie eine gewisse Ernsthaftigkeit lernen?

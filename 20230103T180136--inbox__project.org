@@ -107,7 +107,22 @@ Ich hatte doch einmal diese Funktion mit backspace? von System Crafters? Zuhause
 Ich
 Allerdings beklagt Emacs nach dem Kompelieren, dass diese Funktion ~dw/minibuffer-backward-kill~ mehrmals definiert werde? Diese Warnung (Gott sei Dank nur eine solche) verstehe ich nicht, und hab auch noch keine Antwort gefunden.
 
-  
+** DONE Physikbuch 2. Klasse ausborgen
+CLOSED: [2024-05-01 Mi 23:08] DEADLINE: <2024-04-29 Mo 12:00>
+:PROPERTIES:
+:CAPTURED: [2024-04-28 So 16:34]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2024-05-01 Mi 23:08]
+:END:
+
+** TODO Direktorin der MS Abtenau kontaktieren
+DEADLINE: <2024-05-08 Mi 09:00>
+:PROPERTIES:
+:CAPTURED: [2024-05-07 Di 22:14]
+:END:
+[[file:~/.emacs.d/init.el::"\]"]]
+
 * Tasks [Mails]
 :PROPERTIES:
 :CATEGORY: TODO Mails

@@ -27,40 +27,22 @@
 
 [[denote:20240130T101420][Themen vierte Klassen]]
 
-Ostern - Bibel-"Session"
-- Joh 20
-- Lk 24
-- 1 Kor 16
-- Apg 2
+"Weiße Rose"
+[[https://www.planet-schule.de/thema/ichbinsophiescholl-unterricht-100.html]]
 
-Video kathmedia "Jesus Glauben - Folge 14 - Über Skepsis, Walfische und die Auferstehung"
-[[https://www.youtube.com/watch?v=37G_apGr12Y]]
+Youtube Doku...
 
-Doku? ...
-Film "Im Wendekreis des Kreuzes"
-[[https://www.youtube.com/watch?v=4gLKtoFjPgI]]
-
-** Zeugnis von Torsten Hartung:
-:PROPERTIES:
-:CUSTOM_ID: h:4e327b88-b195-4f3a-8e34-613c6cae1b92
-:END:
-Hr. Hartung wächst in einer Familie auf, die von Gewalt geprägt ist. Eines Tages entscheidet er sich, vom Opfer zum Täter zu werden und wird zu einem gefürchteten Schläger, landet oft im Gefängnis. Als er wieder einmal frei ist, wird er Chef einer kriminellen Vereinigung, die Luxus-Autos nach Russland und Arabien verkauft. 
-
-Er kommt in Einzelhaft und wird zu 15 Jahren Gefängnis verurteilt. Dort begegnet er Gott. Es beginnt ein längerer Heilungsprozess; er lässt sich taufen, weiht sich der Muttergottes. Nach dem Ende seiner Haftstrafe fährt er für 3 Wochen nach Südkorea, gibt in den Gemeinden Zeugnis. Er heiratet und arbeitet nun Vollzeit ehrenamtlich für Gott. Er leitet einen Seelsorge-Verein, der jugendliche Straftäter begleitet.
-
-Sein Zeugnis geht wirklich unter die Haut:
-
-[[https://www.youtube.com/watch?v=lpfXmymNQBI]]
+Short Film über Maximilan Kolbe...
 
 * 4b 07:45-08:35
 :PROPERTIES:
 :CUSTOM_ID: h:7c3a13ae-36d0-4756-a172-57037ad0e254
 :END:
-<%%(org-class 2023 9 13 2024 7 7 3 14)>
+<%%(org-class 2023 9 13 2024 7 7 3)>
 
 [[denote:20240130T101420][Themen vierte Klassen]]
 
-Hab heute keinen Plan; was wollen die Schüler machen? Lasse sie lernen: E Checkup; GW Test; Text für Theater auswendig lernen; 
+
 
 
 * 4B [KV Erwin Essl]

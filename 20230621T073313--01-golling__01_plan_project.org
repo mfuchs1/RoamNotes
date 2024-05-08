@@ -199,11 +199,17 @@ CLOSED: [2024-04-19 Fr 23:41] SCHEDULED: <2024-04-15 Mo>
 - State "DONE"       from              [2024-04-19 Fr 23:41]
 :END:
 
-** [[denote:20230619T145222][[SW33] Gottes Gegenwart feiern / Übungsteil]]
-SCHEDULED: <2024-04-22 Mo>
+** DONE [[denote:20230619T145222][[SW33] Gottes Gegenwart feiern / Übungsteil]]
+CLOSED: [2024-04-27 Sa 00:16] SCHEDULED: <2024-04-22 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-04-27 Sa 00:16]
+:END:
 
-** [[denote:20230619T145319][[SW34] Eine Welt die uns prägt / Die Feste unserer Welt]]
-SCHEDULED: <2024-04-29 Mo>
+** DONE [[denote:20230619T145319][[SW34] Eine Welt die uns prägt / Die Feste unserer Welt]]
+CLOSED: [2024-05-06 Mo 09:47] SCHEDULED: <2024-04-29 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-05-06 Mo 09:47]
+:END:
 
 ** [[denote:20230619T145418][[SW35] Durstrecken unseres Lebens / Grund zu feiern]]
 SCHEDULED: <2024-05-06 Mo>
