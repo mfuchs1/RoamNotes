@@ -15,11 +15,8 @@
 
 
 * Erarbeitung
-[[https://www.youcat.org/de/credopedia/minicat/pfingsten/]]
+[[https://youcat.org/de/credopedia/geburtstag-der-kirche/]]
 
-#+CAPTION: Pfingsten
-#+NAME:   fig:SED-HR4049
-[[./images/Minicat-Cover-7.jpg]]
 
 
 * Hefteintrag

@@ -43,7 +43,7 @@ Nächste Stunde  Hefte einsammeln.
 :PROPERTIES:
 :CUSTOM_ID: h:78099737-a780-46fc-928d-d076186b9980
 :END:
-<%%(org-class 2023 9 15 2024 7 9 5 19)>
+<%%(org-class 2023 9 15 2024 7 9 5 20)>
 
 Hefte kontrollieren
 

@@ -151,6 +151,10 @@ Antreiber der Cancel Culture sind eine kleine, extremistische
 Minderheit.
 #+END_QUOTE
 
-* [[https://orgmode.org/manual/The-capture-protocol.html][The capture protocol (The Org Manual)]]
+* multipolar
 
-  Source: [2024-05-09 Do], [[%:link][%:description]]
+  Source: [2024-05-09 Do], javascript:location.href='org-protocol://capture://x/'+
+      encodeURIComponent(location.href)+'/'+
+      encodeURIComponent(document.title)+'/'+
+      encodeURIComponent(window.getSelection())
+

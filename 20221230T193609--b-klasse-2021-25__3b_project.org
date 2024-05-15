@@ -28,16 +28,15 @@
   - "Forschungsreise zum Heiligen Geist" - S. 52
   - "Was passiert bei der Firmung?" - S. 98
 
-RB? erste Christen - radikales Leben; Entwicklung der Religionen 1970-1990; heute; Prognosen. Warum sagen innerhalb von 20 Jahren, dass 16% der Weltbevölkerung Atheisten sind? Was ist in diesen 20 Jahren passiert? 
+RB Heiliger Paulus / Missionsreisen;
+Frauen in der Bibel.
 
-Aktuelle Verbreitung und Prognosen der Weltreligionen:
-[[file:~/NMS_Golling/Weltreligionen/weltreligionen.odt]]
 
 * 3b 10:40-11:30
 :PROPERTIES:
 :CUSTOM_ID: h:11b2f6de-d807-4806-a6ff-909c48803749
 :END:
-<%%(org-class 2023 9 14 2024 7 8 4 19)>
+<%%(org-class 2023 9 14 2024 7 8 4 20)>
 
 Heiliger Petrus / Heiliger Paulus:
 Steckbriefe erstellen

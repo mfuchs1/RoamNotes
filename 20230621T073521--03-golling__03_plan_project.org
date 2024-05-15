@@ -219,8 +219,11 @@ CLOSED: [2024-05-06 Mo 09:47] SCHEDULED: <2024-04-29 Mo>
 - State "DONE"       from              [2024-05-06 Mo 09:47]
 :END:
 
-** [[denote:20230625T000724][[SW35] Übungsteil Kap 4]]
-SCHEDULED: <2024-05-06 Mo>
+** DONE [[denote:20230625T000724][[SW35] Übungsteil Kap 4]]
+CLOSED: [2024-05-12 So 16:36] SCHEDULED: <2024-05-06 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-05-12 So 16:36]
+:END:
 
 ** [[denote:20230625T000821][[SW36] Mein digitaler Begleiter / Beten mit dem Handy]]
 SCHEDULED: <2024-05-13 Mo>

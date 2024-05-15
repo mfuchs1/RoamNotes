@@ -260,3 +260,110 @@ Joe Biden kann sich freuen. Es findet sich wieder jemand, der in die vom Kongres
 
 /Der reiche Mann hat gewusst, was er tat, als er aus der Hölle heraus Abraham anflehte, seinen fünf Brüdern zu sagen: ,Eure Uhr läuft ab.‘ Es gibt keinen anderen Weg zu Gott, als dass wir seinen Ruf ernst nehmen: ,Heute (heute!), wo ihr meine Stimme hört, verstockt eure Herzen nicht!‘“ (Helmut Thielicke)./
 
+* org-protocol.el – Intercept calls from emacsclient to trigger custom actions
+:PROPERTIES:
+:CREATED: [2024-05-09 Do 17:41]
+:SOURCE: https://orgmode.org/worg/org-contrib/org-protocol.html
+:END:
+
+* org-protocol.el – Intercept calls from emacsclient to trigger custom actions
+:PROPERTIES:
+:CREATED: [2024-05-09 Do 17:42]
+:SOURCE: https://orgmode.org/worg/org-contrib/org-protocol.html
+:END:
+GNU/Linux setup
+
+Most common desktop environments (Gnome, KDE et al) comply with the XDG Desktop Entry Specification. This means setting up emacsclient as the org-protocol handler using a .desktop file can be regarded as a, in most cases, standard way to set this up in most common desktop environments. 
+
+* alphapapa/org-protocol-capture-html: Capture HTML from the browser selection into Emacs as org-mode content
+:PROPERTIES:
+:CREATED: [2024-05-09 Do 17:47]
+:SOURCE: https://github.com/alphapapa/org-protocol-capture-html
+:END:
+
+* Chinas Präsident Xi Jinping zu Besuch in Ungarn nach Serbien und Frankreich
+:PROPERTIES:
+:CREATED: [2024-05-09 Do 17:48]
+:SOURCE: https://tkp.at/2024/05/09/chinas-praesident-xi-jinping-zu-besuch-in-ungarn-nach-serbien-und-frankreich/
+:END:
+** Chinas Präsident Xi Jinping zu Besuch in Ungarn nach Serbien und Frankreich
+:PROPERTIES:
+:CUSTOM_ID: chinas-präsident-xi-jinping-zu-besuch-in-ungarn-nach-serbien-und-frankreich
+:CLASS: title-heading-left fusion-responsive-typography-calculated
+:style: margin:0;--fontSize:38;line-height:1.15;
+:END:
+
+9. Mai 2024von [[https://tkp.at/autoren/peter-f-mayer/][Dr. Peter F. Mayer]]3,8 Minuten Lesezeit
+
+***** China hat wieder ein Statement in Richtung Europa abgegeben. Präsident Xi Jinping besuchte Frankreich, Serbien und nun Ungarn. Er traf am Abend des 8. Mai in Budapest ein und wurde am Flughafen von Viktor Orbán empfangen. Der Besuch dient auch dazu, den 75. Jahrestag der diplomatischen Beziehungen zwischen Budapest und Peking zu begehen
+:PROPERTIES:
+:CUSTOM_ID: china-hat-wieder-ein-statement-in-richtung-europa-abgegeben.-präsident-xi-jinping-besuchte-frankreich-serbien-und-nun-ungarn.-er-traf-am-abend-des-8.-mai-in-budapest-ein-und-wurde-am-flughafen-von-viktor-orbán-empfangen.-der-besuch-dient-auch-dazu-den-75.-jahrestag-der-diplomatischen-beziehungen-zwischen-budapest-und-peking-zu-begehen
+:CLASS: fusion-responsive-typography-calculated
+:lang: de-AT
+:style: --fontSize: 19; line-height: 1.55; --minFontSize: 19;
+:fontsize: 19
+:lineheight: 29.45px
+:END:
+
+* „Die zweite Aufklärung“ -
+:PROPERTIES:
+:CREATED: [2024-05-09 Do 17:50]
+:SOURCE: https://multipolar-magazin.de/artikel/die-zweite-aufklaerung
+:END:
+** „Die zweite Aufklärung“
+:PROPERTIES:
+:CUSTOM_ID: die-zweite-aufklärung
+:END:
+
+Als „Brücke zum 18. Jahrhundert“ betitelte der 2003 verstorbene amerikanische Kommunikationswissenschaftler Neil Postman sein letztes Buch (deutsch: „Die zweite Aufklärung“). Er erläuterte darin, inwiefern an Ideen aus jener Zeit wieder angeknüpft werden könnte. Multipolar erinnert daran.
+
+[[https://multipolar-magazin.de/autorenarchiv?autor=Achim%20Wittenberg][ACHIM WITTENBERG]], 8. Mai 2024, [[https://multipolar-magazin.de/artikel/die-zweite-aufklaerung#diskussion][0 Kommentare]], [[https://multipolar-magazin.de/media/pdf/die-zweite-aufklaerung.pdf][PDF]]
+
+Im Vorwort formuliert Postman eine kurze Definition des Zeitalters der Aufklärung: „Eine philosophische Bewegung des achtzehnten Jahrhunderts, die sich vom Standpunkt des Rationalismus aus vornehmlich mit der Kritik bislang gültiger Lehren und Institutionen beschäftigte.“ Er schildert zur Illustration eine Anekdote aus dem New York des Jahres 1735: Ein Zeitungsverleger wird vor Gericht der Verleumdung (des Königs/der Regierung?) beschuldigt, da er kritisch auf Missstände hingewiesen hatte. Da die Missstände -- auch den Geschworenen -- offenkundig sind, wird er freigesprochen -- anders als dies in früheren Zeiten der Fall gewesen wäre, wo auch berechtigte Kritik an der Obrigkeit geahndet wurde.
+
+**** Erfindungen und Fortschrittsglauben
+:PROPERTIES:
+:CUSTOM_ID: erfindungen-und-fortschrittsglauben
+:END:
+Die Aufklärung sieht Postman als Zeit, in der der Fortschrittsglauben als Geschichts- und Naturgesetz erfunden wurde. Postman sieht diesen Glauben durch das 20. Jahrhundert allerdings beendet: Vernünftige Menschen würden erkennen, dass Fortschritt oder Niedergang von den Handlungen der Menschen abhingen. Dennoch würden viele weiter von einem ständigen Fortschritt ausgehen, der allein dadurch begründet sei, dass es technische Innovationen gebe. Diese Menschen glaubten, dass technischer Fortschritt automatisch auch Fortschritt für die Menschheit bedeute. Postman vermutet dahinter die Angst, anzuerkennen, dass die Menschen selbst für das Schicksal Verantwortung tragen -- und es eben auch verschlechtern können.
+
+Das 19. Jahrhundert sei vom Fortschrittsglauben geprägt gewesen. Geologie und Biologie schienen dies mit der Evolutionslehre zu bestätigen: Karl Marx bat Charles Darwin um ein Vorwort zu „Das Kapital“ -- erfolglos. Das 19. Jahrhundert brachte die Erfindung der Erfindung. Die Menschen lernten damals, wie man Dinge erfindet -- die Frage nach dem Warum verlor an Bedeutung. Der Gedanke, dass man etwas tun solle, wenn man es tun könnte, sei im 19. Jahrhundert geboren worden. Das 20. Jahrhundert bringe aber schon zu Beginn das Ende des allgemein anerkannten Fortschrittsglaubens (Lewis Mumford 1923, William Ralph Inge 1920). Postman vermutet das Blutbad des 1. Weltkrieges, die Gedanken von Nietzsche und Freud oder die Vorahnung von Kommunismus und Faschismus als Ursache. Es sei unübersehbar geworden, dass Fortschritt nicht naturgesetzlich unausweichlich, sondern, wenn, dann nur als bewusste Entscheidung von Menschen möglich ist.
+
+Es bleibe jedoch bei vielen Menschen die Vorstellung, „daß technologische Innnovation ein Synonym für moralischen, gesellschaftlichen und seelischen Fortschritt sei. Es ist, als wäre die Frage, was uns zu besseren Menschen macht, zu schwer, zu komplex -- und sogar zu absurd, als daß wir ihr noch nachgehen können.“ Im Geiste des 18. Jahrhunderts, also der Aufklärung, sind laut Postmans jedoch folgende Anfragen im Voraus an jegliche technische Innovation zu stellen -- die von den verantwortlichen Unternehmern in ihrer Fixierung auf Gewinn jedoch nicht gestellt würden: „Wir dürfen nicht vergessen, daß unsere bedeutendsten Radikalen immer unsere Unternehmer waren.“ (S. 65):
+
+- Die Lösung zu welchem Problem ist diese Innovation?
+
+- Wessen Problem ist das?
+
+- Für /wen/ (Menschen und Institutionen) bedeutet die Einführung dieser Innovation /welche/ Nachteile (und überwiegen diese die Vorteile)?
+
+- Welche Art Leute und Institutionen könnten in der Folge technologischen Wandels zu besonderer wirtschaftlicher und politischer Macht gelangen?
+
+- Welche sprachlichen Veränderungen werden durch neue Technologien erzwungen, was wird durch derlei Veränderungen gewonnen und was verloren?
+
+Die letzte Frage illustriert Postman mit der Analyse der Bedeutung des Wortes „Gemeinschaft“, das früher ein Zusammenleben von Menschen bezeichnet hat, das durch Verhandlung und „gegenseitiges Entgegenkommen“ (Tocqueville) ermöglicht wurde. Heute, im Internet bezeichne „Gemeinschaft“ („community“) hingegen nur noch eine Gruppe von Menschen mit gleichen Interessen.
+
+* „Die zweite Aufklärung“ -
+:PROPERTIES:
+:CREATED: [2024-05-09 Do 17:54]
+:SOURCE: https://multipolar-magazin.de/artikel/die-zweite-aufklaerung
+:END:
+Postman unterscheidet mit Blick auf das 18. Jahrhundert zwischen Philosophen, die gleichsam als Einsiedler auf der Suche nach ewigen Wahrheiten waren -- wie Hume oder Kant -- und /philosophes/ (wie Diderot, Voltaire, Rousseau und fast allen amerikanischen Vertretern der Aufklärung), die von einer gemeinsamen Erzählung ausgehend den gesellschaftlichen und politischen Wandel hin zu Menschenrechten und einer republikanischen Ordnung vorantrieben. Die geistesgeschichtlichen Wurzeln dieser von den /philosophes/ geglaubten Erzählung sei zum einen der Glaube an einen -- von diesen meist deistisch verstandenen -- Schöpfergott (der etwa in der amerikanischen Unabhängigkeitserklärung als Ursache für Menschenrechte und Vorsehung fungiert) und zum anderen die griechische und vor allem die römische Antike. Die Machtkompromisse der römischen Republik würden der direkten Demokratie Griechenlands vorgezogen. Postmans Version dieser, seiner Ansicht nach noch heute glaubenswerten, Erzählung (S. 134f.):
+
+#+begin_quote
+„[Die /philosophes/] schrieben an einer Erzählung, deren Zentrum Skepsis, Vernunft und das Naturrecht ausmachten, denen sie noch die Kraft eines göttlichen Prinzips hinzufügten. Auf das Risiko hin, ihre Erzählung gewaltig zu vereinfachen (und vielleicht einige wichtige Einzelheiten auszulassen), lege ich im folgenden meine Version dieser Erzählung vor:
+
+#+end_quote
+
+#+begin_quote
+Das Universum wurde von einem gütigen und einzigen Gott erschaffen, der den Menschen den Verstand und die Inspiration gab, seine Schöpfung (in Grenzen) zu verstehen, sowie das Recht, frei zu sein, menschliche Autoritäten in Frage zu stellen und sich in dem von Gott und Natur gegebenen Rahmen selbst zu regieren. Sinn der Menschheit ist es, Gottes Schöpfung zu achten und ihrer Ehrfurcht gebietenden Präsenz mit Demut zu begegnen sowie mit Aufrichtigkeit und Mitgefühl gegenüber anderen nach Wegen zu Glück und Frieden zu suchen. (...)
+
+#+end_quote
+
+#+begin_quote
+Sie begriffen, daß ein vulgärer Relativismus, also der Gedanke, daß Werte nur historische Vorurteile sind, zu Hoffnungslosigkeit und Untätigkeit führen müßte.“
+
+#+end_quote
+
+Postman stellt dieser Erzählung mit Bezug auf Bertrand Russell eine „naturwissenschaftliche“ gegenüber beziehungsweise zur Seite:
+

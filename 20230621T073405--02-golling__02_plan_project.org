@@ -226,8 +226,11 @@ CLOSED: [2024-05-06 Mo 09:47] SCHEDULED: <2024-04-29 Mo>
 - State "DONE"       from              [2024-05-06 Mo 09:47]
 :END:
  
-** [[denote:20230619T214453][[SW35] Unter dem Schutz Marias]]
-SCHEDULED: <2024-05-06 Mo>
+** DONE [[denote:20230619T214453][[SW35] Unter dem Schutz Marias]]
+CLOSED: [2024-05-12 So 16:36] SCHEDULED: <2024-05-06 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-05-12 So 16:36]
+:END:
 
 ** [[denote:20230619T214614][[SW36] Übergang: Die Kirche – das Haus Gottes]]
 SCHEDULED: <2024-05-13 Mo>

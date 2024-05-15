@@ -211,8 +211,11 @@ CLOSED: [2024-05-06 Mo 09:47] SCHEDULED: <2024-04-29 Mo>
 - State "DONE"       from              [2024-05-06 Mo 09:47]
 :END:
 
-** [[denote:20230619T145418][[SW35] Durstrecken unseres Lebens / Grund zu feiern]]
-SCHEDULED: <2024-05-06 Mo>
+** DONE [[denote:20230619T145418][[SW35] Durstrecken unseres Lebens / Grund zu feiern]]
+CLOSED: [2024-05-12 So 16:36] SCHEDULED: <2024-05-06 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-05-12 So 16:36]
+:END:
 
 ** [[denote:20230619T145518][[SW36] Lauf des Lebens / das Kirchenjahr]]
 SCHEDULED: <2024-05-13 Mo>

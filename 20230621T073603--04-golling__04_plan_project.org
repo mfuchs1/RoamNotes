@@ -218,8 +218,11 @@ CLOSED: [2024-05-06 Mo 09:47] SCHEDULED: <2024-04-29 Mo>
 - State "DONE"       from              [2024-05-06 Mo 09:47]
 :END:
 
-** [[denote:20230711T005338][[SW35] Hoffnung]]
-SCHEDULED: <2024-05-06 Mo>
+** DONE [[denote:20230711T005338][[SW35] Hoffnung]]
+CLOSED: [2024-05-12 So 16:36] SCHEDULED: <2024-05-06 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-05-12 So 16:36]
+:END:
 
 ** [SW36] [[denote:20230711T005529][Pfingstereignis]]
 SCHEDULED: <2024-05-13 Mo>

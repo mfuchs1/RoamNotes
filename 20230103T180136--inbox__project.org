@@ -116,10 +116,13 @@ CLOSED: [2024-05-01 Mi 23:08] DEADLINE: <2024-04-29 Mo 12:00>
 - State "DONE"       from "TODO"       [2024-05-01 Mi 23:08]
 :END:
 
-** TODO Direktorin der MS Abtenau kontaktieren
-DEADLINE: <2024-05-08 Mi 09:00>
+** DONE Direktorin der MS Abtenau kontaktieren
+CLOSED: [2024-05-08 Mi 08:58] DEADLINE: <2024-05-08 Mi 09:00>
 :PROPERTIES:
 :CAPTURED: [2024-05-07 Di 22:14]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2024-05-08 Mi 08:58]
 :END:
 [[file:~/.emacs.d/init.el::"\]"]]
 
