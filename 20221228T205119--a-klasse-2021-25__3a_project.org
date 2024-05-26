@@ -22,7 +22,7 @@
 :PROPERTIES:
 :CUSTOM_ID: h:75b991b3-c33c-446a-8c1f-b7d543e6316f
 :END:
-<%%(org-class 2023 9 11 2024 7 5 1 20)>
+<%%(org-class 2023 9 11 2024 7 5 1 21)>
 
 [[file:~/NMS_Golling/Religion_für_uns/Serviceteil_3.pdf]]
 
@@ -43,13 +43,15 @@ Nächste Stunde  Hefte einsammeln.
 :PROPERTIES:
 :CUSTOM_ID: h:78099737-a780-46fc-928d-d076186b9980
 :END:
-<%%(org-class 2023 9 15 2024 7 9 5 20)>
+<%%(org-class 2023 9 15 2024 7 9 5 22)>
 
 Hefte kontrollieren
 
-Arbeitsaufträge bzgl Paulus.
+Weltreligionen
 
-arte doku "Vatikan (Petrus in Rom)"
+Islam Doku.
+
+Später: Islam Seiten erarbeiten und präsentieren
 
 * 3A [KV Bernhard Moser]
 :PROPERTIES:

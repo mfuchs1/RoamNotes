@@ -25,7 +25,7 @@ Dieses Schuljahr werde ich das nimmer machen. Ich werde zwar keinen Stoff pauken
 
 
 * 2b 3b 4a 14:30-15:20
-<%%(org-class 2023 9 18 2024 7 5 4 19)>
+<%%(org-class 2023 9 18 2024 7 5 4 22)>
 Da die LL der Schule in Parsch so negativ gegen mich eingestellt sind und mir komische Dinge vorwerfen; muss ich mir was Neues überlegen.
 
 
@@ -33,7 +33,7 @@ Da die LL der Schule in Parsch so negativ gegen mich eingestellt sind und mir ko
 :PROPERTIES:
 :CUSTOM_ID: h:419faf3c-4b75-4543-a249-14893c78732a
 :END:
-<%%(org-class 2023 9 11 2024 7 5 4 19)>
+<%%(org-class 2023 9 11 2024 7 5 4 22)>
 Thema "Ostern / Hl. Geist / Bibel"
 AB kopieren
 kleine Videos zum Katechismus

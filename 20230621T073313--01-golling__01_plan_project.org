@@ -217,8 +217,11 @@ CLOSED: [2024-05-12 So 16:36] SCHEDULED: <2024-05-06 Mo>
 - State "DONE"       from              [2024-05-12 So 16:36]
 :END:
 
-** [[denote:20230619T145518][[SW36] Lauf des Lebens / das Kirchenjahr]]
-SCHEDULED: <2024-05-13 Mo>
+** DONE [[denote:20230619T145518][[SW36] Lauf des Lebens / das Kirchenjahr]]
+CLOSED: [2024-05-20 Mo 13:16] SCHEDULED: <2024-05-13 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-05-20 Mo 13:16]
+:END:
 
 ** [[denote:20230619T145559][[SW37] Feste im Kirchenjahr / Übungsteil]]
 SCHEDULED: <2024-05-20 Mo>

@@ -19,7 +19,7 @@
 [[denote:20230621T073521][03 Golling]]
 
 * 3b 11:35-12:25
-<%%(org-class 2023 9 13 2024 7 7 3 20)>
+<%%(org-class 2023 9 13 2024 7 7 3 21)>
 
 [[file:~/NMS_Golling/Religion_für_uns/Serviceteil_3.pdf]]
 
@@ -36,7 +36,7 @@ Frauen in der Bibel.
 :PROPERTIES:
 :CUSTOM_ID: h:11b2f6de-d807-4806-a6ff-909c48803749
 :END:
-<%%(org-class 2023 9 14 2024 7 8 4 20)>
+<%%(org-class 2023 9 14 2024 7 8 4 22)>
 
 Heiliger Petrus / Heiliger Paulus:
 Steckbriefe erstellen

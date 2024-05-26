@@ -224,8 +224,11 @@ CLOSED: [2024-05-12 So 16:36] SCHEDULED: <2024-05-06 Mo>
 - State "DONE"       from              [2024-05-12 So 16:36]
 :END:
 
-** [SW36] [[denote:20230711T005529][Pfingstereignis]]
-SCHEDULED: <2024-05-13 Mo>
+** DONE [SW36] [[denote:20230711T005529][Pfingstereignis]]
+CLOSED: [2024-05-20 Mo 13:16] SCHEDULED: <2024-05-13 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-05-20 Mo 13:16]
+:END:
 
 ** [SW37] [[denote:20230711T005614][Vielfalt der Charismen]]
 SCHEDULED: <2024-05-20 Mo>

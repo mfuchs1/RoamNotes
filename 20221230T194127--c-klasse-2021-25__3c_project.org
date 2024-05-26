@@ -19,7 +19,7 @@
 [[denote:20230621T073521][03 Golling]]
 
 * 3c 11:35-12:25
-<%%(org-class 2023 9 14 2024 7 8 4 20)>
+<%%(org-class 2023 9 14 2024 7 8 4 22)>
 
 [[file:~/NMS_Golling/Religion_für_uns/Serviceteil_3.pdf]]
 
@@ -27,16 +27,14 @@ Heiliger Petrus / Heiliger Paulus:
 Steckbriefe erstellen
   
 * 3c 10:40-11:30
-<%%(org-class 2023 9 15 2024 7 9 5 20)>
+<%%(org-class 2023 9 15 2024 7 9 5 22)>
 
-[[file:~/NMS_Golling/Religion_für_uns/Serviceteil_3.pdf]]
+Weltreligionen
 
-RB "die ersten Christen" / Anteile der Weltreligionen an der Weltbevölkerung (1970-1990; 2015; 2020; Prognosen)
+Islam Doku.
 
-Heiliger Petrus / Heiliger Paulus:
-Steckbriefe erstellen
+Später: Islam Seiten erarbeiten und präsentieren
 
-- arte Doku "Vatikan"
 
 * 3C [KV Daniela Schwaighofer]
 

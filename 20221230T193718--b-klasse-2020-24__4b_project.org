@@ -23,16 +23,19 @@
 :PROPERTIES:
 :CUSTOM_ID: h:7dde735d-9b21-4e68-ad0f-58151bcdf164
 :END:
-<%%(org-class 2023 9 12 2024 7 6 2 14)>
+<%%(org-class 2023 9 12 2024 7 6 2 21)>
 
 [[denote:20240130T101420][Themen vierte Klassen]]
 
-"Weiße Rose"
-[[https://www.planet-schule.de/thema/ichbinsophiescholl-unterricht-100.html]]
+Pfingsten
 
-Youtube Doku...
+Was ist der Himmel für Dich?
 
-Short Film über Maximilan Kolbe / Amadeus
+Meine Erfahrungen mit dem Hl. Geist.
+
+Gebet - Gebetshaltungen - AB dazu. Verfasse ein Dankgebet für die letzten vier Jahre an der MS Golling (ev. seit der VS, denn für nicht wenige endet bald die Schulzeit). Füge ein Bittgebet hinzu für die Jahre, die kommen werden.
+
+Sekten (Hh, davor hat mich Meinrad Föger eigentlich gewarnt.) Und ich will das Jahr nicht mit etwas "Negativem" beenden. Aber es wäre auf jedenfall wichtig.
 
 * 4b 07:45-08:35
 :PROPERTIES:
@@ -42,7 +45,7 @@ Short Film über Maximilan Kolbe / Amadeus
 
 [[denote:20240130T101420][Themen vierte Klassen]]
 
-Film "Amadeus" ... [Szene bei Salieri, abends, überspringen ...]
+
 
 * 4B [KV Erwin Essl]
 

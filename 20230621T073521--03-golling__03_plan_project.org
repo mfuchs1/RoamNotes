@@ -225,8 +225,11 @@ CLOSED: [2024-05-12 So 16:36] SCHEDULED: <2024-05-06 Mo>
 - State "DONE"       from              [2024-05-12 So 16:36]
 :END:
 
-** [[denote:20230625T000821][[SW36] Mein digitaler Begleiter / Beten mit dem Handy]]
-SCHEDULED: <2024-05-13 Mo>
+** DONE [[denote:20230625T000821][[SW36] Mein digitaler Begleiter / Beten mit dem Handy]]
+CLOSED: [2024-05-20 Mo 13:16] SCHEDULED: <2024-05-13 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-05-20 Mo 13:16]
+:END:
 
 ** [[denote:20230625T000918][[SW37] Wem folge ich / Alles für ein Like]]
 SCHEDULED: <2024-05-20 Mo>

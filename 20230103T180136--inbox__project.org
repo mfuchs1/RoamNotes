@@ -9,7 +9,7 @@
 :PROPERTIES:
 :CATEGORY: Tasks
 :END:
-** TODO [#A] Teacher Assistent eintragen
+** TODO [#A] [[https://www.sokrates-web.at/TA_SBG/login/][Teacher Assistent eintragen]]
 https://www.sokrates-web.at/TA_SBG/login/
 
 ** TODO was ist zu tun
