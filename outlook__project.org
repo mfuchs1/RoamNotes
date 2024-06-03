@@ -5,7 +5,7 @@
 #+CATEGORY:    Schule
 #+STARTUP:     hidestars
 #+STARTUP:     overview
-#+FILETAGS:    :Work:Project:
+#+FILETAGS:    Work
 
 * COMMENT original iCal preamble
 

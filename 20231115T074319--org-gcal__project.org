@@ -771,3 +771,25 @@ Vier Bahnen verbinden;
 <2024-05-26 So 12:00-14:30>
 :END:
 
+* Gottesdienst Dom
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3434623459294000"
+:entry-id: t8evut9n48fka7ivprd5dufqfg/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2024-06-02 So 11:30-12:30>
+:END:
+
+* Supplierstunde 2a D (statt Manuela S., mit EE)
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3434623799988000"
+:entry-id: cmbsf65njremqvom361ek99rmg/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2024-06-04 Di 07:45-08:35>
+:END:
+

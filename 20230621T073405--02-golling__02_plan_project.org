@@ -238,11 +238,17 @@ CLOSED: [2024-05-20 Mo 13:16] SCHEDULED: <2024-05-13 Mo>
 - State "DONE"       from              [2024-05-20 Mo 13:16]
 :END:
 
-** [[denote:20230619T214705][[SW37] Kirchenraum: Gottes Haus erkunden]]
-SCHEDULED: <2024-05-20 Mo>
+** DONE [[denote:20230619T214705][[SW37] Kirchenraum: Gottes Haus erkunden]]
+CLOSED: [2024-05-27 Mo 09:50] SCHEDULED: <2024-05-20 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-05-27 Mo 09:50]
+:END:
 
-** [[denote:20230619T214749][[SW38] Das Judentum: Ein Überblick]]
-SCHEDULED: <2024-05-27 Mo>
+** DONE [[denote:20230619T214749][[SW38] Das Judentum: Ein Überblick]]
+CLOSED: [2024-06-01 Sa 15:32] SCHEDULED: <2024-05-27 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-06-01 Sa 15:32]
+:END:
 
 ** [[denote:20230619T214855][[SW39] Die Erwartung des Messias]]
 SCHEDULED: <2024-06-03 Mo>

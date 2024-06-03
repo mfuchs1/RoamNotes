@@ -23,7 +23,7 @@
 :PROPERTIES:
 :CUSTOM_ID: h:7dde735d-9b21-4e68-ad0f-58151bcdf164
 :END:
-<%%(org-class 2023 9 12 2024 7 6 2 21)>
+<%%(org-class 2023 9 12 2024 7 6 2 23)>
 
 [[denote:20240130T101420][Themen vierte Klassen]]
 
@@ -36,6 +36,10 @@ Meine Erfahrungen mit dem Hl. Geist.
 Gebet - Gebetshaltungen - AB dazu. Verfasse ein Dankgebet für die letzten vier Jahre an der MS Golling (ev. seit der VS, denn für nicht wenige endet bald die Schulzeit). Füge ein Bittgebet hinzu für die Jahre, die kommen werden.
 
 Sekten (Hh, davor hat mich Meinrad Föger eigentlich gewarnt.) Und ich will das Jahr nicht mit etwas "Negativem" beenden. Aber es wäre auf jedenfall wichtig.
+
+[[/home/matthias/NMS_Golling/Sekten/]]
+
+Film "Bis nichts mehr bleibt" [[https://www.youtube.com/watch?v=DDzcAb7335Y]]
 
 * 4b 07:45-08:35
 :PROPERTIES:

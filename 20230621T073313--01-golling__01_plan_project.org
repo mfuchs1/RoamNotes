@@ -223,11 +223,17 @@ CLOSED: [2024-05-20 Mo 13:16] SCHEDULED: <2024-05-13 Mo>
 - State "DONE"       from              [2024-05-20 Mo 13:16]
 :END:
 
-** [[denote:20230619T145559][[SW37] Feste im Kirchenjahr / Übungsteil]]
-SCHEDULED: <2024-05-20 Mo>
+** DONE [[denote:20230619T145559][[SW37] Feste im Kirchenjahr / Übungsteil]]
+CLOSED: [2024-05-27 Mo 09:50] SCHEDULED: <2024-05-20 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-05-27 Mo 09:50]
+:END:
 
-** [[denote:20230619T145640][[SW38] Vielfalt, die uns eint / Wo ich Zuhause bin]]
-SCHEDULED: <2024-05-27 Mo>
+** DONE [[denote:20230619T145640][[SW38] Vielfalt, die uns eint / Wo ich Zuhause bin]]
+CLOSED: [2024-06-01 Sa 15:32] SCHEDULED: <2024-05-27 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-06-01 Sa 15:32]
+:END:
 
 ** [[denote:20230619T145734][[SW39] Unsere Vielfalt]]
 SCHEDULED: <2024-06-03 Mo>
