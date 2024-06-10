@@ -1,39 +1,35 @@
-:PROPERTIES:
-:ID:       b7d021e9-40ef-43aa-8a1e-369a4537449c
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Die Psalmen* -- [[file:Ps_1.html][1]] ...
-[[file:Ps_61.html][61]] [[file:Ps_62.html][62]] *63*
-[[file:Ps_64.html][64]] [[file:Ps_65.html][65]] ...
-[[file:Ps_150.html][150]]
-
---------------
+#+TITLE: Ps 63 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-06-03 Mo 10:17]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 63.html
 
 * Ps 63
-  :PROPERTIES:
-  :CUSTOM_ID: ps-63
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Sehnsucht nach Gott
-     :PROPERTIES:
-     :CUSTOM_ID: sehnsucht-nach-gott
-     :END:
-1 [Ein Psalm Davids, als er in der Wüste Juda war.] ^{[[#fn1][1]]}\\
+* Sehnsucht nach Gott
+
+1 [Ein Psalm Davids, als er in der Wüste Juda war.] [fn:1]\\
 \\
 
 <<v2>>
 2 Gott, du mein Gott, dich suche ich, /\\
  meine Seele dürstet nach dir. Nach dir schmachtet mein Leib /\\
- wie dürres, lechzendes Land ohne Wasser. ^{[[#fn2][2]]}\\
+ wie dürres, lechzendes Land ohne Wasser. [fn:2]\\
 \\
 
 <<v3>>
 3 Darum halte ich Ausschau nach dir im Heiligtum, /\\
- um deine Macht und Herrlichkeit zu sehen. ^{[[#fn3][3]]}\\
+ um deine Macht und Herrlichkeit zu sehen. [fn:3]\\
 \\
 
 <<v4>>
@@ -48,17 +44,17 @@
 
 <<v6>>
 6 Wie an Fett und Mark wird satt meine Seele, /\\
- mit jubelnden Lippen soll mein Mund dich preisen. ^{[[#fn4][4]]}\\
+ mit jubelnden Lippen soll mein Mund dich preisen. [fn:4]\\
 \\
 
 <<v7>>
 7 Ich denke an dich auf nächtlichem Lager /\\
- und sinne über dich nach, wenn ich wache. ^{[[#fn5][5]]}\\
+ und sinne über dich nach, wenn ich wache. [fn:5]\\
 \\
 
 <<v8>>
 8 Ja, du wurdest meine Hilfe; /\\
- jubeln kann ich im Schatten deiner Flügel. ^{[[#fn6][6]]}\\
+ jubeln kann ich im Schatten deiner Flügel. [fn:6]\\
 \\
 
 <<v9>>
@@ -68,7 +64,7 @@
 
 <<v10>>
 10 Viele trachten mir ohne Grund nach dem Leben, /\\
- aber sie müssen hinabfahren in die Tiefen der Erde. ^{[[#fn7][7]]}\\
+ aber sie müssen hinabfahren in die Tiefen der Erde. [fn:7]\\
 \\
 
 <<v11>>
@@ -79,21 +75,23 @@
 <<v12>>
 12 Der König aber freue sich an Gott. /\\
  Wer bei ihm schwört, darf sich rühmen. /\\
- Doch allen Lügnern wird der Mund verschlossen. ^{[[#fn8][8]]}\\
+ Doch allen Lügnern wird der Mund verschlossen. [fn:8]\\
 \\
 
-^{[[#fnm1][1]]} ℘ 1 Sam 23,14
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 42,2f
+[fn:1] [[file:1.Sam_23.org::v14][1 Sam 23,14]]
 
-^{[[#fnm3][3]]} ℘ 26,8
+[fn:2] [[file:Ps_42.org::v2][42,2f]]
 
-^{[[#fnm4][4]]} ℘ 23,5; 43,4
+[fn:3] [[file:Ps_26.org::v8][26,8]]
 
-^{[[#fnm5][5]]} ℘ 119,148; Jes 26,9
+[fn:4] [[file:Ps_23.org::v5][23,5]]; [[file:Ps_43.org::v4][43,4]]
 
-^{[[#fnm6][6]]} ℘ 17,7f
+[fn:5] [[file:Ps_119.org::v148][119,148]]; [[file:Jes_26.org::v9][Jes 26,9]]
 
-^{[[#fnm7][7]]} ohne Grund: Text korr.; H: zum Verderben.
+[fn:6] [[file:Ps_17.org::v7][17,7f]]
 
-^{[[#fnm8][8]]} ℘ 21,2; 107,42
+[fn:7] ohne Grund: Text korr.; H: zum Verderben.
+
+[fn:8] [[file:Ps_21.org::v2][21,2]]; [[file:Ps_107.org::v42][107,42]]

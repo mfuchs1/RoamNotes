@@ -23,13 +23,9 @@
 
 [[file:~/NMS_Golling/Religion_für_uns/Serviceteil_3.pdf]]
 
-- Firmung / Vorbereitung ::
-  - "Die Geschichte der Auferstehung" - S. 48
-  - "Forschungsreise zum Heiligen Geist" - S. 52
-  - "Was passiert bei der Firmung?" - S. 98
+Islam - Gruppenarbeit
 
-RB Heiliger Paulus / Missionsreisen;
-Frauen in der Bibel.
+Hefteintrag / Plakat
 
 
 * 3b 10:40-11:30
@@ -38,8 +34,9 @@ Frauen in der Bibel.
 :END:
 <%%(org-class 2023 9 14 2024 7 8 4 22)>
 
-Heiliger Petrus / Heiliger Paulus:
-Steckbriefe erstellen
+Islam - Gruppenarbeit
+
+Hefteintrag / Plakat
 
 
 * 3B [KV Lena ]

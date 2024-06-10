@@ -250,8 +250,11 @@ CLOSED: [2024-06-01 Sa 15:32] SCHEDULED: <2024-05-27 Mo>
 - State "DONE"       from              [2024-06-01 Sa 15:32]
 :END:
 
-** [[denote:20230619T214855][[SW39] Die Erwartung des Messias]]
-SCHEDULED: <2024-06-03 Mo>
+** DONE [[denote:20230619T214855][[SW39] Die Erwartung des Messias]]
+CLOSED: [2024-06-09 So 20:57] SCHEDULED: <2024-06-03 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-06-09 So 20:57]
+:END:
 
 ** [[denote:20230619T215023][[SW40] Feste und Feiern]]
 SCHEDULED: <2024-06-10 Mo>

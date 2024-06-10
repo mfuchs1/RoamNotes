@@ -1,0 +1,31 @@
+#+title:      Jahresplanung
+#+date:       [2024-06-07 Fr 09:57]
+#+filetags:   :schule:
+#+identifier: 20240607T095727
+
+* Vorab
+Für das nächste Schuljahr in Abtenau werde ich mir eine neue Art der Jahresplanung, Aufzeichnung, etc. überlegen. So wie ich es bis jetzt gemacht habe, ist es zwar eine nette Idee - aber kaum umsetzbar. Zum Beispiel habe ich das ~org-capture-template~ für die Tabelle (pro Schüler) nicht verwendet. Auch die individuellen ~org-capture-templates~ pro Schüler habe ich nicht verwendet. Also muss ich mir generell eine neue, umsetzbare Art der Aufzeichnung überlegen. Oder meine bisherige Konfiguration *nutzen*. 
+
+* Ideensammlung
+Wie machen es meine Kollegen? Sie haben ein Heft / einen Ordner / eine Mappe; darin eine große Tabelle (Zeilen: Schülernamen; Kolonne: Schulwochen). Darin zeichnen sie mit verschiedenen Farben und Symbolen die Hausübungen, die Mitarbeit (mit Plus oder Minus), die Noten auf Tests, etc. ein. Dies sollte doch relativ leicht in Emacs umsetzbar sein. Vor allem soll es einfach sein / nichts Kompliziertes. 
+
+Tipp: Zu Beginn jeder Stunde das Buch / Heft ein paar Minuten durchlesen lassen (Thema der vorherigen Stunde). Danach + / - Runde. Wer z.B. nichts macht, auch dran nehmen.
+
+Oder: Zu Beginn der Stunde eine + / - Runde für das Ende der Stunde ankündigen.
+
+Und schließlich: eintragen.
+
+Tabelle mit "Formel", die + und - zählt und in Note umrechnet. Oder: "1" ist "+" / "2" ist "0" (oder 2 = "~" /  3 = "-")  ... Durchschnittsnote, oder so.
+
+
+* Wie wäre dies in Emacs umsetzbar?
+Tabellen lassen sich in Emacs ohne Probleme erstellen. Lässt sich für eine Tabelle der ~olivetti-mode~ deaktivieren? Dazu habe ich noch keine Lösung gefunden.
+
+Mit ~org-capture-template~ lassen sich mit ~table-line~ neue Zeilen in eine Tabelle eintragen. Das ~org-capture-template~ muss ich noch verbessern: welche Infos kommen in die Tabelle, etc. Und wie es in AucTex dargestellt wird.  
+
+* Wann trage ich die Mitarbeit ein?
+- Am Ende der Stunde?
+- Am Abend?
+- In Freistunden?
+
+In den kleinen Pausen ist gar keine Zeit. Wahrscheinlich werde ich jede freie Minute nutzen müssen. Tipp: Zu Beginn der Stunde eine + / - Runde mit der Wiederholung der vorherigen Stunde.

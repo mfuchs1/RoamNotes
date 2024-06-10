@@ -2,6 +2,14 @@
 #+date:       [2024-05-28 Di 16:07]
 #+filetags:   :schule:
 #+identifier: 20240528T160713
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width \linewidth
+#+OPTIONS: toc:nil
+#+export_file_name: ~/RoamNotes/exports/Konferenz Mai.html
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
 
 * Tagesordnung
 
@@ -12,7 +20,7 @@ Zeindl Verena kommt sicher (E und Sport)
 Wer würde diese Fächer übernehmen?
 - Bernadette wäre bereit; nicht alles?
 
-** Helderkonferenz Hannah
+** Helferkonferenz Hannah
 Dr. Ellensohn, Fr. Pickrahn, Fr. Ebner (Pro Juventute), Angelika Lichtenegger, DMS Birgit Lichtenegger, Barbara Essl;
 
 Hannah ist im siebten Schuljahr, bei WH ist sie wieder in der 2. Klasse
@@ -39,10 +47,10 @@ Martin: Karten, Einladungen
 
 Bitte: alle helfen mit!
 
-So, 23.6.: Aufbau
-Mo, 24.6.: Generalprobe
-Di, 25.6.: 10:00 Schulen, 19:30 Erw
-Mi, 26.6.: ebenso
+- So, 23.6.: Aufbau
+- Mo, 24.6.: Generalprobe
+- Di, 25.6.: 10:00 Schulen, 19:30 Erw
+- Mi, 26.6.: ebenso
 
 Bar: Christian, Anton, Mirjam, Gertraud V.
 - Gläser, Kühlschrank, etc
@@ -91,7 +99,7 @@ Aufführung um 19h30; Einlass: 18h30
 - Karten: Birgit, Gertraud
 - Schminken, Frisur:
 - Umkleiden
-- Vorbereitungen: GEll
+- Vorbereitungen: Gertraud E.
 - Platzanweiser: freie Platzwahl; nur für Ehrengäste
 - Aufführung / Souffleuse: Manuela Gruber
 - Betreuung hinter der Bühne:

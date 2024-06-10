@@ -459,6 +459,7 @@ CLOSED: [2024-04-27 Sa 00:16] SCHEDULED: <2024-04-25 Do 17:10-17:20>
 | Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
 |-----------+-------------+-----+-----------+------------|
 |         2 |           3 |   2 |         3 |        2.5 |
+|-----------+-------------+-----+-----------+------------|
 #+TBLFM: $5=vmean($1..$4)
 
 
@@ -467,11 +468,15 @@ CLOSED: [2024-04-27 Sa 00:16] SCHEDULED: <2024-04-25 Do 17:10-17:20>
 :EMAIL: [[mailto: Lorenz Wallinger <Lorenz.Wallinger@golling.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Lorenz_Wallinger.html
 :ID: LorenzWallinger
+:CUSTOM_ID: h:824f9013-7f92-42df-80dd-41b8b056530c
 :END: 
 #+Name: LorenzWallinger
-|-------+-------+------+---------|
-| Datum | Topic | Note | Notizen |
-|-------+-------+------+---------|
+|-----------------------+------------------------------------+------+----------------|
+| Datum                 | Topic                              | Note | Notizen        |
+|-----------------------+------------------------------------+------+----------------|
+| [2024-06-07 Fr 12:00] | [[denote:20221228T205119::#h:75b991b3-c33c-446a-8c1f-b7d543e6316f][A Klasse 2021-25::3a 11:35-12:25]]   |    3 | arbeitet wenig |
+| [2024-06-07 Fr 12:13] | [[denote:20221228T205119::#h:824f9013-7f92-42df-80dd-41b8b056530c][A Klasse 2021-25::Lorenz Wallinger]] |    2 | wird besser    |
+
 
 
 *** Note Lorenz Wallinger

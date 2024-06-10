@@ -242,8 +242,11 @@ CLOSED: [2024-06-01 Sa 15:32] SCHEDULED: <2024-05-27 Mo>
 - State "DONE"       from              [2024-06-01 Sa 15:32]
 :END:
 
-** [SW39] [[denote:20230711T005635][Christen handeln nach seiner Weisung]]
-SCHEDULED: <2024-06-03 Mo>
+** DONE [SW39] [[denote:20230711T005635][Christen handeln nach seiner Weisung]]
+CLOSED: [2024-06-09 So 20:57] SCHEDULED: <2024-06-03 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-06-09 So 20:57]
+:END:
 
 ** [SW40] [[denote:20230711T005715][Christen schöpfen Kraft aus dem Gebet]]
 SCHEDULED: <2024-06-10 Mo>

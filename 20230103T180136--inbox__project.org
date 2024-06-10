@@ -126,6 +126,25 @@ CLOSED: [2024-05-08 Mi 08:58] DEADLINE: <2024-05-08 Mi 09:00>
 :END:
 [[file:~/.emacs.d/init.el::"\]"]]
 
+** DONE [#A] Steely Dan "Aja" (Vinyl)
+CLOSED: [2024-06-07 Fr 07:24] DEADLINE: <2024-06-06 Do 20:00>
+:PROPERTIES:
+:CAPTURED: [2024-06-06 Do 11:04]
+:END:
+:LOGBOOK:
+- State "DONE"       from "DONE"       [2024-06-07 Fr 07:25]
+- State "DONE"       from "TODO"       [2024-06-07 Fr 07:24]
+:END:
+
+** DONE [#A] Steve Wonder "Songs In The Key Of Life"
+CLOSED: [2024-06-07 Fr 07:25] DEADLINE: <2024-06-06 Do 21:00>
+:PROPERTIES:
+:CAPTURED: [2024-06-06 Do 11:12]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2024-06-07 Fr 07:25]
+:END:
+
 * Tasks [Mails]
 :PROPERTIES:
 :CATEGORY: TODO Mails

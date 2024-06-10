@@ -737,12 +737,16 @@ Vier Bahnen verbinden;
 <2024-05-21 Di 07:45-08:35>
 :END:
 
-* TODO [#A] Herbarium mit Gabriel erstellen
+* DONE [#A] Herbarium mit Gabriel erstellen
+CLOSED: [2024-06-03 Mo 08:46]
 :PROPERTIES:
 :calendar-id: matthiasfuchs01@gmail.com
 :org-gcal-managed: org
 :ETag:     "3433057461572000"
 :entry-id: 28qqk3jalcnhdrhq34dmmertlo/matthiasfuchs01@gmail.com
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2024-06-03 Mo 08:46]
 :END:
 :org-gcal:
 <2024-05-26 So 19:00-20:00>

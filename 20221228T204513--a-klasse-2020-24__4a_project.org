@@ -27,7 +27,7 @@
 
 [[denote:20240130T101420][Themen vierte Klassen]]
 
-Eventuell könnten wir uns The Chosen - 4. Staffel anschauen? Sonst eben etwas aus der dritten Staffel.
+The Chosen S4 E2
 
 Anmelden: [[file:~/Dokumente/thechosen.txt]]
 
@@ -35,6 +35,8 @@ Anmelden: [[file:~/Dokumente/thechosen.txt]]
 * 4a 08:40-09:30
 <%%(org-class 2023 9 12 2024 7 6 2 21)>
 
+"The Chosen" S4 E2 fertig schauen;
+Eventuell HÜ nachher? Lernen?
 
 
 * 4A [KV Magdalena Pürrer]

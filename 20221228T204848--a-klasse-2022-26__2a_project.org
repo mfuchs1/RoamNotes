@@ -25,14 +25,8 @@
 :END:
 <%%(org-class 2023 9 11 2024 7 5 1 21)>
 
-Ostern - Bibel-"Session"
-- Joh 20
-- Lk 24
-- 1 Kor 16
-- Apg 2
+Kapitel 6 / Judentum;
 
-Video kathmedia "Jesus Glauben - Folge 14 - Über Skepsis, Walfische und die Auferstehung"
-[[https://www.youtube.com/watch?v=37G_apGr12Y]]
 
 * 2a 09:35-10:25
 :PROPERTIES:
