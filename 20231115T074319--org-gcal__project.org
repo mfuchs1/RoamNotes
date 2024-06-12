@@ -797,3 +797,26 @@ CLOSED: [2024-06-03 Mo 08:46]
 <2024-06-04 Di 07:45-08:35>
 :END:
 
+* Termin Friseur (Leopold, ev Gabriel und ich)
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3436384724262000"
+:entry-id: q87o914uta5bdsdonbvc4tbnuk/matthiasfuchs01@gmail.com
+:CUSTOM_ID: h:0e8ec678-00ff-4909-810a-5c7dc7558af5
+:END:
+:org-gcal:
+<2024-06-12 Mi 16:00-17:00>
+:END:
+
+* Eltern - fehlende Seiten für BU Mappe abholen
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3436384902782000"
+:entry-id: f9ohd5etcrve5h0oetqbda16a4/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2024-06-12 Mi 15:00-15:30>
+:END:
+

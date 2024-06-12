@@ -387,3 +387,10 @@ Wenn Schüler dann spuren, ist das allerdings kein Ausdruck von Respekt. Aber: S
 
 Was können Lehrer tun, um echten Respekt zu erhalten und um eine Atmosphäre gegenseitigen Respekts im Klassenraum herzustellen?
 
+* „Die zweite Aufklärung“ -
+:PROPERTIES:
+:CREATED: [2024-06-12 Mi 13:01]
+:SOURCE: https://multipolar-magazin.de/artikel/die-zweite-aufklaerung
+:END:
+
+Juhuu, das klappt mit dem ~Nyxt-Browser~; es ist nur komisch, dass die Tastenkombination ~C-c o c~ nicht funktioniert.
