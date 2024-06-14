@@ -19,6 +19,9 @@
 [[denote:20230621T073521][03 Golling]]
 
 * 3c 11:35-12:25
+:PROPERTIES:
+:CUSTOM_ID: h:573a1fa7-5f84-488b-b6f2-c1dd1654c5a6
+:END:
 <%%(org-class 2023 9 14 2024 7 8 4 22)>
 
 [[file:~/NMS_Golling/Religion_für_uns/Serviceteil_3.pdf]]
@@ -536,7 +539,11 @@ Hefteintrag / Plakat
 |         2 |           3 |   2 |         3 |        2.5 |
 #+TBLFM: $5=vmean($1..$4)
 
-
+** [[denote:20221230T194127::#h:573a1fa7-5f84-488b-b6f2-c1dd1654c5a6][C Klasse 2021-25::3c 11:35-12:25]]
+:PROPERTIES:
+:CAPTURED: [2024-06-13 Do 12:07]
+:END:
+Tobi, Maxi, etc. haben viel Spaß; wie arbeiten sie?
 
 
 * Mitarbeittabelle
