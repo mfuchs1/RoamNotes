@@ -248,8 +248,11 @@ CLOSED: [2024-06-09 So 20:57] SCHEDULED: <2024-06-03 Mo>
 - State "DONE"       from              [2024-06-09 So 20:57]
 :END:
 
-** [SW40] [[denote:20230711T005715][Christen schöpfen Kraft aus dem Gebet]]
-SCHEDULED: <2024-06-10 Mo>
+** DONE [SW40] [[denote:20230711T005715][Christen schöpfen Kraft aus dem Gebet]]
+CLOSED: [2024-06-15 Sa 22:10] SCHEDULED: <2024-06-10 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-06-15 Sa 22:10]
+:END:
 
 ** [SW41]
 SCHEDULED: <2024-06-17 Mo>

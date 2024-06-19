@@ -249,8 +249,11 @@ CLOSED: [2024-06-09 So 20:57] SCHEDULED: <2024-06-03 Mo>
 - State "DONE"       from              [2024-06-09 So 20:57]
 :END:
 
-** [[denote:20230625T001358][[SW40] Glaube hat viele Gesichter / Salam Beten für den Frieden]]
-SCHEDULED: <2024-06-10 Mo>
+** DONE [[denote:20230625T001358][[SW40] Glaube hat viele Gesichter / Salam Beten für den Frieden]]
+CLOSED: [2024-06-15 Sa 22:10] SCHEDULED: <2024-06-10 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-06-15 Sa 22:10]
+:END:
 
 ** [[denote:20230625T001538][[SW41] Muhammad - Der Koran]]
 SCHEDULED: <2024-06-17 Mo>

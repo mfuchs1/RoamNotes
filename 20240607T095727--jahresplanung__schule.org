@@ -29,3 +29,19 @@ Mit ~org-capture-template~ lassen sich mit ~table-line~ neue Zeilen in eine Tabe
 - In Freistunden?
 
 In den kleinen Pausen ist gar keine Zeit. Wahrscheinlich werde ich jede freie Minute nutzen müssen. Tipp: Zu Beginn der Stunde eine + / - Runde mit der Wiederholung der vorherigen Stunde.
+
+* ~org-table~
+Ich hab ein paar neue Ideen gefunden:
+
+[[https://www.reddit.com/r/emacs/comments/oil7xw/i_made_a_thing_for_org_bespoke_completion_sparse/]]
+Der OP kann Daten aus einem org-file auslesen und daraus einen neuen org-tree erstellen (?).
+
+Karl Voit in den Kommentaren zeigt, wie er etwas ähnliches mit ~org-table~ erreicht. Im Grunde habe ich seine Ideen (auch aus diesem Post: [[https://www.reddit.com/r/orgmode/comments/fs958e/generate_todos_for_each_student/]]) übernommen. Für das nächste Schuljahr werde ich diese Ideen verfeinern.
+
+[[https://emacs.stackexchange.com/questions/28209/reference-cells-of-other-tables-in-org-mode-table]]
+Hier werden mehrere ~org-table~ zu einer neuen Tabelle zusammengefasst. Dies wäre eine große Hilfe für die Notengebung am Ende des Semesters.
+
+Siehe Beispiel-Datei:
+[[denote:20240614T094425][org table]]
+
+

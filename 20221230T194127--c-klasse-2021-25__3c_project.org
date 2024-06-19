@@ -22,7 +22,7 @@
 :PROPERTIES:
 :CUSTOM_ID: h:573a1fa7-5f84-488b-b6f2-c1dd1654c5a6
 :END:
-<%%(org-class 2023 9 14 2024 7 8 4 22)>
+<%%(org-class 2023 9 14 2024 7 8 4 25)>
 
 [[file:~/NMS_Golling/Religion_für_uns/Serviceteil_3.pdf]]
 

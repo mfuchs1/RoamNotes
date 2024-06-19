@@ -241,8 +241,11 @@ CLOSED: [2024-06-09 So 20:57] SCHEDULED: <2024-06-03 Mo>
 - State "DONE"       from              [2024-06-09 So 20:57]
 :END:
 
-** [[denote:20230619T145818][[SW40] Vielfalt der Reigionen]]
-SCHEDULED: <2024-06-10 Mo>
+** DONE [[denote:20230619T145818][[SW40] Vielfalt der Reigionen]]
+CLOSED: [2024-06-15 Sa 22:10] SCHEDULED: <2024-06-10 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-06-15 Sa 22:10]
+:END:
 
 ** [[denote:20230619T145913][[SW41] Weltreligionen / Drei Konfessionen stellen sich vor]]
 SCHEDULED: <2024-06-17 Mo>

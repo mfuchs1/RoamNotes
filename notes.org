@@ -55,4 +55,8 @@ Notizen verfolgen ein komplett anderes Ziel: was hier notiert wird, dient einer 
 
 Der Beginn sollte einfach und klar sein. Beginne mit einem einzelnen file. Später wird es von selbst konplexer. 
 
+* Ein neuer Eintrag
+:PROPERTIES:
+:CAPTURED: [2024-06-18 Di 21:25]
+:END:
 

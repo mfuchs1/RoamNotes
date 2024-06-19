@@ -145,6 +145,13 @@ CLOSED: [2024-06-07 Fr 07:25] DEADLINE: <2024-06-06 Do 21:00>
 - State "DONE"       from "TODO"       [2024-06-07 Fr 07:25]
 :END:
 
+** TODO [#A] Noten eintragen!
+DEADLINE: <2024-06-21 Fr 21:00>
+:PROPERTIES:
+:CAPTURED: [2024-06-19 Mi 09:34]
+:END:
+Schau im Semester Zeugnis nach; besonders für die 4a und 4b; 2b? 3b (Tobi)? 3c (Tobi)?
+
 * Tasks [Mails]
 :PROPERTIES:
 :CATEGORY: TODO Mails

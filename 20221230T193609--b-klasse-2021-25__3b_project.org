@@ -19,6 +19,9 @@
 [[denote:20230621T073521][03 Golling]]
 
 * 3b 11:35-12:25
+:PROPERTIES:
+:CUSTOM_ID: h:4bfaf6a9-fd1d-474b-8c5a-b3c563126c6c
+:END:
 <%%(org-class 2023 9 13 2024 7 7 3 21)>
 
 [[file:~/NMS_Golling/Religion_für_uns/Serviceteil_3.pdf]]
@@ -27,12 +30,19 @@ Islam - Gruppenarbeit
 
 Hefteintrag / Plakat
 
+Vorstellung der Plakate. Sonst gibt es kaum Stunden, oder?
+- Feste & Symbole: sehr gut (Mädchen)
+- Koran: gut (Andreas, Philipp)
+- Mohammed: gut (Fabian, Jonas)
+- Moschee: sehr gut (Matthias Felix)
+- Glaube (Tobi): Hm, er hat va aus dem Buch vorgelesen (hat natürlich immer ein Gegenargument und wird von z.B. Augustin unterstützt)
+
 
 * 3b 10:40-11:30
 :PROPERTIES:
 :CUSTOM_ID: h:11b2f6de-d807-4806-a6ff-909c48803749
 :END:
-<%%(org-class 2023 9 14 2024 7 8 4 22)>
+<%%(org-class 2023 9 14 2024 7 8 4 25)>
 
 Islam - Gruppenarbeit
 
