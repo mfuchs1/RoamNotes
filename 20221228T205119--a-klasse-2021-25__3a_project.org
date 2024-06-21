@@ -54,13 +54,7 @@ Heute sollten die Schüler fertig werden, oder?
 :END:
 <%%(org-class 2023 9 15 2024 7 9 5 22)>
 
-Hefte kontrollieren
-
-Weltreligionen
-
-Islam Doku.
-
-Später: Islam Seiten erarbeiten und präsentieren
+Kahoot / Film?
 
 * 3A [KV Bernhard Moser]
 :PROPERTIES:
