@@ -1,7 +1,0 @@
-#+title:      termux
-#+date:       [2023-10-15 Sun 17:18]
-#+filetags:   :emacs:
-#+identifier: 20231015T171813
-
-Ich habs geschafft, mir über termux Zugang zu meinen Dateien zu verschaffen. Ich muss meine org-Dateien zB im storage/Downloads Verzeichnis speichern. So kann ich sie via kde-connect mit dem Laptop synchronisieren.
-
