@@ -25,9 +25,7 @@
 :END:
 <%%(org-class 2023 9 11 2024 7 5 1 21)>
 
-Kapitel 6 / Judentum;
-
-Hefteintrag, Zusammenfassung des Kapitels;
+Gemeinsam Film ansehen (The Chosen - Lazarus)
 
 
 * 2a 09:35-10:25

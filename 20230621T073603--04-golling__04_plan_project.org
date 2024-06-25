@@ -254,8 +254,11 @@ CLOSED: [2024-06-15 Sa 22:10] SCHEDULED: <2024-06-10 Mo>
 - State "DONE"       from              [2024-06-15 Sa 22:10]
 :END:
 
-** [SW41]
-SCHEDULED: <2024-06-17 Mo>
+** DONE [SW41]
+CLOSED: [2024-06-25 Di 09:35] SCHEDULED: <2024-06-17 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-06-25 Di 09:35]
+:END:
 
 ** [SW42]
 SCHEDULED: <2024-06-24 Mo>

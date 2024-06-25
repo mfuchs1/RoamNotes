@@ -262,8 +262,11 @@ CLOSED: [2024-06-15 Sa 22:10] SCHEDULED: <2024-06-10 Mo>
 - State "DONE"       from              [2024-06-15 Sa 22:10]
 :END:
 
-** [[denote:20230619T215054][[SW41] Die Synagoge]]
-SCHEDULED: <2024-06-17 Mo>
+** DONE [[denote:20230619T215054][[SW41] Die Synagoge]]
+CLOSED: [2024-06-25 Di 09:35] SCHEDULED: <2024-06-17 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-06-25 Di 09:35]
+:END:
 
 ** [[denote:20230619T215155][[SW42] Übungsteil: Und jetzt ich Das nehme ich mit]]
 SCHEDULED: <2024-06-24 Mo>

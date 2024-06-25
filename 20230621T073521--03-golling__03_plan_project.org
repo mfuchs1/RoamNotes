@@ -255,8 +255,11 @@ CLOSED: [2024-06-15 Sa 22:10] SCHEDULED: <2024-06-10 Mo>
 - State "DONE"       from              [2024-06-15 Sa 22:10]
 :END:
 
-** [[denote:20230625T001538][[SW41] Muhammad - Der Koran]]
-SCHEDULED: <2024-06-17 Mo>
+** DONE [[denote:20230625T001538][[SW41] Muhammad - Der Koran]]
+CLOSED: [2024-06-25 Di 09:35] SCHEDULED: <2024-06-17 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-06-25 Di 09:35]
+:END:
 
 ** [[denote:20230625T001710][[SW42] Glaube und Leben / Feste / Moschee / Symbole]]
 SCHEDULED: <2024-06-24 Mo>

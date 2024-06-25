@@ -247,8 +247,11 @@ CLOSED: [2024-06-15 Sa 22:10] SCHEDULED: <2024-06-10 Mo>
 - State "DONE"       from              [2024-06-15 Sa 22:10]
 :END:
 
-** [[denote:20230619T145913][[SW41] Weltreligionen / Drei Konfessionen stellen sich vor]]
-SCHEDULED: <2024-06-17 Mo>
+** DONE [[denote:20230619T145913][[SW41] Weltreligionen / Drei Konfessionen stellen sich vor]]
+CLOSED: [2024-06-25 Di 09:34] SCHEDULED: <2024-06-17 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-06-25 Di 09:34]
+:END:
 
 ** [[denote:20230619T150019][[SW42] Übungsteil]]
 SCHEDULED: <2024-06-24 Mo>
