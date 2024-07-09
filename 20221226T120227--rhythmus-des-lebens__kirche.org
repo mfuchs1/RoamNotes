@@ -1,5 +1,0 @@
-#+title:      Rhythmus des Lebens
-#+date:       [2022-12-26 Mo 12:02]
-#+filetags:   :kirche:
-#+identifier: 20221226T120227
-

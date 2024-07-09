@@ -1,5 +1,0 @@
-#+title:      Franz Jägerstätter
-#+date:       [2022-12-26 Mo 12:01]
-#+filetags:   :heilige:
-#+identifier: 20221226T120127
-

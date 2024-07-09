@@ -1,5 +1,0 @@
-#+title:      [SW14] Mythos und Logos
-#+date:       [2023-06-24 Sa 19:41]
-#+filetags:   :03:sw14:
-#+identifier: 20230624T194111
-

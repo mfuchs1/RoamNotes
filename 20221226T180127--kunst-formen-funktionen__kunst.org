@@ -1,5 +1,0 @@
-#+title:      Kunst Formen Funktionen
-#+date:       [2022-12-26 Mo 18:01]
-#+filetags:   :kunst:
-#+identifier: 20221226T180127
-

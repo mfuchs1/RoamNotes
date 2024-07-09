@@ -1,5 +1,0 @@
-#+title:      [SW36] Mein digitaler Begleiter / Beten mit dem Handy
-#+date:       [2023-06-25 So 00:08]
-#+filetags:   :03:sw36:
-#+identifier: 20230625T000821
-

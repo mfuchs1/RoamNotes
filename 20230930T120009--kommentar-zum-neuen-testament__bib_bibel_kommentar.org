@@ -1,7 +1,0 @@
-#+title:      Kommentar zum Neuen Testament
-#+date:       [2023-09-30 Sa 12:00]
-#+filetags:   :bib:bibel:kommentar:
-#+identifier: 20230930T120009
-#+reference:  Berger.2011
-
-Ein wunderbarer und vollständiger Kommentar zum Neuen Testament. Eine wahre Fundgrube.

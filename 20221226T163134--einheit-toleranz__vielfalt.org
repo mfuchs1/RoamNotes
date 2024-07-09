@@ -1,5 +1,0 @@
-#+title:      Einheit Toleranz
-#+date:       [2022-12-26 Mo 16:31]
-#+filetags:   :vielfalt:
-#+identifier: 20221226T163134
-

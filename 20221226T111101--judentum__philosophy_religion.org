@@ -1,5 +1,0 @@
-#+title:      Judentum
-#+date:       [2022-12-26 Mo 11:11]
-#+filetags:   :philosophy:
-#+identifier: 20221226T111101
-

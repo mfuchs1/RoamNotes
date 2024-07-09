@@ -1,5 +1,0 @@
-#+title:      Emotion Ausdruck
-#+date:       [2022-12-26 Mo 16:34]
-#+filetags:   :kommunikation:
-#+identifier: 20221226T163452
-

@@ -1,5 +1,0 @@
-#+title:      Marienfeste
-#+date:       [2022-12-26 Mo 16:30]
-#+filetags:   :kirche:maria:
-#+identifier: 20221226T163012
-

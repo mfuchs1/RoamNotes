@@ -1,5 +1,0 @@
-#+title:      Credo
-#+date:       [2022-12-26 Mo 16:27]
-#+filetags:   :glauben:kirche:
-#+identifier: 20221226T162732
-

@@ -1,8 +1,0 @@
-#+title:      Der erste Amerikaner
-#+date:       [2022-12-20 Di 07:30]
-#+filetags:   :archäologie:bib:
-#+identifier: 20221220T073054
-#+reference:  Ceram1972
-
-Wow, das ist cool.
-

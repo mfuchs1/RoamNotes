@@ -1,7 +1,0 @@
-#+title:      Bibeltheologisches Wörterbuch
-#+date:       [2023-04-05 Mi 11:37]
-#+filetags:   :bib:theology:
-#+identifier: 20230405T113751
-#+reference:  Bauer1962
-
-* Auferstehung

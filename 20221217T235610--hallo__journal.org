@@ -1,6 +1,0 @@
-#+title:      hallo
-#+date:       [2022-12-17 Sa 23:56]
-#+filetags:   :journal:
-#+identifier: 20221217T235610
-
-aha

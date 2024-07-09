@@ -1,5 +1,0 @@
-#+title:      test
-#+date:       [2022-12-31 Sa 16:26]
-#+filetags:   :test:
-#+identifier: 20221231T162637
-

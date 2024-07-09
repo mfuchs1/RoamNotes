@@ -1,5 +1,0 @@
-#+title:      [SW16] Eine mythische Erzählung deuten
-#+date:       [2023-06-24 Sa 23:29]
-#+filetags:   :03:sw16:
-#+identifier: 20230624T232959
-

@@ -1,5 +1,0 @@
-#+title:      [SW39] Übungsteil Kap 4
-#+date:       [2023-06-25 So 00:11]
-#+filetags:   :03:sw39:
-#+identifier: 20230625T001157
-

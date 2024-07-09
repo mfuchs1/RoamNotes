@@ -1,9 +1,0 @@
-#+title:      Jesus
-#+date:       [2022-12-26 Mo 11:07]
-#+filetags:   :theology:
-#+identifier: 20221226T110720
-
-[[denote:20221226T155350][NT Entstehung]]
-
-[[denote:20221226T165610][Trinität]]
-

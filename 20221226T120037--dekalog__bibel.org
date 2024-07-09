@@ -1,5 +1,0 @@
-#+title:      Dekalog
-#+date:       [2022-12-26 Mo 12:00]
-#+filetags:   :bibel:
-#+identifier: 20221226T120037
-

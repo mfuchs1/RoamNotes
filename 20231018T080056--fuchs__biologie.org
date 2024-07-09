@@ -1,6 +1,0 @@
-#+title:      Fuchs
-#+date:       [2023-10-18 Mi 08:00]
-#+filetags:   :biologie:
-#+identifier: 20231018T080056
-
-

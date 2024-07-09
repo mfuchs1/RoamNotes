@@ -1,5 +1,0 @@
-#+title:      Heilserzählungen
-#+date:       [2022-12-26 Mo 11:56]
-#+filetags:   :theology:
-#+identifier: 20221226T115647
-

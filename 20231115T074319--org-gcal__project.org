@@ -16,6 +16,62 @@
 <2024-06-28 Fr 14:00-15:30>
 :END:
 
+* Theater (Burg Golling)
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3438771659476000"
+:entry-id: chl1rslqf2aq92e4pfudolhob4/matthiasfuchs01@gmail.com
+:CUSTOM_ID: h:8e8aab0c-2cb7-4b26-a520-a1acd686803e
+:END:
+:org-gcal:
+<2024-06-26 Mi 10:00-12:00>
+:END:
+
+* Probe für Schlussgottesdienst
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3438771768360000"
+:entry-id: qttgtjnr20vqecfmk649dop1b8/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2024-06-26 Mi 12:30-13:15>
+:END:
+
+* Musikprobe für den Schulgottesdienst
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3439114588344000"
+:entry-id: ovkps0qn648lj6qnmtkcam8fhc/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2024-06-28 Fr 12:30-13:30>
+:END:
+
+* Kinder bei Großeltern abholen
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3439116429152000"
+:entry-id: 1f5rk8bfrv6ttmvpm43iv5a2pg/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2024-06-28 Fr 17:00-18:00>
+:END:
+
+* Besuch von Monika
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3440785329886000"
+:entry-id: l68ntct50nm23l0pm2itnj4utk/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2024-07-08 Mo 14:00-20:00>
+:END:
+
 * Kletterkurs Gabriel
 :PROPERTIES:
 :ETag:     "3434726117060000"

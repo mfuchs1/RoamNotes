@@ -1,5 +1,0 @@
-#+title:      [SW15] Biblische Schöpfungserzählungen
-#+date:       [2023-06-24 Sa 19:42]
-#+filetags:   :03:sw15:
-#+identifier: 20230624T194213
-

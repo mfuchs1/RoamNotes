@@ -1,5 +1,0 @@
-#+title:      [SW03] Die Schönheit der Schöpfung / Die Schöpfung in Gefahr
-#+date:       [2023-06-23 Fr 23:01]
-#+filetags:   :03:sw03:
-#+identifier: 20230623T230134
-

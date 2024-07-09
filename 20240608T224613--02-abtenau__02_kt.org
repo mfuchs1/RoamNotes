@@ -5,29 +5,3 @@
 
 Hier steht die Jahresplanung für die zweiten Klassen in Abtenau.
 
-* 01 Eine Gemeinschaft, die uns stärkt | Beziehungen - mit einander umgehen können
-
-#+BEGIN: denote-links :regexp "__02_gemeinschaft" :sort-by-component nil :reverse-sort nil :id-only nil
-- [[denote:20240608T230631][02 Abtenau: Mit jedem redest du anders]]
-- [[denote:20240608T231309][02 Abtenau: Das war ein Missverständnis]]
-- [[denote:20240608T231358][02 Abtenau: Autorität und Verantwortung]]
-- [[denote:20240608T231513][02 Abtenau: Mobbing: War doch nur Spaß?]]
-- [[denote:20240608T231608][02 Abtenau: Konflikte lösen]]
-- [[denote:20240608T231653][02 Abtenau: Mensch ärgere dich nicht]]
-- [[denote:20240608T231727][02 Abtenau: Wofür Jesus streitet]]
-- [[denote:20240608T231826][02 Abtenau: Liebe eine Grundhaltung]]
-- [[denote:20240608T231906][02 Abtenau: Freundschaft durch dick und dünn]]
-- [[denote:20240608T231935][02 Abtenau: Verliebt und verzaubert]]
-- [[denote:20240608T232023][02 Abtenau: Konstruktiv diskutieren]]
-- [[denote:20240608T232059][02 Abtenau: Typisch Mann, typisch Frau?]]
-- [[denote:20240608T232151][02 Abtenau: Kapitel 1 Übungsteil]]
-#+END:
-
-
-* 02 Fragen, die uns bewegen | Vertrauen - an Herausforderungen wachsen
-
-#+BEGIN: denote-links :regexp "__02_fragen" :sort-by-component nil :reverse-sort nil :id-only nil
-- [[denote:20240608T233552][02 Abtenau: Leid hat viele Gesichter]]
-- [[denote:20240608T233626][02 Abtenau: Wie soll ich damit umgehen?]]
-- [[denote:20240608T233655][02 Abtenau: Einen Klagepsalm beten]]
-#+END:

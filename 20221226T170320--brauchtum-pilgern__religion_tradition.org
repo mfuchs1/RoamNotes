@@ -1,5 +1,0 @@
-#+title:      Brauchtum Pilgern
-#+date:       [2022-12-26 Mo 17:03]
-#+filetags:   :religion:tradition:
-#+identifier: 20221226T170320
-

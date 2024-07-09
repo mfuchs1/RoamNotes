@@ -1,8 +1,0 @@
-#+title:      Notiz mit template
-#+date:       [2022-12-21 Mi 21:55]
-#+filetags:   :test:
-#+identifier: 20221221T215555
-
-* Some heading
-
-* Another heading

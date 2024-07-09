@@ -1,5 +1,0 @@
-#+title:      Digitale Kommunikation
-#+date:       [2022-12-26 Mo 16:37]
-#+filetags:   :kommunikation:
-#+identifier: 20221226T163717
-

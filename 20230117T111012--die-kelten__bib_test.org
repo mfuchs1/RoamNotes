@@ -1,8 +1,0 @@
-#+title:      Die Kelten
-#+date:       [2023-01-17 Di 11:10]
-#+filetags:   :bib:test:
-#+identifier: 20230117T111012
-#+reference:  Wood2000
-
-aha
-

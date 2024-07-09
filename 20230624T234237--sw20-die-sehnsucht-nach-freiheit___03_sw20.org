@@ -1,5 +1,0 @@
-#+title:      [SW20] Die Sehnsucht nach Freiheit
-#+date:       [2023-06-24 Sa 23:42]
-#+filetags:   :03:sw20:
-#+identifier: 20230624T234237
-

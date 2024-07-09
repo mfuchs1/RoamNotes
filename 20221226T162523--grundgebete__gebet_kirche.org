@@ -1,5 +1,0 @@
-#+title:      Grundgebete
-#+date:       [2022-12-26 Mo 16:25]
-#+filetags:   :gebet:kirche:
-#+identifier: 20221226T162523
-

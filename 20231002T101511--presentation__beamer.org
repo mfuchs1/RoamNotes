@@ -1,5 +1,0 @@
-#+title:      presentation
-#+date:       [2023-10-02 Mo 10:15]
-#+filetags:   :beamer:
-#+identifier: 20231002T101511
-

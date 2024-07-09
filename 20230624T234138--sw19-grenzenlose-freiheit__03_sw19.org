@@ -1,5 +1,0 @@
-#+title:      [SW19] Grenzenlose Freiheit
-#+date:       [2023-06-24 Sa 23:41]
-#+filetags:   :03:sw19:
-#+identifier: 20230624T234138
-

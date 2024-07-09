@@ -1,0 +1,29 @@
+#+title:      Jahresplanung
+#+date:       [2024-07-08 Mo 17:14]
+#+filetags:   :schule:
+#+identifier: 20240708T171453
+
+* Wie plane ich das nächste Schuljahr?
+Seit längerem stelle ich mir die Frage, wie ich meine Planung organisiere.
+
+** Plan A
+In meinen ersten Jahren in Golling hatte ich vier sehr große org-Dateien für jede Schulstufe. Da war alles drin:
+- Jahresplanung
+- Kompetenz-Raster
+- Notizen zu Schülern
+
+
+** Plan B
+Dann hab ich das System umgestellt. Ich hatte für jede Klasse eine Datei:
+- Schülertabelle
+- Noten
+- Aufzeichnungen
+- Stundenplan der Klasse
+- konkrete Planung der aktuellen SW
+
+Nebenbei gab es vier Dateien mit der Jahresplanung + Datum der SW; dadurch erschien in der =org-agenda= die aktuelle Stunden der SW.
+
+** Plan C
+Was mache ich jetzt? Behalte ich den "Plan B" bei? Der Nachteil der Jahresplanung ist, dass diese gar nicht flexibel ist. Und das Datum eingeben ist sehr mühsam.
+
+Seit gestern versuche ich, ein neues System auszubauen; mit "relativen Files" und dynamischen org-blocks. Da muss ich noch ein kohärentes System für die =tags= und die Dateinamen finden. 

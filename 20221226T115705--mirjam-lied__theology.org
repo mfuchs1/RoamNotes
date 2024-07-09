@@ -1,5 +1,0 @@
-#+title:      Mirjam-Lied
-#+date:       [2022-12-26 Mo 11:57]
-#+filetags:   :theology:
-#+identifier: 20221226T115705
-

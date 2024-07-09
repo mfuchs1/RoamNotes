@@ -1,5 +1,0 @@
-#+title:      [SW38] Wem kann ich glauben / Fake News erkennen
-#+date:       [2023-06-25 So 00:10]
-#+filetags:   :03:sw38:
-#+identifier: 20230625T001024
-

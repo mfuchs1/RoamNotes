@@ -1,5 +1,0 @@
-#+title:      [SW23] Eine bleibende Erfahrung
-#+date:       [2023-06-24 Sa 23:49]
-#+filetags:   :03:sw23:
-#+identifier: 20230624T234950
-
