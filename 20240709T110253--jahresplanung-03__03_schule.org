@@ -2,6 +2,14 @@
 #+date:       [2024-07-09 Di 11:02]
 #+filetags:   :03:schule:
 #+identifier: 20240709T110253
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Jahresplanung 03.html
 
 * Schöpfung – das Geschenk Gottes bewahren (Kapitel 1)
 September bis Oktober
@@ -19,6 +27,8 @@ Die Schülerinnen und Schüler können sich als Teil der Schöpfung wahrnehmen u
 ** Hinweis / Alternativen
 Liturgische (Mit)Gestaltung:
 Zu Beginn des Schuljahres oder für eine vorösterliche Versöhnungsfeier könnte das Friedensgebet (S. 112–113) als Vorlage zu Hilfe genommen werden.
+
+** Basisseiten und Empfehlungen
 
 * Sinn – dem Leben einen Grund geben (Kapitel 2)
 November bis Dezember
@@ -40,6 +50,8 @@ Die Schülerinnen und Schüler können die Sehnsucht nach einem „Leben in Fül
 Kooperation mit Pfarre
 Wenn sich in der 7. Schulstufe die Mehrheit der Schüler*innen auf das Sakrament der Firmung vorbereitet, könnte das Thema zur Unterstützung der pfarrlichen Firmvorbereitung erarbeitet werden.
 
+** Basisseiten und Empfehlungen
+
 * Freiheit – auf Gottes Versprechen vertrauen (Kapitel 3)
 Jänner bis März
 
@@ -60,6 +72,9 @@ Die Schülerinnen und Schüler kennen christliche Grundlagen des Zusammenlebens 
 Kirchenjahr – Fastenzeit
 - Exodus (Kap. 3.4, S. 59)
 - Eine bleibende Erfahrung (Kap. 3.5, S. 60)
+
+
+** Basisseiten und Empfehlungen
 
 * Tradition – verwurzelt sein (Kapitel 4)
 März bis April
@@ -85,6 +100,9 @@ Kirchenjahr - nach Ostern:
 - Der Sonntag (Kap. 4.2, S. 80)
 - Die ersten Christinnen und Christen (Kap. 4.4, S. 83)
 
+
+** Basisseiten und Empfehlungen
+
 * Medien – Chancen und Risiken verstehen (Kapitel 5)
 April bis Mai
 
@@ -98,6 +116,8 @@ April bis Mai
 Die Schülerinnen und Schüler können die Nutzung von Medien und deren Potential reflektieren.
 
 ** Hinweis / Alternativen
+
+** Basisseiten und Empfehlungen
 
 * Islam – dem einen Gott verpflichtet (Kapitel 6)
 Mai bis Juni
@@ -116,3 +136,6 @@ und ausgehend von ihrem Wissen und ihren Erfahrungen Beiträge zu einem respektv
 ** Hinweis / Alternativen
 Interreligiöser Dialog
 Feste und Feiern im Islam über das Schuljahr hinweg ansprechen
+
+
+** Basisseiten und Empfehlungen

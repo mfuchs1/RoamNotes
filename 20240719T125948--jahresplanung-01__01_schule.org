@@ -1,0 +1,78 @@
+#+title:      Jahresplanung 01
+#+date:       [2024-07-19 Fr 12:59]
+#+filetags:   :01:schule:
+#+identifier: 20240719T125948
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Jahresplanung 01.html
+
+* Gemeinschaft | Zusammenleben – ein gutes Miteinander erleben (Kapitel 1)
+September bis November
+
+** Thema/Inhalt
+
+** Kompetenz laut Lehrplan
+
+** Hinweis/Alternativen
+
+** Basisseiten und Empfehlungen
+
+* Fragen | Philosophieren – die großen Fragen des Lebens stellen (Kapitel 2)
+November bis Dezember
+
+** Thema/Inhalt
+
+** Kompetenz laut Lehrplan
+
+** Hinweis/Alternativen
+
+** Basisseiten und Empfehlungen
+
+* Glaube | Heilige Schrift – die Welt der Bibel entdecken (Kapitel 3)
+Jänner bis Februar
+
+** Thema/Inhalt
+
+** Kompetenz laut Lehrplan
+
+** Hinweis/Alternativen
+
+** Basisseiten und Empfehlungen
+
+* Kirche | Kirche – die Gemeinschaft der Glaubenden erfahren (Kapitel 4)
+März bis April
+
+** Thema/Inhalt
+
+** Kompetenz laut Lehrplan
+
+** Hinweis/Alternativen
+
+** Basisseiten und Empfehlungen
+
+* Welt | Feste – das Leben feiern (Kapitel 5)
+April bis Mai
+
+** Thema/Inhalt
+
+** Kompetenz laut Lehrplan
+
+** Hinweis/Alternativen
+
+** Basisseiten und Empfehlungen
+
+* Vielfalt | Religionen – die Vielfalt leben (Kapitel 6)
+Mai bis Juni
+
+** Thema/Inhalt
+
+** Kompetenz laut Lehrplan
+
+** Hinweis/Alternativen
+
+** Basisseiten und Empfehlungen

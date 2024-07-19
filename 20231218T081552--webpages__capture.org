@@ -1,8 +1,8 @@
 #+title:      Webpages
 #+date:       [2023-12-18 Mo 08:15]
 #+filetags:   :capture:
-#+STARTUP: showall
 #+identifier: 20231218T081552
+#+STARTUP: showall
 
 * „Die volle Macht der Regierung entfesseln“ -
 :PROPERTIES:
@@ -19,6 +19,12 @@
 * „De-Banking“: Der lautlose Angriff auf oppositionelle Medien -
 :PROPERTIES:
 :CREATED: [2024-06-26 Mi 13:15]
+:SOURCE: https://multipolar-magazin.de/artikel/de-banking
+:END:
+
+* „De-Banking“: Der lautlose Angriff auf oppositionelle Medien -
+:PROPERTIES:
+:CREATED: [2024-07-19 Fr 16:56]
 :SOURCE: https://multipolar-magazin.de/artikel/de-banking
 :END:
 

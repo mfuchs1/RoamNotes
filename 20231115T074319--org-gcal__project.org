@@ -88,11 +88,33 @@
 :PROPERTIES:
 :calendar-id: matthiasfuchs01@gmail.com
 :org-gcal-managed: org
-:ETag:     "3442454614342000"
+:ETag:     "3442475979422000"
 :entry-id: 2uroee99djrutkash9cl77thbk/matthiasfuchs01@gmail.com
 :END:
 :org-gcal:
 <2024-07-17 Mi 19:00-20:00>
+:END:
+
+* Beten und Lesen
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3442769585596000"
+:entry-id: jev52r8ca6jm72v1vk8mvdruh4/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2024-07-19 Fr 20:00-21:00>
+:END:
+
+* Abendessen
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3442770565190000"
+:entry-id: 4fm1h58euuvcickc3o65bk50m8/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2024-07-19 Fr 19:00-20:00>
 :END:
 
 * Kletterkurs Gabriel

@@ -1,0 +1,117 @@
+#+title:      Agenda
+#+date:       [2024-07-17 Mi 16:36]
+#+filetags:   :Project:
+#+identifier: 20240717T163657
+#+CATEGORY: agenda
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Agenda.html
+
+* Stundenplan                                                  
+
+** Montag
+
+*** 2a 07:45-08:35                                                     :2a:
+<%%(org-class 2024 7 15 2024 7 29 1)>
+
+*** 2b 08:40-09:30                                                     :2b:
+<%%(org-class 2024 7 15 2024 7 29 1)>
+
+*** 2c 09:35-10:25                                                     :2c:
+<%%(org-class 2024 7 15 2024 7 29 1)>
+
+*** 4a 10:40-11:30                                                     :4a:
+<%%(org-class 2024 7 15 2024 7 29 1)>
+
+*** 4b 11:35-12:25                                                     :4b:
+<%%(org-class 2024 7 15 2024 7 29 1)>
+
+** Dienstag
+
+*** 1a 07:45-08:35                                                     :1a:
+<%%(org-class 2024 7 16 2024 7 30 2)>
+
+*** 1b 08:40-09:30                                                     :1b:
+<%%(org-class 2024 7 16 2024 7 30 2)>
+
+*** 2b 09:35-10:25                                                     :2b:
+<%%(org-class 2024 7 16 2024 7 30 2)>
+
+*** 4a 10:40-11:30                                                     :4a:
+<%%(org-class 2024 7 16 2024 7 30 2)>
+
+*** 4b 11:35-12:25                                                     :4b:
+<%%(org-class 2024 7 16 2024 7 30 2)>
+
+** Mittwoch
+
+*** 3a 07:45-08:35                                                     :3a:
+<%%(org-class 2024 7 17 2024 7 31 3)>
+
+*** 3b 08:40-09:30                                                     :3b:
+<%%(org-class 2024 7 17 2024 7 31 3)>
+
+*** 3c 09:35-10:25                                                     :3c:
+<%%(org-class 2024 7 17 2024 7 31 3)>
+
+*** 2c 10:40-11:30                                                     :2c:
+<%%(org-class 2024 7 17 2024 7 31 3)>
+
+*** 4c 11:35-12:25                                                     :4c:
+<%%(org-class 2024 7 17 2024 7 31 3)>
+
+** Donnerstag
+
+*** 4c 07:45-08:35                                                     :4c:
+<%%(org-class 2024 7 18 2024 8 1 4)>
+
+*** 1c 08:40-09:30                                                     :1c:
+<%%(org-class 2024 7 18 2024 8 1 4)>
+
+*** 3a 09:35-10:25                                                     :3a:
+<%%(org-class 2024 7 18 2024 8 1 4)>
+
+*** 3b 10:40-11:30                                                     :3b:
+<%%(org-class 2024 7 18 2024 8 1 4)>
+
+*** 3c 11:35-12:25                                                     :3c:
+<%%(org-class 2024 7 18 2024 8 1 4)>
+
+** Freitag
+
+*** 2a 07:45-08:35                                                     :2a:
+<%%(org-class 2024 7 19 2024 8 2 5)>
+[[denote:20240719T153525][A Klasse 2023-27]]
+
+*** 1c 08:40-09:30                                                     :1c:
+<%%(org-class 2024 7 19 2024 8 2 5)>
+
+*** Gitarre 09:35-10:25                                           :gitarre:
+<%%(org-class 2024 7 19 2024 8 2 5)>
+
+*** Gitarre 10:40-11:30                                           :gitarre:
+<%%(org-class 2024 7 19 2024 8 2 5)>
+
+* Tasks
+
+** DONE Papagei füttern
+CLOSED: [2024-07-19 Fr 12:06] DEADLINE: <2024-07-17 Mi 18:00>
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2024-07-19 Fr 12:06]
+:END:
+
+** TODO Sport
+DEADLINE: <2024-07-19 Fr 16:00>
+
+** TODO [#A] Gabriela (Abtenau) fragen bzgl Stundenplan u. Klassen
+DEADLINE: <2024-08-19 Mo 12:00>
+:PROPERTIES:
+:CAPTURED: [2024-07-19 Fr 16:52]
+:END:
+
+* Tasks [Mails]

@@ -1,7 +1,0 @@
-#+title:      Notiz mit Subdir
-#+date:       [2024-04-10 Mi 13:13]
-#+filetags:   :biblio:
-#+identifier: 20240410T131332
-
-Bei dieser Notiz kann ich das ~subdir~ aussuchen. Wozu kann dies dienen? Müsste ich im org-capture-menü erwähnen...
-
