@@ -1,0 +1,591 @@
+#+title:      C Klasse 2021-25
+#+date:       [2022-12-30 Fr 19:41]
+#+filetags:   :3c:Project:
+#+identifier: 20221230T194127
+#+STARTUP: showall
+#+STARTUP: logdone
+#+STARTUP: lognotedone
+#+CATEGORY: golling
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width \linewidth
+#+OPTIONS: toc:nil
+#+export_file_name: ~/RoamNotes/exports/3c.html
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+
+* Jahresplanung
+[[denote:20230621T073521][03 Golling]]
+
+* 3c 11:35-12:25
+:PROPERTIES:
+:CUSTOM_ID: h:573a1fa7-5f84-488b-b6f2-c1dd1654c5a6
+:END:
+<%%(org-class 2023 9 14 2024 7 8 4 25)>
+
+[[file:~/NMS_Golling/Religion_für_uns/Serviceteil_3.pdf]]
+
+Islam - Gruppenarbeit
+
+Hefteintrag / Plakat
+  
+* 3c 10:40-11:30
+<%%(org-class 2023 9 15 2024 7 9 5 22)>
+
+Weltreligionen
+
+Islam
+
+Arbeiten präsentieren?
+
+
+* 3C [KV Daniela Schwaighofer]
+
+#+Name: 2021-students
+| First      | Last           | Name                 | Note | Heft | Mitarbeit | LZK |
+|------------+----------------+----------------------+------+------+-----------+-----|
+| Leonie     | Auer           | [[Leonie Auer][Leonie Auer]]          |      |      |           |     |
+| Selena     | Chmelik        | [[Selena Chmelik][Selena Chmelik]]       |      |      |           |     |
+| Sarah      | Dick           | [[Sarah Dick][Sarah Dick]]           |      |      |           |     |
+| Maximilian | Eberl          | [[Maximilian Eberl][Maximilian Eberl]]     |      |      |           |     |
+| Ana        | Ferreira Leite | [[Ana Ferreira Leite][Ana Ferreira Leite]]   |      |      |           |     |
+| Lotta      | Huber          | [[Lotta Huber][Lotta Huber]]          |      |      |           |     |
+| Sena       | Korkmaz        | [[Sena Korkmaz][Sena Korkmaz]]         |      |      |           |     |
+| Anja       | Lindenthaler   | [[Anja Lindenthaler][Anja Lindenthaler]]    |      |      |           |     |
+| Anna       | Loidl          | [[Anna Loidl][Anna Loidl]]           |      |      |           |     |
+| Karlo      | Lukacevic      | [[Karlo Lukacevic][Karlo Lukacevic]]      |      |      |           |     |
+| Mufidin    | Matkic         | [[Mufidin Matkic][Mufidin Matkic]]       |      |      |           |     |
+| Paulina    | Montellano     | [[Paulina Montellano][Paulina Montellano]]   |      |      |           |     |
+| Tobias     | Neureiter      | [[Tobias Neureiter][Tobias Neureiter]]     |      |      |           |     |
+| Serah      | Prömer         | [[Serah Prömer][Serah Prömer]]         |      |      |           |     |
+| Melanie    | Scherer        | [[Melanie Scherer][Melanie Scherer]]      |      |      |           |     |
+| Ivana      | Sokic          | [[Ivana Sokic][Ivana Sokic]]          |      |      |           |     |
+| Lauren     | Steinberger    | [[Lauren Steinberger][Lauren Steinberger]]   |      |      |           |     |
+| Jonuz      | Velijoski      | [[Jonuz Velijoski][Jonuz Velijoski]]      |      |      |           |     |
+| Hannah     | Vorderleitner  | [[Hannah Vorderleitner][Hannah Vorderleitner]] |      |      |           |     |
+| Jakob      | Wallinger      | [[Jakob Wallinger][Jakob Wallinger]]      |      |      |           |     |
+| Katharina  | Wallinger      | [[Katharina Wallinger][Katharina Wallinger]]  |      |      |           |     |
+| Paula      | Weißenbacher   | [[Paula Weißenbacher][Paula Weißenbacher]]   |      |      |           |     |
+| Yaren      | Yavuzer        | [[Yaren Yavuzer][Yaren Yavuzer]]        |      |      |           |     |
+#+TBLFM: $4=vmean($5..$>)
+#+TBLFM: $3='(concat "[[" $1 " " $2 "][" $1 " " $2 "]]")
+#+TBLFM: $6='(identity remote(2021-22-Mitarbeit,@@#$2))
+
+#+BEGIN_SRC python :var table=2021-students :results output raw
+  print('* Mitarbeit')
+  for student in table:
+      first = student[0]
+      last = student[1]
+      email = first + '.' + last + '@golling.schule'
+      print('** ' + first + ' ' + last + '')
+      print(':PROPERTIES:')
+      print(':EMAIL: ' '[[mailto: ' + first + ' ' + last + ' <' + email + '>]]')
+      print(':EXPORT_FILE_NAME: ' '~/RoamNotes/exports/'  + first +  '_'  + last +  '.html')
+      print(':END: ')
+      print('|-------+-------+------+---------|')
+      print('| Datum | Topic | Note | Notizen |')
+      print('|-------+-------+------+---------|')
+      print('\n')
+      print('*** Note ' + first + ' ' + last + '')
+      print('#+Name: Note_' + first + '' + last + '')
+      print('|-----------+-------------+-----+-----------+------------|')
+      print('| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |')
+      print('|-----------+-------------+-----+-----------+------------|')
+      print('|         2 |           3 |   2 |         3 |        2.5 |')
+      print('#+TBLFM: $5=vmean($1..$4)')
+      print('\n')
+#+END_SRC
+
+#+RESULTS:
+* Mitarbeit
+** Leonie Auer
+:PROPERTIES:
+:EMAIL: [[mailto: Leonie Auer <Leonie.Auer@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Leonie_Auer.html
+:END: 
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Leonie Auer
+#+Name: Note_LeonieAuer
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Selena Chmelik
+:PROPERTIES:
+:EMAIL: [[mailto: Selena Chmelik <Selena.Chmelik@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Selena_Chmelik.html
+:END: 
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Selena Chmelik
+#+Name: Note_SelenaChmelik
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Sarah Dick
+:PROPERTIES:
+:EMAIL: [[mailto: Sarah Dick <Sarah.Dick@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Sarah_Dick.html
+:END: 
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Sarah Dick
+#+Name: Note_SarahDick
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Maximilian Eberl
+:PROPERTIES:
+:EMAIL: [[mailto: Maximilian Eberl <Maximilian.Eberl@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Maximilian_Eberl.html
+:END: 
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Maximilian Eberl
+#+Name: Note_MaximilianEberl
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Ana Ferreira Leite
+:PROPERTIES:
+:EMAIL: [[mailto: Ana Ferreira Leite <Ana.Ferreira Leite@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Ana_Ferreira Leite.html
+:END: 
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Ana Ferreira Leite
+#+Name: Note_AnaFerreira Leite
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Lotta Huber
+:PROPERTIES:
+:EMAIL: [[mailto: Lotta Huber <Lotta.Huber@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Lotta_Huber.html
+:END: 
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Lotta Huber
+#+Name: Note_LottaHuber
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Sena Korkmaz
+:PROPERTIES:
+:EMAIL: [[mailto: Sena Korkmaz <Sena.Korkmaz@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Sena_Korkmaz.html
+:END: 
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Sena Korkmaz
+#+Name: Note_SenaKorkmaz
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Anja Lindenthaler
+:PROPERTIES:
+:EMAIL: [[mailto: Anja Lindenthaler <Anja.Lindenthaler@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Anja_Lindenthaler.html
+:END: 
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Anja Lindenthaler
+#+Name: Note_AnjaLindenthaler
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Anna Loidl
+:PROPERTIES:
+:EMAIL: [[mailto: Anna Loidl <Anna.Loidl@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Anna_Loidl.html
+:END: 
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Anna Loidl
+#+Name: Note_AnnaLoidl
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Karlo Lukacevic
+:PROPERTIES:
+:EMAIL: [[mailto: Karlo Lukacevic <Karlo.Lukacevic@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Karlo_Lukacevic.html
+:END: 
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Karlo Lukacevic
+#+Name: Note_KarloLukacevic
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Mufidin Matkic
+:PROPERTIES:
+:EMAIL: [[mailto: Mufidin Matkic <Mufidin.Matkic@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Mufidin_Matkic.html
+:END: 
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Mufidin Matkic
+#+Name: Note_MufidinMatkic
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Paulina Montellano
+:PROPERTIES:
+:EMAIL: [[mailto: Paulina Montellano <Paulina.Montellano@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Paulina_Montellano.html
+:END: 
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Paulina Montellano
+#+Name: Note_PaulinaMontellano
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Tobias Neureiter
+:PROPERTIES:
+:EMAIL: [[mailto: Tobias Neureiter <Tobias.Neureiter@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Tobias_Neureiter.html
+:END: 
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Tobias Neureiter
+#+Name: Note_TobiasNeureiter
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Serah Prömer
+:PROPERTIES:
+:EMAIL: [[mailto: Serah Prömer <Serah.Prömer@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Serah_Prömer.html
+:END: 
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Serah Prömer
+#+Name: Note_SerahPrömer
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Melanie Scherer
+:PROPERTIES:
+:EMAIL: [[mailto: Melanie Scherer <Melanie.Scherer@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Melanie_Scherer.html
+:END: 
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Melanie Scherer
+#+Name: Note_MelanieScherer
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Ivana Sokic
+:PROPERTIES:
+:EMAIL: [[mailto: Ivana Sokic <Ivana.Sokic@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Ivana_Sokic.html
+:END: 
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Ivana Sokic
+#+Name: Note_IvanaSokic
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Lauren Steinberger
+:PROPERTIES:
+:EMAIL: [[mailto: Lauren Steinberger <Lauren.Steinberger@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Lauren_Steinberger.html
+:END: 
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Lauren Steinberger
+#+Name: Note_LaurenSteinberger
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Jonuz Velijoski
+:PROPERTIES:
+:EMAIL: [[mailto: Jonuz Velijoski <Jonuz.Velijoski@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Jonuz_Velijoski.html
+:END: 
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Jonuz Velijoski
+#+Name: Note_JonuzVelijoski
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Hannah Vorderleitner
+:PROPERTIES:
+:EMAIL: [[mailto: Hannah Vorderleitner <Hannah.Vorderleitner@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Hannah_Vorderleitner.html
+:END: 
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Hannah Vorderleitner
+#+Name: Note_HannahVorderleitner
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Jakob Wallinger
+:PROPERTIES:
+:EMAIL: [[mailto: Jakob Wallinger <Jakob.Wallinger@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Jakob_Wallinger.html
+:END: 
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Jakob Wallinger
+#+Name: Note_JakobWallinger
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Katharina Wallinger
+:PROPERTIES:
+:EMAIL: [[mailto: Katharina Wallinger <Katharina.Wallinger@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Katharina_Wallinger.html
+:END: 
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Katharina Wallinger
+#+Name: Note_KatharinaWallinger
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Paula Weißenbacher
+:PROPERTIES:
+:EMAIL: [[mailto: Paula Weißenbacher <Paula.Weißenbacher@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Paula_Weißenbacher.html
+:END: 
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Paula Weißenbacher
+#+Name: Note_PaulaWeißenbacher
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Yaren Yavuzer
+:PROPERTIES:
+:EMAIL: [[mailto: Yaren Yavuzer <Yaren.Yavuzer@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Yaren_Yavuzer.html
+:END: 
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Yaren Yavuzer
+#+Name: Note_YarenYavuzer
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+** [[denote:20221230T194127::#h:573a1fa7-5f84-488b-b6f2-c1dd1654c5a6][C Klasse 2021-25::3c 11:35-12:25]]
+:PROPERTIES:
+:CAPTURED: [2024-06-13 Do 12:07]
+:END:
+Tobi, Maxi, etc. haben viel Spaß; wie arbeiten sie?
+
+
+* Mitarbeittabelle
+# In diese Tabelle trage ich die Mitarbeit während 10 Schulwochen ein. Danach kann ich mit der ersten Tabellenformel die aktuelle Durchschnittsnote errechnen. Diese kann ich in die obige Tabelle übernehmen. Nach 23 Wochen (dh einem Semster) müsste ich die Tabelle wieder leeren - hm, gibt es keine bessere Lösung? Eine Tabelle mit allen 43 Schulwochen wäre zu groß. Mit 'C-c TAB' kann ich einzelne Spalten ein- und ausklappen. Wie geht das mit mehreren Spalten?
+#+Name: Mitarbeit
+| Name                 | Note | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|----------------------+------+---+---+---+---+---+---+---+---+---+----|
+| [[Leonie Auer][Leonie Auer]]          |      |   |   |   |   |   |   |   |   |   |    |
+| [[Selena Chmelik][Selena Chmelik]]       |      |   |   |   |   |   |   |   |   |   |    |
+| [[Sarah Dick][Sarah Dick]]           |      |   |   |   |   |   |   |   |   |   |    |
+| [[Maximilian Eberl][Maximilian Eberl]]     |      |   |   |   |   |   |   |   |   |   |    |
+| [[Ana Ferreira Leite][Ana Ferreira Leite]]   |      |   |   |   |   |   |   |   |   |   |    |
+| [[Lotta Huber][Lotta Huber]]          |      |   |   |   |   |   |   |   |   |   |    |
+| [[Sena Korkmaz][Sena Korkmaz]]         |      |   |   |   |   |   |   |   |   |   |    |
+| [[Anja Lindenthaler][Anja Lindenthaler]]    |      |   |   |   |   |   |   |   |   |   |    |
+| [[Anna Loidl][Anna Loidl]]           |      |   |   |   |   |   |   |   |   |   |    |
+| [[Karlo Lukacevic][Karlo Lukacevic]]      |      |   |   |   |   |   |   |   |   |   |    |
+| [[Mufidin Matkic][Mufidin Matkic]]       |      |   |   |   |   |   |   |   |   |   |    |
+| [[Paulina Montellano][Paulina Montellano]]   |      |   |   |   |   |   |   |   |   |   |    |
+| [[Tobias Neureiter][Tobias Neureiter]]     |      |   |   |   |   |   |   |   |   |   |    |
+| [[Serah Prömer][Serah Prömer]]         |      |   |   |   |   |   |   |   |   |   |    |
+| [[Melanie Scherer][Melanie Scherer]]      |      |   |   |   |   |   |   |   |   |   |    |
+| [[Ivana Sokic][Ivana Sokic]]          |      |   |   |   |   |   |   |   |   |   |    |
+| [[Lauren Steinberger][Lauren Steinberger]]   |      |   |   |   |   |   |   |   |   |   |    |
+| [[Jonuz Velijoski][Jonuz Velijoski]]      |      |   |   |   |   |   |   |   |   |   |    |
+| [[Hannah Vorderleitner][Hannah Vorderleitner]] |      |   |   |   |   |   |   |   |   |   |    |
+| [[Jakob Wallinger][Jakob Wallinger]]      |      |   |   |   |   |   |   |   |   |   |    |
+| [[Katharina Wallinger][Katharina Wallinger]]  |      |   |   |   |   |   |   |   |   |   |    |
+| [[Paula Weißenbacher][Paula Weißenbacher]]   |      |   |   |   |   |   |   |   |   |   |    |
+| [[Yaren Yavuzer][Yaren Yavuzer]]        |      |   |   |   |   |   |   |   |   |   |    |
+#+TBLFM: $2=vmean($3..$>)
+#+TBLFM: $1='(identity remote(2021-students,@@#$3))
+
+* Reflexionen
+
+** [[denote:20221226T110823][Sakramente]]
+PERIOD: [2023-02-03 Fr 08:40]
+
+Die Kinder arbeiten sehr konzentriert, ach, wie ist das entspannend. - Es gibt sie eben doch, die schönen Stunden.
+
+** Verschiedene Themen, ...
+:PROPERTIES:
+:CAPTURED: [2023-11-30 Do 12:19]
+:CLASS: [2023-11-30 Do 11:35] 5. Stunde
+:END:
+
+Heute ist ein Tag zum Vergessen; die Kahoots der Kinder funktionieren nicht, oder sind voller gravierender Fehler (Inhalt), oder sie nehmen das Thema nicht ernst. Sie müssen das verbessern bis zum nächsten Mal - mit Note.
+
+

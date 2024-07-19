@@ -1,0 +1,631 @@
+#+title:      B Klasse 2021-25
+#+date:       [2022-12-30 Fr 19:36]
+#+filetags:   :3b:Project:
+#+identifier: 20221230T193609
+#+STARTUP: showall
+#+STARTUP: logdone
+#+STARTUP: lognotedone
+#+CATEGORY: golling
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width \linewidth
+#+OPTIONS: toc:nil
+#+export_file_name: ~/RoamNotes/exports/3b.html
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+
+* Jahresplanung
+[[denote:20230621T073521][03 Golling]]
+
+* 3b 11:35-12:25
+:PROPERTIES:
+:CUSTOM_ID: h:4bfaf6a9-fd1d-474b-8c5a-b3c563126c6c
+:END:
+<%%(org-class 2023 9 13 2024 7 7 3 26)>
+
+[[file:~/NMS_Golling/Religion_für_uns/Serviceteil_3.pdf]]
+
+Islam - Gruppenarbeit
+
+Hefteintrag / Plakat
+
+Vorstellung der Plakate. Sonst gibt es kaum Stunden, oder?
+- Feste & Symbole: sehr gut (Mädchen)
+- Koran: gut (Andreas, Philipp)
+- Mohammed: gut (Fabian, Jonas)
+- Moschee: sehr gut (Matthias Felix)
+- Glaube (Tobi): Hm, er hat va aus dem Buch vorgelesen (hat natürlich immer ein Gegenargument und wird von z.B. Augustin unterstützt)
+
+
+* 3b 10:40-11:30
+:PROPERTIES:
+:CUSTOM_ID: h:11b2f6de-d807-4806-a6ff-909c48803749
+:END:
+<%%(org-class 2023 9 14 2024 7 8 4 25)>
+
+Islam - Gruppenarbeit
+
+Hefteintrag / Plakat
+
+Islam - Glaube und Leben (Tobi) - RB S. 118:
+Islam bedeutet "Hingabe"; Glaube wird durch die Grundpflichten oder auch "5 Säulen des Islam" sichtbar.
+
+- Glaubensbekenntnis (Shahada)
+- Gebet (rituell) (Salat)
+- Fasten / Ramadan 
+- Almosen (Zakat)
+- Pilgerfahrt nach Mekka (Haddsch)
+
+  Nix über Kalifat, etc und sonstige "Theorien"; keine Kritik; einfach objektive Darstellung. Sollte sich Tobi nicht daran halten - dementsprechende Note. Keine Diskussion. Das ist Themenverfehlung und damit sofort ein "Nicht Genügend". Sag ich ihm noch einmal. Mit Tobi muss man als Lehrer super klar und streng sein.
+
+  Was Platz hat: Vergleich der religiösen Praxis zwischen Christen und Moslems. ZB wie beeinflusst das unterschiedliche Gottesbild das Gebet? Oder umgekehrt ...
+
+
+* 3B [KV Lena ]
+#+Name: 2021-students
+| First    | Last               | Name                     | Note | Mitarbeit     | Heft | LZK |
+|----------+--------------------+--------------------------+------+---------------+------+-----|
+| Anja     | Breinlinger        | [[Anja Breinlinger][Anja Breinlinger]]         |      |               |      |     |
+| Dalya    | Durukan            | [[Dalya Durukan][Dalya Durukan]]            |      |               |      |     |
+| Tobias   | Egger              | [[Tobias Egger][Tobias Egger]]             |      | HÜ nix        |      |     |
+| Azra     | Hant               | [[Azra Hant][Azra Hant]]                |      |               |      |     |
+| Hannah   | Hauser             | [[Hannah Hauser][Hannah Hauser]]            |      |               |      |     |
+| Matthias | Holler             | [[Matthias Holler][Matthias Holler]]          |      | 3             |    3 |   3 |
+| Andreas  | Hollweger          | [[Andreas Hollweger][Andreas Hollweger]]        |      |               |      |     |
+| Andrea   | Ivanovic           | [[Andrea Ivanovic][Andrea Ivanovic]]          |      |               |      |     |
+| Jonas    | Jarnig             | [[Jonas Jarnig][Jonas Jarnig]]             |      | HÜ nix      3 |    3 |   3 |
+| Fabian   | Klöß               | [[Fabian Klöß][Fabian Klöß]]              |      | HÜ nix        |      |     |
+| Evelyn   | Nestler            | [[Evelyn Nestler][Evelyn Nestler]]           |      |               |      |     |
+| Julia    | Schlager-Weidinger | [[Julia Schlager-Weidinger][Julia Schlager-Weidinger]] |      |               |      |     |
+| Felix    | Schmegner          | [[Felix Schmegner][Felix Schmegner]]          |      |               |      |     |
+| Annika   | Schmitzberger      | [[Annika Schmitzberger][Annika Schmitzberger]]     |      |               |      |     |
+| Kristina | Sokic              | [[Kristina Sokic][Kristina Sokic]]           |      |               |      |     |
+| Augustin | Sommer             | [[Augustin Sommer][Augustin Sommer]]          |      | 3             |    3 |   3 |
+| Phillipp | Spagolla           | [[Phillipp Spagolla][Phillipp Spagolla]]        |      |               |      |     |
+| Emma     | Tikvic             | [[Emma Tikvic][Emma Tikvic]]              |      |               |      |     |
+| Selina   | Weiss              | [[Selina Weiss][Selina Weiss]]             |      |               |      |     |
+| Samuel   | Wittner            | [[Samuel Wittner][Samuel Wittner]]           |      |               |      |     |
+#+TBLFM: $4=vmean($5..$>);%.0f
+#+TBLFM: $3='(concat "[[" $1 " " $2 "][" $1 " " $2 "]]")
+#+TBLFM: $5='(identity remote(Mitarbeit,@@#$2))
+
+#+BEGIN_SRC python :var table=2021-students :results output raw
+  print('* Mitarbeit')
+  for student in table:
+      first = student[0]
+      last = student[1]
+      email = first + '.' + last + '@golling.schule'
+      print('** ' + first + ' ' + last + '')
+      print(':PROPERTIES:')
+      print(':EMAIL: ' '[[mailto: ' + first + ' ' + last + ' <' + email + '>]]')
+      print(':EXPORT_FILE_NAME: ' '~/RoamNotes/exports/'  + first +  '_'  + last +  '.html')
+      print(':ID: ' + first + '' + last + '')
+      print(':END: ')
+      print('#+Name: ' + first + '' + last + '')
+      print('|-------+-------+------+---------|')
+      print('| Datum | Topic | Note | Notizen |')
+      print('|-------+-------+------+---------|')
+      print('\n')
+      print('*** Note ' + first + ' ' + last + '')
+      print('#+Name: Note_' + first + '' + last + '')
+      print('|-----------+-------------+-----+-----------+------------|')
+      print('| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |')
+      print('|-----------+-------------+-----+-----------+------------|')
+      print('|         2 |           3 |   2 |         3 |        2.5 |')
+      print('#+TBLFM: $5=vmean($1..$4)')
+      print('\n')
+#+END_SRC
+
+#+RESULTS:
+* Mitarbeit
+** Anja Breinlinger
+:PROPERTIES:
+:EMAIL: [[mailto: Anja Breinlinger <Anja.Breinlinger@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Anja_Breinlinger.html
+:ID: AnjaBreinlinger
+:END: 
+#+Name: AnjaBreinlinger
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Anja Breinlinger
+#+Name: Note_AnjaBreinlinger
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Dalya Durukan
+:PROPERTIES:
+:EMAIL: [[mailto: Dalya Durukan <Dalya.Durukan@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Dalya_Durukan.html
+:ID: DalyaDurukan
+:END: 
+#+Name: DalyaDurukan
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Dalya Durukan
+#+Name: Note_DalyaDurukan
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Tobias Egger
+:PROPERTIES:
+:EMAIL: [[mailto: Tobias Egger <Tobias.Egger@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Tobias_Egger.html
+:ID: TobiasEgger
+:END: 
+#+Name: TobiasEgger
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+Allgemeine Bemerkungen:
+- trotz mehrmaliger Aufforderungen hat er öfters seine U-Materialien nicht da
+- ist "generell" respektlos, geradezu frech; mind. zweimal persönlich; ...
+- tut seine Ansichten kund, die oft sehr diskriminierend gegenüber andersdenkenden sind (FPÖ Wähler dürfen nicht mehr zur Wahl gehen; nur Intelligente dürfen wählen gehen; ...)
+- er lügt
+- oftmaliges provokantes Verhalten
+- durch sein Verhalten stört er den Unterricht massivst
+- Gott sei Dank muss ich nicht immer eingreifen, da seine Mitschüler ihn korrigieren und ihm ihre Meinung geigen.
+  
+- Was geht da noch? Wo endet die "Meinungsfreiheit"? darf ein Schüler im Namen der Meinungsfreiheit andere Menschen diffamieren? Ist das nur jugendlicher Leichtsinn, Pubertät?
+- Wenn bei Tobi ... diagnostiziert wurde - was bedeutet dies für uns?
+- Generell: wie ernst nehmen Kinder noch die Verhaltensnoten?
+- Andererseits: warum gibt es keine Verhaltensnoten mehr in der vierten Klasse? Was hat das für Wirkung auf das Verhalten der Schüler? Meine Erfahrung: keine gute.
+- 
+
+*** Note Tobias Egger
+#+Name: Note_TobiasEgger
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+*** [[denote:20221226T114556][Reich Gottes Gleichnisse]]
+:PROPERTIES:
+:CAPTURED: [2024-03-20 Mi 12:08]
+:END:
+Stört, redet viel, macht quietschende Geräusche, wiederholt meine Sätze wie ein Papagei, ... (Tobi eben) - arbeitet aber nicht.
+
+Genauso erfüllt meinen anderen Arbeitsauftrag nicht (RB S. 73; Lückentext).
+
+
+** Azra Hant
+:PROPERTIES:
+:EMAIL: [[mailto: Azra Hant <Azra.Hant@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Azra_Hant.html
+:ID: AzraHant
+:END: 
+#+Name: AzraHant
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Azra Hant
+#+Name: Note_AzraHant
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Hannah Hauser
+:PROPERTIES:
+:EMAIL: [[mailto: Hannah Hauser <Hannah.Hauser@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Hannah_Hauser.html
+:ID: HannahHauser
+:END: 
+#+Name: HannahHauser
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Hannah Hauser
+#+Name: Note_HannahHauser
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Matthias Holler
+:PROPERTIES:
+:EMAIL: [[mailto: Matthias Holler <Matthias.Holler@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Matthias_Holler.html
+:ID: MatthiasHoller
+:END: 
+#+Name: MatthiasHoller
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Matthias Holler
+#+Name: Note_MatthiasHoller
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Andreas Hollweger
+:PROPERTIES:
+:EMAIL: [[mailto: Andreas Hollweger <Andreas.Hollweger@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Andreas_Hollweger.html
+:ID: AndreasHollweger
+:END: 
+#+Name: AndreasHollweger
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Andreas Hollweger
+#+Name: Note_AndreasHollweger
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Andrea Ivanovic
+:PROPERTIES:
+:EMAIL: [[mailto: Andrea Ivanovic <Andrea.Ivanovic@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Andrea_Ivanovic.html
+:ID: AndreaIvanovic
+:END: 
+#+Name: AndreaIvanovic
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Andrea Ivanovic
+#+Name: Note_AndreaIvanovic
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Jonas Jarnig
+:PROPERTIES:
+:EMAIL: [[mailto: Jonas Jarnig <Jonas.Jarnig@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Jonas_Jarnig.html
+:ID: JonasJarnig
+:END: 
+#+Name: JonasJarnig
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Jonas Jarnig
+#+Name: Note_JonasJarnig
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Fabian Klöß
+:PROPERTIES:
+:EMAIL: [[mailto: Fabian Klöß <Fabian.Klöß@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Fabian_Klöß.html
+:ID: FabianKlöß
+:END: 
+#+Name: FabianKlöß
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Fabian Klöß
+#+Name: Note_FabianKlöß
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Evelyn Nestler
+:PROPERTIES:
+:EMAIL: [[mailto: Evelyn Nestler <Evelyn.Nestler@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Evelyn_Nestler.html
+:ID: EvelynNestler
+:END: 
+#+Name: EvelynNestler
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Evelyn Nestler
+#+Name: Note_EvelynNestler
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Julia Schlager-Weidinger
+:PROPERTIES:
+:EMAIL: [[mailto: Julia Schlager-Weidinger <Julia.Schlager-Weidinger@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Julia_Schlager-Weidinger.html
+:ID: JuliaSchlager-Weidinger
+:END: 
+#+Name: JuliaSchlager-Weidinger
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Julia Schlager-Weidinger
+#+Name: Note_JuliaSchlager-Weidinger
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Felix Schmegner
+:PROPERTIES:
+:EMAIL: [[mailto: Felix Schmegner <Felix.Schmegner@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Felix_Schmegner.html
+:ID: FelixSchmegner
+:END: 
+#+Name: FelixSchmegner
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Felix Schmegner
+#+Name: Note_FelixSchmegner
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Annika Schmitzberger
+:PROPERTIES:
+:EMAIL: [[mailto: Annika Schmitzberger <Annika.Schmitzberger@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Annika_Schmitzberger.html
+:ID: AnnikaSchmitzberger
+:END: 
+#+Name: AnnikaSchmitzberger
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Annika Schmitzberger
+#+Name: Note_AnnikaSchmitzberger
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Kristina Sokic
+:PROPERTIES:
+:EMAIL: [[mailto: Kristina Sokic <Kristina.Sokic@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Kristina_Sokic.html
+:ID: KristinaSokic
+:END: 
+#+Name: KristinaSokic
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Kristina Sokic
+#+Name: Note_KristinaSokic
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Augustin Sommer
+:PROPERTIES:
+:EMAIL: [[mailto: Augustin Sommer <Augustin.Sommer@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Augustin_Sommer.html
+:ID: AugustinSommer
+:END: 
+#+Name: AugustinSommer
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Augustin Sommer
+#+Name: Note_AugustinSommer
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Phillipp Spagolla
+:PROPERTIES:
+:EMAIL: [[mailto: Phillipp Spagolla <Phillipp.Spagolla@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Phillipp_Spagolla.html
+:ID: PhillippSpagolla
+:END: 
+#+Name: PhillippSpagolla
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Phillipp Spagolla
+#+Name: Note_PhillippSpagolla
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Emma Tikvic
+:PROPERTIES:
+:EMAIL: [[mailto: Emma Tikvic <Emma.Tikvic@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Emma_Tikvic.html
+:ID: EmmaTikvic
+:END: 
+#+Name: EmmaTikvic
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Emma Tikvic
+#+Name: Note_EmmaTikvic
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Selina Weiss
+:PROPERTIES:
+:EMAIL: [[mailto: Selina Weiss <Selina.Weiss@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Selina_Weiss.html
+:ID: SelinaWeiss
+:END: 
+#+Name: SelinaWeiss
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Selina Weiss
+#+Name: Note_SelinaWeiss
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Samuel Wittner
+:PROPERTIES:
+:EMAIL: [[mailto: Samuel Wittner <Samuel.Wittner@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Samuel_Wittner.html
+:ID: SamuelWittner
+:END: 
+#+Name: SamuelWittner
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Samuel Wittner
+#+Name: Note_SamuelWittner
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+
+
+* Mitarbeittabelle
+# In diese Tabelle trage ich die Mitarbeit während 10 Schulwochen ein. Danach kann ich mit der ersten Tabellenformel die aktuelle Durchschnittsnote errechnen. Diese kann ich in die obige Tabelle übernehmen. Nach 23 Wochen (dh einem Semster) müsste ich die Tabelle wieder leeren - hm, gibt es keine bessere Lösung? Eine Tabelle mit allen 43 Schulwochen wäre zu groß. Mit 'C-c TAB' kann ich einzelne Spalten ein- und ausklappen. Wie geht das mit mehreren Spalten?
+#+Name: Mitarbeit
+| Name                     | Note | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|--------------------------+------+---+---+---+---+---+---+---+---+---+----|
+| [[Anja Breinlinger][Anja Breinlinger]]         |      |   |   |   |   |   |   |   |   |   |    |
+| [[Dalya Durukan][Dalya Durukan]]            |      |   |   |   |   |   |   |   |   |   |    |
+| [[Azra Hant][Azra Hant]]                |      |   |   |   |   |   |   |   |   |   |    |
+| [[Hannah Hauser][Hannah Hauser]]            |      |   |   |   |   |   |   |   |   |   |    |
+| [[Matthias Holler][Matthias Holler]]          |      |   |   |   |   |   |   |   |   |   |    |
+| [[Andreas Hollweger][Andreas Hollweger]]        |      |   |   |   |   |   |   |   |   |   |    |
+| [[Jonas Jarnig][Jonas Jarnig]]             |      |   |   |   |   |   |   |   |   |   |    |
+| [[Fabian Klöß][Fabian Klöß]]              |      |   |   |   |   |   |   |   |   |   |    |
+| [[Evelyn Nestler][Evelyn Nestler]]           |      |   |   |   |   |   |   |   |   |   |    |
+| [[Julia Schlager-Weidinger][Julia Schlager-Weidinger]] |      |   |   |   |   |   |   |   |   |   |    |
+| [[Felix Schmegner][Felix Schmegner]]          |      |   |   |   |   |   |   |   |   |   |    |
+| [[Annika Schmitzberger][Annika Schmitzberger]]     |      |   |   |   |   |   |   |   |   |   |    |
+| [[Kristina Sokic][Kristina Sokic]]           |      |   |   |   |   |   |   |   |   |   |    |
+| [[Augustin Sommer][Augustin Sommer]]          |      |   |   |   |   |   |   |   |   |   |    |
+| [[Phillipp Spagolla][Phillipp Spagolla]]        |      |   |   |   |   |   |   |   |   |   |    |
+| [[Emma Tikvic][Emma Tikvic]]              |      |   |   |   |   |   |   |   |   |   |    |
+| [[Selina Weiss][Selina Weiss]]             |      |   |   |   |   |   |   |   |   |   |    |
+| [[Samuel Wittner][Samuel Wittner]]           |      |   |   |   |   |   |   |   |   |   |    |
+#+TBLFM: $2=vmean($3..$>);%.0f
+#+TBLFM: $1='(identity remote(2021-students,@@#$3))
+
+* Reflexionen                                                  
+
+** [SW01] Mit jedem redest du anders / Das war ein Missverständnis!
+Datum: <2022-09-15 Do 07:45>
+
+Diese Stunde ist entfallen - Klasse 2b ist auf zweitägigem Ausflug.
+
+** [[denote:20230623T225514][[SW01] Vieles hat Leben in sich / Das Wunder des Lebens]]
+:PROPERTIES:
+:CAPTURED: [2023-09-14 Do 16:07]
+:CLASS: [2023-09-14 Do 10:40] 4. Stunde
+:END:
+
+In der 3b ist der RU nahezu unmöglich: ein Teil der Klasse, va die Bruschen ziehen jedes Thema ins Lächerliche. Der andere Teil sagt gar nichts (va die Mädchen). Was ist zu tun?
+
+Die Vorlauten werde ich auffordern, selber zu einem religiösen Thema eine Gesprächsrunde vorzubereiten. Dies fließt in ihre Note ein. Wenn auch das ins Lächerliche gezogen wird - schlechte Note. Keine Mitarbeit - auch schlechte Note. Kollektivstrafen gibt's keine.
+
+Störenfriede dürfen ab jetzt Texte abschreiben und diese werden von den Eltern unterzeichnet.
+
+** [[denote:20230624T232959][[SW16] Eine mythische Erzählung deuten]]
+:PROPERTIES:
+:CAPTURED: [2023-11-30 Do 11:13]
+:CLASS: [2023-11-30 Do 10:40] 4. Stunde
+:END:
+
+Es wird nicht besser; letzte Stunde [2023-11-29 Mi 11:35-12:25] hab ich den Schülern eine kleine HÜ aufgegeben. Nicht einmal untereinander zeigen sie gegenseitigen Respekt, hören nicht zu. Auf einfache Fragen geben sie keine Antworten. Gebe ich Erklärungen - Gelächter, Privatgespräche, etc, ... - man spürt direkt greifbar das allgemeine Desinteresse.
+
+Also hab ich sie die Buchseite abschreiben lassen - ihre HÜ stellen sie nächste Stunde vor. Man geht auf ihre Wünsche ein - nicht einmal das wird honoriert. Also ist's egal, was ich mache? Allgemeine Frage an Kirche: wozu eigentlich noch den RU? Er wird von den Schülern nicht wertgeschätzt, es ist dem Großteil mehr als egal; selbst Themen wie Ethik, Weltreligionen, ... alles nicht einmal wurscht. Was soll ich noch sagen? 
+
+Nächste Stunde: LZK? Kahoot mit Klarnamen, zählt für die Mitarbeit?
+
+Aber aufgeben darf ich nicht - sonst trampeln sie mir auf der Nase herum. Daher geht nur die harte Schiene. Schade - aber es geht nur so. 
+
+** [[denote:20230624T234950][[SW23] Eine bleibende Erfahrung]]
+:PROPERTIES:
+:CAPTURED: [2024-01-24 Mi 14:31]
+:END:
+So wie in der 3a und der 4b (und 2b) war diese Stunde kaum zu ertragen. Was war da los? Vollmond?
+
+

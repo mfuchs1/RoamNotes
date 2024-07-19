@@ -1,0 +1,426 @@
+#+title:      B Klasse 2022-26
+#+date:       [2022-12-30 Fr 19:34]
+#+filetags:   :2b:Project:
+#+identifier: 20221230T193456
+#+STARTUP: showall
+#+STARTUP: logdone
+#+STARTUP: lognotedone
+#+CATEGORY: golling
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width \linewidth
+#+OPTIONS: toc:nil
+#+export_file_name: ~/RoamNotes/exports/2b.html
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+
+* Jahresplanung
+[[denote:20230621T073405][02 Golling]]
+
+
+* 2b 10:40-11:30
+<%%(org-class 2023 9 12 2024 7 6 2 13)>
+
+Checker Tobi "Judentum"
+RB
+
+
+* 2b 10:40-11:30
+:PROPERTIES:
+:CUSTOM_ID: 2b 10:40
+:ID:       ea738b9c-c6f9-421f-8439-0f25e2f0e7b2
+:END:
+<%%(org-class 2023 9 13 2024 7 7 3 26)>
+
+Judentum - Checker Tobi / Judentum-Doku auf USB-Festplatte
+
+Lied für Schlussgottesdienst üben "10000 reasons"?
+
+"Faszination Glaube - Judentum"
+Wir könnten noch mal die Sakramente wiederholen; in der Bibel lesen; (oder The Chosen weiter schauen).
+
+
+* 2B [KV Martin Pock]
+
+#+Name: 2021-students
+| First     | Last       | Name               | Note | Mitarbeit | Heft | LZK |
+|-----------+------------+--------------------+------+-----------+------+-----|
+| Lorenz    | Aschauer   | [[Lorenz Aschauer][Lorenz Aschauer]]    |    2 |           |      |     |
+| Emma      | Gonschorek | [[Emma Gonschorek][Emma Gonschorek]]    |    1 |           |      |     |
+| Marie     | Hofer      | [[Marie Hofer][Marie Hofer]]        |    1 |           |      |     |
+| Nena      | Langenfeld | [[Nena Langenfeld][Nena Langenfeld]]    |    1 |           |      |     |
+| Bernhard  | Neureiter  | [[Bernhard Neureiter][Bernhard Neureiter]] |    2 |           |      |     |
+| Manuel    | Reiter     | [[Manuel Reiter][Manuel Reiter]]      |    1 |           |      |     |
+| Emma      | Riebler    | [[Emma Riebler][Emma Riebler]]       |    1 |           |      |     |
+| Annika    | Seiwald    | [[Annika Seiwald][Annika Seiwald]]     |    1 |           |      |     |
+| Valerian  | Seling     | [[Valerian Seling][Valerian Seling]]    |    2 |           |      |     |
+| Theresa   | Steiner    | [[Theresa Steiner][Theresa Steiner]]    |    1 |           |      |     |
+| Valentina | Struber    | [[Valentina Struber][Valentina Struber]]  |    1 |           |      |     |
+| Felix     | Wenger     | [[Felix Wenger][Felix Wenger]]       |    1 |           |      |     |
+| Leon      | Zemmer     | [[Leon Zemmer][Leon Zemmer]]        |    1 |           |      |     |
+| Fabian    | Zorzi      | [[Fabian Zorzi][Fabian Zorzi]]       |    1 |           |      |     |
+#+TBLFM: $4=vmean($5..$>);%.0f
+#+TBLFM: $3='(concat "[[" $1 " " $2 "][" $1 " " $2 "]]")
+#+TBLFM: $5='(identity remote(Mitarbeit,@@#$2)) 
+
+#+BEGIN_SRC python :var table=2021-students :results output raw
+  print('* Mitarbeit')
+  for student in table:
+      first = student[0]
+      last = student[1]
+      email = first + '.' + last + '@golling.schule'
+      print('** ' + first + ' ' + last + '')
+      print(':PROPERTIES:')
+      print(':EMAIL: ' '[[mailto: ' + first + ' ' + last + ' <' + email + '>]]')
+      print(':EXPORT_FILE_NAME: ' '~/RoamNotes/exports/'  + first +  '_'  + last +  '.html')
+      print(':ID: ' + first + '' + last + '')
+      print(':END: ')
+      print('#+Name: ' + first + '' + last + '')
+      print('|-------+-------+------+---------|')
+      print('| Datum | Topic | Note | Notizen |')
+      print('|-------+-------+------+---------|')
+      print('\n')
+      print('*** Note ' + first + ' ' + last + '')
+      print('#+Name: Note_' + first + '' + last + '')
+      print('|-----------+-------------+-----+-----------+------------|')
+      print('| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |')
+      print('|-----------+-------------+-----+-----------+------------|')
+      print('|         2 |           3 |   2 |         3 |        2.5 |')
+      print('#+TBLFM: $5=vmean($1..$4)')
+      print('\n')
+#+END_SRC
+
+#+RESULTS:
+* Mitarbeit
+** Lorenz Aschauer
+:PROPERTIES:
+:EMAIL: [[mailto: Lorenz Aschauer <Lorenz.Aschauer@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Lorenz_Aschauer.html
+:ID: LorenzAschauer
+:END: 
+#+Name: LorenzAschauer
+|-----------------------+-------------------------+------+-------------|
+| Datum                 | Topic                   | Note | Notizen     |
+|-----------------------+-------------------------+------+-------------|
+| [2024-01-10 Mi 11:07] | [[denote:20230624T235412][[SW28] Übungsteil Kap 3]] |    1 | sehr bemüht |
+
+
+*** Note Lorenz Aschauer
+#+Name: Note_LorenzAschauer
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Emma Gonschorek
+:PROPERTIES:
+:EMAIL: [[mailto: Emma Gonschorek <Emma.Gonschorek@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Emma_Gonschorek.html
+:ID: EmmaGonschorek
+:END: 
+#+Name: EmmaGonschorek
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Emma Gonschorek
+#+Name: Note_EmmaGonschorek
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Marie Hofer
+:PROPERTIES:
+:EMAIL: [[mailto: Marie Hofer <Marie.Hofer@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Marie_Hofer.html
+:ID: MarieHofer
+:END: 
+#+Name: MarieHofer
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Marie Hofer
+#+Name: Note_MarieHofer
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Nena Langenfeld
+:PROPERTIES:
+:EMAIL: [[mailto: Nena Langenfeld <Nena.Langenfeld@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Nena_Langenfeld.html
+:ID: NenaLangenfeld
+:END: 
+#+Name: NenaLangenfeld
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Nena Langenfeld
+#+Name: Note_NenaLangenfeld
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Bernhard Neureiter
+:PROPERTIES:
+:EMAIL: [[mailto: Bernhard Neureiter <Bernhard.Neureiter@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Bernhard_Neureiter.html
+:ID: BernhardNeureiter
+:END: 
+#+Name: BernhardNeureiter
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Bernhard Neureiter
+#+Name: Note_BernhardNeureiter
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Manuel Reiter
+:PROPERTIES:
+:EMAIL: [[mailto: Manuel Reiter <Manuel.Reiter@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Manuel_Reiter.html
+:ID: ManuelReiter
+:END: 
+#+Name: ManuelReiter
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Manuel Reiter
+#+Name: Note_ManuelReiter
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Emma Riebler
+:PROPERTIES:
+:EMAIL: [[mailto: Emma Riebler <Emma.Riebler@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Emma_Riebler.html
+:ID: EmmaRiebler
+:END: 
+#+Name: EmmaRiebler
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Emma Riebler
+#+Name: Note_EmmaRiebler
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Annika Seiwald
+:PROPERTIES:
+:EMAIL: [[mailto: Annika Seiwald <Annika.Seiwald@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Annika_Seiwald.html
+:ID: AnnikaSeiwald
+:END: 
+#+Name: AnnikaSeiwald
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Annika Seiwald
+#+Name: Note_AnnikaSeiwald
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Valerian Seling
+:PROPERTIES:
+:EMAIL: [[mailto: Valerian Seling <Valerian.Seling@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Valerian_Seling.html
+:ID: ValerianSeling
+:END: 
+#+Name: ValerianSeling
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Valerian Seling
+#+Name: Note_ValerianSeling
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Theresa Steiner
+:PROPERTIES:
+:EMAIL: [[mailto: Theresa Steiner <Theresa.Steiner@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Theresa_Steiner.html
+:ID: TheresaSteiner
+:END: 
+#+Name: TheresaSteiner
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Theresa Steiner
+#+Name: Note_TheresaSteiner
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Valentina Struber
+:PROPERTIES:
+:EMAIL: [[mailto: Valentina Struber <Valentina.Struber@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Valentina_Struber.html
+:ID: ValentinaStruber
+:END: 
+#+Name: ValentinaStruber
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Valentina Struber
+#+Name: Note_ValentinaStruber
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Felix Wenger
+:PROPERTIES:
+:EMAIL: [[mailto: Felix Wenger <Felix.Wenger@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Felix_Wenger.html
+:ID: FelixWenger
+:END: 
+#+Name: FelixWenger
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Felix Wenger
+#+Name: Note_FelixWenger
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Leon Zemmer
+:PROPERTIES:
+:EMAIL: [[mailto: Leon Zemmer <Leon.Zemmer@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Leon_Zemmer.html
+:ID: LeonZemmer
+:END: 
+#+Name: LeonZemmer
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Leon Zemmer
+#+Name: Note_LeonZemmer
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Fabian Zorzi
+:PROPERTIES:
+:EMAIL: [[mailto: Fabian Zorzi <Fabian.Zorzi@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Fabian_Zorzi.html
+:ID: FabianZorzi
+:END: 
+#+Name: FabianZorzi
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Fabian Zorzi
+#+Name: Note_FabianZorzi
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+
+
+* Mitarbeittabelle
+# In diese Tabelle trage ich die Mitarbeit während 10 Schulwochen ein. Danach kann ich mit der ersten Tabellenformel die aktuelle Durchschnittsnote errechnen. Diese kann ich in die obige Tabelle übernehmen. Nach 23 Wochen (dh einem Semster) müsste ich die Tabelle wieder leeren - hm, gibt es keine bessere Lösung? Eine Tabelle mit allen 43 Schulwochen wäre zu groß. Mit 'C-c TAB' kann ich einzelne Spalten ein- und ausklappen. Wie geht das mit mehreren Spalten?
+#+Name: Mitarbeit
+| Name               | Note | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|--------------------+------+---+---+---+---+---+---+---+---+---+----|
+| [[Lorenz Aschauer][Lorenz Aschauer]]    |    1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  1 |
+| [[Emma Gonschorek][Emma Gonschorek]]    |    1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  1 |
+| [[Marie Hofer][Marie Hofer]]        |    1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  1 |
+| [[Nena Langenfeld][Nena Langenfeld]]    |    1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  1 |
+| [[Bernhard Neureiter][Bernhard Neureiter]] |    2 | 2 | 2 | 2 | 2 | 2 | 1 | 1 | 2 | 2 |  2 |
+| [[Manuel Reiter][Manuel Reiter]]      |    2 | 2 | 1 | 1 | 2 | 2 | 1 | 2 | 1 | 2 |  2 |
+| [[Emma Riebler][Emma Riebler]]       |    1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  1 |
+| [[Annika Seiwald][Annika Seiwald]]     |    1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  1 |
+| [[Valerian Seling][Valerian Seling]]    |    2 | 2 | 2 | 2 | 1 | 2 | 2 | 1 | 1 | 1 |  1 |
+| [[Theresa Steiner][Theresa Steiner]]    |    1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  1 |
+| [[Valentina Struber][Valentina Struber]]  |    1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  1 |
+| [[Felix Wenger][Felix Wenger]]       |    1 | 2 | 1 | 2 | 1 | 2 | 1 | 2 | 1 | 1 |  1 |
+| [[Leon Zemmer][Leon Zemmer]]        |    1 | 1 | 2 | 1 | 1 | 1 | 2 | 1 | 2 | 1 |  2 |
+| [[Fabian Zorzi][Fabian Zorzi]]       |    2 | 1 | 2 | 1 | 2 | 2 | 1 | 1 | 2 | 1 |  2 |
+#+TBLFM: $2=vmean($3..$>);%.0f
+#+TBLFM: $1='(identity remote(2021-students,@@#$3))
+
+
+
+
+
+* Reflexionen
+
+** [[denote:20221226T162523][Grundgebete]]
+PERIOD: [2023-01-27 Fr 11:35]
+
+Die Klasse hat sich bei mir für ihr recht schlimmes Verhalten entschuldigt, sie hat einen kleinen Brief geschrieben. Leider hat die versprochene Besserung nicht lange angehalten; aber das wird schon noch, davon bin ich überzeugt.
+
+Thema heute: Vater unser.

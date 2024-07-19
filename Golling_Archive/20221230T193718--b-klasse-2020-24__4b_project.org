@@ -1,0 +1,580 @@
+#+title:      B Klasse 2020-24
+#+date:       [2022-12-30 Fr 19:37]
+#+filetags:   :4b:Project:
+#+identifier: 20221230T193718
+#+STARTUP: showall
+#+STARTUP: logdone
+#+STARTUP: lognotedone
+#+CATEGORY: golling
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width \linewidth
+#+OPTIONS: toc:nil
+#+export_file_name: ~/RoamNotes/exports/4b.html
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+
+* Jahresplanung
+[[denote:20230621T073603][04 Golling]]
+
+
+* 4b 07:45-08:35
+:PROPERTIES:
+:CUSTOM_ID: h:7dde735d-9b21-4e68-ad0f-58151bcdf164
+:END:
+<%%(org-class 2023 9 12 2024 7 6 2 23)>
+
+[[denote:20240130T101420][Themen vierte Klassen]]
+
+[[file:~/Dokumente/thechosen.txt]]
+
+The Chosen - S4 E2
+
+* 4b 07:45-08:35
+:PROPERTIES:
+:CUSTOM_ID: h:7c3a13ae-36d0-4756-a172-57037ad0e254
+:END:
+<%%(org-class 2023 9 13 2024 7 7 3)>
+
+[[denote:20240130T101420][Themen vierte Klassen]]
+
+[[file:~/Dokumente/thechosen.txt]]
+
+The Chosen - S4 E2
+
+
+* 4B [KV Erwin Essl]
+
+#+Name: 2021-students
+| First      | Last         | Name                  | Note | Mitarbeit | Heft | LZK |
+|------------+--------------+-----------------------+------+-----------+------+-----|
+| Maximilian | Fischhofer   | [[Maximilian Fischhofer][Maximilian Fischhofer]] |    2 |         2 |    2 |     |
+| Hannah     | Höllbacher   | [[Hannah Höllbacher][Hannah Höllbacher]]     |    1 |         1 |    1 |     |
+| Leon       | Keser        | [[Leon Keser][Leon Keser]]            |    3 |         3 |    3 |     |
+| Thomas     | Krallinger   | [[Thomas Krallinger][Thomas Krallinger]]     |    1 |         1 |    1 |     |
+| Fabian     | Lienbacher   | [[Fabian Lienbacher][Fabian Lienbacher]]     |    2 |         2 |    2 |     |
+| Lena       | Malter       | [[Lena Malter][Lena Malter]]           |    1 |         1 |    1 |     |
+| Sophia     | Mayr         | [[Sophia Mayr][Sophia Mayr]]           |    1 |         1 |    1 |     |
+| Florian    | Peroutka     | [[Florian Peroutka][Florian Peroutka]]      |    1 |         1 |    1 |     |
+| Andreas    | Rußegger     | [[Andreas Rußegger][Andreas Rußegger]]      |    2 |         2 |    2 |     |
+| Valerie    | Schönauer    | [[Valerie Schönauer][Valerie Schönauer]]     |    1 |         1 |    1 |     |
+| Marlene    | Seidl        | [[Marlene Seidl][Marlene Seidl]]         |    1 |         1 |    1 |     |
+| Anna       | Spitzelseder | [[Anna Spitzelseder][Anna Spitzelseder]]     |    1 |         1 |    1 |     |
+| Florian    | Steiner      | [[Florian Steiner][Florian Steiner]]       |    1 |         1 |    1 |     |
+| Karin      | Struber      | [[Karin Struber][Karin Struber]]         |    1 |         1 |    1 |     |
+| Lukas      | Wagenhofer   | [[Lukas Wagenhofer][Lukas Wagenhofer]]      |    2 |         2 |    2 |     |
+#+TBLFM: $4=vmean($5..$>);%.0f
+#+TBLFM: $3='(concat "[[" $1 " " $2 "][" $1 " " $2 "]]")
+#+TBLFM: $5='(identity remote(Mitarbeit,@@#$2))
+
+#+BEGIN_SRC python :var table=2021-students :results output raw
+  print('* Mitarbeit')
+  for student in table:
+      first = student[0]
+      last = student[1]
+      email = first + '.' + last + '@golling.schule'
+      print('** ' + first + ' ' + last + '')
+      print(':PROPERTIES:')
+      print(':EMAIL: ' '[[mailto: ' + first + ' ' + last + ' <' + email + '>]]')
+      print(':EXPORT_FILE_NAME: ' '~/RoamNotes/exports/'  + first +  '_'  + last +  '.html')
+      print(':ID: ' + first + '' + last + '')
+      print(':END: ')
+      print('#+Name: ' + first + '' + last + '')
+      print('|-------+-------+------+---------|')
+      print('| Datum | Topic | Note | Notizen |')
+      print('|-------+-------+------+---------|')
+      print('\n')
+      print('*** Note ' + first + ' ' + last + '')
+      print('#+Name: Note_' + first + '' + last + '')
+      print('|-----------+-------------+-----+-----------+------------|')
+      print('| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |')
+      print('|-----------+-------------+-----+-----------+------------|')
+      print('|         2 |           3 |   2 |         3 |        2.5 |')
+      print('#+TBLFM: $5=vmean($1..$4)')
+      print('\n')
+#+END_SRC
+
+#+RESULTS:
+* Mitarbeit
+** Maximilian Fischhofer
+:PROPERTIES:
+:EMAIL: [[mailto: Maximilian Fischhofer <Maximilian.Fischhofer@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Maximilian_Fischhofer.html
+:ID: MaximilianFischhofer
+:END: 
+#+Name: MaximilianFischhofer
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** [[denote:20230711T003213][[SW03] Sinn der Arbeit]]
+:PROPERTIES:
+:CAPTURED: [2023-09-26 Di 08:13]
+:CLASS: [2023-09-26 Di 08:10] 1. Stunde
+:END:
+
+Maxi stört den Unterricht: er faltet zwei (ziemlich große) Papierflieger, arbeitet so gut wie gar nicht mit, ... Wie soll ich das in Zukunft machen? Thomas, Maxi und Andreas in verschiedene Gruppen aufteilen? Gar keine Gruppenarbeit mehr? Ich hab die drei Schüler getrennt, Thomas, Maxi und Andi arbeiten alleine.
+
+Maxi schreibt die HO ab und lässt diese unterschreiben.
+
+*** Note Maximilian Fischhofer
+#+Name: Note_MaximilianFischhofer
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+** Hannah Höllbacher
+:PROPERTIES:
+:EMAIL: [[mailto: Hannah Höllbacher <Hannah.Höllbacher@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Hannah_Höllbacher.html
+:ID: HannahHöllbacher
+:END: 
+#+Name: HannahHöllbacher
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Hannah Höllbacher
+#+Name: Note_HannahHöllbacher
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Leon Keser
+:PROPERTIES:
+:EMAIL: [[mailto: Leon Keser <Leon.Keser@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Leon_Keser.html
+:ID: LeonKeser
+:END: 
+#+Name: LeonKeser
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+*** [[denote:20230711T002844][[SW01] Jesus ist die Quelle unseres Lebens]]
+:PROPERTIES:
+:CAPTURED: [2023-09-13 Mi 08:54]
+:CLASS: [2023-09-13 Mi 07:45] 1. Stunde
+:END:
+
+Leon hat gleich in der ersten Stunde wieder "ordentlich" begonnen. Er hat zuerst das gemeinsame Gebet gestört und während dem Unterricht mit einer "Papierklatsche" Lärm gemacht. Als ich die Klasse verlassen hatte, hat ein anderer (?) Schüler ebenfalls mit der Papierklatsche Lärm gemacht.
+
+Ich hab den Vorfall im schwarzen Buch vermerkt und werde noch die Mutter von leon verständigt.
+
+*** [[denote:20230711T003116][[SW02] Die Berufung als Quelle meines Lebens]]
+:PROPERTIES:
+:CAPTURED: [2023-09-20 Mi 09:01]
+:CLASS: [2023-09-20 Mi 07:45] 1. Stunde
+:END:
+
+Leon hat während den Unterricht durch das Falten eines Papierfliegers gestört. Dazu hat er einige Seiten aus seinem neuen Heft herausgerissen. Sein Verhalten kam besonders bei Maxi und Andreas "gut" an - den beiden ist jede Abwechslung recht.
+
+Was ist zu tun? Leon leidet unter ADHS (wie stark?). Andererseits kann dies keine Ausrede für störendes Verhalten sein. Ich werde mit seiner Mutter reden. (Ich denke dabei auch an Gabriel...)
+
+*** DONE [#A] Leons Mutter kontaktieren (SchoolFox)
+CLOSED: [2023-09-25 Mo 10:24]
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2023-09-25 Mo 10:24]
+- State "DONE"       from "TODO"       [2023-09-25 Mo 10:23]
+- State "DONE"       from "TODO"       [2023-09-25 Mo 10:20]
+:END:
+
+
+*** [[denote:20230711T003213][[SW03] Sinn der Arbeit]]
+:PROPERTIES:
+:CAPTURED: [2023-09-26 Di 08:26]
+:CLASS: [2023-09-26 Di 08:26] 1. Stunde
+:END:
+
+Leon redet viel, stört andere; schreibt nix. Ist dies seine Schwäche? Wie arbeitet er besser? Was braucht er? Wie sieht sein normales Schriftbild aus? Manuela hat mir eine D-SA gezeigt. Somit weiß ich, was ich von ihm verlangen bzw erwarten kann.
+
+*** [[denote:20230711T003559][[SW09] Hinduismus]]
+:PROPERTIES:
+:CAPTURED: [2023-10-25 Mi 09:28]
+:CLASS: [2023-10-25 Mi 08:00] 1. Stunde
+:END:
+
+Gespräch mit Manuela Gruder: Leon muss Versäumtes nachholen; va die Mindmap zum Thema "Konfuzius".
+
+
+*** Note Leon Keser
+#+Name: Note_LeonKeser
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Thomas Krallinger
+:PROPERTIES:
+:EMAIL: [[mailto: Thomas Krallinger <Thomas.Krallinger@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Thomas_Krallinger.html
+:ID: ThomasKrallinger
+:END: 
+#+Name: ThomasKrallinger
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Thomas Krallinger
+#+Name: Note_ThomasKrallinger
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Fabian Lienbacher
+:PROPERTIES:
+:EMAIL: [[mailto: Fabian Lienbacher <Fabian.Lienbacher@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Fabian_Lienbacher.html
+:ID: FabianLienbacher
+:END: 
+#+Name: FabianLienbacher
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Fabian Lienbacher
+#+Name: Note_FabianLienbacher
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Lena Malter
+:PROPERTIES:
+:EMAIL: [[mailto: Lena Malter <Lena.Malter@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Lena_Malter.html
+:ID: LenaMalter
+:END: 
+#+Name: LenaMalter
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Lena Malter
+#+Name: Note_LenaMalter
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Sophia Mayr
+:PROPERTIES:
+:EMAIL: [[mailto: Sophia Mayr <Sophia.Mayr@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Sophia_Mayr.html
+:ID: SophiaMayr
+:END: 
+#+Name: SophiaMayr
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Sophia Mayr
+#+Name: Note_SophiaMayr
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Florian Peroutka
+:PROPERTIES:
+:EMAIL: [[mailto: Florian Peroutka <Florian.Peroutka@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Florian_Peroutka.html
+:ID: FlorianPeroutka
+:END: 
+#+Name: FlorianPeroutka
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Florian Peroutka
+#+Name: Note_FlorianPeroutka
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Andreas Rußegger
+:PROPERTIES:
+:EMAIL: [[mailto: Andreas Rußegger <Andreas.Rußegger@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Andreas_Rußegger.html
+:ID: AndreasRußegger
+:END: 
+#+Name: AndreasRußegger
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Andreas Rußegger
+#+Name: Note_AndreasRußegger
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+** Valerie Schönauer
+:PROPERTIES:
+:EMAIL: [[mailto: Valerie Schönauer <Valerie.Schönauer@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Valerie_Schönauer.html
+:ID: ValerieSchönauer
+:END: 
+#+Name: ValerieSchönauer
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Valerie Schönauer
+#+Name: Note_ValerieSchönauer
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Marlene Seidl
+:PROPERTIES:
+:EMAIL: [[mailto: Marlene Seidl <Marlene.Seidl@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Marlene_Seidl.html
+:ID: MarleneSeidl
+:END: 
+#+Name: MarleneSeidl
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Marlene Seidl
+#+Name: Note_MarleneSeidl
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Anna Spitzelseder
+:PROPERTIES:
+:EMAIL: [[mailto: Anna Spitzelseder <Anna.Spitzelseder@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Anna_Spitzelseder.html
+:ID: AnnaSpitzelseder
+:END: 
+#+Name: AnnaSpitzelseder
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Anna Spitzelseder
+#+Name: Note_AnnaSpitzelseder
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Florian Steiner
+:PROPERTIES:
+:EMAIL: [[mailto: Florian Steiner <Florian.Steiner@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Florian_Steiner.html
+:ID: FlorianSteiner
+:END: 
+#+Name: FlorianSteiner
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Florian Steiner
+#+Name: Note_FlorianSteiner
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Karin Struber
+:PROPERTIES:
+:EMAIL: [[mailto: Karin Struber <Karin.Struber@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Karin_Struber.html
+:ID: KarinStruber
+:END: 
+#+Name: KarinStruber
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Karin Struber
+#+Name: Note_KarinStruber
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Lukas Wagenhofer
+:PROPERTIES:
+:EMAIL: [[mailto: Lukas Wagenhofer <Lukas.Wagenhofer@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Lukas_Wagenhofer.html
+:ID: LukasWagenhofer
+:END: 
+#+Name: LukasWagenhofer
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Lukas Wagenhofer
+#+Name: Note_LukasWagenhofer
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+
+
+
+
+* Mitarbeittabelle
+# In diese Tabelle trage ich die Mitarbeit während 10 Schulwochen ein. Danach kann ich mit der ersten Tabellenformel die aktuelle Durchschnittsnote errechnen. Diese kann ich in die obige Tabelle übernehmen. Nach 23 Wochen (dh einem Semster) müsste ich die Tabelle wieder leeren - hm, gibt es keine bessere Lösung? Eine Tabelle mit allen 43 Schulwochen wäre zu groß. Mit 'C-c TAB' kann ich einzelne Spalten ein- und ausklappen. Wie geht das mit mehreren Spalten?
+#+Name: Mitarbeit
+| Name                  | Note | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|-----------------------+------+---+---+---+---+---+---+---+---+---+----|
+| [[Maximilian Fischhofer][Maximilian Fischhofer]] |    2 | 2 | 2 | 3 | 2 | 3 | 2 | 3 | 3 | 2 |  3 |
+| [[Hannah Höllbacher][Hannah Höllbacher]]     |    1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  1 |
+| [[Leon Keser][Leon Keser]]            |    3 | 3 | 3 | 3 | 2 | 3 | 2 | 2 | 2 | 3 |  3 |
+| [[Thomas Krallinger][Thomas Krallinger]]     |    1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  1 |
+| [[Fabian Lienbacher][Fabian Lienbacher]]     |    2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 |  2 |
+| [[Lena Malter][Lena Malter]]           |    1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  1 |
+| [[Sophia Mayr][Sophia Mayr]]           |    1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  1 |
+| [[Florian Peroutka][Florian Peroutka]]      |    1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  1 |
+| [[Andreas Rußegger][Andreas Rußegger]]      |    2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 |  2 |
+| [[Valerie Schönauer][Valerie Schönauer]]     |    1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  1 |
+| [[Marlene Seidl][Marlene Seidl]]         |    1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  1 |
+| [[Anna Spitzelseder][Anna Spitzelseder]]     |    1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  1 |
+| [[Florian Steiner][Florian Steiner]]       |    1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  1 |
+| [[Karin Struber][Karin Struber]]         |    1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |  1 |
+| [[Lukas Wagenhofer][Lukas Wagenhofer]]      |    2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 |  2 |
+#+TBLFM: $2=vmean($3..$>);%.0f
+#+TBLFM: $1='(identity remote(2021-students,@@#$3))
+
+* Reflexionen
+
+** [[denote:20221226T113745][Dialog zw Theologie und Naturwissenschaften]]
+PERIOD: [2023-02-02 Do 08:40]
+Diese Stunde war echt grausam - fast die gesamte Klasse, va die Burschen haben mich komplett ingnoriert. Als ich "endlich" die Stimme erhob, haben sich ein paar der Burschen diebisch darüber gefreut (ist das nicht dämonisch?). Die Stunden in dieser Klasse lassen mich jedesmal erschöpft zurück.
+
+Mit Manuela Gruber haben wir darüber gesprochen. Die Kinder werden pro Jahrgang nicht braver, eher schlimmer. Ich muss auf mich schauen - so viele Lehrer geben erschöpft und ausgebrannt auf. Deshalb: schau auf dich, damit dir dies nicht passiert. An manchen Tagen kann Manuela mir helfen, sie wird dann draußen sitzen und jene Schüler abfangen, die ich hinausschicke.
+
+** Reaktion von Florian Steiner's Mutter über SchoolFox
+Verhalten von Florian hat sich eben nicht verbessert.
+Und daher ist auch die Note (3) gerechtfertigt.
+Alle Burschen - auch Florian - haben verstanden, dass sie sich ihre Note durch ein besseres Verhalten und bessere Mitarbeit im Unterricht verbessern können.
+
+** Gespräch mit Fr. Krallinger
+Reli-Note ist peinlich für Familie. Ich hab meinen Standpunkt dargelegt.
+[[denote:20230310T173200][Gespräch Krallinger]]
+
+
+** [[denote:20230323T100317][[SW28] Was ist das Kreuz für dich?]]
+PERIOD: [2023-03-23 Do 08:40]
+Das war heute emotional sehr anstrengend. Die erste Hälfte der Stunde war "buisness as usual": extrem störendes Verhalten der Schüler, teilweise bereits "Lehrer ignorieren". Ich hab in der Folge die Schüler "ignoriert", da schreien nix nutzt. Nach einer sehr emotionalen Rede meinerseits war der Rest der Stunde wesentlich besser.
+
+Thema: Sinn und Bedeutung der Arbeit für den Menschen - In D: Arbeitsbedingungen in den großen Textilfirmen; BO Tage der Schüler; Pleite von zwei Modefirmen; Pleite dreier großen Banken (SVB, noch eine andere US Bank, Credit Suisse, ...)
+
+Maxi ändert sich gar nicht - scheinbar ist die Reli Note Zuhause völlig egal. Schaut sich seine Mama überhaupt das Zeugnis an? Thomas und Lukas ändern sich zum Besseren.
+                                                 
+
+** [[denote:20230711T003213][[SW03] Sinn der Arbeit]]
+:PROPERTIES:
+:CAPTURED: [2023-09-26 Di 08:28]
+:CLASS: [2023-09-26 Di 08:28] 1. Stunde
+:END:
+ Maxi, Thomas und Andi fragen bei jeder Kleinigkeit nach. Und reagieren beleidigt, wenn ich ihnen mit Humor antworte und sie an ihre Selbständigkeit erinnere. Alle andere (mit Ausnahme von Fabian und Leon) arbeiten. Ich bewundere Lukas, der neben Leon und Fabian gut arbeiten kann.
+
+** [[denote:20230711T003213][[SW03] Sinn der Arbeit]]
+:PROPERTIES:
+:CAPTURED: [2023-09-27 Mi 08:06]
+:CLASS: [2023-09-27 Mi 08:00] 1. Stunde
+:END:
+Wie kontrolliere und benote ich die Gruppenarbeit der letzten beiden Tage? Eventuell kann ich vorschlagen, bis zu Beginn der nächsten Woche das Heft in Ordnung zu bringen.
+
+** [[denote:20230711T003702][[SW11] Chinesische Traditionen]]
+:PROPERTIES:
+:CAPTURED: [2023-10-11 Mi 08:26]
+:CLASS: [2023-10-11 Mi 07:45] 1. Stunde
+:END:
+
+Hm, was soll ich in den 4. Klassen tun? Da besteht im Grunde null Interesse am Fach. Egal, was ich vorschlage - kaum Mitarbeit. Wir schauen einen Film über "Konfuzius" (mit Auftrag); es wird sehr laut in der Klasse.
+
+Ab nächster Woche muss ich den "Stil" ändern: kurzer Film, dann viel Gruppenarbeit (Doppelseite gestalten).
+
+** [[denote:20230711T003421][[SW06] Menschenrechte]]
+:PROPERTIES:
+:CAPTURED: [2023-10-17 Di 08:28]
+:CLASS: [2023-10-17 Di 08:28] 1. Stunde
+:END:
+Was soll ich machen? Einen Film zeigen nutzt gar nix - alle Schüler reden laut. Null Interesse. Mache ich eine normale Stunde - keine Mitarbeit. Aufregen? Nutzt nix. Nächste Stunde müssen die Schüler eine Heftseite gestalten. 
+
+** [[denote:20230711T003559][[SW09] Hinduismus]]
+:PROPERTIES:
+:CAPTURED: [2023-10-25 Mi 08:24]
+:CLASS: [2023-10-25 Mi 07:45] 1. Stunde
+:END:
+Hm, was muss ich noch tun? Was ändern? Dieses ständige Quatschen, nicht Aufpassen, ... in der 4b. Jetzt ist's für diese Stunde schon zu spät.
+
+** Es reicht!
+:PROPERTIES:
+:CAPTURED: [2023-12-20 Mi 07:56]
+:CLASS: [2023-12-20 Mi 07:45] 1. Stunde
+:END:
+Ich betrete die Klasse; grüße; wir beten. Ich beginne den Film, und alle reden sehr laut. Keiner kommt auf die Idee, von selbst einmal ruhig zu werden.....
+
+Ich werde das nimmer machen. Ab nähstem Schuljahr verlasse ich die Schule. Hat den Vorteil eines gesicherten Einkommens und 9 Wochen Sommerferien, etc. Aber: die Kinder! Die Administration!
+
+Ich bitte eine Schülerin, meinen Schlüssel zu holen. Kommt zurück und knallt mir den Schlüssel vor die Nase. Ich mag nimmer!
+
+** [[denote:20230711T003903][[SW14] Ein neuer Himmel, eine neue Erde]]
+:PROPERTIES:
+:CAPTURED: [2024-01-24 Mi 14:11]
+:END:
+Hu, das war heute besonders anstregend - und zwar in allen Klassen, und während der Supplierstunde GSP in der 3a.
+
+** [[denote:20221230T193718::#h:7c3a13ae-36d0-4756-a172-57037ad0e254][B Klasse 2020-24::4b 07:45-08:35]]
+:PROPERTIES:
+:CAPTURED: [2024-04-24 Mi 08:24]
+:END:
+Ich frag mich: ob die Schüler (zB der 4b) nicht mehr Momente brauchen, wo sie miteinander reden können? Erlebnisse aus ihrem Alltag erzählen können? Dh Freundschaften vertiefen können?

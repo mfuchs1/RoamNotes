@@ -1,0 +1,18 @@
+:PROPERTIES:
+:CUSTOM_ID: h:25e0f76d-69f8-4f05-b048-4b8393beb0a3
+:END:
+#+title:      Agenda
+#+date:       [2024-07-17 Mi 16:36]
+#+filetags:   :emacs:
+#+identifier: 20240717T163657
+#+CATEGORY: agenda
+
+* Stundenplan
+
+* Tasks
+
+** TODO Papagei füttern
+DEADLINE: <2024-07-17 Mi 18:00>
+
+
+* TODOs

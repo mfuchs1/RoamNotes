@@ -1,0 +1,115 @@
+#+title:      Pädagogische Konferenz
+#+date:       [2024-03-04 Mo 15:35]
+#+filetags:   :konferenz:
+#+identifier: 20240304T153549
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width \linewidth
+#+OPTIONS: toc:nil
+#+export_file_name: ~/RoamNotes/exports/Konferenz.html
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+
+* Begrüßung
+Danke für die MINT-Projekte (T-Shirts, Brot backen, ...)
+
+Gratulation an GBK
+
+Dienstpflichten: Beginn und Ende der Stunde
+Disziplin bei Klassenfahrten
+Klassen nächstes Jahr
+
+* Termine
+TLM 6.3.
+WS Click und Check Plan im Konferenzzimmer
+Mo 11.3. Zeitzeugen 4abc 1+2 Stunde (Musiksaal)
+15.3. TS Matten auslegen Tennengauer Versicherung
+
+Ostermesse 22.3. Abmarsch Schule 11h30; Entlassung bei der Schule
+
+14.04. Raika Golling nutzt Turnsaal, matten auslegen
+
+Sylvia hat Termine in Kalender eingetragen (outlook).
+
+* Dienstpflichten und Disziplin
+Klassen aufräumen! Noch einmal besprechen mit Kindern, und umsetzen. (wo konkret? welche Klasse? ev direkt mit KV aufnehmen?)
+--> Mittagsaufsicht: in welcher Klasse "sieht es aus"? Und jener, der die Schüler am NM abholt. Essensreste wie Pizzaschachteln gehören in die Mistkübel bei den Rädern.
+
+Respekt dem Reinigungspersonal gegenüber!
+
+Handy: positive Rückmeldung von Eltern. Erstklässler: Mama will nicht, dass Handy im Spint ist - Schloss hilft! Handygebot gilt auch bei den Spint.
+
+"Wei i tua wi i wü"-Motto - allgemein. Wir machen was aus (Konferenz), und einzelne machen was sie wollen.
+
+Unterrichtsbeginn und -ende pünktlich! (Bsp. Unsinniger Donnerstag: nicht alle blieben bis 12h30 Uhr; war ein Erstversuch - vll nächstes Mal bringen auch wir uns ein).
+
+Bitte Feedback geben wegen "Unsinniger Donnerstag" - vielleicht war es etwas lang?
+
+* Stellenplan
+SZ - 204
+10 Klassen
+keine AO Schüler
+Stunden - 489 + 13 Mint
+1a Magdalena (12m/11w)
+1b Gertraud Ellmauer (11m/11w)
+2c Eva Hofer
+
+Da Christian geht, muss ein zweiter Kollege gehen, damit jemand PH + CH Stunden übernehmen kann
+Überhang an Geschichte und Geografie
+
+* Q Handbuch
+Konfliktregelung
+
+Gertraud hats vom letzten Mal zusammengefasst (Folie)
+
+Dani, Barbara, Gertraud, und ich arbeiten daran weiter.
+
+* Planung Raumaufteilung
+von Julia
+
+Plan mit Ausstattung (geplant, vorgesehen)
+
+Smartboards haben nicht 4 Jahre gehalten, manche wurden schon 3x getauscht.
+
+Gemeinde erhalten vom Bund weniger Geld; dh wir müssen schauen, dass wir auf (noch) längere Sicht planen müssen. Die nächsten drei Jahre sind budgetiert (vier Tafeln pro Jahr). Nur was kauppt ist? Tafel, Board in der 3a ist kaputt.
+
+Gruppenraum K1: KG ist zu klein - ev in unsere Schule der Waldkindergarten?
+Wir wollen es nicht ... aber ... nach nächster GRSitzung (Wahl) wissen wir mehr.
+
+(Wer benutzt die leere 4c und beschmiert die Tische mit Penisse? es geht um Mathematik ... die größere Gruppe sollte eher in die Klassen beim Turnsaal gehen. c-Klasse bleibt in ihrer Klasse? noch offen ...)
+
+Klasse beim Turnsaal: für GZ, versperrbarer Schrank
+
+erster Stock: 1 IT Saal mit Rechner, anderer für Laptops mit zweiten Bildschirm.
+
+zweiter Stock: Gruppenraum - keine Rechner mehr
+zwei Klassen
+
+dritter Stock: Reserveklasse ist leer
+
+Welche Räume für AHS-Gruppen?
+- Gruppenraum
+- Turnsaal Klasse
+
+Physikraum als MINT Raum.
+Chemieraum: für Experimenet (da Abzug)?
+
+Bücherei: keine Schülerrechner mehr; Rechner + neuer Beamer + Drucker (für Etiketten, Farbe)
+
+
+* Allfälliges
+neue Homepage - VS macht es ohne uns.
+Elfi - Neffe macht Homepages.
+
+Lehrerausflug?
+- Bowling in Salzburg
+  
+- Palmen auf den Almen (Sportgastein)
+  9.3. / 7:42 oder 8:33 Samstag
+
+- Christian / Charity: wie "Wings of Life" in der (vor)letzten Schulwoche (Elternverein, Rettungsorg., wer sponsort?); welche Route?
+  Termin - einige Schüler wegen Theater (Mittwoch, vorletzte SW) --> Freitag / vorletzte SW.
+
+- Zementsäcke für Bänke kommen, beim Tragen helfen.
+
+- Composter aus Holz bauen?

@@ -1,0 +1,13 @@
+#+title:      Hybris und Nemesis
+#+date:       [2023-12-07 Do 17:18]
+#+filetags:   :biblio:mausfeld2023hybris:
+#+identifier: 20231207T171824
+
+#+begin_src bibtex
+@book{mausfeld2023hybris,
+  title={Hybris und Nemesis: Wie uns die Entzivilisierung von Macht in den Abgrund f{\"u}hrt-Einsichten aus 5000 Jahren},
+  author={Mausfeld, Rainer},
+  year={2023},
+  publisher={Westend Verlag GmbH}
+}
+#+end_src

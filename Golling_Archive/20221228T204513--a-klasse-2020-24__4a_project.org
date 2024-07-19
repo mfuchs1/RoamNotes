@@ -1,0 +1,641 @@
+#+title:      A Klasse 2020-24
+#+date:       [2022-12-28 Mi 20:45]
+#+filetags:   :4a:Project:
+#+identifier: 20221228T204513
+#+STARTUP: showall
+#+STARTUP: logdone
+#+STARTUP: lognotedone
+#+CATEGORY: golling
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width \linewidth
+#+OPTIONS: toc:nil
+#+export_file_name: ~/RoamNotes/exports/4a.html
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+
+* Jahresplanung
+[[denote:20230621T073603][04 Golling]]
+
+
+* 4a 10:40-11:30
+:PROPERTIES:
+:CUSTOM_ID: h:7b9e2eb5-775f-4306-98b1-72622367630c
+:END:
+<%%(org-class 2023 9 11 2024 7 5 1 21)>
+
+[[denote:20240130T101420][Themen vierte Klassen]]
+
+The Chosen S4 E2 (E3 ist heftig da Rama am Ende stirbt, getötet von einem römischen Hauptmann).
+
+Anmelden: [[file:~/Dokumente/thechosen.txt]]
+
+Diese Serie anzuschauen bringt gar nichts: jeder macht Lärm; also muss ich mir wieder etwas anderes überlegen. Welches Thema? Das ist so schwer, da sie nichts interessiert. Wie gehen meine Kollegen mit solchen Situationen um? (Siehe 3c) 
+
+Soll ich Marie-Luise fragen? Eher nicht, bringt nun so gut wie nichts mehr - und macht nur ein schlechtes Bild über mich. Reden hilft nicht; schimpfen schon gar nicht. Es interessiert sie nichts mehr - Null Bock.
+
+
+* 4a 08:40-09:30
+<%%(org-class 2023 9 12 2024 7 6 2 21)>
+
+"The Chosen" S4 E2 fertig schauen;
+Eventuell HÜ nachher? Lernen?
+
+
+* 4A [KV Magdalena Pürrer]
+
+#+Name: 2021-students
+| First      | Last        | Name                  | Note | Mitarbeit | Heft | PPP |
+|------------+-------------+-----------------------+------+-----------+------+-----|
+| Stefan     | Gonschorek  | [[Stefan Gonschorek][Stefan Gonschorek]]     |    1 |         1 |    1 |   1 |
+| Manuel     | Irrnberger  | [[Manuel Irrnberger][Manuel Irrnberger]]     |    1 |         1 |    1 |   1 |
+| Tobias     | Kappel      | [[Tobias Kappel][Tobias Kappel]]         |    1 |         1 |    1 |   1 |
+| Luis       | Korten      | [[Luis Korten][Luis Korten]]           |    3 |         3 |    3 |   4 |
+| Adrian     | Lamprecht   | [[Adrian Lamprecht][Adrian Lamprecht]]      |    4 |         4 |    3 |   4 |
+| Noah       | Linhuber    | [[Noah Linhuber][Noah Linhuber]]         |    1 |         1 |    1 |   1 |
+| Hanna      | Maier       | [[Hanna Maier][Hanna Maier]]           |    1 |         1 |    1 |   1 |
+| Melissa    | Neudorfer   | [[Melissa Neudorfer][Melissa Neudorfer]]     |    1 |         1 |    1 |   1 |
+| Arthur     | Schattauer  | [[Arthur Schattauer][Arthur Schattauer]]     |    2 |         1 |    1 |   3 |
+| Fabian     | Schober     | [[Fabian Schober][Fabian Schober]]        |    1 |         1 |    1 |   1 |
+| Kristina   | Seidl       | [[Kristina Seidl][Kristina Seidl]]        |    1 |         1 |    1 |   1 |
+| Anna       | Steiner     | [[Anna Steiner][Anna Steiner]]          |    1 |         1 |    1 |   1 |
+| Andre-Leon | Stippler    | [[Andre-Leon Stippler][Andre-Leon Stippler]]   |    1 |         1 |    1 |   1 |
+| Nico       | Straßer     | [[Nico Straßer][Nico Straßer]]          |    3 |         3 |    3 |   4 |
+| Emma       | Sunkler     | [[Emma Sunkler][Emma Sunkler]]          |    1 |         1 |    1 |   1 |
+| Christina  | Unterrainer | [[Christina Unterrainer][Christina Unterrainer]] |    1 |         1 |    1 |   1 |
+| Thomas     | Wenger      | [[Thomas Wenger][Thomas Wenger]]         |    1 |         1 |    1 |   1 |
+| Lena       | Zorzi       | [[Lena Zorzi][Lena Zorzi]]            |    1 |         1 |    1 |   1 |
+#+TBLFM: $4=vmean($5..$>);%.0f
+#+TBLFM: $3='(concat "[[" $1 " " $2 "][" $1 " " $2 "]]")
+#+TBLFM: $5='(identity remote(Mitarbeit,@@#$2))
+#+TBLFM: $7='(identity remote(2021-presentation-marks,@@#$2))
+
+#+BEGIN_SRC python :var table=2021-students :results output raw
+  print('* Mitarbeit')
+  for student in table:
+      first = student[0]
+      last = student[1]
+      email = first + '.' + last + '@golling.schule'
+      print('** ' + first + ' ' + last + '')
+      print(':PROPERTIES:')
+      print(':EMAIL: ' '[[mailto: ' + first + ' ' + last + ' <' + email + '>]]')
+      print(':EXPORT_FILE_NAME: ' '~/RoamNotes/exports/'  + first +  '_'  + last +  '.html')
+      print(':ID: ' + first + '' + last + '')
+      print(':END: ')
+      print('#+Name: ' + first + '' + last + '')
+      print('|-------+-------+------+---------|')
+      print('| Datum | Topic | Note | Notizen |')
+      print('|-------+-------+------+---------|')
+      print('\n')
+      print('*** Note ' + first + ' ' + last + '')
+      print('#+Name: Note_' + first + '' + last + '')
+      print('|-----------+-------------+-----+-----------+------------|')
+      print('| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |')
+      print('|-----------+-------------+-----+-----------+------------|')
+      print('|         2 |           3 |   2 |         3 |        2.5 |')
+      print('#+TBLFM: $5=vmean($1..$4)')
+      print('\n')
+#+END_SRC
+
+#+RESULTS:
+* Mitarbeit
+** Stefan Gonschorek
+:PROPERTIES:
+:EMAIL: [[mailto: Stefan Gonschorek <Stefan.Gonschorek@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Stefan_Gonschorek.html
+:ID: StefanGonschorek
+:END: 
+#+Name: StefanGonschorek
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Stefan Gonschorek
+#+Name: Note_StefanGonschorek
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Manuel Irrnberger
+:PROPERTIES:
+:EMAIL: [[mailto: Manuel Irrnberger <Manuel.Irrnberger@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Manuel_Irrnberger.html
+:ID: ManuelIrrnberger
+:END: 
+#+Name: ManuelIrrnberger
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Manuel Irrnberger
+#+Name: Note_ManuelIrrnberger
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Tobias Kappel
+:PROPERTIES:
+:EMAIL: [[mailto: Tobias Kappel <Tobias.Kappel@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Tobias_Kappel.html
+:ID: TobiasKappel
+:END: 
+#+Name: TobiasKappel
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Tobias Kappel
+#+Name: Note_TobiasKappel
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Luis Korten
+:PROPERTIES:
+:EMAIL: [[mailto: Luis Korten <Luis.Korten@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Luis_Korten.html
+:ID: LuisKorten
+:END: 
+#+Name: LuisKorten
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Luis Korten
+#+Name: Note_LuisKorten
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Adrian Lamprecht
+:PROPERTIES:
+:EMAIL: [[mailto: Adrian Lamprecht <Adrian.Lamprecht@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Adrian_Lamprecht.html
+:ID: AdrianLamprecht
+:END: 
+#+Name: AdrianLamprecht
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Adrian Lamprecht
+#+Name: Note_AdrianLamprecht
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Noah Linhuber
+:PROPERTIES:
+:EMAIL: [[mailto: Noah Linhuber <Noah.Linhuber@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Noah_Linhuber.html
+:ID: NoahLinhuber
+:END: 
+#+Name: NoahLinhuber
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Noah Linhuber
+#+Name: Note_NoahLinhuber
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Hanna Maier
+:PROPERTIES:
+:EMAIL: [[mailto: Hanna Maier <Hanna.Maier@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Hanna_Maier.html
+:ID: HannaMaier
+:END: 
+#+Name: HannaMaier
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Hanna Maier
+#+Name: Note_HannaMaier
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Melissa Neudorfer
+:PROPERTIES:
+:EMAIL: [[mailto: Melissa Neudorfer <Melissa.Neudorfer@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Melissa_Neudorfer.html
+:ID: MelissaNeudorfer
+:END: 
+#+Name: MelissaNeudorfer
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Melissa Neudorfer
+#+Name: Note_MelissaNeudorfer
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Arthur Schattauer
+:PROPERTIES:
+:EMAIL: [[mailto: Arthur Schattauer <Arthur.Schattauer@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Arthur_Schattauer.html
+:ID: ArthurSchattauer
+:END: 
+#+Name: ArthurSchattauer
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Arthur Schattauer
+#+Name: Note_ArthurSchattauer
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Fabian Schober
+:PROPERTIES:
+:EMAIL: [[mailto: Fabian Schober <Fabian.Schober@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Fabian_Schober.html
+:ID: FabianSchober
+:END: 
+#+Name: FabianSchober
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Fabian Schober
+#+Name: Note_FabianSchober
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Kristina Seidl
+:PROPERTIES:
+:EMAIL: [[mailto: Kristina Seidl <Kristina.Seidl@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Kristina_Seidl.html
+:ID: KristinaSeidl
+:END: 
+#+Name: KristinaSeidl
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Kristina Seidl
+#+Name: Note_KristinaSeidl
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Anna Steiner
+:PROPERTIES:
+:EMAIL: [[mailto: Anna Steiner <Anna.Steiner@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Anna_Steiner.html
+:ID: AnnaSteiner
+:END: 
+#+Name: AnnaSteiner
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Anna Steiner
+#+Name: Note_AnnaSteiner
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Andre-Leon Stippler
+:PROPERTIES:
+:EMAIL: [[mailto: Andre-Leon Stippler <Andre-Leon.Stippler@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Andre-Leon_Stippler.html
+:ID: Andre-LeonStippler
+:END: 
+#+Name: Andre-LeonStippler
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Andre-Leon Stippler
+#+Name: Note_Andre-LeonStippler
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Nico Straßer
+:PROPERTIES:
+:EMAIL: [[mailto: Nico Straßer <Nico.Straßer@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Nico_Straßer.html
+:ID: NicoStraßer
+:END: 
+#+Name: NicoStraßer
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+*** [[denote:20230711T003732][[SW12] Biblische Propheten]]
+:PROPERTIES:
+:CAPTURED: [2024-01-08 Mo 12:51]
+:END:
+Folgende Fragen an Nico (PPP zu Nathan und David):
+- Was sind deine Quellen?
+  Erste Folie: direkt aus Wikipedia
+  Und die anderen Folien? ChatGPT?
+
+- Der Rest: Was hat dies mit dem Nathan aus der Bibel zu tun?
+  
+- Woher hast du diese Erkenntnisse über Nathan?
+
+- Arbeitsplatz des Propheten?
+
+(Ich könnte statt "Nathan" "Matthias Fuchs" einsetzen; der ganze Text würde auch einen Sinn ergeben - oder keinen, wie es Nico treffend sagte.)
+
+- Wo nimmst du in deiner PPP Bezug auf die Bibelstelle?
+
+Nico war kooperativ und hat mir seine Quellen gesagt. Er macht die PPP mit seinem Mitschüler neu. 
+
+*** Note Nico Straßer
+#+Name: Note_NicoStraßer
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+** Emma Sunkler
+:PROPERTIES:
+:EMAIL: [[mailto: Emma Sunkler <Emma.Sunkler@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Emma_Sunkler.html
+:ID: EmmaSunkler
+:END: 
+#+Name: EmmaSunkler
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Emma Sunkler
+#+Name: Note_EmmaSunkler
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Christina Unterrainer
+:PROPERTIES:
+:EMAIL: [[mailto: Christina Unterrainer <Christina.Unterrainer@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Christina_Unterrainer.html
+:ID: ChristinaUnterrainer
+:END: 
+#+Name: ChristinaUnterrainer
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Christina Unterrainer
+#+Name: Note_ChristinaUnterrainer
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Thomas Wenger
+:PROPERTIES:
+:EMAIL: [[mailto: Thomas Wenger <Thomas.Wenger@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Thomas_Wenger.html
+:ID: ThomasWenger
+:END: 
+#+Name: ThomasWenger
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Thomas Wenger
+#+Name: Note_ThomasWenger
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+** Lena Zorzi
+:PROPERTIES:
+:EMAIL: [[mailto: Lena Zorzi <Lena.Zorzi@golling.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Lena_Zorzi.html
+:ID: LenaZorzi
+:END: 
+#+Name: LenaZorzi
+|-------+-------+------+---------|
+| Datum | Topic | Note | Notizen |
+|-------+-------+------+---------|
+
+
+*** Note Lena Zorzi
+#+Name: Note_LenaZorzi
+|-----------+-------------+-----+-----------+------------|
+| Mitarbeit | Heft / Buch | LZK | Sonstiges | Gesamtnote |
+|-----------+-------------+-----+-----------+------------|
+|         2 |           3 |   2 |         3 |        2.5 |
+#+TBLFM: $5=vmean($1..$4)
+
+
+
+
+* Mitarbeittabelle
+# In diese Tabelle trage ich die Mitarbeit während 10 Schulwochen ein. Danach kann ich mit der ersten Tabellenformel die aktuelle Durchschnittsnote errechnen. Diese kann ich in die obige Tabelle übernehmen. Nach 23 Wochen (dh einem Semster) müsste ich die Tabelle wieder leeren - hm, gibt es keine bessere Lösung? Eine Tabelle mit allen 43 Schulwochen wäre zu groß. Mit 'C-c TAB' kann ich einzelne Spalten ein- und ausklappen. Wie geht das mit mehreren Spalten?
+#+Name: Mitarbeit
+| Name                  | Note | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|-----------------------+------+---+---+---+---+---+---+---+---+---+----|
+| [[Stefan Gonschorek][Stefan Gonschorek]]     | 1    |   |   |   |   |   |   |   |   |   |    |
+| [[Manuel Irrnberger][Manuel Irrnberger]]     | 1    |   |   |   |   |   |   |   |   |   |    |
+| [[Tobias Kappel][Tobias Kappel]]         | 1    |   |   |   |   |   |   |   |   |   |    |
+| [[Luis Korten][Luis Korten]]           | 3    |   |   |   |   |   |   |   |   |   |    |
+| [[Adrian Lamprecht][Adrian Lamprecht]]      | 4    |   |   |   |   |   |   |   |   |   |    |
+| [[Noah Linhuber][Noah Linhuber]]         | 1    |   |   |   |   |   |   |   |   |   |    |
+| [[Hanna Maier][Hanna Maier]]           | 1    |   |   |   |   |   |   |   |   |   |    |
+| [[Melissa Neudorfer][Melissa Neudorfer]]     | 1    |   |   |   |   |   |   |   |   |   |    |
+| [[Arthur Schattauer][Arthur Schattauer]]     | 1    |   |   |   |   |   |   |   |   |   |    |
+| [[Fabian Schober][Fabian Schober]]        | 1    |   |   |   |   |   |   |   |   |   |    |
+| [[Kristina Seidl][Kristina Seidl]]        | 1    |   |   |   |   |   |   |   |   |   |    |
+| [[Anna Steiner][Anna Steiner]]          | 1    |   |   |   |   |   |   |   |   |   |    |
+| [[Andre-Leon Stippler][Andre-Leon Stippler]]   | 1    |   |   |   |   |   |   |   |   |   |    |
+| [[Nico Straßer][Nico Straßer]]          | 3    |   |   |   |   |   |   |   |   |   |    |
+| [[Emma Sunkler][Emma Sunkler]]          | 1    |   |   |   |   |   |   |   |   |   |    |
+| [[Christina Unterrainer][Christina Unterrainer]] | 1    |   |   |   |   |   |   |   |   |   |    |
+| [[Thomas Wenger][Thomas Wenger]]         | 1    |   |   |   |   |   |   |   |   |   |    |
+| [[Lena Zorzi][Lena Zorzi]]            | 1    |   |   |   |   |   |   |   |   |   |    |
+#+TBLFM: $1='(identity remote(2021-students,@@#$3))
+#+TBLFM: $2=vmean($3..$>);%.0f
+
+* PPP
+#+Name: 2021-presentation-marks
+| Name                  | Notes | Presentation          | Percentage | Reason |
+|-----------------------+-------+-----------------------+------------+--------|
+| [[Stefan Gonschorek][Stefan Gonschorek]]     |     2 | Jesaja                |            |        |
+| [[Manuel Irrnberger][Manuel Irrnberger]]     |     2 | Jesaja                |            |        |
+| [[Tobias Kappel][Tobias Kappel]]         |     1 | Jeremia               |            |        |
+| [[Luis Korten][Luis Korten]]           |     3 | Nathan (nicht fetig)  |            |        |
+| [[Adrian Lamprecht][Adrian Lamprecht]]      |     5 | (fehlt)               |            |        |
+| [[Noah Linhuber][Noah Linhuber]]         |     1 | Jeremia               |            |        |
+| [[Hanna Maier][Hanna Maier]]           |     2 | Mirjam                |            |        |
+| [[Melissa Neudorfer][Melissa Neudorfer]]     |     2 | Mirjam                |            |        |
+| [[Arthur Schattauer][Arthur Schattauer]]     |     1 | Nathan                |            |        |
+| [[Fabian Schober][Fabian Schober]]        |     1 | Jeremia               |            |        |
+| [[Kristina Seidl][Kristina Seidl]]        |     2 | Jona                  |            |        |
+| [[Anna Steiner][Anna Steiner]]          |     2 | Mirjam                |            |        |
+| [[Andre-Leon Stippler][Andre-Leon Stippler]]   |     2 | Amos                  |            |        |
+| [[Nico Straßer][Nico Straßer]]          |     3 | Nathan (nicht fertig) |            |        |
+| [[Emma Sunkler][Emma Sunkler]]          |     2 | Jona                  |            |        |
+| [[Christina Unterrainer][Christina Unterrainer]] |     2 | Jona                  |            |        |
+| [[Thomas Wenger][Thomas Wenger]]         |     2 | Jesaja                |            |        |
+| [[Lena Zorzi][Lena Zorzi]]            |     2 | Amos                  |            |        |
+#+TBLFM: $1='(identity remote(2021-students,@@#$3))
+
+* Reflexionen
+
+** [[denote:20230403T101428][Auferstehung]]
+PERIOD: [2023-04-12 Mi 09:35]
+
+Die Stunde in der 3a war anstrengend - aber auf jeden Fall besser als jene in der 4b. Die Kinder stellen (prinzipiell) alles in Frage. Das ist an sich gut und begrüßenswert. In Geschichte lernen sie z.B. Quellenkritik. Warum hingegen nehmen sie aber im Allgemeinen an, dass alles wissenschaftliche sehr leicht für wahr gehalten wird? Hingegen sind die Dinge, welche über Jesus erzählt werden - zuerst einmal sehr "umstritten, absolut in Frage zu stellen"? "Es war ja damals niemamd dabei, also wissen wir nix davon."
+
+Warum will man sich absichtlich den Ast abschneiden, auf dem man sitzt? 
+
+Wenn ein Wissenschaftler etwas sagt, dann ist es wahr? Wenn Gott sich offenbart, dann stellt man prinzipiell alles in Frage?
+
+Unter den Kollegen wurde ich milde belächtelt, als ich sagte, dass Dinge wie Auferstehung u.ä. Tatsachen sind, und nicht erfundene Märchen. Generell meinte sie, dass die Bibel "Märchen" erzählen. Allerdings wussten sie auch kaum etwas über den historischen Befund über die Schriftquellen: 8 Handschriften vom "Gallischen Krieg" (Julius Cäsar) aus dem 10. Jhdt; 5668 Handschriften des NT aus dem 1. Jhdt.
+
+Aber warum wundere ich mich auch darüber? Diese Haltung ist doch wirklich nicht erstaunlich, leider. Viel schmerzhafter ist es, wenn man diese Einstellung innerhalb der Kirche findet oder sogar offizielle Vertreter wie Priester (die in der Ausbildung tätig sind), der Meinung sind - Jesus sei nicht wirklich auferstanden. Habe ich so in einer Osterpredigt unseres Pfarrers gehört.
+
+** Verhalten allgemein in meinem Unterricht
+PERIOD: [2023-05-31 Mi 09:35]
+
+Ach, diese Kids - kein normaler Unterricht mehr möglich. Während ich rede und versuche, eine normale Stunde zu machen, wird gequatscht, ich als Lehrer werde ignoriert, jeder verweigert die Mitarbeit. Da würde es gar nicht helfen, philosophische oder ethische Themen anzusprechen. Denn heute ging es nicht einmal um Religion: wir haben einen wunderschönen Film "Rising Hope" besprochen. Themen wären "Sehnsucht, Ziel, Sinn" gewesen, eine super Vorbereitung für die Firmung, zum Heiligen Geist. Aber - nix, gar nix, kommt von den Schülern zurück.
+
+Also habe ich den Unetrricht unterbrochen, Kiddies machen HÜ oder lernen. Mir reicht es endgültig. Ich mache dieses Schuljahr noch fertig und dann? Ich weiß nicht...
+
+Es wird mir wohl nichts anderes übrig bleiben, als meinem Beruf und dieser Schule treu zu bleiben; die Kids haben gar nicht einmal wahrgenommen, was passiert ist. Also hab ich's erklärt - hab wenig Hoffnung und erwarte auch nicht, dass sich irgend etwas ändern wird.
+
+** [[denote:20230711T003636][[SW10] Buddhismus]]
+:PROPERTIES:
+:CAPTURED: [2023-11-13 Mo 11:00]
+:CLASS: [2023-11-13 Mo 10:40] 4. Stunde
+:END:
+
+Wie immer: Luis und Adrian machen gar nichts - komplett "verpeilt". Hab mit Magdalena gesprochen: sie stehen beide neben der Spur. Welche Maßnahmen, Konsequenzen sollten ergriffen werden. Denn es betrifft nicht nur mich - auch in Hauptfächern gibt's eine ähnliche Situation (cf Barbara Essl, Nina, Daniela, ...). Werden Noten einen "Erfolg" zeigen?
+
+Wahrscheinlich ist tatsächlich am besten, ich lasse die Schüler selbständig arbeiten. Denn wenn etwas da ist, dann kann ich es benoten. Kommt nichts - habe ich es schwarz auf weiß und kann dadurch ohne Probleme eine dementsprechende Beurteilung belegen.
+
+Egal - heute sammle ich die Hefte ein. 
+
+** [[denote:20230711T003758][[SW13] Moderne Propheten]]
+:PROPERTIES:
+:CAPTURED: [2023-12-04 Mo 11:15]
+:CLASS: [2023-12-04 Mo 10:40] 4. Stunde
+:END:
+
+Und wie immer: die Schüler reden miteinander, sind schon bei der PPP, obwohl sie noch nicht einmal mit dem Lesen fertig sind. Fragen: was soll ich tun? und haben noch nicht einmal die Angabe gelesen. Einfach: Null Bock! Lehrer, mach es für mich!
+
+Nicco & Co machen nix? Aufregen? Nein - wozu? Arthur und Nicco (Gruppe) müssen ihre PPP schriftlich verbessern. Kommt nix - schlechte Note.
+
+** Propheten
+:PROPERTIES:
+:CAPTURED: [2023-12-11 Mo 11:29]
+:CLASS: [2023-12-11 Mo 10:40] 4. Stunde
+:END:
+
+Wie "immer": Nicco, Adrian und Luis machen sich eine lustige Stunde, arbeiten äußerst undisziplinert; werden nach Leistung benotet. 
+
+** [[denote:20230711T003732][[SW12] Biblische Propheten]]
+:PROPERTIES:
+:CAPTURED: [2024-01-29 Mo 09:22]
+:END:
+Nico und Luis haben endlich die beiden PPP's über Anne Frank und Nathan nachgeliefert. Von Adrian kam noch nichts.
+
+Die PPP über Anne Frank ist (scheinbar) wirklich von ihnen (Luis und Nico).
+
+Die PPP über Nathan haben die Schüler eine ähniche Arbeit wie zuletzt abgeliefert. Der Sprachgebrauch passt nicht zu den Schülern (zu geschwollen; klingt eher nach ChatGPT, oder kopiert aus dem Internet / Foren, ...). Es kommt mehrmals der Ausdruck "Nathan in der Bibel" vor, als ob es sich um einen Eigennamen handeln würde.
+
+Tipp von Christoph: unterstreiche ein paar der Schlüsselworte und lasse sie dir von Luis und Nico erklären.
+
+** [[denote:20230711T003903][[SW14] Ein neuer Himmel, eine neue Erde]]
+:PROPERTIES:
+:CAPTURED: [2024-01-30 Di 09:21]
+:END:
+Es ist so schwer. Totales Desinteresse, aber viel stören. Nachdem wirklich niemamd auch nur irgendwas zum Unterricht beigetragen hat: jeder soll mindestens 5 Themen notieren, welche die Schüler bearbeiten werden. "Komischerweise" kamen zB von Niko, Adrian und Luis va Themen aus der Bibel. Wundert das?
+
+Bin gespannt, was da kommen wird.
+
+Ich werde die Themen ordnen und dann mit den Schülern umsetzen. Hier die vollständige Liste:
+[[denote:20240130T101420][Themen vierte Klassen]]
+
+** [[denote:20221228T204513][A Klasse 2020-24]]
+:PROPERTIES:
+:CAPTURED: [2024-03-12 Di 09:16]
+:END:
+Wow, was soll ich noch machen? Egal - es interessiert sie nicht; zumindest ein Großteil der Klasse. Thema, Einzelarbeit, in kleinen Gruppen, ... wa soll ich noch ändern?
+
+** [[denote:20221228T204513][A Klasse 2020-24]]
+:PROPERTIES:
+:CAPTURED: [2024-03-19 Di 10:23]
+:END:
+Gestern war es wieder furchtbar - die Schüler ignorieren mich total, wie als wäre ich Luft. Während ich rede, quatschen sie untereinander. Heute hab ich ihnen den Film "Im Wendekreis des Kreuzes" gezeigt. Vll werde ich in den kommenden Stunden schriftliche Aufträge geben. Und sie dann dementsprechend benoten.
+
+

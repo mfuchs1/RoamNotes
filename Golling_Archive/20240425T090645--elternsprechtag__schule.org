@@ -1,0 +1,5 @@
+#+title:      Elternsprechtag
+#+date:       [2024-04-25 Do 09:06]
+#+filetags:   :schule:
+#+identifier: 20240425T090645
+

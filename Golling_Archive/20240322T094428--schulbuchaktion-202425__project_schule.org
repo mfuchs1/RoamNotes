@@ -1,0 +1,62 @@
+:PROPERTIES:
+:CUSTOM_ID: h:593fe483-4844-4cdc-933a-0fb3c5f61ef4
+:END:
+#+title:      Schulbuchaktion 2024/25
+#+date:       [2024-03-22 Fr 09:44]
+#+filetags:   :Project:schule:
+#+identifier: 20240322T094428
+#+CATEGORY: Schulbücher
+
+* DONE [#A] Schulbuchlisten pro Fach [9/9]
+CLOSED: [2024-04-17 Mi 10:11] DEADLINE: <2024-04-12 Fr>
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2024-04-17 Mi 10:11]
+:END:
+- [X] Mathematik
+  Wenn möglich ein Lösungsheft (nicht digital) in Lehrerstärke für Erarbeitungsteil
+  Bernadette: ein Exemplar "Zahlen bitte e + E Book+" (nur eines)
+- [X] Deutsch
+  "Vielfach Deutsch Grammatik" 1-4, nur ein Exemplar, für L.
+- [X] Englisch
+- [X] Musik
+  "Club Musik"; Nina gab mir Liste (1x CD; eine Klassenstärke Schulbücher pro Schulstufe)
+ 
+- [X] Geografie
+- [X] Geschichte
+- [X] Biologie
+- [X] Physik / Chemie
+  "Mehrfach Chemie" (AH allgm)
+  Christian fragen; Antwort heute Montag <2024-04-15 Mo>; erledigt.
+  
+- [X] Religion (katholisch)
+  In welcher Klasse fehlen zB NT? zB dritte (jetztige) Klassen?
+  
+
+
+* DONE [#A] Schulbücher bestellen [7/7]
+CLOSED: [2024-04-17 Mi 10:11] DEADLINE: <2024-04-12 Fr>
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2024-04-17 Mi 10:11]
+:END:
+- [X] Schülerlisten aus Sokrates erstellen
+- [X] auf der Homepage Klassen anlegen; Daten übernehmen?
+- [X] Bücher eintragen
+
+  Leider ist schon wieder das Budget für das Digitale weit überschritten. Entweder manche E-Book+ Bücher ins "normale" Bücherbudget eintragen; oder einige Lehrer fragen, ob wir statt E-Books+ normale E-Books bestellen können. (Frau Weninger fragen)
+
+  Ich hab jetzt einmal eigenmächtig in Geografie und Geschichte statt den E-BOOK+ normale E-BOOKS bestellt. Alle Physikbücher bestellt und dann einige E-BOOK+ vom Budget her ins "normale" Budget umgetragen. Somit ist unser Budget super genau ausgenutzt (da es sonst verfällt). Mir fehlen nur mehr die Bücher für "Deutsch als Zweitsprache" und die Bücher für den islam. RU.
+
+  Ich kann nur hoffen, dass die Geo und GS Lehrer diese Entscheidung akzeptieren. In Bio hab ich Mirjam gefragt; sie wäre sehr dafür, wenn wir für Bio in den beiden MINT Klassen das E-BOOK+ bestellen würden. Lena und Herbert habe ich informiert; haben es akzeptiert.
+  
+- [X] Bücher für "Deutsch als Zweitsprache"; KVs fragen; hab GV gefragt: wir bestellen keine Bücher.
+
+- [X] Budget abgleichen? Digital / Normal?
+- [X] Zuweisen (Buchhandel)
+- [X] Bestellung abschicken
+
+  
+
+* TODO Schulbücher angekommen [0/3]
+- [ ] bestätigen?
+- [ ] Austeilen (pro Klasse)
+- [ ] Reduktionen

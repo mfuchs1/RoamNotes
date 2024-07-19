@@ -65,11 +65,34 @@
 :PROPERTIES:
 :calendar-id: matthiasfuchs01@gmail.com
 :org-gcal-managed: org
-:ETag:     "3440785329886000"
+:ETag:     "3442233283044000"
 :entry-id: l68ntct50nm23l0pm2itnj4utk/matthiasfuchs01@gmail.com
 :END:
 :org-gcal:
 <2024-07-08 Mo 14:00-20:00>
+:END:
+
+* Lesen und Beten
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3442454550390000"
+:entry-id: 1n7nnof6t7n69onlnfsvk1snto/matthiasfuchs01@gmail.com
+:CUSTOM_ID: h:770cff4a-75bb-494a-823e-d87bec53d777
+:END:
+:org-gcal:
+<2024-07-17 Mi 21:00-22:00>
+:END:
+
+* Papagei füttern
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3442454614342000"
+:entry-id: 2uroee99djrutkash9cl77thbk/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2024-07-17 Mi 19:00-20:00>
 :END:
 
 * Kletterkurs Gabriel

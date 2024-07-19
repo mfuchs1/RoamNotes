@@ -1,6 +1,6 @@
-#+title:      Jahresplanung 01
+#+title:      Jahresplanung 02
 #+date:       [2024-07-08 Mo 21:43]
-#+filetags:   :schule:
+#+filetags:   :02:schule:
 #+identifier: 20240708T214317
 
 * Beziehungen – miteinander umgehen lernen (Kapitel 1)

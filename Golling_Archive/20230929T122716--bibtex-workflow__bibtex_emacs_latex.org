@@ -1,0 +1,15 @@
+#+title:      Bibtex Workflow
+#+date:       [2023-09-29 Fr 12:27]
+#+filetags:   :bibtex:emacs:latex:
+#+identifier: 20230929T122716
+
+
+* Für LaTex
+- =consult-bibtex=
+- =bibtex-actions=
+
+Beide Pakete funktionieren ähnlich.
+
+* org-mode
+- =citar=
+org-cite, verstehe nicht, warum dies nicht läuft?
