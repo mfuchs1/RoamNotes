@@ -1,0 +1,17 @@
+#+title:      Religionsunterricht
+#+date:       [2024-07-20 Sa 21:46]
+#+filetags:   :meta:project:
+#+identifier: 20240720T214626
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+
+* Gedanken
+:PROPERTIES:
+:CUSTOM_ID: h:e2382463-c212-4639-b0b9-8c07ee79c6d8
+:END:
+
+[cite:@Berger2004]
+
+
+
+* Tasks
+

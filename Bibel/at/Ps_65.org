@@ -1,33 +1,29 @@
-:PROPERTIES:
-:ID:       dd148c58-bb3f-4e83-9ffc-88cd96bf3b1e
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Die Psalmen* -- [[file:Ps_1.html][1]] ...
-[[file:Ps_63.html][63]] [[file:Ps_64.html][64]] *65*
-[[file:Ps_66.html][66]] [[file:Ps_67.html][67]] ...
-[[file:Ps_150.html][150]]
-
---------------
+#+TITLE: Ps 65 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-07-30 Di 22:08]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 65.html
 
 * Ps 65
-  :PROPERTIES:
-  :CUSTOM_ID: ps-65
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Dank für Gottes Gaben
-     :PROPERTIES:
-     :CUSTOM_ID: dank-für-gottes-gaben
-     :END:
+* Dank für Gottes Gaben
+
 1 [Für den Chormeister. Ein Psalm Davids. Ein Lied.]\\
 \\
 
 <<v2>>
 2 Dir gebührt Lobgesang, Gott, auf dem Zion, /\\
- dir erfüllt man Gelübde. ^{[[#fn1][1]]}\\
+ dir erfüllt man Gelübde. [fn:1]\\
 \\
 
 <<v3>>
@@ -37,21 +33,21 @@
 
 <<v4>>
 4 unter der Last ihrer Sünden. Unsere Schuld ist zu groß für uns, /\\
- du wirst sie vergeben. ^{[[#fn2][2]][[#fn3][3]]}\\
+ du wirst sie vergeben. [fn:2] [fn:3]\\
 \\
 
 <<v5>>
 5 Wohl denen, die du erwählst und in deine Nähe holst, /\\
  die in den Vorhöfen deines Heiligtums wohnen. Wir wollen uns am Gut
 deines Hauses sättigen, /\\
- am Gut deines Tempels. ^{[[#fn4][4]]}\\
+ am Gut deines Tempels. [fn:4]\\
 \\
 
 <<v6>>
 6 Du vollbringst erstaunliche Taten, /\\
  erhörst uns in Treue, du Gott unsres Heiles, du Zuversicht aller Enden
 der Erde /\\
- und der fernsten Gestade. ^{[[#fn5][5]]}\\
+ und der fernsten Gestade. [fn:5]\\
 \\
 
 <<v7>>
@@ -61,7 +57,7 @@ der Erde /\\
 
 <<v8>>
 8 Du stillst das Brausen der Meere, /\\
- das Brausen ihrer Wogen, das Tosen der Völker. ^{[[#fn6][6]]}\\
+ das Brausen ihrer Wogen, das Tosen der Völker. [fn:6]\\
 \\
 
 <<v9>>
@@ -74,8 +70,7 @@ der Erde /\\
 10 Du sorgst für das Land und tränkst es; /\\
  du überschüttest es mit Reichtum. Der Bach Gottes ist reichlich
 gefüllt, /\\
- du schaffst ihnen Korn; so ordnest du alles.
-^{[[#fn7][7]][[#fn8][8]]}\\
+ du schaffst ihnen Korn; so ordnest du alles. [fn:7] [fn:8]\\
 \\
 
 <<v11>>
@@ -85,12 +80,12 @@ gefüllt, /\\
 
 <<v12>>
 12 Du krönst das Jahr mit deiner Güte, /\\
- deinen Spuren folgt Überfluss. ^{[[#fn9][9]]}\\
+ deinen Spuren folgt Überfluss. [fn:9]\\
 \\
 
 <<v13>>
 13 In der Steppe prangen die Auen, /\\
- die Höhen umgürten sich mit Jubel. ^{[[#fn10][10]]}\\
+ die Höhen umgürten sich mit Jubel. [fn:10]\\
 \\
 
 <<v14>>
@@ -99,23 +94,24 @@ gefüllt, /\\
  Sie jauchzen und singen.\\
 \\
 
-^{[[#fnm1][1]]} Text korr.
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 32,1
+[fn:1] Text korr.
 
-^{[[#fnm3][3]]} für uns: Text korr.; H: für mich.
+[fn:2] [[file:Ps_32.org::v1][32,1]]
 
-^{[[#fnm4][4]]} ℘ 23,6; 36,9
+[fn:3] für uns: Text korr.; H: für mich.
 
-^{[[#fnm5][5]]} Text korr.
+[fn:4] [[file:Ps_23.org::v6][23,6]]; [[file:Ps_36.org::v9][36,9]]
 
-^{[[#fnm6][6]]} ℘ 89,10; Ijob 38,11; Jes 17,12
+[fn:5] Text korr.
 
-^{[[#fnm7][7]]} ℘ (10-11) 104,10-15; Joël 2,22-24
+[fn:6] [[file:Ps_89.org::v10][89,10]]; [[file:Ijob_38.org::v11][Ijob 38,11]]; [[file:Jes_17.org::v12][Jes 17,12]]
 
-^{[[#fnm8][8]]} reichlich, wörtlich: (Der Bach Gottes ist) mit Wasser
-(gefüllt).
+[fn:7] (10-11) [[file:Ps_104.org::v10][104,10]]-[[file:Ps_104.org::v15][15]]; [[file:Joel_2.org::v22][Joël 2,22]]-[[file:Joel_2.org::v24][24]]
 
-^{[[#fnm9][9]]} Wörtlich: deine Spuren triefen von Fett.
+[fn:8] reichlich, wörtlich: (Der Bach Gottes ist) mit Wasser (gefüllt).
 
-^{[[#fnm10][10]]} ℘ 96,12
+[fn:9] Wörtlich: deine Spuren triefen von Fett.
+
+[fn:10] [[file:Ps_96.org::v12][96,12]]

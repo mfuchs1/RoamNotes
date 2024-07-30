@@ -17,85 +17,86 @@
 ** Montag
 
 *** 2a 07:45-08:35                                                     :2a:
-<%%(org-class 2024 7 15 2024 7 29 1)>
+<%%(org-class 2024 7 15 2024 7 29 1 31)>
+[[denote:20240719T153525][A Klasse 2023-27]]
 
 *** 2b 08:40-09:30                                                     :2b:
-<%%(org-class 2024 7 15 2024 7 29 1)>
+<%%(org-class 2024 7 15 2024 7 29 1 31)>
 
 *** 2c 09:35-10:25                                                     :2c:
-<%%(org-class 2024 7 15 2024 7 29 1)>
+<%%(org-class 2024 7 15 2024 7 29 1 31)>
 
 *** 4a 10:40-11:30                                                     :4a:
-<%%(org-class 2024 7 15 2024 7 29 1)>
+<%%(org-class 2024 7 15 2024 7 29 1 31)>
 
 *** 4b 11:35-12:25                                                     :4b:
-<%%(org-class 2024 7 15 2024 7 29 1)>
+<%%(org-class 2024 7 15 2024 7 29 1 31)>
 
 ** Dienstag
 
 *** 1a 07:45-08:35                                                     :1a:
-<%%(org-class 2024 7 16 2024 7 30 2)>
+<%%(org-class 2024 7 16 2024 7 30 2 31)>
 
 *** 1b 08:40-09:30                                                     :1b:
-<%%(org-class 2024 7 16 2024 7 30 2)>
+<%%(org-class 2024 7 16 2024 7 30 2 31)>
 
 *** 2b 09:35-10:25                                                     :2b:
-<%%(org-class 2024 7 16 2024 7 30 2)>
+<%%(org-class 2024 7 16 2024 7 30 2 31)>
 
 *** 4a 10:40-11:30                                                     :4a:
-<%%(org-class 2024 7 16 2024 7 30 2)>
+<%%(org-class 2024 7 16 2024 7 30 2 31)>
 
 *** 4b 11:35-12:25                                                     :4b:
-<%%(org-class 2024 7 16 2024 7 30 2)>
+<%%(org-class 2024 7 16 2024 7 30 2 31)>
 
 ** Mittwoch
 
 *** 3a 07:45-08:35                                                     :3a:
-<%%(org-class 2024 7 17 2024 7 31 3)>
+<%%(org-class 2024 7 17 2024 7 31 3 31)>
 
 *** 3b 08:40-09:30                                                     :3b:
-<%%(org-class 2024 7 17 2024 7 31 3)>
+<%%(org-class 2024 7 17 2024 7 31 3 31)>
 
 *** 3c 09:35-10:25                                                     :3c:
-<%%(org-class 2024 7 17 2024 7 31 3)>
+<%%(org-class 2024 7 17 2024 7 31 3 31)>
 
 *** 2c 10:40-11:30                                                     :2c:
-<%%(org-class 2024 7 17 2024 7 31 3)>
+<%%(org-class 2024 7 17 2024 7 31 3 31)>
 
 *** 4c 11:35-12:25                                                     :4c:
-<%%(org-class 2024 7 17 2024 7 31 3)>
+<%%(org-class 2024 7 17 2024 7 31 3 31)>
 
 ** Donnerstag
 
 *** 4c 07:45-08:35                                                     :4c:
-<%%(org-class 2024 7 18 2024 8 1 4)>
+<%%(org-class 2024 7 18 2024 8 1 4 31)>
 
 *** 1c 08:40-09:30                                                     :1c:
-<%%(org-class 2024 7 18 2024 8 1 4)>
+<%%(org-class 2024 7 18 2024 8 1 4 31)>
 
 *** 3a 09:35-10:25                                                     :3a:
-<%%(org-class 2024 7 18 2024 8 1 4)>
+<%%(org-class 2024 7 18 2024 8 1 4 31)>
 
 *** 3b 10:40-11:30                                                     :3b:
-<%%(org-class 2024 7 18 2024 8 1 4)>
+<%%(org-class 2024 7 18 2024 8 1 4 31)>
 
 *** 3c 11:35-12:25                                                     :3c:
-<%%(org-class 2024 7 18 2024 8 1 4)>
+<%%(org-class 2024 7 18 2024 8 1 4 31)>
 
 ** Freitag
 
 *** 2a 07:45-08:35                                                     :2a:
-<%%(org-class 2024 7 19 2024 8 2 5)>
+<%%(org-class 2024 7 19 2024 8 2 5 31)>
 [[denote:20240719T153525][A Klasse 2023-27]]
 
 *** 1c 08:40-09:30                                                     :1c:
-<%%(org-class 2024 7 19 2024 8 2 5)>
+<%%(org-class 2024 7 19 2024 8 2 5 31)>
 
 *** Gitarre 09:35-10:25                                           :gitarre:
-<%%(org-class 2024 7 19 2024 8 2 5)>
+<%%(org-class 2024 7 19 2024 8 2 5 31)>
 
 *** Gitarre 10:40-11:30                                           :gitarre:
-<%%(org-class 2024 7 19 2024 8 2 5)>
+<%%(org-class 2024 7 19 2024 8 2 5 31)>
 
 * Tasks
 
@@ -105,13 +106,35 @@ CLOSED: [2024-07-19 Fr 12:06] DEADLINE: <2024-07-17 Mi 18:00>
 - State "DONE"       from "TODO"       [2024-07-19 Fr 12:06]
 :END:
 
-** TODO Sport
-DEADLINE: <2024-07-19 Fr 16:00>
+** DONE Sport
+CLOSED: [2024-07-20 Sa 10:01] DEADLINE: <2024-07-19 Fr 16:00>
+:PROPERTIES:
+:CUSTOM_ID: h:e2d9b0f9-f9a2-48c1-bef1-bc81dec76162
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2024-07-20 Sa 10:01]
+:END:
 
 ** TODO [#A] Gabriela (Abtenau) fragen bzgl Stundenplan u. Klassen
 DEADLINE: <2024-08-19 Mo 12:00>
 :PROPERTIES:
 :CAPTURED: [2024-07-19 Fr 16:52]
 :END:
+
+** POSTPONED Fehlersuche zu ~consult-spotify~
+CLOSED: [2024-07-30 Di 10:56] DEADLINE: <2024-07-28 So 20:00>
+:PROPERTIES:
+:CAPTURED: [2024-07-27 Sa 00:38]
+:END:
+:LOGBOOK:
+- State "POSTPONED"  from              [2024-07-30 Di 10:56] \\
+  ~consult-spotify~: Lösung suchen + finden
+:END:
+
+[[file:~/.emacs.d/init.el::;;; consult-spotify]]
+
+Error; JSON readtable error: 60
+
+Leider hab ich bis jetzt keine Lösung für diesen Fehler gefunden; als Zwischenlösung habe ich ~consult-spotify~ deaktiviert und verwende ~smudge~ und ~espotify~. ~smudge~ kann leider weder nach Künstlern und Alben suchen. Aber ich kann innerhalb einer PLayliste das Album oder den Künstler abspielen. Mit ~espotify~ kann ich Spotify mit ~play / pause~, ~next song~ und ~previous song~ steuern - sogar den Spotify Player auf einem anderen Gerät.
 
 * Tasks [Mails]
