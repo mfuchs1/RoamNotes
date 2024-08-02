@@ -115,10 +115,13 @@ CLOSED: [2024-07-20 Sa 10:01] DEADLINE: <2024-07-19 Fr 16:00>
 - State "DONE"       from "TODO"       [2024-07-20 Sa 10:01]
 :END:
 
-** TODO [#A] Gabriela (Abtenau) fragen bzgl Stundenplan u. Klassen
-DEADLINE: <2024-08-19 Mo 12:00>
+** DONE [#A] Gabriela (Abtenau) fragen bzgl Stundenplan u. Klassen
+CLOSED: [2024-07-31 Mi 17:48] DEADLINE: <2024-08-19 Mo 12:00>
 :PROPERTIES:
 :CAPTURED: [2024-07-19 Fr 16:52]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2024-07-31 Mi 17:48]
 :END:
 
 ** POSTPONED Fehlersuche zu ~consult-spotify~
@@ -136,5 +139,12 @@ CLOSED: [2024-07-30 Di 10:56] DEADLINE: <2024-07-28 So 20:00>
 Error; JSON readtable error: 60
 
 Leider hab ich bis jetzt keine Lösung für diesen Fehler gefunden; als Zwischenlösung habe ich ~consult-spotify~ deaktiviert und verwende ~smudge~ und ~espotify~. ~smudge~ kann leider weder nach Künstlern und Alben suchen. Aber ich kann innerhalb einer PLayliste das Album oder den Künstler abspielen. Mit ~espotify~ kann ich Spotify mit ~play / pause~, ~next song~ und ~previous song~ steuern - sogar den Spotify Player auf einem anderen Gerät.
+
+** TODO Lesen und Beten
+SCHEDULED: <2024-07-28 So 18:00>
+:PROPERTIES:
+:CAPTURED: [2024-07-31 Mi 18:04]
+:END:
+[[file:~/.emacs.d/init.el::org-deadline-warning-days 0]]
 
 * Tasks [Mails]
