@@ -1,27 +1,23 @@
-:PROPERTIES:
-:ID:       4e640c74-a797-4e37-9f4d-0ced5ddf9dae
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Die Psalmen* -- [[file:Ps_1.html][1]] ...
-[[file:Ps_74.html][74]] [[file:Ps_75.html][75]] *76*
-[[file:Ps_77.html][77]] [[file:Ps_78.html][78]] ...
-[[file:Ps_150.html][150]]
-
---------------
+#+TITLE: Ps 76 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-02 Fr 17:05]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 76.html
 
 * Ps 76
-  :PROPERTIES:
-  :CUSTOM_ID: ps-76
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Der Weltenrichter auf dem Zion
-     :PROPERTIES:
-     :CUSTOM_ID: der-weltenrichter-auf-dem-zion
-     :END:
+* Der Weltenrichter auf dem Zion
+
 1 [Für den Chormeister. Mit Saitenspiel. Ein Psalm Asafs. Ein Lied.]\\
 \\
 
@@ -32,23 +28,23 @@
 
 <<v3>>
 3 Sein Zelt erstand in Salem, /\\
- seine Wohnung auf dem Zion. ^{[[#fn1][1]]}\\
+ seine Wohnung auf dem Zion. [fn:1]\\
 \\
 
 <<v4>>
 4 Dort zerbrach er die blitzenden Pfeile des Bogens, /\\
- Schild und Schwert, die Waffen des Krieges. [Sela] ^{[[#fn2][2]]}\\
+ Schild und Schwert, die Waffen des Krieges. [Sela] [fn:2]\\
 \\
 
 <<v5>>
 5 Du bist furchtbar und herrlich, /\\
- mehr als die ewigen Berge. ^{[[#fn3][3]]}\\
+ mehr als die ewigen Berge. [fn:3]\\
 \\
 
 <<v6>>
 6 Ausgeplündert sind die tapferen Streiter, /\\
  sie sinken hin in den Schlaf; /\\
- allen Helden versagen die Hände. ^{[[#fn4][4]]}\\
+ allen Helden versagen die Hände. [fn:4]\\
 \\
 
 <<v7>>
@@ -58,7 +54,7 @@
 
 <<v8>>
 8 Furchtbar bist du. Wer kann bestehen vor dir, /\\
- vor der Gewalt deines Zornes? ^{[[#fn5][5]]}\\
+ vor der Gewalt deines Zornes? [fn:5]\\
 \\
 
 <<v9>>
@@ -73,12 +69,12 @@
 
 <<v11>>
 11 Denn auch der Mensch voll Trotz muss dich preisen /\\
- und der Rest der Völker dich feiern. ^{[[#fn6][6]]}\\
+ und der Rest der Völker dich feiern. [fn:6]\\
 \\
 
 <<v12>>
 12 Legt Gelübde ab und erfüllt sie dem Herrn, eurem Gott! /\\
- Ihr alle ringsum, bringt Gaben ihm, den ihr fürchtet. ^{[[#fn7][7]]}\\
+ Ihr alle ringsum, bringt Gaben ihm, den ihr fürchtet. [fn:7]\\
 \\
 
 <<v13>>
@@ -86,19 +82,21 @@
  Furcht erregend ist er für die Könige der Erde.\\
 \\
 
-^{[[#fnm1][1]]} ℘ 87,2; 132,13
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 46,10; Jdt 9,7
+[fn:1] [[file:Ps_87.org::v2][87,2]]; [[file:Ps_132.org::v13][132,13]]
 
-^{[[#fnm3][3]]} furchtbar: nach der aramäischen Übersetzung und nach der
+[fn:2] [[file:Ps_46.org::v10][46,10]]; [[file:Jdt_9.org::v7][Jdt 9,7]]
+
+[fn:3] furchtbar: nach der aramäischen Übersetzung und nach der
 griechischen von Theodotion; H: leuchtend. Text korr. nach G.
 
-^{[[#fnm4][4]]} ℘ 2 Kön 19,35; Jer 51,39.57
+[fn:4] [[file:2.Kön_19.org::v35][2 Kön 19,35]]; [[file:Jer_51.org::v39][Jer 51,39]].[[file:Jer_51.org::v57][57]]
 
-^{[[#fnm5][5]]} ℘ Dtn 7,21; Nah 1,6
+[fn:5] [[file:Dtn_7.org::v21][Dtn 7,21]]; [[file:Nah_1.org::v6][Nah 1,6]]
 
-^{[[#fnm6][6]]} dich feiern: Text korr.; H: du gürtest dich. - Andere
+[fn:6] dich feiern: Text korr.; H: du gürtest dich. - Andere
 Übersetzungsmöglichkeit: Ja, das grimmige Edom soll dich preisen, der
 Rest Hamats dich feiern.
 
-^{[[#fnm7][7]]} ℘ 66,13
+[fn:7] [[file:Ps_66.org::v13][66,13]]

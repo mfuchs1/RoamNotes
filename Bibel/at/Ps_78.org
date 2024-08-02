@@ -10,30 +10,36 @@
 
 --------------
 
-* Ps 78
-  :PROPERTIES:
-  :CUSTOM_ID: ps-78
-  :END:
+#+TITLE: Ps 78 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-02 Fr 18:15]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 78.html
 
 <<verses>>
 
 <<v1>>
-**** Die Geschichte Israels als Mahnung und Warnung
-     :PROPERTIES:
-     :CUSTOM_ID: die-geschichte-israels-als-mahnung-und-warnung
-     :END:
+* Die Geschichte Israels als Mahnung und Warnung
+
 1 [Ein Weisheitslied Asafs.] Mein Volk, vernimm meine Weisung! /\\
  Wendet euer Ohr zu den Worten meines Mundes!\\
 \\
 
 <<v2>>
 2 Ich öffne meinen Mund zu einem Spruch; /\\
- ich will die Geheimnisse der Vorzeit verkünden. ^{[[#fn1][1]]}\\
+ ich will die Geheimnisse der Vorzeit verkünden. [fn:1]\\
 \\
 
 <<v3>>
 3 Was wir hörten und erfuhren, /\\
- was uns die Väter erzählten, ^{[[#fn2][2]]}\\
+ was uns die Väter erzählten, [fn:]2][[fn:2]\\
 \\
 
 <<v4>>
@@ -46,8 +52,7 @@ die Stärke des Herrn, /\\
 <<v5>>
 5 Er stellte sein Gesetz auf in Jakob, /\\
  gab in Israel Weisung /\\
- und gebot unseren Vätern, ihre Kinder das alles zu lehren,
-^{[[#fn3][3]]}\\
+ und gebot unseren Vätern, ihre Kinder das alles zu lehren, [fn:3]\\
 \\
 
 <<v6>>
@@ -65,8 +70,7 @@ die Stärke des Herrn, /\\
 <<v8>>
 8 und nicht werden wie ihre Väter, /\\
  jenes Geschlecht voll Trotz und Empörung, /\\
- das wankelmütige Geschlecht, dessen Geist nicht treu zu Gott hielt.
-^{[[#fn4][4]]}\\
+ das wankelmütige Geschlecht, dessen Geist nicht treu zu Gott hielt. [fn:4]\\
 \\
 
 <<v9>>
@@ -86,12 +90,12 @@ die Stärke des Herrn, /\\
 
 <<v12>>
 12 Vor den Augen ihrer Väter vollbrachte er Wunder /\\
- im Land Ägypten, im Gefilde von Zoan. ^{[[#fn5][5]]}\\
+ im Land Ägypten, im Gefilde von Zoan. [fn:5]\\
 \\
 
 <<v13>>
 13 Er spaltete das Meer und führte sie hindurch, /\\
- er ließ das Wasser fest stehen wie einen Damm. ^{[[#fn6][6]]}\\
+ er ließ das Wasser fest stehen wie einen Damm. [fn:6]\\
 \\
 
 <<v14>>
@@ -403,17 +407,17 @@ verschaffen /\\
  und führte sie mit klugen Händen.\\
 \\
 
-^{[[#fnm1][1]]} ℘ 49,5; Mt 13,35
+^{[[#fnm1][1]]} ℘ 
 
-^{[[#fnm2][2]]} ℘ 44,2; (3-6) 22,31f
+^{[[#fnm2][2]]} ℘ 
 
-^{[[#fnm3][3]]} ℘ 147,19
+^{[[#fnm3][3]]} ℘ 
 
-^{[[#fnm4][4]]} ℘ Dtn 32,5f.20
+^{[[#fnm4][4]]} ℘ 
 
-^{[[#fnm5][5]]} ℘ Num 13,22
+^{[[#fnm5][5]]} ℘ 
 
-^{[[#fnm6][6]]} ℘ Ex 14,21f
+^{[[#fnm6][6]]} ℘ 
 
 ^{[[#fnm7][7]]} ℘ Ex 13,21
 
@@ -510,3 +514,17 @@ der Lade).
 ^{[[#fnm52][52]]} ℘ 48,3
 
 ^{[[#fnm53][53]]} ℘ (70-71) 89,21; 1 Sam 16,11-13; 2 Sam 7,8
+
+* Footnotes
+
+[fn:1] 49,5; Mt 13,35
+
+[fn:2] 44,2; (3-6) 22,31f
+
+[fn:3] 147,19
+
+[fn:4] Dtn 32,5f.20
+
+[fn:5] Num 13,22
+
+[fn:6] Ex 14,21f
