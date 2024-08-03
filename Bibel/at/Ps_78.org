@@ -100,13 +100,12 @@ die Stärke des Herrn, /\\
 
 <<v14>>
 14 Er leitete sie bei Tag mit der Wolke /\\
- und die ganze Nacht mit leuchtendem Feuer. ^{[[#fn7][7]]}\\
+ und die ganze Nacht mit leuchtendem Feuer. [fn:7]\\
 \\
 
 <<v15>>
 15 Er spaltete Felsen in der Wüste /\\
- und gab dem Volk reichlich zu trinken wie mit Wassern der Urflut.
-^{[[#fn8][8]]}\\
+ und gab dem Volk reichlich zu trinken wie mit Wassern der Urflut. [fn:8]\\
 \\
 
 <<v16>>
@@ -116,12 +115,12 @@ die Stärke des Herrn, /\\
 
 <<v17>>
 17 Doch sie sündigten weiter gegen ihn, /\\
- sie trotzten in der Wüste dem Höchsten. ^{[[#fn9][9]]}\\
+ sie trotzten in der Wüste dem Höchsten. [fn:9]\\
 \\
 
 <<v18>>
 18 In ihrem Herzen versuchten sie Gott, /\\
- forderten Nahrung für den Hunger. ^{[[#fn10][10]]}\\
+ forderten Nahrung für den Hunger. [fn:10]\\
 \\
 
 <<v19>>
@@ -139,7 +138,7 @@ verschaffen /\\
 <<v21>>
 21 Das hörte der Herr und war voll Grimm; /\\
  Feuer flammte auf gegen Jakob, /\\
- Zorn erhob sich gegen Israel, ^{[[#fn11][11]]}\\
+ Zorn erhob sich gegen Israel, [fn:11]\\
 \\
 
 <<v22>>
@@ -149,17 +148,17 @@ verschaffen /\\
 
 <<v23>>
 23 Dennoch gebot er den Wolken droben /\\
- und öffnete die Tore des Himmels. ^{[[#fn12][12]]}\\
+ und öffnete die Tore des Himmels. [fn:12]\\
 \\
 
 <<v24>>
 24 Er ließ Manna auf sie regnen als Speise, /\\
- er gab ihnen Brot vom Himmel. ^{[[#fn13][13]]}\\
+ er gab ihnen Brot vom Himmel. [fn:13]\\
 \\
 
 <<v25>>
 25 Da aßen die Menschen Wunderbrot; /\\
- Gott gab ihnen Nahrung in Fülle. ^{[[#fn14][14]]}\\
+ Gott gab ihnen Nahrung in Fülle. [fn:14]\\
 \\
 
 <<v26>>
@@ -184,7 +183,7 @@ verschaffen /\\
 
 <<v30>>
 30 Noch aber hatten sie ihre Gier nicht gestillt, /\\
- noch war die Speise in ihrem Mund, ^{[[#fn15][15]]}\\
+ noch war die Speise in ihrem Mund, [fn:15]\\
 \\
 
 <<v31>>
@@ -419,23 +418,23 @@ verschaffen /\\
 
 ^{[[#fnm6][6]]} ℘ 
 
-^{[[#fnm7][7]]} ℘ Ex 13,21
+^{[[#fnm7][7]]} ℘ 
 
-^{[[#fnm8][8]]} ℘ (15-16) Ex 17,6; Num 20,11
+^{[[#fnm8][8]]} ℘ 
 
-^{[[#fnm9][9]]} ℘ Ez 20,13
+^{[[#fnm9][9]]} ℘
 
-^{[[#fnm10][10]]} ℘ 106,14; Ex 16,3
+^{[[#fnm10][10]]} ℘ 
 
-^{[[#fnm11][11]]} ℘ Num 11,1
+^{[[#fnm11][11]]} ℘ 
 
-^{[[#fnm12][12]]} ℘ Mal 3,10
+^{[[#fnm12][12]]} ℘ 
 
-^{[[#fnm13][13]]} ℘ Ex 16,4.14f; Joh 6,31
+^{[[#fnm13][13]]} ℘ 
 
-^{[[#fnm14][14]]} ℘ 105,40
+^{[[#fnm14][14]]} ℘ 
 
-^{[[#fnm15][15]]} ℘ Num 11,33
+^{[[#fnm15][15]]} ℘ 
 
 ^{[[#fnm16][16]]} ℘ Num 14,11
 
@@ -528,3 +527,21 @@ der Lade).
 [fn:5] Num 13,22
 
 [fn:6] Ex 14,21f
+
+[fn:7] Ex 13,21
+
+[fn:8] (15-16) Ex 17,6; Num 20,11
+
+[fn:9] Ez 20,13
+
+[fn:10] 106,14; Ex 16,3
+
+[fn:11] Num 11,1
+
+[fn:12] Mal 3,10
+
+[fn:13] Ex 16,4.14f; Joh 6,31
+
+[fn:14] 105,40
+
+[fn:15] Num 11,33

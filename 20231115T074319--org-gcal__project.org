@@ -189,3 +189,15 @@ Dieser Termin wurde aus einer E-Mail erstellt, die Sie in Gmail erhalten haben. 
 :org-gcal:
 <2024-08-01 Do 08:15-15:00>
 :END:
+
+* Isabelle Arbeit
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3445347484198000"
+:entry-id: oat0dmp9205jod7i4974hc7kho/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2024-08-03 Sa 13:00-22:00>
+:END:
+
