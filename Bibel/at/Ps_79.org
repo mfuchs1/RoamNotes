@@ -1,60 +1,56 @@
-:PROPERTIES:
-:ID:       4b53fe8a-c3d8-48d4-a7ea-6d83510d889e
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Die Psalmen* -- [[file:Ps_1.html][1]] ...
-[[file:Ps_77.html][77]] [[file:Ps_78.html][78]] *79*
-[[file:Ps_80.html][80]] [[file:Ps_81.html][81]] ...
-[[file:Ps_150.html][150]]
-
---------------
+#+TITLE: Ps 79 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-03 Sa 15:45]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 79.html
 
 * Ps 79
-  :PROPERTIES:
-  :CUSTOM_ID: ps-79
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Die Klage über die Zerstörung Jerusalems
-     :PROPERTIES:
-     :CUSTOM_ID: die-klage-über-die-zerstörung-jerusalems
-     :END:
+* Die Klage über die Zerstörung Jerusalems
+
 1 [Ein Psalm Asafs.] Gott, die Heiden sind eingedrungen in dein Erbe,
 /\\
  sie haben deinen heiligen Tempel entweiht /\\
- und Jerusalem in Trümmer gelegt. ^{[[#fn1][1]]}\\
+ und Jerusalem in Trümmer gelegt. [fn:1]\\
 \\
 
 <<v2>>
 2 Die Leichen deiner Knechte haben sie zum Fraß gegeben den Vögeln des
 Himmels, /\\
- die Leiber deiner Frommen den Tieren des Feldes. ^{[[#fn2][2]]}\\
+ die Leiber deiner Frommen den Tieren des Feldes. [fn:2]\\
 \\
 
 <<v3>>
 3 Ihr Blut haben sie wie Wasser vergossen /\\
  rings um Jerusalem, /\\
- und keiner hat sie begraben. ^{[[#fn3][3]]}\\
+ und keiner hat sie begraben. [fn:3]\\
 \\
 
 <<v4>>
 4 Zum Schimpf sind wir geworden /\\
  in den Augen der Nachbarn, /\\
- zu Spott und Hohn bei allen, die rings um uns wohnen. ^{[[#fn4][4]]}\\
+ zu Spott und Hohn bei allen, die rings um uns wohnen. [fn:4]\\
 \\
 
 <<v5>>
 5 Wie lange noch, Herr? Willst du auf ewig zürnen? /\\
- Wie lange noch wird dein Eifer lodern wie Feuer? ^{[[#fn5][5]]}\\
+ Wie lange noch wird dein Eifer lodern wie Feuer? [fn:5]\\
 \\
 
 <<v6>>
 6 Gieß deinen Zorn aus über die Heiden, /\\
  die dich nicht kennen, /\\
- über jedes Reich, das deinen Namen nicht anruft. ^{[[#fn6][6]]}\\
+ über jedes Reich, das deinen Namen nicht anruft. [fn:6]\\
 \\
 
 <<v7>>
@@ -71,59 +67,56 @@ Himmels, /\\
 <<v9>>
 9 Um der Ehre deines Namens willen /\\
  hilf uns, du Gott unsres Heils! /\\
- Um deines Namens willen reiß uns heraus und vergib uns die Sünden!
-^{[[#fn7][7]]}\\
+ Um deines Namens willen reiß uns heraus und vergib uns die Sünden! [fn:7]\\
 \\
 
 <<v10>>
 10 Warum dürfen die Heiden sagen: /\\
  «Wo ist nun ihr Gott?» Lass kund werden an den Heiden vor unsern Augen,
 /\\
- wie du das vergossene Blut deiner Knechte vergiltst. ^{[[#fn8][8]]}\\
+ wie du das vergossene Blut deiner Knechte vergiltst. [fn:8]\\
 \\
 
 <<v11>>
 11 Das Stöhnen der Gefangenen dringe zu dir. /\\
- Befrei die Todgeweihten durch die Kraft deines Armes!
-^{[[#fn9][9]][[#fn10][10]]}\\
+ Befrei die Todgeweihten durch die Kraft deines Armes! [fn:9] [fn:10]\\
 \\
 
 <<v12>>
 12 Zahl unsern Nachbarn siebenfach heim /\\
- die Schmach, die sie dir, Herr, angetan.
-^{[[#fn11][11]][[#fn12][12]]}\\
+ die Schmach, die sie dir, Herr, angetan. [fn:11] [fn:12]\\
 \\
 
 <<v13>>
 13 Wir aber, dein Volk, die Schafe deiner Weide, /\\
  wollen dir ewig danken, /\\
- deinen Ruhm verkünden von Geschlecht zu Geschlecht. ^{[[#fn13][13]]}\\
+ deinen Ruhm verkünden von Geschlecht zu Geschlecht. [fn:13]\\
 \\
 
-^{[[#fnm1][1]]} ℘ 2 Kön 25,8-10; Klgl 1,10
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ Jer 7,33; (2-3) 1 Makk 7,17
+[fn:1] [[file:2.Kön_25.org::v8][2 Kön 25,8-10]]; [[file:Klgl_1.org::v10][Klgl 1,10]]
 
-^{[[#fnm3][3]]} ℘ Jer 14,16
+[fn:2] [[file:Jer_7.org::v33][Jer 7,33]]; (2-3) [[file:1.Makk_7.org::v17][1 Makk 7,17]]
 
-^{[[#fnm4][4]]} ℘ 31,12; Zef 2,8
+[fn:3] [[file:Jer_14.org::v16][Jer 14,16]]
 
-^{[[#fnm5][5]]} ℘ 89,47
+[fn:4] [[file:Ps_31.org::v12][31,12]]; [[file:Zef_2.org::v8][Zef 2,8]]
 
-^{[[#fnm6][6]]} ℘ Sir 36,1-6; 14,4; (6-7) Jer 10,25
+[fn:5] [[file:Ps_89.org::v47][89,47]]
 
-^{[[#fnm7][7]]} ℘ Ez 20,44; 36,22
+[fn:6] [[file:Sir_36.org::v1][Sir 36,1-6]]; [[file:Sir_14.org::v4][14,4]]; (6-7) [[file:Jer_10.org::v25][Jer 10,25]]
 
-^{[[#fnm8][8]]} ℘ 42,11; Joël 4,21
+[fn:7] [[file:Ez_20.org::v44][Ez 20,44]]; [[file:Ez_36.org::v22][36,22]]
 
-^{[[#fnm9][9]]} ℘ 102,21
+[fn:8] [[file:Ps_42.org::v11][42,11]]; [[file:Joel_4.org::v21][Joël 4,21]]
 
-^{[[#fnm10][10]]} Andere Übersetzungsmöglichkeit: Lass am Leben die
-Todgeweihten!
+[fn:9] [[file:Ps_102.org::v21][102,21]]
 
-^{[[#fnm11][11]]} ℘ 137,7-9
+[fn:10] Andere Übersetzungsmöglichkeit: Lass am Leben die Todgeweihten!
 
-^{[[#fnm12][12]]} Wörtlich: Zahl siebenfach in den Schoß unserer
-Nachbarn!
+[fn:11] [[file:Ps_137.org::v7][137,7-9]]
 
-^{[[#fnm13][13]]} ℘ 95,7
+[fn:12] Wörtlich: Zahl siebenfach in den Schoß unserer Nachbarn!
+
+[fn:13] [[file:Ps_95.org::v7][95,7]]
