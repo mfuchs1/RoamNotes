@@ -1,27 +1,23 @@
-:PROPERTIES:
-:ID:       f0a4691e-743e-4ae8-a0ed-e3ccfc589052
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Die Psalmen* -- [[file:Ps_1.html][1]] ...
-[[file:Ps_79.html][79]] [[file:Ps_80.html][80]] *81*
-[[file:Ps_82.html][82]] [[file:Ps_83.html][83]] ...
-[[file:Ps_150.html][150]]
-
---------------
+#+TITLE: Ps 81 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-03 Sa 22:17]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 81.html
 
 * Ps 81
-  :PROPERTIES:
-  :CUSTOM_ID: ps-81
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Aufruf zur Treue gegen Gott
-     :PROPERTIES:
-     :CUSTOM_ID: aufruf-zur-treue-gegen-gott
-     :END:
+* Aufruf zur Treue gegen Gott
+
 1 [Für den Chormeister. Nach dem Kelterlied. Von Asaf.]\\
 \\
 
@@ -37,7 +33,7 @@
 
 <<v4>>
 4 Stoßt in die Posaune am Neumond /\\
- und zum Vollmond, am Tag unsres Festes! ^{[[#fn1][1]]}\\
+ und zum Vollmond, am Tag unsres Festes! [fn:1]\\
 \\
 
 <<v5>>
@@ -53,14 +49,14 @@ vernahm: /\\
 
 <<v7>>
 7 Seine Schulter hab ich von der Bürde befreit, /\\
- seine Hände kamen los vom Lastkorb. ^{[[#fn2][2]]}\\
+ seine Hände kamen los vom Lastkorb. [fn:2]\\
 \\
 
 <<v8>>
 8 Du riefst in der Not /\\
  und ich riss dich heraus; ich habe dich aus dem Gewölk des Donners
 erhört, /\\
- an den Wassern von Meríba geprüft. [Sela] ^{[[#fn3][3]]}\\
+ an den Wassern von Meríba geprüft. [Sela] [fn:3]\\
 \\
 
 <<v9>>
@@ -70,7 +66,7 @@ erhört, /\\
 
 <<v10>>
 10 Für dich gibt es keinen andern Gott. /\\
- Du sollst keinen fremden Gott anbeten. ^{[[#fn4][4]][[#fn5][5]]}\\
+ Du sollst keinen fremden Gott anbeten. [fn:4] [fn:5]\\
 \\
 
 <<v11>>
@@ -81,12 +77,12 @@ erhört, /\\
 
 <<v12>>
 12 Doch mein Volk hat nicht auf meine Stimme gehört; /\\
- Israel hat mich nicht gewollt. ^{[[#fn6][6]]}\\
+ Israel hat mich nicht gewollt. [fn:6]\\
 \\
 
 <<v13>>
 13 Da überließ ich sie ihrem verstockten Herzen /\\
- und sie handelten nach ihren eigenen Plänen. ^{[[#fn7][7]]}\\
+ und sie handelten nach ihren eigenen Plänen. [fn:7]\\
 \\
 
 <<v14>>
@@ -96,38 +92,40 @@ erhört, /\\
 
 <<v15>>
 15 Wie bald würde ich seine Feinde beugen, /\\
- meine Hand gegen seine Bedränger wenden. ^{[[#fn8][8]]}\\
+ meine Hand gegen seine Bedränger wenden. [fn:8]\\
 \\
 
 <<v16>>
 16 Alle, die den Herrn hassen, müssten Israel schmeicheln /\\
- und das sollte für immer so bleiben. ^{[[#fn9][9]]}\\
+ und das sollte für immer so bleiben. [fn:9]\\
 \\
 
 <<v17>>
 17 Ich würde es nähren mit bestem Weizen /\\
- und mit Honig aus dem Felsen sättigen. ^{[[#fn10][10]][[#fn11][11]]}\\
+ und mit Honig aus dem Felsen sättigen. [fn:10] [fn:11]\\
 \\
 
-^{[[#fnm1][1]]} ℘ Lev 23,24; Num 10,10
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ Ex 1,14; 6,6
+[fn:1] [[file:Lev_23.org::v24][Lev 23,24]]; [[file:Num_10.org::v10][Num 10,10]]
 
-^{[[#fnm3][3]]} ℘ Ex 17,1-7; Num 20,13; Ps 95,8
+[fn:2] [[file:Ex_1.org::v14][Ex 1,14]]; [[file:Ex_6.org::v6][6,6]]
 
-^{[[#fnm4][4]]} ℘ (10-11) Ex 20,2f
+[fn:3] [[file:Ex_17.org::v1][Ex 17,1-7]]; [[file:Num_20.org::v13][Num 20,13]]; [[file:Ps_95.org::v8][Ps 95,8]]
 
-^{[[#fnm5][5]]} Textvorschlag für die Psalmodie: Du sollst dich nicht
+[fn:4] (10-11) [[file:Ex_20.org::v2][Ex 20,2f]]
+
+[fn:5] Textvorschlag für die Psalmodie: Du sollst dich nicht
 niederwerfen vor einem fremden Gott.
 
-^{[[#fnm6][6]]} ℘ 95,7
+[fn:6] [[file:Ps_95.org::v7][95,7]]
 
-^{[[#fnm7][7]]} ℘ Jer 7,24
+[fn:7] [[file:Jer_7.org::v24][Jer 7,24]]
 
-^{[[#fnm8][8]]} ℘ 66,3
+[fn:8] [[file:Ps_66.org::v3][66,3]]
 
-^{[[#fnm9][9]]} Israel: H: ihm.
+[fn:9] Israel: H: ihm.
 
-^{[[#fnm10][10]]} ℘ 147,14; Dtn 32,13
+[fn:10] [[file:Ps_147.org::v14][147,14]]; [[file:Dtn_32.org::v13][Dtn 32,13]]
 
-^{[[#fnm11][11]]} Text korr.; H: Er hat es genährt.
+[fn:11] Text korr.; H: Er hat es genährt.
