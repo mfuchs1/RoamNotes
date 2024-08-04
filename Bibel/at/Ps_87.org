@@ -1,34 +1,29 @@
-:PROPERTIES:
-:ID:       179bdf03-7029-4015-9685-3ab01ee92718
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Die Psalmen* -- [[file:Ps_1.html][1]] ...
-[[file:Ps_85.html][85]] [[file:Ps_86.html][86]] *87*
-[[file:Ps_88.html][88]] [[file:Ps_89.html][89]] ...
-[[file:Ps_150.html][150]]
-
---------------
+#+TITLE: Ps 87 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-04 So 11:28]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 87.html
 
 * Ps 87
-  :PROPERTIES:
-  :CUSTOM_ID: ps-87
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Ein Loblied auf Zion, die Mutter aller Völker
-     :PROPERTIES:
-     :CUSTOM_ID: ein-loblied-auf-zion-die-mutter-aller-völker
-     :END:
+* Ein Loblied auf Zion, die Mutter aller Völker
+
 1 [Ein Psalm der Korachiter. Ein Lied.]\\
 \\
 
 <<v2>>
 2 Der Herr liebt (Zion), seine Gründung auf heiligen Bergen; /\\
- mehr als all seine Stätten in Jakob liebt er die Tore Zions.
-^{[[#fn1][1]][[#fn2][2]]}\\
+ mehr als all seine Stätten in Jakob liebt er die Tore Zions. [fn:1] [fn:2]\\
 \\
 
 <<v3>>
@@ -41,7 +36,7 @@
  zähle ich zu denen, die mich kennen; auch von Leuten aus dem
 Philisterland, /\\
  aus Tyrus und Kusch /\\
- sagt man: Er ist dort geboren. ^{[[#fn3][3]]}\\
+ sagt man: Er ist dort geboren. [fn:3]\\
 \\
 
 <<v5>>
@@ -52,21 +47,23 @@ Philisterland, /\\
 
 <<v6>>
 6 Der Herr schreibt, wenn er die Völker verzeichnet: /\\
- Er ist dort geboren. [Sela] ^{[[#fn4][4]]}\\
+ Er ist dort geboren. [Sela] [fn:4]\\
 \\
 
 <<v7>>
 7 Und sie werden beim Reigentanz singen: /\\
- All meine Quellen entspringen in dir. ^{[[#fn5][5]]}\\
+ All meine Quellen entspringen in dir. [fn:5]\\
 \\
 
-^{[[#fnm1][1]]} ℘ 76,3; 78,68
+* Footnotes
 
-^{[[#fnm2][2]]} Andere Übersetzungsmöglichkeit: mehr als alle anderen
+[fn:1] [[file:Ps_76.org::v3][76,3]]; [[file:Ps_78.org::v68][78,68]]
+
+[fn:2] Andere Übersetzungsmöglichkeit: mehr als alle anderen
 Orte in Jakob.
 
-^{[[#fnm3][3]]} ℘ (4-5) Jes 19,24f
+[fn:3] (4-5) [[file:Jes_19.org::v24][Jes 19,24f]]
 
-^{[[#fnm4][4]]} ℘ Jes 4,3
+[fn:4] [[file:Jes_4.org::v3][Jes 4,3]]
 
-^{[[#fnm5][5]]} ℘ 149,3; Jes 12,3
+[fn:5] [[file:Ps_149.org::v3][149,3]]; [[file:Jes_12.org::v3][Jes 12,3]]

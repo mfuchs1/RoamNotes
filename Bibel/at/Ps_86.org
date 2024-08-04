@@ -1,27 +1,23 @@
-:PROPERTIES:
-:ID:       32ea0acd-dc6d-443b-8efd-db3f0384516a
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Die Psalmen* -- [[file:Ps_1.html][1]] ...
-[[file:Ps_84.html][84]] [[file:Ps_85.html][85]] *86*
-[[file:Ps_87.html][87]] [[file:Ps_88.html][88]] ...
-[[file:Ps_150.html][150]]
-
---------------
+#+TITLE: Ps 86 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-04 So 11:20]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 86.html
 
 * Ps 86
-  :PROPERTIES:
-  :CUSTOM_ID: ps-86
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Der Hilferuf eines Armen zu Gott
-     :PROPERTIES:
-     :CUSTOM_ID: der-hilferuf-eines-armen-zu-gott
-     :END:
+* Der Hilferuf eines Armen zu Gott
+
 1 [Ein Gebet Davids.] Wende dein Ohr mir zu, erhöre mich, Herr! /\\
  Denn ich bin arm und gebeugt.\\
 \\
@@ -33,12 +29,12 @@
 
 <<v3>>
 3 Du bist mein Gott. Sei mir gnädig, o Herr! /\\
- Den ganzen Tag rufe ich zu dir. ^{[[#fn1][1]]}\\
+ Den ganzen Tag rufe ich zu dir. [fn:1]\\
 \\
 
 <<v4>>
 4 Herr, erfreue deinen Knecht; /\\
- denn ich erhebe meine Seele zu dir. ^{[[#fn2][2]]}\\
+ denn ich erhebe meine Seele zu dir. [fn:2]\\
 \\
 
 <<v5>>
@@ -53,17 +49,17 @@
 
 <<v7>>
 7 Am Tag meiner Not rufe ich zu dir; /\\
- denn du wirst mich erhören. ^{[[#fn3][3]]}\\
+ denn du wirst mich erhören. [fn:3]\\
 \\
 
 <<v8>>
 8 Herr, unter den Göttern ist keiner wie du /\\
- und nichts gleicht den Werken, die du geschaffen hast. ^{[[#fn4][4]]}\\
+ und nichts gleicht den Werken, die du geschaffen hast. [fn:4]\\
 \\
 
 <<v9>>
 9 Alle Völker kommen und beten dich an, /\\
- sie geben, Herr, deinem Namen die Ehre. ^{[[#fn5][5]]}\\
+ sie geben, Herr, deinem Namen die Ehre. [fn:5]\\
 \\
 
 <<v10>>
@@ -74,7 +70,7 @@
 <<v11>>
 11 Weise mir, Herr, deinen Weg; /\\
  ich will ihn gehen in Treue zu dir. Richte mein Herz darauf hin, /\\
- allein deinen Namen zu fürchten! ^{[[#fn6][6]]}\\
+ allein deinen Namen zu fürchten! [fn:6]\\
 \\
 
 <<v12>>
@@ -85,24 +81,24 @@
 
 <<v13>>
 13 Du hast mich den Tiefen des Totenreichs entrissen. /\\
- Denn groß ist über mir deine Huld. ^{[[#fn7][7]]}\\
+ Denn groß ist über mir deine Huld. [fn:7]\\
 \\
 
 <<v14>>
 14 Gott, freche Menschen haben sich gegen mich erhoben, /\\
  die Rotte der Gewalttäter trachtet mir nach dem Leben; /\\
- doch dich haben sie nicht vor Augen. ^{[[#fn8][8]]}\\
+ doch dich haben sie nicht vor Augen. [fn:8]\\
 \\
 
 <<v15>>
 15 Du aber, Herr, bist ein barmherziger und gnädiger Gott, /\\
- du bist langmütig, reich an Huld und Treue. ^{[[#fn9][9]]}\\
+ du bist langmütig, reich an Huld und Treue. [fn:9]\\
 \\
 
 <<v16>>
 16 Wende dich mir zu und sei mir gnädig, /\\
  gib deinem Knecht wieder Kraft /\\
- und hilf dem Sohn deiner Magd! ^{[[#fn10][10]]}\\
+ und hilf dem Sohn deiner Magd! [fn:10]\\
 \\
 
 <<v17>>
@@ -111,23 +107,25 @@
  weil du, Herr, mich gerettet und getröstet hast.\\
 \\
 
-^{[[#fnm1][1]]} «Du bist mein Gott» wurde aus V. 2 hierher genommen.
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 25,1; 143,8
+[fn:1] «Du bist mein Gott» wurde aus V. 2 hierher genommen.
 
-^{[[#fnm3][3]]} ℘ 50,15
+[fn:2] [[file:Ps_25.org::v1][25,1]]; [[file:Ps_143.org::v8][143,8]]
 
-^{[[#fnm4][4]]} «die du geschaffen hast» wurde aus V. 9 hierher
+[fn:3] [[file:Ps_50.org::v15][50,15]]
+
+[fn:4] «die du geschaffen hast» wurde aus V. 9 hierher
 genommen.
 
-^{[[#fnm5][5]]} ℘ 22,28; Offb 15,4
+[fn:5] [[file:Ps_22.org::v28][22,28]]; [[file:~/RoamNotes/notes/Bibel/nt/Offb_15.org::v4][Offb 15,4]]
 
-^{[[#fnm6][6]]} ℘ 25,4; 26,3; Joh 14,6
+[fn:6] [[file:Ps_25.org::v4][25,4]]; [[file:Ps_26.org::v3][26,3]]; [[file:~/RoamNotes/notes/Bibel/nt/Joh_14.org::v6][Joh 14,6]]
 
-^{[[#fnm7][7]]} ℘ 9,14
+[fn:7] [[file:Ps_9.org::v14][9,14]]
 
-^{[[#fnm8][8]]} ℘ 54,5
+[fn:8] [[file:Ps_54.org::v5][54,5]]
 
-^{[[#fnm9][9]]} ℘ 116,5
+[fn:9] [[file:Ps_116.org::v5][116,5]]
 
-^{[[#fnm10][10]]} ℘ 25,16
+[fn:10] [[file:Ps_25.org::v16][25,16]]
