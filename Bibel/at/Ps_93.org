@@ -1,62 +1,60 @@
-:PROPERTIES:
-:ID:       77b3e0f9-d58a-476a-ba52-81672ab6df71
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Die Psalmen* -- [[file:Ps_1.html][1]] ...
-[[file:Ps_91.html][91]] [[file:Ps_92.html][92]] *93*
-[[file:Ps_94.html][94]] [[file:Ps_95.html][95]] ...
-[[file:Ps_150.html][150]]
-
---------------
+#+TITLE: Ps 93 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-05 Mo 16:43]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 93.html
 
 * Ps 93
-  :PROPERTIES:
-  :CUSTOM_ID: ps-93
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Das Königtum Gottes
-     :PROPERTIES:
-     :CUSTOM_ID: das-königtum-gottes
-     :END:
+* Das Königtum Gottes
+
 1 Der Herr ist König, bekleidet mit Hoheit; /\\
  der Herr hat sich bekleidet und mit Macht umgürtet. Der Erdkreis ist
 fest gegründet, /\\
- nie wird er wanken. ^{[[#fn1][1]]}\\
+ nie wird er wanken. [fn:1]\\
 \\
 
 <<v2>>
 2 Dein Thron steht fest von Anbeginn, /\\
- du bist seit Ewigkeit. ^{[[#fn2][2]]}\\
+ du bist seit Ewigkeit. [fn:2]\\
 \\
 
 <<v3>>
 3 Fluten erheben sich, Herr, /\\
  Fluten erheben ihr Brausen, /\\
- Fluten erheben ihr Tosen. ^{[[#fn3][3]]}\\
+ Fluten erheben ihr Tosen. [fn:3]\\
 \\
 
 <<v4>>
 4 Gewaltiger als das Tosen vieler Wasser, /\\
  gewaltiger als die Brandung des Meeres /\\
- ist der Herr in der Höhe. ^{[[#fn4][4]]}\\
+ ist der Herr in der Höhe. [fn:4]\\
 \\
 
 <<v5>>
 5 Deine Gesetze sind fest und verlässlich; /\\
  Herr, deinem Haus gebührt Heiligkeit /\\
- für alle Zeiten. ^{[[#fn5][5]]}\\
+ für alle Zeiten. [fn:5]\\
 \\
 
-^{[[#fnm1][1]]} ℘ 24,7-10; 75,4; 104,5
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 9,8; 90,2
+[fn:1] [[file:Ps_24.org::v7][24,7-10]]; [[file:Ps_75.org::v4][75,4]]; [[file:Ps_104.org::v5][104,5]]
 
-^{[[#fnm3][3]]} ℘ (3-4) 29,10
+[fn:2] [[file:Ps_9.org::v8][9,8]]; [[file:Ps_90.org::v2][90,2]]
 
-^{[[#fnm4][4]]} Text korr.; H: mehr als die Herrlichkeit der Brandungen.
+[fn:3] (3-4) [[file:Ps_29.org::v10][29,10]]
 
-^{[[#fnm5][5]]} ℘ 19,8
+[fn:4] Text korr.; H: mehr als die Herrlichkeit der Brandungen.
+
+[fn:5] [[file:Ps_19.org::v8][19,8]]

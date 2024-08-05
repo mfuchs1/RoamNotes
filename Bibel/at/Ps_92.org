@@ -1,33 +1,29 @@
-:PROPERTIES:
-:ID:       2dcbbad3-66e4-4296-84dc-efe38786c4ec
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Die Psalmen* -- [[file:Ps_1.html][1]] ...
-[[file:Ps_90.html][90]] [[file:Ps_91.html][91]] *92*
-[[file:Ps_93.html][93]] [[file:Ps_94.html][94]] ...
-[[file:Ps_150.html][150]]
-
---------------
+#+TITLE: Ps 92 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-05 Mo 16:29]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 92.html
 
 * Ps 92
-  :PROPERTIES:
-  :CUSTOM_ID: ps-92
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Ein Loblied auf die Treue Gottes
-     :PROPERTIES:
-     :CUSTOM_ID: ein-loblied-auf-die-treue-gottes
-     :END:
+* Ein Loblied auf die Treue Gottes
+
 1 [Ein Psalm. Ein Lied für den Sabbattag.]\\
 \\
 
 <<v2>>
 2 Wie schön ist es, dem Herrn zu danken, /\\
- deinem Namen, du Höchster, zu singen, ^{[[#fn1][1]]}\\
+ deinem Namen, du Höchster, zu singen, [fn:1]\\
 \\
 
 <<v3>>
@@ -47,18 +43,18 @@
 
 <<v6>>
 6 Wie groß sind deine Werke, o Herr, /\\
- wie tief deine Gedanken! ^{[[#fn2][2]]}\\
+ wie tief deine Gedanken! [fn:2]\\
 \\
 
 <<v7>>
 7 Ein Mensch ohne Einsicht erkennt das nicht, /\\
- ein Tor kann es nicht verstehen. ^{[[#fn3][3]]}\\
+ ein Tor kann es nicht verstehen. [fn:3]\\
 \\
 
 <<v8>>
 8 Wenn auch die Frevler gedeihen /\\
  und alle, die Unrecht tun, wachsen, /\\
- so nur, damit du sie für immer vernichtest. ^{[[#fn4][4]][[#fn5][5]]}\\
+ so nur, damit du sie für immer vernichtest. [fn:4] [fn:5]\\
 \\
 
 <<v9>>
@@ -68,28 +64,28 @@
 
 <<v10>>
 10 Doch deine Feinde, Herr, wahrhaftig, deine Feinde vergehen; /\\
- auseinander getrieben werden alle, die Unrecht tun. ^{[[#fn6][6]]}\\
+ auseinander getrieben werden alle, die Unrecht tun. [fn:6]\\
 \\
 
 <<v11>>
 11 Du machtest mich stark wie einen Stier, /\\
- du salbtest mich mit frischem Öl. ^{[[#fn7][7]][[#fn8][8]]}\\
+ du salbtest mich mit frischem Öl. [fn:7] [fn:8]\\
 \\
 
 <<v12>>
 12 Mein Auge blickt herab auf meine Verfolger, /\\
  auf alle, die sich gegen mich erheben; /\\
- mein Ohr hört vom Geschick der Bösen. ^{[[#fn9][9]]}\\
+ mein Ohr hört vom Geschick der Bösen. [fn:9]\\
 \\
 
 <<v13>>
 13 Der Gerechte gedeiht wie die Palme, /\\
- er wächst wie die Zedern des Libanon. ^{[[#fn10][10]]}\\
+ er wächst wie die Zedern des Libanon. [fn:10]\\
 \\
 
 <<v14>>
 14 Gepflanzt im Haus des Herrn, /\\
- gedeihen sie in den Vorhöfen unseres Gottes. ^{[[#fn11][11]]}\\
+ gedeihen sie in den Vorhöfen unseres Gottes. [fn:11]\\
 \\
 
 <<v15>>
@@ -99,31 +95,33 @@
 
 <<v16>>
 16 sie verkünden: Gerecht ist der Herr; /\\
- mein Fels ist er, an ihm ist kein Unrecht. ^{[[#fn12][12]]}\\
+ mein Fels ist er, an ihm ist kein Unrecht. [fn:12]\\
 \\
 
-^{[[#fnm1][1]]} ℘ 33,1-3
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 104,24; 139,17f
+[fn:1] [[file:Ps_33.org::v1][33,1-3]]
 
-^{[[#fnm3][3]]} ℘ Weish 13,1
+[fn:2] [[file:Ps_104.org::v24][104,24]]; [[file:Ps_139.org::v17][139,17f]]
 
-^{[[#fnm4][4]]} ℘ 37,35f
+[fn:3] [[file:Weish_13.org::v1][Weish 13,1]]
 
-^{[[#fnm5][5]]} Wörtlich: Wenn auch die Frevler aufsprießen wie Gras.
+[fn:4] [[file:Ps_37.org::v35][37,35f]]
 
-^{[[#fnm6][6]]} ℘ 68,2f; 125,5
+[fn:5] Wörtlich: Wenn auch die Frevler aufsprießen wie Gras.
 
-^{[[#fnm7][7]]} ℘ 23,5
+[fn:6] [[file:Ps_68.org::v2][68,2f]]; [[file:Ps_125.org::v5][125,5]]
 
-^{[[#fnm8][8]]} Nach S und der aramäischen Übersetzung; H: übergossen
+[fn:7] [[file:Ps_23.org::v5][23,5]]
+
+[fn:8] Nach S und der aramäischen Übersetzung; H: übergossen
 werde ich mit Öl.
 
-^{[[#fnm9][9]]} ℘ 54,9
+[fn:9] [[file:Ps_54.org::v9][54,9]]
 
-^{[[#fnm10][10]]} ℘ 1,3
+[fn:10] [[file:Ps_1.org::v3][1,3]]
 
-^{[[#fnm11][11]]} ℘ 52,10
+[fn:11] [[file:Ps_52.org::v10][52,10]]
 
-^{[[#fnm12][12]]} ℘ 18,3; 18,47; 19,15; 28,1; 42,10; 62,8; 78,35; 94,22;
-95,1; 144,1; Gen 49,24; Dtn 32,4.15.18.37
+[fn:12] [[file:Ps_18.org::v3][18,3]]; [[file:Ps_18.org::v47][18,47]]; [[file:Ps_19.org::v15][19,15]]; [[file:Ps_28.org::v1][28,1]]; [[file:Ps_42.org::v10][42,10]]; [[file:Ps_62.org::v8][62,8]]; [[file:Ps_78.org::v35][78,35]]; [[file:Ps_94.org::v22][94,22]];
+[[file:Ps_95.org::v1][95,1]]; [[file:Ps_144.org::v1][144,1]]; [[file:Gen_49.org::v24][Gen 49,24]]; [[file:Dtn_32.org::v4][Dtn 32,4]].[[file:Dtn_32.org::v15][15]].[[file:Dtn_32.org::v18][18]].[[file:Dtn_32.org::v37][37]]
