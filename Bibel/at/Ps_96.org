@@ -1,29 +1,25 @@
-:PROPERTIES:
-:ID:       dbded899-bf23-446e-8663-0556663cdd17
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Die Psalmen* -- [[file:Ps_1.html][1]] ...
-[[file:Ps_94.html][94]] [[file:Ps_95.html][95]] *96*
-[[file:Ps_97.html][97]] [[file:Ps_98.html][98]] ...
-[[file:Ps_150.html][150]]
-
---------------
+#+TITLE: Ps 96 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-05 Mo 23:42]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 96.html
 
 * Ps 96
-  :PROPERTIES:
-  :CUSTOM_ID: ps-96
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Der Herr, König und Richter aller Welt
-     :PROPERTIES:
-     :CUSTOM_ID: der-herr-könig-und-richter-aller-welt
-     :END:
+* Der Herr, König und Richter aller Welt
+
 1 Singt dem Herrn ein neues Lied, /\\
- singt dem Herrn, alle Länder der Erde! ^{[[#fn1][1]]}\\
+ singt dem Herrn, alle Länder der Erde! [fn:1]\\
 \\
 
 <<v2>>
@@ -33,12 +29,12 @@
 
 <<v3>>
 3 Erzählt bei den Völkern von seiner Herrlichkeit, /\\
- bei allen Nationen von seinen Wundern! ^{[[#fn2][2]]}\\
+ bei allen Nationen von seinen Wundern! [fn:2]\\
 \\
 
 <<v4>>
 4 Denn groß ist der Herr und hoch zu preisen, /\\
- mehr zu fürchten als alle Götter. ^{[[#fn3][3]]}\\
+ mehr zu fürchten als alle Götter. [fn:3]\\
 \\
 
 <<v5>>
@@ -53,12 +49,12 @@
 
 <<v7>>
 7 Bringt dar dem Herrn, ihr Stämme der Völker, /\\
- bringt dar dem Herrn Lob und Ehre! ^{[[#fn4][4]]}\\
+ bringt dar dem Herrn Lob und Ehre! [fn:4]\\
 \\
 
 <<v8>>
 8 Bringt dar dem Herrn die Ehre seines Namens, /\\
- spendet Opfergaben und tretet ein in sein Heiligtum! ^{[[#fn5][5]]}\\
+ spendet Opfergaben und tretet ein in sein Heiligtum! [fn:5]\\
 \\
 
 <<v9>>
@@ -70,43 +66,44 @@
 10 Verkündet bei den Völkern: /\\
  Der Herr ist König. Den Erdkreis hat er gegründet, sodass er nicht
 wankt. /\\
- Er richtet die Nationen so, wie es recht ist.
-^{[[#fn6][6]][[#fn7][7]]}\\
+ Er richtet die Nationen so, wie es recht ist. [fn:6] [fn:7]\\
 \\
 
 <<v11>>
 11 Der Himmel freue sich, die Erde frohlocke, /\\
- es brause das Meer und alles, was es erfüllt. ^{[[#fn8][8]]}\\
+ es brause das Meer und alles, was es erfüllt. [fn:8]\\
 \\
 
 <<v12>>
 12 Es jauchze die Flur und was auf ihr wächst. /\\
- Jubeln sollen alle Bäume des Waldes ^{[[#fn9][9]]}\\
+ Jubeln sollen alle Bäume des Waldes [fn:9]\\
 \\
 
 <<v13>>
 13 vor dem Herrn, wenn er kommt, /\\
  wenn er kommt, um die Erde zu richten. Er richtet den Erdkreis gerecht
 /\\
- und die Nationen nach seiner Treue. ^{[[#fn10][10]]}\\
+ und die Nationen nach seiner Treue. [fn:10]\\
 \\
 
-^{[[#fnm1][1]]} ℘ 33,3; (1-13) 1 Chr 16,23-33
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 108,4
+[fn:1] [[file:Ps_33.org::v3][33,3]]; (1-13) [[file:1.Chr_16.org::v23][1 Chr 16,23-33]]
 
-^{[[#fnm3][3]]} ℘ 48,2; 95,3
+[fn:2] [[file:Ps_108.org::v4][108,4]]
 
-^{[[#fnm4][4]]} ℘ (7-9) 29,1f
+[fn:3] [[file:Ps_48.org::v2][48,2]]; [[file:Ps_95.org::v3][95,3]]
 
-^{[[#fnm5][5]]} Wörtlich: und tretet ein in seine (Tempel-)Vorhöfe!
+[fn:4] (7-9) [[file:Ps_29.org::v1][29,1f]]
 
-^{[[#fnm6][6]]} ℘ 24,7-10; 75,3f
+[fn:5] Wörtlich: und tretet ein in seine (Tempel-)Vorhöfe!
 
-^{[[#fnm7][7]]} H: Der Erdkreis ist gegründet.
+[fn:6] [[file:Ps_24.org::v7][24,7-10]]; [[file:Ps_75.org::v3][75,3f]]
 
-^{[[#fnm8][8]]} ℘ 98,7
+[fn:7] H: Der Erdkreis ist gegründet.
 
-^{[[#fnm9][9]]} ℘ Jes 55,12
+[fn:8] [[file:Ps_98.org::v7][98,7]]
 
-^{[[#fnm10][10]]} ℘ 98,9; 9,9; Apg 17,31
+[fn:9] [[file:Jes_55.org::v12][Jes 55,12]]
+
+[fn:10] [[file:Ps_98.org::v9][98,9]]; [[file:Ps_9.org::v9][9,9]]; [[file:~/RoamNotes/notes/Bibel/nt/Apg_17.org::v31][Apg 17,31]]
