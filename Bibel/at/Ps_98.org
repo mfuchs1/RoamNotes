@@ -1,31 +1,27 @@
-:PROPERTIES:
-:ID:       d7e6d4cd-9e2b-4673-b27c-f4c698c001c0
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Die Psalmen* -- [[file:Ps_1.html][1]] ...
-[[file:Ps_96.html][96]] [[file:Ps_97.html][97]] *98*
-[[file:Ps_99.html][99]] [[file:Ps_100.html][100]] ...
-[[file:Ps_150.html][150]]
-
---------------
+#+TITLE: Ps 98 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-08 Do 17:49]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 98.html
 
 * Ps 98
-  :PROPERTIES:
-  :CUSTOM_ID: ps-98
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Ein neues Lied auf den Richter und Retter
-     :PROPERTIES:
-     :CUSTOM_ID: ein-neues-lied-auf-den-richter-und-retter
-     :END:
+* Ein neues Lied auf den Richter und Retter
+
 1 [Ein Psalm.] Singt dem Herrn ein neues Lied; /\\
  denn er hat wunderbare Taten vollbracht. Er hat mit seiner Rechten
 geholfen /\\
- und mit seinem heiligen Arm. ^{[[#fn1][1]]}\\
+ und mit seinem heiligen Arm. [fn:1]\\
 \\
 
 <<v2>>
@@ -51,31 +47,33 @@ geholfen /\\
 
 <<v6>>
 6 Zum Schall der Trompeten und Hörner /\\
- jauchzt vor dem Herrn, dem König! ^{[[#fn2][2]]}\\
+ jauchzt vor dem Herrn, dem König! [fn:2]\\
 \\
 
 <<v7>>
 7 Es brause das Meer und alles, was es erfüllt, /\\
- der Erdkreis und seine Bewohner. ^{[[#fn3][3]]}\\
+ der Erdkreis und seine Bewohner. [fn:3]\\
 \\
 
 <<v8>>
 8 In die Hände klatschen sollen die Ströme, /\\
- die Berge sollen jubeln im Chor ^{[[#fn4][4]]}\\
+ die Berge sollen jubeln im Chor [fn:4]\\
 \\
 
 <<v9>>
 9 vor dem Herrn, wenn er kommt, /\\
  um die Erde zu richten. Er richtet den Erdkreis gerecht, /\\
- die Nationen so, wie es recht ist. ^{[[#fn5][5]]}\\
+ die Nationen so, wie es recht ist. [fn:5]\\
 \\
 
-^{[[#fnm1][1]]} ℘ 33,3; Jes 59,16; 63,5
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 24,7-10
+[fn:1] [[file:Ps_33.org::v3][33,3]]; [[file:Jes_59.org::v16][Jes 59,16]]; [[file:Jes_63.org::v5][63,5]]
 
-^{[[#fnm3][3]]} ℘ 96,11
+[fn:2] [[file:Ps_24.org::v7][24,7-10]]
 
-^{[[#fnm4][4]]} ℘ 96,12f
+[fn:3] [[file:Ps_96.org::v11][96,11]]
 
-^{[[#fnm5][5]]} ℘ 96,13; 67,5
+[fn:4] [[file:Ps_96.org::v12][96,12f]]
+
+[fn:5] [[file:Ps_96.org::v13][96,13]]; [[file:Ps_67.org::v5][67,5]]
