@@ -1,39 +1,35 @@
-:PROPERTIES:
-:ID:       7d231ee4-3798-48f7-8126-48495289885b
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Die Psalmen* -- [[file:Ps_1.html][1]] ...
-[[file:Ps_104.html][104]] [[file:Ps_105.html][105]] *106*
-[[file:Ps_107.html][107]] [[file:Ps_108.html][108]] ...
-[[file:Ps_150.html][150]]
-
---------------
+#+TITLE: Ps 106 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-15 Do 16:20]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 106.html
 
 * Ps 106
-  :PROPERTIES:
-  :CUSTOM_ID: ps-106
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Gottes Güte - Israels Undank
-     :PROPERTIES:
-     :CUSTOM_ID: gottes-güte---israels-undank
-     :END:
+* Gottes Güte - Israels Undank
+
 1 Halleluja! Danket dem Herrn; denn er ist gütig, /\\
- denn seine Huld währt ewig. ^{[[#fn1][1]]}\\
+ denn seine Huld währt ewig. [fn:1]\\
 \\
 
 <<v2>>
 2 Wer kann die großen Taten des Herrn erzählen, /\\
- all seinen Ruhm verkünden? ^{[[#fn2][2]]}\\
+ all seinen Ruhm verkünden? [fn:2]\\
 \\
 
 <<v3>>
 3 Wohl denen, die das Recht bewahren /\\
- und zu jeder Zeit tun, was gerecht ist. ^{[[#fn3][3]]}\\
+ und zu jeder Zeit tun, was gerecht ist. [fn:3]\\
 \\
 
 <<v4>>
@@ -49,23 +45,23 @@
 
 <<v6>>
 6 Wir haben zusammen mit unsern Vätern gesündigt, /\\
- wir haben Unrecht getan und gefrevelt. ^{[[#fn4][4]]}\\
+ wir haben Unrecht getan und gefrevelt. [fn:4]\\
 \\
 
 <<v7>>
 7 Unsre Väter in Ägypten begriffen deine Wunder nicht, /\\
  dachten nicht an deine reiche Huld /\\
- und trotzten dem Höchsten am Schilfmeer. ^{[[#fn5][5]][[#fn6][6]]}\\
+ und trotzten dem Höchsten am Schilfmeer. [fn:5] [fn:6]\\
 \\
 
 <<v8>>
 8 Er aber hat sie gerettet, um seinen Namen zu ehren /\\
- und seine Macht zu bekunden. ^{[[#fn7][7]]}\\
+ und seine Macht zu bekunden. [fn:7]\\
 \\
 
 <<v9>>
 9 Er bedrohte das Schilfmeer, da wurde es trocken; /\\
- wie durch eine Steppe führte er sie durch die Fluten. ^{[[#fn8][8]]}\\
+ wie durch eine Steppe führte er sie durch die Fluten. [fn:8]\\
 \\
 
 <<v10>>
@@ -80,7 +76,7 @@
 
 <<v12>>
 12 Nun glaubten sie Gottes Worten /\\
- und sangen laut seinen Lobpreis. ^{[[#fn9][9]]}\\
+ und sangen laut seinen Lobpreis. [fn:9]\\
 \\
 
 <<v13>>
@@ -90,7 +86,7 @@
 
 <<v14>>
 14 Sie wurden in der Wüste begehrlich /\\
- und versuchten Gott in der Öde. ^{[[#fn10][10]]}\\
+ und versuchten Gott in der Öde. [fn:10]\\
 \\
 
 <<v15>>
@@ -100,12 +96,12 @@
 
 <<v16>>
 16 Sie wurden im Lager eifersüchtig auf Mose /\\
- und auf Aaron, den Heiligen des Herrn. ^{[[#fn11][11]]}\\
+ und auf Aaron, den Heiligen des Herrn. [fn:11]\\
 \\
 
 <<v17>>
 17 Die Erde tat sich auf, sie verschlang den Datan /\\
- und bedeckte die Rotte Abírams. ^{[[#fn12][12]]}\\
+ und bedeckte die Rotte Abírams. [fn:12]\\
 \\
 
 <<v18>>
@@ -115,17 +111,17 @@
 
 <<v19>>
 19 Sie machten am Horeb ein Kalb /\\
- und warfen sich vor dem Gussbild nieder. ^{[[#fn13][13]]}\\
+ und warfen sich vor dem Gussbild nieder. [fn:13]\\
 \\
 
 <<v20>>
 20 Die Herrlichkeit Gottes tauschten sie ein /\\
- gegen das Bild eines Stieres, der Gras frisst. ^{[[#fn14][14]]}\\
+ gegen das Bild eines Stieres, der Gras frisst. [fn:14]\\
 \\
 
 <<v21>>
 21 Sie vergaßen Gott, ihren Retter, /\\
- der einst in Ägypten Großes vollbrachte, ^{[[#fn15][15]]}\\
+ der einst in Ägypten Großes vollbrachte, [fn:15]\\
 \\
 
 <<v22>>
@@ -136,12 +132,12 @@
 <<v23>>
 23 Da fasste er einen Plan und er hätte sie vernichtet, /\\
  wäre nicht Mose, sein Erwählter, für sie in die Bresche gesprungen, /\\
- sodass Gott sie im Zorn nicht vertilgte. ^{[[#fn16][16]]}\\
+ sodass Gott sie im Zorn nicht vertilgte. [fn:16]\\
 \\
 
 <<v24>>
 24 Sie verschmähten das köstliche Land; /\\
- sie glaubten seinen Verheißungen nicht. ^{[[#fn17][17]]}\\
+ sie glaubten seinen Verheißungen nicht. [fn:17]\\
 \\
 
 <<v25>>
@@ -151,17 +147,17 @@
 
 <<v26>>
 26 Da erhob er gegen sie die Hand, /\\
- um sie niederzustrecken noch in der Wüste, ^{[[#fn18][18]]}\\
+ um sie niederzustrecken noch in der Wüste, [fn:18]\\
 \\
 
 <<v27>>
 27 ihre Nachkommen unter die Völker zu zerstreuen, /\\
- sie in alle Welt zu versprengen. ^{[[#fn19][19]][[#fn20][20]]}\\
+ sie in alle Welt zu versprengen. [fn:19] [fn:20]\\
 \\
 
 <<v28>>
 28 Sie hängten sich an den Báal-Pegór /\\
- und aßen die Opfer der toten Götzen. ^{[[#fn21][21]][[#fn22][22]]}\\
+ und aßen die Opfer der toten Götzen. [fn:21] [fn:22]\\
 \\
 
 <<v29>>
@@ -171,17 +167,17 @@
 
 <<v30>>
 30 Pinhas trat auf und hielt Gericht; /\\
- so wurde die Plage abgewandt. ^{[[#fn23][23]]}\\
+ so wurde die Plage abgewandt. [fn:23]\\
 \\
 
 <<v31>>
 31 Das rechnete Gott ihm als Gerechtigkeit an, /\\
- ihm und seinem Geschlecht für immer und ewig. ^{[[#fn24][24]]}\\
+ ihm und seinem Geschlecht für immer und ewig. [fn:24]\\
 \\
 
 <<v32>>
 32 An den Wassern von Meríba reizten sie Gottes Zorn, /\\
- ihretwegen erging es Mose übel. ^{[[#fn25][25]]}\\
+ ihretwegen erging es Mose übel. [fn:25]\\
 \\
 
 <<v33>>
@@ -191,7 +187,7 @@
 
 <<v34>>
 34 Sie rotteten die Völker nicht aus, /\\
- wie ihnen der Herr einst befahl. ^{[[#fn26][26]]}\\
+ wie ihnen der Herr einst befahl. [fn:26]\\
 \\
 
 <<v35>>
@@ -201,19 +197,19 @@
 
 <<v36>>
 36 Sie dienten ihren Götzen; /\\
- die wurden ihnen zur Falle. ^{[[#fn27][27]]}\\
+ die wurden ihnen zur Falle. [fn:27]\\
 \\
 
 <<v37>>
 37 Sie brachten ihre Söhne und Töchter dar /\\
- als Opfer für die Dämonen. ^{[[#fn28][28]]}\\
+ als Opfer für die Dämonen. [fn:28]\\
 \\
 
 <<v38>>
 38 Sie vergossen schuldloses Blut, /\\
  das Blut ihrer Söhne und Töchter, die sie den Götzen Kanaans opferten;
 /\\
- so wurde das Land durch Blutschuld entweiht. ^{[[#fn29][29]]}\\
+ so wurde das Land durch Blutschuld entweiht. [fn:29]\\
 \\
 
 <<v39>>
@@ -223,7 +219,7 @@
 
 <<v40>>
 40 Der Zorn des Herrn entbrannte gegen sein Volk, /\\
- er empfand Abscheu gegen sein Erbe. ^{[[#fn30][30]]}\\
+ er empfand Abscheu gegen sein Erbe. [fn:30]\\
 \\
 
 <<v41>>
@@ -239,7 +235,7 @@
 <<v43>>
 43 Oft hat er sie befreit; /\\
  sie aber trotzten seinem Beschluss /\\
- und versanken in ihrer Schuld. ^{[[#fn31][31]][[#fn32][32]]}\\
+ und versanken in ihrer Schuld. [fn:31] [fn:32]\\
 \\
 
 <<v44>>
@@ -249,19 +245,19 @@
 
 <<v45>>
 45 und dachte ihnen zuliebe an seinen Bund; /\\
- er hatte Mitleid in seiner großen Gnade. ^{[[#fn33][33]]}\\
+ er hatte Mitleid in seiner großen Gnade. [fn:33]\\
 \\
 
 <<v46>>
 46 Bei denen, die sie verschleppten, /\\
- ließ er sie Erbarmen erfahren. ^{[[#fn34][34]]}\\
+ ließ er sie Erbarmen erfahren. [fn:34]\\
 \\
 
 <<v47>>
 47 Hilf uns, Herr, unser Gott, /\\
  führe uns aus den Völkern zusammen! Wir wollen deinen heiligen Namen
 preisen, /\\
- uns rühmen, weil wir dich loben dürfen. ^{[[#fn35][35]]}\\
+ uns rühmen, weil wir dich loben dürfen. [fn:35]\\
 \\
 
 <<v48>>
@@ -271,74 +267,74 @@ preisen, /\\
  Halleluja!\\
 \\
 
-^{[[#fnm1][1]]} ℘ 107,1
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ Joh 21,25
+[fn:1] [[file:Ps_107.org::v1][107,1]]
 
-^{[[#fnm3][3]]} ℘ Jes 56,1f
+[fn:2] [[file:~/RoamNotes/notes/Bibel/nt/Joh_21.org::v25][Joh 21,25]]
 
-^{[[#fnm4][4]]} ℘ Lev 26,40; Dan 9,5
+[fn:3] [[file:Jes_56.org::v1][Jes 56,1f]]
 
-^{[[#fnm5][5]]} ℘ 78,11-17
+[fn:4] [[file:Lev_26.org::v40][Lev 26,40]]; [[file:Dan_9.org::v5][Dan 9,5]]
 
-^{[[#fnm6][6]]} dem Höchsten am Schilfmeer: Text korr.; H: am Meer, am
-Schilfmeer.
+[fn:5] [[file:Ps_78.org::v11][78,11-17]]
 
-^{[[#fnm7][7]]} ℘ Ez 39,25
+[fn:6] dem Höchsten am Schilfmeer: Text korr.; H: am Meer, am Schilfmeer.
 
-^{[[#fnm8][8]]} ℘ Ex 14,21f; Jes 63,11-14
+[fn:7] [[file:Ez_39.org::v25][Ez 39,25]]
 
-^{[[#fnm9][9]]} ℘ Ex 14,31; 15,1-21
+[fn:8] [[file:Ex_14.org::v21][Ex 14,21f]]; [[file:Jes_63.org::v11][Jes 63,11-14]]
 
-^{[[#fnm10][10]]} ℘ 78,18; Num 11,4-6
+[fn:9] [[file:Ex_14.org::v31][Ex 14,31]]; [[file:Ex_15.org::v1][15,1-21]]
 
-^{[[#fnm11][11]]} ℘ Num 16,1-3
+[fn:10] [[file:Ps_78.org::v18][78,18]]; [[file:Num_11.org::v4][Num 11,4-6]]
 
-^{[[#fnm12][12]]} ℘ (17-18) Num 16,31-35
+[fn:11] [[file:Num_16.org::v1][Num 16,1-3]]
 
-^{[[#fnm13][13]]} ℘ (19-20) Ex 32,1-6
+[fn:12] (17-18) [[file:Num_16.org::v31][Num 16,31-35]]
 
-^{[[#fnm14][14]]} ℘ Jer 2,11; Röm 1,23
+[fn:13] (19-20) [[file:Ex_32.org::v1][Ex 32,1-6]]
 
-^{[[#fnm15][15]]} ℘ 78,42
+[fn:14] [[file:Jer_2.org::v11][Jer 2,11]]; [[file:~/RoamNotes/notes/Bibel/nt/Röm_1.org::v23][Röm 1,23]]
 
-^{[[#fnm16][16]]} ℘ Ex 32,11-14
+[fn:15] [[file:Ps_78.org::v42][78,42]]
 
-^{[[#fnm17][17]]} ℘ Num 14,2-4
+[fn:16] [[file:Ex_32.org::v11][Ex 32,11-14]]
 
-^{[[#fnm18][18]]} ℘ Num 14,23.29
+[fn:17] [[file:Num_14.org::v2][Num 14,2-4]]
 
-^{[[#fnm19][19]]} ℘ Lev 26,33; Ez 20,23
+[fn:18] [[file:Num_14.org::v23][Num 14,23]].[[file:Num_14.org::v29][29]]
 
-^{[[#fnm20][20]]} zu zerstreuen: Text korr.; H: niederzustrecken, (wie
-in V. 26b).
+[fn:19] [[file:Lev_26.org::v33][Lev 26,33]]; [[file:Ex_20.org::v23][Ez 20,23]]
 
-^{[[#fnm21][21]]} ℘ Num 25,1-3
+[fn:20] zu zerstreuen: Text korr.; H: niederzustrecken, (wie in V. 26b).
 
-^{[[#fnm22][22]]} Wörtlich: die Opfer der Toten.
+[fn:21] [[file:Num_25.org::v1][Num 25,1-3]]
 
-^{[[#fnm23][23]]} ℘ Num 25,7-11
+[fn:22] Wörtlich: die Opfer der Toten.
 
-^{[[#fnm24][24]]} ℘ Num 25,12f
+[fn:23] [[file:Num_25.org::v7][Num 25,7-11]]
 
-^{[[#fnm25][25]]} ℘ Num 20,2-13
+[fn:24] [[file:Num_25.org::v12][Num 25,12f]]
 
-^{[[#fnm26][26]]} ℘ (34-36) Dtn 7,1-5; Ri 1,18 - 2,5
+[fn:25] [[file:Num_20.org::v2][Num 20,2-13]]
 
-^{[[#fnm27][27]]} ℘ Ri 2,11-13
+[fn:26] (34-36) [[file:Dtn_7.org::v1][Dtn 7,1-5]]; [[file:Ri_1.org::v18][Ri 1,18]] - [[file:Ri_2.org::v5][2,5]]
 
-^{[[#fnm28][28]]} ℘ (37-38) Lev 18,21
+[fn:27] [[file:Ri_2.org::v11][Ri 2,11-13]]
 
-^{[[#fnm29][29]]} ℘ (38-39) Num 35,33f
+[fn:28] (37-38) [[file:Lev_18.org::v21][Lev 18,21]]
 
-^{[[#fnm30][30]]} ℘ (40-42) Ri 2,14f
+[fn:29] (38-39) [[file:Num_35.org::v33][Num 35,33f]]
 
-^{[[#fnm31][31]]} ℘ Ri 2,16
+[fn:30] (40-42) [[file:Ri_2.org::v14][Ri 2,14f]]
 
-^{[[#fnm32][32]]} Text korr.; H: ihrem Beschluss.
+[fn:31] [[file:Ri_2.org::v16][Ri 2,16]]
 
-^{[[#fnm33][33]]} ℘ Lev 26,42
+[fn:32] Text korr.; H: ihrem Beschluss.
 
-^{[[#fnm34][34]]} ℘ Esra 9,9
+[fn:33] [[file:Lev_26.org::v42][Lev 26,42]]
 
-^{[[#fnm35][35]]} ℘ (47-48) 1 Chr 16,35f
+[fn:34] [[file:Esra_9.org::v9][Esra 9,9]]
+
+[fn:35] (47-48) [[file:1.Chr_16.org::v35][1 Chr 16,35f]]

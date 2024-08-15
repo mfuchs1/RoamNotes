@@ -1,27 +1,23 @@
-:PROPERTIES:
-:ID:       d4826a41-1ff7-4a67-8396-9f20463424fb
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Die Psalmen* -- [[file:Ps_1.html][1]] ...
-[[file:Ps_100.html][100]] [[file:Ps_101.html][101]] *102*
-[[file:Ps_103.html][103]] [[file:Ps_104.html][104]] ...
-[[file:Ps_150.html][150]]
-
---------------
+#+TITLE: Ps 102 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-08 Do 21:32]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 102.html
 
 * Ps 102
-  :PROPERTIES:
-  :CUSTOM_ID: ps-102
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Das Gebet eines Unglücklichen
-     :PROPERTIES:
-     :CUSTOM_ID: das-gebet-eines-unglücklichen
-     :END:
+* Das Gebet eines Unglücklichen
+
 1 [Gebet eines Unglücklichen, wenn er in Verzweiflung ist und vor dem
 Herrn seine Sorge ausschüttet.]\\
 \\
@@ -34,12 +30,12 @@ Herrn seine Sorge ausschüttet.]\\
 <<v3>>
 3 Verbirg dein Antlitz nicht vor mir! /\\
  Wenn ich in Not bin, wende dein Ohr mir zu! /\\
- Wenn ich dich anrufe, erhöre mich bald! ^{[[#fn1][1]]}\\
+ Wenn ich dich anrufe, erhöre mich bald! [fn:1]\\
 \\
 
 <<v4>>
 4 Meine Tage sind wie Rauch geschwunden, /\\
- meine Glieder wie von Feuer verbrannt. ^{[[#fn2][2]]}\\
+ meine Glieder wie von Feuer verbrannt. [fn:2]\\
 \\
 
 <<v5>>
@@ -49,7 +45,7 @@ Herrn seine Sorge ausschüttet.]\\
 
 <<v6>>
 6 Vor lauter Stöhnen und Schreien /\\
- bin ich nur noch Haut und Knochen. ^{[[#fn3][3]][[#fn4][4]]}\\
+ bin ich nur noch Haut und Knochen. [fn:3] [fn:4]\\
 \\
 
 <<v7>>
@@ -59,17 +55,17 @@ Herrn seine Sorge ausschüttet.]\\
 
 <<v8>>
 8 Ich liege wach und ich klage /\\
- wie ein einsamer Vogel auf dem Dach. ^{[[#fn5][5]]}\\
+ wie ein einsamer Vogel auf dem Dach. [fn:5]\\
 \\
 
 <<v9>>
 9 Den ganzen Tag schmähen mich die Feinde; /\\
- die mich verhöhnen, nennen meinen Namen beim Fluchen. ^{[[#fn6][6]]}\\
+ die mich verhöhnen, nennen meinen Namen beim Fluchen. [fn:6]\\
 \\
 
 <<v10>>
 10 Staub muss ich essen wie Brot, /\\
- mit Tränen mische ich meinen Trank; ^{[[#fn7][7]]}\\
+ mit Tränen mische ich meinen Trank; [fn:7]\\
 \\
 
 <<v11>>
@@ -79,18 +75,17 @@ Herrn seine Sorge ausschüttet.]\\
 
 <<v12>>
 12 Meine Tage schwinden dahin wie Schatten, /\\
- ich verdorre wie Gras. ^{[[#fn8][8]][[#fn9][9]]}\\
+ ich verdorre wie Gras. [fn:8] [fn:9]\\
 \\
 
 <<v13>>
 13 Du aber, Herr, du thronst für immer und ewig, /\\
- dein Name dauert von Geschlecht zu Geschlecht. ^{[[#fn10][10]]}\\
+ dein Name dauert von Geschlecht zu Geschlecht. [fn:10]\\
 \\
 
 <<v14>>
 14 Du wirst dich erheben, dich über Zion erbarmen; /\\
- denn es ist Zeit, ihm gnädig zu sein, die Stunde ist da.
-^{[[#fn11][11]]}\\
+ denn es ist Zeit, ihm gnädig zu sein, die Stunde ist da. [fn:11]\\
 \\
 
 <<v15>>
@@ -105,7 +100,7 @@ Herrn seine Sorge ausschüttet.]\\
 
 <<v17>>
 17 Denn der Herr baut Zion wieder auf /\\
- und erscheint in all seiner Herrlichkeit. ^{[[#fn12][12]]}\\
+ und erscheint in all seiner Herrlichkeit. [fn:12]\\
 \\
 
 <<v18>>
@@ -115,18 +110,17 @@ Herrn seine Sorge ausschüttet.]\\
 
 <<v19>>
 19 Dies sei aufgeschrieben für das kommende Geschlecht, /\\
- damit das Volk, das noch erschaffen wird, den Herrn lobpreise.
-^{[[#fn13][13]]}\\
+ damit das Volk, das noch erschaffen wird, den Herrn lobpreise. [fn:13]\\
 \\
 
 <<v20>>
 20 Denn der Herr schaut herab aus heiliger Höhe, /\\
- vom Himmel blickt er auf die Erde nieder; ^{[[#fn14][14]]}\\
+ vom Himmel blickt er auf die Erde nieder; [fn:14]\\
 \\
 
 <<v21>>
 21 er will auf das Seufzen der Gefangenen hören /\\
- und alle befreien, die dem Tod geweiht sind, ^{[[#fn15][15]]}\\
+ und alle befreien, die dem Tod geweiht sind, [fn:15]\\
 \\
 
 <<v22>>
@@ -136,23 +130,22 @@ Herrn seine Sorge ausschüttet.]\\
 
 <<v23>>
 23 wenn sich dort Königreiche und Völker versammeln, /\\
- um den Herrn zu verehren. ^{[[#fn16][16]]}\\
+ um den Herrn zu verehren. [fn:16]\\
 \\
 
 <<v24>>
 24 Er hat meine Kraft auf dem Weg gebrochen, /\\
- er hat meine Tage verkürzt. ^{[[#fn17][17]]}\\
+ er hat meine Tage verkürzt. [fn:17]\\
 \\
 
 <<v25>>
 25 Darum sage ich: Raff mich nicht weg in der Mitte des Lebens, /\\
- mein Gott, dessen Jahre Geschlecht um Geschlecht überdauern!
-^{[[#fn18][18]]}\\
+ mein Gott, dessen Jahre Geschlecht um Geschlecht überdauern! [fn:18]\\
 \\
 
 <<v26>>
 26 Vorzeiten hast du der Erde Grund gelegt, /\\
- die Himmel sind das Werk deiner Hände. ^{[[#fn19][19]]}\\
+ die Himmel sind das Werk deiner Hände. [fn:19]\\
 \\
 
 <<v27>>
@@ -163,54 +156,56 @@ Herrn seine Sorge ausschüttet.]\\
 
 <<v28>>
 28 Du aber bleibst, der du bist, /\\
- und deine Jahre enden nie. ^{[[#fn20][20]]}\\
+ und deine Jahre enden nie. [fn:20]\\
 \\
 
 <<v29>>
 29 Die Kinder deiner Knechte werden (in Sicherheit) wohnen, /\\
- ihre Nachkommen vor deinem Antlitz bestehen. ^{[[#fn21][21]]}\\
+ ihre Nachkommen vor deinem Antlitz bestehen. [fn:21]\\
 \\
 
-^{[[#fnm1][1]]} ℘ 31,3; 69,18; 143,7
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 38,8f
+[fn:1] [[file:Ps_31.org::v3][31,3]]; [[file:Ps_69.org::v18][69,18]]; [[file:Ps_143.org::v7][143,7]]
 
-^{[[#fnm3][3]]} ℘ Ijob 19,20
+[fn:2] [[file:Ps_38.org::v8][38,8f]]
 
-^{[[#fnm4][4]]} Wörtlich: Vor lauter Jammern klebt mein Gebein am
+[fn:3] [[file:Ijob_19.org::v20][Ijob 19,20]]
+
+[fn:4] Wörtlich: Vor lauter Jammern klebt mein Gebein am
 Fleisch.
 
-^{[[#fnm5][5]]} und ich klage wie: Text korr.; H: und ich bin wie . . .
+[fn:5] und ich klage wie: Text korr.; H: und ich bin wie ...
 
-^{[[#fnm6][6]]} ℘ 41,6
+[fn:6] [[file:Ps_41.org::v6][41,6]]
 
-^{[[#fnm7][7]]} ℘ 42,4
+[fn:7] [[file:Ps_42.org::v4][42,4]]
 
-^{[[#fnm8][8]]} ℘ 90,9f
+[fn:8] [[file:Ps_90.org::v9][90,9f]]
 
-^{[[#fnm9][9]]} Text korr.; H: Meine Tage (sind) wie ein lang sich
-dehnender Schatten (d. h.: es geht dem Ende entgegen).
+[fn:9] Text korr.; H: Meine Tage (sind) wie ein lang sich
+dehnender Schatten (d. h.: es geht dem Ende entgegen)
 
-^{[[#fnm10][10]]} ℘ 145,13; 135,13; Klgl 5,19
+[fn:10] [[file:Ps_145.org::v13][145,13]]; [[file:Ps_135.org::v13][135,13]]; [[file:Klgl_5.org::v19][Klgl 5,19]]
 
-^{[[#fnm11][11]]} ℘ 69,14
+[fn:11] [[file:Ps_69.org::v14][69,14]]
 
-^{[[#fnm12][12]]} ℘ 51,20; Jes 60,1
+[fn:12] [[file:Ps_51.org::v20][51,20]]; [[file:Jes_60.org::v1][Jes 60,1]]
 
-^{[[#fnm13][13]]} ℘ 22,31f
+[fn:13] [[file:Ps_22.org::v31][22,31f]]
 
-^{[[#fnm14][14]]} ℘ 11,4; 33,13
+[fn:14] [[file:Ps_11.org::v4][11,4]]; [[file:Ps_33.org::v13][33,13]]
 
-^{[[#fnm15][15]]} ℘ 79,11
+[fn:15] [[file:Ps_79.org::v11][79,11]]
 
-^{[[#fnm16][16]]} ℘ Jes 60,3-10; Lk 13,29f
+[fn:16] [[file:Jes_60.org::v3][Jes 60,3-10]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_13.org::v29][Lk 13,29f]]
 
-^{[[#fnm17][17]]} ℘ 89,46
+[fn:17] [[file:Ps_89.org::v46][89,46]]
 
-^{[[#fnm18][18]]} ℘ 55,24
+[fn:18] [[file:Ps_55.org::v24][55,24]]
 
-^{[[#fnm19][19]]} ℘ (26-28) Jes 51,6-8; Hebr 1,10-12
+[fn:19] (26-28) [[file:Jes_51.org::v6][Jes 51,6-8]]; [[file:~/RoamNotes/notes/Bibel/nt/Hebr_1.org::v10][Hebr 1,10-12]]
 
-^{[[#fnm20][20]]} ℘ Hebr 13,8
+[fn:20] [[file:~/RoamNotes/notes/Bibel/nt/Hebr_13.org::v8][Hebr 13,8]]
 
-^{[[#fnm21][21]]} ℘ 69,36f
+[fn:21] [[file:Ps_69.org::v36][69,36f]]
