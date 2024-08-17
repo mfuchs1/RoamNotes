@@ -10,6 +10,9 @@
 Flug Salzburg London
 
 * Rückreise Salzburg
+:PROPERTIES:
+:CUSTOM_ID: h:7d7092d7-aa5f-4341-abcc-e08f1428055b
+:END:
 <2024-07-15 Mo>
 Flug London Salzburg
 
