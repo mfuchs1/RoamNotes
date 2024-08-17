@@ -1,54 +1,50 @@
-:PROPERTIES:
-:ID:       248e2caf-3c19-4239-8040-f795ac48c28c
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Die Psalmen* -- [[file:Ps_1.html][1]] ...
-[[file:Ps_110.html][110]] [[file:Ps_111.html][111]] *112*
-[[file:Ps_113.html][113]] [[file:Ps_114.html][114]] ...
-[[file:Ps_150.html][150]]
-
---------------
+#+TITLE: Ps 112 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-17 Sa 23:43]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 112.html
 
 * Ps 112
-  :PROPERTIES:
-  :CUSTOM_ID: ps-112
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Der Segen der Gottesfurcht
-     :PROPERTIES:
-     :CUSTOM_ID: der-segen-der-gottesfurcht
-     :END:
+* Der Segen der Gottesfurcht
+
 1 Halleluja! Wohl dem Mann, der den Herrn fürchtet und ehrt /\\
- und sich herzlich freut an seinen Geboten. ^{[[#fn1][1]]}\\
+ und sich herzlich freut an seinen Geboten. [fn:1]\\
 \\
 
 <<v2>>
 2 Seine Nachkommen werden mächtig im Land, /\\
- das Geschlecht der Redlichen wird gesegnet. ^{[[#fn2][2]]}\\
+ das Geschlecht der Redlichen wird gesegnet. [fn:2]\\
 \\
 
 <<v3>>
 3 Wohlstand und Reichtum füllen sein Haus, /\\
- sein Heil hat Bestand für immer. ^{[[#fn3][3]]}\\
+ sein Heil hat Bestand für immer. [fn:3]\\
 \\
 
 <<v4>>
 4 Den Redlichen erstrahlt im Finstern ein Licht: /\\
- der Gnädige, Barmherzige und Gerechte. ^{[[#fn4][4]]}\\
+ der Gnädige, Barmherzige und Gerechte. [fn:4]\\
 \\
 
 <<v5>>
 5 Wohl dem Mann, der gütig und zum Helfen bereit ist, /\\
- der das Seine ordnet, wie es recht ist. ^{[[#fn5][5]]}\\
+ der das Seine ordnet, wie es recht ist. [fn:5]\\
 \\
 
 <<v6>>
 6 Niemals gerät er ins Wanken; /\\
- ewig denkt man an den Gerechten. ^{[[#fn6][6]]}\\
+ ewig denkt man an den Gerechten. [fn:6]\\
 \\
 
 <<v7>>
@@ -58,13 +54,13 @@
 
 <<v8>>
 8 Sein Herz ist getrost, er fürchtet sich nie; /\\
- denn bald wird er herabschauen auf seine Bedränger. ^{[[#fn7][7]]}\\
+ denn bald wird er herabschauen auf seine Bedränger. [fn:7]\\
 \\
 
 <<v9>>
 9 Reichlich gibt er den Armen, /\\
  sein Heil hat Bestand für immer; /\\
- er ist mächtig und hoch geehrt. ^{[[#fn8][8]]}\\
+ er ist mächtig und hoch geehrt. [fn:8]\\
 \\
 
 <<v10>>
@@ -73,18 +69,20 @@
  Zunichte werden die Wünsche der Frevler.\\
 \\
 
-^{[[#fnm1][1]]} ℘ 1,1f; 128,1
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ Spr 20,7
+[fn:1] [[file:Ps_1.org::v1][1,1f]]; [[file:Ps_128.org::v1][128,1]]
 
-^{[[#fnm3][3]]} ℘ 128,2
+[fn:2] [[file:Spr_20.org::v7][Spr 20,7]]
 
-^{[[#fnm4][4]]} ℘ 97,11; 116,5
+[fn:3] [[file:Ps_128.org::v2][128,2]]
 
-^{[[#fnm5][5]]} ℘ Ijob 29,12f
+[fn:4] [[file:Ps_97.org::v11][97,11]]; [[file:Ps_116.org::v5][116,5]]
 
-^{[[#fnm6][6]]} ℘ Spr 10,7
+[fn:5] [[file:Ijob_29.org::v12][Ijob 29,12f]]
 
-^{[[#fnm7][7]]} ℘ 54,9
+[fn:6] [[file:Spr_10.org::v7][Spr 10,7]]
 
-^{[[#fnm8][8]]} ℘ Spr 22,9; 2 Kor 9,9
+[fn:7] [[file:Ps_54.org::v9][54,9]]
+
+[fn:8] [[file:Spr_22.org::v9][Spr 22,9]]; [[file:~/RoamNotes/notes/Bibel/nt/2.Kor_9.org::v9][2 Kor 9,9]]

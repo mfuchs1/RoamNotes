@@ -1,45 +1,41 @@
-:PROPERTIES:
-:ID:       0caac151-4fe4-48bd-8a5a-7fcc49f090c3
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Die Psalmen* -- [[file:Ps_1.html][1]] ...
-[[file:Ps_113.html][113]] [[file:Ps_114.html][114]] *115*
-[[file:Ps_116.html][116]] [[file:Ps_117.html][117]] ...
-[[file:Ps_150.html][150]]
-
---------------
+#+TITLE: Ps 115 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-17 Sa 23:59]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 115.html
 
 * Ps 115
-  :PROPERTIES:
-  :CUSTOM_ID: ps-115
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Der Gott Israels und die Götter der anderen Völker
-     :PROPERTIES:
-     :CUSTOM_ID: der-gott-israels-und-die-götter-der-anderen-völker
-     :END:
+* Der Gott Israels und die Götter der anderen Völker
+
 1 Nicht uns, o Herr, bring zu Ehren, /\\
  nicht uns, sondern deinen Namen, /\\
- in deiner Huld und Treue! ^{[[#fn1][1]]}\\
+ in deiner Huld und Treue! [fn:1]\\
 \\
 
 <<v2>>
 2 Warum sollen die Völker sagen: /\\
- «Wo ist denn ihr Gott?» ^{[[#fn2][2]]}\\
+ «Wo ist denn ihr Gott?» [fn:2]\\
 \\
 
 <<v3>>
 3 Unser Gott ist im Himmel; /\\
- alles, was ihm gefällt, das vollbringt er. ^{[[#fn3][3]]}\\
+ alles, was ihm gefällt, das vollbringt er. [fn:3]\\
 \\
 
 <<v4>>
 4 Die Götzen der Völker sind nur Silber und Gold, /\\
- ein Machwerk von Menschenhand. ^{[[#fn4][4]][[#fn5][5]]}\\
+ ein Machwerk von Menschenhand. [fn:4] [fn:5]\\
 \\
 
 <<v5>>
@@ -65,7 +61,7 @@
 
 <<v9>>
 9 Israel, vertrau auf den Herrn! /\\
- Er ist für euch Helfer und Schild. ^{[[#fn6][6]]}\\
+ Er ist für euch Helfer und Schild. [fn:6]\\
 \\
 
 <<v10>>
@@ -91,22 +87,22 @@
 
 <<v14>>
 14 Es mehre euch der Herr, /\\
- euch und eure Kinder. ^{[[#fn7][7]]}\\
+ euch und eure Kinder. [fn:7]\\
 \\
 
 <<v15>>
 15 Seid gesegnet vom Herrn, /\\
- der Himmel und Erde gemacht hat. ^{[[#fn8][8]]}\\
+ der Himmel und Erde gemacht hat. [fn:8]\\
 \\
 
 <<v16>>
 16 Der Himmel ist der Himmel des Herrn, /\\
- die Erde aber gab er den Menschen. ^{[[#fn9][9]]}\\
+ die Erde aber gab er den Menschen. [fn:9]\\
 \\
 
 <<v17>>
 17 Tote können den Herrn nicht mehr loben, /\\
- keiner, der ins Schweigen hinabfuhr. ^{[[#fn10][10]]}\\
+ keiner, der ins Schweigen hinabfuhr. [fn:10]\\
 \\
 
 <<v18>>
@@ -115,23 +111,24 @@
  Halleluja!\\
 \\
 
-^{[[#fnm1][1]]} ℘ Ez 36,22f
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 42,11
+[fn:1] [[file:Ez_36.org::v22][Ez 36,22f]]
 
-^{[[#fnm3][3]]} ℘ 135,6; Ijob 23,13; Weish 12,18
+[fn:2] [[file:Ps_42.org::v11][42,11]]
 
-^{[[#fnm4][4]]} ℘ (4-8) 135,15-18; Dtn 4,28; Weish 15,15; Jes 44,9-11;
-Bar 6,3.7
+[fn:3] [[file:Ps_135.org::v6][135,6]]; [[file:Ijob_23.org::v13][Ijob 23,13]]; [[file:Weish_12.org::v18][Weish 12,18]]
 
-^{[[#fnm5][5]]} Wörtlich: Ihre Götzen sind nur Silber und Gold.
+[fn:4] (4-8) [[file:Ps_135.org::v15][135,15-18]]; [[file:Dtn_4.org::v28][Dtn 4,28]]; [[file:Weish_15.org::v15][Weish 15,15]]; [[file:Jes_44.org::v9][Jes 44,9-11]]; [[file:Bar_6.org::v3][Bar 6,3]].[[file:Bar_6.org::v7][7]]
 
-^{[[#fnm6][6]]} ℘ (9-11) 33,20; 3,4; 118,2-4
+[fn:5] Wörtlich: Ihre Götzen sind nur Silber und Gold.
 
-^{[[#fnm7][7]]} ℘ 127,3; Dtn 1,11
+[fn:6] (9-11) [[file:Ps_33.org::v20][33,20]]; [[file:Ps_3.org::v4][3,4]]; [[file:Ps_118.org::v2][118,2-4]]
 
-^{[[#fnm8][8]]} ℘ 134,3
+[fn:7] [[file:Ps_127.org::v3][127,3]]; [[file:Dtn_1.org::v11][Dtn 1,11]]
 
-^{[[#fnm9][9]]} ℘ 8,7; Gen 1,28
+[fn:8] [[file:Ps_134.org::v3][134,3]]
 
-^{[[#fnm10][10]]} ℘ 6,6; 94,17
+[fn:9] [[file:Ps_8.org::v7][8,7]]; [[file:Gen_1.org::v28][Gen 1,28]]
+
+[fn:10] [[file:Ps_6.org::v6][6,6]]; [[file:Ps_94.org::v17][94,17]]
