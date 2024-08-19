@@ -1,19 +1,23 @@
-* Ps 139
-  :PROPERTIES:
-  :CUSTOM_ID: ps-139
-  :ID:       010b8967-a6df-4f8a-8a69-522039043e86
-  :END:
+#+TITLE: Ps 139 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-19 Mo 23:18]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 139.html
 
 <<verses>>
 
 <<v1>>
-**** Der Mensch vor dem allwissenden Gott
-     :PROPERTIES:
-     :CUSTOM_ID: der-mensch-vor-dem-allwissenden-gott
-     :ID:       der-mensch-vor-dem-allwissenden-gott
-     :END:
+* Der Mensch vor dem allwissenden Gott
+
 1 [Für den Chormeister. Ein Psalm Davids.] Herr, du hast mich erforscht
-und du kennst mich. / ^{[[#fn1][1]]}\\
+und du kennst mich. / [fn:1]\\
 \\
 
 <<v2>>
@@ -136,7 +140,7 @@ gebildet, /\\
  und leite mich auf dem altbewährten Weg! ^{[[#fn24][24]]}\\
 \\
 
-^{[[#fnm1][1]]} ℘ 33,15; 44,22; Jer 12,3
+^{[[#fnm1][1]]} ℘ 
 
 ^{[[#fnm2][2]]} ℘ 2 Kön 19,27; Ijob 31,4
 
@@ -186,3 +190,7 @@ Feinde.
 ^{[[#fnm23][23]]} ℘ 17,3; 26,2
 
 ^{[[#fnm24][24]]} ℘ 25,4
+
+* Footnotes
+
+[fn:1] 33,15; 44,22; Jer 12,3

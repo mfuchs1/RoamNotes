@@ -1,60 +1,55 @@
-:PROPERTIES:
-:ID:       07867a95-5f30-490d-8abc-d6e775f5060d
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Die Psalmen* -- [[file:Ps_1.html][1]] ...
-[[file:Ps_128.html][128]] [[file:Ps_129.html][129]] *130*
-[[file:Ps_131.html][131]] [[file:Ps_132.html][132]] ...
-[[file:Ps_150.html][150]]
-
---------------
+#+TITLE: Ps 130 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-19 Mo 14:48]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 130.html
 
 * Ps 130
-  :PROPERTIES:
-  :CUSTOM_ID: ps-130
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Bitte in tiefer Not
-     :PROPERTIES:
-     :CUSTOM_ID: bitte-in-tiefer-not
-     :END:
-1 [Ein Wallfahrtslied.] Aus der Tiefe rufe ich, Herr, zu dir: /
-^{[[#fn1][1]]}\\
+* Bitte in tiefer Not
+
+1 [Ein Wallfahrtslied.] Aus der Tiefe rufe ich, Herr, zu dir: / [fn:1]\\
 \\
 
 <<v2>>
 2 Herr, höre meine Stimme! Wende dein Ohr mir zu, /\\
- achte auf mein lautes Flehen! ^{[[#fn2][2]]}\\
+ achte auf mein lautes Flehen! [fn:2]\\
 \\
 
 <<v3>>
 3 Würdest du, Herr, unsere Sünden beachten, /\\
- Herr, wer könnte bestehen? ^{[[#fn3][3]]}\\
+ Herr, wer könnte bestehen? [fn:3]\\
 \\
 
 <<v4>>
 4 Doch bei dir ist Vergebung, /\\
- damit man in Ehrfurcht dir dient. ^{[[#fn4][4]]}\\
+ damit man in Ehrfurcht dir dient. [fn:4]\\
 \\
 
 <<v5>>
 5 Ich hoffe auf den Herrn, es hofft meine Seele, /\\
- ich warte voll Vertrauen auf sein Wort. ^{[[#fn5][5]]}\\
+ ich warte voll Vertrauen auf sein Wort. [fn:5]\\
 \\
 
 <<v6>>
 6 Meine Seele wartet auf den Herrn /\\
  mehr als die Wächter auf den Morgen. Mehr als die Wächter auf den
-Morgen / ^{[[#fn6][6]]}\\
+Morgen / [fn:6]\\
 \\
 
 <<v7>>
 7 soll Israel harren auf den Herrn. Denn beim Herrn ist die Huld, /\\
- bei ihm ist Erlösung in Fülle. ^{[[#fn7][7]]}\\
+ bei ihm ist Erlösung in Fülle. [fn:7]\\
 \\
 
 <<v8>>
@@ -62,16 +57,18 @@ Morgen / ^{[[#fn6][6]]}\\
  von all seinen Sünden.\\
 \\
 
-^{[[#fnm1][1]]} ℘ Jona 2,3
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 5,2f
+[fn:1] [[file:Jona_2.org::v3][Jona 2,3]]
 
-^{[[#fnm3][3]]} ℘ 143,2; Nah 1,6
+[fn:2] [[file:Ps_5.org::v2][5,2f]]
 
-^{[[#fnm4][4]]} ℘ 32,1; Jes 55,7; Mi 7,18
+[fn:3] [[file:Ps_143.org::v2][143,2]]; [[file:Nah_1.org::v6][Nah 1,6]]
 
-^{[[#fnm5][5]]} ℘ 119,81
+[fn:4] [[file:Ps_32.org::v1][32,1]]; [[file:Jes_55.org::v7][Jes 55,7]]; [[file:Mi_7.org::v18][Mi 7,18]]
 
-^{[[#fnm6][6]]} ℘ Jes 21,11
+[fn:5] [[file:Ps_119.org::v81][119,81]]
 
-^{[[#fnm7][7]]} ℘ Jes 30,18; (7-8) 25,22; Mt 1,21
+[fn:6] [[file:Jes_21.org::v11][Jes 21,11]]
+
+[fn:7] [[file:Jes_30.org::v18][Jes 30,18]]; (7-8) [[file:Ps_25.org::v22][25,22]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_1.org::v21][Mt 1,21]]

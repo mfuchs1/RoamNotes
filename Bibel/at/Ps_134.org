@@ -1,44 +1,42 @@
-:PROPERTIES:
-:ID:       54597bed-3c54-4c98-91bc-389985edf663
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Die Psalmen* -- [[file:Ps_1.html][1]] ...
-[[file:Ps_132.html][132]] [[file:Ps_133.html][133]] *134*
-[[file:Ps_135.html][135]] [[file:Ps_136.html][136]] ...
-[[file:Ps_150.html][150]]
-
---------------
+#+TITLE: Ps 134 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-19 Mo 22:24]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 134.html
 
 * Ps 134
-  :PROPERTIES:
-  :CUSTOM_ID: ps-134
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Nächtliches Loblied im Tempel
-     :PROPERTIES:
-     :CUSTOM_ID: nächtliches-loblied-im-tempel
-     :END:
+* Nächtliches Loblied im Tempel
+
 1 [Ein Wallfahrtslied.] Wohlan, nun preiset den Herrn, /\\
  all ihr Knechte des Herrn, die ihr steht im Haus des Herrn, /\\
- zu nächtlicher Stunde. ^{[[#fn1][1]]}\\
+ zu nächtlicher Stunde. [fn:1]\\
 \\
 
 <<v2>>
 2 Erhebt eure Hände zum Heiligtum /\\
- und preist den Herrn! ^{[[#fn2][2]]}\\
+ und preist den Herrn! [fn:2]\\
 \\
 
 <<v3>>
 3 Es segne dich der Herr vom Zion her, /\\
- (der Herr,) der Himmel und Erde gemacht hat. ^{[[#fn3][3]]}\\
+ (der Herr,) der Himmel und Erde gemacht hat. [fn:3]\\
 \\
 
-^{[[#fnm1][1]]} ℘ 135,1f
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 28,2
+[fn:1] [[file:Ps_135.org::v1][135,1f]]
 
-^{[[#fnm3][3]]} ℘ 128,5; 115,15
+[fn:2] [[file:Ps_28.org::v2][28,2]]
+
+[fn:3] [[file:Ps_128.org::v5][128,5]]; [[file:Ps_115.org::v15][115,15]]

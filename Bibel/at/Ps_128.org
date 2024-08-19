@@ -1,41 +1,37 @@
-:PROPERTIES:
-:ID:       97ec2302-0e96-4173-8f80-f50b82c40021
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Die Psalmen* -- [[file:Ps_1.html][1]] ...
-[[file:Ps_126.html][126]] [[file:Ps_127.html][127]] *128*
-[[file:Ps_129.html][129]] [[file:Ps_130.html][130]] ...
-[[file:Ps_150.html][150]]
-
---------------
+#+TITLE: Ps 128 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-19 Mo 14:37]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 128.html
 
 * Ps 128
-  :PROPERTIES:
-  :CUSTOM_ID: ps-128
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Haussegen
-     :PROPERTIES:
-     :CUSTOM_ID: haussegen
-     :END:
+* Haussegen
+
 1 [Ein Wallfahrtslied.] Wohl dem Mann, der den Herrn fürchtet und ehrt
 /\\
- und der auf seinen Wegen geht! ^{[[#fn1][1]]}\\
+ und der auf seinen Wegen geht! [fn:1]\\
 \\
 
 <<v2>>
 2 Was deine Hände erwarben, kannst du genießen; /\\
- wohl dir, es wird dir gut ergehn. ^{[[#fn2][2]][[#fn3][3]]}\\
+ wohl dir, es wird dir gut ergehn. [fn:2] [fn:3]\\
 \\
 
 <<v3>>
 3 Wie ein fruchtbarer Weinstock ist deine Frau /\\
  drinnen in deinem Haus. Wie junge Ölbäume sind deine Kinder /\\
- rings um deinen Tisch. ^{[[#fn4][4]]}\\
+ rings um deinen Tisch. [fn:4]\\
 \\
 
 <<v4>>
@@ -45,23 +41,24 @@
 
 <<v5>>
 5 Es segne dich der Herr vom Zion her. /\\
- Du sollst dein Leben lang das Glück Jerusalems schauen ^{[[#fn5][5]]}\\
+ Du sollst dein Leben lang das Glück Jerusalems schauen [fn:5]\\
 \\
 
 <<v6>>
 6 und die Kinder deiner Kinder sehn. /\\
- Frieden über Israel! ^{[[#fn6][6]]}\\
+ Frieden über Israel! [fn:6]\\
 \\
 
-^{[[#fnm1][1]]} ℘ 112,1
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 112,3
+[fn:1] [[file:Ps_112.org::v1][112,1]]
 
-^{[[#fnm3][3]]} kannst du genießen: so mit G; H: fürwahr, du kannst es
-genießen.
+[fn:2] [[file:Ps_112.org::v3][112,3]]
 
-^{[[#fnm4][4]]} ℘ 127,3; Ijob 29,5; Ps 144,12
+[fn:3] kannst du genießen: so mit G; H: fürwahr, du kannst es genießen.
 
-^{[[#fnm5][5]]} ℘ 134,3; (5-6) Gal 6,16
+[fn:4] [[file:Ps_127.org::v3][127,3]]; [[file:Ijob_29.org::v5][Ijob 29,5]]; [[file:Ps_144.org::v12][Ps 144,12]]
 
-^{[[#fnm6][6]]} ℘ Ijob 42,16
+[fn:5] [[file:Ps_134.org::v3][134,3]]; (5-6) [[file:~/RoamNotes/notes/Bibel/nt/Gal_6.org::v16][Gal 6,16]]
+
+[fn:6] [[file:Ijob_42.org::v16][Ijob 42,16]]
