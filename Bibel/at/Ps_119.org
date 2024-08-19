@@ -901,124 +901,120 @@
 
 * Footnotes
 
-[fn:1] (1-3) 1,1f.6; 26,3; 32,8; 37,5; 139,3; 142,4; 143,10;
-Tob 4,19; Spr 4,11
+[fn:1] (1-3) [[file:Ps_1.org::v1][1,1f]].[[file:Ps_1.org::v6][6]]; [[file:Ps_26.org::v3][26,3]]; [[file:Ps_32.org::v8][32,8]]; [[file:Ps_37.org::v5][37,5]]; [[file:Ps_139.org::v3][139,3]]; [[file:Ps_142.org::v4][142,4]]; [[file:Ps_143.org::v10][143,10]]; [[file:Tob_4.org::v19][Tob 4,19]]; [[file:Spr_4.org::v11][Spr 4,11]]
 
 [fn:2] Wörtlich: Öffne mir die Augen, damit ich sehe.
 
-[fn:3] 39,13
+[fn:3] [[file:Ps_39.org::v13][39,13]]
 
-[fn:4] Dtn 27,26; Jer 11,3
+[fn:4] [[file:Dtn_27.org::v26][Dtn 27,26]]; [[file:Jer_11.org::v3][Jer 11,3]]
 
-[fn:5] 44,26
+[fn:5] [[file:Ps_44.org::v26][44,26]]
 
-[fn:6] Wörtlich: klebt am Staub. Text korr. mit einigen
-Handschriften; H: gemäß deinem Wort.
+[fn:6] Wörtlich: klebt am Staub. Text korr. mit einigen Handschriften; H: gemäß deinem Wort.
 
-[fn:7] 119,104
+[fn:7] [[v104][119,104]]
 
-[fn:8] 25,4
+[fn:8] [[file:Ps_25.org::v4][25,4]]
 
-[fn:9] 25,4
+[fn:9] [[file:Ps_25.org::v4][25,4]]
 
 [fn:10] durch dein Wort: Text korr.; H: durch deine Wege.
 
-[fn:11] Mt 10,18
+[fn:11] [[file:~/RoamNotes/notes/Bibel/nt/Mt_10.org::v18][Mt 10,18]]
 
 [fn:12] von Herzen: ergänzt aus G.
 
 [fn:13] H fügt hinzu: die ich liebe.
 
-[fn:14] 119,62.148; 63,7
+[fn:14] [[v62][119,62]].[[v148][148]]; [[file:Ps_63.org::v7][63,7]]
 
-[fn:15] 119,55
+[fn:15] [[v55][119,55]]
 
-[fn:16] 33,5
+[fn:16] [[file:Ps_33.org::v5][33,5]]
 
 [fn:17] H fügt vor «Erkenntnis» ein: Gutes.
 
-[fn:18] 17,10
+[fn:18] [[file:Ps_17.org::v10][17,10]]
 
-[fn:19] 94,12
+[fn:19] [[file:Ps_94.org::v12][94,12]]
 
-[fn:20] 119,103.127; 19,11
+[fn:20] [[v103][119,103]].[[v127][127]]; [[file:Ps_19.org::v11][19,11]]
 
-[fn:21] Ijob 10,8
+[fn:21] [[file:Ijob_10.org::v8][Ijob 10,8]]
 
-[fn:22] 130,5
+[fn:22] [[file:Ps_130.org::v5][130,5]]
 
-[fn:23] 123,2
+[fn:23] [[file:Ps_123.org::v2][123,2]]
 
-[fn:24] Ijob 30,30
+[fn:24] [[file:Ijob_30.org::v30][Ijob 30,30]]
 
 [fn:25] Text korr.; H: Ich bin wie ein Schlauch im Rauch.
 
-[fn:26] Jes 40,8
+[fn:26] [[file:Jes_40.org::v8][Jes 40,8]]
 
-[fn:27] 148,6
+[fn:27] [[file:Ps_148.org::v6][148,6]]
 
-[fn:28] 11,2
+[fn:28] [[file:Ps_11.org::v2][11,2]]
 
-[fn:29] 1,2
+[fn:29] [[file:Ps_1.org::v2][1,2]]
 
-[fn:30] Weish 4,8f
+[fn:30] [[file:Weish_4.org::v8][Weish 4,8f]]
 
-[fn:31] Spr 1,15; 4,27
+[fn:31] [[file:Spr_1.org::v15][Spr 1,15]]; [[file:Spr_4.org::v27][4,27]]
 
-[fn:32] 119,72
+[fn:32] [[v72][119,72]]
 
-[fn:33] 119,29.128
+[fn:33] [[v29][119,29]].[[v128][128]]
 
-[fn:34] Spr 6,23; Joh 8,12; 2 Petr 1,19
+[fn:34] [[file:Spr_6.org::v23][Spr 6,23]]; [[file:~/RoamNotes/notes/Bibel/nt/Joh_8.org::v12][Joh 8,12]]; [[file:~/RoamNotes/notes/Bibel/nt/2.Petr_1.org::v19][2 Petr 1,19]]
 
 [fn:35] Text korr., vgl. V. 25b
 
-[fn:36] 19,15; 50,14.23
+[fn:36] [[file:Ps_19.org::v15][19,15]]; [[file:Ps_50.org::v14][50,14]].[[file:Ps_50.org::v23][23]]
 
 [fn:37] Wörtlich: Mein Leben halte ich ständig in der Hand.
 
-[fn:38] 140,6
+[fn:38] [[file:Ps_140.org::v6][140,6]]
 
-[fn:39] 1 Kön 18,21
+[fn:39] [[file:1.Kön_18.org::v21][1 Kön 18,21]]
 
-[fn:40] 6,9; 139,19
+[fn:40] [[file:Ps_6.org::v9][6,9]]; [[file:Ps_139.org::v19][139,19]]
 
-[fn:41] Jes 1,25
+[fn:41] [[file:Jes_1.org::v25][Jes 1,25]]
 
-[fn:42] sind für dich wie Schlacken: so nach mehreren alten
-Übersetzungen; H und andere Übersetzungen: schaffst du fort wie
-Schlacken.
+[fn:42] sind für dich wie Schlacken: so nach mehreren alten Übersetzungen; H und andere Übersetzungen: schaffst du fort wie Schlacken.
 
-[fn:43] Ijob 4,14f; 23,15
+[fn:43] [[file:Ijob_4.org::v14][Ijob 4,14f]]; [[file:Ijob_23.org::v15][23,15]]
 
-[fn:44] 119,72
+[fn:44] [[v72][119,72]]
 
-[fn:45] 119,104
+[fn:45] [[v104][119,104]]
 
 [fn:46] Text geringfügig korr.
 
-[fn:47] 25,16; 86,16; 91,14
+[fn:47] [[file:Ps_25.org::v16][25,16]]; [[file:Ps_86.org::v16][86,16]]; [[file:Ps_91.org::v14][91,14]]
 
-[fn:48] 125,3
+[fn:48] [[file:Ps_125.org::v3][125,3]]
 
-[fn:49] 4,7
+[fn:49] [[file:Ps_4.org::v7][4,7]]
 
-[fn:50] Esra 9,3f
+[fn:50] [[file:Esra_9.org::v3][Esra 9,3f]]
 
-[fn:51] 69,10
+[fn:51] [[file:Ps_69.org::v10][69,10]]
 
-[fn:52] 12,7
+[fn:52] [[file:Ps_12.org::v7][12,7]]
 
-[fn:53] 119,55
+[fn:53] [[v55][119,55]]
 
-[fn:54] 139,21
+[fn:54] [[file:Ps_139.org::v21][139,21]]
 
-[fn:55] Joh 17,17
+[fn:55] [[file:~/RoamNotes/notes/Bibel/nt/Joh_17.org::v17][Joh 17,17]]
 
-[fn:56] Gen 49,18
+[fn:56] [[file:Gen_49.org::v18][Gen 49,18]]
 
-[fn:57] Spr 5,21
+[fn:57] [[file:Spr_5.org::v21][Spr 5,21]]
 
-[fn:58] 88,3; 79,11
+[fn:58] [[file:Ps_88.org::v3][88,3]]; [[file:Ps_79.org::v11][79,11]]
 
-[fn:59] Jes 53,6; Jer 50,6; Lk 15,4-7
+[fn:59] [[file:Jes_53.org::v6][Jes 53,6]]; [[file:Jer_50.org::v6][Jer 50,6]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_15.org::v4][Lk 15,4-7]]

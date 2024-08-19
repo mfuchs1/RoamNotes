@@ -1,76 +1,74 @@
-:PROPERTIES:
-:ID:       eb1b6081-9f14-4373-97d4-34ff1fed0c7f
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Die Psalmen* -- [[file:Ps_1.html][1]] ...
-[[file:Ps_119.html][119]] [[file:Ps_120.html][120]] *121*
-[[file:Ps_122.html][122]] [[file:Ps_123.html][123]] ...
-[[file:Ps_150.html][150]]
-
---------------
+#+TITLE: Ps 121 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-19 Mo 11:41]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 121.html
 
 * Ps 121
-  :PROPERTIES:
-  :CUSTOM_ID: ps-121
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Der Wächter Israels
-     :PROPERTIES:
-     :CUSTOM_ID: der-wächter-israels
-     :END:
+* Der Wächter Israels
+
 1 [Ein Wallfahrtslied.] Ich hebe meine Augen auf zu den Bergen: /\\
  Woher kommt mir Hilfe?\\
 \\
 
 <<v2>>
 2 Meine Hilfe kommt vom Herrn, /\\
- der Himmel und Erde gemacht hat. ^{[[#fn1][1]]}\\
+ der Himmel und Erde gemacht hat. [fn:1]\\
 \\
 
 <<v3>>
 3 Er lässt deinen Fuß nicht wanken; /\\
- er, der dich behütet, schläft nicht. ^{[[#fn2][2]]}\\
+ er, der dich behütet, schläft nicht. [fn:2]\\
 \\
 
 <<v4>>
 4 Nein, der Hüter Israels /\\
- schläft und schlummert nicht. ^{[[#fn3][3]]}\\
+ schläft und schlummert nicht. [fn:3]\\
 \\
 
 <<v5>>
 5 Der Herr ist dein Hüter, der Herr gibt dir Schatten; /\\
- er steht dir zur Seite. ^{[[#fn4][4]]}\\
+ er steht dir zur Seite. [fn:4]\\
 \\
 
 <<v6>>
 6 Bei Tag wird dir die Sonne nicht schaden /\\
- noch der Mond in der Nacht. ^{[[#fn5][5]]}\\
+ noch der Mond in der Nacht. [fn:5]\\
 \\
 
 <<v7>>
 7 Der Herr behüte dich vor allem Bösen, /\\
- er behüte dein Leben. ^{[[#fn6][6]]}\\
+ er behüte dein Leben. [fn:6]\\
 \\
 
 <<v8>>
 8 Der Herr behüte dich, wenn du fortgehst und wiederkommst, /\\
- von nun an bis in Ewigkeit. ^{[[#fn7][7]]}\\
+ von nun an bis in Ewigkeit. [fn:7]\\
 \\
 
-^{[[#fnm1][1]]} ℘ 124,8
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 66,9; 1 Sam 2,9
+[fn:1] [[file:Ps_124.org::v8][124,8]]
 
-^{[[#fnm3][3]]} ℘ 1 Kön 18,27
+[fn:2] [[file:Ps_66.org::v9][66,9]]; [[file:1.Sam_2.org::v9][1 Sam 2,9]]
 
-^{[[#fnm4][4]]} ℘ 16,8; 73,23
+[fn:3] [[file:1.Kön_18.org::v27][1 Kön 18,27]]
 
-^{[[#fnm5][5]]} ℘ Jes 25,4; 49,10
+[fn:4] [[file:Ps_16.org::v8][16,8]]; [[file:Ps_73.org::v23][73,23]]
 
-^{[[#fnm6][6]]} ℘ 97,10; (7-8) Num 6,24-26
+[fn:5] [[file:Jes_25.org::v4][Jes 25,4]]; [[file:Jes_49.org::v10][49,10]]
 
-^{[[#fnm7][7]]} ℘ Dtn 28,6; Tob 5,17
+[fn:6] [[file:Ps_97.org::v10][97,10]]; (7-8) [[file:Num_6.org::v24][Num 6,24-26]]
+
+[fn:7] [[file:Dtn_28.org::v6][Dtn 28,6]]; [[file:Tob_5.org::v17][Tob 5,17]]
