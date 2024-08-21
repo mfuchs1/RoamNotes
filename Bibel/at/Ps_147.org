@@ -138,22 +138,22 @@
 
 [fn:8] [[file:Ps_104.org::v11][104,11-14]]; [[file:Ijob_5.org::v10][Ijob 5,10]]; [[file:Jer_14.org::v22][Jer 14,22]]; [[file:Joel_2.org::v23][Joël 2,23]]
 
-[fn:9] Ijob 38,41; Lk 12,24
+[fn:9] [[file:Ijob_38.org::v41][Ijob 38,41]]; [[file:~/RoamNotes/notes/Bibel/nt/Lk_12.org::v24][Lk 12,24]]
 
-[fn:10] (10-11) 20,8; 1 Sam 16,7
+[fn:10] (10-11) [[file:Ps_20.org::v8][20,8]]; [[file:1.Sam_16.org::v7][1 Sam 16,7]]
 
-[fn:11] Jer 33,10f
+[fn:11] [[file:Jer_33.org::v10][Jer 33,10f]]
 
-[fn:12] 81,17
+[fn:12] [[file:Ps_81.org::v17][81,17]]
 
-[fn:13] 33,9; Weish 18,15
+[fn:13] [[file:Ps_33.org::v9][33,9]]; [[file:Weish_18.org::v15][Weish 18,15]]
 
-[fn:14] (15-18) Ijob 38,20-30
+[fn:14] (15-18) [[file:Ijob_38.org::v20][Ijob 38,20-30]]
 
-[fn:15] Ijob 37,10
+[fn:15] [[file:Ijob_37.org::v10][Ijob 37,10]]
 
 [fn:16] Text korr.; H: Wer wird bestehen vor seinem Frost?
 
-[fn:17] 78,5; (19-20) Dtn 4,8
+[fn:17] [[file:Ps_78.org::v5][78,5]]; (19-20) [[file:Dtn_4.org::v8][Dtn 4,8]]
 
 [fn:18] Text korr.; H: und seine Rechte lernten sie nicht kennen.

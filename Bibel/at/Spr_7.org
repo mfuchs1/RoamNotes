@@ -1,19 +1,17 @@
-:PROPERTIES:
-:ID:       55674bc8-8c1a-4b91-aea9-ef84a311fb55
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch der Sprichwörter* --
-[[file:Spr_1.html][1]] ... [[file:Spr_5.html][5]] [[file:Spr_6.html][6]]
-*7* [[file:Spr_8.html][8]] [[file:Spr_9.html][9]] ...
-[[file:Spr_31.html][31]]
-
---------------
+#+TITLE: Spr 7 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-21 Mi 21:47]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Spr 7.html
 
 * Spr 7
-  :PROPERTIES:
-  :CUSTOM_ID: spr-7
-  :END:
 
 <<verses>>
 
@@ -39,12 +37,12 @@
 
 <<v5>>
 5 Sie bewahrt dich vor der Frau eines andern, /\\
- vor der Fremden, die verführerisch redet. ^{[[#fn1][1]]}\\
+ vor der Fremden, die verführerisch redet. [fn:1]\\
 \\
 
 <<v6>>
 6 Vom Fenster meines Hauses, /\\
- durch das Gitter, habe ich ausgeschaut; ^{[[#fn2][2]]}\\
+ durch das Gitter, habe ich ausgeschaut; [fn:2]\\
 \\
 
 <<v7>>
@@ -137,7 +135,7 @@
 
 <<v24>>
 24 Darum, ihr Söhne, hört auf mich, /\\
- achtet auf meine Reden! ^{[[#fn3][3]]}\\
+ achtet auf meine Reden! [fn:3]\\
 \\
 
 <<v25>>
@@ -153,14 +151,16 @@
 
 <<v27>>
 27 ihr Haus ist ein Weg zur Unterwelt, /\\
- er führt zu den Kammern des Todes. ^{[[#fn4][4]]}\\
+ er führt zu den Kammern des Todes. [fn:4]\\
 \\
 
-^{[[#fnm1][1]]} ℘ 2,16; 6,24
+* Footnotes
 
-^{[[#fnm2][2]]} 6-27: Hier wird das Thema «fremde Frau» breit entfaltet.
+[fn:1] [[file:Spr_2.org::v16][2,16]]; [[file:Spr_6.org::v24][6,24]]
+
+[fn:2] 6-27: Hier wird das Thema «fremde Frau» breit entfaltet.
 Untergang und Tod sind immer das Ende.
 
-^{[[#fnm3][3]]} ℘ 1,8; 4,1; 5,7
+[fn:3] [[file:Spr_1.org::v8][1,8]]; [[file:Spr_4.org::v1][4,1]]; [[file:Spr_5.org::v7][5,7]]
 
-^{[[#fnm4][4]]} ℘ 5,5; 9,18
+[fn:4] [[file:Spr_5.org::v5][5,5]]; [[file:Spr_9.org::v18][9,18]]

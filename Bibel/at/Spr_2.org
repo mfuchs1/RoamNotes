@@ -1,18 +1,17 @@
-:PROPERTIES:
-:ID:       771d922f-a9a3-4c36-8f2b-42f78cf466e1
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch der Sprichwörter* --
-[[file:Spr_1.html][1]] *2* [[file:Spr_3.html][3]] [[file:Spr_4.html][4]]
-... [[file:Spr_31.html][31]]
-
---------------
+#+TITLE: Spr 2 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-21 Mi 14:14]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Spr 2.html
 
 * Spr 2
-  :PROPERTIES:
-  :CUSTOM_ID: spr-2
-  :END:
 
 <<verses>>
 
@@ -48,7 +47,7 @@
 
 <<v7>>
 7 Für die Redlichen hält er Hilfe bereit, /\\
- den Rechtschaffenen ist er ein Schild. ^{[[#fn1][1]]}\\
+ den Rechtschaffenen ist er ein Schild. [fn:1]\\
 \\
 
 <<v8>>
@@ -93,17 +92,17 @@
 
 <<v16>>
 16 Sie bewahrt dich vor der Frau des andern, /\\
- vor der Fremden, die verführerisch redet, ^{[[#fn2][2]]}\\
+ vor der Fremden, die verführerisch redet, [fn:2]\\
 \\
 
 <<v17>>
 17 die den Gefährten ihrer Jugend verlässt /\\
- und den Bund ihres Gottes vergisst; ^{[[#fn3][3]]}\\
+ und den Bund ihres Gottes vergisst; [fn:3]\\
 \\
 
 <<v18>>
 18 ihr Haus sinkt hinunter zur Totenwelt, /\\
- ihre Straße führt zu den Totengeistern hinab. ^{[[#fn4][4]]}\\
+ ihre Straße führt zu den Totengeistern hinab. [fn:4]\\
 \\
 
 <<v19>>
@@ -118,21 +117,23 @@
 
 <<v21>>
 21 denn die Redlichen werden das Land bewohnen, /\\
- wer rechtschaffen ist, wird darin bleiben. ^{[[#fn5][5]]}\\
+ wer rechtschaffen ist, wird darin bleiben. [fn:5]\\
 \\
 
 <<v22>>
 22 Die Frevler aber werden aus dem Land verstoßen, /\\
  die Verräter aus ihm weggerissen.
 
-^{[[#fnm1][1]]} ℘ Ps 3,4
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 6,24-35; 7,5
+[fn:1] [[file:Ps_3.org::v4][Ps 3,4]]
 
-^{[[#fnm3][3]]} Im AT ist die Ehe ein Bund vor Gott (vgl. Mal 2,14); sie
-ist auch Symbol für den Bund Gottes mit dem Volk (vgl. Hos 2; Jer 2,2;
-3,1-13).
+[fn:2] [[file:Spr_6.org::v24][6,24-35]]; [[file:Spr_7.org::v5][7,5]]
 
-^{[[#fnm4][4]]} ℘ 5,5
+[fn:3] Im AT ist die Ehe ein Bund vor Gott (vgl. [[file:Mal_2.org::v14][Mal 2,14]]); sie
+ist auch Symbol für den Bund Gottes mit dem Volk (vgl. [[file:Hos_2.org][Hos 2]]; [[file:Jer_2.org::v2][Jer 2,2]];
+[[file:Jer_3.org::v1][3,1-13]]).
 
-^{[[#fnm5][5]]} ℘ Ps 37,11; Mt 5,5
+[fn:4] [[file:Spr_5.org::v5][5,5]]
+
+[fn:5] [[file:Ps_37.org::v11][Ps 37,11]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_5.org::v5][Mt 5,5]]

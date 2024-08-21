@@ -1,27 +1,23 @@
-:PROPERTIES:
-:ID:       d27a047a-8932-489f-a273-565463286934
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch der Sprichwörter* --
-[[file:Spr_1.html][1]] [[file:Spr_2.html][2]] [[file:Spr_3.html][3]] *4*
-[[file:Spr_5.html][5]] [[file:Spr_6.html][6]] ...
-[[file:Spr_31.html][31]]
-
---------------
+#+TITLE: Spr 4 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-21 Mi 21:33]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Spr 4.html
 
 * Spr 4
-  :PROPERTIES:
-  :CUSTOM_ID: spr-4
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Die Mahnung zur Weisheit: 4,1-27
-     :PROPERTIES:
-     :CUSTOM_ID: die-mahnung-zur-weisheit-41-27
-     :END:
+* Die Mahnung zur Weisheit: 4,1-27
+
 1 Ihr Söhne, hört auf die Mahnung des Vaters, /\\
  merkt auf, damit ihr Einsicht lernt;\\
 \\
@@ -39,12 +35,12 @@
 <<v4>>
 4 da lehrte er mich und sagte zu mir: /\\
  Nimm dir meine Worte zu Herzen, /\\
- folge meinen Geboten und du wirst leben. ^{[[#fn1][1]]}\\
+ folge meinen Geboten und du wirst leben. [fn:1]\\
 \\
 
 <<v5>>
 5 Erwirb dir Weisheit, erwirb dir Einsicht, /\\
- vergiss sie nicht, weich nicht ab von meinen Worten! ^{[[#fn2][2]]}\\
+ vergiss sie nicht, weich nicht ab von meinen Worten! [fn:2]\\
 \\
 
 <<v6>>
@@ -155,13 +151,15 @@
 
 <<v27>>
 27 Bieg nicht ab, weder rechts noch links, /\\
- halt deinen Fuß vom Bösen zurück! ^{[[#fn3][3]]}\\
+ halt deinen Fuß vom Bösen zurück! [fn:3]\\
 \\
 
-^{[[#fnm1][1]]} 4-7: Text in H und G nicht einheitlich.
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 23,23
+[fn:1] 4-7: Text in H und G nicht einheitlich.
 
-^{[[#fnm3][3]]} G und Vg fügen zwei weitere Verse an: Denn die Wege zur
+[fn:2] [[file:Spr_23.org::v23][23,23]]
+
+[fn:3] G und Vg fügen zwei weitere Verse an: Denn die Wege zur
 Rechten kennt Gott, doch krumm sind die Wege zur Linken. Er aber wird
 deine Pfade eben machen und deine Bahnen in Frieden geleiten.

@@ -1,43 +1,39 @@
-:PROPERTIES:
-:ID:       3ca1eaa0-d947-40fe-ae7a-e38190c1243f
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Die Psalmen* -- [[file:Ps_1.html][1]] ...
-[[file:Ps_147.html][147]] [[file:Ps_148.html][148]] *149*
-[[file:Ps_150.html][150]]
-
---------------
+#+TITLE: Ps 149 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-21 Mi 13:59]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Ps 149.html
 
 * Ps 149
-  :PROPERTIES:
-  :CUSTOM_ID: ps-149
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Ein Kampflied des Gottesvolkes
-     :PROPERTIES:
-     :CUSTOM_ID: ein-kampflied-des-gottesvolkes
-     :END:
+* Ein Kampflied des Gottesvolkes
 1 Halleluja! Singt dem Herrn ein neues Lied! /\\
- Sein Lob erschalle in der Gemeinde der Frommen. ^{[[#fn1][1]]}\\
+ Sein Lob erschalle in der Gemeinde der Frommen. [fn:1]\\
 \\
 
 <<v2>>
 2 Israel soll sich über seinen Schöpfer freuen, /\\
- die Kinder Zions über ihren König jauchzen. ^{[[#fn2][2]]}\\
+ die Kinder Zions über ihren König jauchzen. [fn:2]\\
 \\
 
 <<v3>>
 3 Seinen Namen sollen sie loben beim Reigentanz, /\\
- ihm spielen auf Pauken und Harfen. ^{[[#fn3][3]]}\\
+ ihm spielen auf Pauken und Harfen. [fn:3]\\
 \\
 
 <<v4>>
 4 Der Herr hat an seinem Volk Gefallen, /\\
- die Gebeugten krönt er mit Sieg. ^{[[#fn4][4]]}\\
+ die Gebeugten krönt er mit Sieg. [fn:4]\\
 \\
 
 <<v5>>
@@ -47,7 +43,7 @@
 
 <<v6>>
 6 Loblieder auf Gott in ihrem Mund, /\\
- ein zweischneidiges Schwert in der Hand, ^{[[#fn5][5]]}\\
+ ein zweischneidiges Schwert in der Hand, [fn:5]\\
 \\
 
 <<v7>>
@@ -65,12 +61,14 @@
  Herrlich ist das für all seine Frommen. Halleluja!\\
 \\
 
-^{[[#fnm1][1]]} ℘ 33,3
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 100,3; 24,7-10
+[fn:1] [[file:Ps_33.org::v3][33,3]]
 
-^{[[#fnm3][3]]} ℘ 68,26; 81,3
+[fn:2] [[file:Ps_100.org::v3][100,3]]; [[file:Ps_24.org::v7][24,7-10]]
 
-^{[[#fnm4][4]]} ℘ Jes 62,4
+[fn:3] [[file:Ps_68.org::v26][68,26]]; [[file:Ps_81.org::v3][81,3]]
 
-^{[[#fnm5][5]]} ℘ 2 Makk 15,27
+[fn:4] [[file:Ps_62.org::v4][Jes 62,4]]
+
+[fn:5] [[file:2.Makk_15.org::v27][2 Makk 15,27]]
