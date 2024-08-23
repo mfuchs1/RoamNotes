@@ -1,19 +1,17 @@
-:PROPERTIES:
-:ID:       3a11fd2b-f913-45af-aa56-f52f95aab586
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch der Sprichwörter* --
-[[file:Spr_1.html][1]] ... [[file:Spr_11.html][11]]
-[[file:Spr_12.html][12]] *13* [[file:Spr_14.html][14]]
-[[file:Spr_15.html][15]] ... [[file:Spr_31.html][31]]
-
---------------
+#+TITLE: Spr 13 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-23 Fr 17:53]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Spr 13.html
 
 * Spr 13
-  :PROPERTIES:
-  :CUSTOM_ID: spr-13
-  :END:
 
 <<verses>>
 
@@ -79,12 +77,12 @@
 
 <<v13>>
 13 Wer gute Worte missachtet, erleidet Schaden, /\\
- wer Ehrfurcht hat vor dem Gebot, bleibt unversehrt. ^{[[#fn1][1]]}\\
+ wer Ehrfurcht hat vor dem Gebot, bleibt unversehrt. [fn:1]\\
 \\
 
 <<v14>>
 14 Die Lehre des Weisen ist ein Lebensquell, /\\
- um den Schlingen des Todes zu entgehen. ^{[[#fn2][2]]}\\
+ um den Schlingen des Todes zu entgehen. [fn:2]\\
 \\
 
 <<v15>>
@@ -124,18 +122,17 @@
 
 <<v22>>
 22 Der Gute hinterlässt seinen Enkeln das Erbe, /\\
- der Besitz des Sünders wird für den Gerechten aufgespart.
-^{[[#fn3][3]]}\\
+ der Besitz des Sünders wird für den Gerechten aufgespart. [fn:3]\\
 \\
 
 <<v23>>
 23 In der Hand der Vornehmen ist reichlich Nahrung, /\\
- der Arme wird zu Unrecht dahingerafft. ^{[[#fn4][4]]}\\
+ der Arme wird zu Unrecht dahingerafft. [fn:4]\\
 \\
 
 <<v24>>
 24 Wer die Rute spart, hasst seinen Sohn, /\\
- wer ihn liebt, nimmt ihn früh in Zucht. ^{[[#fn5][5]]}\\
+ wer ihn liebt, nimmt ihn früh in Zucht. [fn:5]\\
 \\
 
 <<v25>>
@@ -143,13 +140,15 @@
  der Bauch der Frevler aber muss darben.\\
 \\
 
-^{[[#fnm1][1]]} Vg schiebt hier (G hinter V. 9) ein: Trügerische Seelen
+* Footnotes
+
+[fn:1] Vg schiebt hier (G hinter V. 9) ein: Trügerische Seelen
 irren in Sünden; die Gerechten aber haben Mitleid und Erbarmen.
 
-^{[[#fnm2][2]]} ℘ 14,27
+[fn:2] [[file:Spr_14.org::v27][14,27]]
 
-^{[[#fnm3][3]]} ℘ Ijob 27,13-17
+[fn:3] [[file:Ijob_27.org::v13][Ijob 27,13-17]]
 
-^{[[#fnm4][4]]} Text unsicher.
+[fn:4] Text unsicher.
 
-^{[[#fnm5][5]]} ℘ 29,17
+[fn:5] [[file:Spr_29.org::v17][29,17]]

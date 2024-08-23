@@ -1,25 +1,23 @@
-:PROPERTIES:
-:ID:       4bfc6f34-bf87-44cf-9140-21a6c430811f
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch der Sprichwörter* --
-[[file:Spr_1.html][1]] ... [[file:Spr_7.html][7]] [[file:Spr_8.html][8]]
-*9* [[file:Spr_10.html][10]] [[file:Spr_11.html][11]] ...
-[[file:Spr_31.html][31]]
-
---------------
+#+TITLE: Spr 9 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-23 Fr 00:23]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Spr 9.html
 
 * Spr 9
-  :PROPERTIES:
-  :CUSTOM_ID: spr-9
-  :END:
 
 <<verses>>
 
 <<v1>>
 1 Die Weisheit hat ihr Haus gebaut, /\\
- ihre sieben Säulen behauen. ^{[[#fn1][1]]}\\
+ ihre sieben Säulen behauen. [fn:1]\\
 \\
 
 <<v2>>
@@ -29,7 +27,7 @@
 
 <<v3>>
 3 Sie hat ihre Mägde ausgesandt /\\
- und lädt ein auf der Höhe der Stadtburg: ^{[[#fn2][2]]}\\
+ und lädt ein auf der Höhe der Stadtburg: [fn:2]\\
 \\
 
 <<v4>>
@@ -64,7 +62,7 @@
 
 <<v10>>
 10 Anfang der Weisheit ist die Gottesfurcht, /\\
- die Kenntnis des Heiligen ist Einsicht. ^{[[#fn3][3]]}\\
+ die Kenntnis des Heiligen ist Einsicht. [fn:3]\\
 \\
 
 <<v11>>
@@ -74,8 +72,7 @@
 
 <<v12>>
 12 Bist du weise, so bist du weise zum eigenen Nutzen, /\\
- bist du aber unbeherrscht, hast du allein es zu tragen.
-^{[[#fn4][4]]}\\
+ bist du aber unbeherrscht, hast du allein es zu tragen. [fn:4]\
 \\
 
 <<v13>>
@@ -105,17 +102,19 @@
 
 <<v18>>
 18 Und er weiß nicht, dass Totengeister dort hausen, /\\
- dass ihre Gäste in den Tiefen der Unterwelt sind. ^{[[#fn5][5]]}\\
+ dass ihre Gäste in den Tiefen der Unterwelt sind. [fn:5]\\
 \\
 
-^{[[#fnm1][1]]} 1-18: Die Personifikation der Weisheit - auch der
+* Footnotes
+
+[fn:1] 1-18: Die Personifikation der Weisheit - auch der
 Torheit - wird beibehalten; beide laden zum Gastmahl ein. Dazwischen
 sind später zweimal drei Lehrsprüche (VV. 7-12) eingeschoben worden.
 
-^{[[#fnm2][2]]} ℘ 8,2
+[fn:2] [[file:Spr_8.org::v2][8,2]]
 
-^{[[#fnm3][3]]} ℘ 1,7
+[fn:3] [[file:Spr_1.org::v7][1,7]]
 
-^{[[#fnm4][4]]} ℘ 11,17
+[fn:4] [[file:Spr_11.org::v17][11,17]]
 
-^{[[#fnm5][5]]} ℘ 7,27
+[fn:5] [[file:Spr_7.org::v27][7,27]]

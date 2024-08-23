@@ -1,19 +1,17 @@
-:PROPERTIES:
-:ID:       facb5829-fad9-472f-8ab1-d72908178513
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch der Sprichwörter* --
-[[file:Spr_1.html][1]] ... [[file:Spr_10.html][10]]
-[[file:Spr_11.html][11]] *12* [[file:Spr_13.html][13]]
-[[file:Spr_14.html][14]] ... [[file:Spr_31.html][31]]
-
---------------
+#+TITLE: Spr 12 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-23 Fr 00:26]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Spr 12.html
 
 * Spr 12
-  :PROPERTIES:
-  :CUSTOM_ID: spr-12
-  :END:
 
 <<verses>>
 
@@ -34,7 +32,7 @@
 
 <<v4>>
 4 Eine tüchtige Frau ist die Krone ihres Mannes, /\\
- eine schändliche ist wie Fäulnis in seinen Knochen. ^{[[#fn1][1]]}\\
+ eine schändliche ist wie Fäulnis in seinen Knochen. [fn:1]\\
 \\
 
 <<v5>>
@@ -65,17 +63,17 @@
 
 <<v10>>
 10 Der Gerechte weiß, was sein Vieh braucht, /\\
- doch das Herz der Frevler ist hart. ^{[[#fn2][2]]}\\
+ doch das Herz der Frevler ist hart. [fn:2]\\
 \\
 
 <<v11>>
 11 Wer sein Feld bestellt, wird satt von Brot, /\\
- wer nichtigen Dingen nachjagt, ist ohne Verstand. ^{[[#fn3][3]]}\\
+ wer nichtigen Dingen nachjagt, ist ohne Verstand. [fn:3]\\
 \\
 
 <<v12>>
 12 Schwankender Lehm ist die Burg der Bösen, /\\
- die Wurzel der Gerechten hat festen Grund. ^{[[#fn4][4]]}\\
+ die Wurzel der Gerechten hat festen Grund. [fn:4]\\
 \\
 
 <<v13>>
@@ -105,7 +103,7 @@
 
 <<v18>>
 18 Mancher Leute Gerede verletzt wie Schwertstiche, /\\
- die Zunge der Weisen bringt Heilung. ^{[[#fn5][5]]}\\
+ die Zunge der Weisen bringt Heilung. [fn:5]\\
 \\
 
 <<v19>>
@@ -146,7 +144,7 @@
 
 <<v26>>
 26 Der Gerechte findet fette Weide, /\\
- der Weg der Frevler führt in die Irre. ^{[[#fn6][6]]}\\
+ der Weg der Frevler führt in die Irre. [fn:6]\\
 \\
 
 <<v27>>
@@ -159,16 +157,18 @@
  der Weg der Abtrünnigen führt zum Tod.\\
 \\
 
-^{[[#fnm1][1]]} ℘ 31,11f
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ Dtn 25,4; Sir 7,22
+[fn:1] [[file:Spr_31.org::v11][31,11f]]
 
-^{[[#fnm3][3]]} ℘ 28,19
+[fn:2] [[file:Dtn_25.org::v4][Dtn 25,4]]; [[file:Sir_7.org::v22][Sir 7,22]]
 
-^{[[#fnm4][4]]} Text verderbt; die alten Übersetzungen sind kaum
+[fn:3] [[file:Spr_28.org::v19][28,19]]
+
+[fn:4] Text verderbt; die alten Übersetzungen sind kaum
 verständlich.
 
-^{[[#fnm5][5]]} ℘ Ps 57,5
+[fn:5] [[file:Ps_57.org::v5][Ps 57,5]]
 
-^{[[#fnm6][6]]} 26-28: Der Text ist schlecht erhalten und darum schwer
+[fn:6] 26-28: Der Text ist schlecht erhalten und darum schwer
 zu deuten.

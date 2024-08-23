@@ -1,19 +1,17 @@
-:PROPERTIES:
-:ID:       74309eb9-04e4-4d99-b73d-ba2c42ab3b90
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch der Sprichwörter* --
-[[file:Spr_1.html][1]] ... [[file:Spr_12.html][12]]
-[[file:Spr_13.html][13]] *14* [[file:Spr_15.html][15]]
-[[file:Spr_16.html][16]] ... [[file:Spr_31.html][31]]
-
---------------
+#+TITLE: Spr 14 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-23 Fr 17:56]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Spr 14.html
 
 * Spr 14
-  :PROPERTIES:
-  :CUSTOM_ID: spr-14
-  :END:
 
 <<verses>>
 
@@ -29,7 +27,7 @@
 
 <<v3>>
 3 Im Mund des Toren ist eine Rute für seinen Rücken, /\\
- den Weisen behüten seine Lippen. ^{[[#fn1][1]]}\\
+ den Weisen behüten seine Lippen. [fn:1]\\
 \\
 
 <<v4>>
@@ -59,7 +57,7 @@
 
 <<v9>>
 9 In den Zelten der Toren wohnt Schuld, /\\
- das Haus der Rechtschaffenen findet Gefallen. ^{[[#fn2][2]]}\\
+ das Haus der Rechtschaffenen findet Gefallen. [fn:2]\\
 \\
 
 <<v10>>
@@ -74,7 +72,7 @@
 
 <<v12>>
 12 Manch einem scheint sein Weg der rechte, /\\
- aber am Ende sind es Wege des Todes. ^{[[#fn3][3]]}\\
+ aber am Ende sind es Wege des Todes. [fn:3]\\
 \\
 
 <<v13>>
@@ -99,7 +97,7 @@
 
 <<v17>>
 17 Der Zornige handelt töricht, /\\
- der Ränkeschmied ist verhasst. ^{[[#fn4][4]]}\\
+ der Ränkeschmied ist verhasst. [fn:4]\\
 \\
 
 <<v18>>
@@ -109,17 +107,17 @@
 
 <<v19>>
 19 Die Bösen müssen sich bücken vor den Guten /\\
- und die Frevler an der Tür des Gerechten. ^{[[#fn5][5]]}\\
+ und die Frevler an der Tür des Gerechten. [fn:5]\\
 \\
 
 <<v20>>
 20 Selbst seinem Nächsten ist der Arme verhasst, /\\
- der Reiche aber hat viele Freunde. ^{[[#fn6][6]]}\\
+ der Reiche aber hat viele Freunde. [fn:6]\\
 \\
 
 <<v21>>
 21 Wer seinen Nächsten verachtet, sündigt; /\\
- wohl dem, der Erbarmen hat mit den Notleidenden. ^{[[#fn7][7]]}\\
+ wohl dem, der Erbarmen hat mit den Notleidenden. [fn:7]\\
 \\
 
 <<v22>>
@@ -134,7 +132,7 @@
 
 <<v24>>
 24 Die Krone der Weisen ist ihre Klugheit, /\\
- der Kranz der Toren ist ihre Narrheit. ^{[[#fn8][8]]}\\
+ der Kranz der Toren ist ihre Narrheit. [fn:8]\\
 \\
 
 <<v25>>
@@ -149,7 +147,7 @@
 
 <<v27>>
 27 Die Gottesfurcht ist ein Lebensquell, /\\
- um den Schlingen des Todes zu entgehen. ^{[[#fn9][9]]}\\
+ um den Schlingen des Todes zu entgehen. [fn:9]\\
 \\
 
 <<v28>>
@@ -169,12 +167,12 @@
 
 <<v31>>
 31 Wer den Geringen bedrückt, schmäht dessen Schöpfer, /\\
- ihn ehrt, wer Erbarmen hat mit dem Bedürftigen. ^{[[#fn10][10]]}\\
+ ihn ehrt, wer Erbarmen hat mit dem Bedürftigen. [fn:10]\\
 \\
 
 <<v32>>
 32 Durch seine Bosheit wird der Frevler gestürzt, /\\
- der Gerechte findet Zuflucht in seiner Redlichkeit. ^{[[#fn11][11]]}\\
+ der Gerechte findet Zuflucht in seiner Redlichkeit. [fn:11]\\
 \\
 
 <<v33>>
@@ -192,26 +190,28 @@
  den schändlichen aber trifft sein Zorn.\\
 \\
 
-^{[[#fnm1][1]]} ℘ 26,3
+* Footnotes
 
-^{[[#fnm2][2]]} Text unsicher; korr. nach G.
+[fn:1] [[file:Spr_23.org::v3][26,3]]
 
-^{[[#fnm3][3]]} ℘ 16,25; Sir 21,10; Mt 7,13
+[fn:2] Text unsicher; korr. nach G.
 
-^{[[#fnm4][4]]} 17b: Nach S wäre die Antithese zu lesen: der Besonnene
+[fn:3] [[file:Spr_16.org::v25][16,25]]; [[file:Sir_21.org::v10][Sir 21,10]]; [[file:~/RoamNotes/notes/Bibel/nt/Mt_7.org::v13][Mt 7,13]]
+
+[fn:4] 17b: Nach S wäre die Antithese zu lesen: der Besonnene
 aber bleibt ruhig.
 
-^{[[#fnm5][5]]} ℘ Lk 16,24-31
+[fn:5] [[file:~/RoamNotes/notes/Bibel/nt/Lk_16.org::v24][Lk 16,24-31]]
 
-^{[[#fnm6][6]]} ℘ 19,4; Sir 13,21-23
+[fn:6] [[file:Spr_19.org::v4][19,4]]; [[file:Sir_13.org::v21][Sir 13,21-23]]
 
-^{[[#fnm7][7]]} ℘ Mt 5,7
+[fn:7] [[file:~/RoamNotes/notes/Bibel/nt/Mt_5.org::v7][Mt 5,7]]
 
-^{[[#fnm8][8]]} Text und Übersetzung unsicher.
+[fn:8] Text und Übersetzung unsicher.
 
-^{[[#fnm9][9]]} ℘ 13,14
+[fn:9] [[file:Spr_13.org::v14][13,14]]
 
-^{[[#fnm10][10]]} ℘ 17,5
+[fn:10] [[file:Spr_17.org::v5][17,5]]
 
-^{[[#fnm11][11]]} 32b: Redlichkeit: nach G; H und Vg kaum richtig: in
+[fn:11] 32b: Redlichkeit: nach G; H und Vg kaum richtig: in
 seinem Tod.
