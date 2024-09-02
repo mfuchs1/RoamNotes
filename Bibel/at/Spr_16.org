@@ -1,19 +1,17 @@
-:PROPERTIES:
-:ID:       6ad77542-0dce-4e77-b878-a7b076e174c4
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch der Sprichwörter* --
-[[file:Spr_1.html][1]] ... [[file:Spr_14.html][14]]
-[[file:Spr_15.html][15]] *16* [[file:Spr_17.html][17]]
-[[file:Spr_18.html][18]] ... [[file:Spr_31.html][31]]
-
---------------
+#+TITLE: Spr 16 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-25 So 22:45]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Spr 16.html
 
 * Spr 16
-  :PROPERTIES:
-  :CUSTOM_ID: spr-16
-  :END:
 
 <<verses>>
 
@@ -24,22 +22,22 @@
 
 <<v2>>
 2 Jeder meint, sein Verhalten sei fehlerlos, /\\
- doch der Herr prüft die Geister. ^{[[#fn1][1]]}\\
+ doch der Herr prüft die Geister. [fn:1]\\
 \\
 
 <<v3>>
 3 Befiehl dem Herrn dein Tun an, /\\
- so werden deine Pläne gelingen. ^{[[#fn2][2]]}\\
+ so werden deine Pläne gelingen. [fn:2]\\
 \\
 
 <<v4>>
 4 Alles hat der Herr für seinen Zweck erschaffen, /\\
- so auch den Frevler für den Tag des Unheils. ^{[[#fn3][3]]}\\
+ so auch den Frevler für den Tag des Unheils. [fn:3]\\
 \\
 
 <<v5>>
 5 Ein Gräuel ist dem Herrn jeder Hochmütige, /\\
- er bleibt gewiss nicht ungestraft. ^{[[#fn4][4]]}\\
+ er bleibt gewiss nicht ungestraft. [fn:4]\\
 \\
 
 <<v6>>
@@ -54,7 +52,7 @@
 
 <<v8>>
 8 Besser wenig und gerecht /\\
- als viel Besitz und Unrecht. ^{[[#fn5][5]]}\\
+ als viel Besitz und Unrecht. [fn:5]\\
 \\
 
 <<v9>>
@@ -64,18 +62,17 @@
 
 <<v10>>
 10 Gottesentscheid kommt von den Lippen des Königs, /\\
- sein Mund verfehlt sich nicht, wenn er ein Urteil fällt.
-^{[[#fn6][6]]}\\
+ sein Mund verfehlt sich nicht, wenn er ein Urteil fällt. [fn:6]\\
 \\
 
 <<v11>>
 11 Rechte Waage und Waagschalen sind Sache des Herrn, /\\
- sein Werk sind alle Gewichtssteine im Beutel. ^{[[#fn7][7]]}\\
+ sein Werk sind alle Gewichtssteine im Beutel. [fn:7]\\
 \\
 
 <<v12>>
 12 Frevlerisches Tun ist Königen ein Gräuel, /\\
- denn ein Thron steht fest durch Gerechtigkeit. ^{[[#fn8][8]]}\\
+ denn ein Thron steht fest durch Gerechtigkeit. [fn:8]\\
 \\
 
 <<v13>>
@@ -85,12 +82,12 @@
 
 <<v14>>
 14 Des Königs Grimm gleicht Todesboten, /\\
- aber ein Weiser kann ihn besänftigen. ^{[[#fn9][9]]}\\
+ aber ein Weiser kann ihn besänftigen. [fn:9]\\
 \\
 
 <<v15>>
 15 Im leuchtenden Gesicht des Königs liegt Leben, /\\
- sein Wohlwollen gleicht der Regenwolke im Frühjahr. ^{[[#fn10][10]]}\\
+ sein Wohlwollen gleicht der Regenwolke im Frühjahr. [fn:10]\\
 \\
 
 <<v16>>
@@ -120,7 +117,7 @@
 
 <<v21>>
 21 Wer ein weises Herz hat, den nennt man verständig, /\\
- gefällige Rede fördert die Belehrung. ^{[[#fn11][11]]}\\
+ gefällige Rede fördert die Belehrung. [fn:11]\\
 \\
 
 <<v22>>
@@ -140,12 +137,12 @@
 
 <<v25>>
 25 Manch einem scheint sein Weg der rechte, /\\
- aber am Ende sind es Wege des Todes. ^{[[#fn12][12]]}\\
+ aber am Ende sind es Wege des Todes. [fn:12]\\
 \\
 
 <<v26>>
 26 Der Hunger des Arbeiters arbeitet für ihn, /\\
- denn sein Mund treibt ihn an. ^{[[#fn13][13]]}\\
+ denn sein Mund treibt ihn an. [fn:13]\\
 \\
 
 <<v27>>
@@ -165,8 +162,7 @@
 
 <<v30>>
 30 Wer mit den Augen zwinkert, sinnt auf Tücke; /\\
- wer die Lippen verzieht, hat das Böse schon vollbracht.
-^{[[#fn14][14]]}\\
+ wer die Lippen verzieht, hat das Böse schon vollbracht. [fn:14]\\
 \\
 
 <<v31>>
@@ -181,36 +177,37 @@
 
 <<v33>>
 33 Im Bausch des Gewandes schüttelt man das Los, /\\
- doch jede Entscheidung kommt allein vom Herrn. ^{[[#fn15][15]]}\\
+ doch jede Entscheidung kommt allein vom Herrn. [fn:15]\\
 \\
 
-^{[[#fnm1][1]]} ℘ 21,2
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ Ps 37,5; 1 Petr 5,7
+[fn:1] [[file:Spr_21.org::v2][21,2]]
 
-^{[[#fnm3][3]]} 4b: Kurze und überspitzte Redeweise des Volksmunds.
+[fn:2] [[file:Ps_37.org::v5][Ps 37,5]]; [[file:~/RoamNotes/notes/Bibel/nt/1.Petr_5.org::v7][1 Petr 5,7]]
 
-^{[[#fnm4][4]]} ℘ 11,21
+[fn:3] 4b: Kurze und überspitzte Redeweise des Volksmunds.
 
-^{[[#fnm5][5]]} ℘ 15,16
+[fn:4] [[file:Spr_11.org::v21][11,21]]
 
-^{[[#fnm6][6]]} ℘ 25,2
+[fn:5] [[file:Spr_15.org::v16][15,16]]
 
-^{[[#fnm7][7]]} ℘ Mi 6,11
+[fn:6] [[file:Spr_25.org::v2][25,2]]
 
-^{[[#fnm8][8]]} ℘ 25,5
+[fn:7] [[file:Mi_6.org::v11][Mi 6,11]]
 
-^{[[#fnm9][9]]} ℘ 19,12
+[fn:8] [[file:Spr_25.org::v5][25,5]]
 
-^{[[#fnm10][10]]} 15b: Im März und April fällt der sehnlichst erwartete
-«Spätregen».
+[fn:9] [[file:Spr_19.org::v12][19,12]]
 
-^{[[#fnm11][11]]} ℘ Sir 6,5
+[fn:10] 15b: Im März und April fällt der sehnlichst erwartete «Spätregen».
 
-^{[[#fnm12][12]]} ℘ 14,12
+[fn:11] [[file:Sir_6.org::v5][Sir 6,5]]
 
-^{[[#fnm13][13]]} ℘ Koh 6,7
+[fn:12] [[file:Spr_14.org::v12][14,12]]
 
-^{[[#fnm14][14]]} ℘ 6,13; 10,10
+[fn:13] [[file:Koh_6.org::v7][Koh 6,7]]
 
-^{[[#fnm15][15]]} ℘ 18,18; 1 Sam 14,41f
+[fn:14] [[file:Spr_6.org::v13][6,13]]; [[file:Spr_10.org::v10][10,10]]
+
+[fn:15] [[file:Spr_18.org::v18][18,18]]; [[file:1.Sam_14.org::v41][1 Sam 14,41]]

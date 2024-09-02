@@ -1,30 +1,28 @@
-:PROPERTIES:
-:ID:       b71f40f5-7c03-435b-8f67-ab702cb0d90c
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch der Sprichwörter* --
-[[file:Spr_1.html][1]] ... [[file:Spr_18.html][18]]
-[[file:Spr_19.html][19]] *20* [[file:Spr_21.html][21]]
-[[file:Spr_22.html][22]] ... [[file:Spr_31.html][31]]
-
---------------
+#+TITLE: Spr 20 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-09-01 So 21:04]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Spr 20.html
 
 * Spr 20
-  :PROPERTIES:
-  :CUSTOM_ID: spr-20
-  :END:
 
 <<verses>>
 
 <<v1>>
 1 Ein Zuchtloser ist der Wein, ein Lärmer das Bier; /\\
- wer sich hierin verfehlt, wird nie weise. ^{[[#fn1][1]]}\\
+ wer sich hierin verfehlt, wird nie weise. [fn:1]\\
 \\
 
 <<v2>>
 2 Wie das Knurren des Löwen ist der Grimm des Königs; /\\
- wer ihn erzürnt, verwirkt sein Leben. ^{[[#fn2][2]]}\\
+ wer ihn erzürnt, verwirkt sein Leben. [fn:2]\\
 \\
 
 <<v3>>
@@ -54,7 +52,7 @@
 
 <<v8>>
 8 Ein König auf dem Richterstuhl /\\
- sondert mit seinem Scharfblick alles Böse aus. ^{[[#fn3][3]]}\\
+ sondert mit seinem Scharfblick alles Böse aus. [fn:3]\\
 \\
 
 <<v9>>
@@ -64,7 +62,7 @@
 
 <<v10>>
 10 Zweierlei Gewicht und zweierlei Maß, /\\
- beide sind dem Herrn ein Gräuel. ^{[[#fn4][4]]}\\
+ beide sind dem Herrn ein Gräuel. [fn:4]\\
 \\
 
 <<v11>>
@@ -79,7 +77,7 @@
 
 <<v13>>
 13 Liebe nicht den Schlaf, damit du nicht arm wirst; /\\
- halte deine Augen offen und du hast Brot genug. ^{[[#fn5][5]]}\\
+ halte deine Augen offen und du hast Brot genug. [fn:5]\\
 \\
 
 <<v14>>
@@ -94,7 +92,7 @@
 
 <<v16>>
 16 Nimm ihm das Kleid, denn er hat für einen andern gebürgt, /\\
- fremder Leute wegen pfände bei ihm! ^{[[#fn6][6]]}\\
+ fremder Leute wegen pfände bei ihm! [fn:6]\\
 \\
 
 <<v17>>
@@ -109,7 +107,7 @@
 
 <<v19>>
 19 Geheimnisse verrät, wer als Verleumder umhergeht. /\\
- Darum lass dich nicht ein mit einem Schwätzer! ^{[[#fn7][7]]}\\
+ Darum lass dich nicht ein mit einem Schwätzer! [fn:7]\\
 \\
 
 <<v20>>
@@ -124,12 +122,12 @@
 
 <<v22>>
 22 Sag nicht: Ich will das Böse vergelten. /\\
- Vertrau auf den Herrn, er wird dir helfen. ^{[[#fn8][8]]}\\
+ Vertrau auf den Herrn, er wird dir helfen. [fn:8]\\
 \\
 
 <<v23>>
 23 Ein Gräuel ist dem Herrn zweierlei Gewicht, /\\
- eine falsche Waage ist nicht recht. ^{[[#fn9][9]]}\\
+ eine falsche Waage ist nicht recht. [fn:9]\\
 \\
 
 <<v24>>
@@ -139,12 +137,12 @@
 
 <<v25>>
 25 Eine Falle ist es, unbedacht zu rufen: Geweiht!, /\\
- und erst nach dem Gelübde zu überlegen. ^{[[#fn10][10]]}\\
+ und erst nach dem Gelübde zu überlegen. [fn:10]\\
 \\
 
 <<v26>>
 26 Ein weiser König sondert die Frevler aus /\\
- und vergilt ihnen ihre Untat. ^{[[#fn11][11]]}\\
+ und vergilt ihnen ihre Untat. [fn:11]\\
 \\
 
 <<v27>>
@@ -154,7 +152,7 @@
 
 <<v28>>
 28 Güte und Treue behüten den König, /\\
- er stützt seinen Thron durch Güte. ^{[[#fn12][12]]}\\
+ er stützt seinen Thron durch Güte. [fn:12]\\
 \\
 
 <<v29>>
@@ -167,27 +165,28 @@
  und Schläge die Kammern des Leibes.\\
 \\
 
-^{[[#fnm1][1]]} ℘ 23,29-35; Sir 31,25-30
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 16,14; 19,12
+[fn:1] [[file:Spr_23.org::v29][23,29-35]]; [[file:Sir_31.org::v25][Sir 31,25-30]]
 
-^{[[#fnm3][3]]} ℘ 20,26
+[fn:2] [[file:Spr_16.org::v14][16,14]]; [[file:Spr_19.org::v12][19,12]]
 
-^{[[#fnm4][4]]} ℘ 16,11
+[fn:3] [[v26][20,26]]
 
-^{[[#fnm5][5]]} ℘ 6,6-11
+[fn:4] [[file:Spr_16.org::v11][16,11]]
 
-^{[[#fnm6][6]]} ℘ 27,13
+[fn:5] [[file:Spr_6.org::v6][6,6-11]]
 
-^{[[#fnm7][7]]} ℘ 11,13
+[fn:6] [[file:Spr_27.org::v13][27,13]]
 
-^{[[#fnm8][8]]} ℘ Sir 28,1-6; Röm 12,17-21
+[fn:7] [[file:Spr_11.org::v13][11,13]]
 
-^{[[#fnm9][9]]} ℘ 16,11
+[fn:8] [[file:Sir_28.org::v1][Sir 28,1-6]]; [[file:~/RoamNotes/notes/Bibel/nt/Röm_12.org::v17][Röm 12,17-21]]
 
-^{[[#fnm10][10]]} ℘ Ri 11,29-40
+[fn:9] [[file:Spr_16.org::v11][16,11]]
 
-^{[[#fnm11][11]]} 26b: H: und lässt über sie das Rad (des Dreschwagens?)
-gehen.
+[fn:10] [[file:Ri_11.org::v29][Ri 11,29-40]]
 
-^{[[#fnm12][12]]} ℘ Ps 61,8
+[fn:11] 26b: H: und lässt über sie das Rad (des Dreschwagens?) gehen.
+
+[fn:12] [[file:Ps_61.org::v8][Ps 61,8]]

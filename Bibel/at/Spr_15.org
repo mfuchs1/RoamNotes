@@ -1,19 +1,17 @@
-:PROPERTIES:
-:ID:       3ad55996-e4fd-4eb9-b5ca-8d0256e3830e
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch der Sprichwörter* --
-[[file:Spr_1.html][1]] ... [[file:Spr_13.html][13]]
-[[file:Spr_14.html][14]] *15* [[file:Spr_16.html][16]]
-[[file:Spr_17.html][17]] ... [[file:Spr_31.html][31]]
-
---------------
+#+TITLE: Spr 15 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-08-24 Sa 18:49]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Spr 15.html
 
 * Spr 15
-  :PROPERTIES:
-  :CUSTOM_ID: spr-15
-  :END:
 
 <<verses>>
 
@@ -54,7 +52,7 @@
 
 <<v8>>
 8 Das Opfer der Frevler ist dem Herrn ein Gräuel, /\\
- am Gebet der Rechtschaffenen aber hat er Gefallen. ^{[[#fn1][1]]}\\
+ am Gebet der Rechtschaffenen aber hat er Gefallen. [fn:1]\\
 \\
 
 <<v9>>
@@ -69,7 +67,7 @@
 
 <<v11>>
 11 Totenreich und Unterwelt liegen offen vor dem Herrn, /\\
- wie viel mehr die Herzen der Menschen. ^{[[#fn2][2]]}\\
+ wie viel mehr die Herzen der Menschen. [fn:2]\\
 \\
 
 <<v12>>
@@ -79,7 +77,7 @@
 
 <<v13>>
 13 Ein fröhliches Herz macht das Gesicht heiter, /\\
- Kummer im Herzen bedrückt das Gemüt. ^{[[#fn3][3]]}\\
+ Kummer im Herzen bedrückt das Gemüt. [fn:3]\\
 \\
 
 <<v14>>
@@ -94,7 +92,7 @@
 
 <<v16>>
 16 Besser wenig in Gottesfurcht /\\
- als reiche Schätze und keine Ruhe. ^{[[#fn4][4]][[#fn5][5]]}\\
+ als reiche Schätze und keine Ruhe. [fn:4] [fn:5]\\
 \\
 
 <<v17>>
@@ -129,7 +127,7 @@
 
 <<v23>>
 23 Jeden freut es, wenn er (kluge) Antwort geben kann, /\\
- und wie gut ist doch ein Wort zur rechten Zeit. ^{[[#fn6][6]]}\\
+ und wie gut ist doch ein Wort zur rechten Zeit. [fn:6]\\
 \\
 
 <<v24>>
@@ -139,23 +137,22 @@
 
 <<v25>>
 25 Das Haus der Stolzen reißt der Herr nieder, /\\
- den Grenzstein der Witwe aber macht er fest. ^{[[#fn7][7]]}\\
+ den Grenzstein der Witwe aber macht er fest. [fn:7]\\
 \\
 
 <<v26>>
 26 Die Pläne des Bösen sind dem Herrn ein Gräuel, /\\
- aber freundliche Reden gefallen ihm. ^{[[#fn8][8]]}\\
+ aber freundliche Reden gefallen ihm. [fn:8]\\
 \\
 
 <<v27>>
 27 Wer sich durch Raub bereichert, zerstört sein Haus, /\\
- wer Bestechung von sich weist, wird lange leben. ^{[[#fn9][9]]}\\
+ wer Bestechung von sich weist, wird lange leben. [fn:9]\\
 \\
 
 <<v28>>
 28 Der Gerechte überlegt sich im Herzen jede Antwort, /\\
- aber der Mund der Frevler sprudelt Schlechtes hervor.
-^{[[#fn10][10]][[#fn11][11]]}\\
+ aber der Mund der Frevler sprudelt Schlechtes hervor. [fn:10] [fn:11]\\
 \\
 
 <<v29>>
@@ -183,28 +180,30 @@
  und Demut geht der Ehre voran.\\
 \\
 
-^{[[#fnm1][1]]} ℘ 21,27; Sir 7,9
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ Ps 139,8; Sir 42,18
+[fn:1] [[file:Spr_21.org::v27][21,27]]; [[file:Sir_7.org::v9][Sir 7,9]]
 
-^{[[#fnm3][3]]} ℘ Sir 13,25f
+[fn:2] [[file:Ps_139.org::v8][Ps 139,8]]; [[file:Sir_42.org::v18][Sir 42,18]]
 
-^{[[#fnm4][4]]} ℘ 17,1; Ps 37,16
+[fn:3] [[file:Sir_13.org::v25][Sir 13,25f]]
 
-^{[[#fnm5][5]]} Solche Lehrsätze zeigen, dass der materielle Nutzen der
+[fn:4] [[file:Spr_17.org::v1][17,1]]; [[file:Ps_37.org::v16][Ps 37,16]]
+
+[fn:5] Solche Lehrsätze zeigen, dass der materielle Nutzen der
 Weisheit, der zwar öfter hervorgehoben wird, nicht das höchste Glück
 ausmacht.
 
-^{[[#fnm6][6]]} ℘ 25,11
+[fn:6] [[file:Spr_25.org::v11][25,11]]
 
-^{[[#fnm7][7]]} ℘ Dtn 19,14
+[fn:7] [[file:Dtn_19.org::v14][Dtn 19,14]]
 
-^{[[#fnm8][8]]} 26b: gefallen ihm, wörtlich: sind rein; «rein» ist
-kultischer Ausdruck, Gegensatz zu «Gräuel».
+[fn:8] 26b: gefallen ihm, wörtlich: sind rein; «rein» ist
+kultischer Ausdruck, Gegensatz zu "Gräuel".
 
-^{[[#fnm9][9]]} ℘ Jes 1,23
+[fn:9] [[file:Jes_1.org::v23][Jes 1,23]]
 
-^{[[#fnm10][10]]} ℘ 19,28
+[fn:10] [[file:Spr_19.org::v28][19,28]]
 
-^{[[#fnm11][11]]} Die Beherrschung der Zunge ist ein Lieblingsthema der
+[fn:11] Die Beherrschung der Zunge ist ein Lieblingsthema der
 Weisen.
