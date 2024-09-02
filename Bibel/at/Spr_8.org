@@ -1,29 +1,25 @@
-:PROPERTIES:
-:ID:       2b074d3f-2491-4686-b326-4f3d70cf9f46
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch der Sprichwörter* --
-[[file:Spr_1.html][1]] ... [[file:Spr_6.html][6]] [[file:Spr_7.html][7]]
-*8* [[file:Spr_9.html][9]] [[file:Spr_10.html][10]] ...
-[[file:Spr_31.html][31]]
-
---------------
+#+TITLE: Spr 8 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-09-03 Di 01:00]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Spr 8.html
 
 * Spr 8
-  :PROPERTIES:
-  :CUSTOM_ID: spr-8
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Die Weisheit als Gabe Gottes: 8,1 - 9,18
-     :PROPERTIES:
-     :CUSTOM_ID: die-weisheit-als-gabe-gottes-81---918
-     :END:
+* Die Weisheit als Gabe Gottes: 8,1 - 9,18
+
 1 Ruft nicht die Weisheit, /\\
- erhebt nicht die Klugheit ihre Stimme? ^{[[#fn1][1]][[#fn2][2]]}\\
+ erhebt nicht die Klugheit ihre Stimme? [fn:1] [fn:2]\\
 \\
 
 <<v2>>
@@ -73,7 +69,7 @@
 
 <<v11>>
 11 Ja, Weisheit übertrifft die Perlen an Wert, /\\
- keine kostbaren Steine kommen ihr gleich. ^{[[#fn3][3]]}\\
+ keine kostbaren Steine kommen ihr gleich. [fn:3]\\
 \\
 
 <<v12>>
@@ -99,7 +95,7 @@
 
 <<v16>>
 16 durch mich versehen die Herrscher ihr Amt, /\\
- die Vornehmen und alle Verwalter des Rechts. ^{[[#fn4][4]]}\\
+ die Vornehmen und alle Verwalter des Rechts. [fn:4]\\
 \\
 
 <<v17>>
@@ -109,7 +105,7 @@
 
 <<v18>>
 18 Reichtum und Ehre sind bei mir, /\\
- angesehener Besitz und Glück; ^{[[#fn5][5]]}\\
+ angesehener Besitz und Glück; [fn:5]\\
 \\
 
 <<v19>>
@@ -129,7 +125,7 @@
 
 <<v22>>
 22 Der Herr hat mich geschaffen im Anfang seiner Wege, /\\
- vor seinen Werken in der Urzeit; ^{[[#fn6][6]][[#fn7][7]]}\\
+ vor seinen Werken in der Urzeit; [fn:6] [fn:7]\\
 \\
 
 <<v23>>
@@ -155,7 +151,7 @@
 
 <<v27>>
 27 Als er den Himmel baute, war ich dabei, /\\
- als er den Erdkreis abmaß über den Wassern, ^{[[#fn8][8]]}\\
+ als er den Erdkreis abmaß über den Wassern, [fn:8]\\
 \\
 
 <<v28>>
@@ -206,21 +202,22 @@
  alle, die mich hassen, lieben den Tod.\\
 \\
 
-^{[[#fnm1][1]]} ℘ Sir 24,1f
+* Footnotes
 
-^{[[#fnm2][2]]} 1-21: Die Weisheit tritt als Mahnrednerin auf wie in
-1,20-33.
+[fn:1] [[file:Sir_24.org::v1][Sir 24,1f]]
 
-^{[[#fnm3][3]]} ℘ 3,15
+[fn:2] 1-21: Die Weisheit tritt als Mahnrednerin auf wie in 1,20-33.
 
-^{[[#fnm4][4]]} ℘ Weish 6,20
+[fn:3] [[file:Spr_3.org::v15][3,15]]
 
-^{[[#fnm5][5]]} ℘ Weish 8,5
+[fn:4] [[file:Weish_6.org::v20][Weish 6,20]]
 
-^{[[#fnm6][6]]} ℘ Weish 8,2-4
+[fn:5] [[file:Weish_8.org::v5][Weish 8,5]]
 
-^{[[#fnm7][7]]} 22-33: Zur personifizierten Weisheit des Schöpfergottes
+[fn:6] [[file:Weish_8.org::v2][Weish 8,2-4]]
+
+[fn:7] 22-33: Zur personifizierten Weisheit des Schöpfergottes
 vgl. die Einleitung. 22a: So mit S, Vg und der aramäischen Übersetzung;
 andere Übersetzungsmöglichkeit: als Erstling seiner Schöpfungswerke.
 
-^{[[#fnm8][8]]} ℘ Ijob 28,24-27
+[fn:8] [[file:Ijob_28.org::v24][Ijob 28,24-27]]
