@@ -1,25 +1,23 @@
-:PROPERTIES:
-:ID:       264a4557-eece-46b3-9f2a-6fc12e1dd482
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch der Sprichwörter* --
-[[file:Spr_1.html][1]] ... [[file:Spr_21.html][21]]
-[[file:Spr_22.html][22]] *23* [[file:Spr_24.html][24]]
-[[file:Spr_25.html][25]] ... [[file:Spr_31.html][31]]
-
---------------
+#+TITLE: Spr 23 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-09-03 Di 22:49]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Spr 23.html
 
 * Spr 23
-  :PROPERTIES:
-  :CUSTOM_ID: spr-23
-  :END:
 
 <<verses>>
 
 <<v1>>
 1 Wenn du zu Tisch sitzt bei einem Herrscher, /\\
- so achte nur auf das, was vor dir steht. ^{[[#fn1][1]]}\\
+ so achte nur auf das, was vor dir steht. [fn:1]\\
 \\
 
 <<v2>>
@@ -65,7 +63,7 @@
 
 <<v10>>
 10 Verschieb nicht die alte Grenze, /\\
- dring nicht in die Felder der Waisen vor! ^{[[#fn2][2]]}\\
+ dring nicht in die Felder der Waisen vor! [fn:2]\\
 \\
 
 <<v11>>
@@ -74,18 +72,15 @@
 \\
 
 <<v12>>
-**** Mahnungen: 23,12-35
-     :PROPERTIES:
-     :CUSTOM_ID: mahnungen-2312-35
-     :END:
+* Mahnungen: 23,12-35
+
 12 Öffne dein Herz für die Zucht, /\\
- dein Ohr für verständige Reden! ^{[[#fn3][3]]}\\
+ dein Ohr für verständige Reden! [fn:3]\\
 \\
 
 <<v13>>
 13 Erspar dem Knaben die Züchtigung nicht; /\\
- wenn du ihn schlägst mit dem Stock, wird er nicht sterben.
-^{[[#fn4][4]]}\\
+ wenn du ihn schlägst mit dem Stock, wird er nicht sterben. [fn:4]\\
 \\
 
 <<v14>>
@@ -110,7 +105,7 @@
 
 <<v18>>
 18 Denn sicher gibt es eine Zukunft, /\\
- deine Hoffnung wird nicht zerschlagen. ^{[[#fn5][5]]}\\
+ deine Hoffnung wird nicht zerschlagen. [fn:5]\\
 \\
 
 <<v19>>
@@ -125,17 +120,17 @@
 
 <<v21>>
 21 denn Säufer und Schlemmer werden arm, /\\
- Schläfrigkeit kleidet in Lumpen. ^{[[#fn6][6]]}\\
+ Schläfrigkeit kleidet in Lumpen. [fn:6]\\
 \\
 
 <<v22>>
 22 Hör auf deinen Vater, der dich gezeugt hat, /\\
- verachte deine Mutter nicht, wenn sie alt wird. ^{[[#fn7][7]]}\\
+ verachte deine Mutter nicht, wenn sie alt wird. [fn:7]\\
 \\
 
 <<v23>>
 23 Erwirb dir Wahrheit und verkauf sie nicht mehr: /\\
- Weisheit, Zucht und Einsicht! ^{[[#fn8][8]][[#fn9][9]]}\\
+ Weisheit, Zucht und Einsicht! [fn:8] [fn:9]\\
 \\
 
 <<v24>>
@@ -155,12 +150,12 @@
 
 <<v27>>
 27 denn die Ehebrecherin ist eine tiefe Grube, /\\
- die fremde Frau ein enger Brunnen. ^{[[#fn10][10]]}\\
+ die fremde Frau ein enger Brunnen. [fn:10]\\
 \\
 
 <<v28>>
 28 Ja, wie ein Räuber lauert sie auf /\\
- und mehrt die Verräter unter den Menschen. ^{[[#fn11][11]]}\\
+ und mehrt die Verräter unter den Menschen. [fn:11]\\
 \\
 
 <<v29>>
@@ -172,7 +167,7 @@
 
 <<v30>>
 30 Jene, die bis in die Nacht beim Wein sitzen, /\\
- die kommen, um den Mischwein zu probieren. ^{[[#fn12][12]]}\\
+ die kommen, um den Mischwein zu probieren. [fn:12]\\
 \\
 
 <<v31>>
@@ -204,30 +199,32 @@
  Von neuem will ich zum Wein greifen.\\
 \\
 
-^{[[#fnm1][1]]} ℘ (1-13) Sir 31,12-21
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ 22,28
+[fn:1] (1-13) [[file:Sir_31.org::v12][Sir 31,12-21]]
 
-^{[[#fnm3][3]]} 12-35: Nach Mahnungen, die vom ägyptischen Weisheitsbuch
-abhängig sind (vgl. die Anmerkung zu 22,17 und die Einleitung), folgt
+[fn:2] [[file:Spr_22.org::v28][22,28]]
+
+[fn:3] 12-35: Nach Mahnungen, die vom ägyptischen Weisheitsbuch
+abhängig sind (vgl. die Anmerkung zu [[file:Spr_22.org::v17][22,17]] und die Einleitung), folgt
 ein Abschnitt mit väterlichen Lehren; er endet mit einem sarkastischen
 Spottlied auf den Trunkenbold in VV. 29-35.
 
-^{[[#fnm4][4]]} ℘ 13,24; 19,18; 22,15; 29,15.17; Sir 30,1-13
+[fn:4] [[file:Spr_13.org::v24][13,24]]; [[file:Spr_19.org::v18][19,18]]; [[file:Spr_22.org::v15][22,15]]; [[file:Spr_29.org::v15][29,15]].[[file:Spr_29.org::v17][17]]; [[file:Sir_30.org::v1][Sir 30,1-13]]
 
-^{[[#fnm5][5]]} ℘ 24,14
+[fn:5] [[file:Spr_24.org::v14][24,14]]
 
-^{[[#fnm6][6]]} ℘ Sir 18,33
+[fn:6] [[file:Sir_18.org::v33][Sir 18,33]]
 
-^{[[#fnm7][7]]} ℘ 1,8; 30,17; Sir 3,1-16
+[fn:7] [[file:Spr_1.org::v8][1,8]]; [[file:Spr_30.org::v17][30,17]]; [[file:Sir_3.org::v1][Sir 3,1-16]]
 
-^{[[#fnm8][8]]} ℘ 4,7
+[fn:8] [[file:Spr_4.org::v7][4,7]]
 
-^{[[#fnm9][9]]} Fehlt in G und unterbricht den Zusammenhang, ist also
+[fn:9] Fehlt in G und unterbricht den Zusammenhang, ist also
 wohl ein Zusatz.
 
-^{[[#fnm10][10]]} ℘ 22,14
+[fn:10] [[file:Spr_22.org::v14][22,14]]
 
-^{[[#fnm11][11]]} ℘ 7,12
+[fn:11] [[file:Spr_7.org::v12][7,12]]
 
-^{[[#fnm12][12]]} ℘ 20,1
+[fn:12] [[file:Spr_20.org::v1][20,1]]

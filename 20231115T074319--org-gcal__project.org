@@ -194,7 +194,7 @@ Dieser Termin wurde aus einer E-Mail erstellt, die Sie in Gmail erhalten haben. 
 :PROPERTIES:
 :calendar-id: matthiasfuchs01@gmail.com
 :org-gcal-managed: org
-:ETag:     "3445347484198000"
+:ETag:     "3450355915572000"
 :entry-id: oat0dmp9205jod7i4974hc7kho/matthiasfuchs01@gmail.com
 :END:
 :org-gcal:
@@ -210,5 +210,38 @@ Dieser Termin wurde aus einer E-Mail erstellt, die Sie in Gmail erhalten haben. 
 :END:
 :org-gcal:
 <2024-08-16 Fr 19:00-20:00>
+:END:
+
+* Eröffnungskonferenz MMS Abtenau
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3451650470198000"
+:entry-id: 2i5os25q8v7s7p66j45a3u9bs8/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2024-09-09 Mo 10:45-15:00>
+:END:
+
+* Schulgottesdienst
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3451812804596000"
+:entry-id: qksmdg1un9539tr1vojg22e0dg/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2024-09-10 Di 10:30-11:15>
+:END:
+
+* Dienstbeginn 7:30
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3451651927816000"
+:entry-id: h8rm756ileadiqbmusurb2j024/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2024-09-09 Mo 07:30-10:45>
 :END:
 

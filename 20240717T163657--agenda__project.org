@@ -16,87 +16,108 @@
 
 ** Montag
 
-*** 2a 07:45-08:35                                                     :2a:
-<%%(org-class 2024 7 15 2024 7 29 1 31)>
-[[denote:20240719T153525][A Klasse 2023-27]]
+*** 1d (RLS) 07:45-08:35                                               :1d:
+<%%(org-class 2024 9 9 2025 6 30 1 37)>
+[[denote:20240908T213847][D Klasse 2024-28]]
 
-*** 2b 08:40-09:30                                                     :2b:
-<%%(org-class 2024 7 15 2024 7 29 1 31)>
+*** 1a (RLS) 08:35-09:25                                               :1a:
+<%%(org-class 2024 9 9 2025 6 30 1 37)>
+[[denote:20240908T214000][A Klasse 2024-28]]
 
-*** 2c 09:35-10:25                                                     :2c:
-<%%(org-class 2024 7 15 2024 7 29 1 31)>
+*** 2a (RLS) 10:30-11:20                                               :2a:
+:PROPERTIES:
+:CUSTOM_ID: h:8608e26f-9bf9-4794-967d-c77e01ba5036
+:END:
+<%%(org-class 2024 9 9 2025 6 30 1 37)>
+[[denote:20240908T214029][A Klasse 2023-27]]
 
-*** 4a 10:40-11:30                                                     :4a:
-<%%(org-class 2024 7 15 2024 7 29 1 31)>
+*** 4b 11:30-12:20                                                     :4b:
+<%%(org-class 2024 9 9 2025 6 30 1 37)>
+[[denote:20240908T214223][B Klasse 2021-25]]
 
-*** 4b 11:35-12:25                                                     :4b:
-<%%(org-class 2024 7 15 2024 7 29 1 31)>
+*** 3a 12:20-13:10                                                     :3a:
+<%%(org-class 2024 9 9 2025 6 30 1 37)>
+[[denote:20240908T214254][A Klasse 2022-26]]
 
 ** Dienstag
 
-*** 1a 07:45-08:35                                                     :1a:
-<%%(org-class 2024 7 16 2024 7 30 2 31)>
+*** 4b 07:45-08:35                                                     :4b:
+<%%(org-class 2024 9 10 2025 7 1 2)>
+[[denote:20240908T214223][B Klasse 2021-25]]
 
-*** 1b 08:40-09:30                                                     :1b:
-<%%(org-class 2024 7 16 2024 7 30 2 31)>
+*** 3b 09:40-10:30                                                     :3b:
+<%%(org-class 2024 9 10 2025 7 1 2)>
+[[denote:20240908T214359][B Klasse 2022-26]]
 
-*** 2b 09:35-10:25                                                     :2b:
-<%%(org-class 2024 7 16 2024 7 30 2 31)>
+Unterricht heute (10.09.) um 10:15 beenden.
 
-*** 4a 10:40-11:30                                                     :4a:
-<%%(org-class 2024 7 16 2024 7 30 2 31)>
+*** 1b (RLS) 10:30-11:20                                               :1b:
+<%%(org-class 2024 9 10 2025 7 1 2 37)>
+[[denote:20240908T214427][B Klasse 2024-28]]
 
-*** 4b 11:35-12:25                                                     :4b:
-<%%(org-class 2024 7 16 2024 7 30 2 31)>
+*** 4c 11:30-12:20                                                     :4c:
+<%%(org-class 2024 9 10 2025 7 1 2 37)>
+[[denote:20240908T214454][C Klasse 2021-25]]
+
+*** 1c 12:20-13:10                                                     :1c:
+<%%(org-class 2024 9 10 2025 7 1 2 37)>
+[[denote:20240908T214521][C Klasse 2024-28]]
+
+*** 1c Gitarre 13:10-14:00                                        :gitarre:
+<%%(org-class 2024 9 10 2025 7 1 2 37)>
+
+*** 1c Gitarre 14:00-14:50                                        :gitarre:
+:PROPERTIES:
+:CUSTOM_ID: h:b87c6e14-801c-4864-a238-0868eda34154
+:END:
+<%%(org-class 2024 9 10 2025 7 1 2 37)>
 
 ** Mittwoch
 
-*** 3a 07:45-08:35                                                     :3a:
-<%%(org-class 2024 7 17 2024 7 31 3 31)>
-
-*** 3b 08:40-09:30                                                     :3b:
-<%%(org-class 2024 7 17 2024 7 31 3 31)>
-
-*** 3c 09:35-10:25                                                     :3c:
-<%%(org-class 2024 7 17 2024 7 31 3 31)>
-
-*** 2c 10:40-11:30                                                     :2c:
-<%%(org-class 2024 7 17 2024 7 31 3 31)>
-
-*** 4c 11:35-12:25                                                     :4c:
-<%%(org-class 2024 7 17 2024 7 31 3 31)>
+*** 1b 11:30-12:20                                                     :1b:
+<%%(org-class 2024 9 11 2025 7 2 3)>
+[[denote:20240908T214427][B Klasse 2024-28]]
 
 ** Donnerstag
 
-*** 4c 07:45-08:35                                                     :4c:
-<%%(org-class 2024 7 18 2024 8 1 4 31)>
+*** 3a 07:45-08:35                                                     :3a:
+<%%(org-class 2024 9 12 2025 7 3 4)>
+[[denote:20240908T214254][A Klasse 2022-26]]
 
-*** 1c 08:40-09:30                                                     :1c:
-<%%(org-class 2024 7 18 2024 8 1 4 31)>
+*** 1c (RLS) 08:35-09:25                                               :1c:
+<%%(org-class 2024 9 12 2025 7 3 4)>
+[[denote:20240908T214521][C Klasse 2024-28]]
 
-*** 3a 09:35-10:25                                                     :3a:
-<%%(org-class 2024 7 18 2024 8 1 4 31)>
+*** 3c 10:30-11:20                                                     :3c:
+<%%(org-class 2024 9 12 2025 7 3 4)>
+[[denote:20240908T214718][C Klasse 2022-26]]
 
-*** 3b 10:40-11:30                                                     :3b:
-<%%(org-class 2024 7 18 2024 8 1 4 31)>
+*** 1d 11:30-12:20                                                     :1d:
+<%%(org-class 2024 9 12 2025 7 3 4)>
+[[denote:20240908T213847][D Klasse 2024-28]]
 
-*** 3c 11:35-12:25                                                     :3c:
-<%%(org-class 2024 7 18 2024 8 1 4 31)>
+*** 2a 12:20-13:10                                                     :2a:
+<%%(org-class 2024 9 12 2025 7 3 4)>
+[[denote:20240908T214029][A Klasse 2023-27]]
+
 
 ** Freitag
 
-*** 2a 07:45-08:35                                                     :2a:
-<%%(org-class 2024 7 19 2024 8 2 5 31)>
-[[denote:20240719T153525][A Klasse 2023-27]]
+*** 3c 08:35-09:25                                                     :3c:
+<%%(org-class 2024 9 13 2025 7 4 5)>
+[[denote:20240908T214718][C Klasse 2022-26]]
 
-*** 1c 08:40-09:30                                                     :1c:
-<%%(org-class 2024 7 19 2024 8 2 5 31)>
+*** 3b 09:40-10:30                                                     :3b:
+<%%(org-class 2024 9 13 2025 7 4 5)>
+[[denote:20240908T214359][B Klasse 2022-26]]
 
-*** Gitarre 09:35-10:25                                           :gitarre:
-<%%(org-class 2024 7 19 2024 8 2 5 31)>
+*** 4c 11:30-12:20                                                     :4c:
+<%%(org-class 2024 9 13 2025 7 4 5)>
+[[denote:20240908T214454][C Klasse 2021-25]]
 
-*** Gitarre 10:40-11:30                                           :gitarre:
-<%%(org-class 2024 7 19 2024 8 2 5 31)>
+*** 1a 12:20-13:10                                                     :1a:
+<%%(org-class 2024 9 13 2025 7 4 5)>
+[[denote:20240908T214000][A Klasse 2024-28]]
 
 * Tasks
 
@@ -140,11 +161,44 @@ Error; JSON readtable error: 60
 
 Leider hab ich bis jetzt keine Lösung für diesen Fehler gefunden; als Zwischenlösung habe ich ~consult-spotify~ deaktiviert und verwende ~smudge~ und ~espotify~. ~smudge~ kann leider weder nach Künstlern und Alben suchen. Aber ich kann innerhalb einer PLayliste das Album oder den Künstler abspielen. Mit ~espotify~ kann ich Spotify mit ~play / pause~, ~next song~ und ~previous song~ steuern - sogar den Spotify Player auf einem anderen Gerät.
 
-** TODO Lesen und Beten
-SCHEDULED: <2024-07-28 So 18:00>
+** DONE Lesen und Beten
+CLOSED: [2024-09-08 So 21:51] SCHEDULED: <2024-07-28 So 18:00>
 :PROPERTIES:
 :CAPTURED: [2024-07-31 Mi 18:04]
+:CUSTOM_ID: h:c0fae8df-f502-42ff-b5a8-72ce9a3ac14c
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2024-09-08 So 21:51]
 :END:
 [[file:~/.emacs.d/init.el::org-deadline-warning-days 0]]
+
+** DONE Outlook (davmail) einrichten
+CLOSED: [2024-09-09 Mo 10:33] DEADLINE: <2024-09-09 Mo 21:00>
+:PROPERTIES:
+:CAPTURED: [2024-09-09 Mo 09:22]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2024-09-09 Mo 10:33]
+:END:
+
+Ist hinfällig, da alle offiziellen E-Mails über die aps-Adresse verschickt werden. Die abtenau.schule-Adresse dient ausschließlich für MS Teams (klappt noch nicht; Marius kümmert sich darum.)
+
+** TODO Microsoft Teams
+DEADLINE: <2024-09-09 Mo 22:00>
+:PROPERTIES:
+:CAPTURED: [2024-09-09 Mo 09:25]
+:END:
+
+Email: fuchs.matthias@abtenau.schule
+PW: ... as usual
+
+Anmeldung:
+- im schul-internen Netzwerk:
+  Benutzer: fuchs.matthias + PW
+  
+- Zuhause oder in jedem anderen Netzwerk
+  Benutzer: fuchs.matthias@abtenau.schule + PW
+
+
 
 * Tasks [Mails]

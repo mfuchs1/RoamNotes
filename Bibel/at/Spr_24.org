@@ -1,29 +1,25 @@
-:PROPERTIES:
-:ID:       123f8dfe-18b3-4687-8eb0-cb9618d6caf1
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch der Sprichwörter* --
-[[file:Spr_1.html][1]] ... [[file:Spr_22.html][22]]
-[[file:Spr_23.html][23]] *24* [[file:Spr_25.html][25]]
-[[file:Spr_26.html][26]] ... [[file:Spr_31.html][31]]
-
---------------
+#+TITLE: Spr 24 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-09-03 Di 23:01]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Spr 24.html
 
 * Spr 24
-  :PROPERTIES:
-  :CUSTOM_ID: spr-24
-  :END:
 
 <<verses>>
 
 <<v1>>
-**** Lebensregeln: 24,1-22
-     :PROPERTIES:
-     :CUSTOM_ID: lebensregeln-241-22
-     :END:
+* Lebensregeln: 24,1-22
+
 1 Sei nicht neidisch auf böse Menschen, /\\
- such keinen Umgang mit ihnen! ^{[[#fn1][1]][[#fn2][2]]}\\
+ such keinen Umgang mit ihnen! [fn:1] [fn:2]\\
 \\
 
 <<v2>>
@@ -43,17 +39,17 @@
 
 <<v5>>
 5 Der Weise ist dem Starken überlegen, /\\
- ein verständiger Mensch dem robusten. ^{[[#fn3][3]]}\\
+ ein verständiger Mensch dem robusten. [fn:3]\\
 \\
 
 <<v6>>
 6 Denn durch Überlegung gewinnst du den Kampf, /\\
- viele Ratgeber verhelfen zum Sieg. ^{[[#fn4][4]]}\\
+ viele Ratgeber verhelfen zum Sieg. [fn:4]\\
 \\
 
 <<v7>>
 7 Zu hoch hängt dem Toren die Weisheit, /\\
- am Tor tut er den Mund nicht auf. ^{[[#fn5][5]]}\\
+ am Tor tut er den Mund nicht auf. [fn:5]\\
 \\
 
 <<v8>>
@@ -68,7 +64,7 @@
 
 <<v10>>
 10 Zeigst du dich lässig am Tag der Bedrängnis, /\\
- so wird auch deine Kraft bedrängt. ^{[[#fn6][6]]}\\
+ so wird auch deine Kraft bedrängt. [fn:6]\\
 \\
 
 <<v11>>
@@ -102,7 +98,7 @@ Menschen, /\\
 
 <<v16>>
 16 Denn siebenmal fällt der Gerechte und steht wieder auf, /\\
- doch die Frevler stürzen ins Unglück. ^{[[#fn7][7]]}\\
+ doch die Frevler stürzen ins Unglück. [fn:7]\\
 \\
 
 <<v17>>
@@ -127,7 +123,7 @@ Menschen, /\\
 
 <<v21>>
 21 Fürchte den Herrn, mein Sohn, und den König; /\\
- mit diesen beiden überwirf dich nicht! ^{[[#fn8][8]]}\\
+ mit diesen beiden überwirf dich nicht! [fn:8]\\
 \\
 
 <<v22>>
@@ -136,13 +132,10 @@ Menschen, /\\
 \\
 
 <<v23>>
-**** Weisheitssprüche: 24,23-34
-     :PROPERTIES:
-     :CUSTOM_ID: weisheitssprüche-2423-34
-     :END:
+* Weisheitssprüche: 24,23-34
+
 23 Auch folgende Sprichwörter stammen von Weisen: /\\
- Im Gericht auf die Person sehen ist nicht recht.
-^{[[#fn9][9]][[#fn10][10]]}\\
+ Im Gericht auf die Person sehen ist nicht recht. [fn:9] [fn:10]\\
 \\
 
 <<v24>>
@@ -168,14 +161,14 @@ Menschen, /\\
 
 <<v28>>
 28 Tritt gegen deinen Nächsten nicht als falscher Zeuge auf, /\\
- betrüge nicht mit deinen Worten! ^{[[#fn11][11]]}\\
+ betrüge nicht mit deinen Worten! [fn:11]\\
 \\
 
 <<v29>>
 29 Sag nicht: Wie er mir getan hat, /\\
  so will ich auch ihm tun, /\\
  einem jedem will ich vergelten, /\\
- wie es seine Taten verdienen. ^{[[#fn12][12]]}\\
+ wie es seine Taten verdienen. [fn:12]\\
 \\
 
 <<v30>>
@@ -196,7 +189,7 @@ Menschen, /\\
 
 <<v33>>
 33 Noch ein wenig schlafen, noch ein wenig schlummern, /\\
- noch ein wenig die Arme verschränken, um auszuruhen. ^{[[#fn13][13]]}\\
+ noch ein wenig die Arme verschränken, um auszuruhen. [fn:13]\\
 \\
 
 <<v34>>
@@ -204,34 +197,36 @@ Menschen, /\\
  die Not wie ein zudringlicher Bettler.\\
 \\
 
-^{[[#fnm1][1]]} ℘ Ps 37,1
+* Footnotes
 
-^{[[#fnm2][2]]} 1-22: Diese Lebensregeln bilden einen eigenen Abschnitt
+[fn:1] [[file:Ps_37.org::v1][Ps 37,1]]
+
+[fn:2] 1-22: Diese Lebensregeln bilden einen eigenen Abschnitt
 mit zweiundzwanzig Versen entsprechend der Anzahl der Buchstaben im
 hebräischen Alphabet.
 
-^{[[#fnm3][3]]} ℘ 21,22
+[fn:3] [[file:Spr_21.org::v22][21,22]]
 
-^{[[#fnm4][4]]} ℘ 11,14; 20,18
+[fn:4] [[file:Spr_11.org::v14][11,14]]; [[file:Spr_20.org::v18][20,18]]
 
-^{[[#fnm5][5]]} 7b: Vgl. die Anmerkung zu 22,22b.
+[fn:5] 7b: Vgl. die Anmerkung zu [[file:Spr_22.org::v22][22,22b]].
 
-^{[[#fnm6][6]]} Text von H unklar; wahrscheinlich verderbt. Mit einem
+[fn:6] Text von H unklar; wahrscheinlich verderbt. Mit einem
 Wortspiel soll wohl gesagt werden: Wer anderen in der Bedrängnis nicht
 hilft (vgl. V. 11), bringt sich selbst in Bedrängnis.
 
-^{[[#fnm7][7]]} ℘ Ps 37,24
+[fn:7] [[file:Ps_37.org::v24][Ps 37,24]]
 
-^{[[#fnm8][8]]} ℘ 1 Petr 2,17
+[fn:8] [[file:~/RoamNotes/notes/Bibel/nt/1.Petr_2.org::v17][1 Petr 2,17]]
 
-^{[[#fnm9][9]]} ℘ 28,21
+[fn:9] [[file:Spr_28.org::v21][28,21]]
 
-^{[[#fnm10][10]]} 23a: Überschrift eines weiteren Anhangs, der bis V. 34
-reicht (vgl. 22,17). Auch diesen Anhang schließt in VV. 30-34 ein
+[fn:10] 23a: Überschrift eines weiteren Anhangs, der bis V. 34
+reicht (vgl. [[file:Spr_22.org::v17][22,17]]). Auch diesen Anhang schließt in VV. 30-34 ein
 Spottlied ab, hier auf den faulen Landwirt.
 
-^{[[#fnm11][11]]} ℘ Ex 20,16; Dtn 5,20
+[fn:11] [[file:Ex_20.org::v16][Ex 20,16]]; [[file:Dtn_5.org::v20][Dtn 5,20]]
 
-^{[[#fnm12][12]]} ℘ 20,22
+[fn:12] [[file:Spr_20.org::v22][20,22]]
 
-^{[[#fnm13][13]]} ℘ (33-34) 6,10f
+[fn:13] (33-34) [[file:Spr_6.org::v10][6,10f]]
