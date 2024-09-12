@@ -74,7 +74,7 @@ http://www.veritas.at/code (rfu300)
   for student in table:
       first = student[0]
       last = student[1]
-      email = first + '.' + last + '@golling.schule'
+      email = first + '.' + last + '@abtenau.schule'
       print('** ' + first + ' ' + last + '')
       print(':PROPERTIES:')
       print(':EMAIL: ' '[[mailto: ' + first + ' ' + last + ' <' + email + '>]]')

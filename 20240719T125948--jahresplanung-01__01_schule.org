@@ -27,9 +27,9 @@ Die Schüler*innen können sich in ihrer gottgeschenkten Einzigartigkeit wahrneh
 ** Hinweis/Alternativen
 
 ** Basisseiten und Empfehlungen
-- Die Welt der Gefühle
-- Was ich mir zutraue
-- Kann ich dir vertrauen?
+- [[denote:20240911T093358][Die Welt der Gefühle]]
+- [[denote:20240911T093423][Was ich mir zutraue]]
+- [[denote:20240911T093444][Kann ich dir vertrauen?]]
 - Impuls: Ich – und du?
 - Ich bin einzigartig
 - Wir sind eine Gemeinschaft

@@ -34,9 +34,9 @@ Liturgische (Mit)Gestaltung Eröffnungsgottesdienst: Der Ablauf der Hl. Messe �
 ** Basisseiten und Empfehlungen
 
 *** Wie wir uns anderen mitteilen (S. 10)
-- Mit jedem redest du anders (S. 11)
-- Mobbing: War doch nur Spaß? (S. 14 – 15)
-- Impuls: Konflikte lösen (S. 16)
+- [[denote:20240911T093726][Mit jedem redest du anders]] (S. 11)
+- [[denote:20240911T093749][Mobbing: War doch nur Spaß?]] (S. 14 – 15)
+- [[denote:20240911T093804][Impuls: Konflikte lösen]] (S. 16)
 - Mensch, ärgere dich nicht? (S. 18)
 - Liebe, eine Grundhaltung (S. 20 – 21)
 - Freundschaft – Durch dick und dünn (S. 22)

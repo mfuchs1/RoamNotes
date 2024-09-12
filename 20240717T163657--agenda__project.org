@@ -75,7 +75,7 @@ Unterricht heute (10.09.) um 10:15 beenden.
 ** Mittwoch
 
 *** 1b 11:30-12:20                                                     :1b:
-<%%(org-class 2024 9 11 2025 7 2 3)>
+<%%(org-class 2024 9 11 2025 7 2 3 37)>
 [[denote:20240908T214427][B Klasse 2024-28]]
 
 ** Donnerstag
@@ -183,11 +183,16 @@ CLOSED: [2024-09-09 Mo 10:33] DEADLINE: <2024-09-09 Mo 21:00>
 
 Ist hinfällig, da alle offiziellen E-Mails über die aps-Adresse verschickt werden. Die abtenau.schule-Adresse dient ausschließlich für MS Teams (klappt noch nicht; Marius kümmert sich darum.)
 
-** TODO Microsoft Teams
-DEADLINE: <2024-09-09 Mo 22:00>
+** DONE Microsoft Teams
+CLOSED: [2024-09-11 Mi 09:29] DEADLINE: <2024-09-09 Mo 22:00>
 :PROPERTIES:
 :CAPTURED: [2024-09-09 Mo 09:25]
 :END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2024-09-11 Mi 09:29]
+:END:
+
+Erledigt! MS Teams auch auf Laptop installiert. Teams angelegt.
 
 Email: fuchs.matthias@abtenau.schule
 PW: ... as usual
