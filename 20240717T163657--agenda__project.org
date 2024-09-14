@@ -31,6 +31,9 @@
 <%%(org-class 2024 9 9 2025 6 30 1 37)>
 [[denote:20240908T214029][A Klasse 2023-27]]
 
+*** PA (1. OG) 11:20-11:30
+<%%(org-class 2024 9 9 2025 6 30 1 37)>
+
 *** 4b 11:30-12:20                                                     :4b:
 <%%(org-class 2024 9 9 2025 6 30 1 37)>
 [[denote:20240908T214223][B Klasse 2021-25]]
@@ -40,6 +43,9 @@
 [[denote:20240908T214254][A Klasse 2022-26]]
 
 ** Dienstag
+
+*** PA (1. OG)  07:30-07:45
+<%%(org-class 2024 9 10 2025 7 1 2)>
 
 *** 4b 07:45-08:35                                                     :4b:
 <%%(org-class 2024 9 10 2025 7 1 2)>
@@ -65,12 +71,15 @@ Unterricht heute (10.09.) um 10:15 beenden.
 
 *** 1c Gitarre 13:10-14:00                                        :gitarre:
 <%%(org-class 2024 9 10 2025 7 1 2 37)>
+[[denote:20240908T214521::#h:169d71d5-10a5-4f37-af06-dcf58b198a1c][C Klasse 2024-28::Instrumentalunterricht / Gitarre]]
+
 
 *** 1c Gitarre 14:00-14:50                                        :gitarre:
 :PROPERTIES:
 :CUSTOM_ID: h:b87c6e14-801c-4864-a238-0868eda34154
 :END:
 <%%(org-class 2024 9 10 2025 7 1 2 37)>
+[[denote:20240908T214521::#h:169d71d5-10a5-4f37-af06-dcf58b198a1c][C Klasse 2024-28::Instrumentalunterricht / Gitarre]]
 
 ** Mittwoch
 
@@ -107,6 +116,9 @@ Unterricht heute (10.09.) um 10:15 beenden.
 <%%(org-class 2024 9 13 2025 7 4 5)>
 [[denote:20240908T214718][C Klasse 2022-26]]
 
+*** PA (1. OG) 09:25-09:40                                             :PA:
+<%%(org-class 2024 9 13 2025 7 4 5)>
+
 *** 3b 09:40-10:30                                                     :3b:
 <%%(org-class 2024 9 13 2025 7 4 5)>
 [[denote:20240908T214359][B Klasse 2022-26]]
@@ -116,7 +128,7 @@ Unterricht heute (10.09.) um 10:15 beenden.
 [[denote:20240908T214454][C Klasse 2021-25]]
 
 *** 1a 12:20-13:10                                                     :1a:
-<%%(org-class 2024 9 13 2025 7 4 5)>
+<%%(org-class 2024 9 13 2025 7 4 5 37)>
 [[denote:20240908T214000][A Klasse 2024-28]]
 
 * Tasks

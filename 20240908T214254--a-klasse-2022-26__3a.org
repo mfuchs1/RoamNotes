@@ -28,34 +28,28 @@ http://www.veritas.at/code (rfu300)
 
 * Schülerliste
 #+Name: 2021-students
-| First     | Last       | Name               | Note | Mitarbeit | Heft | LZK |
-|-----------+------------+--------------------+------+-----------+------+-----|
-| Tobias    | Bernhofer  | [[Tobias Bernhofer][Tobias Bernhofer]]   |    1 |           |      |     |
-| Alexander | Cerny      | [[Alexander Cerny][Alexander Cerny]]    |    1 |           |      |     |
-| Laurin    | Ellmer     | [[Laurin Ellmer][Laurin Ellmer]]      |    1 |           |      |     |
-| Amrit     | Gappmaier  | [[Amrit Gappmaier][Amrit Gappmaier]]    |    1 |           |      |     |
-| Olivia    | Gappmaier  | [[Olivia Gappmaier][Olivia Gappmaier]]   |    1 |           |      |     |
-| Nadine    | Gschiel    | [[Nadine Gschiel][Nadine Gschiel]]     |    1 |           |      |     |
-| Damien    | Hettegger  | [[Damien Hettegger][Damien Hettegger]]   |    1 |           |      |     |
-| Christian | Kronreif   | [[Christian Kronreif][Christian Kronreif]] |    1 |           |      |     |
-| Rafael    | Lainer     | [[Rafael Lainer][Rafael Lainer]]      |    1 |           |      |     |
-| Leopold   | Lechner    | [[Leopold Lechner][Leopold Lechner]]    |    1 |           |      |     |
-| Hannah    | Lutje      | [[Hannah Lutje][Hannah Lutje]]       |    1 |           |      |     |
-| Leonhard  | Malter     | [[Leonhard Malter][Leonhard Malter]]    |    1 |           |      |     |
-| Sunmaya   | Marek      | [[Sunmaya Marek][Sunmaya Marek]]      |    1 |           |      |     |
-| Khushboo  | Markandey  | [[Khushboo Markandey][Khushboo Markandey]] |    1 |           |      |     |
-| Moritz    | Neuhofer   | [[Moritz Neuhofer][Moritz Neuhofer]]    |    1 |           |      |     |
-| Heidi     | Pichler    | [[Heidi Pichler][Heidi Pichler]]      |    1 |           |      |     |
-| Jakob     | Salchegger | [[Jakob Salchegger][Jakob Salchegger]]   |    1 |           |      |     |
-| Elias     | Schieferer | [[Elias Schieferer][Elias Schieferer]]   |    1 |           |      |     |
-| Nikolaj   | Schwaiger  | [[Nikolaj Schwaiger][Nikolaj Schwaiger]]  |    1 |           |      |     |
-| Florian   | Siller     | [[Florian Siller][Florian Siller]]     |    1 |           |      |     |
-| Michael   | Steiner    | [[Michael Steiner][Michael Steiner]]    |    1 |           |      |     |
-| Pascal    | Stippler   | [[Pascal Stippler][Pascal Stippler]]    |    1 |           |      |     |
-| Alexander | Wenger     | [[Alexander Wenger][Alexander Wenger]]   |    1 |           |      |     |
-| Oskar     | Wieser     | [[Oskar Wieser][Oskar Wieser]]       |    1 |           |      |     |
-| Veit      | Zierfuß    | [[Veit Zierfuß][Veit Zierfuß]]       |    1 |           |      |     |
-|-----------+------------+--------------------+------+-----------+------+-----|
+|----------+--------------+---------------------+------+-----------+------+-----|
+| First    | Last         | Name                | Note | Mitarbeit | Heft | LZK |
+|----------+--------------+---------------------+------+-----------+------+-----|
+| Philip   | Auer         | [[Philip Auer][Philip Auer]]         |      |           |      |     |
+| Julian   | Bachler      | [[Julian Bachler][Julian Bachler]]      |      |           |      |     |
+| Simon    | Brandauer    | [[Simon Brandauer][Simon Brandauer]]     |      |           |      |     |
+| Lina     | Breitfuß     | [[Lina Breitfuß][Lina Breitfuß]]       |      |           |      |     |
+| Clara    | Eder         | [[Clara Eder][Clara Eder]]          |      |           |      |     |
+| Jakob    | Gimpl        | [[Jakob Gimpl][Jakob Gimpl]]         |      |           |      |     |
+| Jana     | Grünwald     | [[Jana Grünwald][Jana Grünwald]]       |      |           |      |     |
+| Elena    | Lienbacher   | [[Elena Lienbacher][Elena Lienbacher]]    |      |           |      |     |
+| Jennifer | Menneweger   | [[Jennifer Menneweger][Jennifer Menneweger]] |      |           |      |     |
+| Tobias   | Ospald       | [[Tobias Ospald][Tobias Ospald]]       |      |           |      |     |
+| Raphael  | Pirnbacher   | [[Raphael Pirnbacher][Raphael Pirnbacher]]  |      |           |      |     |
+| Niklas   | Reiter       | [[Niklas Reiter][Niklas Reiter]]       |      |           |      |     |
+| Amelie   | Reschreiter  | [[Amelie Reschreiter][Amelie Reschreiter]]  |      |           |      |     |
+| Luisa    | Russegger    | [[Luisa Russegger][Luisa Russegger]]     |      |           |      |     |
+| Luca     | Schefbänker  | [[Luca Schefbänker][Luca Schefbänker]]    |      |           |      |     |
+| Simon    | Schweighofer | [[Simon Schweighofer][Simon Schweighofer]]  |      |           |      |     |
+| Julia    | Steiner      | [[Julia Steiner][Julia Steiner]]       |      |           |      |     |
+| Ben      | Zimmermann   | [[Ben Zimmermann][Ben Zimmermann]]      |      |           |      |     |
+|----------+--------------+---------------------+------+-----------+------+-----|
 #+TBLFM: $4=vmean($5..$>);%.0f
 #+TBLFM: $3='(concat "[[" $1 " " $2 "][" $1 " " $2 "]]")
 #+TBLFM: $5='(identity remote(Mitarbeit,@@#$2))
@@ -74,10 +68,10 @@ http://www.veritas.at/code (rfu300)
   for student in table:
       first = student[0]
       last = student[1]
-      email = first + '.' + last + '@abtenau.schule'
+      email = last + '.' + first + '@abtenau.schule'
       print('** ' + first + ' ' + last + '')
       print(':PROPERTIES:')
-      print(':EMAIL: ' '[[mailto: ' + first + ' ' + last + ' <' + email + '>]]')
+      print(':EMAIL: ' '[[mailto: ' + last + ' ' + first + ' <' + email + '>]]')
       print(':EXPORT_FILE_NAME: ' '~/RoamNotes/exports/'  + first +  '_'  + last +  '.html')
       print(':ID: ' + first + '' + last + '')
       print(':END: ')
@@ -91,3 +85,257 @@ http://www.veritas.at/code (rfu300)
 #+END_SRC
 
 #+RESULTS:
+* Mitarbeit
+
+** Philip Auer
+:PROPERTIES:
+:EMAIL: [[mailto: Auer Philip <Auer.Philip@abtenau.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Philip_Auer.html
+:ID: PhilipAuer
+:END: 
+#+Name: Note_PhilipAuer
+|-----------------------+-------+-------------+-----+-----------+------------|
+| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
+|-----------------------+-------+-------------+-----+-----------+------------|
+|                       |       |             |     |           |            |
+#+TBLFM: $6=vmean($3..$5);%.0f
+
+
+** Julian Bachler
+:PROPERTIES:
+:EMAIL: [[mailto: Bachler Julian <Bachler.Julian@abtenau.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Julian_Bachler.html
+:ID: JulianBachler
+:END: 
+#+Name: Note_JulianBachler
+|-----------------------+-------+-------------+-----+-----------+------------|
+| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
+|-----------------------+-------+-------------+-----+-----------+------------|
+|                       |       |             |     |           |            |
+#+TBLFM: $6=vmean($3..$5);%.0f
+
+
+** Simon Brandauer
+:PROPERTIES:
+:EMAIL: [[mailto: Brandauer Simon <Brandauer.Simon@abtenau.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Simon_Brandauer.html
+:ID: SimonBrandauer
+:END: 
+#+Name: Note_SimonBrandauer
+|-----------------------+-------+-------------+-----+-----------+------------|
+| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
+|-----------------------+-------+-------------+-----+-----------+------------|
+|                       |       |             |     |           |            |
+#+TBLFM: $6=vmean($3..$5);%.0f
+
+
+** Lina Breitfuß
+:PROPERTIES:
+:EMAIL: [[mailto: Breitfuß Lina <Breitfuß.Lina@abtenau.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Lina_Breitfuß.html
+:ID: LinaBreitfuß
+:END: 
+#+Name: Note_LinaBreitfuß
+|-----------------------+-------+-------------+-----+-----------+------------|
+| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
+|-----------------------+-------+-------------+-----+-----------+------------|
+|                       |       |             |     |           |            |
+#+TBLFM: $6=vmean($3..$5);%.0f
+
+
+** Clara Eder
+:PROPERTIES:
+:EMAIL: [[mailto: Eder Clara <Eder.Clara@abtenau.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Clara_Eder.html
+:ID: ClaraEder
+:END: 
+#+Name: Note_ClaraEder
+|-----------------------+-------+-------------+-----+-----------+------------|
+| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
+|-----------------------+-------+-------------+-----+-----------+------------|
+|                       |       |             |     |           |            |
+#+TBLFM: $6=vmean($3..$5);%.0f
+
+
+** Jakob Gimpl
+:PROPERTIES:
+:EMAIL: [[mailto: Gimpl Jakob <Gimpl.Jakob@abtenau.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Jakob_Gimpl.html
+:ID: JakobGimpl
+:END: 
+#+Name: Note_JakobGimpl
+|-----------------------+-------+-------------+-----+-----------+------------|
+| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
+|-----------------------+-------+-------------+-----+-----------+------------|
+|                       |       |             |     |           |            |
+#+TBLFM: $6=vmean($3..$5);%.0f
+
+
+** Jana Grünwald
+:PROPERTIES:
+:EMAIL: [[mailto: Grünwald Jana <Grünwald.Jana@abtenau.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Jana_Grünwald.html
+:ID: JanaGrünwald
+:END: 
+#+Name: Note_JanaGrünwald
+|-----------------------+-------+-------------+-----+-----------+------------|
+| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
+|-----------------------+-------+-------------+-----+-----------+------------|
+|                       |       |             |     |           |            |
+#+TBLFM: $6=vmean($3..$5);%.0f
+
+
+** Elena Lienbacher
+:PROPERTIES:
+:EMAIL: [[mailto: Lienbacher Elena <Lienbacher.Elena@abtenau.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Elena_Lienbacher.html
+:ID: ElenaLienbacher
+:END: 
+#+Name: Note_ElenaLienbacher
+|-----------------------+-------+-------------+-----+-----------+------------|
+| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
+|-----------------------+-------+-------------+-----+-----------+------------|
+|                       |       |             |     |           |            |
+#+TBLFM: $6=vmean($3..$5);%.0f
+
+
+** Jennifer Menneweger
+:PROPERTIES:
+:EMAIL: [[mailto: Menneweger Jennifer <Menneweger.Jennifer@abtenau.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Jennifer_Menneweger.html
+:ID: JenniferMenneweger
+:END: 
+#+Name: Note_JenniferMenneweger
+|-----------------------+-------+-------------+-----+-----------+------------|
+| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
+|-----------------------+-------+-------------+-----+-----------+------------|
+|                       |       |             |     |           |            |
+#+TBLFM: $6=vmean($3..$5);%.0f
+
+
+** Tobias Ospald
+:PROPERTIES:
+:EMAIL: [[mailto: Ospald Tobias <Ospald.Tobias@abtenau.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Tobias_Ospald.html
+:ID: TobiasOspald
+:END: 
+#+Name: Note_TobiasOspald
+|-----------------------+-------+-------------+-----+-----------+------------|
+| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
+|-----------------------+-------+-------------+-----+-----------+------------|
+|                       |       |             |     |           |            |
+#+TBLFM: $6=vmean($3..$5);%.0f
+
+
+** Raphael Pirnbacher
+:PROPERTIES:
+:EMAIL: [[mailto: Pirnbacher Raphael <Pirnbacher.Raphael@abtenau.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Raphael_Pirnbacher.html
+:ID: RaphaelPirnbacher
+:END: 
+#+Name: Note_RaphaelPirnbacher
+|-----------------------+-------+-------------+-----+-----------+------------|
+| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
+|-----------------------+-------+-------------+-----+-----------+------------|
+|                       |       |             |     |           |            |
+#+TBLFM: $6=vmean($3..$5);%.0f
+
+
+** Niklas Reiter
+:PROPERTIES:
+:EMAIL: [[mailto: Reiter Niklas <Reiter.Niklas@abtenau.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Niklas_Reiter.html
+:ID: NiklasReiter
+:END: 
+#+Name: Note_NiklasReiter
+|-----------------------+-------+-------------+-----+-----------+------------|
+| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
+|-----------------------+-------+-------------+-----+-----------+------------|
+|                       |       |             |     |           |            |
+#+TBLFM: $6=vmean($3..$5);%.0f
+
+
+** Amelie Reschreiter
+:PROPERTIES:
+:EMAIL: [[mailto: Reschreiter Amelie <Reschreiter.Amelie@abtenau.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Amelie_Reschreiter.html
+:ID: AmelieReschreiter
+:END: 
+#+Name: Note_AmelieReschreiter
+|-----------------------+-------+-------------+-----+-----------+------------|
+| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
+|-----------------------+-------+-------------+-----+-----------+------------|
+|                       |       |             |     |           |            |
+#+TBLFM: $6=vmean($3..$5);%.0f
+
+
+** Luisa Russegger
+:PROPERTIES:
+:EMAIL: [[mailto: Russegger Luisa <Russegger.Luisa@abtenau.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Luisa_Russegger.html
+:ID: LuisaRussegger
+:END: 
+#+Name: Note_LuisaRussegger
+|-----------------------+-------+-------------+-----+-----------+------------|
+| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
+|-----------------------+-------+-------------+-----+-----------+------------|
+|                       |       |             |     |           |            |
+#+TBLFM: $6=vmean($3..$5);%.0f
+
+
+** Luca Schefbänker
+:PROPERTIES:
+:EMAIL: [[mailto: Schefbänker Luca <Schefbänker.Luca@abtenau.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Luca_Schefbänker.html
+:ID: LucaSchefbänker
+:END: 
+#+Name: Note_LucaSchefbänker
+|-----------------------+-------+-------------+-----+-----------+------------|
+| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
+|-----------------------+-------+-------------+-----+-----------+------------|
+|                       |       |             |     |           |            |
+#+TBLFM: $6=vmean($3..$5);%.0f
+
+
+** Simon Schweighofer
+:PROPERTIES:
+:EMAIL: [[mailto: Schweighofer Simon <Schweighofer.Simon@abtenau.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Simon_Schweighofer.html
+:ID: SimonSchweighofer
+:END: 
+#+Name: Note_SimonSchweighofer
+|-----------------------+-------+-------------+-----+-----------+------------|
+| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
+|-----------------------+-------+-------------+-----+-----------+------------|
+|                       |       |             |     |           |            |
+#+TBLFM: $6=vmean($3..$5);%.0f
+
+
+** Julia Steiner
+:PROPERTIES:
+:EMAIL: [[mailto: Steiner Julia <Steiner.Julia@abtenau.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Julia_Steiner.html
+:ID: JuliaSteiner
+:END: 
+#+Name: Note_JuliaSteiner
+|-----------------------+-------+-------------+-----+-----------+------------|
+| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
+|-----------------------+-------+-------------+-----+-----------+------------|
+|                       |       |             |     |           |            |
+#+TBLFM: $6=vmean($3..$5);%.0f
+
+
+** Ben Zimmermann
+:PROPERTIES:
+:EMAIL: [[mailto: Zimmermann Ben <Zimmermann.Ben@abtenau.schule>]]
+:EXPORT_FILE_NAME: ~/RoamNotes/exports/Ben_Zimmermann.html
+:ID: BenZimmermann
+:END: 
+#+Name: Note_BenZimmermann
+|-----------------------+-------+-------------+-----+-----------+------------|
+| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
+|-----------------------+-------+-------------+-----+-----------+------------|
+|                       |       |             |     |           |            |
+#+TBLFM: $6=vmean($3..$5);%.0f
+
+
