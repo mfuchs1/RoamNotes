@@ -2,6 +2,14 @@
 #+date:       [2024-09-08 So 21:40]
 #+filetags:   :2a:
 #+identifier: 20240908T214029
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: num:nil toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/2a.html
 
 * Jahresplanung
 [[denote:20240708T214317][Jahresplanung 02]]
@@ -9,7 +17,7 @@
 * Stundenplanung
 
 ** Einführung
-Persönliche Vorstellung;
+Persönliche Vorstellung; Bücher austeilen!
 
 Gemeinsames Lied.
 
@@ -17,7 +25,7 @@ Gemeinsames Lied.
 Wie war RU?
 
 ** Themen
-[[denote:20240719T183502][Mit jedem redest du anders]]
+[[denote:20240911T093726][Mit jedem redest du anders]]
 
 [[denote:20240719T192844][Mobbing: War doch nur Spaß?]]
 
@@ -37,7 +45,6 @@ http://www.veritas.at/code (rfu300)
 | Leon             | Höll         | [[Leon Höll][Leon Höll]]             |      |           |      |     |
 | Emilia           | Huber        | [[Emilia Huber][Emilia Huber]]          |      |           |      |     |
 | Matteo           | Knoblechner  | [[Matteo Knoblechner][Matteo Knoblechner]]    |      |           |      |     |
-| Jakob            | Posch        | [[Jakob Posch][Jakob Posch]]           |      |           |      |     |
 | Daniel           | Promok       | [[Daniel Promok][Daniel Promok]]         |      |           |      |     |
 | Thomas           | Quehenberger | [[Thomas Quehenberger][Thomas Quehenberger]]   |      |           |      |     |
 | Christian        | Reiter       | [[Christian Reiter][Christian Reiter]]      |      |           |      |     |
@@ -163,20 +170,6 @@ http://www.veritas.at/code (rfu300)
 :ID: MatteoKnoblechner
 :END: 
 #+Name: Note_MatteoKnoblechner
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
-
-
-** Jakob Posch
-:PROPERTIES:
-:EMAIL: [[mailto: Posch Jakob <Posch.Jakob@abtenau.schule>]]
-:EXPORT_FILE_NAME: ~/RoamNotes/exports/Jakob_Posch.html
-:ID: JakobPosch
-:END: 
-#+Name: Note_JakobPosch
 |-----------------------+-------+-------------+-----+-----------+------------|
 | Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
 |-----------------------+-------+-------------+-----+-----------+------------|

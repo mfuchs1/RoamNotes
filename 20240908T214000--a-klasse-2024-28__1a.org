@@ -2,6 +2,14 @@
 #+date:       [2024-09-08 So 21:40]
 #+filetags:   :1a:
 #+identifier: 20240908T214000
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: num:nil toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/1a.html
 
 * Jahresplanung
 [[denote:20240719T125948][Jahresplanung 01]]
@@ -9,7 +17,7 @@
 * Stundenplanung
 
 ** Einführung
-Persönliche Vorstellung;
+Persönliche Vorstellung; Bücher austeilen!
 
 Gemeinsames Lied.
 
@@ -17,6 +25,8 @@ Gemeinsames Lied.
 Wie war RU?
 
 ** Themen
+Sollten diese Themen zu "abstrakt" sein - vielleicht mit einem eher typischen RU Thema beginnen, wie das Leben Jesu?
+
 [[denote:20240911T093358][Die Welt der Gefühle]]
 
 [[denote:20240911T093423][Was ich mir zutraue]]
