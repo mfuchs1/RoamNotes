@@ -227,11 +227,57 @@ Dieser Termin wurde aus einer E-Mail erstellt, die Sie in Gmail erhalten haben. 
 :PROPERTIES:
 :calendar-id: matthiasfuchs01@gmail.com
 :org-gcal-managed: org
-:ETag:     "3451812804596000"
+:ETag:     "3451959158412000"
 :entry-id: qksmdg1un9539tr1vojg22e0dg/matthiasfuchs01@gmail.com
 :END:
 :org-gcal:
 <2024-09-10 Di 10:30-11:15>
+:END:
+
+* Supplierstunde 1b M
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3453281569474000"
+:entry-id: 30enqj9aim41e61qs99n051oso/matthiasfuchs01@gmail.com
+:CUSTOM_ID: h:82571708-29c3-4fef-8e32-b86ca141aee2
+:END:
+:org-gcal:
+<2024-09-18 Mi 10:30-11:20>
+:END:
+
+* Pädagogische Konferenz
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3453282664968000"
+:entry-id: f5eq132jb7ouhqa7ad0ks6f6ps/matthiasfuchs01@gmail.com
+:CUSTOM_ID: h:7f0a043a-e653-4b93-ba7d-c3e3775887f6
+:END:
+:org-gcal:
+<2024-10-24 Do 15:45-17:45>
+:END:
+
+* Skitag, Konferenz und Weihnachtsfeier
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3453282964686000"
+:entry-id: qgvqbesgr54qevomi56jhpe328/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2024-12-06 Fr 14:00-20:00>
+:END:
+
+* Pädagogische Konferenz
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3453282449294000"
+:entry-id: 07hdu6v5fjuk9tktsqbdj47igo/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2024-09-20 Fr 14:00-16:00>
 :END:
 
 * Dienstbeginn 7:30

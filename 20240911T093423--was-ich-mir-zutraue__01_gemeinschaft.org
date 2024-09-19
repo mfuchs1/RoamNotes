@@ -1,3 +1,6 @@
+:PROPERTIES:
+:CUSTOM_ID: h:c44c4df9-dc17-432b-9a68-dfb670641560
+:END:
 #+title:      Was ich mir zutraue
 #+date:       [2024-09-11 Mi 09:34]
 #+filetags:   :01:gemeinschaft:
