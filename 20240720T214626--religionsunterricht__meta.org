@@ -1,0 +1,51 @@
+#+title:      Religionsunterricht
+#+date:       [2024-07-20 Sa 21:46]
+#+filetags:   :meta:
+#+identifier: 20240720T214626
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: num:nil toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Religionsunterricht.html
+
+
+* Gedanken
+:PROPERTIES:
+:CUSTOM_ID: h:e2382463-c212-4639-b0b9-8c07ee79c6d8
+:END:
+
+[cite:@Berger2004]
+
+** 1b - Überraschung am Ende der Stunde
+:PROPERTIES:
+:CAPTURED: [2024-09-19 Do 09:55]
+:END:
+
+[[denote:20240908T214521][C Klasse 2024-28]]
+
+Oh, am Ende dieser Stunde in der 1b (<2024-09-19 Do 09:25>) hat mich eine Schülerin mit einem Geschenk überrascht. Das hat mich so sehr berührt: ein Boot, gefaltet aus Papier; ich (oder Jesus?) drinnen, mit einem großen Lächeln, gestreiften Regenfarben Pulli (in einer Hand ein Weinglas, in der anderen Hand ein Brot).
+
+** Gespräch mit Direktorin
+:PROPERTIES:
+:CAPTURED: [2024-09-28 Sa 17:50]
+:END:
+Das Gespräch mit Gabi (Direktorin von Abtenau) verlief ganz anders als ich es erwartete. Mir ging es nicht gerade super die letzten Tage. Gabi hat mir versichert, dass sie voll und ganz hinter mir steht. Sie hat so sehr dafür gekämpft, dass ich als RL komme.
+
+Es gab gleich zu Beginn des SJ Beschwerden von Seiten der Eltern. Die Jahre davor haben die KVs den RU übernommen, zwar mit missio canonica, aber eben keine speziell ausgebildeten RL. Wie Gabi habe auch ich bemerkt, dass die Kinder es nicht gewohnt sind, im RU zu beten. Und daher kamen auch die Beschwerden, da ich angeblich den Kindern meinen Glauben überstülpe.
+
+Naja, was habe ich in den ersten Wochen unterrichtet? Da war nicht viel spezifischer RU Stoff. Wahrscheinlich war es das Beten, Vater Unser geht gerade noch, aber ein Ave Maria geht gar nicht.
+
+Zum Gebet sollen die Kinder hingeführt werden. Hm - aber wie? Z.B. wäre es eine wunderschöne Idee, wenn jeder Schüler sich selbst einen RK basteln könnte. Die Art, wie der RK in Pöllau geknüpft wird, ist relativ leicht umsetzbar. Es braucht eben viele Holzperlen in zwei Größen, kleine Holzkreuze und einige Superkleber - oder Heißkleber. Die Kreuze waren extra von "hinten" angebohrt. 
+
+Gott, Jesus als Werkzeug dienen, Er soll wirken, ich soll Ihm nicht im Weg stehen. Oft, manchmal wirkt Er (auch) durch unscheinbare Mittel.
+
+Beten, viel beten.
+
+Natürlich wünschen sich viele Eltern und Lehrer einen Ethikunterricht.
+
+
+* Tasks
+Hier steht sehr viel Text.

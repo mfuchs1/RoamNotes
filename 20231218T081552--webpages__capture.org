@@ -28,3 +28,21 @@
 :SOURCE: https://multipolar-magazin.de/artikel/de-banking
 :END:
 
+* „Wie ein Schweigekartell“: Covid-19-Impfschäden werden kaum gemeldet -
+:PROPERTIES:
+:CREATED: [2024-09-19 Do 15:45]
+:SOURCE: https://multipolar-magazin.de/artikel/schweigekartell-impfschaden
+:END:
+
+* Emacs: commands in popup frames with ‘emacsclient’ | Protesilaos Stavrou
+:PROPERTIES:
+:CREATED: [2024-09-19 Do 15:49]
+:SOURCE: https://protesilaos.com/codelog/2024-09-19-emacs-command-popup-frame-emacsclient/
+:END:
+
+* Emacs: use-package essentials | Protesilaos Stavrou
+:PROPERTIES:
+:CREATED: [2024-09-19 Do 15:54]
+:SOURCE: https://protesilaos.com/codelog/2024-07-23-emacs-use-package-essentials/
+:END:
+

@@ -1,25 +1,23 @@
-:PROPERTIES:
-:ID:       98c06d96-b125-400a-9ce0-221dc215d754
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch der Sprichwörter* --
-[[file:Spr_1.html][1]] ... [[file:Spr_25.html][25]]
-[[file:Spr_26.html][26]] *27* [[file:Spr_28.html][28]]
-[[file:Spr_29.html][29]] ... [[file:Spr_31.html][31]]
-
---------------
+#+TITLE: Spr 27 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-09-30 Mo 21:36]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Spr 27.html
 
 * Spr 27
-  :PROPERTIES:
-  :CUSTOM_ID: spr-27
-  :END:
 
 <<verses>>
 
 <<v1>>
 1 Rühme dich nicht des morgigen Tages, /\\
- denn du weißt nicht, was der Tag gebiert. ^{[[#fn1][1]]}\\
+ denn du weißt nicht, was der Tag gebiert. [fn:1]\\
 \\
 
 <<v2>>
@@ -29,7 +27,7 @@
 
 <<v3>>
 3 Schwer ist der Stein und eine Last ist der Sand, /\\
- doch der Ärger mit einem Toren ist schwerer als beide. ^{[[#fn2][2]]}\\
+ doch der Ärger mit einem Toren ist schwerer als beide. [fn:2]\\
 \\
 
 <<v4>>
@@ -45,7 +43,7 @@
 
 <<v6>>
 6 Treu gemeint sind die Schläge eines Freundes, /\\
- doch trügerisch die Küsse eines Feindes. ^{[[#fn3][3]]}\\
+ doch trügerisch die Küsse eines Feindes. [fn:3]\\
 \\
 
 <<v7>>
@@ -60,8 +58,7 @@
 
 <<v9>>
 9 Salböl und Weihrauch erfreuen das Herz, /\\
- die Herzlichkeit eines Freundes erfreut mehr als duftendes Holz.
-^{[[#fn4][4]]}\\
+ die Herzlichkeit eines Freundes erfreut mehr als duftendes Holz. [fn:4]\\
 \\
 
 <<v10>>
@@ -73,18 +70,18 @@ Nachbar in der Nähe /\\
 
 <<v11>>
 11 Sei weise, mein Sohn, und erfreue mein Herz, /\\
- damit ich dem antworten kann, der mich beschimpft. ^{[[#fn5][5]]}\\
+ damit ich dem antworten kann, der mich beschimpft. [fn:5]\\
 \\
 
 <<v12>>
 12 Der Kluge sieht das Unheil und verbirgt sich, /\\
- die Unerfahrenen laufen weiter und müssen es büßen. ^{[[#fn6][6]]}\\
+ die Unerfahrenen laufen weiter und müssen es büßen. [fn:6]\\
 \\
 
 <<v13>>
 13 Nimm ihm das Kleid; /\\
  denn er hat für einen andern gebürgt, /\\
- fremder Leute wegen pfände bei ihm! ^{[[#fn7][7]]}\\
+ fremder Leute wegen pfände bei ihm! [fn:7]\\
 \\
 
 <<v14>>
@@ -94,7 +91,7 @@ Nachbar in der Nähe /\\
 
 <<v15>>
 15 Ein ständig tropfendes Dach in der Regenzeit /\\
- und eine zänkische Frau gleichen einander. ^{[[#fn8][8]]}\\
+ und eine zänkische Frau gleichen einander. [fn:8]\\
 \\
 
 <<v16>>
@@ -119,7 +116,7 @@ Nachbar in der Nähe /\\
 
 <<v20>>
 20 Unterwelt und Totenreich sind unersättlich /\\
- und unersättlich sind die Augen des Menschen. ^{[[#fn9][9]]}\\
+ und unersättlich sind die Augen des Menschen. [fn:9]\\
 \\
 
 <<v21>>
@@ -159,22 +156,22 @@ Nachbar in der Nähe /\\
  [und Lebensunterhalt für deine Mägde].\\
 \\
 
-^{[[#fnm1][1]]} ℘ Lk 12,19f
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ Sir 22,15
+[fn:1] [[file:~/RoamNotes/notes/Bibel/nt/Lk_12.org::v19][Lk 12,19f]]
 
-^{[[#fnm3][3]]} 6b: trügerisch, andere Übersetzungsmöglichkeit:
-reichlich.
+[fn:2] [[file:Sir_22.org::v15][Sir 22,15]]
 
-^{[[#fnm4][4]]} 9c: Andere Übersetzungsmöglichkeit: mehr als eigenes
-Planen.
+[fn:3] 6b: trügerisch, andere Übersetzungsmöglichkeit: reichlich.
 
-^{[[#fnm5][5]]} ℘ Ps 119,42
+[fn:4] 9c: Andere Übersetzungsmöglichkeit: mehr als eigenes Planen
 
-^{[[#fnm6][6]]} ℘ 22,3
+[fn:5] [[file:Ps_119.org::v42][Ps 119,42]]
 
-^{[[#fnm7][7]]} ℘ 20,16
+[fn:6] [[file:Spr_22.org::v3][22,3]]
 
-^{[[#fnm8][8]]} ℘ 19,13
+[fn:7] [[file:Spr_20.org::v16][20,16]]
 
-^{[[#fnm9][9]]} ℘ 30,15f; Jes 5,14
+[fn:8] [[file:Spr_19.org::v13][19,13]]
+
+[fn:9] [[file:Spr_30.org::v15][30,15f]]; [[file:Jes_5.org::v14][Jes 5,14]]

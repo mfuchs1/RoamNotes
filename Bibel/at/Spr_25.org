@@ -1,34 +1,30 @@
-:PROPERTIES:
-:ID:       c0934f53-1577-4f0e-b7be-01adf308f6b7
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch der Sprichwörter* --
-[[file:Spr_1.html][1]] ... [[file:Spr_23.html][23]]
-[[file:Spr_24.html][24]] *25* [[file:Spr_26.html][26]]
-[[file:Spr_27.html][27]] ... [[file:Spr_31.html][31]]
-
---------------
+#+TITLE: Spr 25 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-09-30 Mo 10:09]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Spr 25.html
 
 * Spr 25
-  :PROPERTIES:
-  :CUSTOM_ID: spr-25
-  :END:
 
 <<verses>>
 
 <<v1>>
-** Die zweite salomonische Spruchsammlung: 25,1 - 29,27
-   :PROPERTIES:
-   :CUSTOM_ID: die-zweite-salomonische-spruchsammlung-251---2927
-   :END:
+* Die zweite salomonische Spruchsammlung: 25,1 - 29,27
+
 1 Auch das sind Sprichwörter Salomos, die die Männer Hiskijas, des
-Königs von Juda, sammelten. ^{[[#fn1][1]]}\\
+Königs von Juda, sammelten. [fn:1]\\
 \\
 
 <<v2>>
 2 Gottes Ehre ist es, eine Sache zu verhüllen, /\\
- des Königs Ehre ist es, eine Sache zu erforschen. ^{[[#fn2][2]]}\\
+ des Königs Ehre ist es, eine Sache zu erforschen. [fn:2]\\
 \\
 
 <<v3>>
@@ -43,18 +39,18 @@ Königs von Juda, sammelten. ^{[[#fn1][1]]}\\
 
 <<v5>>
 5 Scheidet man den Frevler vom König, /\\
- erlangt dessen Thron Bestand durch Gerechtigkeit. ^{[[#fn3][3]]}\\
+ erlangt dessen Thron Bestand durch Gerechtigkeit. [fn:3]\\
 \\
 
 <<v6>>
 6 Rühme dich nicht vor dem König /\\
- und stell dich nicht an den Platz der Großen; ^{[[#fn4][4]]}\\
+ und stell dich nicht an den Platz der Großen; [fn:4]\\
 \\
 
 <<v7>>
 7 denn besser, man sagt zu dir: Rück hier herauf, /\\
  als dass man dich nach unten setzt wegen eines Vornehmen. Was deine
-Augen sahen, / ^{[[#fn5][5]]}\\
+Augen sahen, / [fn:5]\\
 \\
 
 <<v8>>
@@ -70,12 +66,12 @@ tun, /\\
 
 <<v10>>
 10 sonst wird dich schmähen, wer es hört, /\\
- und dein Geschwätz wird auf dich zurückfallen. ^{[[#fn6][6]]}\\
+ und dein Geschwätz wird auf dich zurückfallen. [fn:6]\\
 \\
 
 <<v11>>
 11 Wie goldene Äpfel auf silbernen Schalen /\\
- ist ein Wort, gesprochen zur rechten Zeit. ^{[[#fn7][7]]}\\
+ ist ein Wort, gesprochen zur rechten Zeit. [fn:7]\\
 \\
 
 <<v12>>
@@ -91,8 +87,7 @@ tun, /\\
 
 <<v14>>
 14 Aufziehende Wolken mit Wind, doch kein Regen, /\\
- so ist ein Mann, der Versprechungen macht und nicht hält.
-^{[[#fn8][8]]}\\
+ so ist ein Mann, der Versprechungen macht und nicht hält. [fn:8]\\
 \\
 
 <<v15>>
@@ -125,12 +120,12 @@ tun, /\\
 20 Essig auf Laugensalz - /\\
  (so ist,) wer Lieder singt vor einem missmutigen Herzen. [Wie die Motte
 am Kleid, der Wurm im Holz, /\\
- so nagt der Kummer am Herzen des Menschen.] ^{[[#fn9][9]]}\\
+ so nagt der Kummer am Herzen des Menschen.] [fn:9]\\
 \\
 
 <<v21>>
 21 Hat dein Feind Hunger, gib ihm zu essen, /\\
- hat er Durst, gib ihm zu trinken; ^{[[#fn10][10]]}\\
+ hat er Durst, gib ihm zu trinken; [fn:10]\\
 \\
 
 <<v22>>
@@ -145,7 +140,7 @@ am Kleid, der Wurm im Holz, /\\
 
 <<v24>>
 24 Besser in einer Ecke des Daches wohnen /\\
- als eine zänkische Frau im gemeinsamen Haus. ^{[[#fn11][11]]}\\
+ als eine zänkische Frau im gemeinsamen Haus. [fn:11]\\
 \\
 
 <<v25>>
@@ -160,7 +155,7 @@ am Kleid, der Wurm im Holz, /\\
 
 <<v27>>
 27 Zu viel Honig essen ist nicht gut: /\\
- Ebenso spare mit ehrenden Worten! ^{[[#fn12][12]]}\\
+ Ebenso spare mit ehrenden Worten! [fn:12]\\
 \\
 
 <<v28>>
@@ -168,34 +163,36 @@ am Kleid, der Wurm im Holz, /\\
  ist ein Mann, der sich nicht beherrscht.\\
 \\
 
-^{[[#fnm1][1]]} 25,1 - 29,27: Die zweite salomonische Hauptsammlung
+* Footnotes
+
+[fn:1] [[v1][25,1]] - [[file:Spr_29.org::v27][29,27]]: Die zweite salomonische Hauptsammlung
 umfasst nur die Kapitel 25 - 29. Auch sie ist in zwei Hälften zu teilen:
 Kap. 25 27 und Kap. 28f. - Hiskija (728-699 v. Chr.) war einer der
 tüchtigsten Könige Judas, sodass die Mitteilung, unter ihm habe eine
 Gruppe von Gelehrten die Weisheitssprüche zusammengestellt, durchaus
 glaubwürdig ist.
 
-^{[[#fnm2][2]]} ℘ 16,10
+[fn:2] [[file:Spr_16.org::v10][16,10]]
 
-^{[[#fnm3][3]]} ℘ 16,12
+[fn:3] [[file:Spr_16.org::v12][16,12]]
 
-^{[[#fnm4][4]]} ℘ Sir 13,9f
+[fn:4] [[file:Sir_13.org::v9][Sir 13,9f]]
 
-^{[[#fnm5][5]]} ℘ Lk 14,7-11
+[fn:5] Lk 14,7-11
 
-^{[[#fnm6][6]]} 10b: Übersetzung unsicher.
+[fn:6] 10b: Übersetzung unsicher.
 
-^{[[#fnm7][7]]} ℘ 15,23
+[fn:7] [[file:Spr_15.org::v23][15,23]]
 
-^{[[#fnm8][8]]} 14b: Wörtlich: Ein Mann, der mit erlogener Gabe prahlt.
+[fn:8] 14b: Wörtlich: Ein Mann, der mit erlogener Gabe prahlt.
 
-^{[[#fnm9][9]]} 20a: H schickt voraus: Ein das Kleid Ablegender am
+[fn:9] 20a: H schickt voraus: Ein das Kleid Ablegender am
 kalten Tag. Hier sind Buchstaben aus V. 19b wiederholt und missdeutet
 worden. 20c: Fehlt in H, steht aber in allen alten Übersetzungen und ist
 daher wohl ursprünglich.
 
-^{[[#fnm10][10]]} ℘ Röm 12,20
+[fn:10] [[file:~/RoamNotes/notes/Bibel/nt/Röm_12.org::v20][Röm 12,20]]
 
-^{[[#fnm11][11]]} ℘ 21,9
+[fn:11] [[file:Spr_21.org::v9][21,9]]
 
-^{[[#fnm12][12]]} 27b: Nach G; H ist verderbt.
+[fn:12] 27b: Nach G; H ist verderbt.

@@ -1,19 +1,17 @@
-:PROPERTIES:
-:ID:       63ff51c3-7414-4f88-9da0-a322370acc8c
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch der Sprichwörter* --
-[[file:Spr_1.html][1]] ... [[file:Spr_24.html][24]]
-[[file:Spr_25.html][25]] *26* [[file:Spr_27.html][27]]
-[[file:Spr_28.html][28]] ... [[file:Spr_31.html][31]]
-
---------------
+#+TITLE: Spr 26 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-09-30 Mo 10:21]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Spr 26.html
 
 * Spr 26
-  :PROPERTIES:
-  :CUSTOM_ID: spr-26
-  :END:
 
 <<verses>>
 
@@ -29,12 +27,12 @@
 
 <<v3>>
 3 Dem Pferd die Peitsche, dem Esel den Zaum, /\\
- dem Rücken der Toren den Stock. ^{[[#fn1][1]]}\\
+ dem Rücken der Toren den Stock. [fn:1]\\
 \\
 
 <<v4>>
 4 Antworte dem Toren nicht, wie es seine Dummheit verdient, /\\
- damit nicht auch du ihm gleich wirst. ^{[[#fn2][2]]}\\
+ damit nicht auch du ihm gleich wirst. [fn:2]\\
 \\
 
 <<v5>>
@@ -64,22 +62,22 @@
 
 <<v10>>
 10 Ein Schütze, der alle verwundet - /\\
- ein Tor und ein Betrunkener, wenn sie vorübergehen. ^{[[#fn3][3]]}\\
+ ein Tor und ein Betrunkener, wenn sie vorübergehen. [fn:3]\\
 \\
 
 <<v11>>
 11 Wie ein Hund, der zurückkehrt zu dem, was er erbrochen hat, /\\
- so ist ein Tor, der seine Dummheit wiederholt. ^{[[#fn4][4]]}\\
+ so ist ein Tor, der seine Dummheit wiederholt. [fn:4]\\
 \\
 
 <<v12>>
 12 Siehst du jemand, der sich selbst für weise hält - /\\
- mehr Hoffnung gibt es für den Toren als für ihn. ^{[[#fn5][5]]}\\
+ mehr Hoffnung gibt es für den Toren als für ihn. [fn:5]\\
 \\
 
 <<v13>>
 13 Der Faule sagt: Ein Löwe ist auf dem Weg, /\\
- ein Raubtier ist auf den Straßen. ^{[[#fn6][6]]}\\
+ ein Raubtier ist auf den Straßen. [fn:6]\\
 \\
 
 <<v14>>
@@ -89,7 +87,7 @@
 
 <<v15>>
 15 Greift der Faule mit der Hand in die Schüssel, /\\
- ist er zu träg, sie zum Mund zurückzubringen. ^{[[#fn7][7]]}\\
+ ist er zu träg, sie zum Mund zurückzubringen. [fn:7]\\
 \\
 
 <<v16>>
@@ -114,7 +112,7 @@
 
 <<v20>>
 20 Ist kein Holz mehr da, erlischt das Feuer; /\\
- wo kein Verleumder ist, legt sich der Streit. ^{[[#fn8][8]]}\\
+ wo kein Verleumder ist, legt sich der Streit. [fn:8]\\
 \\
 
 <<v21>>
@@ -124,7 +122,7 @@
 
 <<v22>>
 22 Die Worte des Verleumders sind wie Leckerbissen, /\\
- sie gleiten hinab in die Kammern des Leibes. ^{[[#fn9][9]]}\\
+ sie gleiten hinab in die Kammern des Leibes. [fn:9]\\
 \\
 
 <<v23>>
@@ -149,7 +147,7 @@
 
 <<v27>>
 27 Wer eine Grube gräbt, fällt selbst hinein, /\\
- wer einen Stein hochwälzt, auf den rollt er zurück. ^{[[#fn10][10]]}\\
+ wer einen Stein hochwälzt, auf den rollt er zurück. [fn:10]\\
 \\
 
 <<v28>>
@@ -157,23 +155,25 @@
  ein heuchlerischer Mund verursacht den Sturz.\\
 \\
 
-^{[[#fnm1][1]]} ℘ 10,13
+* Footnotes
 
-^{[[#fnm2][2]]} ℘ Sir 22,13
+[fn:1] [[file:Spr_10.org::v13][10,13]]
 
-^{[[#fnm3][3]]} H ist verderbt, will vielleicht sagen: Toren (und
+[fn:2] [[file:Sir_22.org::v13][Sir 22,13]]
+
+[fn:3] H ist verderbt, will vielleicht sagen: Toren (und
 Betrunkene) sind unnütz, ja gefährlich.
 
-^{[[#fnm4][4]]} ℘ 2 Petr 2,22
+[fn:4] [[file:~/RoamNotes/notes/Bibel/nt/2.Petr_2.org::v22][2 Petr 2,22]]
 
-^{[[#fnm5][5]]} ℘ 29,20
+[fn:5] [[file:Spr_29.org::v20][29,20]]
 
-^{[[#fnm6][6]]} ℘ 22,13
+[fn:6] [[file:Spr_22.org::v13][22,13]]
 
-^{[[#fnm7][7]]} ℘ 19,24
+[fn:7] [[file:Spr_19.org::v24][19,24]]
 
-^{[[#fnm8][8]]} ℘ Sir 28,10-12
+[fn:8] [[file:Sir_28.org::v10][Sir 28,10-12]]
 
-^{[[#fnm9][9]]} ℘ 18,8
+[fn:9] [[file:Spr_18.org::v8][18,8]]
 
-^{[[#fnm10][10]]} ℘ Ps 7,16; Sir 27,25f
+[fn:10] [[file:Ps_7.org::v16][Ps 7,16]]; [[file:Sir_27.org::v25][Sir 27,25f]]

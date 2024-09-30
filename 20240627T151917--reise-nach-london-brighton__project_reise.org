@@ -1,9 +1,17 @@
+:PROPERTIES:
+:CUSTOM_ID: h:4706b504-1b57-42af-a303-2e72a8e9bcce
+:END:
 #+title:      Reise nach London Brighton
 #+date:       [2024-06-27 Do 15:19]
 #+filetags:   :Project:reise:
 #+identifier: 20240627T151917
 #+CATEGORY: reise
-
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: num:nil toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
 
 * Anreise London
 <2024-07-10 Mi 09:20>

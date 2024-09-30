@@ -446,3 +446,15 @@ http://www.veritas.at/code (rfu300)
 #+TBLFM: $6=vmean($3..$5);%.0f
 
 
+* Reflexionen
+:PROPERTIES:
+:CUSTOM_ID: h:64091eba-d300-4430-b682-07c45cd17dc4
+:END:
+
+** Schöne Überraschung
+:PROPERTIES:
+:CAPTURED: [2024-09-19 Do 10:28]
+:DESCRIPTION: [[denote:20240911T093423][Was ich mir zutraue]]
+:END:
+Oh, am Ende dieser Stunde in der 1b (<2024-09-19 Do 09:25>) hat mich eine Schülerin mit einem Geschenk überrascht. Das hat mich so sehr berührt: ein Boot, gefaltet aus Papier; ich (oder Jesus?) drinnen, mit einem großen Lächeln, gestreiften Regenfarben Pulli (in einer Hand ein Weinglas, in der anderen Hand ein Brot).
+

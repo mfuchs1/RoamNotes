@@ -1,3 +1,6 @@
+:PROPERTIES:
+:CUSTOM_ID: h:cfb014f7-26f1-4944-9f4e-b0bbb9280ed8
+:END:
 #+title:      D Klasse 2024-28
 #+date:       [2024-09-08 So 21:38]
 #+filetags:   :1d:
@@ -32,6 +35,8 @@ Sollten diese Themen zu "abstrakt" sein - vielleicht mit einem eher typischen RU
 [[denote:20240911T093423][Was ich mir zutraue]]
 
 ev.: Ich bin einzigartig (Jes 43!)
+
+Wir sind eine Gemeinschaft / ein Durcheinander
 
 ** Hefteintrag
 Arbeitsweg 1 - 4
