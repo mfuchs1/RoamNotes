@@ -1,46 +1,42 @@
-:PROPERTIES:
-:ID:       b28b2d27-bddb-4644-9769-e8c26086abd8
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch der Sprichwörter* --
-[[file:Spr_1.html][1]] ... [[file:Spr_29.html][29]]
-[[file:Spr_30.html][30]] *31*
-
---------------
+#+TITLE: Spr 31 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-10-02 Mi 21:42]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Spr 31.html
 
 * Spr 31
-  :PROPERTIES:
-  :CUSTOM_ID: spr-31
-  :END:
 
 <<verses>>
 
 <<v1>>
-** Die Worte an Lemuël: 31,1-9
-   :PROPERTIES:
-   :CUSTOM_ID: die-worte-an-lemuël-311-9
-   :END:
+* Die Worte an Lemuël: 31,1-9
+
 1 Worte an Lemuël, den König von Massa, mit denen ihn seine Mutter
-ermahnt hat: ^{[[#fn1][1]]}\\
+ermahnt hat: [fn:1]\\
 \\
 
 <<v2>>
 2 Was soll ich dir sagen, Lemuël, mein Erstgeborener, /\\
  du Sohn meines Schoßes, /\\
- was, du Sohn meiner Gelübde? ^{[[#fn2][2]][[#fn3][3]]}\\
+ was, du Sohn meiner Gelübde? [fn:2] [fn:3]\\
 \\
 
 <<v3>>
 3 Gib deine Kraft nicht den Frauen hin, /\\
- dein Tun und Treiben nicht denen, die Könige verderben.
-^{[[#fn4][4]]}\\
+ dein Tun und Treiben nicht denen, die Könige verderben. [fn:4]\\
 \\
 
 <<v4>>
 4 Könige sollen sich nicht, Lemuël, /\\
  Könige sollen sich nicht mit Wein betrinken, /\\
- Fürsten nicht berauschenden Trank begehren. ^{[[#fn5][5]]}\\
+ Fürsten nicht berauschenden Trank begehren. [fn:5]\\
 \\
 
 <<v5>>
@@ -69,12 +65,10 @@ ermahnt hat: ^{[[#fn1][1]]}\\
 \\
 
 <<v10>>
-** Das Lob der tüchtigen Frau: 31,10-31
-   :PROPERTIES:
-   :CUSTOM_ID: das-lob-der-tüchtigen-frau-3110-31
-   :END:
+* Das Lob der tüchtigen Frau: 31,10-31
+
 10 Eine tüchtige Frau, wer findet sie? /\\
- Sie übertrifft alle Perlen an Wert. ^{[[#fn6][6]]}\\
+ Sie übertrifft alle Perlen an Wert. [fn:6]\\
 \\
 
 <<v11>>
@@ -100,7 +94,7 @@ ermahnt hat: ^{[[#fn1][1]]}\\
 <<v15>>
 15 Noch bei Nacht steht sie auf, /\\
  um ihrem Haus Speise zu geben /\\
- [und den Mägden, was ihnen zusteht]. ^{[[#fn7][7]]}\\
+ [und den Mägden, was ihnen zusteht]. [fn:7]\\
 \\
 
 <<v16>>
@@ -183,20 +177,22 @@ ermahnt hat: ^{[[#fn1][1]]}\\
  ihre Werke soll man am Stadttor loben.\\
 \\
 
-^{[[#fnm1][1]]} Wie Agur (vgl. 30,1) stammt auch Lemuël aus dem
+* Footnotes
+
+[fn:1] Wie Agur (vgl. 30,1) stammt auch Lemuël aus dem
 nordarabischen Massa. Sprachliche Anklänge an das Aramäische und der
-eigenartige Inhalt weisen auf nichtisraelitischen Ursprung hin.
+eigenartige Inhalt weisen auf nichtisraelitischen Ursprung hin
 
-^{[[#fnm2][2]]} ℘ 1 Sam 1,11
+[fn:2] [[file:1.Sam_1.org::v11][1 Sam 1,11]]
 
-^{[[#fnm3][3]]} 2a: Ergänzt nach G; H hat kein Zeitwort.
+[fn:3] 2a: Ergänzt nach G; H hat kein Zeitwort.
 
-^{[[#fnm4][4]]} 3b: dein Tun und Treiben, wörtlich: deine Wege.
+[fn:4] 3b: dein Tun und Treiben, wörtlich: deine Wege.
 
-^{[[#fnm5][5]]} ℘ Koh 10,16
+[fn:5] [[file:Koh_10.org::v16][Koh 10,16]]
 
-^{[[#fnm6][6]]} 10-31: Dieses Lied dürfte zu den jüngsten Teilen des
+[fn:6] 10-31: Dieses Lied dürfte zu den jüngsten Teilen des
 Buches gehören. In H beginnen die Verse der Reihe nach mit den
 Buchstaben des hebräischen Alphabets.
 
-^{[[#fnm7][7]]} ℘ 27,27
+[fn:7] [[file:Spr_27.org::v27][27,27]]

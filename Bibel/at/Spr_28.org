@@ -1,19 +1,17 @@
-:PROPERTIES:
-:ID:       75f9628d-5c7e-4b77-9384-2fe50ec69620
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch der Sprichwörter* --
-[[file:Spr_1.html][1]] ... [[file:Spr_26.html][26]]
-[[file:Spr_27.html][27]] *28* [[file:Spr_29.html][29]]
-[[file:Spr_30.html][30]] [[file:Spr_31.html][31]]
-
---------------
+#+TITLE: Spr 28 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-10-02 Mi 21:14]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Spr 28.html
 
 * Spr 28
-  :PROPERTIES:
-  :CUSTOM_ID: spr-28
-  :END:
 
 <<verses>>
 
@@ -25,13 +23,12 @@
 <<v2>>
 2 Durch seine Frevel bekommt ein Land viele Herrscher, /\\
  durch einen verständigen, einsichtsvollen Mann erhält die Ordnung
-Bestand. ^{[[#fn1][1]]}\\
+Bestand. [fn:1]\\
 \\
 
 <<v3>>
 3 Ein Vornehmer, der die Armen unterdrückt, /\\
- ist wie Regen, der alles wegschwemmt und kein Brot bringt.
-^{[[#fn2][2]]}\\
+ ist wie Regen, der alles wegschwemmt und kein Brot bringt. [fn:2]\\
 \\
 
 <<v4>>
@@ -41,12 +38,12 @@ Bestand. ^{[[#fn1][1]]}\\
 
 <<v5>>
 5 Böse Menschen verstehen nicht, was recht ist, /\\
- die aber, die den Herrn suchen, verstehen alles. ^{[[#fn3][3]]}\\
+ die aber, die den Herrn suchen, verstehen alles. [fn:3]\\
 \\
 
 <<v6>>
 6 Besser ein Armer, der schuldlos seinen Weg geht, /\\
- als ein Reicher, der krumme Wege geht. ^{[[#fn4][4]]}\\
+ als ein Reicher, der krumme Wege geht. [fn:4]\\
 \\
 
 <<v7>>
@@ -56,7 +53,7 @@ Bestand. ^{[[#fn1][1]]}\\
 
 <<v8>>
 8 Wer sein Vermögen durch Zins und Aufschlag vermehrt, /\\
- sammelt für den, der Erbarmen hat mit den Armen. ^{[[#fn5][5]]}\\
+ sammelt für den, der Erbarmen hat mit den Armen. [fn:5]\\
 \\
 
 <<v9>>
@@ -77,13 +74,12 @@ Bestand. ^{[[#fn1][1]]}\\
 
 <<v12>>
 12 Haben Gerechte die Oberhand, gibt es glanzvolle Zeiten, /\\
- erheben sich die Frevler, verstecken sich die Menschen.
-^{[[#fn6][6]]}\\
+ erheben sich die Frevler, verstecken sich die Menschen. [fn:6]\\
 \\
 
 <<v13>>
 13 Wer seine Sünden verheimlicht, hat kein Glück, /\\
- wer sie bekennt und meidet, findet Erbarmen. ^{[[#fn7][7]]}\\
+ wer sie bekennt und meidet, findet Erbarmen. [fn:7]\\
 \\
 
 <<v14>>
@@ -103,8 +99,7 @@ Bestand. ^{[[#fn1][1]]}\\
 
 <<v17>>
 17 Ein Mensch, auf dem Blutschuld lastet, /\\
- ist flüchtig bis zum Grab; man halte ihn nicht.
-^{[[#fn8][8]][[#fn9][9]]}\\
+ ist flüchtig bis zum Grab; man halte ihn nicht. [fn:8] [fn:9]\\
 \\
 
 <<v18>>
@@ -114,18 +109,17 @@ Bestand. ^{[[#fn1][1]]}\\
 
 <<v19>>
 19 Wer sein Feld bestellt, wird satt von Brot, /\\
- wer nichtigen Dingen nachjagt, wird satt von Armut. ^{[[#fn10][10]]}\\
+ wer nichtigen Dingen nachjagt, wird satt von Armut. [fn:10]\\
 \\
 
 <<v20>>
 20 Ein ehrlicher Mensch erntet vielfachen Segen, /\\
- wer aber hastet, um sich zu bereichern, bleibt nicht ungestraft.
-^{[[#fn11][11]]}\\
+ wer aber hastet, um sich zu bereichern, bleibt nicht ungestraft. [fn:11]\\
 \\
 
 <<v21>>
 21 Auf die Person sehen ist nicht recht, /\\
- für einen Bissen Brot wird mancher zum Verbrecher. ^{[[#fn12][12]]}\\
+ für einen Bissen Brot wird mancher zum Verbrecher. [fn:12]\\
 \\
 
 <<v22>>
@@ -142,7 +136,7 @@ Bestand. ^{[[#fn1][1]]}\\
 <<v24>>
 24 Wer Vater oder Mutter beraubt /\\
  und meint, er tue kein Unrecht, /\\
- macht sich zum Genossen des Mörders. ^{[[#fn13][13]]}\\
+ macht sich zum Genossen des Mörders. [fn:13]\\
 \\
 
 <<v25>>
@@ -162,38 +156,38 @@ Bestand. ^{[[#fn1][1]]}\\
 
 <<v28>>
 28 Erheben sich die Frevler, dann verbergen sich die Menschen, /\\
- gehen sie zugrunde, dann kommen die Gerechten an die Macht.
-^{[[#fn14][14]]}\\
+ gehen sie zugrunde, dann kommen die Gerechten an die Macht. [fn:14]\\
 \\
 
-^{[[#fnm1][1]]} Der Text ist schwierig. Er bezieht sich möglicherweise
+* Footnotes
+
+[fn:1] Der Text ist schwierig. Er bezieht sich möglicherweise
 auf die rasch wechselnden Regierungen des Nordreichs Israel. Nach G wäre
 zu übersetzen: Durch die Frevel eines Gewalttätigen werden
 Streitigkeiten geweckt; durch einen verständigen Mann erlöschen sie.
 
-^{[[#fnm2][2]]} 3a: Vornehmer: G: Frevelhafter.
+[fn:2] 3a: Vornehmer: G: Frevelhafter.
 
-^{[[#fnm3][3]]} ℘ 1 Kor 2,14
+[fn:3] [[file:~/RoamNotes/notes/Bibel/nt/1.Kor_2.org::v14][1 Kor 2,14]]
 
-^{[[#fnm4][4]]} ℘ 19,1
+[fn:4] [[file:Spr_19.org::v1][19,1]]
 
-^{[[#fnm5][5]]} ℘ Ex 22,24
+[fn:5] [[file:Ex_22.org::v24][Ex 22,24]]
 
-^{[[#fnm6][6]]} ℘ 28,28; 29,2
+[fn:6] [[v28][28,28]]; [[file:Spr_29.org::v2][29,2]]
 
-^{[[#fnm7][7]]} ℘ Ps 32,2-5
+[fn:7] [[file:Ps_32.org::v2][Ps 32,2-5]]
 
-^{[[#fnm8][8]]} ℘ Gen 4,12
+[fn:8] [[file:Gen_4.org::v12][Gen 4,12]]
 
-^{[[#fnm9][9]]} 17b: Andere Übersetzungsmöglichkeit: man unterstütze ihn
-nicht.
+[fn:9] 17b: Andere Übersetzungsmöglichkeit: man unterstütze ihn nicht.
 
-^{[[#fnm10][10]]} ℘ 12,11
+[fn:10] [[file:Spr_12.org::v11][12,11]]
 
-^{[[#fnm11][11]]} ℘ Sir 11,10f
+[fn:11] [[file:Sir_11.org::v10][Sir 11,10f]]
 
-^{[[#fnm12][12]]} ℘ 24,23
+[fn:12] [[file:Spr_24.org::v23][24,23]]
 
-^{[[#fnm13][13]]} ℘ 18,9
+[fn:13] [[file:Spr_18.org::v9][18,9]]
 
-^{[[#fnm14][14]]} ℘ 28,12
+[fn:14] [[v12][28,12]]
