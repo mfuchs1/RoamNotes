@@ -196,7 +196,7 @@
 
 * Heilige Messe St. Peter Benediktiner
 :PROPERTIES:
-:ETag:     "3455184750776000"
+:ETag:     "3455788022464000"
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: coqj0d9j6hijgbb26sr3ib9kc5ijcb9o74pjcbb4cgrjad9lc8r66ohm6g/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
@@ -204,3 +204,15 @@
 :org-gcal:
 <2024-09-29 So 10:15-11:15>
 :END:
+
+* Supplierstunde 4c MU
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3455895192846000"
+:entry-id: fov15gjs4eqi12u6b35ueu6lj4/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2024-10-11 Fr 10:30-11:20>
+:END:
+
