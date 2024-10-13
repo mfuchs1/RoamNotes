@@ -14,32 +14,28 @@
 * Jahresplanung
 [[denote:20240709T110253][Jahresplanung 03]]
 
+http://www.veritas.at/code (rfu300)
+
 * Stundenplanung
 
-** Einführung
-Persönliche Vorstellung;
-
-Gemeinsames Lied.
+** Einführung  / Ziele
+Was will ich erreichen in dieser Stunde?
 
 ** Wiederholung
 Wie war RU?
 
 ** Themen
+Kapitel 2
+- Genuss und Sucht
+- Verzicht und Genügsamkeit (Bsp aus meinem früheren Leben als Ordensmann)
 
-[[denote:20240925T211640][Die Schönheit der Schöpfung]]
+Ich kann damit beginnen, von mir zu erzählen ... und dann zurück zur Seite mit dem "großen Versprechen".
 
-[[denote:20240925T211710][Die Schöpfung in Gefahr]]
-
-Schöpfungsquiz;
-
-Schöpfung erhalten / Lösungen (Bojan Slat, ...)
-
-YouCat / Homepage
+Was denkt Gott über mich? S. 31 - mein persönliches Versprechen. Ich als Lehrer mache mit! 
 
 ** Hefteintrag
 Arbeitsweg 1 - 4
 
-http://www.veritas.at/code (rfu300)
 
 * Schülerliste
 #+Name: 2021-students

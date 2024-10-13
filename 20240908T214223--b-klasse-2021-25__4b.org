@@ -16,13 +16,8 @@
 
 * Stundenplanung
 
-** Einführung
-Persönliche Vorstellung;
-
-Bücher aus "Warteklasse" holen
-
-Gemeinsames Lied singen
-Gebet? Psalm? YouCat Daily?
+** Einführung / Ziele
+David und Celina im Blick haben; Beziehung aufbauen: was interessiert sie? Hobbys? Berufswünsche?
 
 ** Wiederholung
 Was habt ihr im RU bisher gemacht?
@@ -31,15 +26,22 @@ Hefteintrag?
 etc...
 
 ** Themen
-[[denote:20240909T205227][Was ist gut und richtig?]]
+:PROPERTIES:
+:CUSTOM_ID: h:fa97f49d-8228-4a7d-aab5-440fbe1a9d49
+:END:
+R.B. Seite 18 - 21:
+Die beiden Doppelseiten durch lesen und erarbeiten und über eine der vorgestellten Personen einen Steckbrief bzw. Biografie erstellen (Heft). Präsentation?
 
-[[denote:20240909T205419][Ein gutes Gewissen]]
+- Dokumentation über Ruth Pfau? [[https://www.youtube.com/watch?v=7nXj5iaWSOA]]
+- Oscar Romero (hier gibt es einen Film)? [[https://www.youtube.com/watch?v=R0w9RGtUq5w]]
 
-Schöpfungsquiz
-Bibelquiz
-Jesusquiz
+Das zweite Kapitel scheint mir interessanter als das erste:
+- Beruf und Berufung (hier kann ich von meinem Leben erzählen)
+- Dystopien und Utopien
+- Was kommt nach dem Tod?
+- Jenseitsvorstellungen in den Religionen
 
-Propheten (Bibel und heute)
+
 
 ** Hefteintrag
 Arbeitsweg 1 - 5

@@ -16,7 +16,7 @@
 
 * Stundenplanung
 
-** Einführung
+** Einführung / Ziele
 Persönliche Vorstellung;
 
 Gemeinsames Lied.
@@ -25,21 +25,32 @@ Gemeinsames Lied.
 Wie war RU?
 
 ** Themen
-[[denote:20240909T215212][Vieles hat Leben in sich]]
 
-[[denote:20240909T215228][Das Wunder des Lebens]]
+[[file:~/MMS_Abtenau/Weltreligionen_Glück_Infotext.pdf]]
 
-Doku: Planet Earth II
+[[file:~/MMS_Abtenau/Weltreligionen_Glück_Arbeitsblatt.pdf]]
 
-Bibelfußball
-Schöpfungsquiz
-Bibelquiz
-Jesusquiz
+Kapitel 2
+- Genuss und Sucht
+- Verzicht und Genügsamkeit (Bsp aus meinem früheren Leben als Ordensmann)
 
 ** Hefteintrag
 Arbeitsweg 1 - 4
 
 http://www.veritas.at/code (rfu300)
+
+* Reflexionen
+
+** Gruppenarbeit Glück
+:PROPERTIES:
+:CAPTURED: [2024-10-11 Fr 09:54]
+:DESCRIPTION: [[denote:20241011T100305][Die Suche nach dem Glück]]
+:END:
+Hm - Mädchen arbeiten sofort; Burschen zeigen sich müde / gelangweilt; arbeiten schlussendlich dennoch. Naja, es braucht eine gewisse Anlaufzeit. Vielleicht gebe ich den Kindern mehr Zeit - auch nächste Stunde? Wohl kaum, ihnen ist schon jetzt fad, nach zwei Stunden war nach ihren Worten der Ofen aus.
+
+Es ist eben frustrierend, weil ich fast immer den Eindruck habe, in gewissen Klassen (justamend) das falsche Thema / die falsche Methode zu finden. Wie kann ich die Schüler motivieren? Ich bin ja auch nicht der Pausenclown oder Alleinunterhalter. So uninteressant ist das Thema nun auch nicht. Wer will denn nicht glücklich leben?
+
+Wovon spricht dann Jesus? Von Glück? Wenn nicht, warum? Gab es dieses Wort damals nicht? Oder ging es Jesus um ganz was anderes? (PKW hat darüber ein Buch geschrieben; lesen!)
 
 * Schülerliste
 #+Name: 2021-students

@@ -214,5 +214,40 @@
 :END:
 :org-gcal:
 <2024-10-11 Fr 10:30-11:20>
+
+Fim "Die Wolke"
+:END:
+
+* Manfred - Bus 5
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3457018856296000"
+:entry-id: 37pk1r56rhfj228h1fvcrpjv70/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2024-10-05 Sa 17:50-18:20>
+:END:
+
+* Integrationskonferenz 1b
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3456741119602000"
+:entry-id: 0vh8fk62gs09anr899ntr73jrg/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2024-10-10 Do 15:00-16:00>
+:END:
+
+* Klavierstunde Leopold
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3457252301238000"
+:entry-id: ik5gdjv89a9evbj35tk6j58nu4/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2024-10-11 Fr 14:45-15:15>
 :END:
 

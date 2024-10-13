@@ -17,9 +17,12 @@
 * Lernschiene
 [[file:~/OneDrive/Dokumente/Religion_Lernschiene/]]
 
+- Der Sturm auf dem See
+- Beten
+
 * Stundenplanung
 
-** Einführung
+** Einführung / Ziele
 Persönliche Vorstellung; Bücher austeilen!
 
 Gemeinsames Lied.
@@ -31,13 +34,27 @@ Wie war RU?
 :PROPERTIES:
 :CUSTOM_ID: h:2f19ed33-db95-48ba-8bd2-02f932c70f11
 :END:
-Sollten diese Themen zu "abstrakt" sein - vielleicht mit einem eher typischen RU Thema beginnen, wie das Leben Jesu?
+Hl. Franziskus
+- sein Leben
+- sein Wirken
 
-[[denote:20240911T093358][Die Welt der Gefühle]]
+Franziskaner heute
+[[https://www.youtube.com/watch?v=OIrycxFah84]]
 
-[[denote:20240911T093423][Was ich mir zutraue]]
+Sein Leben kurz erklärt
+[[https://www.youtube.com/watch?v=IeSv13VwFB0]]
 
-ev.: Ich bin einzigartig (Jes 43!)
+[[https://www.missio.com/images/Dateien/Angebote/missio_for_kids/Material_Franz_von_Assisi_4.pdf]]
+
+Als pdf:
+[[file:~/MMS_Abtenau/Hl_Franziskus/]]
+  
+Nichts Kompliziertes (Achtung, morgen ist Konferenz!):
+- Ausmalbild
+- Lückentext
+- Legenden (Vögel, Wolf)
+
+Achtung! Am Ende der Stunde die Klasse aufräumen, Tische und Stühle (stapeln)  nach hinten.
 
 ** Hefteintrag
 Arbeitsweg 1 - 4
@@ -460,4 +477,7 @@ http://www.veritas.at/code (rfu300)
 :DESCRIPTION: [[denote:20240911T093423][Was ich mir zutraue]]
 :END:
 Oh, am Ende dieser Stunde in der 1b (<2024-09-19 Do 09:25>) hat mich eine Schülerin mit einem Geschenk überrascht. Das hat mich so sehr berührt: ein Boot, gefaltet aus Papier; ich (oder Jesus?) drinnen, mit einem großen Lächeln, gestreiften Regenfarben Pulli (in einer Hand ein Weinglas, in der anderen Hand ein Brot).
+
+
+
 
