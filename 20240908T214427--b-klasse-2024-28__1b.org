@@ -16,9 +16,19 @@
 
 * Lernschiene
 [[file:~/OneDrive/Dokumente/Religion_Lernschiene/]]
-
 - Der Sturm auf dem See
+- Der Sonnengesang
+- Heilige
+- Heilige Orte
+- Die Adventzeit
 - Beten
+- Menschen zur Zeit Jesu
+- Neues Testament
+- Hl. Blasius / Hl. Rupert
+- Die Schriften von Qumran
+- Liturgische Farben im Kirchenjahr
+- Kalenderzeiten und Lebenskreise
+- Das Osterfest
 
 
 * Stundenplanung
@@ -33,32 +43,29 @@ Gemeinsames Lied.
 Wie war RU?
 
 ** Themen
-Hl. Franziskus
-- sein Leben
-- sein Wirken
+:PROPERTIES:
+:CUSTOM_ID: h:3b3c9a4a-a80b-4224-8891-c4b2a6362f67
+:END:
+Heute beginnt die Lernschiene in den ersten Klassen; wir werden in dieser Woche die einzelnen Lernjobs im jeweiligen Fach durchmachen (M Lernschiene in der M-Stunde; R Lernschiene in R, ...). Für die 1d muss ich vor Unterrichtsbeginn die Mappe kopieren (zumindest die AB, denn die Arbeitsanweisungen finden sich auf Teams.
 
-Franziskaner heute
-[[https://www.youtube.com/watch?v=OIrycxFah84]]
-
-Sein Leben kurz erklärt
-[[https://www.youtube.com/watch?v=IeSv13VwFB0]]
-
-[[https://www.missio.com/images/Dateien/Angebote/missio_for_kids/Material_Franz_von_Assisi_4.pdf]]
-
-Als pdf:
-[[file:~/MMS_Abtenau/Hl_Franziskus/]]
-  
-Nichts Kompliziertes (Achtung, morgen ist Konferenz!):
-- Ausmalbild
-- Lückentext
-- Legenden (Vögel, Wolf)
-
-Achtung! Am Ende der Stunde die Klasse aufräumen, Tische und Stühle (stapeln)  nach hinten.
+Der erste Lernjob: "Der Sturm auf dem See" (danach "Beten")
 
 ** Hefteintrag
 Arbeitsweg
 
 http://www.veritas.at/code (rfu300)
+
+* Reflexionen
+:PROPERTIES:
+:CUSTOM_ID: h:b3d5b086-fae7-487b-9740-a513c74b1dbf
+:END:
+** WC Gang
+:PROPERTIES:
+:CAPTURED: [2024-10-23 Mi 12:09]
+:DESCRIPTION: [[denote:20240908T214427::#h:b3d5b086-fae7-487b-9740-a513c74b1dbf][B Klasse 2024-28::Reflexionen]]
+:END:
+Mirjam, Sophie (Bauchweh) und Leonie waren ziemlich lang auf dem WC.
+
 
 * Schülerliste
 #+Name: 2021-students

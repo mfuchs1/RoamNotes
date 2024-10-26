@@ -24,7 +24,18 @@ http://www.veritas.at/code (rfu100)
 [[file:~/OneDrive/Dokumente/Religion_Lernschiene/]]
 
 - Der Sturm auf dem See
+- Der Sonnengesang
+- Heilige
+- Heilige Orte
+- Die Adventzeit
 - Beten
+- Menschen zur Zeit Jesu
+- Neues Testament
+- Hl. Blasius / Hl. Rupert
+- Die Schriften von Qumran
+- Liturgische Farben im Kirchenjahr
+- Kalenderzeiten und Lebenskreise
+- Das Osterfest
 
 * Stundenplanung
 
@@ -37,16 +48,17 @@ Gemeinsames Lied.
 Wie war RU?
 
 ** Themen
+Heute beginnt die Lernschiene in den ersten Klassen; wir werden in dieser Woche die einzelnen Lernjobs im jeweiligen Fach durchmachen (M Lernschiene in der M-Stunde; R Lernschiene in R, ...). Für die 1d muss ich vor Unterrichtsbeginn die Mappe kopieren (zumindest die AB, denn die Arbeitsanweisungen finden sich auf Teams.
+
+Der erste Lernjob: "Der Sturm auf dem See" (danach "Beten")
+
+Wer hat kein Heft
+- Livia
+- Valentin
+- 
 
 ** Hefteintrag
-Hl. Franziskus
-- sein Leben
-- sein Wirken
 
-Material als pdf:
-[[file:~/MMS_Abtenau/Hl_Franziskus/]]
-  
-Neues Kapitel...
 
 * Schülerliste
 #+Name: 2021-students

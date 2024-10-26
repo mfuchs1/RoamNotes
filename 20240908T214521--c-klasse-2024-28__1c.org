@@ -16,9 +16,19 @@
 
 * Lernschiene
 [[file:~/OneDrive/Dokumente/Religion_Lernschiene/]]
-
 - Der Sturm auf dem See
+- Der Sonnengesang
+- Heilige
+- Heilige Orte
+- Die Adventzeit
 - Beten
+- Menschen zur Zeit Jesu
+- Neues Testament
+- Hl. Blasius / Hl. Rupert
+- Die Schriften von Qumran
+- Liturgische Farben im Kirchenjahr
+- Kalenderzeiten und Lebenskreise
+- Das Osterfest
 
 * Stundenplanung
 
@@ -34,27 +44,10 @@ Wie war RU?
 :PROPERTIES:
 :CUSTOM_ID: h:2f19ed33-db95-48ba-8bd2-02f932c70f11
 :END:
-Hl. Franziskus
-- sein Leben
-- sein Wirken
+Heute beginnt die Lernschiene in den ersten Klassen; wir werden in dieser Woche die einzelnen Lernjobs im jeweiligen Fach durchmachen (M Lernschiene in der M-Stunde; R Lernschiene in R, ...). Für die 1d muss ich vor Unterrichtsbeginn die Mappe kopieren (zumindest die AB, denn die Arbeitsanweisungen finden sich auf Teams.
 
-Franziskaner heute
-[[https://www.youtube.com/watch?v=OIrycxFah84]]
+Der erste Lernjob: "Der Sturm auf dem See" (danach "Beten")
 
-Sein Leben kurz erklärt
-[[https://www.youtube.com/watch?v=IeSv13VwFB0]]
-
-[[https://www.missio.com/images/Dateien/Angebote/missio_for_kids/Material_Franz_von_Assisi_4.pdf]]
-
-Als pdf:
-[[file:~/MMS_Abtenau/Hl_Franziskus/]]
-  
-Nichts Kompliziertes (Achtung, morgen ist Konferenz!):
-- Ausmalbild
-- Lückentext
-- Legenden (Vögel, Wolf)
-
-Achtung! Am Ende der Stunde die Klasse aufräumen, Tische und Stühle (stapeln)  nach hinten.
 
 ** Hefteintrag
 Arbeitsweg 1 - 4
@@ -77,6 +70,18 @@ http://www.veritas.at/code (rfu300)
 - Quehenberger Anna
 
 ** Übungen
+
+* Reflexionen
+** Sturm auf dem See (LS)
+:PROPERTIES:
+:CAPTURED: [2024-10-24 Do 09:37]
+:DESCRIPTION: [[denote:20240908T214521::#h:2f19ed33-db95-48ba-8bd2-02f932c70f11][C Klasse 2024-28::Themen]]
+:END:
+Unglaublich, wie unruhig es heute war. Zuerst einmal denke ich an gestern (Resilienz); niemals persönlich nehmen - von einer Metaebene aus unterrichten - Humor ja, Sarkasmus kommt in meinem Fall nicht gut an.
+
+Alle Minuten musste jemand aufs Klo, hatte eine Frage (die er eigentlich selbst beantworten könnte), ...
+
+Paul hat den Chat mit Nachrichten geflutet.
 
 * Schülerliste
 #+Name: 2021-students

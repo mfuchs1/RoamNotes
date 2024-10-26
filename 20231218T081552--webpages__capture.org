@@ -46,3 +46,24 @@
 :SOURCE: https://protesilaos.com/codelog/2024-07-23-emacs-use-package-essentials/
 :END:
 
+* Kann man die Existenz Gottes beweisen?* (3MC 05) - YouTube
+:PROPERTIES:
+:CREATED: [2024-10-16 Mi 10:58]
+:SOURCE: https://www.youtube.com/watch?v=nBxbiEoTwwk
+:CUSTOM_ID: h:6a1a130e-0022-4117-ae9e-f430ebeb2436
+:END:
+
+* Was bedeutet es, "an Gott zu glauben"? (3MC 04) - YouTube
+:PROPERTIES:
+:CREATED: [2024-10-16 Mi 10:59]
+:SOURCE: https://www.youtube.com/watch?v=k7PMpvOfXyQ
+:CUSTOM_ID: h:d468f205-b36e-4e20-9d16-e4b4c7499691
+:END:
+
+* Was ist der Unterschied zwischen glauben und wissen? (3MC 03) - YouTube
+:PROPERTIES:
+:CREATED: [2024-10-16 Mi 10:59]
+:SOURCE: https://www.youtube.com/watch?v=-8TmMZHjMrQ
+:CUSTOM_ID: h:f956f5da-6818-47c9-96e9-98164e8ff28c
+:END:
+
