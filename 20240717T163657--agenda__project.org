@@ -21,7 +21,7 @@
 [[denote:20240908T213847][D Klasse 2024-28]]
 
 *** 1a (RLS) 08:35-09:25                                               :1a:
-<%%(org-class 2024 9 9 2025 6 30 1 44)>
+<%%(org-class 2024 9 9 2025 6 30 1 45)>
 [[denote:20240908T214000][A Klasse 2024-28]]
 
 *** 2a (RLS) 10:30-11:20                                               :2a:
@@ -133,7 +133,7 @@ Unterricht heute (10.09.) um 10:15 beenden.
 [[denote:20240908T214359][B Klasse 2022-26]]
 
 *** 4c 11:30-12:20                                                     :4c:
-<%%(org-class 2024 9 13 2025 7 4 5 43)>
+<%%(org-class 2024 9 13 2025 7 4 5 44)>
 [[denote:20240908T214454][C Klasse 2021-25]]
 
 *** 1a 12:20-13:10                                                     :1a:
@@ -268,6 +268,91 @@ CLOSED: [2024-10-16 Mi 10:21] DEADLINE: <2024-10-15 Di 09:30>
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2024-10-16 Mi 10:21]
 :END:
+
+** DONE Dacia Duster abholen                                          :home:
+CLOSED: [2024-10-31 Do 23:04] DEADLINE: <2024-10-31 Do 15:00>
+:PROPERTIES:
+:CAPTURED: [2024-10-30 Mi 00:17]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2024-10-31 Do 23:04]
+:END:
+
+** DONE Klavierunterricht                                             :home:
+CLOSED: [2024-10-31 Do 23:05] SCHEDULED: <2024-10-30 Mi 14:45>
+:PROPERTIES:
+:CAPTURED: [2024-10-30 Mi 00:18]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2024-10-31 Do 23:05]
+:END:
+
+** DONE E-Piano kaufen (KeyWi)                                        :home:
+CLOSED: [2024-10-31 Do 23:04] DEADLINE: <2024-10-30 Mi 09:00>
+:PROPERTIES:
+:CAPTURED: [2024-10-30 Mi 00:20]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2024-10-31 Do 23:04]
+:END:
+
+** DONE Lohnnachweis an Hr. Skala (Dacia) mailen                      :home:
+CLOSED: [2024-11-03 So 09:23] DEADLINE: <2024-11-03 So 21:00>
+:PROPERTIES:
+:CAPTURED: [2024-11-01 Fr 09:41]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2024-11-03 So 09:23]
+:END:
+
+[[mailto:Wolfgang Skala <w.skala@outlook.com>]]
+
+** DONE Mittagessen mit Isabelle                                      :home:
+CLOSED: [2024-11-04 Mo 22:12] SCHEDULED: <2024-11-03 So 12:00>
+:PROPERTIES:
+:CAPTURED: [2024-11-01 Fr 09:46]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2024-11-04 Mo 22:12]
+:END:
+
+Tisch bei Abfalter in Golling reservieren.
+
+** DONE Tisch reservieren (Abfalter Golling)                          :home:
+CLOSED: [2024-11-03 So 09:23] DEADLINE: <2024-11-01 Fr 15:00>
+:PROPERTIES:
+:CAPTURED: [2024-11-01 Fr 09:48]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2024-11-03 So 09:23]
+:END:
+
+** DONE Kinder und Buch abholen                                       :home:
+CLOSED: [2024-11-06 Mi 10:09] DEADLINE: <2024-11-05 Di 15:30>
+:PROPERTIES:
+:CAPTURED: [2024-11-05 Di 09:02]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2024-11-06 Mi 10:09]
+:END:
+
+** TODO [#A] Tabelle für LS erstellen                                 :home:
+DEADLINE: <2024-11-05 Di 21:00>
+:PROPERTIES:
+:CAPTURED: [2024-11-05 Di 09:32]
+:END:
+
+Klassen: 1a, 1b, 1c, 1d, 2a
+LS Nummer / Titel / Abgabetermin bzw -datum
+
+** TODO Installateur (Notdienst) anrufen                               :home:
+DEADLINE: <2024-11-05 Di 17:00>
+:PROPERTIES:
+:CAPTURED: [2024-11-05 Di 09:35]
+:END:
+
+
+
 * Wishlist
 
 * Unprocessed
@@ -304,6 +389,7 @@ CLOSED: [2024-10-22 Di 10:57] SCHEDULED: <2024-10-18 Fr 20:00>
 Ich werde mir heute Abend noch einmal die config von ~consult-spotify~ auf dem Desktop-PC ansehen. Dort funktioniert dieses Programm, auf dem Laptop nicht. Woran liegt das? Fehlt z.B. der Token auf dem Laptop? Fehlt ein Emacs-Paket auf dem Laptop? 
 
 Interessanter weise läuft ~smudge~ auf dem Laptop. Kann ich damit Tracks, Alben, etc suchen? Ich denke nicht, oder?
+
 ** Package =beframe.el=
 :PROPERTIES:
 :CAPTURED: [2024-10-23 Mi 13:03]
@@ -318,4 +404,19 @@ Manual:
 Neue Version:
 [[https://protesilaos.com/codelog/2024-10-23-emacs-beframe-1-2-0/]]
 
+** Nur ein Test
+:PROPERTIES:
+:CAPTURED: [2024-10-29 Di 23:59]
+:END:
+Ich möchte wissen, wo der Post eingefügt wird.
+
+[[file:~/.emacs.d/init.el::file+headline "~/RoamNotes/notes/20240717T163657--agenda__project.org" "Unprocessed"]]
+
+** Noch ein Test
+:PROPERTIES:
+:CAPTURED: [2024-10-30 Mi 00:01]
+:END:
+und wo steht dieser Post?
+
+[[file:~/.emacs.d/init.el::("a" "Appointement --> gcal" entry]]
 

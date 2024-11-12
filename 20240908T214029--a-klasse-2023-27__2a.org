@@ -18,7 +18,7 @@
 [[file:~/OneDrive/Dokumente/Religion_Lernschiene/]]
 
 - Hl. Franziskus
-- Abraham
+- Hl. Blasius / Hl. Rupert (erste Klasse!)
 
 * Stundenplanung
 
@@ -31,17 +31,23 @@ Gemeinsames Lied.
 Wie war RU?
 
 ** Themen
-Lernschiene: Abraham
+:PROPERTIES:
+:CUSTOM_ID: h:8938bd1e-d921-4eba-a69b-9f903c3a2c67
+:END:
+LS:
+- Der Rosenkranz
+- Gott ruft mich beim Namen
+- Mein Namenspatron
 
-Welche Heilige kennt ihr? Wie werden sie dargestellt? Warum sind sie heilig? Auch wir sind zur Heiligkeit berufen ...
-Standen fest in ihrem Glauben!
-Daniel in der Löwengrube
-Franz Jägerstätter
 
-Bogen spannen zu "Jesus sagt: Ich bin die Auferstehung und das Leben!"
-Tür in den Himmel - Türe ins Heft schneiden, Seiten zusammenkleben
-Türe ist Golden innen - wie stelle ich mir den Himmel vor?
-Satz von Jesus über der Türe...
+
+RB S. 59-65
+
+Glaube an den einen Gott: Judentum, Christen, Islam
+
+Abschnitte aus der Bibel lesen (Gen: Abraham, Isaak, Jakob); das wird nicht funktionieren.
+
+Übungsteil: das Kreuzworträtsel eher schon - wie mache ich "Druck"? Nach ... Minuten schaue ich mir das Buch an - je nach Fortschritt gibt es eine Note? Was mache ich mit Schülern, die nix machen? das ist keine Mitarbeit - wird notiert. Wer "brav" arbeitet, wird positiv vermerkt. Wer nicht fertig wird, zeigt mir die Übungen nächste Stunde - unaufgefordert.
 
 ** Hefteintrag
 Arbeitsweg 1 - 4
@@ -64,6 +70,13 @@ In dieser Stunde war es generell sehr laut; zwei Schüler (Christian und Daniel)
 Auf der anderen Seite können wir als Lehrer so ein Verhalten wie letzte Stunde nicht akzeptieren. Wir behandeln euch mit Respekt, dann erwarten wir ebenso Respekt uns gegenüber.
 
 Ich hoffe, wir können dieses Thema damit abschließen und neu beginnen.
+
+** Lernschiene
+:PROPERTIES:
+:CAPTURED: [2024-11-04 Mo 11:08]
+:DESCRIPTION: [[denote:20240908T214029::#h:8938bd1e-d921-4eba-a69b-9f903c3a2c67][A Klasse 2023-27::Themen]]
+:END:
+Daniel und Daniel arbeiten so gut wie gar nicht; (Wie lange haben Schüler Ziet für einen Lernjob?) sie trinken die ganze Stunde, träumen, .... es geht nichts weiter, und zwar in keinem Fach.
 
 
 * Schülerliste
@@ -114,11 +127,12 @@ Ich hoffe, wir können dieses Thema damit abschließen und neu beginnen.
       print(':ID: ' + first + '' + last + '')
       print(':END: ')
       print('#+Name: Note_' + first + '' + last + '')
-      print('|-----------------------+-------+-------------+-----+-----------+------------|')
-      print('| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |')
-      print('|-----------------------+-------+-------------+-----+-----------+------------|')
-      print('|                       |       |             |     |           |            |')
-      print('#+TBLFM: $6=vmean($3..$5);%.0f')
+      print('|-------+-------------+-------+---------+-----------+------------|')
+      print('| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |')
+      print('|-------+-------------+-------+---------+-----------+------------|')
+      print('|       |             |       |         |           |            |')
+      print('#+tblfm: $2=@#-1')
+      print('#+TBLFM: $6=vmean($4..$5);%.0f')
       print('\n')
 #+END_SRC
 
@@ -132,11 +146,12 @@ Ich hoffe, wir können dieses Thema damit abschließen und neu beginnen.
 :ID: LeaButkovic
 :END: 
 #+Name: Note_LeaButkovic
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Livia Eder
@@ -146,11 +161,12 @@ Ich hoffe, wir können dieses Thema damit abschließen und neu beginnen.
 :ID: LiviaEder
 :END: 
 #+Name: Note_LiviaEder
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Emilia-Valentina Fasl
@@ -160,11 +176,12 @@ Ich hoffe, wir können dieses Thema damit abschließen und neu beginnen.
 :ID: Emilia-ValentinaFasl
 :END: 
 #+Name: Note_Emilia-ValentinaFasl
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Leon Höll
@@ -174,11 +191,12 @@ Ich hoffe, wir können dieses Thema damit abschließen und neu beginnen.
 :ID: LeonHöll
 :END: 
 #+Name: Note_LeonHöll
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Emilia Huber
@@ -188,11 +206,12 @@ Ich hoffe, wir können dieses Thema damit abschließen und neu beginnen.
 :ID: EmiliaHuber
 :END: 
 #+Name: Note_EmiliaHuber
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Matteo Knoblechner
@@ -202,11 +221,12 @@ Ich hoffe, wir können dieses Thema damit abschließen und neu beginnen.
 :ID: MatteoKnoblechner
 :END: 
 #+Name: Note_MatteoKnoblechner
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Daniel Promok
@@ -216,11 +236,12 @@ Ich hoffe, wir können dieses Thema damit abschließen und neu beginnen.
 :ID: DanielPromok
 :END: 
 #+Name: Note_DanielPromok
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Thomas Quehenberger
@@ -230,11 +251,12 @@ Ich hoffe, wir können dieses Thema damit abschließen und neu beginnen.
 :ID: ThomasQuehenberger
 :END: 
 #+Name: Note_ThomasQuehenberger
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Christian Reiter
@@ -244,11 +266,12 @@ Ich hoffe, wir können dieses Thema damit abschließen und neu beginnen.
 :ID: ChristianReiter
 :END: 
 #+Name: Note_ChristianReiter
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Melanie Reiter
@@ -258,11 +281,12 @@ Ich hoffe, wir können dieses Thema damit abschließen und neu beginnen.
 :ID: MelanieReiter
 :END: 
 #+Name: Note_MelanieReiter
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Valentin Reschreiter
@@ -272,11 +296,12 @@ Ich hoffe, wir können dieses Thema damit abschließen und neu beginnen.
 :ID: ValentinReschreiter
 :END: 
 #+Name: Note_ValentinReschreiter
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Valentin Sandtner
@@ -286,11 +311,12 @@ Ich hoffe, wir können dieses Thema damit abschließen und neu beginnen.
 :ID: ValentinSandtner
 :END: 
 #+Name: Note_ValentinSandtner
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Niklas Schledt
@@ -300,11 +326,12 @@ Ich hoffe, wir können dieses Thema damit abschließen und neu beginnen.
 :ID: NiklasSchledt
 :END: 
 #+Name: Note_NiklasSchledt
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Annalena Schnitzhofer
@@ -314,11 +341,12 @@ Ich hoffe, wir können dieses Thema damit abschließen und neu beginnen.
 :ID: AnnalenaSchnitzhofer
 :END: 
 #+Name: Note_AnnalenaSchnitzhofer
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Daniel Spannberger
@@ -328,11 +356,12 @@ Ich hoffe, wir können dieses Thema damit abschließen und neu beginnen.
 :ID: DanielSpannberger
 :END: 
 #+Name: Note_DanielSpannberger
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Jonas Spannberger
@@ -342,10 +371,11 @@ Ich hoffe, wir können dieses Thema damit abschließen und neu beginnen.
 :ID: JonasSpannberger
 :END: 
 #+Name: Note_JonasSpannberger
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 

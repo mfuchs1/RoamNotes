@@ -23,6 +23,7 @@ http://www.veritas.at/code (rfu100)
 * Lernschiene
 [[file:~/OneDrive/Dokumente/Religion_Lernschiene/]]
 
+Alle Themen (Überblick):
 - Der Sturm auf dem See
 - Der Sonnengesang
 - Heilige
@@ -45,17 +46,15 @@ Persönliche Vorstellung; Bücher austeilen!
 Gemeinsames Lied.
 
 ** Wiederholung
-Wie war RU?
+
+
+** Lernschiene
+- Heilige (Diözesanpatrone)
+
+AB etc kopieren (ohne Tablet arbeiten)
 
 ** Themen
-Heute beginnt die Lernschiene in den ersten Klassen; wir werden in dieser Woche die einzelnen Lernjobs im jeweiligen Fach durchmachen (M Lernschiene in der M-Stunde; R Lernschiene in R, ...). Für die 1d muss ich vor Unterrichtsbeginn die Mappe kopieren (zumindest die AB, denn die Arbeitsanweisungen finden sich auf Teams.
 
-Der erste Lernjob: "Der Sturm auf dem See" (danach "Beten")
-
-Wer hat kein Heft
-- Livia
-- Valentin
-- 
 
 ** Hefteintrag
 
@@ -104,11 +103,12 @@ Wer hat kein Heft
       print(':ID: ' + first + '' + last + '')
       print(':END: ')
       print('#+Name: Note_' + first + '' + last + '')
-      print('|-----------------------+-------+-------------+-----+-----------+------------|')
-      print('| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |')
-      print('|-----------------------+-------+-------------+-----+-----------+------------|')
-      print('|                       |       |             |     |           |            |')
-      print('#+TBLFM: $6=vmean($3..$5);%.0f')
+      print('|-------+-------------+-------+---------+-----------+------------|')
+      print('| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |')
+      print('|-------+-------------+-------+---------+-----------+------------|')
+      print('|       |             |       |         |           |            |')
+      print('#+tblfm: $2=@#-1')
+      print('#+TBLFM: $6=vmean($4..$5);%.0f')
       print('\n')
 #+END_SRC
 
@@ -122,11 +122,12 @@ Wer hat kein Heft
 :ID: ChristianAuer
 :END: 
 #+Name: Note_ChristianAuer
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Julian Bayer
@@ -136,11 +137,12 @@ Wer hat kein Heft
 :ID: JulianBayer
 :END: 
 #+Name: Note_JulianBayer
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Alexa Dobunda
@@ -150,11 +152,12 @@ Wer hat kein Heft
 :ID: AlexaDobunda
 :END: 
 #+Name: Note_AlexaDobunda
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Philipp Epp
@@ -164,11 +167,12 @@ Wer hat kein Heft
 :ID: PhilippEpp
 :END: 
 #+Name: Note_PhilippEpp
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Marlene Fuschlberger
@@ -178,11 +182,12 @@ Wer hat kein Heft
 :ID: MarleneFuschlberger
 :END: 
 #+Name: Note_MarleneFuschlberger
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Lea Hirscher
@@ -192,11 +197,12 @@ Wer hat kein Heft
 :ID: LeaHirscher
 :END: 
 #+Name: Note_LeaHirscher
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Johann Hornegger
@@ -206,11 +212,12 @@ Wer hat kein Heft
 :ID: JohannHornegger
 :END: 
 #+Name: Note_JohannHornegger
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Kilian Klamm
@@ -220,11 +227,12 @@ Wer hat kein Heft
 :ID: KilianKlamm
 :END: 
 #+Name: Note_KilianKlamm
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Felix Prühs
@@ -234,11 +242,12 @@ Wer hat kein Heft
 :ID: FelixPrühs
 :END: 
 #+Name: Note_FelixPrühs
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Maxim Rettenbacher
@@ -248,11 +257,12 @@ Wer hat kein Heft
 :ID: MaximRettenbacher
 :END: 
 #+Name: Note_MaximRettenbacher
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Laura Schnitzhofer
@@ -262,11 +272,12 @@ Wer hat kein Heft
 :ID: LauraSchnitzhofer
 :END: 
 #+Name: Note_LauraSchnitzhofer
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Michael Schorn
@@ -276,11 +287,12 @@ Wer hat kein Heft
 :ID: MichaelSchorn
 :END: 
 #+Name: Note_MichaelSchorn
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Katja Schwaighofer
@@ -290,10 +302,11 @@ Wer hat kein Heft
 :ID: KatjaSchwaighofer
 :END: 
 #+Name: Note_KatjaSchwaighofer
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 

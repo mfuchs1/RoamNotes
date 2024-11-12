@@ -43,6 +43,11 @@ Gemeinsames Lied.
 ** Wiederholung
 Wie war RU?
 
+** Lernschiene
+- Heilige (Diözesanpatrone)
+
+AB etc kopieren (ohne Tablet arbeiten)
+
 ** Themen
 Heute beginnt die Lernschiene in den ersten Klassen; wir werden in dieser Woche die einzelnen Lernjobs im jeweiligen Fach durchmachen (M Lernschiene in der M-Stunde; R Lernschiene in R, ...). Für die 1d muss ich vor Unterrichtsbeginn die Mappe kopieren (zumindest die AB, denn die Arbeitsanweisungen finden sich auf Teams.
 
@@ -100,11 +105,12 @@ Arbeitsweg
       print(':ID: ' + first + '' + last + '')
       print(':END: ')
       print('#+Name: Note_' + first + '' + last + '')
-      print('|-----------------------+-------+-------------+-----+-----------+------------|')
-      print('| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |')
-      print('|-----------------------+-------+-------------+-----+-----------+------------|')
-      print('|                       |       |             |     |           |            |')
-      print('#+TBLFM: $6=vmean($3..$5);%.0f')
+      print('|-------+-------------+-------+---------+-----------+------------|')
+      print('| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |')
+      print('|-------+-------------+-------+---------+-----------+------------|')
+      print('|       |             |       |         |           |            |')
+      print('#+tblfm: $2=@#-1')
+      print('#+TBLFM: $6=vmean($4..$5);%.0f')
       print('\n')
 #+END_SRC
 
@@ -118,11 +124,12 @@ Arbeitsweg
 :ID: SophieAuer
 :END: 
 #+Name: Note_SophieAuer
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Matthias Buchegger
@@ -132,11 +139,12 @@ Arbeitsweg
 :ID: MatthiasBuchegger
 :END: 
 #+Name: Note_MatthiasBuchegger
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Felix Eder
@@ -146,11 +154,12 @@ Arbeitsweg
 :ID: FelixEder
 :END: 
 #+Name: Note_FelixEder
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Samuel Hirscher
@@ -160,11 +169,12 @@ Arbeitsweg
 :ID: SamuelHirscher
 :END: 
 #+Name: Note_SamuelHirscher
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Anna Kainhofer
@@ -174,11 +184,12 @@ Arbeitsweg
 :ID: AnnaKainhofer
 :END: 
 #+Name: Note_AnnaKainhofer
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Ilvy Ramsauer
@@ -188,11 +199,12 @@ Arbeitsweg
 :ID: IlvyRamsauer
 :END: 
 #+Name: Note_IlvyRamsauer
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Nadine Ramsauer
@@ -202,11 +214,12 @@ Arbeitsweg
 :ID: NadineRamsauer
 :END: 
 #+Name: Note_NadineRamsauer
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Leonie Reschreiter
@@ -216,11 +229,12 @@ Arbeitsweg
 :ID: LeonieReschreiter
 :END: 
 #+Name: Note_LeonieReschreiter
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Tobias Rettenbacher
@@ -230,11 +244,12 @@ Arbeitsweg
 :ID: TobiasRettenbacher
 :END: 
 #+Name: Note_TobiasRettenbacher
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Jakob Rettenegger
@@ -244,11 +259,12 @@ Arbeitsweg
 :ID: JakobRettenegger
 :END: 
 #+Name: Note_JakobRettenegger
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Eva Schlager
@@ -258,11 +274,12 @@ Arbeitsweg
 :ID: EvaSchlager
 :END: 
 #+Name: Note_EvaSchlager
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Tim Schledt
@@ -272,11 +289,12 @@ Arbeitsweg
 :ID: TimSchledt
 :END: 
 #+Name: Note_TimSchledt
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Ella Sunkler
@@ -286,11 +304,12 @@ Arbeitsweg
 :ID: EllaSunkler
 :END: 
 #+Name: Note_EllaSunkler
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Finja Thomüller
@@ -300,11 +319,12 @@ Arbeitsweg
 :ID: FinjaThomüller
 :END: 
 #+Name: Note_FinjaThomüller
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Julia Windhofer
@@ -314,10 +334,11 @@ Arbeitsweg
 :ID: JuliaWindhofer
 :END: 
 #+Name: Note_JuliaWindhofer
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 

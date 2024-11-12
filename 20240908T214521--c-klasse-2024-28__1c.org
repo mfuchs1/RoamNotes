@@ -40,13 +40,30 @@ Gemeinsames Lied.
 ** Wiederholung
 Wie war RU?
 
+** Lernschiene
+:PROPERTIES:
+:CUSTOM_ID: h:49f7505e-d522-4070-8d08-5ef73ab68205
+:END:
+- Heilige (Diözesanpatrone)
+
+AB etc kopieren (ohne Tablet arbeiten)
+
+1a Lernjob "Sturm auf dem See"
+einige ABs sind zu kopieren!
+
 ** Themen
 :PROPERTIES:
 :CUSTOM_ID: h:2f19ed33-db95-48ba-8bd2-02f932c70f11
 :END:
-Heute beginnt die Lernschiene in den ersten Klassen; wir werden in dieser Woche die einzelnen Lernjobs im jeweiligen Fach durchmachen (M Lernschiene in der M-Stunde; R Lernschiene in R, ...). Für die 1d muss ich vor Unterrichtsbeginn die Mappe kopieren (zumindest die AB, denn die Arbeitsanweisungen finden sich auf Teams.
+LS - Heilige
 
-Der erste Lernjob: "Der Sturm auf dem See" (danach "Beten")
+Dienstag: Allerheiligen / Allerseelen nachbesprechen
+Was sind Heilige? Welche Heilige kennt ihr? Wie werden sie dargestellt?
+
+Unsere Berufung zur Heiligkeit - Sehnsucht nach dem Himmel.
+Jesus sagt: "Ich bin die Auferstehung und das Leben." (Joh 11)
+
+Erster Johannesbrief 3
 
 
 ** Hefteintrag
@@ -138,11 +155,12 @@ Paul hat den Chat mit Nachrichten geflutet.
       print(':ID: ' + first + '' + last + '')
       print(':END: ')
       print('#+Name: Note_' + first + '' + last + '')
-      print('|-----------------------+-------+-------------+-----+-----------+------------|')
-      print('| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |')
-      print('|-----------------------+-------+-------------+-----+-----------+------------|')
-      print('|                       |       |             |     |           |            |')
-      print('#+TBLFM: $6=vmean($3..$5);%.0f')
+      print('|-------+-------------+-------+---------+-----------+------------|')
+      print('| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |')
+      print('|-------+-------------+-------+---------+-----------+------------|')
+      print('|       |             |       |         |           |            |')
+      print('#+tblfm: $2=@#-1')
+      print('#+TBLFM: $6=vmean($4..$5);%.0f')
       print('\n')
 #+END_SRC
 
@@ -156,11 +174,12 @@ Paul hat den Chat mit Nachrichten geflutet.
 :ID: SimonAuer
 :END: 
 #+Name: Note_SimonAuer
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Sophia Bayer
@@ -170,11 +189,12 @@ Paul hat den Chat mit Nachrichten geflutet.
 :ID: SophiaBayer
 :END: 
 #+Name: Note_SophiaBayer
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Katharina Eberl
@@ -184,11 +204,12 @@ Paul hat den Chat mit Nachrichten geflutet.
 :ID: KatharinaEberl
 :END: 
 #+Name: Note_KatharinaEberl
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Paul Eder
@@ -198,11 +219,12 @@ Paul hat den Chat mit Nachrichten geflutet.
 :ID: PaulEder
 :END: 
 #+Name: Note_PaulEder
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Lara Egger
@@ -212,11 +234,12 @@ Paul hat den Chat mit Nachrichten geflutet.
 :ID: LaraEgger
 :END: 
 #+Name: Note_LaraEgger
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Lena Englbrecht
@@ -226,11 +249,12 @@ Paul hat den Chat mit Nachrichten geflutet.
 :ID: LenaEnglbrecht
 :END: 
 #+Name: Note_LenaEnglbrecht
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Nina Faller
@@ -240,11 +264,12 @@ Paul hat den Chat mit Nachrichten geflutet.
 :ID: NinaFaller
 :END: 
 #+Name: Note_NinaFaller
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Larissa Gsenger
@@ -254,11 +279,12 @@ Paul hat den Chat mit Nachrichten geflutet.
 :ID: LarissaGsenger
 :END: 
 #+Name: Note_LarissaGsenger
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Leonie Huber
@@ -268,11 +294,12 @@ Paul hat den Chat mit Nachrichten geflutet.
 :ID: LeonieHuber
 :END: 
 #+Name: Note_LeonieHuber
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Anna Knoblechner
@@ -282,11 +309,12 @@ Paul hat den Chat mit Nachrichten geflutet.
 :ID: AnnaKnoblechner
 :END: 
 #+Name: Note_AnnaKnoblechner
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Jonas Lanzinger
@@ -296,11 +324,12 @@ Paul hat den Chat mit Nachrichten geflutet.
 :ID: JonasLanzinger
 :END: 
 #+Name: Note_JonasLanzinger
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Jonah Meißnitzer
@@ -310,11 +339,12 @@ Paul hat den Chat mit Nachrichten geflutet.
 :ID: JonahMeißnitzer
 :END: 
 #+Name: Note_JonahMeißnitzer
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Julia Promok
@@ -324,25 +354,27 @@ Paul hat den Chat mit Nachrichten geflutet.
 :ID: JuliaPromok
 :END: 
 #+Name: Note_JuliaPromok
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Anna Quehenberger
 :PROPERTIES:
-:EMAIL: [[mailto: Quehenberger Anna <Quehenberger.Anna1@abtenau.schule>]]
+:EMAIL: [[mailto: Quehenberger Anna <Quehenberger.Anna@abtenau.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Anna_Quehenberger.html
 :ID: AnnaQuehenberger
 :END: 
 #+Name: Note_AnnaQuehenberger
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Lorenz Quehenberger
@@ -352,11 +384,12 @@ Paul hat den Chat mit Nachrichten geflutet.
 :ID: LorenzQuehenberger
 :END: 
 #+Name: Note_LorenzQuehenberger
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Emma Reschreiter
@@ -366,11 +399,12 @@ Paul hat den Chat mit Nachrichten geflutet.
 :ID: EmmaReschreiter
 :END: 
 #+Name: Note_EmmaReschreiter
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Valentina Rettenbacher
@@ -380,11 +414,12 @@ Paul hat den Chat mit Nachrichten geflutet.
 :ID: ValentinaRettenbacher
 :END: 
 #+Name: Note_ValentinaRettenbacher
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Lana Rußegger
@@ -394,11 +429,12 @@ Paul hat den Chat mit Nachrichten geflutet.
 :ID: LanaRußegger
 :END: 
 #+Name: Note_LanaRußegger
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Simon Sandtner
@@ -408,11 +444,12 @@ Paul hat den Chat mit Nachrichten geflutet.
 :ID: SimonSandtner
 :END: 
 #+Name: Note_SimonSandtner
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Anna Schefbänker
@@ -422,11 +459,12 @@ Paul hat den Chat mit Nachrichten geflutet.
 :ID: AnnaSchefbänker
 :END: 
 #+Name: Note_AnnaSchefbänker
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Leo Schwingenstein
@@ -436,11 +474,12 @@ Paul hat den Chat mit Nachrichten geflutet.
 :ID: LeoSchwingenstein
 :END: 
 #+Name: Note_LeoSchwingenstein
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Lena Wallinger
@@ -450,11 +489,12 @@ Paul hat den Chat mit Nachrichten geflutet.
 :ID: LenaWallinger
 :END: 
 #+Name: Note_LenaWallinger
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Mia Windhofer
@@ -464,11 +504,14 @@ Paul hat den Chat mit Nachrichten geflutet.
 :ID: MiaWindhofer
 :END: 
 #+Name: Note_MiaWindhofer
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
+
+
 
 
 * Reflexionen

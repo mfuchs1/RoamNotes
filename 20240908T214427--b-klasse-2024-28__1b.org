@@ -42,13 +42,51 @@ Gemeinsames Lied.
 :END:
 Wie war RU?
 
+** Lernschiene
+- Heilige (Diözesanpatrone)
+
+AB etc kopieren (ohne Tablet arbeiten)
+
 ** Themen
 :PROPERTIES:
 :CUSTOM_ID: h:3b3c9a4a-a80b-4224-8891-c4b2a6362f67
 :END:
-Heute beginnt die Lernschiene in den ersten Klassen; wir werden in dieser Woche die einzelnen Lernjobs im jeweiligen Fach durchmachen (M Lernschiene in der M-Stunde; R Lernschiene in R, ...). Für die 1d muss ich vor Unterrichtsbeginn die Mappe kopieren (zumindest die AB, denn die Arbeitsanweisungen finden sich auf Teams.
+LS - Heilige
 
-Der erste Lernjob: "Der Sturm auf dem See" (danach "Beten")
+Welche Bedeutung haben Geschichten aus der Vergangenheit für die Gegenwart (z.B. erzählt die Oma aus ihrer Kindheit, vom 2. WK, etc)?
+
+Was ist das Besondere an der Bibel? Gott offenbart sich IN und DURCH die Geschichte des Volkes Israels. Die Bibel ist nicht direkt von Gott diktiert (wie z.B. der Koran?). Sondern: Gott hat zu den Menschen gesprochen (siehe Abraham - die Bibel erzählt dies ganz einfach, simpel, ohne großes Tamtam, ... - so als wäre es das "Natürlichste" auf der Welt).
+
+RB S. 45: Die Bibel erzählt ...
+
+RB S. 46ff: Die Entstehung der Bibel / Die Welt der Bibel
+
+Mit dem Atlas arbeiten - wo ist das Land Israel?
+Bilder aus dem Netz zeigen ...
+
+Den Beginn des Films "Abraham" zeigen: Welt der Bibel im AT (im NT sah nicht viel anders aus).
+
+Welche Geschichten aus der Bibel *lesen*?
+- Arche Noah
+- Turm von Babel
+- Abraham
+- Isaak, Jakob, ...
+- Ruth
+- etc.
+
+Nicht theoretisieren - die Bibel miteinander lesen; vorher beten. 
+
+Video:
+kathmedia deutsch (könnten etwas zu theoretisch sein?):
+- Warum offenbart sich Gott? [[https://www.youtube.com/watch?v=8euq2v67ayk]]
+- Wie hat sich Gott offenbart? [[https://www.youtube.com/watch?v=CJwtIBqCU0A]]
+- Wie wird die Offenbarung weitergegeben? [[https://www.youtube.com/watch?v=XS8rx1bNN3I]]
+- Wie ist die Bibel aufgebaut? [[https://www.youtube.com/watch?v=lgaCtR8Dwm8]]
+- Wer hat eigentlich beschlossen, was in die Bibel hineinkommt? [[https://www.youtube.com/watch?v=oQYjCOI1Bt0]]
+
+Bible Project:
+- Wie man die Bibel liest? [[https://www.youtube.com/watch?v=h1A10fb93b0]]
+- Die Geschichte der Bibel [[https://www.youtube.com/watch?v=UNKQf4QOZRU]]
 
 ** Hefteintrag
 Arbeitsweg
@@ -68,6 +106,9 @@ Mirjam, Sophie (Bauchweh) und Leonie waren ziemlich lang auf dem WC.
 
 
 * Schülerliste
+:PROPERTIES:
+:CUSTOM_ID: h:6180620d-2204-40a1-96fd-859d658272d3
+:END:
 #+Name: 2021-students
 |----------+---------------+------------------------+------+-----------+------+-----|
 | First    | Last          | Name                   | Note | Mitarbeit | Heft | LZK |
@@ -114,29 +155,36 @@ Mirjam, Sophie (Bauchweh) und Leonie waren ziemlich lang auf dem WC.
       print(':ID: ' + first + '' + last + '')
       print(':END: ')
       print('#+Name: Note_' + first + '' + last + '')
-      print('|-----------------------+-------+-------------+-----+-----------+------------|')
-      print('| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |')
-      print('|-----------------------+-------+-------------+-----+-----------+------------|')
-      print('|                       |       |             |     |           |            |')
-      print('#+TBLFM: $6=vmean($3..$5);%.0f')
+      print('|-------+-------------+-------+---------+-----------+------------|')
+      print('| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |')
+      print('|-------+-------------+-------+---------+-----------+------------|')
+      print('|       |             |       |         |           |            |')
+      print('#+tblfm: $2=@#-1')
+      print('#+TBLFM: $6=vmean($4..$5);%.0f')
       print('\n')
 #+END_SRC
 
 #+RESULTS:
 * Mitarbeit
+:PROPERTIES:
+:CUSTOM_ID: h:de9d129a-e320-46f4-9c7b-7cc0b820c3f5
+:END:
 
 ** Luca Auer
 :PROPERTIES:
 :EMAIL: [[mailto: Auer Luca <Auer.Luca@abtenau.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Luca_Auer.html
 :ID: LucaAuer
+:CUSTOM_ID: h:569f7b43-b72e-4ba8-b782-6eeaa3dc162b
 :END: 
 #+Name: Note_LucaAuer
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-----------------------+-------------+-------------------+---------+-----------+------------|
+| Datum                 | Lernjob Nr. | Topic             | LJ Note | Mitarbeit | Gesamtnote |
+|-----------------------+-------------+-------------------+---------+-----------+------------|
+| [2024-11-08 Fr 11:04] |           1 | Sturm auf dem See |       2 |         2 |          2 |
+| [2024-11-08 Fr 11:19] |           2 | Heilige           |       1 |         1 |          1 |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Noah Eckschlager
@@ -146,11 +194,12 @@ Mirjam, Sophie (Bauchweh) und Leonie waren ziemlich lang auf dem WC.
 :ID: NoahEckschlager
 :END: 
 #+Name: Note_NoahEckschlager
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Leonie Eder
@@ -160,11 +209,12 @@ Mirjam, Sophie (Bauchweh) und Leonie waren ziemlich lang auf dem WC.
 :ID: LeonieEder
 :END: 
 #+Name: Note_LeonieEder
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Noah Frey
@@ -174,11 +224,12 @@ Mirjam, Sophie (Bauchweh) und Leonie waren ziemlich lang auf dem WC.
 :ID: NoahFrey
 :END: 
 #+Name: Note_NoahFrey
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Angelina Gschwandtner
@@ -188,11 +239,12 @@ Mirjam, Sophie (Bauchweh) und Leonie waren ziemlich lang auf dem WC.
 :ID: AngelinaGschwandtner
 :END: 
 #+Name: Note_AngelinaGschwandtner
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Daniel Hitzenbichler
@@ -202,11 +254,12 @@ Mirjam, Sophie (Bauchweh) und Leonie waren ziemlich lang auf dem WC.
 :ID: DanielHitzenbichler
 :END: 
 #+Name: Note_DanielHitzenbichler
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Jonas Hornegger
@@ -216,11 +269,12 @@ Mirjam, Sophie (Bauchweh) und Leonie waren ziemlich lang auf dem WC.
 :ID: JonasHornegger
 :END: 
 #+Name: Note_JonasHornegger
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Miriam Kainhofer
@@ -230,11 +284,12 @@ Mirjam, Sophie (Bauchweh) und Leonie waren ziemlich lang auf dem WC.
 :ID: MiriamKainhofer
 :END: 
 #+Name: Note_MiriamKainhofer
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Sophia Nachbar
@@ -244,11 +299,12 @@ Mirjam, Sophie (Bauchweh) und Leonie waren ziemlich lang auf dem WC.
 :ID: SophiaNachbar
 :END: 
 #+Name: Note_SophiaNachbar
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Gabriel Promok
@@ -258,11 +314,12 @@ Mirjam, Sophie (Bauchweh) und Leonie waren ziemlich lang auf dem WC.
 :ID: GabrielPromok
 :END: 
 #+Name: Note_GabrielPromok
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Amelie Reiter
@@ -272,11 +329,12 @@ Mirjam, Sophie (Bauchweh) und Leonie waren ziemlich lang auf dem WC.
 :ID: AmelieReiter
 :END: 
 #+Name: Note_AmelieReiter
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Philipp Reiter
@@ -286,11 +344,12 @@ Mirjam, Sophie (Bauchweh) und Leonie waren ziemlich lang auf dem WC.
 :ID: PhilippReiter
 :END: 
 #+Name: Note_PhilippReiter
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Bastian Sandtner
@@ -300,11 +359,12 @@ Mirjam, Sophie (Bauchweh) und Leonie waren ziemlich lang auf dem WC.
 :ID: BastianSandtner
 :END: 
 #+Name: Note_BastianSandtner
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Luca Wallinger
@@ -314,11 +374,12 @@ Mirjam, Sophie (Bauchweh) und Leonie waren ziemlich lang auf dem WC.
 :ID: LucaWallinger
 :END: 
 #+Name: Note_LucaWallinger
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
 ** Benedict Wintersteller
@@ -328,10 +389,11 @@ Mirjam, Sophie (Bauchweh) und Leonie waren ziemlich lang auf dem WC.
 :ID: BenedictWintersteller
 :END: 
 #+Name: Note_BenedictWintersteller
-|-----------------------+-------+-------------+-----+-----------+------------|
-| Datum                 | Topic | Heft / Buch | LZK | Mitarbeit | Gesamtnote |
-|-----------------------+-------+-------------+-----+-----------+------------|
-|                       |       |             |     |           |            |
-#+TBLFM: $6=vmean($3..$5);%.0f
+|-------+-------------+-------+---------+-----------+------------|
+| Datum | Lernjob Nr. | Topic | LJ Note | Mitarbeit | Gesamtnote |
+|-------+-------------+-------+---------+-----------+------------|
+|       |             |       |         |           |            |
+#+tblfm: $2=@#-1
+#+TBLFM: $6=vmean($4..$5);%.0f
 
 
