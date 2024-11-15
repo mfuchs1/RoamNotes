@@ -16,6 +16,8 @@
 
 http://www.veritas.at/code (rfu300)
 
+* Notizen, Tasks, Termine
+
 * Stundenplanung
 
 ** Einführung  / Ziele

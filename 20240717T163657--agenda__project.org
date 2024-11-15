@@ -351,6 +351,12 @@ DEADLINE: <2024-11-05 Di 17:00>
 :CAPTURED: [2024-11-05 Di 09:35]
 :END:
 
+** TODO SZ (Parken) zahlen                                             :home:
+DEADLINE: <2024-11-15 Fr 14:00>
+:PROPERTIES:
+:CAPTURED: [2024-11-15 Fr 10:18]
+:END:
+
 
 
 * Wishlist
@@ -419,4 +425,20 @@ Ich möchte wissen, wo der Post eingefügt wird.
 und wo steht dieser Post?
 
 [[file:~/.emacs.d/init.el::("a" "Appointement --> gcal" entry]]
+
+** Ein Versuch
+:PROPERTIES:
+:CAPTURED: [2024-11-12 Di 09:17]
+:END:
+
+[[denote:20240908T214359::#h:3e799bd5-ef66-401b-998f-01056c9c1af8][B Klasse 2022-26::Notizen, Tasks, Termine]]
+
+** Error Logs
+:PROPERTIES:
+:CAPTURED: [2024-11-12 Di 09:37]
+:END:
+
+Error during redisplay: (eval (concat (prot-modeline-major-mode-indicator) " " (propertize (prot-modeline-string-truncate (prot-modeline-major-mode-name)) 'mouse-face 'mode-line-highlight 'help-echo (prot-modeline-major-mode-help-echo)))) signaled (wrong-type-argument number-or-marker-p nil) [2 times]
+
+[[denote:20231115T074319::#h:cc85bc8e-1bbf-4430-90aa-8419a0a29ac2][org-gcal::Test Event]]
 

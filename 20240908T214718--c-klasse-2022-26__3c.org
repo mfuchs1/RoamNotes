@@ -14,6 +14,17 @@
 * Jahresplanung
 [[denote:20240709T110253][Jahresplanung 03]]
 
+* Notizen, Tasks, Termine
+:PROPERTIES:
+:CUSTOM_ID: h:e1e667db-4277-4e78-ab55-74de2eee8774
+:END:
+
+** 3c Englisch FÖ
+:PROPERTIES:
+:CUSTOM_ID: h:73f28e21-4e39-4a6d-9ee6-adcde78b9bf5
+:END:
+<2024-11-14 Do 10:30-11:20>
+
 * Stundenplanung
 
 ** Einführung / Ziele
@@ -34,7 +45,8 @@ Wie war RU?
 :END:
 Islam weiter machen (Kapitel 5); würde dieses Thema als Gruppenarbeit funktionieren? Jede Gruppe stellt einen Teil des Islam vor (mit einem Plakat).
 
-Doku über den Islam
+Doku über den Islam / Heftarbeit über "Islam".
+(In der der 3a hat jeder alles gemacht; in der 3c könnte ich das Thema aufteilen? Oder doch wie in der 3a?)
 
 ** Hefteintrag
 Arbeitsweg 1 - 4

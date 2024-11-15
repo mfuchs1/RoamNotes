@@ -14,6 +14,12 @@
 * Jahresplanung
 [[denote:20240709T110253][Jahresplanung 03]]
 
+* Notizen, Tasks, Termine
+:PROPERTIES:
+:CUSTOM_ID: h:3e799bd5-ef66-401b-998f-01056c9c1af8
+:END:
+
+
 * Stundenplanung
 
 ** Einführung / Ziele

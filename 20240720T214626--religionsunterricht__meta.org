@@ -87,6 +87,15 @@ Für nächste Woche suche ich noch nach Themen, leider fällt mir derzeit gar ni
 :END:
 Heute gehe ich mit den Störungen im Unterricht gelassener um; hoffentlich hält das an. Im Grunde darf ich diese Störungen nicht persönlich nehmen, ein bisschen Humor / Sarkasmus hilft. Und trotzdem klar sein; z.B. in der 2a / Lernschiene: alle bleiben in der Klasse. In der 4b ließ ich ein paar Schüler hinaus. Die nächste Stunde dürfen andere zur Lerninsel.
 
+** Wie plane ich meinen Unterricht?
+:PROPERTIES:
+:CAPTURED: [2024-11-15 Fr 08:28]
+:END:
+Mit dem aktuellen Setup bin ich einigermaßen zufrieden. Es ist noch nicht perfekt. Z.B. bin ich mir noch unklar, wie ich die konkrete Jahres- und Wochenplanung mache. In den Jahres davor hab ich eine fixe Jahresplanung erstellt, und in der =org-agenda= wurde das aktuelle Thema der einzelnen Schulstufen angezeigt.
+
+Im Moment ist es mir zu "unpräzise"; ... die obige Idee würde nur vier weitere Dateien der =org-agenda= hinzufügen.
+
+Ich muss es einfach einmal probieren und sehen, ob dies mir besser passt.
 
 
 * Tasks

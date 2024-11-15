@@ -67,3 +67,10 @@
 :CUSTOM_ID: h:f956f5da-6818-47c9-96e9-98164e8ff28c
 :END:
 
+* Thoughts on the Gateron Yellow mechanical key switches | Protesilaos Stavrou
+:PROPERTIES:
+:CREATED: [2024-11-15 Fr 10:22]
+:SOURCE: https://protesilaos.com/keeb/2024-11-14-gateron-yellow-mechanical-key-switches/
+:END:
+In almost one year of using mechanical keyboards, I have spent about half my time with tactile switches and the remainder with linear ones. The switch I have used the most is the Keychron K Pro Silver (Thoughts on the Keychron Banana and Silver mechanical key switches).
+

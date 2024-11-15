@@ -16,9 +16,11 @@
 
 http://www.veritas.at/code (rfu400) für Material und Übungen
 
+* Notizen, Tasks, Termine
+
 * Stundenplanung
 
-* Einführung / Ziele
+** Einführung / Ziele
 Persönliche Vorstellung;
 
 Bücher aus "Warteklasse" holen
@@ -49,6 +51,8 @@ Buch der Offenbarung (Teil 1 und 2)
 
 [[https://www.youtube.com/watch?v=-daqkqk5k28]]
 [[https://www.youtube.com/watch?v=Pl_LqxxFFAo]]
+
+Haben letzte Stunde ... / ... Petrus und Paulus? Erste Christen?
 
 
 ** Hefteintrag

@@ -14,6 +14,8 @@
 * Jahresplanung
 [[denote:20240708T214317][Jahresplanung 02]]
 
+* Notizen, Tasks, Termine
+
 * Lernschiene
 [[file:~/OneDrive/Dokumente/Religion_Lernschiene/]]
 
