@@ -25,20 +25,20 @@ http://www.veritas.at/code (rfu100)
 * Lernschiene
 [[file:~/OneDrive/Dokumente/Religion_Lernschiene/]]
 
-Alle Themen (Überblick):
-- Der Sturm auf dem See
-- Der Sonnengesang
-- Heilige
-- Heilige Orte
-- Die Adventzeit
-- Beten
-- Menschen zur Zeit Jesu
-- Neues Testament
-- Hl. Blasius / Hl. Rupert
-- Die Schriften von Qumran
-- Liturgische Farben im Kirchenjahr
-- Kalenderzeiten und Lebenskreise
-- Das Osterfest
+** Alle Themen (Überblick) [2/13]
+- [X] Der Sturm auf dem See
+- [ ] Der Sonnengesang
+- [X] Heilige
+- [ ] Heilige Orte
+- [ ] Die Adventzeit
+- [ ] Beten
+- [ ] Menschen zur Zeit Jesu
+- [ ] Neues Testament
+- [ ] Hl. Blasius / Hl. Rupert
+- [ ] Die Schriften von Qumran
+- [ ] Liturgische Farben im Kirchenjahr
+- [ ] Kalenderzeiten und Lebenskreise
+- [ ] Das Osterfest
 
 * Stundenplanung
 

@@ -19,8 +19,10 @@
 * Lernschiene
 [[file:~/OneDrive/Dokumente/Religion_Lernschiene/]]
 
-- Hl. Franziskus
-- Hl. Blasius / Hl. Rupert (erste Klasse!)
+** Themen [1/3]
+- [X] Hl. Franziskus
+- [ ] Hl. Abraham
+- [ ] David
 
 * Stundenplanung
 
