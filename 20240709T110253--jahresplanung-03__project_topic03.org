@@ -1,9 +1,9 @@
 #+title:      Jahresplanung 03
 #+date:       [2024-07-09 Di 11:02]
-#+filetags:   :03:Project:
+#+filetags:   :Project:topic03:
 #+identifier: 20240709T110253
 #+LANGUAGE: de
-#+CATEGORY: 03
+#+CATEGORY: topic 03
 #+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
 #+SETUPFILE: ~/RoamNotes/config/latex_setup.org
 #+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
@@ -97,10 +97,14 @@ Kirchenjahr – Fastenzeit
 - Eine bleibende Erfahrung (Kap. 3.5, S. 60)
 
 ** Basisseiten und Empfehlungen
-*** [[denote:20241115T082021][Grenzenlose Freiheit?]]
-DEADLINE: <2024-11-11 Mo>
+*** DONE [[denote:20241115T082021][Grenzenlose Freiheit?]]
+CLOSED: [2024-11-16 Sa 10:46] DEADLINE: <2024-11-11 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-11-16 Sa 10:46]
+:END:
+
 *** Die Sehnsucht nach Freiheit
-DEADLINE: <2024-11-18 Mo>
+SCHEDULED: <2024-11-18 Mo>
 *** Impuls: Befreiender Glaube
 *** Übergang: Israel - ein unterdrücktes Volk
 *** Exodus - das Wunder der Befreiung

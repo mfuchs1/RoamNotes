@@ -1,6 +1,6 @@
 #+title:      Jahresplanung 04
 #+date:       [2024-07-19 Fr 13:15]
-#+filetags:   :04:schule:
+#+filetags:   :Project:topic04:
 #+identifier: 20240719T131544
 
 * Gemeinschaft | Gewissen - der inneren Stimme folgen (Kapitel 1)
@@ -24,15 +24,16 @@ Wie nachhaltig ist unsere Schule?
 Wie gehen wir in unserer Schulgemeinschaft miteinander um. 
 
 ** Basisseiten und Empfehlungen
-- [[denote:20240909T205227][Was ist gut und richtig?]]
-- [[denote:20240909T205419][Ein gutes Gewissen]]
-- [[denote:20240909T205442][Dem Gewissen folgen]]
-- [[denote:20240909T205456][Impuls: Ein Dilemma]]
-- Übergang: Der Ruf nach Veränderung
-- Prophetinnen und Propheten
-- Eine bessere Welt
-- Reflexion: Kann mich diese Gemeinschaft stärken?
-- Übungsteil
+*** [[denote:20240909T205227][Was ist gut und richtig?]]
+*** [[denote:20240909T205419][Ein gutes Gewissen]]
+*** [[denote:20240909T205442][Dem Gewissen folgen]]
+*** [[denote:20240909T205456][Impuls: Ein Dilemma]]
+*** Übergang: Der Ruf nach Veränderung
+*** Prophetinnen und Propheten
+*** Eine bessere Welt
+*** Reflexion: Kann mich diese Gemeinschaft stärken?
+*** Übungsteil
+
 
 * Fragen | Sinn - Ziele im Leben finden (Kapitel 2)
 November bis Februar
@@ -56,17 +57,17 @@ Fächerübergreifendes Arbeiten
 Berufsorientierung – Berufsvorbereitung
 
 ** Basisseiten und Empfehlungen 
-- Was möchtest du einmal machen?
-- Vom Beruf zur Berufung
-- Sehnsüchte und Sorgen
-- Impuls: Ein Brief an mich selbst
-- Übergang: Dystopien und Utopien
-- Wie geht es mit unserer Welt weiter?
-- Was kommt nach dem Tod?
-- Unser Leben nach dem Tod?
-- Jenseitsvorstellungen in den Religionen
-- Reflexion: Können mich diese Fragen bewegen?
-- Übungsteil
+*** Was möchtest du einmal machen?
+*** Vom Beruf zur Berufung
+*** Sehnsüchte und Sorgen
+*** Impuls: Ein Brief an mich selbst
+*** Übergang: Dystopien und Utopien
+*** Wie geht es mit unserer Welt weiter?
+*** Was kommt nach dem Tod?
+*** Unser Leben nach dem Tod?
+*** Jenseitsvorstellungen in den Religionen
+*** Reflexion: Können mich diese Fragen bewegen?
+*** Übungsteil
 
 * Glaube | Auferstehung - den Tod überwinden (Kapitel 3)
 März bis April
@@ -94,17 +95,18 @@ Kirchenjahr – Fastenzeit - Ostern
 (Kap. 3.7, S. 60)
 
 ** Basisseiten und Empfehlungen
-- Scheitern und Neubeginn
-- Impuls: (Zu) hohe Erwartungen?
-- Übergang: Jesus, der gescheiterte Messias?
-- Jesus, gescheitert am Kreuz?
-- Ankunft und Aufruhr
-- Abschied und Einsamkeit
-- Verleugnung und Tod
-- Auferstehung und Befreiung
-- Aufbruch und Neuanfang
-- Reflexion: Kann mich dieser Glaube tragen?
-- Übungsteil
+*** Scheitern und Neubeginn
+*** Impuls: (Zu) hohe Erwartungen?
+*** Übergang: Jesus, der gescheiterte Messias?
+*** Jesus, gescheitert am Kreuz?
+*** Ankunft und Aufruhr
+*** Abschied und Einsamkeit
+*** Verleugnung und Tod
+*** Auferstehung und Befreiung
+*** Aufbruch und Neuanfang
+*** Reflexion: Kann mich dieser Glaube tragen?
+*** Übungsteil
+
 
 * Kirche | Firmung - ein Teil der Gemeinschaft werden (Kapitel 4)
 April bis Mai
@@ -125,15 +127,15 @@ Kooperation mit Pfarre
 Wenn sich in der 7. Schulstufe die Mehrheit der Schüler:innen auf das Sakrament der Firmung vorbereitet, könnte das Thema zur Unterstützung der pfarrlichen Firmvorbereitung erarbeitet werden.
 
 ** Basisseiten und Empfehlungen
-- Was bringt uns die Kirche?
-- Die Aufgaben der Kirche
-- Gelebte Gemeinschaft
-- Impuls: Empathie - Schlüssel für das Miteinander
-- Übergang: Kirche - bist du dabei?
-- Junge Menschen gestalten die Kirche
-- Das Sakrament der Firmung
-- Reflexion: Kann uns diese Kirche verbinden?
-- Übungsteil
+*** Was bringt uns die Kirche?
+*** Die Aufgaben der Kirche
+*** Gelebte Gemeinschaft
+*** Impuls: Empathie - Schlüssel für das Miteinander
+*** Übergang: Kirche - bist du dabei?
+*** Junge Menschen gestalten die Kirche
+*** Das Sakrament der Firmung
+*** Reflexion: Kann uns diese Kirche verbinden?
+*** Übungsteil
 
 * Welt | Kunst - das Leben ausdrücken (Kapitel 5)
 Mai bis Juni
@@ -157,16 +159,16 @@ Exkursion
 Welche Art religiöser Kunst findet sich in meinem Wohnort / in meiner Pfarre / in der Umgebung meiner Schule?
 
 ** Basisseiten und Empfehlungen
-- Unsere Sinn-Zeichen
-- Impuls: Ästhetische Mutmacher
-- Tattoos - Der Körper als Sinn-Träger
-- Mit Kunst auf Sinn-Suche
-- Übergang: Vorstellungen vom Ende
-- Bilder vom Ende
-- Religiöse Kunst
-- Religion prägt unsere Welt
-- Reflexion: Wie prägt uns diese Welt?
-- Übungsteil
+*** Unsere Sinn-Zeichen
+*** Impuls: Ästhetische Mutmacher
+*** Tattoos - Der Körper als Sinn-Träger
+*** Mit Kunst auf Sinn-Suche
+*** Übergang: Vorstellungen vom Ende
+*** Bilder vom Ende
+*** Religiöse Kunst
+*** Religion prägt unsere Welt
+*** Reflexion: Wie prägt uns diese Welt?
+*** Übungsteil
 
 * Vielfalt | Asiatische Religionen - dem Kreislauf des Lebens folgen (Kapitel 6)
 Mai bis Juni /oder vorverlegen auf November bis Februar/ 
@@ -189,16 +191,16 @@ Interreligiöser Dialog
 Feste und Feiern in der religiösen Vielfalt über das Schuljahr hinweg ansprechen
 
 ** Basisseiten und Empfehlungen
-- Religionen suchen nach Antworten
-- Impuls: Religion - Freiheit oder Einschränkung?
-- Übergang: Buddha im Baumarkt
-- Hindu-Religionen und Buddhismus
-- Die vielen Götter der Hindu-Religionen
-- Samsara - das Leben als Kreislauf
-- Glaubensleben in den Hindu-Religionen
-- Siddharta Gautama - der erste Buddha
-- Vier Wahrheiten, acht Wege
-- Glaubensleben im Buddhismus
-- Die religiöse Vielfalt Asiens
-- Reflexion: Kann uns diese Vielfalt einen?
-- Übungsteil
+*** Religionen suchen nach Antworten
+*** Impuls: Religion - Freiheit oder Einschränkung?
+*** Übergang: Buddha im Baumarkt
+*** Hindu-Religionen und Buddhismus
+*** Die vielen Götter der Hindu-Religionen
+*** Samsara - das Leben als Kreislauf
+*** Glaubensleben in den Hindu-Religionen
+*** Siddharta Gautama - der erste Buddha
+*** Vier Wahrheiten, acht Wege
+*** Glaubensleben im Buddhismus
+*** Die religiöse Vielfalt Asiens
+*** Reflexion: Kann uns diese Vielfalt einen?
+*** Übungsteil

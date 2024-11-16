@@ -12,7 +12,24 @@
 #+STARTUP: showall
 #+export_file_name: ~/RoamNotes/exports/Agenda.html
 
+* Pausenaufsicht
+:PROPERTIES:
+:CATEGORY: pause
+:END:
+
+** PA (1. OG) 11:20-11:30                                               :PA:
+<%%(org-class 2024 9 9 2025 6 30 1 44)>
+
+** PA (1. OG)  07:30-07:45                                              :PA:
+<%%(org-class 2024 9 10 2025 7 1 2 44)>
+
+** PA (1. OG) 09:25-09:40                                               :PA:
+<%%(org-class 2024 9 13 2025 7 4 5 44)>
+
 * Stundenplan                                                  
+:PROPERTIES:
+:CATEGORY: schedule
+:END:
 
 ** Montag
 
@@ -31,9 +48,6 @@
 <%%(org-class 2024 9 9 2025 6 30 1 44)>
 [[denote:20240908T214029][A Klasse 2023-27]]
 
-*** PA (1. OG) 11:20-11:30                                             :PA:
-<%%(org-class 2024 9 9 2025 6 30 1 44)>
-
 *** 4b 11:30-12:20                                                     :4b:
 <%%(org-class 2024 9 9 2025 6 30 1 44)>
 [[denote:20240908T214223][B Klasse 2021-25]]
@@ -46,9 +60,6 @@
 [[denote:20240908T214254][A Klasse 2022-26]]
 
 ** Dienstag
-
-*** PA (1. OG)  07:30-07:45                                            :PA:
-<%%(org-class 2024 9 10 2025 7 1 2 44)>
 
 *** 4b 07:45-08:35                                                     :4b:
 <%%(org-class 2024 9 10 2025 7 1 2 44)>
@@ -125,9 +136,6 @@ Unterricht heute (10.09.) um 10:15 beenden.
 <%%(org-class 2024 9 13 2025 7 4 5 44)>
 [[denote:20240908T214718][C Klasse 2022-26]]
 
-*** PA (1. OG) 09:25-09:40                                             :PA:
-<%%(org-class 2024 9 13 2025 7 4 5 44)>
-
 *** 3b 09:40-10:30                                                     :3b:
 <%%(org-class 2024 9 13 2025 7 4 5 44)>
 [[denote:20240908T214359][B Klasse 2022-26]]
@@ -141,6 +149,9 @@ Unterricht heute (10.09.) um 10:15 beenden.
 [[denote:20240908T214000][A Klasse 2024-28]]
 
 * Tasks
+:PROPERTIES:
+:CATEGORY: tasks
+:END:
 
 ** DONE Papagei füttern
 CLOSED: [2024-07-19 Fr 12:06] DEADLINE: <2024-07-17 Mi 18:00>
@@ -234,7 +245,22 @@ CLOSED: [2024-09-20 Fr 07:46] DEADLINE: <2024-09-19 Do 20:00>
 - State "DONE"       from "TODO"       [2024-09-20 Fr 07:46]
 :END:
 
+** DONE [#A] Tabelle für LS erstellen                                 :home:
+CLOSED: [2024-11-16 Sa 11:03] DEADLINE: <2024-11-05 Di 21:00>
+:PROPERTIES:
+:CAPTURED: [2024-11-05 Di 09:32]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2024-11-16 Sa 11:03]
+:END:
+
+Klassen: 1a, 1b, 1c, 1d, 2a
+LS Nummer / Titel / Abgabetermin bzw -datum
+
 * Tasks with a date
+:PROPERTIES:
+:CATEGORY: tasks&date
+:END:
 
 ** DONE Neuer Eintrag                                                 :test:
 CLOSED: [2024-09-26 Do 21:04] DEADLINE: <2024-09-20 Fr 20:00>
@@ -336,32 +362,32 @@ CLOSED: [2024-11-06 Mi 10:09] DEADLINE: <2024-11-05 Di 15:30>
 - State "DONE"       from "TODO"       [2024-11-06 Mi 10:09]
 :END:
 
-** TODO [#A] Tabelle für LS erstellen                                 :home:
-DEADLINE: <2024-11-05 Di 21:00>
-:PROPERTIES:
-:CAPTURED: [2024-11-05 Di 09:32]
-:END:
-
-Klassen: 1a, 1b, 1c, 1d, 2a
-LS Nummer / Titel / Abgabetermin bzw -datum
-
 ** TODO Installateur (Notdienst) anrufen                               :home:
 DEADLINE: <2024-11-05 Di 17:00>
 :PROPERTIES:
 :CAPTURED: [2024-11-05 Di 09:35]
 :END:
 
-** TODO SZ (Parken) zahlen                                             :home:
-DEADLINE: <2024-11-15 Fr 14:00>
+** DONE SZ (Parken) zahlen                                            :home:
+CLOSED: [2024-11-16 Sa 10:18] DEADLINE: <2024-11-15 Fr 14:00>
 :PROPERTIES:
 :CAPTURED: [2024-11-15 Fr 10:18]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2024-11-16 Sa 10:18]
 :END:
 
 
 
 * Wishlist
+:PROPERTIES:
+:CATEGORY: wishlist
+:END:
 
 * Unprocessed
+:PROPERTIES:
+:CATEGORY: unprocessed
+:END:
 
 ** Ein neuer Eintrag
 :PROPERTIES:
