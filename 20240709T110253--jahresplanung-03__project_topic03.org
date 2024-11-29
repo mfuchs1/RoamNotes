@@ -103,8 +103,12 @@ CLOSED: [2024-11-16 Sa 10:46] DEADLINE: <2024-11-11 Mo>
 - State "DONE"       from              [2024-11-16 Sa 10:46]
 :END:
 
-*** Die Sehnsucht nach Freiheit
-SCHEDULED: <2024-11-18 Mo>
+*** DONE Die Sehnsucht nach Freiheit
+CLOSED: [2024-11-24 So 15:36] SCHEDULED: <2024-11-18 Mo>
+:LOGBOOK:
+- State "DONE"       from              [2024-11-24 So 15:36]
+:END:
+
 *** Impuls: Befreiender Glaube
 *** Übergang: Israel - ein unterdrücktes Volk
 *** Exodus - das Wunder der Befreiung

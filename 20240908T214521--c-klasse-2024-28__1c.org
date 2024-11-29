@@ -20,12 +20,15 @@
 * Lernschiene
 [[file:~/OneDrive/Dokumente/Religion_Lernschiene/]]
 
-** Alle Themen (Überblick) [2/13]
+** Alle Themen (Überblick) [3/13]
+:PROPERTIES:
+:CUSTOM_ID: h:bdab5f53-6dbd-4cba-a76c-50d348e5d655
+:END:
 - [X] Der Sturm auf dem See
-- [ ] Der Sonnengesang
+- [X] Der Sonnengesang
 - [X] Heilige
 - [ ] Heilige Orte
-- [ ] Die Adventzeit
+- [ ] Die Adventszeit
 - [ ] Beten
 - [ ] Menschen zur Zeit Jesu
 - [ ] Neues Testament
@@ -60,15 +63,27 @@ einige ABs sind zu kopieren!
 :PROPERTIES:
 :CUSTOM_ID: h:2f19ed33-db95-48ba-8bd2-02f932c70f11
 :END:
-LS - Heilige
+Diesmal keine Lernschiene, sondern die Adventskranz Weihe vorbereiten.
 
-Dienstag: Allerheiligen / Allerseelen nachbesprechen
-Was sind Heilige? Welche Heilige kennt ihr? Wie werden sie dargestellt?
+[[denote:20241127T145419][Geschichte Adventskranz]]
 
-Unsere Berufung zur Heiligkeit - Sehnsucht nach dem Himmel.
-Jesus sagt: "Ich bin die Auferstehung und das Leben." (Joh 11)
+Fürbitte bedeutet Einstehen für (die Anliegen) andere(r) Menschen vor Gott. Nur echt, wenn wir auch bereit sind, unseren Beitrag zur Verwirklichung zu leisten. Sind keine Moralappelle an die Anwesenden oder Anweisung an Gott, wie er zu handeln hat. Sollen einfach formuliert sein und dem Glauben entsprechen. Keine Banalitäten; keine Zumutungen an andere. 
 
-Erster Johannesbrief 3
+Fürbitten - die Kinder die Fürbitten formulieren lassen. Die folgenden Fürbitten verwenden, wenn von Kindern gar nichts kommt:
+- Frieden :: Gott, unser Vater, befreie die Welt von Zwietracht und Krieg, damit die Menschen in Frieden miteinander leben können. Frieden dort wo Krieg ist / Frieden in unseren Herzen / in unseren Familien.
+  Gott, unser Vater, wir beten für jene, die miteinander streiten; lass sie Wege der Versöhnung finden.
+
+- Glaube :: Gott, unser Vater, du hast uns zum Glauben berufen. Festige unseren Glauben in Stunden
+des Zweifels und mache uns standhaft gegen alle Anfeindungen.
+
+Du bist der Lebendige; schenke allen, die an dich glauben, das ewige Leben.
+
+- Liebe :: Gott, unser Vater, wir beten für jene, die einsam und krank sind; lass sie deine Liebe spüren.
+  
+- Hoffnung :: Du Licht der Welt, auf das Simeon mit allen Gerechten gewartet hat, komm und tröste alle, die auf dich warten.
+
+  Gott, unser Vater, stärke in uns die Zuversicht, dass du die Kirche mit deinem Heiligen
+Geist führst und leitest. 
 
 
 ** Hefteintrag
@@ -104,6 +119,18 @@ Unglaublich, wie unruhig es heute war. Zuerst einmal denke ich an gestern (Resil
 Alle Minuten musste jemand aufs Klo, hatte eine Frage (die er eigentlich selbst beantworten könnte), ...
 
 Paul hat den Chat mit Nachrichten geflutet.
+
+** Respektloses Verhalten
+:PROPERTIES:
+:CAPTURED: [2024-11-26 Di 12:34]
+:DESCRIPTION: [[denote:20241126T123957][Die Welt der Bibel]]
+:END:
+Schüler waren respektlos mit mir, lasse sie den Lernstoff der Stunde ins Heft schreiben - hat null Wirkung! Schüler waren weiterhin respektlos und haben die Situation noch ins Lächerliche gezogen. Paul bekam eine Zusatzaufgabe.
+
+Natürlich wird dann meine Maßnahme hinterfragt (Warum wir alle?); obwohl ja eigentlich so gut wie alle mitgemacht haben.
+
+Oder: warum haben Sie den Gitarrenunterricht auf Teams angelegt? etc. Es wird gerotzt, ...
+
 
 * Schülerliste
 #+Name: 2021-students

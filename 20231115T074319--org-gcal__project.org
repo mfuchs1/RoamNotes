@@ -332,3 +332,71 @@
 <2024-11-14 Do 19:30-20:30>
 :END:
 
+* Konferenz November
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3465130820702000"
+:entry-id: 4242ur7nregcn1epcogu84immc/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2024-11-26 Di 15:50-17:50>
+:END:
+
+* Supplierstunde 4c M
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3465141269952000"
+:entry-id: qcsagoqvhmr0roc59m1op3dstg/matthiasfuchs01@gmail.com
+:CUSTOM_ID: h:764921dd-89b8-4e59-b9f0-a44b76ebacab
+:END:
+:org-gcal:
+<2024-11-28 Do 09:40-10:30>
+:END:
+
+* Supplierstunde 1c E
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3465141389362000"
+:entry-id: b2scc0qvo6c9k8uvkq7utp5ma0/matthiasfuchs01@gmail.com
+:CUSTOM_ID: h:181f86be-6809-417c-a096-17e4c26de4bb
+:END:
+:org-gcal:
+<2024-11-29 Fr 08:35-09:25>
+:END:
+
+* Supplierstunde 1b M
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3465141492070000"
+:entry-id: gt8du0u4tgt7kfcca84k1d9cbk/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2024-11-29 Fr 09:40-10:30>
+:END:
+
+* Supplierstunde 1b KUG
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3465724245244000"
+:entry-id: 2fnkl21jngsjah0iu810n2ofek/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2024-11-29 Fr 10:30-11:20>
+:END:
+
+* Adventskranzweihe
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3465725789588000"
+:entry-id: 4105jpi600jp9d8ihu7jduqfdc/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2024-11-29 Fr 09:45-10:05>
+:END:
+

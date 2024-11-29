@@ -15,14 +15,21 @@
 [[denote:20240708T214317][Jahresplanung 02]]
 
 * Notizen, Tasks, Termine
+Bzgl LS Physik - viele der Versuche funktionieren kaum; oder bieten va Burschen Möglichkeiten zu Dummheiten
+
+Wer nicht Religion geht - Lerninsel im 2. Stock und in Ruhe die HÜ machen (Bsp.).
 
 * Lernschiene
 [[file:~/OneDrive/Dokumente/Religion_Lernschiene/]]
 
-** Themen [1/3]
+** Themen [2/4]
+:PROPERTIES:
+:CUSTOM_ID: h:ffe5604c-653b-4d2b-a35b-6b176cb7a705
+:END:
 - [X] Hl. Franziskus
-- [ ] Hl. Abraham
+- [X] Abraham
 - [ ] David
+- [ ] Begleiter im Advent
 
 * Stundenplanung
 
@@ -34,54 +41,59 @@ Gemeinsames Lied.
 ** Wiederholung
 Wie war RU?
 
+** LS 2a:
+:PROPERTIES:
+:CUSTOM_ID: h:93b9aa32-18ec-4187-ba6b-8214a0f22423
+:END:
+- Der Rosenkranz
+- Gott ruft mich beim Namen
+- Mein Namenspatron
+- Abraham
+- Heilige Schrift
+- Begleiter im Advent
+
+
 ** Themen
 :PROPERTIES:
 :CUSTOM_ID: h:8938bd1e-d921-4eba-a69b-9f903c3a2c67
 :END:
-LS:
-- Der Rosenkranz
-- Gott ruft mich beim Namen
-- Mein Namenspatron
+
+*** Judentum - Doppelseite (?)
+:PROPERTIES:
+:CUSTOM_ID: h:21e513b3-ea65-43fa-a32d-ad8ee6b56e05
+:END:
+
+sauber, ordentlich, vollständig (Form!)
+
+- Schm'a Israel / Glaube an einen Gott 
+- Schabbat
+- Feste
+- Symbole und Gegenstände
+- Synagoge / Rabbiner
+- Bar Mizwa
+- ?
+
+https://www.religionen-entdecken.de
+
+Checker Tobi "Judentum" [[https://www.youtube.com/watch?v=I1bA-uUvBao]]
+
+Judentum: Wie lebt es sich in einer jüdischen Gemeinde? | 7 Tage | NDR  [[https://www.youtube.com/watch?v=_Q3pNOsJlr0]]
+
+Judentum - 3 kleine Dokumentationen https://www.youtube.com/watch?v=oONS7kBUNgE
+
+Übungsteil im RB
+Vergleich zwischen Christentum und Judentum
+
+Abraham / Isaak / Jakob (Stammbaum)
 
 
-
-RB S. 59-65
-
-Glaube an den einen Gott: Judentum, Christen, Islam
-
-Abschnitte aus der Bibel lesen (Gen: Abraham, Isaak, Jakob); das wird nicht funktionieren.
-
-Übungsteil: das Kreuzworträtsel eher schon - wie mache ich "Druck"? Nach ... Minuten schaue ich mir das Buch an - je nach Fortschritt gibt es eine Note? Was mache ich mit Schülern, die nix machen? das ist keine Mitarbeit - wird notiert. Wer "brav" arbeitet, wird positiv vermerkt. Wer nicht fertig wird, zeigt mir die Übungen nächste Stunde - unaufgefordert.
+*** Advent
+Maria nimmt uns alle unter ihren Mantel
 
 ** Hefteintrag
 Arbeitsweg 1 - 4
 
 http://www.veritas.at/code (rfu300)
-
-* Reflexionen
-:PROPERTIES:
-:CUSTOM_ID: h:6f5cf25d-9df6-4985-ab8d-d0d6171cf968
-:END:
-** Vorfall am Montag
-:PROPERTIES:
-:CAPTURED: [2024-10-17 Do 09:52]
-:DESCRIPTION: [[denote:20240908T214029::#h:6f5cf25d-9df6-4985-ab8d-d0d6171cf968][A Klasse 2023-27::Reflexionen]]
-:END:
-Gespräche mit Gabi und Lena. Email einer Mutter.
-
-In dieser Stunde war es generell sehr laut; zwei Schüler (Christian und Daniel) haben sich nicht und nicht an meine Anweisungen gehalten; das geht gar nicht. Im Zuge dieser Unruhe ist wahrscheinlich das Wort "dumm" gefallen. Das tut mir sehr leid, wenn dies so angekommen wäre, ich würde alle Schüler als "dumm" bezeichnen. das ist niemals meine Absicht. Wahrscheinlich wurden hier Wörter aus dem Kontext gerissen.
-
-Auf der anderen Seite können wir als Lehrer so ein Verhalten wie letzte Stunde nicht akzeptieren. Wir behandeln euch mit Respekt, dann erwarten wir ebenso Respekt uns gegenüber.
-
-Ich hoffe, wir können dieses Thema damit abschließen und neu beginnen.
-
-** Lernschiene
-:PROPERTIES:
-:CAPTURED: [2024-11-04 Mo 11:08]
-:DESCRIPTION: [[denote:20240908T214029::#h:8938bd1e-d921-4eba-a69b-9f903c3a2c67][A Klasse 2023-27::Themen]]
-:END:
-Daniel und Daniel arbeiten so gut wie gar nicht; (Wie lange haben Schüler Ziet für einen Lernjob?) sie trinken die ganze Stunde, träumen, .... es geht nichts weiter, und zwar in keinem Fach.
-
 
 * Schülerliste
 #+Name: 2021-students
@@ -382,4 +394,35 @@ Daniel und Daniel arbeiten so gut wie gar nicht; (Wie lange haben Schüler Ziet 
 #+tblfm: $2=@#-1
 #+TBLFM: $6=vmean($4..$5);%.0f
 
+* Reflexionen
+:PROPERTIES:
+:CUSTOM_ID: h:6f5cf25d-9df6-4985-ab8d-d0d6171cf968
+:END:
+** Vorfall am Montag
+:PROPERTIES:
+:CAPTURED: [2024-10-17 Do 09:52]
+:DESCRIPTION: [[denote:20240908T214029::#h:6f5cf25d-9df6-4985-ab8d-d0d6171cf968][A Klasse 2023-27::Reflexionen]]
+:END:
+Gespräche mit Gabi und Lena. Email einer Mutter.
 
+In dieser Stunde war es generell sehr laut; zwei Schüler (Christian und Daniel) haben sich nicht und nicht an meine Anweisungen gehalten; das geht gar nicht. Im Zuge dieser Unruhe ist wahrscheinlich das Wort "dumm" gefallen. Das tut mir sehr leid, wenn dies so angekommen wäre, ich würde alle Schüler als "dumm" bezeichnen. das ist niemals meine Absicht. Wahrscheinlich wurden hier Wörter aus dem Kontext gerissen.
+
+Auf der anderen Seite können wir als Lehrer so ein Verhalten wie letzte Stunde nicht akzeptieren. Wir behandeln euch mit Respekt, dann erwarten wir ebenso Respekt uns gegenüber.
+
+Ich hoffe, wir können dieses Thema damit abschließen und neu beginnen.
+
+** Lernschiene
+:PROPERTIES:
+:CAPTURED: [2024-11-04 Mo 11:08]
+:DESCRIPTION: [[denote:20240908T214029::#h:8938bd1e-d921-4eba-a69b-9f903c3a2c67][A Klasse 2023-27::Themen]]
+:END:
+Daniel und Daniel arbeiten so gut wie gar nicht; (Wie lange haben Schüler Ziet für einen Lernjob?) sie trinken die ganze Stunde, träumen, .... es geht nichts weiter, und zwar in keinem Fach.
+
+** Langsames Arbeiten
+:PROPERTIES:
+:CAPTURED: [2024-11-18 Mo 11:17]
+:DESCRIPTION: [[denote:20240908T214029::#h:93b9aa32-18ec-4187-ba6b-8214a0f22423][A Klasse 2023-27::LS 2a:]]
+:END:
+Was mache ich bei extrem langsames Arbeiten der Schüler?
+
+Tipp: Abgabetermin angeben - "bis zur nächsten Stunde" (in der Regel ist pro Lernjob vier Stunden Zeit)

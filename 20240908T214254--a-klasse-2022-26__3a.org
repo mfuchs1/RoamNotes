@@ -27,14 +27,11 @@ Was will ich erreichen in dieser Stunde?
 Wie war RU?
 
 ** Themen
-Wer hatte letzte Stunde kein Heft:
-- Amelie
-- Jenni
-- Philipp
+Grenzenlose Freiheit / RB
 
-Den Hefteintrag der letzten Stunde ansehen;
+Sehnsucht nach Freiheit / Sklaverei
 
-Islam weiter machen (Kapitel 5); würde dieses Thema als Gruppenarbeit funktionieren? Jede Gruppe stellt einen Teil des Islam vor (mit einem Plakat).
+(Befreiender Glaube / Bartimäus)
 
 
 ** Hefteintrag
@@ -46,6 +43,29 @@ Arbeitsweg 1 - 4
 Ich komme nicht einmal dazu, Arbeitsanweisungen zu erteilen; die ersten 15 Minuten verbringe damit, fehlende UM einzutragen (die entweder nicht zu Beginn der Stunde auf dem Tisch liegen oder gar nicht da sind): Luisa, Philip, Simon, Jakob, etc. 
 
 Deshalb habe ich die Klasse in den letzten 15 Minuten schreiben lassen, werde mir das Ergebnis nächste Stunde ansehen.
+
+** Thema "Islam"
+:PROPERTIES:
+:CAPTURED: [2024-11-18 Mo 16:49]
+:DESCRIPTION: [[denote:20240717T163657::#h:b622013e-36c8-4e84-901b-35f5d8e6dbb1][Agenda::3a 12:20-13:10]]
+:CUSTOM_ID: h:88eae747-14ce-4dd0-bc93-ff9193997402
+:END:
+Ich fasse hier nochmals so einige Vorkommnisse der heutigen Stunde zusammen:
+
+Philip hat es diese Stunde mehrmals übertrieben:
+- Eigentlich sollen die Schüler ohne Tablet arbeiten; Philip konnte es dennoch nicht lassen und hat gefragt: "Wo steht die größte Muschi - äh Moscheee? Das tut mir sehr leid, Herr Fuchs, ich hab mich versprochen." Und hat diese Respektlosigkeit mehrmals während der Stunde wiederholt.
+- Auf seine Frage, wo er eine bestimmte Info finden soll, antwortete ich "... im Buch ..." Daraufhin seine Frage: "Warum haben wir dann noch Lehrer, wenn eh alles im Buch steht?" (Lehrer bleibt Spucke weg...)
+- Mehrmaliges Ermahnen zeigt keine Wirkung.
+- Konsequenz: Philip lernt ein Gedicht bis Donnerstag auswendig.
+
+Ich hab ja prinzipiell Verständnis dafür, wenn Schüler so manches Thema nicht interessiert. Und trotzdem: ein Arbeitsauftrag des Lehrers ist umzusetzen. Klingt vielleicht "militärisch", aber schließlich verlangen wir Lehrer nichts Unmenschliches, und unsere Aufträge haben wohl immer einen Bezug zum Lehrplan und zum aktuellen Stoffgebiet. Sie dienen der Festigung und Vertiefung des Stoffes.
+
+Also "Mich interessiert das NULL!" wie von Jakob mag stimmen - und doch ist der Auftrag zu erledigen.
+
+Tobias hat meinen Auftrag nur ungenügend umgesetzt: die einzelnen Punkte des Islams sollten mit eigenen Worten beschrieben werden. Tobias hat dies kaum gemacht, sondern nur die Bestandteile ohne Erklärung aufgeschrieben. Außerdem verwendete er manchmal einen hellgrünen Buntstift, den man kaum lesen kann.
+
+Natürlich kann ein Schüler (fast) jede Art von Fragen stellen, aber ... wenn ein Punkt "Symbole" heißt und gleichlautend mit einer Seite im Buch ist - dann erwarte ich mir von einem Schüler der dritten Klasse, dass er diese Seite im Buch auch findet. (Niklas)
+
 
 * Schülerliste
 #+Name: 2021-students
@@ -112,6 +132,7 @@ Deshalb habe ich die Klasse in den letzten 15 Minuten schreiben lassen, werde mi
 :EMAIL: [[mailto: Auer Philip <Auer.Philip@abtenau.schule>]]
 :EXPORT_FILE_NAME: ~/RoamNotes/exports/Philip_Auer.html
 :ID: PhilipAuer
+:CUSTOM_ID: h:ed788948-b5e5-435b-95cb-1aa86e922cd9
 :END: 
 #+Name: Note_PhilipAuer
 |-----------------------+-------+-------------+-----+-----------+------------|
@@ -120,6 +141,16 @@ Deshalb habe ich die Klasse in den letzten 15 Minuten schreiben lassen, werde mi
 |                       |       |             |     |           |            |
 #+TBLFM: $6=vmean($3..$5);%.0f
 
+*** Respektloses Verhalten
+:PROPERTIES:
+:CAPTURED: [2024-11-18 Mo 15:44]
+:DESCRIPTION: [[denote:20240717T163657::#h:b622013e-36c8-4e84-901b-35f5d8e6dbb1][Agenda::3a 12:20-13:10]]
+:END:
+Philip hat es diese Stunde mehrmals übertrieben:
+- Eigentlich sollen die Schüler ohne Tablet arbeiten; Philip konnte es dennoch nicht lassen und hat gefragt: "Wo steht die größte Muschi - äh Moscheee? Das tut mir sehr leid, Herr Fuchs, ich hab mich versprochen." Und hat diese Respektlosigkeit mehrmals während der Stunde wiederholt.
+- Auf seine Frage, wo er eine bestimmte Info finden soll, antwortete ich "... im Buch ..." Daraufhin seine Frage: "Warum haben wir dann noch Lehrer, wenn eh alles im Buch steht?" (Lehrer bleibt Spucke weg...)
+- Mehrmaliges Ermahnen zeigt keine Wirkung.
+- Konsequenz: Philip lernt ein Gedicht bis Donnerstag auswendig.
 
 ** Julian Bachler
 :PROPERTIES:
@@ -190,6 +221,15 @@ Deshalb habe ich die Klasse in den letzten 15 Minuten schreiben lassen, werde mi
 |                       |       |             |     |           |            |
 #+TBLFM: $6=vmean($3..$5);%.0f
 
+*** Desinteresse
+:PROPERTIES:
+:CAPTURED: [2024-11-18 Mo 16:41]
+:DESCRIPTION: [[denote:20240717T163657::#h:b622013e-36c8-4e84-901b-35f5d8e6dbb1][Agenda::3a 12:20-13:10]]
+:END:
+Ich hab ja prinzipiell Verständnis dafür, wenn Schüler so manches Thema nicht interessiert. Und trotzdem: ein Arbeitsauftrag des Lehrers ist umzusetzen. Klingt vielleicht "militärisch", aber schließlich verlangen wir Lehrer nichts Unmenschliches, und unsere Aufträge haben wohl immer einen Bezug zum Lehrplan und zum aktuellen Stoffgebiet. Sie dienen der Festigung und Vertiefung des Stoffes.
+
+Also "Mich interessiert das NULL!" wie von Jakob mag stimmen - und doch ist der Auftrag zu erledigen.
+
 
 ** Jana Grünwald
 :PROPERTIES:
@@ -246,6 +286,13 @@ Deshalb habe ich die Klasse in den letzten 15 Minuten schreiben lassen, werde mi
 |                       |       |             |     |           |            |
 #+TBLFM: $6=vmean($3..$5);%.0f
 
+*** Form der Mindmap
+:PROPERTIES:
+:CAPTURED: [2024-11-18 Mo 15:49]
+:DESCRIPTION: [[denote:20240717T163657::#h:b622013e-36c8-4e84-901b-35f5d8e6dbb1][Agenda::3a 12:20-13:10]]
+:END:
+Tobias hat meinen Auftrag nur ungenügend umgesetzt: die einzelnen Punkte des Islams sollten mit eigenen Worten beschrieben werden. Tobias hat dies kaum gemacht, sondern nur die Bestandteile ohne Erklärung aufgeschrieben. Außerdem verwendete er manchmal einen hellgrünen Buntstift, den man kaum lesen kann.
+
 
 ** Raphael Pirnbacher
 :PROPERTIES:
@@ -274,6 +321,12 @@ Deshalb habe ich die Klasse in den letzten 15 Minuten schreiben lassen, werde mi
 |                       |       |             |     |           |            |
 #+TBLFM: $6=vmean($3..$5);%.0f
 
+*** Es gibt Fragen und Fragen
+:PROPERTIES:
+:CAPTURED: [2024-11-18 Mo 15:53]
+:DESCRIPTION: [[denote:20240717T163657::#h:b622013e-36c8-4e84-901b-35f5d8e6dbb1][Agenda::3a 12:20-13:10]]
+:END:
+Natürlich kann ein Schüler (fast) jede Art von Fragen stellen, aber ... wenn ein Punkt "Symbole" heißt und gleichlautend mit einer Seite im Buch ist - dann erwarte ich mir von einem Schüler der dritten Klasse, dass er diese Seite im Buch auch findet.
 
 ** Amelie Reschreiter
 :PROPERTIES:

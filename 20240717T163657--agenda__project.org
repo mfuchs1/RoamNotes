@@ -133,129 +133,21 @@ Unterricht heute (10.09.) um 10:15 beenden.
 ** Freitag
 
 *** 3c 08:35-09:25                                                     :3c:
-<%%(org-class 2024 9 13 2025 7 4 5 44)>
+<%%(org-class 2024 9 13 2025 7 4 5 48)>
 [[denote:20240908T214718][C Klasse 2022-26]]
 
 *** 3b 09:40-10:30                                                     :3b:
-<%%(org-class 2024 9 13 2025 7 4 5 44)>
+<%%(org-class 2024 9 13 2025 7 4 5 48)>
 [[denote:20240908T214359][B Klasse 2022-26]]
 
 *** 4c 11:30-12:20                                                     :4c:
-<%%(org-class 2024 9 13 2025 7 4 5 44)>
+<%%(org-class 2024 9 13 2025 7 4 5)>
 [[denote:20240908T214454][C Klasse 2021-25]]
 
 *** 1a 12:20-13:10                                                     :1a:
 <%%(org-class 2024 9 13 2025 7 4 5 44)>
 [[denote:20240908T214000][A Klasse 2024-28]]
 
-* Tasks
-:PROPERTIES:
-:CATEGORY: tasks
-:END:
-
-** DONE Papagei füttern
-CLOSED: [2024-07-19 Fr 12:06] DEADLINE: <2024-07-17 Mi 18:00>
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2024-07-19 Fr 12:06]
-:END:
-
-** DONE Sport
-CLOSED: [2024-07-20 Sa 10:01] DEADLINE: <2024-07-19 Fr 16:00>
-:PROPERTIES:
-:CUSTOM_ID: h:e2d9b0f9-f9a2-48c1-bef1-bc81dec76162
-:END:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2024-07-20 Sa 10:01]
-:END:
-
-** DONE [#A] Gabriela (Abtenau) fragen bzgl Stundenplan u. Klassen
-CLOSED: [2024-07-31 Mi 17:48] DEADLINE: <2024-08-19 Mo 12:00>
-:PROPERTIES:
-:CAPTURED: [2024-07-19 Fr 16:52]
-:END:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2024-07-31 Mi 17:48]
-:END:
-
-** POSTPONED Fehlersuche zu ~consult-spotify~
-CLOSED: [2024-07-30 Di 10:56] DEADLINE: <2024-07-28 So 20:00>
-:PROPERTIES:
-:CAPTURED: [2024-07-27 Sa 00:38]
-:END:
-:LOGBOOK:
-- State "POSTPONED"  from              [2024-07-30 Di 10:56] \\
-  ~consult-spotify~: Lösung suchen + finden
-:END:
-
-[[file:~/.emacs.d/init.el::;;; consult-spotify]]
-
-Error; JSON readtable error: 60
-
-Leider hab ich bis jetzt keine Lösung für diesen Fehler gefunden; als Zwischenlösung habe ich ~consult-spotify~ deaktiviert und verwende ~smudge~ und ~espotify~. ~smudge~ kann leider weder nach Künstlern und Alben suchen. Aber ich kann innerhalb einer PLayliste das Album oder den Künstler abspielen. Mit ~espotify~ kann ich Spotify mit ~play / pause~, ~next song~ und ~previous song~ steuern - sogar den Spotify Player auf einem anderen Gerät.
-
-** DONE Lesen und Beten
-CLOSED: [2024-09-08 So 21:51] SCHEDULED: <2024-07-28 So 18:00>
-:PROPERTIES:
-:CAPTURED: [2024-07-31 Mi 18:04]
-:CUSTOM_ID: h:c0fae8df-f502-42ff-b5a8-72ce9a3ac14c
-:END:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2024-09-08 So 21:51]
-:END:
-[[file:~/.emacs.d/init.el::org-deadline-warning-days 0]]
-
-** DONE Outlook (davmail) einrichten
-CLOSED: [2024-09-09 Mo 10:33] DEADLINE: <2024-09-09 Mo 21:00>
-:PROPERTIES:
-:CAPTURED: [2024-09-09 Mo 09:22]
-:END:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2024-09-09 Mo 10:33]
-:END:
-
-Ist hinfällig, da alle offiziellen E-Mails über die aps-Adresse verschickt werden. Die abtenau.schule-Adresse dient ausschließlich für MS Teams (klappt noch nicht; Marius kümmert sich darum.)
-
-** DONE Microsoft Teams
-CLOSED: [2024-09-11 Mi 09:29] DEADLINE: <2024-09-09 Mo 22:00>
-:PROPERTIES:
-:CAPTURED: [2024-09-09 Mo 09:25]
-:END:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2024-09-11 Mi 09:29]
-:END:
-
-Erledigt! MS Teams auch auf Laptop installiert. Teams angelegt.
-
-Email: fuchs.matthias@abtenau.schule
-PW: ... as usual
-
-Anmeldung:
-- im schul-internen Netzwerk:
-  Benutzer: fuchs.matthias + PW
-  
-- Zuhause oder in jedem anderen Netzwerk
-  Benutzer: fuchs.matthias@abtenau.schule + PW
-
-** DONE Lesen und Beten
-CLOSED: [2024-09-20 Fr 07:46] DEADLINE: <2024-09-19 Do 20:00>
-:PROPERTIES:
-:CAPTURED: [2024-09-19 Do 15:44]
-:END:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2024-09-20 Fr 07:46]
-:END:
-
-** DONE [#A] Tabelle für LS erstellen                                 :home:
-CLOSED: [2024-11-16 Sa 11:03] DEADLINE: <2024-11-05 Di 21:00>
-:PROPERTIES:
-:CAPTURED: [2024-11-05 Di 09:32]
-:END:
-:LOGBOOK:
-- State "DONE"       from "TODO"       [2024-11-16 Sa 11:03]
-:END:
-
-Klassen: 1a, 1b, 1c, 1d, 2a
-LS Nummer / Titel / Abgabetermin bzw -datum
 
 * Tasks with a date
 :PROPERTIES:
@@ -277,6 +169,7 @@ Ein neuer Eintrag.
 CLOSED: [2024-09-28 Sa 23:12] DEADLINE: <2024-09-28 Sa 20:00>
 :PROPERTIES:
 :CAPTURED: [2024-09-28 Sa 15:51]
+:CUSTOM_ID: h:d3393c24-fc68-4bf5-a449-1b00f229e6c1
 :END:
 :LOGBOOK:
 - State "DONE"       from "TODO"       [2024-09-28 Sa 23:12]
@@ -377,6 +270,54 @@ CLOSED: [2024-11-16 Sa 10:18] DEADLINE: <2024-11-15 Fr 14:00>
 - State "DONE"       from "TODO"       [2024-11-16 Sa 10:18]
 :END:
 
+** DONE Sternsinger vorstellen                                      :schule:
+CLOSED: [2024-11-24 So 15:36] SCHEDULED: <2024-11-22 Fr 08:30>
+:PROPERTIES:
+:CAPTURED: [2024-11-22 Fr 07:54]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2024-11-24 So 15:36]
+:END:
+
+** DONE Sternsinger vorstellen (Mo)                                 :schule:
+CLOSED: [2024-11-26 Di 09:00] SCHEDULED: <2024-11-25 Mo 08:20>
+:PROPERTIES:
+:CAPTURED: [2024-11-22 Fr 07:55]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2024-11-26 Di 09:00]
+:END:
+
+** DONE [#A] LS Abraham Seite scannen                               :schule:
+CLOSED: [2024-11-26 Di 09:39] DEADLINE: <2024-11-25 Mo 18:00>
+:PROPERTIES:
+:CAPTURED: [2024-11-25 Mo 11:00]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2024-11-26 Di 09:39]
+:END:
+
+Seite aus RB einscannen
+
+** DONE [#A] Marie-Luise anrufen                                    :schule:
+CLOSED: [2024-11-27 Mi 14:46] SCHEDULED: <2024-11-27 Mi 13:00>
+:PROPERTIES:
+:CAPTURED: [2024-11-27 Mi 11:19]
+:CUSTOM_ID: h:a3545b0c-5047-4d93-997b-b9992157d5cd
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2024-11-27 Mi 14:46]
+:END:
+
+** DONE [#A] Fürbitten und Geschichte für Freitag                   :schule:
+CLOSED: [2024-11-27 Mi 22:10] SCHEDULED: <2024-11-27 Mi 18:00>
+:PROPERTIES:
+:CAPTURED: [2024-11-27 Mi 11:21]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2024-11-27 Mi 22:10]
+:END:
+
 
 
 * Wishlist
@@ -384,25 +325,15 @@ CLOSED: [2024-11-16 Sa 10:18] DEADLINE: <2024-11-15 Fr 14:00>
 :CATEGORY: wishlist
 :END:
 
-* Unprocessed
+* Unprocessed / Inbox / Tasks without date
 :PROPERTIES:
 :CATEGORY: unprocessed
 :END:
 
-** Ein neuer Eintrag
-:PROPERTIES:
-:CAPTURED: [2024-09-20 Fr 18:42]
-:END:
-
-** Ein weiterer Eintrag
-:PROPERTIES:
-:CAPTURED: [2024-09-28 Sa 21:35]
-:END:
-Hm, was kommt da?
-
 ** Neue Noten kopieren
 :PROPERTIES:
 :CAPTURED: [2024-10-14 Mo 22:26]
+:CUSTOM_ID: h:ff5c67a2-8aec-4409-bf33-5477e2f6c73b
 :END:
 
 [[denote:20240717T163657::#h:0828bca0-3f7a-4415-8396-d2670488db35][Agenda::1c Gitarre 13:10-14:00]]
@@ -463,8 +394,38 @@ und wo steht dieser Post?
 :PROPERTIES:
 :CAPTURED: [2024-11-12 Di 09:37]
 :END:
-
+#+begin_src emacs-lisp
 Error during redisplay: (eval (concat (prot-modeline-major-mode-indicator) " " (propertize (prot-modeline-string-truncate (prot-modeline-major-mode-name)) 'mouse-face 'mode-line-highlight 'help-echo (prot-modeline-major-mode-help-echo)))) signaled (wrong-type-argument number-or-marker-p nil) [2 times]
+#+end_src
 
 [[denote:20231115T074319::#h:cc85bc8e-1bbf-4430-90aa-8419a0a29ac2][org-gcal::Test Event]]
+
+
+** TODO [#A] Lernschiene Mappen am Ende der Stunde aufräumen        :schule:
+:PROPERTIES:
+:CAPTURED: [2024-11-21 Do 07:39]
+:CATEGORY: LS
+:CUSTOM_ID: h:3b5e1af2-9409-4123-823e-82a2d5bf471e
+:END:
+
+** TODO [#A] TA eintragen                                           :schule:
+:PROPERTIES:
+:CAPTURED: [2024-11-21 Do 09:42]
+:CATEGORY: TA
+:END:
+[[https://www.sokrates-web.at/TA_SBG/login/]]
+
+Lernstoff  und gehaltene Stunden eintragen.
+
+** Ein neuer Eintrag
+:PROPERTIES:
+:CAPTURED: [2024-11-21 Do 10:25]
+:END:
+
+** TODO [#A] PH Fortbildung anmelden                                :schule:
+:PROPERTIES:
+:CAPTURED: [2024-11-26 Di 09:37]
+:END:
+Auf PH Online suchen nach "Störungen im Unterricht"; und dann war noch eine zweite FB .... Hoffentlich finde ich beide Zettel daheim noch.
+
 
