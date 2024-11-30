@@ -25,12 +25,12 @@ http://www.veritas.at/code (rfu100)
 * Lernschiene
 [[file:~/OneDrive/Dokumente/Religion_Lernschiene/]]
 
-** Alle Themen (Überblick) [2/13]
+** Alle Themen (Überblick) [4/13]
 - [X] Der Sturm auf dem See
-- [ ] Der Sonnengesang
+- [X] Der Sonnengesang
 - [X] Heilige
-- [ ] Heilige Orte
-- [ ] Die Adventzeit
+- [X] Heilige Orte
+- [ ] Die Adventszeit
 - [ ] Beten
 - [ ] Menschen zur Zeit Jesu
 - [ ] Neues Testament
