@@ -34,18 +34,27 @@ Wie war RU?
 :PROPERTIES:
 :CUSTOM_ID: h:7d5a777c-8794-435d-9ad5-ae0d10d555b0
 :END:
-Islam weiter machen (Kapitel 5); würde dieses Thema als Gruppenarbeit funktionieren? Jede Gruppe stellt einen Teil des Islam vor (mit einem Plakat).
+Sehnsucht nach Freiheit / Sklaverei
 
-Doku über den Islam / oder das Morgenland?
+*** Befreiender Glaube / Bartimäus
 
-Nur eine kleine Änderung.
-Und noch etwas... und so weiter...
+Religionsbuch S. 56 - 57
 
-Doppelseite über Islam
-Kahoot über Islam
+[[file:Bibel/nt/Mk_10.org::v46][Mk 10,46]]-[[file:Bibel/nt/Mk_10.org::v52][52]] - [[denote:20241130T230436][Kommentar]]
 
-Sternsinger werden vorgestellt
+Was sagt, tut, ...
+- Jesus?
+- Bartimäus?
+- die Menge?
+- die Jünger?
 
+*** Oder die 10 Gebote?
+Hinführung: Tafelbild über Ägypten ... siehe RB.
+
+- 10 Gebote in die richtige Reihenfolge bringen
+- Welche drei Gebote sind deine Favoriten? Vergib drei Punkte pro Gebot.
+- Welches Gebot, welche Gebote sind die Favoriten?
+- Welches Gebot noch zusätzlich?
 
 ** Hefteintrag
 Arbeitsweg 1 - 4
@@ -82,7 +91,7 @@ Wovon spricht dann Jesus? Von Glück? Wenn nicht, warum? Gab es dieses Wort dama
 | Michael   | Seethaler    | [[Michael Seethaler][Michael Seethaler]]     |      |           |      |     |
 | Carina    | Windhofer    | [[Carina Windhofer][Carina Windhofer]]      |      |           |      |     |
 |-----------+--------------+-----------------------+------+-----------+------+-----|
-#+TBLFM: $4=vmean($5..$>);%.0f
+#+TBLFM: $4=vmean($5..$7);%.0f
 #+TBLFM: $3='(concat "[[" $1 " " $2 "][" $1 " " $2 "]]")
 #+TBLFM: $5='(identity remote(Mitarbeit,@@#$2))
 

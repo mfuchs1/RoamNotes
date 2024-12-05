@@ -17,7 +17,9 @@
 * Notizen, Tasks, Termine
 Bzgl LS Physik - viele der Versuche funktionieren kaum; oder bieten va Burschen Möglichkeiten zu Dummheiten
 
-Wer nicht Religion geht - Lerninsel im 2. Stock und in Ruhe die HÜ machen (Bsp.).
+Wer nicht Religion geht - Lerninsel im 2. Stock und in Ruhe die HÜ machen (Bsp.). 
+
+Montag, 2.12.2024: gemeinsam lesen (?)
 
 * Lernschiene
 [[file:~/OneDrive/Dokumente/Religion_Lernschiene/]]
@@ -57,38 +59,15 @@ Wie war RU?
 :PROPERTIES:
 :CUSTOM_ID: h:8938bd1e-d921-4eba-a69b-9f903c3a2c67
 :END:
+S. 56+57 Dreifaltigkeit
 
-*** Judentum - Doppelseite (?)
-:PROPERTIES:
-:CUSTOM_ID: h:21e513b3-ea65-43fa-a32d-ad8ee6b56e05
-:END:
+Hefteintrag - in den drei Grundfarben kreativ im Heft arbeiten.
 
-sauber, ordentlich, vollständig (Form!)
+Hinweise auf die Hl. Dreifaltigkeit in der Bibel:
+Gott Vater der Schöpfer; Jesus spricht von Gott als Vater; Jesus bezeichnet sich als Sohn Gottes; Taufe Jesu: Stimme des Vaters "Dies ist mein geliebter Sohn!", Hl. Geist in der Gestalt der Taube. Jesus verspricht den Jüngern, den Hl. Geist zu senden. "Tauft sie im Namen des Vaters und des Sohnes und des Heiligen Geistes." (Mt 28)
 
-- Schm'a Israel / Glaube an einen Gott 
-- Schabbat
-- Feste
-- Symbole und Gegenstände
-- Synagoge / Rabbiner
-- Bar Mizwa
-- ?
-
-https://www.religionen-entdecken.de
-
-Checker Tobi "Judentum" [[https://www.youtube.com/watch?v=I1bA-uUvBao]]
-
-Judentum: Wie lebt es sich in einer jüdischen Gemeinde? | 7 Tage | NDR  [[https://www.youtube.com/watch?v=_Q3pNOsJlr0]]
-
-Judentum - 3 kleine Dokumentationen https://www.youtube.com/watch?v=oONS7kBUNgE
-
-Übungsteil im RB
-Vergleich zwischen Christentum und Judentum
-
-Abraham / Isaak / Jakob (Stammbaum)
-
-
-*** Advent
-Maria nimmt uns alle unter ihren Mantel
+Kathmedia deutsch Dreifaltigkeit:
+(hoffentlich ist das nicht zu "hoch oder theoretisch" für die Schüler); aber Herausforderungen sind ja gut. 
 
 ** Hefteintrag
 Arbeitsweg 1 - 4
@@ -117,7 +96,7 @@ http://www.veritas.at/code (rfu300)
 | Daniel           | Spannberger  | [[Daniel Spannberger][Daniel Spannberger]]    |      |           |      |     |
 | Jonas            | Spannberger  | [[Jonas Spannberger][Jonas Spannberger]]     |      |           |      |     |
 |------------------+--------------+-----------------------+------+-----------+------+-----|
-#+TBLFM: $4=vmean($5..$>);%.0f
+#+TBLFM: $4=vmean($5..$7);%.0f
 #+TBLFM: $3='(concat "[[" $1 " " $2 "][" $1 " " $2 "]]")
 #+TBLFM: $5='(identity remote(Mitarbeit,@@#$2))
 

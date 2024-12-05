@@ -161,7 +161,7 @@ Oder: warum haben Sie den Gitarrenunterricht auf Teams angelegt? etc. Es wird ge
 | Lena      | Wallinger      | [[Lena Wallinger][Lena Wallinger]]         |      |           |      |     |
 | Mia       | Windhofer      | [[Mia Windhofer][Mia Windhofer]]          |      |           |      |     |
 |-----------+----------------+------------------------+------+-----------+------+-----|
-#+TBLFM: $4=vmean($5..$>);%.0f
+#+TBLFM: $4=vmean($5..$7);%.0f
 #+TBLFM: $3='(concat "[[" $1 " " $2 "][" $1 " " $2 "]]")
 #+TBLFM: $5='(identity remote(Mitarbeit,@@#$2))
 

@@ -44,11 +44,12 @@ Wie war RU?
 :PROPERTIES:
 :CUSTOM_ID: h:816b01d1-d309-4de2-a45e-8a1463051e5d
 :END:
-Kahoot zum Thema "Islam"
+Sklaverei?
 
-Freiheit - grenzenlos?
+Bartimäus Doppelseite im Buch (S. 56+57)
 
-Sehnsucht nach Freiheit / Sklaverei
+[[denote:20241205T095119][Weihnachtsgottesdienst]]
+
 
 ** Hefteintrag
 Arbeitsweg 1 - 4
@@ -85,7 +86,7 @@ http://www.veritas.at/code (rfu300)
 | Marlene   | Wallinger    | [[Marlene Wallinger][Marlene Wallinger]]      |      |           |      |     |
 | Jakob     | Zorec        | [[Jakob Zorec][Jakob Zorec]]            |      |           |      |     |
 |-----------+--------------+------------------------+------+-----------+------+-----|
-#+TBLFM: $4=vmean($5..$>);%.0f
+#+TBLFM: $4=vmean($5..$7);%.0f
 #+TBLFM: $3='(concat "[[" $1 " " $2 "][" $1 " " $2 "]]")
 #+TBLFM: $5='(identity remote(Mitarbeit,@@#$2))
 

@@ -400,3 +400,14 @@
 <2024-11-29 Fr 09:45-10:05>
 :END:
 
+* Supplierstunde D 2a (LS)
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3466260191080000"
+:entry-id: 8pc8bnb2q58cmtisia7uudvnu8/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2024-12-02 Mo 09:40-10:30>
+:END:
+

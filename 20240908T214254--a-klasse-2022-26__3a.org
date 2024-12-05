@@ -116,7 +116,7 @@ Natürlich kann ein Schüler (fast) jede Art von Fragen stellen, aber ... wenn e
 | Simon    | Schweighofer | [[Simon Schweighofer][Simon Schweighofer]]  |      |           |      |     |
 | Julia    | Steiner      | [[Julia Steiner][Julia Steiner]]       |      |           |      |     |
 |----------+--------------+---------------------+------+-----------+------+-----|
-#+TBLFM: $4=vmean($5..$>);%.0f
+#+TBLFM: $4=vmean($5..$7);%.0f
 #+TBLFM: $3='(concat "[[" $1 " " $2 "][" $1 " " $2 "]]")
 #+TBLFM: $5='(identity remote(Mitarbeit,@@#$2))
 

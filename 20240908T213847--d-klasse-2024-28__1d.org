@@ -23,9 +23,15 @@ http://www.veritas.at/code (rfu100)
 * Notizen, Tasks, Termine
 
 * Lernschiene
+:PROPERTIES:
+:CUSTOM_ID: h:24e88c57-fb45-4d30-bab8-f3c9f3e3cb1a
+:END:
 [[file:~/OneDrive/Dokumente/Religion_Lernschiene/]]
 
 ** Alle Themen (Überblick) [4/13]
+:PROPERTIES:
+:CUSTOM_ID: h:800f3487-a29a-47cc-9715-de1c79aad815
+:END:
 - [X] Der Sturm auf dem See
 - [X] Der Sonnengesang
 - [X] Heilige
@@ -82,7 +88,7 @@ Welt des NT / zur Zeit Jesu
 | Michael   | Schorn       | [[Michael Schorn][Michael Schorn]]       |      |           |      |     |
 | Katja     | Schwaighofer | [[Katja Schwaighofer][Katja Schwaighofer]]   |      |           |      |     |
 |-----------+--------------+----------------------+------+-----------+------+-----|
-#+TBLFM: $4=vmean($5..$>);%.0f
+#+TBLFM: $4=vmean($5..$7);%.0f
 #+TBLFM: $3='(concat "[[" $1 " " $2 "][" $1 " " $2 "]]")
 #+TBLFM: $5='(identity remote(Mitarbeit,@@#$2))
 

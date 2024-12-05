@@ -85,7 +85,7 @@ Arbeitsweg
 | Finja    | Thomüller    | [[Finja Thomüller][Finja Thomüller]]     |    0 |           |      |     |
 | Julia    | Windhofer    | [[Julia Windhofer][Julia Windhofer]]     |    0 |           |      |     |
 |----------+--------------+---------------------+------+-----------+------+-----|
-#+TBLFM: $4=vmean($5..$>);%.0f
+#+TBLFM: $4=vmean($5..$7);%.0f
 #+TBLFM: $3='(concat "[[" $1 " " $2 "][" $1 " " $2 "]]")
 #+TBLFM: $5='(identity remote(Mitarbeit,@@#$2))
 

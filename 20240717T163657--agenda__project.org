@@ -422,9 +422,13 @@ Lernstoff  und gehaltene Stunden eintragen.
 :CAPTURED: [2024-11-21 Do 10:25]
 :END:
 
-** TODO [#A] PH Fortbildung anmelden                                :schule:
+** DONE [#A] PH Fortbildung anmelden                                :schule:
+CLOSED: [2024-12-03 Di 09:31]
 :PROPERTIES:
 :CAPTURED: [2024-11-26 Di 09:37]
+:END:
+:LOGBOOK:
+- State "DONE"       from "TODO"       [2024-12-03 Di 09:31]
 :END:
 Auf PH Online suchen nach "Störungen im Unterricht"; und dann war noch eine zweite FB .... Hoffentlich finde ich beide Zettel daheim noch.
 

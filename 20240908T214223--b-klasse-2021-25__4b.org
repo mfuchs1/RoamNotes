@@ -36,21 +36,24 @@ etc...
 The Chosen TV
 
 *** Weihnachten / Advent
-Seite über Advent gestalten - Bräuche, Traditionen, ...
+Die Kinder werden mich wohl auf die gestrige Stunde ansprechen; was sage ich wohl. Auf jeden Fall nichts "böses" über meine Vorgesetzte.
 
-Wer erfand den Adventskranz? kurz erzählen.
-Was brauchst du, um dich auf Weihnachten zu besinnen zu können?
+Etwas mehr fordern sollte ich sie schon?
 
-Adventskranz mit vier Kerzen (Freude / Hoffnung, Frieden, Glaube, Liebe)
-Schreibe dazu, wem du in diesem Advent eine Freude bereiten willst?
-Kennst du jemanden, der verzweifelt ist - wie kannst du ihm helfen?
-Wo kannst du zu Frieden beitragen?
-Was kannst du tun, um deinen Glauben zu stärken?
-Kennst du jemanden, der alleine / einsam ist?
+Das kleine Mädchen Hoffnung
+Artikel drucken
+(Charles Péguy)
 
-Advent: wir warten auf das Kommen des Messias, auf das Kommen Jesu. Weihnachten: Gott kommt zu uns, er wird Mensch. Das Wunder von Weihnachten. Wo und wie können wir uns auf dieses Kommen vorbereiten?
-
-(Adventskranz ausdrucken / oder selbst zeichnen lassen)
+Der Glaube, der mir am liebsten ist, spricht Gott, das ist die Hoffnung.
+Der Glaube erstaunt mich nicht, er ist nicht erstaunlich. Ich leuchte ja so stark in meiner Schöpfung auf.
+Die Liebe, sagt Gott, erstaunt mich nicht. Sie ist nicht erstaunlich. Diese armen Geschöpfe sind so unglücklich, wie sollten sie da – es sei denn sie hätten ein Herz aus Stein – nicht Erbarmen miteinander haben.
+Die Hoffnung, spricht Gott, die erstaunt mich jedoch. Selbst mich. Es ist wirklich erstaunlich, dass sie, diese armen Kinder, sehen, wie alles geschieht, und glauben, morgen werde es besser gehen, dass sie sehen, was heute passiert und glauben, morgen werde es besser sein.
+Das ist erstaunlich und wahrlich das größte Wunder unserer Gnade. Darüber muss ich selbst staunen. Da muß meine Gnade wirklich unglaublich mächtig sein, wie eine Quelle fließen und wie ein unerschöpflicher Strom.
+Diese kleine Hoffnung schreitet zwischen ihren beiden großen Schwestern voran, und man beachtet sie gar nicht recht. Ja sie schreitet voran auf dem Weg des Heils, dem des Fleisches, auf dem holprigen Weg des Heils, dem endlosen, immer zwischen ihren beiden Schwestern. Aber es ist sie, diese kleine, die alles mitreißt.
+Denn der Glaube sieht nur, was ist. Sie aber schaut, was sein wird.
+Die Liebe wendet sich nur dem zu, was ist. Sie aber sieht, was sein wird.
+Der Glaube erblickt, was in Zeit und Ewigkeit ist. Die Hoffnung schaut jedoch, was in Zeit und Ewigkeit sein wird. Man könnte sagen: in die Zukunft der Ewigkeit selbst.
+Diese kleine Hoffnung, die nach so gar nichts aussieht. Dieses kleine Mädchen Hoffnung. Die Unsterbliche.“
 
 *** Bibelstellen über Gottes Liebe
 - Psalm 23 haben die Schüler schon gemacht
@@ -62,6 +65,14 @@ Advent: wir warten auf das Kommen des Messias, auf das Kommen Jesu. Weihnachten:
 - Joh 15,9-17
 - 1 Joh 4,7-5,13
 - 1 Joh 3,1-3
+
+
+*** Sakramente
+"Überraschenderweise" wussten die Kinder nicht viel über die Sakramente; im Heft stand auch nichts darüber. Also hab ich quasi von vorne angefangen (so wie im Religionsbuch der 2. Klasse):
+- Was ist ein Zeichen? Was ist ein Symbol?
+- In den Sakramenten handelt Gott an uns, er verändert uns.
+- Und den Rest der Stunde über die Taufe: Symbol, Spender, wirksame Worte, Lebensbezug (upps - hab ich vergessen; egal nächste Stunde kommt das als Nachtrag).
+- Ja, war etwas frontal, aber die nächsten Stunde werde ich die Schüler mehr alleine arbeiten lassen.
 
 ** Hefteintrag
 Arbeitsweg 1 - 5
@@ -92,7 +103,7 @@ http://www.veritas.at/code (rfu426) für Material und Übungen
 | Lara      | Schmidt      | [[Lara Schmidt][Lara Schmidt]]         |      |           |      |     |
 | Celina    | Schörghofer  | [[Celina Schörghofer][Celina Schörghofer]]   |      |           |      |     |
 |-----------+--------------+----------------------+------+-----------+------+-----|
-#+TBLFM: $4=vmean($5..$>);%.0f
+#+TBLFM: $4=vmean($5..$7);%.0f
 #+TBLFM: $3='(concat "[[" $1 " " $2 "][" $1 " " $2 "]]")
 #+TBLFM: $5='(identity remote(Mitarbeit,@@#$2))
 
