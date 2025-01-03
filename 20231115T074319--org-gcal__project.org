@@ -7,91 +7,7 @@
 
 * Klavierstunde Leopold
 :PROPERTIES:
-:ETag:     "3462333010842000"
-:LOCATION: Leonhard-von-Keutschach-Straße, 5020 Salzburg, Österreich
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 7l1nrhsr987hud1mup52dceq81_20241018T124500Z/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2024-10-18 Fr 14:45-15:15>
-:END:
-
-* Klavierstunde Leopold
-:PROPERTIES:
-:ETag:     "3462333010842000"
-:LOCATION: Leonhard-von-Keutschach-Straße, 5020 Salzburg, Österreich
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 7l1nrhsr987hud1mup52dceq81_20241025T124500Z/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2024-10-25 Fr 14:45-15:15>
-:END:
-
-* Klavierstunde Leopold
-:PROPERTIES:
-:ETag:     "3462333010842000"
-:LOCATION: Leonhard-von-Keutschach-Straße, 5020 Salzburg, Österreich
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 7l1nrhsr987hud1mup52dceq81_20241101T134500Z/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2024-11-01 Fr 14:45-15:15>
-:END:
-
-* Klavierstunde Leopold
-:PROPERTIES:
-:ETag:     "3462333010842000"
-:LOCATION: Leonhard-von-Keutschach-Straße, 5020 Salzburg, Österreich
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 7l1nrhsr987hud1mup52dceq81_20241108T134500Z/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2024-11-08 Fr 14:45-15:15>
-:END:
-
-* Klavierstunde Leopold
-:PROPERTIES:
-:ETag:     "3462333010842000"
-:LOCATION: Leonhard-von-Keutschach-Straße, 5020 Salzburg, Österreich
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 7l1nrhsr987hud1mup52dceq81_20241115T134500Z/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2024-11-15 Fr 14:45-15:15>
-:END:
-
-* Klavierstunde Leopold
-:PROPERTIES:
-:ETag:     "3462333010842000"
-:LOCATION: Leonhard-von-Keutschach-Straße, 5020 Salzburg, Österreich
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 7l1nrhsr987hud1mup52dceq81_20241122T134500Z/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2024-11-22 Fr 14:45-15:15>
-:END:
-
-* Klavierstunde Leopold
-:PROPERTIES:
-:ETag:     "3462333010842000"
-:LOCATION: Leonhard-von-Keutschach-Straße, 5020 Salzburg, Österreich
-:calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 7l1nrhsr987hud1mup52dceq81_20241129T134500Z/matthiasfuchs01@gmail.com
-:org-gcal-managed: gcal
-:END:
-:org-gcal:
-<2024-11-29 Fr 14:45-15:15>
-:END:
-
-* Klavierstunde Leopold
-:PROPERTIES:
-:ETag:     "3462333010842000"
+:ETag:     "3467345788942000"
 :LOCATION: Leonhard-von-Keutschach-Straße, 5020 Salzburg, Österreich
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 7l1nrhsr987hud1mup52dceq81_20241206T134500Z/matthiasfuchs01@gmail.com
@@ -103,7 +19,7 @@
 
 * Klavierstunde Leopold
 :PROPERTIES:
-:ETag:     "3462333010842000"
+:ETag:     "3467345788942000"
 :LOCATION: Leonhard-von-Keutschach-Straße, 5020 Salzburg, Österreich
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 7l1nrhsr987hud1mup52dceq81_20241213T134500Z/matthiasfuchs01@gmail.com
@@ -113,31 +29,9 @@
 <2024-12-13 Fr 14:45-15:15>
 :END:
 
-* Konferenz
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3459763464574000"
-:entry-id: 55993fepcccbh5gs0ksbche5mo/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2024-10-23 Mi 14:00-17:00>
-:END:
-
-* Supplierstunde 3c M (mit Thomas Daxinger)
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3462333010388000"
-:entry-id: sjv8na2kibk46otutfcmdqtjcc/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2024-11-04 Mo 08:35-09:25>
-:END:
-
 * Klavierstunde Leopold
 :PROPERTIES:
-:ETag:     "3462333010842000"
+:ETag:     "3467345788942000"
 :LOCATION: Leonhard-von-Keutschach-Straße, 5020 Salzburg, Österreich
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 7l1nrhsr987hud1mup52dceq81_20241220T134500Z/matthiasfuchs01@gmail.com
@@ -147,79 +41,9 @@
 <2024-12-20 Fr 14:45-15:15>
 :END:
 
-* Beten und Lesen
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3461245029142000"
-:entry-id: v2rj15etje4hkiti8cnd3sr5co/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2024-10-26 Sa 20:00-21:00>
-:END:
-
-* Omi abholen - E-Piano kaufen
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3461245031146000"
-:entry-id: eg74kguvm6pko27vltu4779unk/matthiasfuchs01@gmail.com
-:CUSTOM_ID: h:90a6d737-2266-4991-81f1-ee19ba2f28b4
-:END:
-:org-gcal:
-<2024-10-30 Mi 09:00-10:00>
-:END:
-
-* Allerheiligen Striezel abholen
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3461245030534000"
-:entry-id: gpe7o53823q4j7atahf1bvsk64/matthiasfuchs01@gmail.com
-:CUSTOM_ID: h:8106e670-4867-4f15-a073-5ff580c197bc
-:END:
-:org-gcal:
-<2024-10-31 Do 08:30-09:30>
-:END:
-
-* Dacia Duster abholen - unser neues Auto!
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3461245030068000"
-:entry-id: ce9eh6oo693gvl4gar8mm9801g/matthiasfuchs01@gmail.com
-:CUSTOM_ID: h:c5410356-baf9-4e04-8b24-95733665e343
-:END:
-:org-gcal:
-<2024-10-31 Do 14:00-15:00>
-:END:
-
-* Striezel zu Veronika bringen
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3461245028946000"
-:entry-id: j0o5t80apsiumhkogfjanboslg/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2024-10-31 Do 15:00-16:00>
-:END:
-
-* Klavierunterricht Leopold
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3461245028710000"
-:entry-id: 46g1vspmitv1510qfcbq6r88dg/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2024-10-30 Mi 15:00-15:30>
-:END:
-
-
 * Klavierstunde Leopold
 :PROPERTIES:
-:ETag:     "3462333010842000"
+:ETag:     "3467345788942000"
 :LOCATION: Leonhard-von-Keutschach-Straße, 5020 Salzburg, Österreich
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 7l1nrhsr987hud1mup52dceq81_20241227T134500Z/matthiasfuchs01@gmail.com
@@ -229,66 +53,9 @@
 <2024-12-27 Fr 14:45-15:15>
 :END:
 
-* Hl. Messe (Blasius oder Franziskaner)
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3462367358602000"
-:entry-id: 1k2nhf656dmg25tse1rqi85ntg/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2024-11-10 So 18:00-20:00>
-:END:
-
-* Supplierstunde 3c D (mit Eva Thomanek)
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3462798505742000"
-:entry-id: mi6t7s81inikg34330259t3tpk/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2024-11-14 Do 09:40-10:30>
-:END:
-
-* Lesen und Beten
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3462799119626000"
-:entry-id: 4bvjm2jkdh8nf14eitc4tspssk/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2024-11-12 Di 20:00-21:00>
-:END:
-
-* Schlafen gehen
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3462800278734000"
-:entry-id: 5igu4h0tvhcmlvb9q879t9m8m0/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2024-11-12 Di 22:00-22:30>
-:END:
-
-* Test Event
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3462800659202000"
-:entry-id: 3eam54rcrm7c8qkb7m0rc8vt88/matthiasfuchs01@gmail.com
-:CUSTOM_ID: h:cc85bc8e-1bbf-4430-90aa-8419a0a29ac2
-:END:
-:org-gcal:
-<2024-11-13 Mi 22:00-22:30>
-:END:
-
-
 * Klavierstunde Leopold
 :PROPERTIES:
-:ETag:     "3462333010842000"
+:ETag:     "3467345788942000"
 :LOCATION: Leonhard-von-Keutschach-Straße, 5020 Salzburg, Österreich
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 7l1nrhsr987hud1mup52dceq81_20250103T134500Z/matthiasfuchs01@gmail.com
@@ -300,7 +67,7 @@
 
 * Klavierstunde Leopold
 :PROPERTIES:
-:ETag:     "3462333010842000"
+:ETag:     "3467345788942000"
 :LOCATION: Leonhard-von-Keutschach-Straße, 5020 Salzburg, Österreich
 :calendar-id: matthiasfuchs01@gmail.com
 :entry-id: 7l1nrhsr987hud1mup52dceq81_20250110T134500Z/matthiasfuchs01@gmail.com
@@ -310,104 +77,266 @@
 <2025-01-10 Fr 14:45-15:15>
 :END:
 
-* Isabelle und Leopold abholen
+* Supplierstunde 3b BUB
 :PROPERTIES:
-:ETag:     "3463178381348000"
 :calendar-id: matthiasfuchs01@gmail.com
-:entry-id: 64s6acr574rjib9l65ijcb9k6hhm2bb264rjab9hc4o3ipho6gp38ohkck/matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3467346333546000"
+:entry-id: aldn8n2jbgvgco8222c3ft667s/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2024-12-11 Mi 09:40-10:30>
+:END:
+
+* Supplierstunde 3c D
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3467346422130000"
+:entry-id: 7cpkd5q4a8eje763ojm75u89as/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2024-12-12 Do 09:40-10:30>
+:END:
+
+* Supplierstunde 4c MU
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3468336822452000"
+:entry-id: bijfos8e8nhj8qs707qmbgqsjs/matthiasfuchs01@gmail.com
+:CUSTOM_ID: h:2ad058f2-6bed-416d-a627-59f6bb7aa753
+:END:
+:org-gcal:
+<2024-12-16 Mo 09:40-10:30>
+:END:
+
+* Supplierstunde 3b E
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3469028160574000"
+:entry-id: pfhlf8hf3ih2j1tnk1i2itregs/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2024-12-18 Mi 10:30-11:20>
+:END:
+
+* Weihnachtsgottesdienst MMS Abtenau
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3468337553364000"
+:entry-id: 3kg49h2r9jjumbh9mvva6j5ab4/matthiasfuchs01@gmail.com
+:CUSTOM_ID: h:ed5c7681-c656-4f4f-a9ca-a69cde69c15c
+:END:
+:org-gcal:
+<2024-12-20 Fr 08:00-09:00>
+:END:
+
+* Kurzkonferenz
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3468337682142000"
+:entry-id: oucg0v600gd92sq30m647t087k/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2024-12-20 Fr 11:30-12:30>
+:END:
+
+* Hl. Messe (Salzburg Dom)
+:PROPERTIES:
+:calendar-id: matthiasfuchs01@gmail.com
+:org-gcal-managed: org
+:ETag:     "3468508134606000"
+:entry-id: 6iurin0b61vma60kv3j46rc528/matthiasfuchs01@gmail.com
+:END:
+:org-gcal:
+<2024-12-15 So 11:30-12:30>
+:END:
+
+
+* Geburtstag Leopold (2017)
+:PROPERTIES:
+:ETag:     "3152352526060000"
+:TRANSPARENCY: transparent
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: clgjiopm70o32bb475h3eb9kc4sj6b9p64sjebb36ko66p9m6os6ad9n64_20250210/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
 :END:
 :org-gcal:
-<2024-11-14 Do 16:30-17:00>
+<2025-02-10 Mo>
 :END:
 
-* Elternabend Erstkommunion Leopold
+* Geburtstag Gabriel (2012)
 :PROPERTIES:
-:ETag:     "3463178426972000"
+:ETag:     "3417927616376000"
 :calendar-id: matthiasfuchs01@gmail.com
-:entry-id: cksjap366opmcb9l6lijgb9k6hh38bb264p6cb9pcpgm6eb6c8s32ohl64/matthiasfuchs01@gmail.com
+:entry-id: cksjee9gc4rjibb46gsm8b9k61i3abb174q3gbb174pj4e1p64o38dhi70_20250212/matthiasfuchs01@gmail.com
 :org-gcal-managed: gcal
 :END:
 :org-gcal:
-<2024-11-14 Do 19:30-20:30>
+<2025-02-12 Mi>
 :END:
 
-* Konferenz November
+* Vorstellungsgottesdienst Erstkommunion Leopold
+:PROPERTIES:
+:ETag:     "3463222239022000"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 75gj8c1n6kp3ebb3cdj3ib9kcphj2bb26kr64b9o60r38e1hc9ijic3160/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2025-02-02 So 09:00-10:00>
+:END:
+
+* Tischmütter Treffen
+:PROPERTIES:
+:ETag:     "3463223339758000"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 6gq6ae346kpmabb4coo3gb9kcpi32bb2cpgj4bb16tij0c9k6th30or4co/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2025-01-15 Mi 19:30-20:30>
+:END:
+
+* Vati hat Geburtstag
+:PROPERTIES:
+:ETag:     "3466911494844000"
+:TRANSPARENCY: transparent
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 869vnbc6tdge50c32oujia2r50_20250131/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2025-01-31 Fr>
+:END:
+
+* Elternsprechtag Abtenau
+:PROPERTIES:
+:ETag:     "3467345788574000"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 6kpjicr5ckom8bb36ko6cb9k6gqm6b9pclhmabb2chim6p1kcorm6e9pcc/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2024-12-04 Mi 15:00-18:00>
+:END:
+
+* Klavierstunde Leopold
+:PROPERTIES:
+:ETag:     "3467345788942000"
+:LOCATION: Leonhard-von-Keutschach-Straße, 5020 Salzburg, Österreich
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 7l1nrhsr987hud1mup52dceq81_20250117T134500Z/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2025-01-17 Fr 14:45-15:15>
+:END:
+
+* Klavierstunde Leopold
+:PROPERTIES:
+:ETag:     "3467345788942000"
+:LOCATION: Leonhard-von-Keutschach-Straße, 5020 Salzburg, Österreich
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 7l1nrhsr987hud1mup52dceq81_20250124T134500Z/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2025-01-24 Fr 14:45-15:15>
+:END:
+
+* Klavierstunde Leopold
+:PROPERTIES:
+:ETag:     "3467345788942000"
+:LOCATION: Leonhard-von-Keutschach-Straße, 5020 Salzburg, Österreich
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 7l1nrhsr987hud1mup52dceq81_20250131T134500Z/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2025-01-31 Fr 14:45-15:15>
+:END:
+
+* Klavierstunde Leopold
+:PROPERTIES:
+:ETag:     "3467345788942000"
+:LOCATION: Leonhard-von-Keutschach-Straße, 5020 Salzburg, Österreich
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 7l1nrhsr987hud1mup52dceq81_20250207T134500Z/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2025-02-07 Fr 14:45-15:15>
+:END:
+
+* Klavierstunde Leopold
+:PROPERTIES:
+:ETag:     "3467345788942000"
+:LOCATION: Leonhard-von-Keutschach-Straße, 5020 Salzburg, Österreich
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 7l1nrhsr987hud1mup52dceq81_20250214T134500Z/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2025-02-14 Fr 14:45-15:15>
+:END:
+
+* Weihnachtsfeier Gabriel
+:PROPERTIES:
+:ETag:     "3468823842930000"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: cgsm2d1jchhj4bb6ccq38b9kc9j66b9p74ojebb364r3ip9p60o66dhh60/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2024-12-18 Mi 19:00-20:00>
+:END:
+
+* Adventfeier Leopold VS Grödig
+:PROPERTIES:
+:ETag:     "3468825101494000"
+:calendar-id: matthiasfuchs01@gmail.com
+:entry-id: 6go68c9o6ph6ab9kckrm6b9k6gojeb9o6kq68bb275im8cj16so3cc3168/matthiasfuchs01@gmail.com
+:org-gcal-managed: gcal
+:END:
+:org-gcal:
+<2024-12-17 Di 16:30-18:00>
+:END:
+
+* Besuch Klaus + Genevieve (Mittagessen)
 :PROPERTIES:
 :calendar-id: matthiasfuchs01@gmail.com
 :org-gcal-managed: org
-:ETag:     "3465130820702000"
-:entry-id: 4242ur7nregcn1epcogu84immc/matthiasfuchs01@gmail.com
+:ETag:     "3471453448900000"
+:entry-id: iuvlfjvnmojvfb04ddqoivt9rg/matthiasfuchs01@gmail.com
 :END:
 :org-gcal:
-<2024-11-26 Di 15:50-17:50>
+<2025-01-01 Mi 13:00-15:00>
 :END:
 
-* Supplierstunde 4c M
+* Kino Cineplexx "Sonic 3"
 :PROPERTIES:
 :calendar-id: matthiasfuchs01@gmail.com
 :org-gcal-managed: org
-:ETag:     "3465141269952000"
-:entry-id: qcsagoqvhmr0roc59m1op3dstg/matthiasfuchs01@gmail.com
-:CUSTOM_ID: h:764921dd-89b8-4e59-b9f0-a44b76ebacab
+:ETag:     "3471280527702000"
+:entry-id: ap5nr2j4pirjh39f0009i77his/matthiasfuchs01@gmail.com
 :END:
 :org-gcal:
-<2024-11-28 Do 09:40-10:30>
+<2024-12-31 Di 18:15-20:15>
 :END:
 
-* Supplierstunde 1c E
+* ASZ Grödig
 :PROPERTIES:
 :calendar-id: matthiasfuchs01@gmail.com
 :org-gcal-managed: org
-:ETag:     "3465141389362000"
-:entry-id: b2scc0qvo6c9k8uvkq7utp5ma0/matthiasfuchs01@gmail.com
-:CUSTOM_ID: h:181f86be-6809-417c-a096-17e4c26de4bb
+:ETag:     "3471794619868000"
+:entry-id: 2bnf40ua92hqpunphu17oc9eqg/matthiasfuchs01@gmail.com
 :END:
 :org-gcal:
-<2024-11-29 Fr 08:35-09:25>
-:END:
-
-* Supplierstunde 1b M
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3465141492070000"
-:entry-id: gt8du0u4tgt7kfcca84k1d9cbk/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2024-11-29 Fr 09:40-10:30>
-:END:
-
-* Supplierstunde 1b KUG
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3465724245244000"
-:entry-id: 2fnkl21jngsjah0iu810n2ofek/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2024-11-29 Fr 10:30-11:20>
-:END:
-
-* Adventskranzweihe
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3465725789588000"
-:entry-id: 4105jpi600jp9d8ihu7jduqfdc/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2024-11-29 Fr 09:45-10:05>
-:END:
-
-* Supplierstunde D 2a (LS)
-:PROPERTIES:
-:calendar-id: matthiasfuchs01@gmail.com
-:org-gcal-managed: org
-:ETag:     "3466260191080000"
-:entry-id: 8pc8bnb2q58cmtisia7uudvnu8/matthiasfuchs01@gmail.com
-:END:
-:org-gcal:
-<2024-12-02 Mo 09:40-10:30>
+<2025-01-03 Fr 14:00-15:00>
 :END:
 

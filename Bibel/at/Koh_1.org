@@ -1,18 +1,17 @@
-:PROPERTIES:
-:ID:       dc8de7b0-d0aa-4488-83f7-7442ba71ea7d
-:END:
-<<navbar>>
-[[../index.html][Einheitsübersetzung der Heiligen Schrift (1980)
-[Quadro-Bibel 5.0]]] -- *Das Buch Kohelet* -- *1* [[file:Koh_2.html][2]]
-[[file:Koh_3.html][3]] ... [[file:Koh_12.html][12]]
-
---------------
+#+TITLE: Koh 1 
+#+AUTHOR: Matthias Fuchs
+#+EMAIL: matthiasfuchs01@gmail.com
+#+DATE: [2024-12-20 Fr 18:34]
+#+LANGUAGE: de
+#+BIBLIOGRAPHY: ~/RoamNotes/references/Literatur.bib
+#+SETUPFILE: ~/RoamNotes/config/latex_setup.org
+#+ATTR_LATEX: :environment tabularx :placement [h] :center t :width linewidth
+#+OPTIONS: toc:nil
+#+STARTUP: fnadjust
+#+STARTUP: showall
+#+export_file_name: ~/RoamNotes/exports/Koh 1.html
 
 * Koh 1
-  :PROPERTIES:
-  :CUSTOM_ID: koh-1
-  :END:
-
 Das Buch Kohelet wurde um die Mitte des 3. Jahrhunderts v. Chr.
 geschrieben. Der Verfasser, der sich selbst Kohelet nennt, ist uns nicht
 bekannt. Palästina gehörte damals zum Ptolemäerreich. Es war die Zeit
@@ -80,40 +79,30 @@ Geschichte verbinden.\\
 <<verses>>
 
 <<v1>>
-** Buchtitel: 1,1
-   :PROPERTIES:
-   :CUSTOM_ID: buchtitel-11
-   :END:
-1 Worte Kohelets, des Davidsohnes, der König in Jerusalem war.
-^{[[#fn1][1]]}\\
+* Buchtitel: 1,1
+1 Worte Kohelets, des Davidsohnes, der König in Jerusalem war. [fn:1]
+\\
 \\
 
 <<v2>>
-** Vorspruch: 1,2-3
-   :PROPERTIES:
-   :CUSTOM_ID: vorspruch-12-3
-   :END:
+* Vorspruch: 1,2-3
 2 Windhauch, Windhauch, sagte Kohelet, Windhauch, Windhauch, das ist
-alles Windhauch. ^{[[#fn2][2]]}
+alles Windhauch. [fn:2]
 
 <<v3>>
 3 Welchen Vorteil hat der Mensch von all seinem Besitz, für den er sich
-anstrengt unter der Sonne? ^{[[#fn3][3]][[#fn4][4]]}\\
+anstrengt unter der Sonne? [fn:3] [fn:4]\\
 \\
 
 <<v4>>
-** Wechsel, Dauer und Vergessen: 1,4-11
-   :PROPERTIES:
-   :CUSTOM_ID: wechsel-dauer-und-vergessen-14-11
-   :END:
+* Wechsel, Dauer und Vergessen: 1,4-11
 4 Eine Generation geht, eine andere kommt. /\\
- Die Erde steht in Ewigkeit. ^{[[#fn5][5]]}\\
+ Die Erde steht in Ewigkeit. [fn:5]\\
 \\
 
 <<v5>>
 5 Die Sonne, die aufging und wieder unterging, /\\
- atemlos jagt sie zurück an den Ort, wo sie wieder aufgeht.
-^{[[#fn6][6]]}\\
+ atemlos jagt sie zurück an den Ort, wo sie wieder aufgeht. [fn:6]\\
 \\
 
 <<v6>>
@@ -132,39 +121,32 @@ anstrengt unter der Sonne? ^{[[#fn3][3]][[#fn4][4]]}\\
 8 Alle Dinge sind rastlos tätig, /\\
  kein Mensch kann alles ausdrücken, nie wird ein Auge satt, wenn es
 beobachtet, /\\
- nie wird ein Ohr vom Hören voll. ^{[[#fn7][7]][[#fn8][8]]}\\
+ nie wird ein Ohr vom Hören voll. [fn:7] [fn:8]\\
 \\
 
 <<v9>>
 9 Was geschehen ist, wird wieder geschehen, /\\
  was man getan hat, wird man wieder tun: /\\
- Es gibt nichts Neues unter der Sonne. ^{[[#fn9][9]][[#fn10][10]]}\\
+ Es gibt nichts Neues unter der Sonne. [fn:9] [fn:10]\\
 \\
 
 <<v10>>
 10 Zwar gibt es bisweilen ein Ding, von dem es heißt: /\\
  Sieh dir das an, das ist etwas Neues - /\\
- aber auch das gab es schon in den Zeiten, die vor uns gewesen sind.
-^{[[#fn11][11]]}\\
+ aber auch das gab es schon in den Zeiten, die vor uns gewesen sind. [fn:11]\\
 \\
 
 <<v11>>
 11 Nur gibt es keine Erinnerung an die Früheren /\\
  und auch an die Späteren, die erst kommen werden, auch an sie wird es
 keine Erinnerung geben /\\
- bei denen, die noch später kommen werden. ^{[[#fn12][12]]}\\
+ bei denen, die noch später kommen werden. [fn:12]\\
 \\
 
 <<v12>>
-** Die Bedingtheit des Menschen - die Undurchschaubarkeit Gottes: 1,12 -
-3,15
-   :PROPERTIES:
-   :CUSTOM_ID: die-bedingtheit-des-menschen---die-undurchschaubarkeit-gottes-112---315
-   :END:
-**** Drei Überblicke: 1,12 - 2,2
-     :PROPERTIES:
-     :CUSTOM_ID: drei-überblicke-112---22
-     :END:
+* Die Bedingtheit des Menschen - die Undurchschaubarkeit Gottes: 1,12 - 3,15
+   
+* Drei Überblicke: 1,12 - 2,2
 12 Ich, Kohelet, war in Jerusalem König über Israel. ^{[[#fn13][13]]}
 
 <<v13>>
@@ -201,37 +183,6 @@ dass auch dies ein Luftgespinst ist. ^{[[#fn19][19]]}\\
  wer das Können mehrt, der mehrt die Sorge. ^{[[#fn20][20]]}\\
 \\
 
-^{[[#fnm1][1]]} ℘ 1,12; Spr 1,1; 1 Kön 8,1
-
-^{[[#fnm2][2]]} ℘ 12,8; Ijob 7,16; Ps 39,6; 62,10; Röm 8,20
-
-^{[[#fnm3][3]]} ℘ 2,11.18-22; 3,9; 5,15.17; 9,9
-
-^{[[#fnm4][4]]} Besitz, für den er sich anstrengt: ein Leitmotiv des
-Buches; in H ein Wortspiel. Das Wort für «Besitz» meint sowohl die
-menschliche Arbeit, die den Besitz hervorbringt, als auch den durch die
-Arbeit und Mühe erworbenen Besitz selbst.
-
-^{[[#fnm5][5]]} ℘ Sir 14,18; (4-11) 3,11-15
-
-^{[[#fnm6][6]]} Nach dem antiken Weltbild muss die Sonne nachts
-unterhalb der Erdscheibe wieder zum östlichen Horizont zurückkehren.
-
-^{[[#fnm7][7]]} ℘ 5,9; 8,17; Spr 27,20
-
-^{[[#fnm8][8]]} Alle Dinge sind rastlos tätig, andere
-Übersetzungsmöglichkeit: Alle Worte sind überanstrengt.
-
-^{[[#fnm9][9]]} ℘ 3,15; 6,10; 4,13-16
-
-^{[[#fnm10][10]]} Dass es «nichts Neues unter der Sonne» gibt, ist
-entgegen unserer Empfindung eine positive Aussage.
-
-^{[[#fnm11][11]]} 10cd: Andere Übersetzungsmöglichkeit: aber schon seit
-Ewigkeiten hat es das gegeben, was sich vor unseren Augen ereignet hat.
-
-^{[[#fnm12][12]]} ℘ 2,16; 9,5
-
 ^{[[#fnm13][13]]} 1,12 - 3,15: In diesem Teil des Buches spielt der
 Verfasser in literarischer Fiktion die Rolle eines Königs.
 
@@ -249,3 +200,36 @@ nach Luft. So auch später, wenn dieses Wort wiederkommt.
 ^{[[#fnm19][19]]} ℘ 2,12; 7,25; 8,16f
 
 ^{[[#fnm20][20]]} ℘ 2,23; 5,16; Spr 22,15
+
+* Footnotes
+
+[fn:1] 1,12; Spr 1,1; 1 Kön 8,1
+
+[fn:2] 12,8; Ijob 7,16; Ps 39,6; 62,10; Röm 8,20
+
+[fn:3] 2,11.18-22; 3,9; 5,15.17; 9,9
+
+[fn:4] Besitz, für den er sich anstrengt: ein Leitmotiv des
+Buches; in H ein Wortspiel. Das Wort für «Besitz» meint sowohl die
+menschliche Arbeit, die den Besitz hervorbringt, als auch den durch die
+Arbeit und Mühe erworbenen Besitz selbst.
+
+[fn:5] Sir 14,18; (4-11) 3,11-15
+
+[fn:6] Nach dem antiken Weltbild muss die Sonne nachts
+unterhalb der Erdscheibe wieder zum östlichen Horizont zurückkehren.
+
+[fn:7] 5,9; 8,17; Spr 27,20
+
+[fn:8] Alle Dinge sind rastlos tätig, andere
+Übersetzungsmöglichkeit: Alle Worte sind überanstrengt.
+
+[fn:9] 3,15; 6,10; 4,13-16
+
+[fn:10] Dass es «nichts Neues unter der Sonne» gibt, ist
+entgegen unserer Empfindung eine positive Aussage.
+
+[fn:11] 10cd: Andere Übersetzungsmöglichkeit: aber schon seit
+Ewigkeiten hat es das gegeben, was sich vor unseren Augen ereignet hat.
+
+[fn:12] 2,16; 9,5

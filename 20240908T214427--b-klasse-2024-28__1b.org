@@ -19,12 +19,12 @@
 * Lernschiene
 [[file:~/OneDrive/Dokumente/Religion_Lernschiene/]]
 
-** Alle Themen [3/13]
+** Alle Themen [5/13]
 - [X] Der Sturm auf dem See
 - [X] Der Sonnengesang
 - [X] Heilige
-- [ ] Heilige Orte
-- [ ] Die Adventszeit
+- [X] Heilige Orte
+- [X] Die Adventszeit
 - [ ] Beten
 - [ ] Menschen zur Zeit Jesu
 - [ ] Neues Testament
@@ -55,23 +55,7 @@ AB etc kopieren (ohne Tablet arbeiten)
 :PROPERTIES:
 :CUSTOM_ID: h:3b3c9a4a-a80b-4224-8891-c4b2a6362f67
 :END:
-
-*** Jesus, der Mensch
-Welche Quellen sind für dich vertrauenswürdig, wenn du etwas wissen willst?
-
-Welche Fakten können wir über Jesus anhand der beiden Quellen wissen?
-Welche Unterschiede, welche Gemeinsamkeiten (ins Heft, Tabelle)?
-
-Also: Hat Jesus wirklich gelebt?
-
-*** Jesus, der Christus
-Welche Titel können wir Personen geben? Was sagen sie über die Personen aus?
-
-Welche Beschreibung, welcher Titel passt dir am besten für Jesus? Findest Du andere?
-
-Wie wird Christus auf dieser Seite dargestellt?
-
-Gestalte dein eigenes Bild / eigene Darstellung von Jesus *Christus*.
+Übungsteil / Film "Schulweg"
 
 ** Hefteintrag
 Arbeitsweg
